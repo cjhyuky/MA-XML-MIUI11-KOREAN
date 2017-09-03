@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label">프로세스 pid를 읽도록 허용</string>
+    <string name="desc">READPROC</string>
+</resources>
