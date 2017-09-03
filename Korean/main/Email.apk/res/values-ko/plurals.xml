@@ -39,11 +39,23 @@
     <plurals name="conversation_spammed">
         <item quantity="other">%1$d개 대화를 스팸으로 리포트하였습니다.</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d일</item>
+    </plurals>
+    <plurals name="day_after">
+        <item quantity="other">%d일 후</item>
+    </plurals>
+    <plurals name="day_before">
+        <item quantity="other">%d일 전</item>
+    </plurals>
     <plurals name="draft">
         <item quantity="other">작성 중인 글</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d개의 메시지가 영구적으로 삭제될 것입니다.</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">%d개월</item>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">%1$d개 대화 이동</item>
