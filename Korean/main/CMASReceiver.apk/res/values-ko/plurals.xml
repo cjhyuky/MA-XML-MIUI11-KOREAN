@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d개가 선택됨</item>
+        <item quantity="one">%d개가 선택됨</item>
+    </plurals>
+    <plurals name="confirm_delete_broadcast">
+        <item quantity="other">%1$s개의 선택된 경고 메시지가 삭제됩니다</item>
+        <item quantity="one">1개의 선택된 경고 메시지가 삭제됩니다</item>
+    </plurals>
+</resources>
