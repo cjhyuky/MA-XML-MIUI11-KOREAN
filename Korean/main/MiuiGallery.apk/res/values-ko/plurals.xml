@@ -55,10 +55,10 @@
         <item quantity="other">추가된 사진 중 %d장의 클라우드 사진이 포함되어 있습니다. \"로컬 앨범에만 표시\"를 끄셔서 확인하실 수 있습니다.</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
-        <item quantity="other">%2$s의 %1$d개 사진을 삭제하시겠습니까?</item>
+        <item quantity="other">%2$s %1$d개 사진을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
-        <item quantity="other">%2$s의 %1$d개 동영상을 삭제하시겠습니까?</item>
+        <item quantity="other">%2$s %1$d개 동영상을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
         <item quantity="other">%2$s의 %1$d개 항목을 삭제하시겠습니까?</item>
@@ -124,7 +124,7 @@
         <item quantity="other">%1$d개 파일 다운로드 실패</item>
     </plurals>
     <plurals name="download_retry_message">
-        <item quantity="other">%1$d개 파일을 다운로드할 수 없습니다. 네트워크 연결을 확인한 뒤에 다시 시도 하세요</item>
+        <item quantity="other">%1$d개 파일을 다운로드할 수 없습니다. 네트워크 연결을 확린한 뒤에 다시 시도 하십시오.</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d개 항목 선택됨</item>

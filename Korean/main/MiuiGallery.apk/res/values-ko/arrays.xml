@@ -12,6 +12,14 @@
         <item>외할아버지</item>
         <item>외할머니</item>
     </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>아버지</item>
+        <item>어머니</item>
+        <item>친할아버지</item>
+        <item>친할머니</item>
+        <item>외할아버지</item>
+        <item>외할머니</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>나</item>
         <item>어린이</item>
