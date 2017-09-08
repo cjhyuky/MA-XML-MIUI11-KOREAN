@@ -2,10 +2,10 @@
 <resources>
     <string name="sina_share_pendding">전송 중…</string>
     <string name="sina_share_success">전송됨</string>
-    <string name="sina_share_fail">전송에 실패하였습니다.</string>
-    <string name="sina_token_expired_warning">Weibo 계정이 만료되었습니다. 계정을 다시 연동하십시오.</string>
-    <string name="sina_token_invalid_warning">Weibo 계정이 유효하지 않습니다. 계정을 다시 연동하십시오.</string>
-    <string name="sina_share_fail_content_repeat">공유에 실패하였습니다. 콘텐트가 이미 존재합니다.…</string>
+    <string name="sina_share_fail">전송 실패</string>
+    <string name="sina_token_expired_warning">Weibo 계정이 만료되었습니다. 계정을 다시 추가하십시오.</string>
+    <string name="sina_token_invalid_warning">Weibo 계정이 잘못되었습니다. 계정을 다시 추가하십시오.</string>
+    <string name="sina_share_fail_content_repeat">이 항목은 이미 공유되어 있습니다.</string>
     <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">노트;메모</string>
     <string name="search_path_notes">시스템 앱/메모</string>
@@ -70,6 +70,10 @@
     <string name="dialog_share_title">메모 공유</string>
     <string name="dialog_share_as_text">메모를 텍스트로 공유</string>
     <string name="dialog_share_as_pic">메모를 사진으로 공유</string>
+    <string name="note_description_title">메모 정보</string>
+    <string name="note_description_content">메모 앱은 당신의 아이디어를 기록할 수 있는 좋은 도구입니다. 언제 어디서나 Mi 클라우드를 통해서 동기화된 항목들에 접근할 수 있으며 미리알려드릴 수 있습니다. 앱 삭제 전 이러한 기능들을 사용할 수 없게 된다는 점을 유의하십시오.</string>
+    <string name="db_downgrade_clear_date_reminder">MIUI 버전 전환을 위해 표기된 로컬 데이터 제거가 요구됩니다. Mi 클라우드의 표기된 항목 백업 기능이 켜져있는지 확인하십시오.</string>
+    <string name="db_downgrade_clear_button">앱 데이터 지우기</string>
     <string name="app_name">메모</string>
     <string name="app_widget">메모</string>
     <string name="widget_havenot_content">탭하여 메모 생성, 위젯을 길게 눌러 사이즈 변경.</string>
@@ -97,13 +101,13 @@
     <string name="menu_send_weibo">Weibo로 전송</string>
     <string name="info_note_enter_desktop">홈 화면에 추가됨</string>
     <string name="all_terms">%1$s 그리고 %2$s</string>
-    <string name="alert_title_delete">메모를 삭제하시겠습니까?</string>
+    <string name="alert_title_delete">Delete note</string>
     <string name="alert_message_delete">%1$s을(를) 삭제하시겠습니까?</string>
     <string name="alert_message_delete_note">이 메모를 삭제하시겠습니까?</string>
     <string name="format_move_notes_to_folder">%1$s에서 %2$s(으)로 이동됨</string>
     <string name="format_move_notes_out_folder">%1$s에서 이동되었음</string>
     <string name="format_move_note_to_folder">%1$s로 이동됨</string>
-    <string name="format_move_note_out_folder">Moved out</string>
+    <string name="format_move_note_out_folder">메모가 이동되었습니다.</string>
     <string name="alert_title_edit_anyway">이 메모엔 지원하지 않는 내용이 포함되어 있습니다.</string>
     <string name="alert_message_edit_anyway">이 메모를 수정하실 경우, 일부 내용이 유실될 수도 있습니다.</string>
     <string name="alert_action_edit_anyway">계속 편집</string>
@@ -168,4 +172,30 @@
  - 미리 알림 설정"</string>
     <string name="cloud_trash_bin_title">Mi 클라우드 메모 삭제</string>
     <string name="done">완료</string>
+    <string name="menu_add_description">메모 추가</string>
+    <string name="action_mode_switcher_list_description">목록 보기</string>
+    <string name="action_mode_switcher_grid_description">격자 보기</string>
+    <string name="action_folder_description">폴더 보기</string>
+    <string name="action_settings_description">설정 열기</string>
+    <string name="menu_add_folder_description">폴더 추가</string>
+    <string name="toolbar_share_description">이 메모 공유</string>
+    <string name="toolbar_theme_description">테마 선택</string>
+    <string name="toolbar_delete_description">이 메모 삭제</string>
+    <string name="toolbar_more_description">더 보기</string>
+    <string name="toolbar_undo_description">되돌리기</string>
+    <string name="toolbar_redo_description">디시 실행</string>
+    <string name="toolbar_gallery_description">이미지 추가</string>
+    <string name="toolbar_check_description">확인란 추가</string>
+    <string name="edit_header_home_description">뒤로</string>
+    <string name="theme_white_description">화이트</string>
+    <string name="theme_yellow_description">옐로우</string>
+    <string name="theme_blue_description">블루</string>
+    <string name="theme_green_description">그린</string>
+    <string name="theme_red_description">레드</string>
+    <string name="set_alarm_description">알람 설정</string>
+    <string name="cancel_alarm_description">알람 취소</string>
+    <string name="edit_header_done_description">완료</string>
+    <string name="refuse_to_share_as_pic_because_of_content">이 메모는 공유하기에 너무 큽니다.</string>
+    <string name="refuse_to_share_as_pic_because_of_loading">불러오는 중에는 공유를 할 수 없습니다.</string>
+    <string name="toast_reach_text_limit_checkbox">"Can't add checkbox because note is too long"</string>
 </resources>
