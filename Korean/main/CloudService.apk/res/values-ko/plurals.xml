@@ -42,4 +42,10 @@
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d개 차단 목록</item>
     </plurals>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">%d시간 후 동기화 계속</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">%d분 후 동기화 계속</item>
+    </plurals>
 </resources>
