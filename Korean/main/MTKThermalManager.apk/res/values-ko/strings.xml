@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTK 과열 관리자</string>
+    <string name="coolers">쿨러</string>
+    <string name="thermal_sensors">과열 센서</string>
+    <string name="thermal_protection">과열 보호</string>
+    <string name="thermal_policy_file_colon">"과열 정책 파일: "</string>
+    <string name="apply_new_thermal_policy">새 과열 정책 적용</string>
+    <string name="tz_device_info">TZ 기기 정보</string>
+    <string name="thermal_logger">온도 기록</string>
+    <string name="alert_dialog_two_buttons_title">과열 경고!</string>
+    <string name="alert_dialog_two_buttons_message">즉시 전화기를 냉각시켜야 합니다!</string>
+    <string name="alert_dialog_ok">확인</string>
+    <string name="alert_dialog_cancel">취소</string>
+</resources>
