@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="enabled_for_pad_entries">
+        <item>비활성화</item>
+        <item>활성화됨</item>
+        <item>일시적으로 가로 모드로 표시</item>
+    </string-array>
     <string-array name="motion_behavior_entries">
         <item>스와이프</item>
         <item>탭</item>
