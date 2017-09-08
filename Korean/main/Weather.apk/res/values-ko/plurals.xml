@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">%1$s일 일기예보</item>
+    </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">%d분 전</item>
     </plurals>
@@ -11,5 +14,17 @@
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">맑음</item>
+    </plurals>
+    <plurals name="total_voted_num_text">
+        <item quantity="other">"&amp;lt;font color='#20a7ff'>%1$s&amp;lt;/font> 명의 사람들이 투표했습니다"</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s 명</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s 명 | </item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s 초 후 피드백</item>
     </plurals>
 </resources>
