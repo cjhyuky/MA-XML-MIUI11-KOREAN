@@ -31,8 +31,8 @@
     <string name="HIPS_Perm_AudioRecorder_Desc">오디오 및 전화 통화 녹음</string>
     <string name="HIPS_Perm_Mobile_Connectivity">모바일 데이터 연결 변경</string>
     <string name="HIPS_Perm_Mobile_Connectivity_Desc">모바일 데이터 켜기 또는 끄기</string>
-    <string name="HIPS_Perm_WIFI_Connectivity">WLAN 연결 변경</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Desc">WLAN 켜기 또는 끄기</string>
+    <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi 연결 변경</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Wi-Fi 켜기 또는 끄기</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">블루투스 연결 변경</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">블루투스 켜기 또는 끄기</string>
     <string name="HIPS_Perm_AutoStart">부팅 시 실행</string>
