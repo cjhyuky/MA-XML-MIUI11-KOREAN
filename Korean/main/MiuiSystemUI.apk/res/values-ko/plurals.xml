@@ -4,10 +4,25 @@
         <item quantity="other">%d개의 최근 앱</item>
         <item quantity="one">최근에 사용한 앱 1개</item>
     </plurals>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">최근 실행한 사용가능한 앱: %d</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">최근 실행한 사용가능한 앱: %d. 위로 스와이프하여 제거, 아래로 스와이프하여 잠금 해제.</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d toggles will be shown in the Notification shade</item>
+    </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">%d개 앱의 알림을 숨기시겠습니까?</item>
     </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">%1$s &amp;amp; %2$d개 앱의 알림을 숨기는 중</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">맑음</item>
+    </plurals>
+    <plurals name="fold_tips_title">
+        <item quantity="other">%d unimportant notifications</item>
     </plurals>
 </resources>
