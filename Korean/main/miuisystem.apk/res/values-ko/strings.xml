@@ -119,6 +119,7 @@
     <string name="carousel">Carousel</string>
     <string name="toyrobot">ToyRobot</string>
     <string name="daydream">Daydream</string>
+    <string name="miclassic">Mi 클래식</string>
     <string name="cta_permission_delimiter">, </string>
     <string name="cta_permission_and"> 및 </string>
     <string name="cta_title">이용 약관</string>
