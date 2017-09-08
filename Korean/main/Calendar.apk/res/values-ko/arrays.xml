@@ -1,24 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="change_response_labels">
+        <item>이번 일정만</item>
+        <item>모든 반복 일정</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>이 일정만</item>
+        <item>이번 및 향후 일정</item>
+        <item>모든 일정</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>처음</item>
+        <item>2번째</item>
+        <item>3번째</item>
+        <item>4번째</item>
+        <item>마지막</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>항상</item>
+        <item>벨소리가 무음일 때만</item>
+        <item>안함</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>기본 지역</item>
+        <item>토요일</item>
+        <item>일요일</item>
+        <item>월요일</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>응답 없음</item>
+        <item>예</item>
+        <item>미정</item>
+        <item>아니요</item>
+    </string-array>
     <string-array name="timezone_labels">
-        <item>마셜 제도</item>
-        <item>미드웨이 제도</item>
+        <item>마셜제도</item>
+        <item>미드웨이</item>
         <item>하와이</item>
         <item>알래스카</item>
-        <item>태평양 표준시</item>
+        <item>태평양 시간</item>
         <item>티후아나</item>
-        <item>애리조나</item>
+        <item>아리조나</item>
         <item>치와와</item>
-        <item>산지 표준시</item>
-        <item>중앙 아메리카</item>
+        <item>산악 시간</item>
+        <item>중앙아메리카</item>
         <item>중부 표준시</item>
-        <item>멕시코시티</item>
+        <item>멕시코 시티</item>
         <item>서스캐처원</item>
-        <item>보고타</item>
-        <item>동부 표준시</item>
+        <item>Bogota</item>
+        <item>서부 표준시</item>
         <item>베네수엘라</item>
-        <item>대서양(바베이도스)</item>
-        <item>대서양(캐나다)</item>
+        <item>대서양 표준시 (바르바도스)</item>
+        <item>대서양 표준시 (캐나다)</item>
         <item>마나우스</item>
         <item>산티아고</item>
         <item>뉴펀들랜드</item>
@@ -26,17 +59,17 @@
         <item>부에노스아이레스</item>
         <item>그린란드</item>
         <item>몬테비데오</item>
-        <item>중부-대서양</item>
+        <item>중앙 대서양</item>
         <item>아조레스</item>
-        <item>카보베르데 제도</item>
+        <item>카보베르데제도</item>
         <item>카사블랑카</item>
         <item>런던, 더블린</item>
         <item>암스테르담, 베를린</item>
-        <item>베오그라드</item>
+        <item>베그라드</item>
         <item>브뤼셀</item>
         <item>사라예보</item>
         <item>빈트후크</item>
-        <item>서아프리카 시간대</item>
+        <item>서아프리카 표준시</item>
         <item>암만, 요르단</item>
         <item>아테네, 이스탄불</item>
         <item>베이루트, 레바논</item>
@@ -57,12 +90,12 @@
         <item>카불</item>
         <item>이슬라마바드, 카라치</item>
         <item>우랄스크</item>
-        <item>에카테린부르크</item>
-        <item>콜카타</item>
+        <item>예카테린부르크</item>
+        <item>캘커타</item>
         <item>스리랑카</item>
         <item>카트만두</item>
         <item>아스타나</item>
-        <item>양곤</item>
+        <item>랑군</item>
         <item>크라스노야르스크</item>
         <item>방콕</item>
         <item>베이징</item>
@@ -86,34 +119,32 @@
         <item>피지</item>
         <item>통가</item>
     </string-array>
-    <string-array name="ordinal_labels">
-        <item>처음</item>
-        <item>2번째</item>
-        <item>3번째</item>
-        <item>4번째</item>
-        <item>마지막</item>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>물병자리</item>
+        <item>1/20 - 2/18</item>
     </string-array>
-    <string-array name="response_labels1">
-        <item>응답 없음</item>
-        <item>예</item>
-        <item>미정</item>
-        <item>아니요</item>
+    <string-array name="aries_info">
+        <item>양자리</item>
+        <item>양자리</item>
+        <item>3/21 - 4/19</item>
     </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>이 일정만</item>
-        <item>이번 및 향후 일정</item>
-        <item>모든 일정</item>
+    <string-array name="cancer_info">
+        <item>게자리</item>
+        <item>게자리</item>
+        <item>6/22 - 7/22</item>
     </string-array>
-    <string-array name="change_response_labels">
-        <item>이번 일정만</item>
-        <item>모든 반복 일정</item>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>염소자리</item>
+        <item>12/22 - 1/19</item>
     </string-array>
-    <string-array name="widget_style_list">
-        <item>투명도</item>
-        <item>흰색 배경</item>
+    <string-array name="date_calculate_spinner">
+        <item>앞으로</item>
+        <item>뒤로</item>
     </string-array>
     <string-array name="default_reminder_labels">
-        <item>일정 시간에</item>
+        <item>활동 시작 전</item>
         <item>5분 전</item>
         <item>10분 전</item>
         <item>15분 전</item>
@@ -123,35 +154,25 @@
         <item>2일 전</item>
         <item>1주 전</item>
     </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>기본 로케일</item>
-        <item>토요일</item>
-        <item>일요일</item>
-        <item>월요일</item>
+    <string-array name="gemini_info">
+        <item>쌍둥이자리</item>
+        <item>쌍둥이자리</item>
+        <item>5/21 - 6/21</item>
     </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>항상</item>
-        <item>벨소리가 무음일 때만</item>
-        <item>안함</item>
+    <string-array name="leo_info">
+        <item>사자자리</item>
+        <item>사자자리</item>
+        <item>7/23 - 8/22</item>
     </string-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>3시간 전</item>
-        <item>4시간 전</item>
-        <item>5시간 전</item>
-        <item>6시간 전</item>
-        <item>1일 전</item>
+    <string-array name="libra_info">
+        <item>천칭자리</item>
+        <item>천칭자리</item>
+        <item>9/23 - 10/23</item>
     </string-array>
-    <string-array name="repeat_frequency_spinner">
-        <item>일</item>
-        <item>주</item>
-        <item>월</item>
-        <item>년</item>
-    </string-array>
-    <string-array name="repeat_frequency_spinner_plural">
-        <item>일</item>
-        <item>주</item>
-        <item>월</item>
-        <item>년</item>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>물고기자리</item>
+        <item>2/19 - 3/20</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1번째</item>
@@ -186,14 +207,10 @@
         <item>30번째</item>
         <item>31번째</item>
     </string-array>
-    <string-array name="repeat_choose_weekday">
-        <item>월</item>
-        <item>화</item>
-        <item>수</item>
-        <item>목</item>
-        <item>금</item>
-        <item>토</item>
-        <item>일</item>
+    <string-array name="repeat_choose_end">
+        <item>하지 않음</item>
+        <item>시간</item>
+        <item>개수</item>
     </string-array>
     <string-array name="repeat_choose_month">
         <item>1월</item>
@@ -221,10 +238,105 @@
         <item>주말</item>
         <item>평일</item>
     </string-array>
-    <string-array name="repeat_choose_end">
+    <string-array name="repeat_choose_weekday">
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+        <item>일</item>
+    </string-array>
+    <string-array name="repeat_countdown">
         <item>하지 않음</item>
-        <item>시간</item>
-        <item>개수</item>
+        <item>매월</item>
+        <item>매년</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>일</item>
+        <item>주</item>
+        <item>월</item>
+        <item>년</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>사수자리</item>
+        <item>사수자리</item>
+        <item>11/23 - 12/21</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>전갈자리</item>
+        <item>전갈자리</item>
+        <item>10/24 - 11/22</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>황소자리</item>
+        <item>황소자리</item>
+        <item>4/20 - 5/20</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3시간 전</item>
+        <item>4시간 전</item>
+        <item>5시간 전</item>
+        <item>6시간 전</item>
+        <item>1일 전</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>처녀자리</item>
+        <item>처녀자리</item>
+        <item>8/23 - 9/22</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>일</item>
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>투명도</item>
+        <item>흰색 배경</item>
+    </string-array>
+    <string-array name="availability">
+        <item>바쁨</item>
+        <item>한가함</item>
+        <item>미정</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>일</item>
+        <item>주</item>
+        <item>월</item>
+        <item>일정목록</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>이번 및 향후 일정</item>
+        <item>모든 일정</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>없음</item>
+        <item>0분</item>
+        <item>1분</item>
+        <item>5분</item>
+        <item>10분</item>
+        <item>15분</item>
+        <item>20분</item>
+        <item>25분</item>
+        <item>30분</item>
+        <item>45분</item>
+        <item>1시간</item>
+        <item>2시간</item>
+        <item>3시간</item>
+        <item>12시간</item>
+        <item>24시간</item>
+        <item>2일</item>
+        <item>1주</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>조금 늦음.</item>
+        <item>약 10분 후에 도착</item>
+        <item>저 없이 시작하세요.</item>
+        <item>죄송합니다. 일정을 변경해야 합니다.</item>
     </string-array>
     <string-array name="reminder_methods_labels">
         <item>알림</item>
@@ -250,49 +362,9 @@
         <item>2일</item>
         <item>1주</item>
     </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>없음</item>
-        <item>0분</item>
-        <item>1분</item>
-        <item>5분</item>
-        <item>10분</item>
-        <item>15분</item>
-        <item>20분</item>
-        <item>25분</item>
-        <item>30분</item>
-        <item>45분</item>
-        <item>1시간</item>
-        <item>2시간</item>
-        <item>3시간</item>
-        <item>12시간</item>
-        <item>24시간</item>
-        <item>2일</item>
-        <item>1주</item>
-    </string-array>
-    <string-array name="availability">
-        <item>바쁨</item>
-        <item>한가함</item>
-        <item>미정</item>
-    </string-array>
     <string-array name="visibility">
         <item>기본값</item>
         <item>비공개</item>
         <item>공개</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>이번 및 향후 일정</item>
-        <item>모든 일정</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>일</item>
-        <item>주</item>
-        <item>월</item>
-        <item>일정목록</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>조금 늦음.</item>
-        <item>약 10분 후에 도착</item>
-        <item>저 없이 시작하세요.</item>
-        <item>죄송합니다. 일정을 변경해야 합니다.</item>
     </string-array>
 </resources>
