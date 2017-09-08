@@ -38,6 +38,7 @@
     <string name="battery_not_allowed" formatted="false">배터리가 3% 보다 낮을시 녹화할 수 없습니다. 최소 20% 이상 충전해주십시오.</string>
     <string name="low_memory_title">저장 공간 부족</string>
     <string name="low_memory">사용 가능한 저장공간이 200MB 보다 작습니다. 최대 5분 정도 녹화할 수 있습니다.</string>
+    <string name="low_memory_dior">사용 가능한 저장공간이 500MB 보다 작습니다. 최대 12분 정도 녹화할 수 있습니다.</string>
     <string name="memory_not_allowed">사용 가능한 저장공간이 없습니다. 녹화를 위해 저장공간을 확보하십시오.</string>
     <string name="auto_stop_title">동영상 저장 성공</string>
     <string name="low_battery_warning">배터리가 너무 적습니다. 녹화를 중지하시고 동영상을 저장하십시오.</string>
@@ -60,6 +61,7 @@
     <string name="stop_by_second_space">공간을 전환하시면 녹화가 중지될 것입니다.</string>
     <string name="cannot_change_parames">녹화 중에는 매개 변수를 변경할 수 없습니다.</string>
     <string name="cannot_record">녹화할 수 없습니다. 나중에 재시도해 주십시오.</string>
+    <string name="frequently_click_toast">서비스 설치 중, 잠시만 기다려 주십시오.</string>
     <string name="no_sound">무음</string>
     <string name="mic_sound">마이크</string>
     <string name="loopback_sound">스피커</string>
