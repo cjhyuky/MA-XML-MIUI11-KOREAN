@@ -8,7 +8,6 @@
     <string name="label_paper_size">용지 크기</string>
     <string name="label_paper_size_summary">용지 크기:</string>
     <string name="label_color">색상</string>
-    <string name="label_duplex">양면</string>
     <string name="label_orientation">방향</string>
     <string name="label_pages">페이지</string>
     <string name="template_all_pages">%1$s페이지 모두</string>
