@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">태블릿 검색</string>
+    <string name="corpus_name_summons">태블릿</string>
+    <string name="search_sources">태블릿 검색</string>
+    <string name="no_summons_found">"태블릿에
+검색결과가 없습니다."</string>
+    <string name="hands_free_unlock_device">Google 음성검색을 수행하려면 태블릿의 잠금을 해제하세요.</string>
+    <string name="icing_manage_storage_summary">앱에서 사용할 검색엔진을 제공하여 태블릿에서의 검색을 강화합니다.</string>
+</resources>
