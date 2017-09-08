@@ -8,20 +8,20 @@
     </string-array>
     <string-array name="search_category_rbds_entries">
         <item>모든 방송국</item>
-        <item>인기곡</item>
+        <item>인기</item>
         <item>클래식</item>
         <item>클래식 락</item>
-        <item>대학교</item>
+        <item>캠퍼스</item>
         <item>국가</item>
         <item>긴급 통화</item>
-        <item>긴급 통화 테스트</item>
+        <item>긴급 테스트</item>
         <item>외국어</item>
         <item>정보</item>
         <item>재즈</item>
         <item>뉴스</item>
-        <item>회상 음악</item>
+        <item>복고</item>
         <item>추억의 음악</item>
-        <item>개인</item>
+        <item>개인 맞춤</item>
         <item>대중</item>
         <item>종교 음악</item>
         <item>설교</item>
@@ -38,32 +38,32 @@
     <string-array name="search_category_rds_entries">
         <item>모든 방송국</item>
         <item>문화</item>
-        <item>시사</item>
-        <item>어린이 프로그램</item>
+        <item>현재 토픽</item>
+        <item>어린이</item>
         <item>컨트리 뮤직</item>
         <item>다큐멘터리</item>
         <item>드라마</item>
-        <item>듣기 쉬운 음악</item>
+        <item>경음악</item>
         <item>교육</item>
         <item>긴급 통화</item>
-        <item>긴급 통화 테스트</item>
+        <item>긴급 테스트</item>
         <item>금융</item>
-        <item>민속 음악</item>
+        <item>포크 음악</item>
         <item>정보</item>
         <item>재즈 음악</item>
         <item>가벼운 클래식</item>
         <item>레저</item>
         <item>뉴스</item>
-        <item>국가 음악</item>
-        <item>기타 음악</item>
+        <item>전통 포크 뮤직</item>
+        <item>기타</item>
         <item>추억의 음악</item>
-        <item>내 폰에 저장된 음악</item>
+        <item>휴대전화 채널</item>
         <item>팝 음악</item>
         <item>종교</item>
         <item>락 음악</item>
         <item>과학</item>
-        <item>진지한 클래식</item>
-        <item>사회 문제</item>
+        <item>클래식</item>
+        <item>사회</item>
         <item>스포츠</item>
         <item>여행</item>
         <item>다양</item>
