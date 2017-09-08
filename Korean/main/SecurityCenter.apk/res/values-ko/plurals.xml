@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fw_blocked_count_call">
-        <item quantity="other">%d 통화</item>
+        <item quantity="other">%d개의 통화</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
-        <item quantity="other">%d 메시지</item>
+        <item quantity="other">%d개 메시지</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">다른 사용자 %d명은 이것에 다음과 같이 표시함:</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d개 키워드</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d개 번호</item>
     </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">%d개 앱의 데이터 사용량 추적 안 함</item>
@@ -12,8 +21,16 @@
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">%d개 앱의 데이터 사용량 추적하기</item>
     </plurals>
-    <plurals name="hints_install_apps_interval">
-        <item quantity="other">%d일 전 사용됨</item>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d개 앱</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">%s 일일 데이터 제한을 이미 모두 사용하셨습니다.</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"%s 일일 데이터 제한을 이미 모두 사용하셨습니다.
+
+모바일 데이터를 더 사용하시면 추가 요금이 부가될 것입니다."</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">%d개 앱 검색</item>
@@ -27,6 +44,9 @@
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d개 앱 발견됨</item>
     </plurals>
+    <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">%d개 앱이 제대로 작동하지 않으며 배터리를 소모합니다.</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">%d 일u0020</item>
     </plurals>
@@ -37,7 +57,7 @@
         <item quantity="other">"%d 분 "</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
-        <item quantity="other">%1$d분 안에</item>
+        <item quantity="other">%1$d분 후</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
         <item quantity="other">%d개 배터리 문제 해결됨</item>
@@ -51,26 +71,41 @@
     <plurals name="quick_optimize_suggest_issue_found">
         <item quantity="other">%d개 배터리 문제를 발견하였습니다. 문제를 해결하십시오.</item>
     </plurals>
-    <plurals name="app_check_title_text">
-        <item quantity="other">%d개 항목 최적화 가능</item>
-    </plurals>
     <plurals name="people">
         <item quantity="other">%1$d명의 사람이 다운로드함</item>
     </plurals>
     <plurals name="people_million">
         <item quantity="other">%1$d명의 사람이 다운로드함</item>
     </plurals>
-    <plurals name="million">
-        <item quantity="other">%1$d명의 사람이 다운로드함</item>
-    </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d 조회</item>
+        <item quantity="other">%1$d 뷰</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">%d개의 바이러스와 안전하지 않은 앱을 발견했습니다.</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">%d개의 비공식 앱을 발견했습니다.</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d개 항목</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s개 지불 앱 보호됨</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s개 앱 보호되고 있음</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s개 앱 보호되고 있지 않음</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d개 항목 안전</item>
     </plurals>
     <plurals name="cache_check_content">
         <item quantity="other">%d개 앱 보호 중</item>
+    </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">%d개 바이러스 정리됨</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d 앱 자동 시작 가능</item>
@@ -90,8 +125,17 @@
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">%d개의 앱 루트 권한 없음</item>
     </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d개 예외</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">%d일 동안 통신사 데이터 사용량 통계가 동기화되지 않았습니다.</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">%d개 앱 업데이트 가능</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">마지막 확인으로부터 %d일</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d개 위협,</item>
@@ -99,35 +143,14 @@
     <plurals name="hints_handle_item_text_virus_number">
         <item quantity="other">%d개 트로이 목마,</item>
     </plurals>
-    <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d개 위협</item>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">위험한 앱: %d</item>
     </plurals>
-    <plurals name="hints_scan_result_danger">
-        <item quantity="other">%d개 위협 발견, 지금 고치세요</item>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">트로잔: %d</item>
     </plurals>
-    <plurals name="virus_clean_num">
-        <item quantity="other">%1$d개 위험요소를 정리했습니다. 안전해보입니다.</item>
-    </plurals>
-    <plurals name="notification_apps">
-        <item quantity="other">%d개 앱이 개인정보 보안을 위협하고 있습니다.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">비밀번호는 최소 %d개의 문자가 포함되어야 합니다.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">비밀번호는 최소 %d개의 소문자가 포함되어야 합니다.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">비밀번호는 최소 %d개의 대문자가 포함되어야 합니다.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">비밀번호는 최소 %d개의 숫자가 포함되어야 합니다.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">비밀번호는 최소 %d개의 기호가 포함되어야 합니다.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">비밀번호는 최소 %d개의 기타 문자가 포함되어야 합니다.</item>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"%d초 후 다시 시도하십시오. "</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d개 앱 잠김</item>
@@ -141,21 +164,6 @@
     <plurals name="found_apps_title">
         <item quantity="other">%d개 앱 발견됨</item>
     </plurals>
-    <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d개 항목</item>
-    </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s개 지불 위험</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_count">
-        <item quantity="other">%s개 지불 앱 보호됨</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">%s개 앱 보호되고 있음</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">%s개 앱 보호되고 있지 않음</item>
-    </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d개 잠긴 앱이 정리를 기다리고 있습니다</item>
     </plurals>
@@ -168,34 +176,31 @@
     <plurals name="add_game_notification_title">
         <item quantity="other">%d개 게임 추가됨</item>
     </plurals>
-    <plurals name="app_manager_apps_generation_title">
-        <item quantity="other">%d개 앱의 업데이트 사용 가능</item>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">%d 권한 허용됨</item>
     </plurals>
-    <plurals name="app_manager_permission_read_contact">
-        <item quantity="other">연락처 %d회 접근됨</item>
-    </plurals>
-    <plurals name="app_manager_permission_call_phone">
-        <item quantity="other">통화 %d회 걸림</item>
-    </plurals>
-    <plurals name="app_manager_permission_send_mms">
-        <item quantity="other">%d개 SMS 전송됨</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_mms">
-        <item quantity="other">SMS %d회 읽음</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_record">
-        <item quantity="other">통화 기록 %d회 읽음</item>
-    </plurals>
-    <plurals name="app_manager_permission_read">
-        <item quantity="other">%d회 접근됨</item>
-    </plurals>
-    <plurals name="app_manager_permission_manager_summary">
-        <item quantity="other">%d개 권한 부여됨</item>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">%d 권한 요청</item>
     </plurals>
     <plurals name="app_manager_start_count">
         <item quantity="other">%d회</item>
     </plurals>
     <plurals name="app_manager_reject_count">
         <item quantity="other">%d회 차단됨</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">%d일 전 사용됨</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">%d개월 전 사용됨</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">%d년 전 사용됨</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d개 게임 추가됨</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">%d개 게임 추가되지 않음</item>
     </plurals>
 </resources>

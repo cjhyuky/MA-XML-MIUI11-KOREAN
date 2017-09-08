@@ -28,20 +28,6 @@
         <item>오늘 Wi-Fi</item>
         <item>이번 달 Wi-Fi</item>
     </string-array>
-    <string-array name="date_of_app">
-        <item>어제 (데이터)</item>
-        <item>오늘 (데이터)</item>
-        <item>이번 달(데이터)</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
-        <item>3초</item>
-        <item>4초</item>
-        <item>5초</item>
-        <item>6초</item>
-        <item>7초</item>
-        <item>8초</item>
-        <item>9초</item>
-    </string-array>
     <string-array name="traffic_type">
         <item>"모바일 사용량 "</item>
         <item>"Wi-Fi 사용량 "</item>
@@ -50,21 +36,9 @@
         <item>"모바일 사용량 "</item>
         <item>"Wi-Fi 사용량 "</item>
     </string-array>
-    <string-array name="traffic_sort_type">
-        <item>"모바일 데이터 사용량 "</item>
-        <item>"Wi-Fi 사용량 "</item>
-    </string-array>
-    <string-array name="traffic_setting_sms_template">
-        <item>자동으로 받기</item>
-        <item>수동으로 설정</item>
-    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>경고 보이기</item>
         <item>경고 후 모바일 데이터 끄기</item>
-    </string-array>
-    <string-array name="roaming_apps_sorted_type">
-        <item>자주 사용됨</item>
-        <item>이름</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>항상</item>
@@ -81,22 +55,37 @@
         <item>0</item>
         <item>2</item>
     </string-array>
-    <string-array name="long_add_menu">
-        <item>예외 추가</item>
-    </string-array>
     <string-array name="sort_type">
-        <item>이름순으로 정렬</item>
-        <item>크기순으로 정렬</item>
+        <item>상태</item>
+        <item>앱 이름</item>
+        <item>사용 빈도</item>
+        <item>사용 중인 용량</item>
+        <item>데이터 사용량</item>
+        <item>배터리 사용량</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>상태로 정렬</item>
+        <item>이름으로 정렬</item>
+        <item>사용 빈도로 정렬</item>
+        <item>사용 중인 용량으로 정렬</item>
+        <item>데이터 사용량으로 정렬</item>
+        <item>배터리 사용량으로 정렬</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>설치 출처</item>
+        <item>설치 시간</item>
+        <item>마지막 업데이트 출처</item>
+        <item>마지막 업데이트 시간</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>데이터 사용량</item>
         <item>휴대전화 잔액</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>1분 후</item>
-        <item>5분 후</item>
-        <item>10분 후</item>
-        <item>안 함</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>한 번</item>
@@ -110,6 +99,12 @@
         <item>매일</item>
         <item>평일</item>
         <item>사용자 지정</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>1분 후</item>
+        <item>5분 후</item>
+        <item>10분 후</item>
+        <item>안 함</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
         <item>15초</item>
