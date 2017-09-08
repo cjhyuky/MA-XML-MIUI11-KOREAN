@@ -61,35 +61,6 @@
     <string name="mr_media_route_controller_play">재생</string>
     <string name="mr_media_route_controller_pause">일시중지</string>
     <string name="mr_media_route_controller_no_info_available">정보가 없습니다.</string>
-    <string name="orb_search_action">검색 작업</string>
-    <string name="lb_search_bar_hint">검색</string>
-    <string name="lb_search_bar_hint_speech">음성 검색</string>
-    <string name="lb_search_bar_hint_with_title">%1$s 검색</string>
-    <string name="lb_search_bar_hint_with_title_speech">%1$s 음성 검색</string>
-    <string name="lb_control_display_fast_forward_multiplier">%1$d배속</string>
-    <string name="lb_control_display_rewind_multiplier">%1$d배속</string>
-    <string name="lb_playback_controls_play">재생</string>
-    <string name="lb_playback_controls_pause">일시중지</string>
-    <string name="lb_playback_controls_fast_forward">빨리 감기</string>
-    <string name="lb_playback_controls_fast_forward_multiplier">%1$d배속 빨리 감기</string>
-    <string name="lb_playback_controls_rewind">되감기</string>
-    <string name="lb_playback_controls_rewind_multiplier">%1$d배속 되감기</string>
-    <string name="lb_playback_controls_skip_next">다음으로 건너뛰기</string>
-    <string name="lb_playback_controls_skip_previous">이전으로 건너뛰기</string>
-    <string name="lb_playback_controls_more_actions">추가 작업</string>
-    <string name="lb_playback_controls_thumb_up">추천 선택 해제</string>
-    <string name="lb_playback_controls_thumb_up_outline">추천 선택</string>
-    <string name="lb_playback_controls_thumb_down">비추천 선택 해제</string>
-    <string name="lb_playback_controls_thumb_down_outline">비추천 선택</string>
-    <string name="lb_playback_controls_repeat_none">반복 안함</string>
-    <string name="lb_playback_controls_repeat_all">전체 반복</string>
-    <string name="lb_playback_controls_repeat_one">한 항목 반복</string>
-    <string name="lb_playback_controls_shuffle_enable">셔플 사용 설정</string>
-    <string name="lb_playback_controls_shuffle_disable">셔플 사용 중지</string>
-    <string name="lb_playback_controls_high_quality_enable">고화질 사용 설정</string>
-    <string name="lb_playback_controls_high_quality_disable">고화질 사용 중지</string>
-    <string name="lb_playback_controls_closed_captioning_enable">자막 사용 설정</string>
-    <string name="lb_playback_controls_closed_captioning_disable">자막 사용 중지</string>
     <string name="play_drawer_title">탐색</string>
     <string name="play_drawer_open">탐색 창 표시</string>
     <string name="play_drawer_close">탐색 창 숨기기</string>
@@ -125,8 +96,10 @@
     <string name="error_service_unavailable_with_tv">Play 무비 및 TV를 일시적으로 이용할 수 없습니다.</string>
     <string name="error_service_unavailable_with_code_with_tv">Play 무비 및 TV를 일시적으로 이용할 수 없습니다. [%1$d]</string>
     <string name="download_dialog_modify_message_with_tv">Play 무비 &amp; TV 설정에서 언제든지 변경할 수 있습니다.</string>
-    <string name="whats_new">"* Android TV 검색 개선
-* 안정성 개선 및 버그 수정"</string>
+    <string name="whats_new">"* Android Marshmallow 지원
+* 버그 수정 및 안정성 개선
+* 더 쉬워진 Roku 기기 설정
+* TV 에피소드 몰아보기"</string>
     <string name="drawer_open">내비게이션 창 열기</string>
     <string name="drawer_close">내비게이션 창 닫기</string>
     <string name="tab_movies">내 영화</string>
@@ -136,7 +109,8 @@
     <string name="tab_movie_genres">영화 장르</string>
     <string name="tab_show_genres">TV 프로그램 장르</string>
     <string name="tab_my_library">내 라이브러리</string>
-    <string name="tab_help_and_support">도움말 및 지원</string>
+    <string name="tab_help_and_settings">도움말 및 설정</string>
+    <string name="tab_playback_settings">설정</string>
     <string name="tab_support">지원</string>
     <string name="toggle_downloaded_only">다운로드 항목만 보기</string>
     <string name="downloaded_only">다운로드 항목만 보기</string>
@@ -365,7 +339,10 @@
     <string name="error_media_shared">저장소가 외부 기기와 공유되어 있기 때문에 읽을 수 없습니다.</string>
     <string name="error_media_cannot_read">저장소를 읽을 수 없습니다(오류 %1$d).</string>
     <string name="error_download_not_found">파일을 찾을 수 없습니다. 동영상을 삭제하거나 파일을 다운로드한 저장소를 다시 삽입하세요.</string>
+    <string name="error_incompatible_htc_m8">HTC M8의 운영체제는 Play 무비와 호환되며, 업그레이드해야 합니다(오류 -38). 업그레이드에 대해서는 HTC에 문의하세요.</string>
+    <string name="contact_htc">HTC에 문의</string>
     <string name="pinning_error_fetching_license">라이선스를 가져올 수 없습니다(오류 %1$d).</string>
+    <string name="pinning_error_download_corrupt">다운로드한 동영상에 문제가 있습니다. 이 동영상을 오프라인에서 보려면 다시 다운로드하세요.</string>
     <string name="pinning_error_fetching_license_emm_decode_failed">라이선스를 가져오지 못했습니다(오류 16). 문제가 지속되면 기기를 다시 시작해 보세요.</string>
     <string name="pinning_error_rental_pinned_elsewhere">대여한 콘텐츠는 한 번에 하나의 기기에만 다운로드할 수 있습니다. 여기에 대여한 콘텐츠를 다운로드하려면 다른 기기에서 콘텐츠를 삭제하세요.</string>
     <string name="pinning_error_purchase_pinned_elsewhere">동영상을 다운로드할 수 있는 기기 한도를 초과했습니다. 여기에 다운로드하려면 다른 기기에서 동영상을 삭제하세요.</string>
@@ -385,6 +362,7 @@
     <string name="error_playback_on_unsupported_device">이 기기에서 재생이 지원되지 않습니다.</string>
     <string name="error_restricted_content_without_rating">죄송합니다. 이 동영상은 등급이 없으므로 재생할 수 없습니다.</string>
     <string name="error_restricted_content_with_rating">죄송합니다. 이 동영상은 %1$s 등급이기 때문에 재생할 수 없습니다.</string>
+    <string name="error_network_low_bandwidth">현재 인터넷 연결이 원활하지 않아 동영상을 재생할 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="no_network">현재 네트워크에 연결되어 있지 않습니다.</string>
     <string name="pending_detail_wifi">계속 다운로드하려면 Wi-Fi 연결이 필요합니다.</string>
     <string name="pending_detail_network">이 다운로드를 계속하려면 네트워크 연결이 필요합니다.</string>
@@ -401,6 +379,7 @@
     <string name="always">항상</string>
     <string name="wifi_settings">Wi-Fi...</string>
     <string name="read_more">더보기</string>
+    <string name="all_reviews">모든 리뷰</string>
     <string name="begin_playback_confirmation_hours">재생하시겠습니까? 감상을 시작하고 %1$d시간 뒤에 대여가 만료됩니다.</string>
     <string name="begin_playback_confirmation_days">재생하시겠습니까? 감상을 시작하고 %1$d일 뒤에 대여가 만료됩니다.</string>
     <string name="switching_to_sd">HD로 스트리밍하기에는 대역폭이 부족합니다. 일반 화질로 전환합니다.</string>
@@ -422,6 +401,17 @@
     <string name="preorder_at">선주문 - %1$s</string>
     <string name="view_in_store">Play 스토어에서 보기</string>
     <string name="preordered">선주문됨</string>
+    <string name="choosies_redeem">대여 쿠폰 사용</string>
+    <string name="choosies_review_heading">리뷰</string>
+    <string name="choosies_confirmation_continue">계속</string>
+    <string name="choosies_redeem_later">나중에 사용</string>
+    <string name="choosies_redeem_later_message">"Play 스토어 앱의 '내 계정'에서 포인트를 확인할 수 있습니다."</string>
+    <string name="choosies_redeem_error_already_redeemed">입력한 코드는 이미 사용되었습니다.</string>
+    <string name="choosies_redeem_error_invalid_code">입력한 코드가 잘못되었습니다.</string>
+    <string name="choosies_redeem_error_redemption_disabled">코드 사용이 중지됨</string>
+    <string name="choosies_redeem_error_daily_redemption_cap_exceeded">일일 사용 한도를 초과했습니다. 나중에 다시 시도하세요.</string>
+    <string name="choosies_redeem_error_code_expired">입력한 코드가 만료되었습니다.</string>
+    <string name="choosies_redeem_error_code_unavailable_country">거주 중인 국가에서는 입력한 코드를 사용할 수 없습니다.</string>
     <string name="download_started_notification_ticker">동영상을 다운로드하는 중</string>
     <string name="download_in_progress_notification_title">동영상 다운로드 중</string>
     <string name="download_in_progress_notification_single_video">%1$s 다운로드 중</string>
@@ -465,6 +455,8 @@
     <string name="accessibility_overflow">옵션</string>
     <string name="accessibility_synopsis">줄거리</string>
     <string name="accessibility_rt_rating">Rotten Tomatoes 평점</string>
+    <string name="accessibility_seek_30s">30초 뒤로</string>
+    <string name="accessibility_disconnect">연결 해제</string>
     <string name="accessibility_progress_duration">%2$s 중 %1$s</string>
     <string name="remote_notification_finished">%1$s에서 종료됨</string>
     <string name="remote_notification_paused">%1$s에서 일시중지됨</string>
@@ -600,7 +592,10 @@
     <string name="pref_captioning_typeface">글꼴 모음</string>
     <string name="pref_captioning_preview_text">자막이 다음과 같이 표시됩니다.</string>
     <string name="pref_captioning_preview_characters">Aa</string>
+    <string name="locale_default">기본값</string>
     <string name="color_none">없음</string>
+    <string name="color_default">기본값</string>
+    <string name="edge_type_default">기본값</string>
     <string name="share">공유</string>
     <string name="share_subject">"'%1$s' 확인"</string>
     <string name="download_progress_text">%1$s(%2$s/%3$s)</string>
@@ -614,4 +609,13 @@
     <string name="full_stop_character">.</string>
     <string name="binge_watch_up_next">다음 동영상</string>
     <string name="binge_watch_next_episode">에피소드 %1$s. %2$s</string>
+    <string name="binge_watch_enable">자동으로 다음 에피소드 재생</string>
+    <string name="pairing_category_title">페어링</string>
+    <string name="pair_new_device_title">기기 연결</string>
+    <string name="pair_new_device_summary">TV에 연결되어 있는 기기에 연결</string>
+    <string name="pairing_no_thanks">아니요</string>
+    <string name="pairing_log_in">로그인</string>
+    <string name="pairing_confirmation">%1$s에서 Play 무비에 로그인하시겠습니까?</string>
+    <string name="scanning_text">주변 기기 검색 중</string>
+    <string name="manual_pairing_button">직접 코드 입력</string>
 </resources>
