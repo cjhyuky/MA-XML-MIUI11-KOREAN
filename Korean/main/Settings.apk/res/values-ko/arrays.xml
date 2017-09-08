@@ -4,6 +4,16 @@
         <item>혼합페이지</item>
         <item>분리</item>
     </string-array>
+    <string-array name="status_bar_show_carrier_entries">
+        <item>Only show on the Lock screen and in the Notification shade</item>
+        <item>Always show carrier name</item>
+        <item>Never show carrier name</item>
+    </string-array>
+    <string-array name="status_bar_show_carrier_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>미국</item>
         <item>유럽</item>
@@ -14,12 +24,12 @@
         <item>전체</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15초 후</item>
-        <item>30초 후</item>
-        <item>1분 후</item>
-        <item>2분 후</item>
-        <item>5분 후</item>
-        <item>10분 후</item>
+        <item>15초</item>
+        <item>30초</item>
+        <item>1분</item>
+        <item>2분</item>
+        <item>5분</item>
+        <item>10분</item>
         <item>안함</item>
     </string-array>
     <string-array name="dream_timeout_entries">
@@ -517,10 +527,6 @@
         <item>보통</item>
         <item>약함</item>
     </string-array>
-    <string-array name="ap_identify">
-        <item>기본</item>
-        <item>iPhone</item>
-    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>그래픽</item>
         <item>퍼센트</item>
@@ -562,14 +568,14 @@
         <item>최근 앱 트레이 표시</item>
         <item>메뉴 표시</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>없음</item>
-        <item>최근 앱 표시</item>
-        <item>보조 장치 실행</item>
-        <item>Google now 실행</item>
-        <item>현재 앱 닫기</item>
-        <item>빠른 검색 실행</item>
-        <item>메뉴 표시</item>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5초</item>
@@ -594,7 +600,7 @@
     <string-array name="wfd_status">
         <item>세션 시작 중…</item>
         <item>세션 시작됨</item>
-        <item>삭제 중…</item>
+        <item>서비스 끄는 중…</item>
         <item>세션을 시작할 수 없습니다.</item>
         <item>시간 초과. 재시도 중…</item>
         <item>기기 연결됨</item>
@@ -610,7 +616,7 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
-        <item>2. 화면 상의 설명을 따르십시오.</item>
+        <item>2. 화면 상의 지시를 따르십시오.</item>
         <item></item>
         <item></item>
         <item></item>
@@ -787,10 +793,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="fluency_mode_confirms">
         <item>이 설정을 적용하기 위해 기기를 재시작하시겠습니까?</item>
         <item>이 설정을 적용하기 위해 기기를 재시작하시겠습니까?</item>
-    </string-array>
-    <string-array name="screen_resolution_entries">
-        <item>초고화질 (2K)</item>
-        <item>보통 (720p)</item>
     </string-array>
     <string-array name="miui_entries_font_size">
         <item>소</item>
@@ -991,7 +993,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>프놈펜</item>
         <item>평양</item>
         <item>카타르</item>
-        <item>랑군</item>
+        <item>Rangoon</item>
         <item>리야드</item>
         <item>서울</item>
         <item>상하이</item>
@@ -1156,6 +1158,149 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>파라마리보</item>
         <item>키토</item>
     </string-array>
+    <string-array name="click_bottom">
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom02</item>
+        <item>\@drawable/clickbottom03</item>
+        <item>\@drawable/clickbottom04</item>
+        <item>\@drawable/clickbottom05</item>
+        <item>\@drawable/clickbottom06</item>
+        <item>\@drawable/clickbottom07</item>
+        <item>\@drawable/clickbottom08</item>
+        <item>\@drawable/clickbottom03</item>
+        <item>\@drawable/clickbottom02</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+    </string-array>
+    <string-array name="long_press">
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom02</item>
+        <item>\@drawable/longpressbottom03</item>
+        <item>\@drawable/longpressbottom04</item>
+        <item>\@drawable/longpressbottom05</item>
+        <item>\@drawable/longpressbottom06</item>
+        <item>\@drawable/longpressbottom07</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom09</item>
+        <item>\@drawable/longpressbottom10</item>
+        <item>\@drawable/longpressbottom11</item>
+        <item>\@drawable/longpressbottom04</item>
+        <item>\@drawable/longpressbottom03</item>
+        <item>\@drawable/longpressbottom02</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+    </string-array>
+    <string-array name="power_click">
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick02</item>
+        <item>\@drawable/powerclick03</item>
+        <item>\@drawable/powerclick04</item>
+        <item>\@drawable/powerclick05</item>
+        <item>\@drawable/powerclick06</item>
+        <item>\@drawable/powerclick07</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+    </string-array>
+    <string-array name="power_double_click">
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick02</item>
+        <item>\@drawable/powerclick03</item>
+        <item>\@drawable/powerclick04</item>
+        <item>\@drawable/powerclick05</item>
+        <item>\@drawable/powerclick06</item>
+        <item>\@drawable/powerclick07</item>
+        <item>\@drawable/powerclick02</item>
+        <item>\@drawable/powerclick03</item>
+        <item>\@drawable/powerclick04</item>
+        <item>\@drawable/powerclick05</item>
+        <item>\@drawable/powerclick06</item>
+        <item>\@drawable/powerclick07</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+    </string-array>
+    <string-array name="three_drop">
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop02</item>
+        <item>\@drawable/threedrop03</item>
+        <item>\@drawable/threedrop04</item>
+        <item>\@drawable/threedrop05</item>
+        <item>\@drawable/threedrop06</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>매일</item>
         <item>평일</item>
@@ -1172,12 +1317,80 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>파일</item>
         <item>메모</item>
     </string-array>
-    <string-array name="screen_key_position_action">
-        <item>메뉴 버튼은 왼쪽으로, 뒤로가기 버튼은 오른쪽으로</item>
-        <item>뒤로가기 버튼은 왼쪽으로, 메뉴 버튼은 오른쪽으로</item>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>16GB</item>
+        <item>쿼드 코어 최대 2.5GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>배터리 용량</item>
+        <item>후면 카메라</item>
+        <item>화면 크기</item>
+        <item>해상도</item>
+        <item>안드로이드 버전</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>MTK Helio X10</item>
+        <item>3060mAh(typ)</item>
+        <item>13MP</item>
+        <item>5.5 인치</item>
+        <item>1920 x 1080</item>
+        <item>4.4</item>
+    </string-array>
+    <string-array name="connect_mode_entries">
+        <item>comtible mode</item>
+        <item>high mode</item>
+    </string-array>
+    <string-array name="connect_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>닫기</item>
+        <item>일반 모드</item>
+        <item>익스트림 모드</item>
+    </string-array>
+    <string-array name="traffic_balance_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="screen_button_style">
         <item>왼손 스타일</item>
         <item>오른손 스타일</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
+    <string-array name="edge_touch_volume_action">
+        <item>Click adjust - Double click trigger</item>
+        <item>Slip adjust - Slip trigger</item>
+        <item>Click adjust - Click trigger</item>
+        <item>Click adjust - Long Click trigger</item>
+    </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
+    <string-array name="silent_values">
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="silent_mode_duration_text">
+        <item>항상</item>
+        <item>30분</item>
+        <item>1시간</item>
+        <item>2시간</item>
+        <item>8시간</item>
+    </string-array>
+    <string-array name="silent_mode_duration_value">
+        <item>0</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>480</item>
     </string-array>
 </resources>

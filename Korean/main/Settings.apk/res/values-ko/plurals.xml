@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">%s개 앱의 알림 표시 불가</item>
+        <item quantity="other">%d개 앱의 알림을 표시하지 않습니다.</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s개 앱의 알림 표시 가능</item>
+        <item quantity="other">%d개 앱의 알림을 표시합니다.</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d toggles will appear in the Notification shade</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">개발자가 되려면 %1$d단계가 남았습니다.</item>
@@ -46,8 +49,20 @@
         <item quantity="other">%d개의 앱이 조건을 제공</item>
         <item quantity="one">%d개의 앱이 조건을 제공</item>
     </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d apps are allowed to autostart</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN은 %d개 숫자여야 합니다.</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d 네트워크 공유됨</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d개 기기</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d people connected</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">전화 정보 입력까지 %1$d단계 남았습니다.</item>
@@ -63,5 +78,23 @@
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">%d개의 앱을 비활성화하지 않음</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">PIN은 %d자리 숫자여야만 합니다.</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">PIN은 최대 %d자리의 숫자를 사용할 수 있습니다.</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">최소 %d개 점을 연결하십시오. 다시 시도</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Too many incorrect attempts. Try again in %d seconds.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">%d초 후 다시 시도해 주십시오.</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d개 위험 발견됨</item>
     </plurals>
 </resources>
