@@ -13,57 +13,20 @@
         <item>크기</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>매일</item>
+        <item>Every day</item>
         <item>3일마다</item>
         <item>일주일마다</item>
+        <item>15일마다</item>
     </string-array>
     <string-array name="auto_clean_size">
-        <item>100 MB</item>
-        <item>300 MB</item>
-        <item>500 MB</item>
-        <item>1 GB</item>
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>알림만</item>
-        <item>자동 정리</item>
-        <item>정리 후 알림</item>
-    </string-array>
-    <string-array name="cache_clean_menu">
-        <item>이 파일을 지우기</item>
-        <item>파일 위치 보기</item>
-    </string-array>
-    <string-array name="trash_clean_menu">
-        <item>이 파일을 지우기</item>
-        <item>파일 위치 보기</item>
-    </string-array>
-    <string-array name="video_clean_menu">
-        <item>이 파일을 지우기</item>
-        <item>열기</item>
-    </string-array>
-    <string-array name="empty_floder_clean_menu">
-        <item>정리</item>
-    </string-array>
-    <string-array name="apk_clean_menu">
-        <item>청소</item>
-        <item>이 앱을 설치</item>
-        <item>폴더에서 보기</item>
-    </string-array>
-    <string-array name="long_add_menu">
-        <item>예외 사항에 추가</item>
-    </string-array>
-    <string-array name="long_add_app_menu">
-        <item>앱을 예외 사항에 추가</item>
-    </string-array>
-    <string-array name="app_clean_menu">
-        <item>제거</item>
-    </string-array>
-    <string-array name="auto_alert_apps_time">
-        <item>일주일마다</item>
-        <item>15일마다</item>
-        <item>30일마다</item>
-    </string-array>
-    <string-array name="scan_engine">
-        <item>Clean Master</item>
-        <item>Tencent</item>
+        <item>Notify</item>
+        <item>Clear</item>
+        <item>Clear and notify</item>
     </string-array>
 </resources>
