@@ -15,7 +15,8 @@
     <string name="pressure">%.1f</string>
     <string name="altitude">%.1f</string>
     <string name="pressure_unit">hPa</string>
-    <string name="altitude_unit">M</string>
+    <string name="altitude_unit">m</string>
+    <string name="angle">%.0f</string>
     <string name="dialog_title_no_network">네트워크 켜기</string>
     <string name="dialog_body_no_network">네트워크에 연결할 수 없습니다.</string>
     <string name="dialog_calibrat_altitude">측정 중…</string>
@@ -34,7 +35,7 @@
     <string name="mobiledata_alert_dialog_message">고도를 조정하기 위해 인터넷에 연결하시겠습니까?</string>
     <string name="do_not_show_next_time">다시 보지 않기</string>
     <string name="location_not_enabled_title">위치 서비스</string>
-    <string name="location_not_enabled_summary">디렉토리의 정상적인 작동을 위해 위치 정보가 필요합니다.</string>
+    <string name="location_not_enabled_summary">나침반은 귀하의 고도를 표시하기 위해 위치 접근이 필요합니다.</string>
     <string name="location_enable">허용</string>
     <string name="location_enable_later">나중에</string>
     <string name="location_enabled">언제든지 설정에서 위치 서비스를 끌 수 있습니다.</string>
@@ -53,4 +54,6 @@
     <string name="altitude_uncalibrate_refresh">다시 시도</string>
     <string name="altitude_uncalibrate_cancel">취소</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
+    <string name="app_description_title">나침반 정보</string>
+    <string name="app_description_content">나침반은 방향을 판별할 수 있는 기능입니다. 앱을 삭제하시면 이 기능을 사용할 수 없다는 사실을 아셔야 합니다.</string>
 </resources>
