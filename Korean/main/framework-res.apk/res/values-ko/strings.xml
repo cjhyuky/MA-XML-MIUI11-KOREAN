@@ -1006,7 +1006,7 @@
     <string name="app_running_notification_title">%1$s이(가) 실행 중입니다.</string>
     <string name="app_running_notification_text">자세한 정보를 보거나 앱을 중지하려면 터치하세요.</string>
     <string name="loading">로드 중..</string>
-    <string name="capital_on">ON</string>
+    <string name="capital_on">켜기</string>
     <string name="capital_off">OFF</string>
     <string name="whichApplication">작업을 수행할 때 사용하는 애플리케이션</string>
     <string name="whichApplicationNamed">%1$s을(를) 사용하여 작업 완료</string>
