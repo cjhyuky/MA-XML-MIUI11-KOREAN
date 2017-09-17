@@ -413,13 +413,12 @@ SMS 전송"</string>
     <string name="adjust_traffic_carrier_summary_oneweek_before">1주 전에 업데이트됨</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">일주일 이전에 업데이트됨</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">한 달 이전에 업데이트됨</string>
-    <string name="start_tc_button">보정</string>
     <string name="left_precent">60%</string>
     <string name="right_precent">100%</string>
     <string name="pref_avaible_traffic">데이터 플랜</string>
     <string name="pref_daily_traffic">피크 데이터 한도</string>
     <string name="pref_special_package_setting">사용자 지정 데이터 플랜</string>
-    <string name="pref_data_usage_not_set">알수없는 데이터 플랜</string>
+    <string name="pref_data_usage_not_set">설정하지 않음</string>
     <string name="pref_operator_not_set">통신사 설정되지않음</string>
     <string name="pref_special_package_setting_summary">오프피크 데이터, 충전 패키지, 일일 데이터 플랜과 사용자 지정 데이터 관리</string>
     <string name="pref_warning_values">데이터 사용량 경고 레벨</string>
@@ -464,7 +463,6 @@ SMS 전송"</string>
     <string name="traffic_setting_fragment_button1_text">취소</string>
     <string name="traffic_setting_fragment_button2_text">저장</string>
     <string name="traffic_setting_fragment_area">로케일</string>
-    <string name="traffic_setting_fragment_area_dual">%s 로케일</string>
     <string name="traffic_setting_fragment_operator">통신사</string>
     <string name="traffic_setting_fragment_brand">브랜드</string>
     <string name="traffic_setting_fragment_send_num">통신사 전화번호</string>
@@ -2006,16 +2004,11 @@ Rolled over extra data"</string>
     <string name="net_booster_overdue_notification_tip">네트워크 가속 세션이 곧 종료될 것입니다. 세션을 갱신하시겠습니까?</string>
     <string name="net_booster_expire_notification">네트워크 가속 세션 만료 알림</string>
     <string name="xunyou_pay_webview">Xunyou 서비스</string>
-    <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
     <string name="power_center_consume_rank">배터리 사용</string>
     <string name="power_center_custom_title">배터리 프로필</string>
-    <string name="power_center_auto_shutdown_summary_default">예약된 시간에 기기 전원 켜짐 또는 꺼짐</string>
-    <string name="power_center_custom_summary_default">사용자 프로필로 배터리 수명 개선</string>
     <string name="power_center_low_battery_title">배터리 절약</string>
-    <string name="power_center_low_battery_summary_default">배터리 부족 시 프로필 전환</string>
     <string name="power_center_low_battery_summary_dynamic">%1$d%% 시 %2$s로 전환</string>
     <string name="power_center_on_time_title">프로필 전환 예약</string>
-    <string name="power_center_on_time_summary_default">예약된 시간에 배터리 프로필 전환</string>
     <string name="power_center_on_time_summary_dynamic">%1$s - %2$s을(를) %3$s(으)로 전환</string>
     <string name="power_center_consume_time">%1$s 남음</string>
     <string name="power_center_battery_full">배터리 완전 충전됨</string>
@@ -2096,7 +2089,6 @@ Rolled over extra data"</string>
     <string name="power_dialog_screen_brightness_automatic_on">화면 밝기를 주변 빛에 따라 변경</string>
     <string name="power_dialog_delete_dialog_title">프로필 삭제</string>
     <string name="power_dialog_delete_dialog_delete">이 배터리 프로필을 삭제하시겠습니까?</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_default">현재 이 프로필을 사용 중입니다.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">이 기기는 배터리가 부족할 때 이 프로필로 전환하도록 설정되었습니다. 이 프로필을 삭제하기 전에 배터리 프로필 설정을 변경해야 합니다.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">이 기기는 배터리가 부족할 때 이 프로필로 전환하도록 설정되었습니다. 이 프로필을 삭제하기 전에 배터리 프로필 설정을 변경해야 합니다.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">이 기기는 나중에 이 프로필로 전환하도록 예약되어 있습니다. 이 프로필을 삭제하기 전에 배터리 프로필 설정을 변경해야 합니다.</string>
@@ -2118,10 +2110,7 @@ Rolled over extra data"</string>
     <string name="power_save_on_time_end_time_summary">종료</string>
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_option_title">이 주기 동안 전환</string>
-    <string name="power_save_on_time_option_summary">이 주기가 끝난 뒤 기기는 가장 최근에 사용된 프로필로 다시 전환합니다.</string>
     <string name="power_save_on_time_default_time">00:00</string>
-    <string name="power_consume_total_software">앱: %1$d%%</string>
-    <string name="power_consume_total_hardware">하드웨어: %1$d%%</string>
     <string name="power_save_on_time_goout_title">이 주기 이후 다시 전환</string>
     <string name="power_save_choose_recovery_mode">프로필 선택</string>
     <string name="power_new_choose_mode">프로필 선택</string>
@@ -2153,4 +2142,15 @@ Rolled over extra data"</string>
     <string name="shutdown_time_day">전원 꺼짐: %2$s %1$dd</string>
     <string name="shutdown_time_day_tomorrow">전원 꺼짐: %1$s</string>
     <string name="shutdown_time">전원 꺼짐: %1$s</string>
+    <string name="traffic_setting_fragment_area_dual">%s 로케일</string>
+    <string name="power_save_on_time_option_summary">이 주기가 끝난 뒤 기기는 가장 최근에 사용된 프로필로 다시 전환합니다.</string>
+    <string name="power_center_auto_shutdown_summary_default">예약된 시간에 기기 전원 켜짐 또는 꺼짐</string>
+    <string name="power_center_custom_summary_default">사용자 프로필로 배터리 수명 개선</string>
+    <string name="power_center_low_battery_summary_default">배터리 부족 시 프로필 전환</string>
+    <string name="power_center_on_time_summary_default">예약된 시간에 배터리 프로필 전환</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_default">현재 이 프로필을 사용 중입니다.</string>
+    <string name="power_consume_total_software">앱: %1$d%%</string>
+    <string name="power_consume_total_hardware">하드웨어: %1$d%%</string>
+    <string name="start_tc_button">보정</string>
+    <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
 </resources>
