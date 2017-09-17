@@ -1,39 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="gsm_umts_network_preferences_choices">
-        <item>2G/3G (자동 모드)</item>
-        <item>3G 전용</item>
-        <item>2G 전용</item>
-    </string-array>
-    <string-array name="clir_display_values">
-        <item>기본 네트워크</item>
-        <item>번호 숨기기</item>
-        <item>번호 표시</item>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>전 세계</item>
+        <item>LTE/CDMA</item>
+        <item>LTE/GSM/UMTS</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>LTE/TD-SCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>TD-SCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>LTE/TD-SCDMA/GSM/WCDMA</item>
-        <item>LTE/TD-SCDMA/WCDMA</item>
-        <item>TD-SCDMA/GSM/WCDMA</item>
-        <item>LTE/TD-SCDMA/GSM</item>
-        <item>TD-SCDMA/GSM</item>
-        <item>LTE/TD-SCDMA</item>
-        <item>TD-SCDMA/WCDMA</item>
-        <item>TD-SCDMA만</item>
+        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM/WCDMA, CDMA와 EvDo</item>
+        <item>TD-SCDMA, GSM/WCDMA와 LTE</item>
+        <item>TD-SCDMA, WCDMA와 LTE</item>
+        <item>TD-SCDMA, GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM과 LTE</item>
+        <item>TD-SCDMA와 GSM</item>
+        <item>TD-SCDMA와 LTE</item>
+        <item>TD-SCDMA와 WCDMA</item>
+        <item>TD-SCDMA 전용</item>
         <item>LTE/WCDMA</item>
-        <item>LTE</item>
-        <item>전체</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>LTE만</item>
+        <item>LTE/GSM/CDMA 자동 (PRL)</item>
+        <item>LTE/GSM 자동 (PRL)</item>
+        <item>LTE/CDMA 자동 (PRL)</item>
+        <item>GSM/CDMA 자동 (PRL)</item>
         <item>EvDo 전용</item>
-        <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo 자동</item>
-        <item>GSM/WCDMA 자동</item>
+        <item>CDMA만</item>
+        <item>CDMA 자동 (PRL)</item>
+        <item>GSM 자동 (PRL)</item>
         <item>WCDMA 전용</item>
         <item>GSM 전용</item>
-        <item>GSM/WCDMA 선호됨</item>
+        <item>WCDMA 선호됨</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>영어</item>
@@ -44,15 +39,6 @@
         <item>중국어</item>
         <item>히브리어</item>
     </string-array>
-    <string-array name="list_language_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>홈 전용</item>
         <item>자동</item>
@@ -60,10 +46,6 @@
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
-    </string-array>
-    <string-array name="cdma_subscription_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY Off</item>
