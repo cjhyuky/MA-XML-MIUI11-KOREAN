@@ -2770,7 +2770,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="user_experience_program_title">사용자 환경 개선 프로그램</string>
     <string name="user_experience_program_summary">익명 사용 데이터를 보내 MIUI 개선 돕기</string>
     <string name="upload_debug_log_title">자동으로 데이터 진단 전송</string>
-    <string name="upload_debug_log_summary">The information we collect may contain your personal data. It will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+    <string name="upload_debug_log_summary">수집하는 정보에는 귀하의 개인 정보가 포함될 수 있습니다. 이 도구는 시스템의 문제를 찾아 분석하는 데 사용되며 사용자를 개인적으로 식별하는 데 사용되지 않습니다.</string>
     <string name="sound_vibrate_settings">소리 &amp; 진동</string>
     <string name="imei_information_title">IMEI 정보</string>
     <string name="imei_information_summary">IMEI 관련 정보</string>
