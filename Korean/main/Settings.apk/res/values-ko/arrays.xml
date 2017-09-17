@@ -5,9 +5,9 @@
         <item>분리</item>
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
-        <item>Only show on the Lock screen and in the Notification shade</item>
-        <item>Always show carrier name</item>
-        <item>Never show carrier name</item>
+        <item>잠금화면과 알림창에만 표시</item>
+        <item>항상 표시</item>
+        <item>표시 하지 않음</item>
     </string-array>
     <string-array name="status_bar_show_carrier_values">
         <item>0</item>
@@ -367,25 +367,6 @@
         <item>파란색 바탕에 흰색</item>
         <item>맞춤설정</item>
     </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>로그 버퍼당 64K</item>
-        <item>로그 버퍼당 256K</item>
-        <item>로그 버퍼당 1M</item>
-        <item>로그 버퍼당 4M</item>
-        <item>로그 버퍼당 16M</item>
-    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>확인 안함</item>
         <item>DRM 콘텐츠만 확인</item>
@@ -569,13 +550,13 @@
         <item>메뉴 표시</item>
     </string-array>
     <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
+        <item>홈버튼 오래 누르기</item>
+        <item>메뉴버튼 오래 누르기</item>
+        <item>뒤로가기 오래 누르기</item>
+        <item>전원+홈버튼</item>
+        <item>전원+메뉴버튼</item>
+        <item>전원+뒤로가기</item>
+        <item>없음</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5초</item>
@@ -716,11 +697,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>외부 저장소</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
+        <item>매우 느림</item>
+        <item>느림</item>
+        <item>보통</item>
+        <item>빠르게</item>
+        <item>매우 빠르게</item>
     </string-array>
     <string-array name="whetstone_level_entries">
         <item>꺼짐</item>
@@ -1330,46 +1311,45 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>해상도</item>
         <item>안드로이드 버전</item>
     </string-array>
-    <string-array name="standard_configuration_version_description_secondary">
-        <item>MTK Helio X10</item>
-        <item>3060mAh(typ)</item>
-        <item>13MP</item>
-        <item>5.5 인치</item>
-        <item>1920 x 1080</item>
-        <item>4.4</item>
-    </string-array>
-    <string-array name="connect_mode_entries">
-        <item>comtible mode</item>
-        <item>high mode</item>
-    </string-array>
-    <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="traffic_balance_entries">
         <item>닫기</item>
         <item>일반 모드</item>
         <item>익스트림 모드</item>
-    </string-array>
-    <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="screen_button_style">
-        <item>왼손 스타일</item>
-        <item>오른손 스타일</item>
-    </string-array>
-    <string-array name="screen_resolution_format">
-        <item>@string/screen_resolution_ultrahigh_format</item>
-        <item>@string/screen_resolution_high_format</item>
-        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="edge_touch_volume_action">
         <item>Click adjust - Double click trigger</item>
         <item>Slip adjust - Slip trigger</item>
         <item>Click adjust - Click trigger</item>
         <item>Click adjust - Long Click trigger</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>왼손 스타일</item>
+        <item>오른손 스타일</item>
+    </string-array>
+    <string-array name="silent_mode_duration_text">
+        <item>항상</item>
+        <item>30분</item>
+        <item>1시간</item>
+        <item>2시간</item>
+        <item>8시간</item>
+    </string-array>
+    <string-array name="connect_mode_entries">
+        <item>호환 모드</item>
+        <item>강화 모드</item>
+    </string-array>
+    <string-array name="connect_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="traffic_balance_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="silent_entries">
         <item>@string/standard</item>
@@ -1378,13 +1358,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="silent_values">
         <item>1</item>
         <item>3</item>
-    </string-array>
-    <string-array name="silent_mode_duration_text">
-        <item>항상</item>
-        <item>30분</item>
-        <item>1시간</item>
-        <item>2시간</item>
-        <item>8시간</item>
     </string-array>
     <string-array name="silent_mode_duration_value">
         <item>0</item>
