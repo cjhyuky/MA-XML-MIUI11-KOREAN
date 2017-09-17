@@ -2028,7 +2028,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="track_frame_time">프로필 GPU 렌더링</string>
     <string name="window_animation_scale_title">창 애니메이션 배율</string>
     <string name="transition_animation_scale_title">전환 애니메이션 배율</string>
-    <string name="animator_duration_scale_title">Animator 길이 배율</string>
+    <string name="animator_duration_scale_title"> 길이 배율</string>
     <string name="overlay_display_devices_title">보조 디스플레이 시뮬레이트</string>
     <string name="debug_applications_category">앱</string>
     <string name="immediately_destroy_activities">액티비티 유지 안함</string>
