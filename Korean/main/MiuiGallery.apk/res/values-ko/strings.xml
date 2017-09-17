@@ -33,7 +33,6 @@
     <string name="video_editor_audio_sad">발라드</string>
     <string name="video_editor_audio_custom">선택</string>
     <string name="video_editor_unsupport_audio_file">지원되지 않는 오디오 파일</string>
-    <string name="video_editor_text_none">없음</string>
     <string name="video_editor_text_preview_text">텍스트</string>
     <string name="video_editor_text_default">기본값</string>
     <string name="video_editor_text_input_empty_tips">텍스트를 입력해 주십시오.</string>
@@ -594,7 +593,7 @@
     <string name="other_settings">추가 설정</string>
     <string name="impunity_declaration_settings">인터넷 연결 알림</string>
     <string name="impunity_declaration_summary">갤러리를 열 때마다 인터넷 연결 알림 보이기</string>
-    <string name="trash_bin">쓰레기통</string>
+    <string name="trash_bin">휴지통</string>
     <string name="trash_bin_summary">최근 삭제된 사진의 백업 데이터 검색</string>
     <string name="cloud_guide_welcome_title">Mi 클라우드</string>
     <string name="welcome_to_micloud">Mi 클라우드에 오신걸 환영합니다!</string>
@@ -718,7 +717,7 @@
     <string name="delete_from_homepage_album">갤러리에서 앨범 표시됨</string>
     <string name="delete_from_devices">모든 기기 동기화됨</string>
     <string name="delete_from_devices_album">앨범과 동기화된 모든 기기</string>
-    <string name="delete_to_trash_tips">설정 > 쓰레기통에서 최근 삭제하신 사진을 확인할 수 있습니다.</string>
+    <string name="delete_to_trash_tips">설정 > 휴지통에서 최근 삭제하신 사진을 확인할 수 있습니다.</string>
     <string name="delete_from_cloud">Mi 클라우드에서 항목 삭제</string>
     <string name="download_title">파일 준비 중…</string>
     <string name="download_retry_title">파일 다운로드 실패</string>
@@ -964,4 +963,5 @@
     <string name="text_append_font_example">Aa</string>
     <string name="text_edit_dialog_font">글꼴</string>
     <string name="text_edit_dialog_font_default">기본값</string>
+    <string name="video_editor_text_none">없음</string>
 </resources>
