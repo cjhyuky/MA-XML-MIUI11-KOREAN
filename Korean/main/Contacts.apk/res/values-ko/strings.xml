@@ -183,53 +183,53 @@
     <string name="noContactsHelpTextForCreateShortcut">표시할 연락처가 없습니다.</string>
     <string name="noContactsHelpText">"\"표시할 연락처가 없습니다.
 
-연락처를 추가하려면, "<b><font fgcolor="#ffffffff">메뉴</font></b>"를 터치한 다음:
+연락처를 추가하려면, "<font fgcolor="#ffffffff"><b>메뉴</b></font>"를 터치한 다음:
  
-"<b><font fgcolor="#ffffffff"><li>"계정을 터치하여 전화에 동기화할 수 있는 연락처로 계정을 추가 또는 설정하거나
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"가져오기/내보내기를 터치하여 SIM 카드나 SD 카드에서 연락처를 가져오십시오
-"</li></font></b>"\" "</string>
+"<li><font fgcolor="#ffffffff"><b>"계정을 터치하여 전화에 동기화할 수 있는 연락처로 계정을 추가 또는 설정하거나
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"가져오기/내보내기를 터치하여 SIM 카드나 SD 카드에서 연락처를 가져오십시오
+"</b></font></li>"\" "</string>
     <string name="noContactsHelpTextWithSync">"\"표시할 연락처가 없습니다(방금 계정을 추가한 경우라면 연락처를 동기화하는 데 몇 분 걸릴 수 있습니다.).
 
-연락처를 추가하려면, "<b><font fgcolor="#ffffffff">메뉴</font></b>"를 터치한 다음:
+연락처를 추가하려면, "<font fgcolor="#ffffffff"><b>메뉴</b></font>"를 터치한 다음:
  
-"<b><font fgcolor="#ffffffff"><li>"계정을 터치하여 전화에 동기화할 수 있는 연락처로 계정을 추가 또는 설정하거나
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"옵션 표시를 터치하여 연락처가 보이도록 변경하거나
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"가져오기/내보내기를 터치하여 SIM 카드나 SD 카드에서 연락처를 가져오십시오
-"</li></font></b>"\" "</string>
+"<li><font fgcolor="#ffffffff"><b>"계정을 터치하여 전화에 동기화할 수 있는 연락처로 계정을 추가 또는 설정하거나
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"옵션 표시를 터치하여 연락처가 보이도록 변경하거나
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"가져오기/내보내기를 터치하여 SIM 카드나 SD 카드에서 연락처를 가져오십시오
+"</b></font></li>"\" "</string>
     <string name="noContactsNoSimHelpText">"\"표시할 연락처가 없습니다.
 
-연락처를 추가하려면, "<b><font fgcolor="#ffffffff">메뉴</font></b>"를 터치한 다음:
+연락처를 추가하려면, "<font fgcolor="#ffffffff"><b>메뉴</b></font>"를 터치한 다음:
  
-"<b><font fgcolor="#ffffffff"><li>"계정을 터치하여 전화에 동기화할 수 있는 연락처로 계정을 추가 또는 설정하거나
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"가져오기/내보내기를 터치하여 SD 카드에서 연락처를 가져오십시오
-"</li></font></b>"\" "</string>
+"<li><font fgcolor="#ffffffff"><b>"계정을 터치하여 전화에 동기화할 수 있는 연락처로 계정을 추가 또는 설정하거나
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"가져오기/내보내기를 터치하여 SD 카드에서 연락처를 가져오십시오
+"</b></font></li>"\" "</string>
     <string name="noContactsNoSimHelpTextWithSync">"\"표시할 연락처가 없습니다(방금 계정을 추가한 경우라면 연락처를 동기화하는 데 몇 분 걸릴 수 있습니다.).
 
-연락처를 추가하려면, "<b><font fgcolor="#ffffffff">메뉴</font></b>"를 터치한 다음:
+연락처를 추가하려면, "<font fgcolor="#ffffffff"><b>메뉴</b></font>"를 터치한 다음:
  
-"<b><font fgcolor="#ffffffff"><li>"계정을 터치하여 전화에 동기화할 수 있는 연락처로 계정을 추가 또는 설정하거나
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"옵션 표시를 터치하여 연락처가 보이도록 변경하거나
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"가져오기/내보내기를 터치하여 SD 카드에서 연락처를 가져오십시오
-"</li></font></b>"\" "</string>
+"<li><font fgcolor="#ffffffff"><b>"계정을 터치하여 전화에 동기화할 수 있는 연락처로 계정을 추가 또는 설정하거나
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"옵션 표시를 터치하여 연락처가 보이도록 변경하거나
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"가져오기/내보내기를 터치하여 SD 카드에서 연락처를 가져오십시오
+"</b></font></li>"\" "</string>
     <string name="noFavoritesHelpText">"\"즐겨찾기가 없습니다.
 
 즐겨찾기 목록에 연락처를 추가하려면:
- "<b><li>"연락처 탭을 터치하거나
-"</li></b>" 
+ "<li><b>"연락처 탭을 터치하거나
+"</b></li>" 
 "<li>"즐겨찾기에 추가하고 싶은 연락처를 터치하거나
 "</li>" 
 "<li>"연락처의 이름 옆에 있는 별 표시를 터치하십시오
@@ -1262,6 +1262,6 @@
     <string name="t9_search_empty_create_contact">새 연락처</string>
     <string name="t9_search_empty_video_call">영상 통화</string>
     <string name="t9_search_empty_send_sms">메세지 전송</string>
-    <string name="t9_search_empty_edit_contact">Add to contact</string>
-    <string name="add_field_toast">No more fields to add.</string>
+    <string name="t9_search_empty_edit_contact">연락처에 추가</string>
+    <string name="add_field_toast">추가할 공간이 없습니다</string>
 </resources>
