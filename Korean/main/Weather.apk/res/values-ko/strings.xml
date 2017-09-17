@@ -166,7 +166,7 @@
     <string name="more_details">더 자세한 정보</string>
     <string name="international_details_title">세부사항</string>
     <string name="international_details_wind_title">바람</string>
-    <string name="international_details_real_feel_title">REAL FEEL®</string>
+    <string name="international_details_real_feel_title">체감 온도®</string>
     <string name="international_details_uv_index_title">자외선 지수</string>
     <string name="international_details_pressure_title">기압</string>
     <string name="pressure_connect">%1$s mb</string>
