@@ -50,7 +50,7 @@
     <string name="share_desc"> MIUI 버전 %1$s 업데이트! 최신 변경사항을 확인하십시오 : https://xiaomi.eu/community/link-forums/rom-downloads.73/ </ string>
     <string name="share_title">공유하세요</string>
     <string name="stable">월간-안정화롬</string>
-    <string name="version">현재 설치되어 있는 버젼: </string>
+    <string name="version">현재 사용중인 버전: </string>
     <string name="weekly">주간-개발자롬</string>
     <string name="wifi_recommended"> Wi-Fi가 연결되어있지 않아서 안전하게 다운로드를 시작할 수 없습니다!</string>
 </resources>
