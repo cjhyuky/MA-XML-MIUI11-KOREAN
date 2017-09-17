@@ -481,6 +481,7 @@
     <string name="login139">China Mobile 로그인</string>
     <string name="login_failed_ticker">%s 로그인 실패</string>
     <string name="login_failed_title">로그인할 수 없습니다.</string>
+    <string name="login_support_tip_text">모든 일반 이메일 계정 로그인 지원</string>
     <string name="long_press_to_select_tip">길게 &amp; 터치하여 한 개의 대화를 선택한 후 터치하여 더 많은 대화를 선택하십시오.</string>
     <string name="mail">메일</string>
     <string name="mail_body_turncated">이 이메일은 너무 커서 로드할 수 없습니다. 일부분만 출력되니 전체는 나중에 PC로 확인하십시오.</string>
