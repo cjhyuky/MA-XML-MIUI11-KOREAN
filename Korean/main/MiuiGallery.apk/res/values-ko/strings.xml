@@ -883,7 +883,7 @@
     <string name="sub_discard_positive_btn">저장</string>
     <string name="sub_discard_negative_btn">변경 취소</string>
     <string name="photo_editor_navigator_cancel">취소</string>
-    <string name="photo_editor_navigator_export">Finish</string>
+    <string name="photo_editor_navigator_export">완료</string>
     <string name="photo_editor_beautify">뷰티</string>
     <string name="photo_editor_filter">필터</string>
     <string name="photo_editor_crop_and_rotate">자르기&amp;회전</string>
