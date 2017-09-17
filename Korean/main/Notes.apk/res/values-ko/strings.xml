@@ -121,7 +121,7 @@
     <string name="micloud_state_total_count">%1$s</string>
     <string name="pref_title_font_size">글꼴 크기</string>
     <string name="call_folder_name">통화 메모</string>
-    <string name="trash_folder_name">쓰레기</string>
+    <string name="trash_folder_name">휴지통</string>
     <string name="root_folder_name">빠른 메모</string>
     <string name="all_folder_name">전체 메모</string>
     <string name="hint_foler_name">이름</string>
