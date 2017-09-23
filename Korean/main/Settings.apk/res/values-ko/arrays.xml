@@ -544,15 +544,6 @@
         <item>최근 앱 트레이 표시</item>
         <item>메뉴 표시</item>
     </string-array>
-    <string-array name="key_and_gesture_shortcut_action">
-        <item>홈버튼 오래 누르기</item>
-        <item>메뉴버튼 오래 누르기</item>
-        <item>뒤로가기 오래 누르기</item>
-        <item>전원+홈버튼</item>
-        <item>전원+메뉴버튼</item>
-        <item>전원+뒤로가기</item>
-        <item>없음</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5초</item>
         <item>1초</item>
