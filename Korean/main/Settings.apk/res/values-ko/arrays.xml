@@ -459,11 +459,6 @@
         <item>시간초과됨</item>
         <item>실패</item>
     </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>질문</item>
-        <item>허용 안함</item>
-        <item>항상 허용</item>
-    </string-array>
     <string-array name="ram_states">
         <item>정상</item>
         <item>보통</item>
