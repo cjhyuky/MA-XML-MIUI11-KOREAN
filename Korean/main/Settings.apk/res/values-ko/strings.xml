@@ -2906,8 +2906,8 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="screenshot_three_gesture">세 손가락을 슬라이드해 스크린 샷 찍기</string>
     <string name="screenshot_three_gesture_summary">세 손가락을 이용한 다른 제스쳐가 꺼집니다.</string>
     <string name="has_screenshot_sound">스크린샷 소리</string>
-    <string name="key_settings_title">Buttons</string>
-    <string name="key_settings">Buttons</string>
+    <string name="key_settings_title">버튼 설정</string>
+    <string name="key_settings">버튼 설정</string>
     <string name="screen_key_press">탐색 버튼 누르기</string>
     <string name="screen_key_press_action">트리거 기능</string>
     <string name="screen_key_long_press">탐색 버튼 길게 누르기</string>
@@ -3837,7 +3837,7 @@ PIN 설정"</string>
     <string name="crypt_keeper_conditions_title">기기 암호화 정보</string>
     <string name="crypt_keeper_conditions">암호화 과정에 한 시간 혹은 더 걸리게 됩니다. 시작하시기 전 스마트폰의 배터리가 과정을 진행하기에 충분한지 확인해 주십시오. 만약 중단된다면 부분 혹은 전체 데이터를 잃게 될 것입니다.</string>
     <string name="application_lock_name">앱 잠금</string>
-    <string name="bug_report_settings">Feedback</string>
+    <string name="bug_report_settings">피드백</string>
     <string name="connecting_to_vpn">VPN에 연결 중</string>
     <string name="vpn_on">켜짐</string>
     <string name="vpn_off">꺼짐</string>
@@ -3875,7 +3875,7 @@ PIN 설정"</string>
     <string name="print_enable">프린트 활성화</string>
     <string name="print_remind">먼저 프린트 활성화</string>
     <string name="fp_nav_center_back_to_home_title">홈 버튼을 탭하여 홈 화면으로 돌아가기</string>
-    <string name="convenience_key_category_title">System control</string>
+    <string name="convenience_key_category_title">시스템 컨트롤</string>
     <string name="miui_experience_optimization">MIUI 최적화 켜기</string>
     <string name="open_miui_optimization_title">MIUI 최적화 켜기</string>
     <string name="close_miui_optimization_title">MIUI 최적화 끄기</string>
