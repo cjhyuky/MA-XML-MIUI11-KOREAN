@@ -68,6 +68,9 @@
     <string name="hide">숨기기</string>
     <string name="screen_button_tips">아래로 스와이프하여 화면 버튼을 숨깁니다.</string>
     <string name="screen_button">화면 버튼</string>
+    <string name="unimportant">중요하지 않음</string>
+    <string name="check_importance">중요도 확인</string>
+    <string name="statusbar_permission_desc">권한은 중요 알림에만 적용됩니다.</string>    
     <string name="setup_wizard_next_button_label">다음</string>
     <string name="setup_wizard_back_button_label">뒤로</string>
     <string name="menu_item_show_more">더 표시</string>
