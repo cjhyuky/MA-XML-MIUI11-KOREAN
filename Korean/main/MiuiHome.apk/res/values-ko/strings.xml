@@ -91,7 +91,7 @@
     <string name="sort_by_abc">이름순으로 정렬</string>
     <string name="encryption">암호화</string>
     <string name="failed_to_drop">이동할 수 없습니다.</string>
-    <string name="no_space_toast">Not enough space</string>
+    <string name="no_space_toast">공간이 부족합니다.</string>
     <string name="failed_to_drop_widget_invalid">위젯이 잘못되었습니다.</string>
     <string name="failed_to_delete_temporary">제거할 수 없습니다.</string>
     <string name="confirm_btn_label">확인</string>
