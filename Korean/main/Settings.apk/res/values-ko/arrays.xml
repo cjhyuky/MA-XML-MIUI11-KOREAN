@@ -5,14 +5,24 @@
         <item>분리</item>
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
-        <item>잠금화면과 알림창에만 표시</item>
-        <item>항상 표시</item>
-        <item>표시 하지 않음</item>
+        <item>잠금화면과 드롭 다운 메뉴에만 메시지 표시</item>
+        <item>항상 통신사 이름 표시</item>
+        <item>통신사 이름 표시하지 않음</item>
     </string-array>
     <string-array name="status_bar_show_carrier_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="check_importance_entries">
+        <item>추천</item>
+        <item>중요</item>
+        <item>중요하지 않음</item>
+    </string-array>
+    <string-array name="check_importance_summary">
+        <item>모든 중요하지 않은 알림은 분리된 폴더에 나타날 것입니다.</item>
+        <item>알림이 드롭 다운 메뉴에 직접 나타날 것입니다.</item>
+        <item>모든 알림이 분리된 폴더에 나타날 것입니다.</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>미국</item>
@@ -688,12 +698,12 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>자동으로 연결</item>
-        <item>수동으로 연결</item>
+        <item>수동 연결</item>
         <item>항상 문의</item>
     </string-array>
     <string-array name="wifi_ssid_type_entries">
         <item>자동으로 연결</item>
-        <item>수동으로 연결</item>
+        <item>수동 연결</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>런처</item>
@@ -993,7 +1003,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>프놈펜</item>
         <item>평양</item>
         <item>카타르</item>
-        <item>Rangoon</item>
+        <item>랑군</item>
         <item>리야드</item>
         <item>서울</item>
         <item>상하이</item>
@@ -1338,18 +1348,22 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1920 x 1080</item>
         <item>4.4</item>
     </string-array>
+    <string-array name="screen_key_position_action">
+        <item>메뉴 버튼은 왼쪽으로, 뒤로가기 버튼은 오른쪽으로</item>
+        <item>뒤로가기 버튼은 왼쪽으로, 메뉴 버튼은 오른쪽으로</item>
+    </string-array>
     <string-array name="connect_mode_entries">
-        <item>comtible mode</item>
-        <item>high mode</item>
+        <item>호환모드</item>
+        <item>고속모드</item>
     </string-array>
     <string-array name="connect_mode_values">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="traffic_balance_entries">
-        <item>닫기</item>
-        <item>일반 모드</item>
-        <item>익스트림 모드</item>
+        <item>꺼짐</item>
+        <item>일반모드</item>
+        <item>익스트림모드</item>
     </string-array>
     <string-array name="traffic_balance_values">
         <item>0</item>
@@ -1366,10 +1380,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="edge_touch_volume_action">
-        <item>Click adjust - Double click trigger</item>
-        <item>Slip adjust - Slip trigger</item>
-        <item>Click adjust - Click trigger</item>
-        <item>Click adjust - Long Click trigger</item>
+        <item>클릭 조절 - 두번 클릭 트리거</item>
+        <item>밀어서 조절 - 밀어서 트리거</item>
+        <item>클릭 조절 - 클릭 트리거</item>
+        <item>클릭 조절 - 길게 클릭 트리거</item>
     </string-array>
     <string-array name="silent_entries">
         <item>@string/standard</item>
@@ -1392,5 +1406,17 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>60</item>
         <item>120</item>
         <item>480</item>
+    </string-array>
+    <string-array name="vip_mode_text">
+        <item>모든사람</item>
+        <item>연락처의 사람만</item>
+        <item>소장된 연락처의 사람만</item>
+        <item>미설정</item>
+    </string-array>
+    <string-array name="vip_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
 </resources>
