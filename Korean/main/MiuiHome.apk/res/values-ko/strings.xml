@@ -266,12 +266,12 @@
     <string name="notification_open_button">열기</string>
     <string name="toast_screen_icons_misplaced">다른 경로를 통해 복원되었습니다. 몇몇 아이콘들이 잘못 배치되었을 수 있습니다.</string>
     <string name="screen_locked_toast">홈 화면 레이아웃 잠김</string>
-    <string name="widget_quick_function">Quick functions</string>
-    <string name="menu_trans_effect">Transition effects</string>
-    <string name="menu_default_screen_preview">Set default screen</string>
-    <string name="menu_cell_setting">Home screen layout</string>
-    <string name="menu_auto_fill">Fill empty cells</string>
-    <string name="menu_lock">Lock Home screen layout</string>
+    <string name="widget_quick_function">빠른 기능</string>
+    <string name="menu_trans_effect">변환 효과</string>
+    <string name="menu_default_screen_preview">기본 화면 설정</string>
+    <string name="menu_cell_setting">홈화면 레이아웃</string>
+    <string name="menu_auto_fill">빈 공간 채우기</string>
+    <string name="menu_lock">홈 화면 레이아웃 잠금</string>
     <string name="menu_more">더 보기</string>
-    <string name="default_screen_preview_title">Tap to set default screen</string>
+    <string name="default_screen_preview_title">기본화면을 설정하려면 탭하세요</string>
 </resources>
