@@ -2389,6 +2389,10 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="keywords_users">제한 제한하다 제한됨</string>
     <string name="keywords_keyboard_and_ime">텍스트 수정 올바른 소리 진동 자동 언어 동작 제안 추천 테마 불쾌감을 주는 단어 입력 그림 이모티콘</string>
     <string name="keywords_lockscreen">슬라이드 비밀번호 패턴 PIN</string>
+    <string name="sound_settings_summary">전화 벨소리를 %1$s %로 설정</string>
+    <string name="sound_settings_example_summary">전화 벨소리를 80%로 설정</string>
+    <string name="alarm_ringtone_title">기본 알람음</string>
+    <string name="charging_sounds_title">충전 연결음</string>
     <string name="setup_wifi_nfc_tag">Wi-Fi NFC 태그 설정</string>
     <string name="write_tag">쓰기</string>
     <string name="status_awaiting_tap">태그를 탭하여 작성하세요...</string>
