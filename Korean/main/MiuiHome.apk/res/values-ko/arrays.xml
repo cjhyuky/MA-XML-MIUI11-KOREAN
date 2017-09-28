@@ -57,6 +57,6 @@
     <string-array name="editing_mode_entries">
         <item>배경화면</item>
         <item>위젯</item>
-        <item>Settings</item>
+        <item>설정</item>
     </string-array>
 </resources>
