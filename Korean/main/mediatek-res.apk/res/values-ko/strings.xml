@@ -163,7 +163,7 @@
     <string name="usb_ums_notification_title">USB 저장소로 연결됨</string>
     <string name="usb_charging_notification_title">USB 충전 전용</string>
     <string name="gps_time_sync_fail_str">GPS 제공 시간을 불러오는 데 실패했습니다</string>
-    <string name="tethered_notification_message_for_hotspot">%1$d이(가) 연결됨, %2$d이(가) 차단됨</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d대 연결됨, %2$d대 차단됨</string>
     <string name="tethered_notification_message_bandwidth_set">대역폭이 설정됨</string>
     <string name="default_wallpaper_name">기본값</string>
     <string name="description_direction_right">오른쪽으로 슬라이드하여 취소</string>
