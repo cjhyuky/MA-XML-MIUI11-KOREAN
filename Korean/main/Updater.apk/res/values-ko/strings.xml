@@ -10,7 +10,7 @@
     <string name="btn_ok">확인</string>
     <string name="btn_share">공유</string>
     <string name="btn_yes">확인</string>
-    <string name="check_new_version">확인</string>
+    <string name="check_new_version">업데이트 확인</string>
     <string name="dialog_3g_desc">모바일 데이터를 사용하여 롬을 다운로드하면 패킷의 상당한 할당량이 사용될 수 있습니다.</string>
     <string name="dialog_3g_title">경고!</string>
     <string name="dialog_btn_3g">계속하기</string>
