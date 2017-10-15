@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">계산기</string>
-    <string name="app_name_danfa">Mi 계산기</string>
+    <string name="app_name_danfa">계산기</string>
     <string name="error">오류</string>
     <string name="devided_by_zero_reminder_message">0을 나눌 수 없습니다.</string>
     <string name="digit0">0</string>
