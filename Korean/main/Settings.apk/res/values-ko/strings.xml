@@ -1853,6 +1853,9 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="allow_usage_access_message">액세스를 허용하는 경우 이 앱에서 내 기기의 앱에 대한 일반적인 정보(예: 앱 사용 빈도)를 볼 수 있습니다.</string>
     <string name="emergency_tone_title">긴급 신호음</string>
     <string name="emergency_tone_summary">긴급 통화 중 동작 설정</string>
+    <string name="emergency_tone_alert">경고</string>
+    <string name="emergency_tone_silent">무음 모드</string>
+    <string name="emergency_tone_vibrate">진동</string>
     <string name="privacy_settings">백업 및 초기화</string>
     <string name="privacy_settings_title">백업 및 초기화</string>
     <string name="backup_section_title">백업 및 복원</string>
