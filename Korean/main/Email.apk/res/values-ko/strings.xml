@@ -357,8 +357,8 @@
     <string name="disturb_switch">방해 금지</string>
     <string name="done">완료</string>
     <string name="done_action">완료</string>
-    <string name="donot_disturb_endtime_title">수신</string>
-    <string name="donot_disturb_starttime_title">발신</string>
+    <string name="donot_disturb_endtime_title">종료</string>
+    <string name="donot_disturb_starttime_title">시작</string>
     <string name="donot_disturb_summary">수신 이메일의 알림이 무음 설정됩니다.</string>
     <string name="donot_disturb_title">방해 금지</string>
     <string name="downlaod_cancel_confirm_download">중지</string>
