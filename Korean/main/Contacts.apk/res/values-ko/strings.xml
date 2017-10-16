@@ -962,6 +962,7 @@
     <string name="type_mx_msg">Mi 메시지</string>
     <string name="qr_card_card">QR 코드</string>
     <string name="unknown_details_new_contact">새 연락처</string>
+    <string name="unknown_details_add_to_contact">기존연락처에 추가</string>
     <string name="unfold_all">전부 펼치기</string>
     <string name="menu_new_favorite_action_bar">즐겨찾기에 추가</string>
     <string name="click_close">탭하여 종료</string>
