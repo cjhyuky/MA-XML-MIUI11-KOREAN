@@ -23,6 +23,9 @@
   <string name="action_menu_account_not_login_hint">Mi 클라우드와 동기화하기 위해 로그인</string>
   <string name="action_menu_bookshelf">책장</string>
   <string name="action_menu_current_version">현재 버전</string>
+  <string name="action_menu_request_desktop_site">데스크탑 모드</string>
+  <string name="action_menu_request_desktop_site_off">데스크탑 모드/꺼짐</string>
+  <string name="action_menu_request_desktop_site_on">데스크탑 모드/켜짐</string>
   <string name="action_menu_text_add_bookmark">북마크 추가</string>
   <string name="action_menu_text_bandwidth">데이터 절약</string>
   <string name="action_menu_text_bandwidth_off">데이터 절약</string>
