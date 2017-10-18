@@ -277,10 +277,10 @@
     <string name="micloud_main_cancel_sync">동기화 취소</string>
     <string name="micloud_main_query_again">Query</string>
     <string name="micloud_main_wait_wlan">Wi-Fi를 기다리는 중</string>
-    <string name="micloud_main_wait_wlan_charge_sleep">Waiting for Wi-Fi, connecting charger and turn off screen</string>
-    <string name="micloud_main_wait_wlan_charge">Waiting for Wi-Fi, connecting charger</string>
-    <string name="micloud_main_wait_charge_sleep">Waiting for connecting charger and turn off screen</string>
-    <string name="micloud_main_wait_charge">Waiting for connecting charger</string>
+    <string name="micloud_main_wait_wlan_charge_sleep">충전기를 연결하고 Wi-Fi 연결과 화면 꺼짐을 기다리는 중</string>
+    <string name="micloud_main_wait_wlan_charge">충전기를 연결하고 Wi-Fi 연결을 기다리는 중</string>
+	<string name="micloud_main_wait_charge_sleep">충전기를 연결하고 화면 끄기를 기다리는 중</string>
+    <string name="micloud_main_wait_charge">충전기를 연결하기를 기다리는 중</string>
     <string name="micloud_main_resume_sync_soon">곧 동기화 계속</string>
     <string name="micloud_main_button_set_internet">Setting</string>
     <string name="micloud_main_button_activate">활성화</string>
@@ -407,10 +407,10 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_main_title_sync_on_wifi">Wi-Fi 사용</string>
     <string name="micloud_main_title_sync_off">동기화 해제</string>
     <string name="micloud_main_title_master_sync_off">자동 동기화 꺼짐</string>
-    <string name="micloud_main_message_master_sync_off">Auto sync setting is in notification bar.</string>
-    <string name="micloud_main_error_network_disallowed">Please ensure the permission of accessing Internet.</string>
+	<string name="micloud_main_message_master_sync_off">자동 동기화 설정은 알림 표시줄에 있습니다.</string>
+	<string name="micloud_main_error_network_disallowed">인터넷 권한을 확인해주십시오.</string>
     <string name="micloud_main_error_activated_fail">SIM 카드를 활성화 해주십시오.</string>
-    <string name="micloud_main_error_permission_limit">Please authorize access database permission for micloud.</string>
+	<string name="micloud_main_error_permission_limit">Mi 클라우드에 대한 저장소 접근 권한을 허가해주십시오.</string>
     <string name="micloud_confusion_no">아니요</string>
     <string name="micloud_confusion_yes">예</string>
     <string name="micloud_confusion_cancel">취소</string>
@@ -505,7 +505,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_find_device_guide_alert_negtive">사양하겠습니다</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">사양하겠습니다</string>
     <string name="micloud_find_device_close_alert_title">기기 찾기를 끄시겠습니까?</string>
-    <string name="micloud_find_device_close_alert_content">"If you turn this feature off, you wan't be able to locate your device in case it's lost."</string>
+	<string name="micloud_find_device_close_alert_content">"이 기능을 해제하면 기기를 분실하였을 경우 위치를 찾을 수 없습니다."</string>
     <string name="micloud_find_device_close_alert_positive">끄지않기</string>
     <string name="micloud_find_device_close_alert_negtive">그래도 끄기</string>
     <string name="activate_finddevice">기기를 활성화 하시려면 네트워크에 연결하십시오.</string>

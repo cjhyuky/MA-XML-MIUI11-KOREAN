@@ -237,7 +237,7 @@ EEEE"</string>
     <string name="expanded_confirm_disable_notification">숨기기</string>
     <string name="block_record_notification_title">알림 숨겨짐</string>
     <string name="block_record_notification_text">%1$s의 알림 숨기는 중</string>
-    <string name="notification_hidden_text">Notification is hidden</string>
+    <string name="notification_hidden_text">알림이 숨겨져 있습니다.</string>
     <string name="block_notification_text">숨기기</string>
     <string name="block_notification_content_text">%1$s의 알림이 다시 표시되지 않습니다. 설정에서 변경하실 수 있습니다.</string>
     <string name="notification_otg_mouse_in">마우스 연결됨</string>

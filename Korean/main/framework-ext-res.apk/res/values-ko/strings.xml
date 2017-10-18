@@ -141,8 +141,8 @@
     <string name="button_text_next_step">다음</string>
     <string name="button_text_delete_timer">Uninstall (%d)</string>
     <string name="package_delete_confirm_step_1">Uninstall %s?</string>
-    <string name="package_delete_confirm_step_2">Uninstalling this app may cause your system to become unstable.</string>
-    <string name="package_delete_confirm_step_3">"You won't be able to open this app after you uninstall it."</string>
+    <string name="package_delete_confirm_step_2">이 앱을 삭제하면 시스템이 불안정해질 수 있습니다.</string>
+    <string name="package_delete_confirm_step_3">"제거한 후에는 이 앱을 실행할 수 없습니다."</string>
     <string name="silence_mode">무음 모드</string>
     <string name="standard">무음</string>
     <string name="total">방해 금지 모드</string>
@@ -159,9 +159,9 @@
     <string name="eighthours">8시간</string>
     <string name="remain">Remaining: %s</string>
     <string name="configure_input_methods">키보드 선택</string>
-    <string name="miui_upgrading_notification_title">Loading system, some features may not be available.</string>
+    <string name="miui_upgrading_notification_title">시스템 로딩중, 일부 기능을 사용할 수 없습니다.</string>
     <string name="miui_screen_ratio_hint">화면 비율 문제</string>
-    <string name="miui_screen_ratio_hint_message">This app is allowed to run in the fullscreen mode, which may cause it to be displayed incorrectly. You can change this in Settings > Additional settings > Buttons.</string>
+	<string name="miui_screen_ratio_hint_message">이 앱은 풀스크린 모드에서 실행이 될수 있으므로, 잘못 표시될 수 있습니다. 설정 > 추가 설정 > 버튼 설정에서 이 옵션을 변경할 수 있습니다.</string>
     <string name="miui_screen_ratio_hint_dont_show_again">다시 표시하지 않기</string>
     <string name="miui_screen_ratio_hint_ok">확인</string>
     <string name="miui_screen_ratio_hint_go_to_settings">설정으로 이동</string>
