@@ -1072,8 +1072,6 @@
     <string name="import_name">이름</string>
     <string name="import_percent">0%</string>
     <string name="percent_sign">%</string>
-    <string name="ret_sign">"
-"</string>
     <string name="checkhint">목표 전화 확인</string>
     <string name="prepare_import">연락처 가져오기</string>
     <string name="device_import_message">가져오는 중</string>
