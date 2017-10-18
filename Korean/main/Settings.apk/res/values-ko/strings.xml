@@ -2434,9 +2434,6 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="dock_audio_media_title">도크 스피커 재생</string>
     <string name="dock_audio_media_disabled">모든 오디오</string>
     <string name="dock_audio_media_enabled">미디어 오디오만</string>
-    <string name="emergency_tone_silent">무음</string>
-    <string name="emergency_tone_alert">알림</string>
-    <string name="emergency_tone_vibrate">진동</string>
     <string name="manage_notification_access_title">알림 액세스</string>
     <string name="manage_notification_access_summary_zero">앱에서 알림을 읽을 수 없습니다.</string>
     <string name="no_notification_listeners">알림 수신기가 설치되지 않았습니다.</string>
