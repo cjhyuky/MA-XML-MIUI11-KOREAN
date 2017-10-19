@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="nfc_category_title">NFC</string>
-    <string name="nfc_how_it_works_config">결제 앱을 설정합니다. 그런 다음 NFC 표시가있는 기기에 휴대 전화의 뒷면을 올려 놓으십시오.</string>
-    <string name="nfc_how_it_works_got_it">확인</string> 
-    <string name="nfc_how_it_works_title">NFC로 결재</string> 
-    <string name="nfc_more_title">더보기...</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string> 
-    <string name="nfc_payment_default">기본 결재방법</string> 
-    <string name="nfc_payment_default_not_set">설정되지 않음</string> 
-    <string name="nfc_payment_favor_default">항상</string> 
-    <string name="nfc_payment_favor_open">다른 결재앱이 열여있으면 제외</string> 
-    <string name="nfc_payment_how_it_works">사용법</string> 
-    <string name="nfc_payment_no_apps">상점에서 폰으로 결재</string> 
-    <string name="nfc_payment_pay_with">결재하려면  탭하세요</string>
-    <string name="nfc_payment_set_default">%1$s 사용하여 항상 탭하여 결재하시겠습니까?</string>
-    <string name="nfc_payment_set_default_instead_of">항상 %2$s 대신 %1$s 사용하여 결재 할까요?</string>
-    <string name="nfc_payment_set_default_label">기본값으로 설정할까요?</string> 
-    <string name="nfc_payment_settings_title">탭하여 결재</string> 
-    <string name="nfc_payment_use_default">기본값 사용</string> 
-    <string name="nfc_quick_toggle_summary">다른기기와 데이터 교환 허용</string> 
-    <string name="nfc_quick_toggle_title">NFC</string>
-    <string name="nfc_se_route_title">보안 설정</string> 
-    <string name="nfc_se_wallet_title">기본 지갑</string>
-    <string name="wifi_ap_band_config">와이파이 밴드 선택</string>
     <string name="launcher_title">홈 화면 &amp; 최근</string>
     <string name="defalut_launcher_title">기본 런처</string>
     <string name="miui_screen_config_title">홈 화면 설정</string>
