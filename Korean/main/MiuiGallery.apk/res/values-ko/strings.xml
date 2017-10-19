@@ -285,7 +285,6 @@
     <string name="app_name_view_video">비디오 보기</string>
     <string name="video_err">동영상을 실행할 수 없습니다.</string>
     <string name="exit_video_play">종료</string>
-    <string name="must_pick_file">사진 선택</string>
     <string name="picker_title_selection_format">선택된 사진: %d</string>
     <string name="picker_title_format">%1$d부터 %2$d까지 사진 선택</string>
     <string name="picker_title_specify_format">%d개 사진 선택</string>
