@@ -4376,4 +4376,8 @@ PIN 설정"</string>
     <string name="usb_dlg_confirm_unmount_text">USB 저장소를 분리하신다면 다시 장착하실 때까지 사용 중이신 몇몇 앱이 멈춰지거나 사용하실 수 없게 될 것입니다.</string>
     <string name="usb_dlg_confirm_unmount_title">USB 저장소를 분리하시겠습니까?</string>
     <string name="use_media_format_desc">USB 저장소를 지우시겠습니까? <b>전체</b> 파일이 영구적으로 삭제될 것입니다.</string>
+    <string name="usb_use">USB 연결방식</string>
+    <string name="usb_use_charging_only">충전 전용</string>
+    <string name="usb_use_file_transfers">파일 전송(MTP)</string>
+    <string name="usb_use_photo_transfers">사진 전송(PTP)</string> 
 </resources>
