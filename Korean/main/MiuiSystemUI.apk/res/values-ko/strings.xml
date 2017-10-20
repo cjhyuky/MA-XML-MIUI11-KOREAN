@@ -28,7 +28,7 @@
 %1$s입니다."</string>
     <string name="usb_debugging_always">이 컴퓨터에서는 항상 허용합니다.</string>
     <string name="screenshot_saved_text">탭하여 스크린샷 보기</string>
-    <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space, or the app doesn't allow it."</string>
+    <string name="screenshot_failed_text">"저장공간부족 또는 스크린샷 사용금지앱"</string>
     <string name="accessibility_back">뒤로</string>
     <string name="accessibility_home">홈</string>
     <string name="accessibility_menu">메뉴</string>
@@ -212,7 +212,8 @@ EEEE"</string>
     <string name="expanded_confirm_disable_notification">숨기기</string>
     <string name="block_record_notification_title">알림 숨겨짐</string>
     <string name="block_record_notification_text">%1$s의 알림 숨기는 중</string>
-    <string name="notification_hidden_text">Notification is hidden</string>
+    <string name="block_notification_desc">"이 앱의 알림이 표시되지 않습니다. 설정에서 변경하실 수 있습니다."</string>
+    <string name="notification_hidden_text">알림이 숨겨져 있습니다</string>    
     <string name="block_notification_text">숨기기</string>
     <string name="block_notification_content_text">%1$s의 알림이 다시 표시되지 않습니다. 설정에서 변경하실 수 있습니다.</string>
     <string name="notification_otg_mouse_in">마우스 연결됨</string>
