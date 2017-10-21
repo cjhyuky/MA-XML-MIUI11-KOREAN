@@ -1525,6 +1525,11 @@ PIN이 잘못된 것 같습니다."</string>
 기기를 여러 사용자가 사용하는 경우 잠금 화면에 있는 바로가기를 사용하여 기기가 잠길 때까지 임시적으로 접근성 기능을 사용하도록 설정할 수 있습니다."</string>
     <string name="accessibility_toggle_large_text_preference_title">큰 텍스트</string>
     <string name="accessibility_toggle_high_text_contrast_preference_title">고대비 텍스트</string>
+    <string name="accessibility_autoclick_delay_preference_title">자동클릭전 지연시간설정</string>
+    <string name="accessibility_autoclick_preference_title">마우스 커서 움직임이 멈추면 자동클릭</string>
+    <string name="accessibility_toggle_large_pointer_icon_title">큰 마우스 커서</string>
+    <string name="accessibility_toggle_master_mono_summary">오디오 재생시 스테레오를 모노로 재생</string>
+    <string name="accessibility_toggle_master_mono_title">모노 오디오</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">화면 확대</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">화면 확대 자동 업데이트</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">앱 전환 시 화면 확대 업데이트</string>
