@@ -4396,4 +4396,24 @@ PIN 설정"</string>
     <string name="nfc_payment_pay_with">결재하려면  탭하세요</string>		
     <string name="nfc_payment_use_default">기본값 사용</string> 		
     <string name="wifi_ap_band_config">와이파이 밴드 선택</string>
+    <string name="key_position_cat">버튼 위치</string>
+    <string name="pref_operational_key">탐색 버튼</string>
+    <string name="select_webview_provider_dialog_title">WebView 구현 설정</string>
+    <string name="select_webview_provider_title">WebView 구현 설정</string>
+    <string name="select_webview_provider_toast_text">이 선택 사항은 더 이상 유효하지 않습니다. 다시 시도하십시오.</string>
+    <string name="enable_webview_multiprocess">다중 프로세스 WebView</string>
+    <string name="enable_webview_multiprocess_desc">WebView 렌더러를 개별적으로 실행</string>
+    <string name="mock_location_app">모의 위치 앱 선택</string>
+    <string name="mock_location_app_not_set">모의 위치 앱이 설정되지 않았습니다.</string>
+    <string name="mock_location_app_set">모의 위치 앱 : %1$s</string>
+    <string name="mobile_data_always_on">모바일 데이터 항상 켜기</string>
+    <string name="mobile_data_always_on_summary">와이파이가 켜져있어도 빠른 네트워크 전환을 위해 항상 모바일 데이터를 활성 상태로 유지합니다.</string>
+    <string name="select_usb_configuration_dialog_title">USB 연결 선택</string>
+    <string name="select_usb_configuration_title">USB 연결 선택</string>
+    <string name="bluetooth_disable_absolute_volume">절대 볼륨 사용 안함</string>
+    <string name="bluetooth_disable_absolute_volume_summary">허용되지 않는 큰 볼륨이나 제어 할 수없는 것과 같이 원격 장치의 볼륨 문제가 발생할 경우 블루투스의 절대 볼륨을 비활성화합니다.</string>
+    <string name="force_allow_on_external">앱이 외부 저장소에 쓰기를 항상 허용</string>
+    <string name="force_allow_on_external_summary">모든 앱이 외부 저장소에 기록할 수 있게 합니다</string>
+    <string name="force_resizable_activities">창 크기 조절 허용</string>
+    <string name="force_resizable_activities_summary">모든 앱에서 다중 창 크기를 조정할 수 있게 합니다</string>    
 </resources>
