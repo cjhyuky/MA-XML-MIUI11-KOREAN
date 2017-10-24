@@ -3040,7 +3040,6 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="led_frequence_summary">LED 등의 점등 간격 설정</string>
     <string name="led_pulse_summary">새 알림이 수신됐을 때 알림 표시등 반복 점등</string>
     <string name="show_rounded_corners">둥근 모서리 표시</string>
-    <string name="pref_operational_key">탐색 버튼</string>
     <string name="pref_button_light">버튼 표시등</string>
     <string name="pref_button_light_summary">메뉴, 홈, 뒤로 버튼 점등</string>
     <string name="button_light_timeout">버튼 LED점등 유지 시간 설정</string>
