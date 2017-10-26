@@ -70,6 +70,7 @@
     <string name="app_store_missing_message">공식 앱 스토어가 설치되지 않은 것 같습니다. 지금 설치하시겠습니까?</string>
     <string name="app_store_install_hint">지금 설치</string>
     <string name="app_store_installing_message">설치 중…</string>
+    <string name="app_version">버전：%1$s</string>
     <string name="btn_text_security_install">안전한 버전으로 교체하기</string>
     <string name="btn_text_install_new_version">최신 버전</string>
     <string name="btn_text_install_origin">오리지날 버전</string>
@@ -91,7 +92,7 @@
     <string name="ads_install_button_installed">열기</string>
     <string name="ads_install_button_waiting">대기 중</string>
     <string name="ads_summary">%1$s 을(를) 좋아한 사람들도 좋아한 것</string>
-    <string name="ads">Ads</string>
+    <string name="ads">광고</string>
     <string name="pref_key_antivirus">안티바이러스</string>
     <string name="pref_key_antivirus_summary">설치 전 앱 바이러스 확인</string>
     <string name="pref_ads">추천</string>
@@ -238,6 +239,7 @@
     <string name="loading">불러오는 중…</string>
     <string name="all_permissions">모든 권한</string>
     <string name="other_permissions">기타 앱 기능</string>
+    <string name="permission_detail">권한</string>
     <string name="permission_request_title">권한 요청</string>
     <string name="screen_overlay_title">화면 오버레이 감지됨</string>
     <string name="screen_overlay_message">권한 설정을 변경하려면 먼저 설정 > 앱에서 화면 오버레이를 꺼야 합니다.</string>
