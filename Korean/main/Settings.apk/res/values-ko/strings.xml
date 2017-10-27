@@ -2936,7 +2936,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="screen_shot">스크린샷 촬영</string>
     <string name="launch_voice_assistant">음성도우미 열기</string>
     <string name="launch_google_search">구글검색 열기</string>
-    <string name="go_to_sleep">화면 닫기</string>
+    <string name="go_to_sleep">화면 끄기</string>
     <string name="turn_on_torch">손전등 켜기</string>
     <string name="close_app">현재앱 닫기</string>
     <string name="show_menu">메뉴 보기</string>
