@@ -2871,8 +2871,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="access_control_password_title">비밀번호</string>
     <string name="access_control_need_to_unlock">암호가 필요합니다:</string>
     <string name="access_control_reset_by_account">비밀번호를 재설정하기 위해서 Mi 계정으로 로그인하십시오.</string>
-    <string name="access_control_need_password">"%s 잠김
-"</string>
+    <string name="access_control_need_password">"%s 잠김"</string>
     <string name="access_control_no_back_footer">나가려면 [icon] 을 터치하십시오.</string>
     <string name="access_control_recording_intro_header">잠금 해제 패턴 그리기:</string>
     <string name="access_control_app_entry_single">앱 실행</string>
@@ -2919,6 +2918,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="has_screenshot_sound">스크린샷 소리</string>
     <string name="key_settings_title">버튼 설정</string>
     <string name="key_settings">버튼 설정</string>
+    <string name="screen_key_position">탐색 버튼 설정</string>
     <string name="screen_key_press">탐색 버튼 누르기</string>
     <string name="screen_key_press_action">트리거 기능</string>
     <string name="screen_key_long_press">탐색 버튼 길게 누르기</string>
