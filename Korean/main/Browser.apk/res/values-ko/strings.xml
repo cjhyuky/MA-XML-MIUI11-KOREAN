@@ -565,7 +565,7 @@
   <string name="pref_privacy_formdata_title">양식 데이터</string>
   <string name="pref_privacy_location_title">위치 접근</string>
   <string name="pref_privacy_security_title">개인정보 보호 &amp; 보안</string>
-  <string name="pref_save_bandwidth_mode_title">데이터 사용량 줄이기</string>
+  <string name="pref_save_bandwidth_mode_title">데이터 세이버</string>
   <string name="pref_security_accept_cookies">쿠키 허용</string>
   <string name="pref_security_accept_cookies_summary">사이트의 쿠키 데이터 저장과 읽기 허용</string>
   <string name="pref_security_passwords_title">비밀번호</string>
