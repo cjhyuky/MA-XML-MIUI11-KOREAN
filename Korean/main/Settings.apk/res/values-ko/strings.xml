@@ -1525,6 +1525,11 @@ PIN이 잘못된 것 같습니다."</string>
 기기를 여러 사용자가 사용하는 경우 잠금 화면에 있는 바로가기를 사용하여 기기가 잠길 때까지 임시적으로 접근성 기능을 사용하도록 설정할 수 있습니다."</string>
     <string name="accessibility_toggle_large_text_preference_title">큰 텍스트</string>
     <string name="accessibility_toggle_high_text_contrast_preference_title">고대비 텍스트</string>
+    <string name="accessibility_autoclick_delay_preference_title">자동클릭전 지연시간설정</string>
+    <string name="accessibility_autoclick_preference_title">마우스 커서 움직임이 멈추면 자동클릭</string>
+    <string name="accessibility_toggle_large_pointer_icon_title">큰 마우스 커서</string>
+    <string name="accessibility_toggle_master_mono_summary">오디오 재생시 스테레오를 모노로 재생</string>
+    <string name="accessibility_toggle_master_mono_title">모노 오디오</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">화면 확대</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">화면 확대 자동 업데이트</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">앱 전환 시 화면 확대 업데이트</string>
@@ -2866,8 +2871,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="access_control_password_title">비밀번호</string>
     <string name="access_control_need_to_unlock">암호가 필요합니다:</string>
     <string name="access_control_reset_by_account">비밀번호를 재설정하기 위해서 Mi 계정으로 로그인하십시오.</string>
-    <string name="access_control_need_password">"%s 잠김
-"</string>
+    <string name="access_control_need_password">"%s 잠김"</string>
     <string name="access_control_no_back_footer">나가려면 [icon] 을 터치하십시오.</string>
     <string name="access_control_recording_intro_header">잠금 해제 패턴 그리기:</string>
     <string name="access_control_app_entry_single">앱 실행</string>
@@ -2914,6 +2918,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="has_screenshot_sound">스크린샷 소리</string>
     <string name="key_settings_title">버튼 설정</string>
     <string name="key_settings">버튼 설정</string>
+    <string name="screen_key_position">탐색 버튼 설정</string>
     <string name="screen_key_press">탐색 버튼 누르기</string>
     <string name="screen_key_press_action">트리거 기능</string>
     <string name="screen_key_long_press">탐색 버튼 길게 누르기</string>
@@ -2931,7 +2936,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="screen_shot">스크린샷 촬영</string>
     <string name="launch_voice_assistant">음성도우미 열기</string>
     <string name="launch_google_search">구글검색 열기</string>
-    <string name="go_to_sleep">화면 닫기</string>
+    <string name="go_to_sleep">화면 끄기</string>
     <string name="turn_on_torch">손전등 켜기</string>
     <string name="close_app">현재앱 닫기</string>
     <string name="show_menu">메뉴 보기</string>
@@ -3035,7 +3040,6 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="led_frequence_summary">LED 등의 점등 간격 설정</string>
     <string name="led_pulse_summary">새 알림이 수신됐을 때 알림 표시등 반복 점등</string>
     <string name="show_rounded_corners">둥근 모서리 표시</string>
-    <string name="pref_operational_key">탐색 버튼</string>
     <string name="pref_button_light">버튼 표시등</string>
     <string name="pref_button_light_summary">메뉴, 홈, 뒤로 버튼 점등</string>
     <string name="button_light_timeout">버튼 LED점등 유지 시간 설정</string>
@@ -4376,4 +4380,38 @@ PIN 설정"</string>
     <string name="usb_dlg_confirm_unmount_text">USB 저장소를 분리하신다면 다시 장착하실 때까지 사용 중이신 몇몇 앱이 멈춰지거나 사용하실 수 없게 될 것입니다.</string>
     <string name="usb_dlg_confirm_unmount_title">USB 저장소를 분리하시겠습니까?</string>
     <string name="use_media_format_desc">USB 저장소를 지우시겠습니까? <b>전체</b> 파일이 영구적으로 삭제될 것입니다.</string>
+    <string name="usb_use">USB 연결방식</string>
+    <string name="usb_use_charging_only">충전 전용</string>
+    <string name="usb_use_file_transfers">파일 전송(MTP)</string>
+    <string name="usb_use_photo_transfers">사진 전송(PTP)</string>
+    <string name="nfc_how_it_works_config">결제 앱을 설정합니다. 그런 다음 NFC 표시가있는 기기에 휴대 전화의 뒷면을 올려 놓으십시오.</string>		
+    <string name="nfc_how_it_works_got_it">확인</string> 		
+    <string name="nfc_how_it_works_title">NFC로 결재</string> 		
+    <string name="nfc_payment_default">기본 결재방법</string> 		
+    <string name="nfc_payment_default_not_set">설정되지 않음</string> 		
+    <string name="nfc_payment_favor_default">항상</string> 		
+    <string name="nfc_payment_favor_open">다른 결재앱이 열여있으면 제외</string> 		
+    <string name="nfc_payment_pay_with">결재하려면  탭하세요</string>		
+    <string name="nfc_payment_use_default">기본값 사용</string> 		
+    <string name="wifi_ap_band_config">와이파이 밴드 선택</string>
+    <string name="key_position_cat">버튼 위치</string>
+    <string name="pref_operational_key">탐색 버튼</string>
+    <string name="select_webview_provider_dialog_title">WebView 구현 설정</string>
+    <string name="select_webview_provider_title">WebView 구현 설정</string>
+    <string name="select_webview_provider_toast_text">이 선택 사항은 더 이상 유효하지 않습니다. 다시 시도하십시오.</string>
+    <string name="enable_webview_multiprocess">다중 프로세스 WebView</string>
+    <string name="enable_webview_multiprocess_desc">WebView 렌더러를 개별적으로 실행</string>
+    <string name="mock_location_app">모의 위치 앱 선택</string>
+    <string name="mock_location_app_not_set">모의 위치 앱이 설정되지 않았습니다.</string>
+    <string name="mock_location_app_set">모의 위치 앱 : %1$s</string>
+    <string name="mobile_data_always_on">모바일 데이터 항상 켜기</string>
+    <string name="mobile_data_always_on_summary">와이파이가 켜져있어도 빠른 네트워크 전환을 위해 항상 모바일 데이터를 활성 상태로 유지합니다.</string>
+    <string name="select_usb_configuration_dialog_title">USB 연결 선택</string>
+    <string name="select_usb_configuration_title">USB 연결 선택</string>
+    <string name="bluetooth_disable_absolute_volume">절대 볼륨 사용 안함</string>
+    <string name="bluetooth_disable_absolute_volume_summary">허용되지 않는 큰 볼륨이나 제어 할 수없는 것과 같이 원격 장치의 볼륨 문제가 발생할 경우 블루투스의 절대 볼륨을 비활성화합니다.</string>
+    <string name="force_allow_on_external">앱이 외부 저장소에 쓰기를 항상 허용</string>
+    <string name="force_allow_on_external_summary">모든 앱이 외부 저장소에 기록할 수 있게 합니다</string>
+    <string name="force_resizable_activities">창 크기 조절 허용</string>
+    <string name="force_resizable_activities_summary">모든 앱에서 다중 창 크기를 조정할 수 있게 합니다</string>    
 </resources>

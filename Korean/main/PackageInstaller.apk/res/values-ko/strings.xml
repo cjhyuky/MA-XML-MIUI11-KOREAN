@@ -64,12 +64,13 @@
     <string name="virus_scan_clear">제거</string>
     <string name="virus_scan_caller_unknown">알 수 없음</string>
     <string name="lift_ban_once">한 번 허용</string>
-    <string name="dlg_appstore_notice">&lt;u>&lt;font color=#91c727>앱 스토어&lt;/font>&lt;/u> 외부 출처 앱의 보안과 인증을 확인할 수 없습니다.</string>
+    <string name="dlg_appstore_notice">앱 스토어 외부 출처 앱의 보안과 인증을 확인할 수 없습니다.</string>
     <string name="app_store_missing_title">앱 스토어가 설치되지 않았습니다.</string>
     <string name="reboot_time">재시작 준비 중... (%1$s)</string>
     <string name="app_store_missing_message">공식 앱 스토어가 설치되지 않은 것 같습니다. 지금 설치하시겠습니까?</string>
     <string name="app_store_install_hint">지금 설치</string>
     <string name="app_store_installing_message">설치 중…</string>
+    <string name="app_version">버전：%1$s</string>
     <string name="btn_text_security_install">안전한 버전으로 교체하기</string>
     <string name="btn_text_install_new_version">최신 버전</string>
     <string name="btn_text_install_origin">오리지날 버전</string>
@@ -82,7 +83,7 @@
     <string name="message_appstore_verify_has_new_version">앱 스토어에서 이 앱의 새로운 버전이 사용 가능합니다. 설치 하시겠습니까?</string>
     <string name="message_appstore_verify_inconsistent">이 앱의 서명이 앱스토어와 일치 하지 않습니다. 앱스토어의 앱을 설치하는 것이 더욱 안전합니다.</string>
     <string name="message_appstore_verify_ok">이 앱의 버전은 앱 스토어의 안전 검사에 통과 하였습니다, 앱스토어에서의 앱 설치를 추천합니다.</string>
-    <string name="install_from_appstore_hint">&lt;u>&lt;font color=#91c727>앱 스토어&lt;/font>&lt;/u>에서의 앱 설치를 추천합니다.</string>
+    <string name="install_from_appstore_hint">앱 스토어에서의 앱 설치를 추천합니다.</string>
     <string name="waiting_tip">시간이 좀 걸리겠지만 가치 있을 것입니다.</string>
     <string name="toast_network_eror">네트워크에 연결할 수 없습니다</string>
     <string name="ads_install_button">설치</string>
@@ -91,7 +92,7 @@
     <string name="ads_install_button_installed">열기</string>
     <string name="ads_install_button_waiting">대기 중</string>
     <string name="ads_summary">%1$s 을(를) 좋아한 사람들도 좋아한 것</string>
-    <string name="ads">Ads</string>
+    <string name="ads">광고</string>
     <string name="pref_key_antivirus">안티바이러스</string>
     <string name="pref_key_antivirus_summary">설치 전 앱 바이러스 확인</string>
     <string name="pref_ads">추천</string>
@@ -124,14 +125,14 @@
     <string name="install_failed_file_not_found">설치가 완료되기 전에 지정된 패키지가 삭제되었습니다.</string>
     <string name="install_failed_verify_failed">패키지가 인증을 통과하지 못해 설치할 수 없습니다.</string>
     <string name="install_failed_verify_timeout">패키지를 확인하는 동안 시간이 초과했습니다. 나중에 다시 설치해 주시기 바랍니다.</string>
-    <string name="install_failed_msg">%1$s을(를) 이 휴대전화에 설치할 수 없습니다.</string>
+    <string name="install_failed_msg">%1$s앱을 휴대전화에 설치할 수 없습니다.</string>
     <string name="launch">열기</string>
     <string name="unknown_apps_dlg_title">설치가 차단됨</string>
     <string name="unknown_apps_dlg_text">보안상의 이유로 이 휴대전화는 알 수 없는 출처의 앱 설치를 차단하도록 설정되어있습니다.</string>
     <string name="ok">확인</string>
     <string name="settings">설정</string>
     <string name="allow_source_dlg_title">앱이 새로운 소스를 설치하도록 허용하시겠습니까?</string>
-    <string name="allow_source_dlg_text">"%1$s에서 다른 앱을 설치하려고 합니다.
+    <string name="allow_source_dlg_text">"%1$s앱에서 다른 앱을 설치하려고 합니다.
 
 허용하시겠습니까? 이 설정은 향후에도 적용됩니다."</string>
     <string name="manage_applications">앱 관리</string>
@@ -143,13 +144,13 @@
 
 모든 이전 사용자 데이터는 유지됩니다."</string>
     <string name="out_of_space_dlg_title">저장 공간 부족</string>
-    <string name="out_of_space_dlg_text">%1$s을(를) 설치할 수 없습니다. 저장 공간을 확보하고 다시 시도하십시오.</string>
+    <string name="out_of_space_dlg_text">%1$s앱을 설치할 수 없습니다. 저장 공간을 확보하고 다시 시도하십시오.</string>
     <string name="dlg_ok">확인</string>
     <string name="app_not_found_dlg_title">앱 발견되지 않음</string>
     <string name="app_not_found_dlg_text">설치된 앱 목록에서 이 앱을 찾을 수 없습니다</string>
     <string name="uninstall_application_title">앱 제거</string>
     <string name="uninstall_update_title">업데이트 제거</string>
-    <string name="uninstall_activity_text">%1$s은(는) 다음 앱에 속해있음:</string>
+    <string name="uninstall_activity_text">%1$s앱은 다음 앱에 속해있음:</string>
     <string name="uninstall_application_text">이 앱을 제거하시겠습니까?</string>
     <string name="uninstall_update_text">이 앱을 공장 초기 버전으로 교체하시겠습니까? 모든 데이터가 삭제될 것입니다.</string>
     <string name="uninstalling">설치 제거 중…</string>
@@ -157,7 +158,7 @@
     <string name="uninstall_failed">제거 실패</string>
     <string name="uninstall_failed_device_policy_manager">이 패키지는 기기 관리자로 설정되어 있어 제거할 수 없습니다.</string>
     <string name="manage_device_administrators">기기 관리 매니저</string>
-    <string name="uninstall_failed_msg">%1$s을(를) 제거할 수 없습니다.</string>
+    <string name="uninstall_failed_msg">%1$s앱을 제거할 수 없습니다.</string>
     <string name="Parse_error_dlg_title">구문분석 오류</string>
     <string name="Parse_error_dlg_text">패키지에 구문 분석 오류가 있습니다.</string>
     <string name="miui_security_relative">보안</string>
@@ -187,7 +188,7 @@
     <string name="miui_delete">삭제</string>
     <string name="miui_solution_msg">해결 방법</string>
     <string name="miui_solution_clean">쓰레기 지우기</string>
-    <string name="miui_compatibility_desc">This application is not equipped with your new millet phone hardware or Android version, may be running at the time of Caton, flash back and other anomalies, it is recommended to wait for application developers to solve this problem after installation</string>
+    <string name="miui_compatibility_desc">이 응용 프로그램은 현재의 안드로이드 버전에서 더이상 작동하지 않습니다. 응용 프로그램 개발자가이 문제를 해결할 때까지 기다리는 것이 좋습니다.</string>
     <string name="miui_help_feedback_label">도움말 &amp; 피드백</string>
     <string name="miui_not_uninstall_system_app">시스템 앱을 제거할 수 없습니다.</string>
     <string name="next">다음</string>
@@ -201,7 +202,7 @@
     <string name="install_failed_incompatible">이 앱은 이 휴대 전화와 호환되지 않습니다.</string>
     <string name="unknown_apps_admin_dlg_text">관리자가 알 수 없는 출처의 앱 설치를 허용하지 않습니다.</string>
     <string name="uninstall_application_text_all_users"><b>모든</b> 사용자 계정에서 이 앱을 제거하시겠습니까? 이 앱과 데이터가 이 기기의 <b>모든</b> 사용자 계정에서 제거됩니다.</string>
-    <string name="uninstall_application_text_user">사용자 %1$s을(를) 위해 이 앱을 제거하시겠습니까?</string>
+    <string name="uninstall_application_text_user">사용자 %1$s님을 위해 이 앱을 제거하시겠습니까?</string>
     <string name="uninstall_update_text_multiuser">이 앱을 공장 초기 버전으로 교체하시겠습니까? 모든 데이터가 삭제될 것입니다. 이 작업은 작업 프로필을 포함한 이 기기의 모든 사용자에게 영향을 주게됩니다.</string>
     <string name="uninstall_failed_device_policy_manager_of_user">이 패키지는 %1$s 사용자의 기기 관리자로 설정되어 있어 제거할 수 없습니다.</string>
     <string name="uninstall_all_blocked_profile_owner">이 앱은 몇몇 사용자 또는 프로필에 필요하므로 제거될 수 없습니다.</string>
@@ -217,14 +218,14 @@
     <string name="grant_dialog_button_deny">거부</string>
     <string name="grant_dialog_button_deny_anyway">거부</string>
     <string name="current_permission_template">총 %2$s개 권한 중 %1$s 권한</string>
-    <string name="permission_warning_template">&lt;b>%1$s&lt;/b>을(를) 허용하여 %2$s 하시겠습니까?</string>
+    <string name="permission_warning_template"><b>%1$s</b>앱을 허용하여 %2$s 하시겠습니까?</string>
     <string name="grant_dialog_button_allow">허용</string>
     <string name="app_permissions_breadcrumb">앱</string>
     <string name="app_permissions">앱 권한</string>
     <string name="never_ask_again">다시 묻지 않기</string>
     <string name="no_permissions">권한 없음</string>
     <string name="additional_permissions">추가 권한</string>
-    <string name="old_sdk_deny_warning">이 앱은 이전 버전의 Android에 맞게 설계되었습니다. 권한을 거부하면 이 앱이 더 이상 작동하지 않을 수 있습니다.</string>
+    <string name="old_sdk_deny_warning">이 앱은 이전 버전의 안드로이드에 맞게 설계되었습니다. 권한을 거부하면 이 앱이 더 이상 작동하지 않을 수 있습니다.</string>
     <string name="default_permission_description">알 수 없는 작업 실행</string>
     <string name="app_permissions_group_summary">%2$d개중 %1$d개 앱 허용됨</string>
     <string name="menu_show_system">시스템 표시</string>
@@ -238,6 +239,7 @@
     <string name="loading">불러오는 중…</string>
     <string name="all_permissions">모든 권한</string>
     <string name="other_permissions">기타 앱 기능</string>
+    <string name="permission_detail">권한</string>
     <string name="permission_request_title">권한 요청</string>
     <string name="screen_overlay_title">화면 오버레이 감지됨</string>
     <string name="screen_overlay_message">권한 설정을 변경하려면 먼저 설정 > 앱에서 화면 오버레이를 꺼야 합니다.</string>
