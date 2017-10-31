@@ -299,7 +299,7 @@
     <string name="toast_post_deleted">이 토픽은 존재하지 않습니다. 삭제되었거나 수정되었습니다.</string>
     <string name="toast_log_not_exists">요청된 로그는 삭제되었거나 존재하지 않습니다</string>
     <string name="toast_pic_not_exists">캐시된 이미지가 삭제되었습니다</string>
-    <string name="toast_screenshot_too_large">"Can't upload files bigger than 10MB."</string>
+	<string name="toast_screenshot_too_large">"10MB보다 큰 파일은 업로드할 수 없습니다."</string>
     <string name="title_bbs_feedback_main">Mi 휴대 전화에 대해 더 알아보기</string>
     <string name="title_customer_service">고객 서비스</string>
 </resources>

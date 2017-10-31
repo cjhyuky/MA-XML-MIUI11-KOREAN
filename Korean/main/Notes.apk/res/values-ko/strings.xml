@@ -197,5 +197,5 @@
     <string name="edit_header_done_description">완료</string>
     <string name="refuse_to_share_as_pic_because_of_content">이 메모는 공유하기에 너무 큽니다.</string>
     <string name="refuse_to_share_as_pic_because_of_loading">불러오는 중에는 공유를 할 수 없습니다.</string>
-    <string name="toast_reach_text_limit_checkbox">"Can't add checkbox because note is too long"</string>
+    <string name="toast_reach_text_limit_checkbox">"메모가 너무 길기 때문에, 확인란을 추가할 수 없습니다."</string>
 </resources>
