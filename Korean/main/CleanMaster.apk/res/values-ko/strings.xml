@@ -473,5 +473,5 @@
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">클리너 정보</string>
     <string name="app_description_content">클리너는 기기 안의 쓰레기를 정리하여 여유 저장 공간을 확보하게 해줍니다. 앱을 삭제하시면 이 기능을 사용할 수 없게 된다는 것을 아셔야 합니다.</string>
-    <string name="engine_init">Initializing...</string>
+    <string name="engine_init">초기화 중...</string>
 </resources>
