@@ -432,7 +432,7 @@
     <string name="wallpaper_settings_no_history">기록 없음</string>
     <string name="card_loading">로드 중...</string>
     <string name="card_no_network">사용할 수 있는 네트워크가 없습니다. 연결후 다시 시도해주세요</string>
-    <string name="card_data_request_error">Data request exception, please try again later~</string>
+    <string name="card_data_request_error">데이터 요청 오류. 나중에 다시 시도하십시오</string>
     <string name="card_retry">재시도</string>
     <string name="in_the_end">더 없음</string>
     <string name="item_resource_audio_divider">│</string>
