@@ -28,8 +28,8 @@
     <string name="act_weather_find_city_no_result">결과 없음</string>
     <string name="act_weather_find_city_added">추가됨</string>
     <string name="activity_weathermain_locationg">위치 찾는 중…</string>
-    <string name="activity_weathermain_locationg_error">"Couldn't find location"</string>
-    <string name="activity_minute_rain_location_fail_msg">"Couldn't find location. Showing Beijing by default."</string>
+    <string name="activity_weathermain_locationg_error">"위치를 찾을 수 없습니다."</string>
+    <string name="activity_minute_rain_location_fail_msg">"위치를 찾을 수 없습니다. 중국 베이징이 기본으로 보여집니다."</string>
     <string name="view_forecast_item_yesterday">어제</string>
     <string name="view_indexes_item_today">오늘</string>
     <string name="view_indexes_item_tommorrow">내일</string>
