@@ -1956,7 +1956,7 @@ Rolled over extra data"</string>
     <string name="more_game">더 많은 게임</string>
     <string name="sys_title_gamebooster_unit_gb">G</string>
     <string name="sys_title_gamebooster_unit_mb">M</string>
-    <string name="google_base_app_install_choice">\"%s\" requires Google Service Framework apps to work normally, download and install them?</string>
+    <string name="google_base_app_install_choice">\"%s\" 앱이 정상작동하려면 구글 서비스 프레임워크가 설치되어야 합니다. 다운로드하여 설치하시겠습니까?</string>
     <string name="application_item_disable">제한됨</string>
     <string name="application_item_already_permission">허용됨</string>
     <string name="man_add_application">수동으로 자동 시작 앱 추가</string>
