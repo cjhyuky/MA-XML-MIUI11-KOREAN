@@ -1320,7 +1320,10 @@
     <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="storage_internal">내부 저장소</string>
     <string name="storage_sd_card">SD 카드</string>
+    <string name="storage_sd_card_label">%s SD 카드</string>
     <string name="storage_usb">USB 저장소</string>
+    <string name="storage_usb_drive">USB 드라이브</string>
+    <string name="storage_usb_drive_label">%s USB 드라이브</string>
     <string name="storage_phone">전화 저장소</string>
     <string name="storage_external_usb">외장 USB 저장소</string>
     <string name="storage_ic_usb1">외부 IC-USB 스토리지 1</string>
