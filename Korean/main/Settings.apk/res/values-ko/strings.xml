@@ -3984,6 +3984,9 @@ PIN 설정"</string>
     <string name="keywords_quick_ball">터치 도우미;바로가기;위젯;토글</string>
     <string name="http_invoke_app">웹 앱</string>
     <string name="http_invoke_app_summary">설치없이 빠르게 앱 열기</string>
+    <string name="user_credential_title">사용자 자격증명 설정</string>
+    <string name="user_credentials">사용자 자격증명</string>
+    <string name="user_credentials_summary">저장된 자격증명 확인 및 수정</string>
     <string name="user_settings_forbidden">현재 공간에서는 관리자 설정을 변경할 수 없습니다. 기본 공간으로 돌아가십시오.</string>
     <string name="owner_space">기본 공간</string>
     <string name="demo_mode_summary">데모를 위한 특정 상태표시줄 아이콘 보기</string>
