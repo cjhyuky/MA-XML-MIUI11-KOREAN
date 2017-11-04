@@ -4431,4 +4431,5 @@ PIN 설정"</string>
     <string name="storage_type_external">외부 저장소</string>
     <string name="storage_type_internal">내부 저장소</string>
     <string name="storage_unmount_failure">%1$s 저장소를 안전하게 제거하지 못했습니다</string>
+    <string name="storage_unmount_success">%1$s 저장소를 안전하게 제거하였습니다</string> 
 </resources>
