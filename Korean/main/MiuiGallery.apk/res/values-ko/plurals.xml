@@ -99,6 +99,10 @@
     <plurals name="cloud_storage_video_num">
         <item quantity="other">%d개 동영상</item>
     </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">%d개의 파일들을 숨김처리합니다.</item>
+        <item quantity="one">이 파일을 숨김처리합니다.</item>
+    </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d개 사진</item>
     </plurals>
