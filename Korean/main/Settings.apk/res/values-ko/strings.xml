@@ -2796,8 +2796,8 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="menu_check">경험</string>
     <string name="mi_shopping_mall">Mi 스토어</string>
     <string name="about_phone_enter_xiaomi_net">더 알아보기</string>
-    <string name="device_actionbar_title">All specs</string>
-    <string name="device_display_layout_title">Features</string>
+    <string name="device_actionbar_title">전체 사양</string>
+    <string name="device_display_layout_title">기능</string>
     <string name="complete_parameters">전체 사양</string>
     <string name="other_device_info">기타</string>
     <string name="device_complete_parameters">전체 사양</string>
@@ -2818,7 +2818,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="device_cpu2_info">듀얼 코어</string>
     <string name="device_cpu6_info">헥사 코어</string>
     <string name="device_cpu4_info">쿼드 코어</string>
-    <string name="max_cpu2_info">"Dual-core Max "</string>
+    <string name="max_cpu2_info">"듀얼 코어 맥스 "</string>
     <string name="max_cpu4_info">"쿼드 코어 맥스 "</string>
     <string name="max_cpu6_info">헥사 코어 맥스</string>
     <string name="device_cpu8_info">옥타 코어</string>
