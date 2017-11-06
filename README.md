@@ -4,8 +4,10 @@
 	This is repository for MIUIAndroid MultiRom project.
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
-    cjhyuky - Builder of MIUI8 Korean translation
-
+    cjhyuky - Builder of MIUI9 Korean translation
+    bradly1 - Collaborator of MIUI9 Korean translation
+    xiaomiqm - Collaborator of MIUI9 Korean translation
+    
     Thanks to Xiaomistory, ruinses, ginam kim, lecahel(for bug reports and translation suggestions).
 
     This sources are based on the Korean translation pack from en.miui.com's global ROM.
