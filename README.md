@@ -8,9 +8,10 @@
     bradly1 - Collaborator of MIUI9 Korean translation
     xiaomiqm - Collaborator of MIUI9 Korean translation
     
-    Thanks to Xiaomistory, ruinses, ginam kim, lecahel(for bug reports and translation suggestions).
+    
+Thanks to Xiaomistory, ruinses, ginam kim, lecahel(for bug reports and translation suggestions).
 
-    This sources are based on the Korean translation pack from en.miui.com's global ROM.
+This sources are based on the Korean translation pack from en.miui.com's global ROM.
 
 If you have any requests, then email me with screenshot cjhyuky@gmail.com
 
