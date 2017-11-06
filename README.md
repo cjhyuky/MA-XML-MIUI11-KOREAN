@@ -6,7 +6,7 @@
     ingbrzy - Builder of MultiRom, Bug reports.
     cjhyuky - Builder of MIUI9 Korean translation
     bradly1 - Collaborator of MIUI9 Korean translation
-    xiaomiqm - Collaborator of MIUI9 Korean translation
+    xiaomiqm - Collaborator of MIUI9 Korean translation
     
     
 Thanks to Xiaomistory, ruinses, ginam kim, lecahel(for bug reports and translation suggestions).
