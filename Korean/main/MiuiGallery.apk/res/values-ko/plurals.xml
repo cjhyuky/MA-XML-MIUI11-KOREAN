@@ -57,6 +57,9 @@
     <plurals name="delete_photo_msg_format">
         <item quantity="other">%2$s %1$d개 사진을 삭제하시겠습니까?</item>
     </plurals>
+     <plurals name="delete_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">%d개의 사진을 이 앨범과 Mi 클라우드에서 삭제하시겠습니까?</item>
+    </plurals>
     <plurals name="delete_video_msg_format">
         <item quantity="other">%2$s %1$d개 동영상을 삭제하시겠습니까?</item>
     </plurals>
