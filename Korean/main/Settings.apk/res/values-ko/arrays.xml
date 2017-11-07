@@ -471,7 +471,25 @@
         <item>최대 2개 프로세스</item>
         <item>최대 3개 프로세스</item>
         <item>최대 4개 프로세스</item>
+        
     </string-array>
+        <string-array name="usb_configuration_titles">
+        <item>충전만</item>
+        <item>MTP (미디어 전송 프로트콜)</item>
+        <item>PTP (사진 전송 프로트콜)</item>
+        <item>RNDIS (USB 이더넷)</item>
+        <item>오디오 장치 입력</item>
+        <item>MIDI 장치</item>
+    </string-array>
+    <string-array name="usb_configuration_values">
+        <item>없음</item>
+        <item>MTP (미디어 전송 프로트콜)</item>
+        <item>PTP (사진 전송 프로트콜)</item>
+        <item>RNDIS (USB 이더넷)</item>
+        <item>오디오 장치 입력</item>
+        <item>MIDI 장치</item>
+    </string-array>
+    
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
         <item>사전 공유 키를 사용하는 L2TP/IPSec VPN</item>
