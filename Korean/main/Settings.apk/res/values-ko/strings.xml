@@ -1810,6 +1810,12 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="tts_engine_settings_button">엔진 설정 실행</string>
     <string name="tts_engine_preference_section_title">기본 엔진</string>
     <string name="tts_general_section_title">기본설정</string>
+    
+      <string name="tts_reset_speech_pitch_summary">말하는 피치를 기본값으로 변경합니다.</string>
+  <string name="tts_reset_speech_pitch_title">말하는 피치 초기화</string>
+  <string name="tts_reset_speech_rate_summary">말하는 속도를 기본값으로 변경합니다.</string>
+  <string name="tts_reset_speech_rate_title">말하는 속도 초기화</string>
+    
     <string name="gadget_title">전원 컨트롤</string>
     <string name="gadget_toggle_wifi">Wi-Fi 설정 업데이트 중</string>
     <string name="gadget_toggle_bluetooth">블루투스 설정 업데이트</string>
