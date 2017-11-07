@@ -193,9 +193,9 @@
     <string name="reminder_from_xiaomi_weather_app">Mi Weather alert</string>
     <string name="it_is_going_to_rain">"It's going to rain"</string>
     <string name="your_location">당신의 위치</string>
-    <string name="update_setting_title_text">Update weather info</string>
-    <string name="update_night_setting_title_text">Update at night automatically</string>
-    <string name="update_night_setting_summary_text">Update weather info between 23:00 and 07:00</string>
+    <string name="update_setting_title_text">날씨 정보 업데이트</string>
+    <string name="update_night_setting_title_text">밤에 자동으로 날씨 정보 업데이트하기</string>
+    <string name="update_night_setting_summary_text">오후 11시~익일 오전 7시 사이에 날씨 정보를 자동으로 업데이트합니다.</string>
     <string name="unit">Units</string>
     <string name="information_set">기타 설정</string>
     <string name="other">기타</string>
