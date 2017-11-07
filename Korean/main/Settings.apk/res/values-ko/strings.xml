@@ -1434,6 +1434,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="onscreen_keyboard_settings_summary">화면 키보드 설정</string>
     <string name="builtin_keyboard_settings_title">물리적 키보드</string>
     <string name="builtin_keyboard_settings_summary">물리적 키보드 설정</string>
+    
     <string name="development_settings_title">개발자 옵션</string>
     <string name="development_settings_summary">앱 개발 옵션 설정</string>
     <string name="development_settings_not_available">이 사용자는 개발자 옵션을 사용할 수 없습니다.</string>
@@ -2863,6 +2864,9 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="ringtone_uniform_setting_title">듀얼 SIM 설정</string>
     <string name="ringtone_slot_setting_title">단일 SIM 설정</string>
     <string name="haptic_feedback_level">진동</string>
+    
+  <string name="physical_keyboard_title">물리 키보드</string>
+    
     <string name="privacy_protect_title">개인 정보 보호</string>
     <string name="privacy_mode_enable_title">게스트 모드</string>
     <string name="privacy_mode_enable_sum">메시지, 메모, 사진, 설정, 수신 통화 숨기기</string>
@@ -4381,6 +4385,8 @@ PIN 설정"</string>
     <string name="ok_rules">종료</string>
     <string name="rule_name">규칙 이름</string>
     <string name="vip_list">VIP 목록</string>
+    <string name="virtual_keyboard_category">가상 키보드</string>
+    <string name="add_virtual_keyboard">키보드 추가/삭제</string>
     <string name="mode_enable">활성화</string>
     <string name="mode_disable">비활성화</string>
     <string name="usb_dlg_confirm_unmount_text">USB 저장소를 분리하신다면 다시 장착하실 때까지 사용 중이신 몇몇 앱이 멈춰지거나 사용하실 수 없게 될 것입니다.</string>
