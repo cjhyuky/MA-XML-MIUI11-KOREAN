@@ -16,7 +16,6 @@
     <string name="preparing_sd">SD 카드 확인 중…</string>
     <string name="access_sd_fail">SD 카드에 접근하지 못했습니다.</string>
     <string name="confirm_restore_title">기본 설정 복원</string>
-    <string name="confirm_restore_message">카메라의 기본 설정을 복원 하시겠습니까?</string>
     <string name="confirm_location_title">사진 위치를 기억하겠습니까?</string>
     <string name="confirm_location_message">찍은 장소를 사진과 동영상에 표시하십시오. 다른 앱이 저장된 사진과 함께 이 정보에 접근할 수 있습니다.</string>
     <string name="confirm_location_alert">사진 위치 기억</string>
@@ -30,6 +29,7 @@
     <string name="screen_on_proximity_sensor_summary">이어폰 부분을 덮지 마십시오.</string>
     <string name="screen_on_proximity_sensor_hint">이 기능을 끄시려면 볼륨 업 버튼과 뒤로가기 버튼을 동시에 누르십시오.</string>
     <string name="pref_front_mirror_title">전면 거울 카메라</string>
+    <string name="pref_groupshot_with_primitive_title">편집된 사진과 원본 사진을 함께 저장하기</string>
     <string name="pref_video_quality_title">동영상 품질</string>
     <string name="pref_video_quality_entry_4kuhd">4K</string>
     <string name="pref_video_quality_entry_1080p">Full HD</string>
@@ -91,7 +91,7 @@
     <string name="pref_video_focusmode_title">초점 모드</string>
     <string name="pref_video_focusmode_entry_continuous">CAF</string>
     <string name="pref_video_focusmode_entry_auto">탭</string>
-    <string name="pref_camera_flashmode_title">플래시 모드</string>
+    <string name="pref_camera_mode_title">플래시 모드</string>
     <string name="pref_camera_flashmode_entry_auto">자동</string>
     <string name="pref_camera_flashmode_entry_on">켜짐</string>
     <string name="pref_camera_flashmode_entry_off">꺼짐</string>
@@ -322,6 +322,7 @@
     <string name="pref_camera_delay_capture_entry_10s">10s delay</string>
     <string name="pref_camera_asd_night_title">자동으로 저조도 사진 강조</string>
     <string name="pref_camera_asd_popup_title">플래시가 필요한 경우 알림</string>
+    
     <string name="simple_mode_button_text_scene">장면 모드 끄기</string>
     <string name="pref_camera_peak_title">초점 피킹</string>
     <string name="pref_camera_peak_entry_off">꺼짐</string>
@@ -385,8 +386,8 @@ and brings out the people in the front."</string>
     <string name="button_front_camera_title">셀피</string>
     <string name="button_normal_video_title">비디오 녹화</string>
     <string name="button_fisheye_camera_title">피쉬아이</string>
-    <string name="pref_camera_groupshot_mode_title">Group selfie</string>
-    <string name="simple_mode_button_text_groupshot">Turn off Group selfie</string>
+    <string name="pref_camera_groupshot_mode_title">그룹 셀피</string>
+    <string name="simple_mode_button_text_groupshot">그룹 셀피 끄기</string>
     <string name="pref_groupshot_with_primitive_title">Save original photos as well</string>
     <string name="groupshot_mode_use_hint">"여러명이 함께 사진을 찍을 때
 여러장의 사진이 촬영되며 가장 보기좋은 모습으로 합성됩니다."</string>
