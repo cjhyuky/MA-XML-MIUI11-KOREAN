@@ -309,6 +309,7 @@
     <string name="operation_save">저장</string>
     <string name="operation_add_album">앨범에 추가</string>
     <string name="operation_add_secret">숨기기</string>
+    
     <string name="operation_remove_secret">숨기기 취소</string>
     <string name="operation_set_wallpaper">배경화면으로 설정</string>
     <string name="operation_set_contact_photo">연락처 사진으로 설정</string>
@@ -436,6 +437,7 @@
     <string name="add_to_album_bulk_result">오류 (%d)</string>
     <string name="adding_to_album">사진 추가 중…</string>
     <string name="add_to_album_tip">클라우드 사진</string>
+    <string name="add_secret_ensure_title">이미지 숨김처리</string>
     <string name="delete">삭제</string>
     <string name="delete_finish_format">%d개 삭제됨</string>
     <string name="delete_in_process">삭제 중…</string>
