@@ -1870,6 +1870,9 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="backup_configure_account_title">백업 계정</string>
     <string name="backup_configure_account_default_summary">현재 백업한 데이터가 저장된 계정이 없습니다.</string>
     <string name="include_app_data_title">앱 데이터 포함</string>
+    <string name="inactive_app_active_summary">활성화 상태입니다. 탭하여 설정 변경.</string>
+    <string name="inactive_app_inactive_summary">비활성화 상태입니다. 탭하여 설정 변경.</string>
+    <string name="inactive_apps_title">비활성화 상태의 앱 관리</string>
     <string name="auto_restore_title">자동 복원</string>
     <string name="auto_restore_summary">앱을 다시 설치하면 백업된 설정과 데이터 복원</string>
     <string name="local_backup_password_title">데스크톱 백업 비밀번호</string>
