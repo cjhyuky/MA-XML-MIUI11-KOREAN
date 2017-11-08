@@ -385,8 +385,8 @@
     <string name="button_front_camera_title">셀피</string>
     <string name="button_normal_video_title">비디오 녹화</string>
     <string name="button_fisheye_camera_title">어안렌즈</string>
-    <string name="pref_camera_groupshot_mode_title">그룹 셀피</string>
-    <string name="simple_mode_button_text_groupshot">그룹 셀피 끄기</string>
+    <string name="pref_camera_groupshot_mode_title">그룹 셀카</string>
+    <string name="simple_mode_button_text_groupshot">그룹 셀카 끄기</string>
     <string name="groupshot_mode_use_hint">"여러명이 함께 사진을 찍을 때
 여러장의 사진이 촬영되며 가장 보기좋은 모습으로 합성됩니다."</string>
     <string name="title_snap_double_confirm">다시 확인</string>
