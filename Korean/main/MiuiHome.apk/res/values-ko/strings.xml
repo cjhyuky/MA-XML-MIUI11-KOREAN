@@ -73,7 +73,7 @@
     <string name="uninstall_xspace_dialog_title_format">듀얼 \"%s\"을(를) 제거하시겠습니까?</string>
     <string name="uninstall_xspace_dialog_message">듀얼 앱을 제거하시면 모든 앱 데이터가 제거될 것입니다.</string>
     <string name="uninstall_with_xspace_dialog_message">연관된 듀얼 앱이 함께 삭제될 것이며 앱 데이터 또한 삭제될 것입니다.</string>
-    <string name="confirm_uninstall_dialog_title">연관된 듀얼 앱이 함께 삭제될 것입니다.</string>
+    <string name="confirm_uninstall_dialog_title">듀얼 앱이 삭제될 것입니다.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">듀얼 앱이 이 항목과 함께 제거될 것입니다.</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">듀얼 앱이 이 항목과 함께 제거될 것입니다.</string>
     <string name="uninstall">설치 제거</string>
