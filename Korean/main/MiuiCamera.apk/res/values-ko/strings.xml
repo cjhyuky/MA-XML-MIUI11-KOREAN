@@ -322,7 +322,6 @@
     <string name="pref_camera_delay_capture_entry_10s">10s delay</string>
     <string name="pref_camera_asd_night_title">자동으로 저조도 사진 강조</string>
     <string name="pref_camera_asd_popup_title">플래시가 필요한 경우 알림</string>
-    
     <string name="simple_mode_button_text_scene">장면 모드 끄기</string>
     <string name="pref_camera_peak_title">초점 피킹</string>
     <string name="pref_camera_peak_entry_off">꺼짐</string>
@@ -366,8 +365,8 @@
     <string name="portrait_mode_depth_effect_success_hint">심도 효과</string>
     <string name="portrait_with_facebeauty_hint">미화 기능은 인물 모드에서만 사용 가능합니다.</string>
     <string name="pref_camera_portrait_with_facebeauty_title">인물 모드 시 미화 기능</string>
-    <string name="portrait_mode_use_hint">"Portrait mode blurs the background
-and brings out the people in the front."</string>
+    <string name="portrait_mode_use_hint">"세로모드는 배경을 흐리게 만들고
+인물이 앞으로 나오도록 만들어줍니다."</string>
     <string name="pref_camera_square_mode_title">사각형 모드</string>
     <string name="simple_mode_button_text_square">사각형 모드 끄기</string>
     <string name="face_beauty_smart">스마트</string>
@@ -385,10 +384,9 @@ and brings out the people in the front."</string>
     <string name="camera_mode_options">옵션</string>
     <string name="button_front_camera_title">셀피</string>
     <string name="button_normal_video_title">비디오 녹화</string>
-    <string name="button_fisheye_camera_title">피쉬아이</string>
+    <string name="button_fisheye_camera_title">어안렌즈</string>
     <string name="pref_camera_groupshot_mode_title">그룹 셀피</string>
     <string name="simple_mode_button_text_groupshot">그룹 셀피 끄기</string>
-    <string name="pref_groupshot_with_primitive_title">Save original photos as well</string>
     <string name="groupshot_mode_use_hint">"여러명이 함께 사진을 찍을 때
 여러장의 사진이 촬영되며 가장 보기좋은 모습으로 합성됩니다."</string>
     <string name="title_snap_double_confirm">다시 확인</string>
@@ -403,14 +401,14 @@ and brings out the people in the front."</string>
     <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
     <string name="photos_portrait_type_name">인물</string>
     <string name="photos_portrait_type_description">인물 모드를 켜시면 배경에 블러 효과가 생겨 인물이 더욱 부각되어 보입니다.</string>
-    <string name="color_effect_entry_vivid">Vivid</string>
-    <string name="color_effect_entry_film">Film</string>
-    <string name="color_effect_entry_koizora">Amour</string>
-    <string name="color_effect_entry_latte">Latte</string>
-    <string name="color_effect_entry_warm">Sun</string>
-    <string name="color_effect_entry_cookie">Cookie</string>
-    <string name="color_effect_entry_quiet">Calm</string>
-    <string name="color_effect_entry_soda">Soda</string>
+    <string name="color_effect_entry_vivid">생생한</string>
+    <string name="color_effect_entry_film">필름</string>
+    <string name="color_effect_entry_koizora">사랑</string>
+    <string name="color_effect_entry_latte">라떼</string>
+    <string name="color_effect_entry_warm">태양</string>
+    <string name="color_effect_entry_cookie">쿠키</string>
+    <string name="color_effect_entry_quiet">차분한</string>
+    <string name="color_effect_entry_soda">탄산수</string>
     <string name="color_effect_entry_delicacy">Gourmet</string>
     <string name="color_effect_entry_glimmer">Glow</string>
     <string name="color_effect_entry_berry">Berries</string>
