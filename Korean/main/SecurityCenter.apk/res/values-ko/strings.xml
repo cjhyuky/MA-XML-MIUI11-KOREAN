@@ -1873,6 +1873,7 @@ Rolled over extra data"</string>
     <string name="app_manager_net_wifi">Wi-Fi</string>
     <string name="app_manger_des_separator">", "</string>
     <string name="app_manager_disable">허용하지 않음</string>
+    <string name="app_manager_disabled_by_admin">관리자에 의해 허용되지 않음</string>
     <string name="app_manager_notify_bar">배지</string>
     <string name="app_manager_notify_floating">플로팅 알람</string>
     <string name="app_manager_notify_keyguard">잠금 화면</string>
@@ -1882,6 +1883,8 @@ Rolled over extra data"</string>
     <string name="app_manager_system_mobile_disable">데이터 끄기</string>
     <string name="app_managere_not_have_app">없음</string>
     <string name="app_manager_pref_ads">추천</string>
+    <string name="app_manager_install_other_app">알 수 없는 출처의 앱 다운로드</string>
+    <string name="app_manager_not_allow">아니오</string>
     <string name="install">설치</string>
     <string name="app_manager_app_info_label">앱 정보</string>
     <string name="app_manager_app_info_name">앱 이름</string>
