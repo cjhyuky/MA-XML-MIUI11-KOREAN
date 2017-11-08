@@ -3,6 +3,7 @@
     <string name="delete">삭제</string>
     <string name="unlockscreen_recharging_message">충전 중 %d%%</string>
     <string name="unlockscreen_recharge_completed">배터리 충전됨</string>
+    <string name="wallpaper_global_des_drop_down_notify_text">탭하여 자세히 보기</string>
     <string name="unlockscreen_low_battery">충전기를 지금 연결하십시오.</string>
     <string name="lockscreen_charging_msg">충전 중</string>
     <string name="emergency_call_string">긴급 통화</string>
