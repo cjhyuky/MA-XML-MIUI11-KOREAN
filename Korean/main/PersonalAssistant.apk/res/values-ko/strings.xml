@@ -307,7 +307,7 @@
   <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">배송 서비스 업체</string>
   <string name="express_inquiry">배송 조회</string>
-  <string name="express_inquiry_and_send">배송 조회 & 보내기</string>
+  <string name="express_inquiry_and_send">배송 조회 &amp; 보내기</string>
   <string name="express_inquiry_button_text">배송 조회</string>
   <string name="express_inquiry_clipboard_number_message">운송장 번호 복사됨.</string>
   <string name="express_inquiry_data_owner_prefix">배송 조회 정보는 %1$s로부터 제공되었습니다.</string>
@@ -316,7 +316,6 @@
   <string name="express_inquiry_delete_warning_single">삭제할까요?</string>
   <string name="express_inquiry_delivered">배달</string>
   <string name="express_inquiry_detail">특송 정보</string>
-  
   <string name="fav_category_article">Articles</string>
   <string name="fav_category_shopping">Shopping</string>
   <string name="fav_category_video">Videos</string>
