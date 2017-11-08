@@ -310,8 +310,8 @@
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">버스트 샷</string>
     <string name="pref_camera_hdr_entry_auto">자동</string>
     <string name="pref_camera_hdr_entry_off">꺼짐</string>
-    <string name="pref_camera_hdr_entry_normal">Pro</string>
-    <string name="pref_camera_hdr_entry_live">Live</string>
+    <string name="pref_camera_hdr_entry_normal">프로</string>
+    <string name="pref_camera_hdr_entry_live">라이브</string>
     <string name="pref_simple_hdr_entry_off">꺼짐</string>
     <string name="pref_simple_hdr_entry_on">켜짐</string>
     <string name="pref_camera_delay_capture_title">타이머</string>
@@ -448,7 +448,7 @@
     <string name="module_name_panorama">파노라마</string>
     <string name="module_name_manual">수동</string>
     <string name="module_name_portrait">인물</string>
-    <string name="config_name_setting">Settings</string>
+    <string name="config_name_setting">설정</string>
     <string name="config_name_timer">타이머</string>
     <string name="config_name_sound">오디오</string>
     <string name="config_name_straighten">수평계</string>
