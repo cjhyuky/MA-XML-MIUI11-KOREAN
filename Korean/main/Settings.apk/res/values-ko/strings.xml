@@ -8,9 +8,9 @@
     <string name="screen_cells_config_title">홈 화면 레이아웃</string>
     <string name="open_personal_assistant_title">퀵카드 켜기</string>
     <string name="open_personal_assistant_dialog_title">퀵카드 끄기</string>
-    <string name="open_personal_assistant_dialog_desc">퀵카드를 사용할 수 없게되고 업데이트를 받을 수 없습니다. 지금 끄시겠습니까?</string>
-    <string name="open_personal_assistant_dialog_btn_cancel">취소</string>
-    <string name="open_personal_assistant_dialog_btn_confirm">끄기</string>
+    <string name="open_personal_assistant_dialog_desc">App Vault를 사용할 수 없게되고 업데이트를 받을 수 없습니다. 지금 끄시겠습니까?</string>
+    <string name="open_personal_assistant_dialog_btn_cancel">App Vault 취소</string>
+    <string name="open_personal_assistant_dialog_btn_confirm">App Vault 끄기</string>
     <string name="recents_config_title">최근</string>
     <string name="show_mem_info_title">메모리 상태 표시</string>
     <string name="status_bar_and_notification_bar">드롭 다운 메뉴와 상태 표시줄</string>
@@ -1552,6 +1552,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="accessibility_menu_item_settings">설정</string>
     <string name="accessibility_feature_state_on">사용</string>
     <string name="accessibility_feature_state_off">사용 안함</string>
+    <string name="add_front_fingerprint_instruction_msg">지문인식센서는 기기 뒷면이나 기기 홈버튼에 위치하여 있습니다.</string>
     <string name="accessibility_feature_or_input_method_not_allowed">조직에서 허용하지 않음</string>
     <string name="captioning_preview_title">미리보기</string>
     <string name="captioning_standard_options_title">표준 옵션</string>
@@ -2799,6 +2800,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="my_device">내 기기</string>
     <string name="device_miui_version">MIUI 버전</string>
     <string name="device_miui_version_update">MIUI 업데이트 사용 가능</string>
+    <string name="miui_updater">시스템 업데이트</string>
     <string name="rank_title">랭킹</string>
     <string name="device_miui_more">더 보기</string>
     <string name="device_share_loading">이미지 생성 중…</string>
@@ -2871,7 +2873,8 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="ringtone_slot_setting_title">단일 SIM 설정</string>
     <string name="haptic_feedback_level">진동</string>
     
-  <string name="physical_keyboard_title">물리 키보드</string>
+    <string name="physical_keyboard_title">물리 키보드</string>
+    <string name="pick_up_gesture_wakeup_title">핸드폰을 들어 화면 켜기</string>
     
     <string name="privacy_protect_title">개인 정보 보호</string>
     <string name="privacy_mode_enable_title">게스트 모드</string>
