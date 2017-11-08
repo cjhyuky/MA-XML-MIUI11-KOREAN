@@ -186,7 +186,7 @@
   <string name="data_error_show">"주문이 완료되었으나 정보를 불러올수 없습니다."</string>
   <string name="delete">삭제</string>
   <string name="detail_action_delete">삭제</string>
-  <string name="detail_action_open_in_browser"새 브라우저에서 열기</string>
+  <string name="detail_action_open_in_browser">새 브라우저에서 열기</string>
   <string name="detail_action_report_format_problem">잘못된 형식입니다.</string>
   <string name="detail_action_settings">환경설정 열기</string>
   <string name="detail_action_share">공유</string>
