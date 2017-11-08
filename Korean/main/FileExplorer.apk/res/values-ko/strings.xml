@@ -81,7 +81,7 @@
     <string name="notif_server_starting">FTP 서버 시작 중…</string>
     <string name="notif_title">FTP 서버가 작동 중입니다.</string>
     <string name="storage_warning">외부 저장소를 사용할 수 없습니다.</string>
-    <string name="wifi_state">Wi-Fi 네트워크</string>
+    <string name="wifi_state">WLAN 네트워크</string>
     <string name="instruction">다음 주소를 FTP 클라이언트에 입력하십시오:</string>
     <string name="no_wifi">네트워크 인식 못함</string>
     <string name="no_wifi_hint">연결 없음</string>
@@ -127,7 +127,16 @@
     <string name="move_failed">잘라낼 수 없습니다.</string>
     <string name="copy_failed">복사 실패</string>
     <string name="toast_file_not_can_read">이 동작을 처리할 앱을 발견하지 못했습니다.</string>
-    <string name="extended_storage_file_can_not_open">파일 열기 실패, 파일을 내부 저장소로 복사하십시오.</string>
+    
+    <string name="exo_controls_fastforward_description">빨리감기</string>
+    <string name="exo_controls_next_description">다음 곡</string>
+    <string name="exo_controls_pause_description">일시정지</string>
+    <string name="exo_controls_play_description">재생</string>
+    <string name="exo_controls_previous_description">이전 곡</string>
+    <string name="exo_controls_rewind_description">되감기</string>
+    <string name="exo_controls_stop_description">정지</string>
+    <string name="extended_storage_file_can_not_open">"이 파일을 열수 없습니다. 파일을 내장 저장소로 복사해주세요</string>
+    
     <string name="server_control_settings">설정</string>
     <string name="server_control_advanced_settings">FTP 설정</string>
     <string name="server_control_charset">인코딩 전송</string>
@@ -152,7 +161,7 @@
     <string name="storage_sd_card">SD 카드</string>
     <string name="storage_usb">USB 저장소</string>
     <string name="storage_cloned_app">듀얼 앱 저장소</string>
-    <string name="name_empty">이름을 입력해야 합니다.</string>
+    <string name="name_empty">이름을 입력해주세요.</string>
     <string name="folder_name_illegal">잘못된 폴더 이름</string>
     <string name="folder_name_empty">폴더 이름이 비어 있어서는 안 됩니다.</string>
     <string name="byteShort">B</string>
@@ -412,7 +421,7 @@
     <string name="server_error">Sever error, try again later. (Error %s)</string>
     <string name="network_not_available">네크워크에 연결할 수 없습니다.</string>
     <string name="request_timeout">네트워크 요청 시간 초과</string>
-    <string name="login_expired">로그인이 만료되었습니다. 다시 로그인을 시도하십시오.</string>
+    <string name="login_expired">시간이 초과되었습니다. 다시 로그인을 시도하십시오.</string>
     <string name="error_contains_sharer_path">/MIUI/Gallery/cloud/sharer 폴더의 파일을 암호화할 수 없습니다. 파일을 다른 폴더로 이동하신 후 다시 시도하십시오.</string>
     <string name="hottest_sticker_str">인기</string>
     <string name="no_new_content_tip">모든 항목이 최신입니다.</string>
