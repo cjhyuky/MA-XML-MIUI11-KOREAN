@@ -32,7 +32,7 @@
     <string name="pref_groupshot_with_primitive_title">편집된 사진과 원본 사진을 함께 저장하기</string>
     <string name="pref_video_quality_title">동영상 품질</string>
     <string name="pref_video_quality_entry_4kuhd">4K</string>
-    <string name="pref_video_quality_entry_1080p">Full HD</string>
+    <string name="pref_video_quality_entry_1080p">풀HD</string>
     <string name="pref_video_quality_entry_720p">HD</string>
     <string name="pref_video_quality_entry_480p">SD</string>
     <string name="pref_video_time_lapse_frame_interval_title">저속 촬영 간격</string>
