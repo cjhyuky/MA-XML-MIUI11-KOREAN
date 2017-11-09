@@ -345,8 +345,6 @@
   <string name="greeting_title_night">안녕하세요!</string>
   <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
   <string name="greeting_weather_desc_from_to">%1$s to %2$s</string>
-  <string name=“greeting_weather_prefix_saturday">토요일</string>
-  <string name=“greeting_weather_prefix_sunday">일요일</string>
   <string name="groupon">티켓 &amp; 에 사용 가능한 쿠폰</string>
   <string name="groupon_open">티켓 &amp; 에 사용 가능한 쿠폰 카드</string>
   <string name="groupon_setting_brief">구매하신 티켓과 쿠폰 내역입니다.</string>
@@ -779,9 +777,6 @@
   <string name=“stock_web_bottom_text">추가 정보를 보기 위해 클라이언트 열기</string>
   <string name=“stockweb_lable">주식</string>
   <string name=“stock_web_bottom_btn">열기</string>
-  <string name=“stockweb_lable">주식</string>
-  <string name=“stock_web_bottom_btn">열기</string>
-  <string name=“stockweb_lable">주식</string>
   <string name="study_parent">사무실 연구</string>
   <string name="system_favorite_dialog_link">보안 &amp; 개인정보 보호</string>
   <string name=“system_favorite_dialog_message"> 다른 앱들을 즐겨 찾기에 추가하십시오. </string>
