@@ -214,6 +214,7 @@
     <string name="search_file_type_music">음악</string>
     <string name="search_file_type_apk">Apk</string>
     <string name="search_file_type_doc">문서</string>
+    <string name="search_guid_hint">파일을 검색해주세요.</string>
     <string name="search_title_hint">검색</string>
     <string name="search_keyword">태그</string>
     <string name="search_app">앱 &amp; 폴더</string>
