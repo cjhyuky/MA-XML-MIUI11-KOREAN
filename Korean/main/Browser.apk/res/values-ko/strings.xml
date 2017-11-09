@@ -23,14 +23,15 @@
   <string name="action_menu_account_not_login_hint">Mi 클라우드와 동기화하기 위해 로그인</string>
   <string name="action_menu_bookshelf">책장</string>
   <string name="action_menu_current_version">현재 버전</string>
-  <string name="action_menu_request_desktop_site">데스크탑 모드</string>
-  <string name="action_menu_request_desktop_site_off">데스크탑 모드/꺼짐</string>
-  <string name="action_menu_request_desktop_site_on">데스크탑 모드/켜짐</string>
+  <string name="action_menu_request_desktop_site">웹사이트 엑세스 권한</string>
+  <string name="action_menu_request_desktop_site_off">웹사이트 엑세스 권한 꺼짐</string>
+  <string name="action_menu_request_desktop_site_on">웹사이트 엑세스 권한 켜짐</string>
   <string name="action_menu_text_add_bookmark">북마크 추가</string>
   <string name="action_menu_text_bandwidth">데이터 절약</string>
   <string name="action_menu_text_bandwidth_off">데이터 절약</string>
   <string name="action_menu_text_bandwidth_on">데이터 절약</string>
   <string name="action_menu_text_bookmark_added">북마크 추가됨</string>
+  <string name="action_menu_text_bookmark_add_off">"웹사이트를 추가할 수 없습니다."</string>
   <string name="action_menu_text_copy_url">URL 복사</string>
   <string name="action_menu_text_create_qr_code">QR 코드</string>
   <string name="action_menu_text_download">다운로드 관리</string>
@@ -62,6 +63,7 @@
   <string name="add_bookshelf_popup_text">책갈피에 추가됨</string>
   <string name="add_new_bookmark">북마크 추가</string>
   <string name="add_new_quicklink">시작 페이지에 추가</string>
+  <string name="add_pwa_to_homescreen">홈 화면에 바로가기 아이콘을 생성하시겠습니까?</string>
   <string name="add_ql_bm_title">저장</string>
   <string name="add_quicklink_to_popular">시작 페이지에 추가</string>
   <string name="add_quicklinks">시작 페이지에 추가</string>
@@ -73,6 +75,8 @@
   <string name="add_to_quicklink">시작 페이지</string>
   <string name="added_to_bookmarks">북마크에 추가됨</string>
   <string name="adjust_text_zoom_toast">문자 크기를 변경하면 일부 웹사이트가 제대로 보이지 않을 수 있습니다.</string>
+  <string name="agree">동의</string>
+  <string name="agree_permissions_request">허용</string>
   <string name="alert_tips">이 사이트는 보안 문제를 야기할 수 있습니다.</string>
   <string name="allow">허용</string>
   <string name="app_new_version">이미 최신 버젼의 앱이 설치되어 있습니다.</string>
@@ -141,7 +145,7 @@
   <string name="close_cloud_tab_tip">%s의 클라우드 탭을 닫으시겠습니까?</string>
   <string name="cloud_loading_tips">아래로 당겨서 동기화</string>
   <string name="cloud_no_new_data_toast">전부 최신입니다.</string>
-  <string name="cloud_sync_closed_toast">동기화가 꺼져 있어 업데이트를 할 수 없습니다.</string>
+  <string name="cloud_sync_closed_toast">동기화를 활성화시켜 업데이트하기</string>
   <string name="cloud_sync_failed_toast">업데이트할 수 없음</string>
   <string name="cloud_tab">클라우드 탭</string>
   <string name="cloud_time_tips">최근 동기화</string>
@@ -275,6 +279,9 @@
   <string name="empty_bookmark">비어 있음</string>
   <string name="empty_history_hint">기록이 없습니다.</string>
   <string name="empty_snapshot_hint">비어 있음</string>
+  <string name="empty_cloud_tab_logout_hint">"미 계정에 로그인하여 다른 기기에 같은 화면을 전송해보세요."</string>
+  <string name="empty_history_hint">검색기록이 비어있습니다.</string>
+  <string name="empty_snapshot_hint">비어있음</string>
   <string name="enable_geolocation_confirm_message">이 기능을 끄는 것은 몇 몇 웹사이트가 오작동하게 만들 수 있습니다.</string>
   <string name="enter_developer_mode">개발자 모드 들어가기</string>
   <string name="enter_incongnito_mode">익명 사용자 모드 들어가기</string>
@@ -295,6 +302,7 @@
   <string name="find_on_page_next">다음</string>
   <string name="find_on_page_prev">뒤로</string>
   <string name="find_previous">이전 찾기</string>
+  <string name="finish_sync_cloud_tabs">성공적으로 동기화함</string>
   <string name="fling_on_border_gesture_hint">설정에서 제스쳐를 선택하실 수 있습니다.</string>	
   <string name="force_quick_search_title">검색</string>
   <string name="force_touch_bookmark_history_title">북마크 &amp; 기록</string>
