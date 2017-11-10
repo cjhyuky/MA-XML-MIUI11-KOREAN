@@ -1211,7 +1211,12 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="auto_launch_label">기본으로 실행</string>
     <string name="auto_launch_label_generic">기본</string>
     <string name="screen_compatibility_label">화면 호환성</string>
-    <string name="permissions_label">권한</string>
+    <string name="permissions_label">권한 설정</string>
+    <string name="permission_manage_title">%s 앱의 권한 설정</string>
+    <string name="permission_manager">권한 설정</string>
+    <string name="permission_mgr">권한 설정</string>
+    <string name="permission_settings_summary">이 앱의 권한 설정을 변경합니다.</string>
+    <string name="permission_settings_title">앱 권한 설정</string>
     <string name="cache_header_label">캐시</string>
     <string name="clear_cache_btn_text">캐시 지우기</string>
     <string name="cache_size_label">캐시</string>
