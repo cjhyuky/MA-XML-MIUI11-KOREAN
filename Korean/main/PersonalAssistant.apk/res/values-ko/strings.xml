@@ -819,14 +819,14 @@
   <string name="unusual_weather">날씨 알림</string>
   <string name="unusual_weather_open">기상 경보 켜기</string>
   <string name="unusual_weather_setting_brief">폭우, 폭설 등 위험한 날씨에 대비하여 알림을 수신합니다.</string>
-  <string name="unusual_weather_setting_tip">날씨가 매우 나쁜 날에 대한 알림을 받을 도시를 Weather 앱에서 변경할 수 있습니다.</string>
+  <string name="unusual_weather_setting_tip">날씨가 매우 나쁜 날에 대한 알림을 받을 도시를 날씨 앱에서 변경할 수 있습니다.</string>
   <string name="uploads_disabled">"파일을 업로드 할 수 없습니다"</string>
   <string name="user_id">사용자 ID : %s</string>
   <string name="user_notice_title">주의</string>
-  <string name="vr_pay_not_support">VR 지불을 지원하지 않습니다./string>
+  <string name="vr_pay_not_support">VR 지불을 지원하지 않습니다.</string>
   <string name="walk">걷기</string>
   <string name="weibo_name">새 게시물</string>
-  <string name="weibo_parent">Weibo</string>
+  <string name="weibo_parent">웨이보</string>
   <string name="which_transport">목적지까지 일반적으로 걸리는 시간은 어느정도인가요?</string>
   <string name="widget_fav">즐겨찾기</string>
   <string name="widget_fav_open">즐겨찾기 해놓은 카드 보기</string>
@@ -839,15 +839,13 @@
   <string name="wx_aa">그룹 채권</string>
   <string name="wx_collectioncode">받은 돈</string>
   <string name="wx_name">내 카드</string>
-  <string name="wx_parent">WeChat</string>
+  <string name="wx_parent">위챗</string>
   <string name="wx_paycode">지불수단</string>
   <string name="wx_photo">사진</string>
   <string name="wx_scan">스캐너</string>
   <string name="wx_timeline">행복했던 순간들</string>
   <string name="xiaomi_search_label">검색</string>
   <string name="xspace_resolver_activity_title">앱 선택</string>
-  <string name="year_month_day_all_format_en">MM/dd/yyyy HH:mm:ss</string>
-  <string name="year_month_day_format">MM/dd/yyyy</string>
   <string name="yellow_page_website">공식 사이트</string>
   <string name="yesterday">어제</string>
 </resources>
