@@ -277,11 +277,9 @@
   <string name="edit_bookmark">북마크 편집</string>
   <string name="edit_quicklink">편집</string>
   <string name="empty_bookmark">비어 있음</string>
-  <string name="empty_history_hint">기록이 없습니다.</string>
-  <string name="empty_snapshot_hint">비어 있음</string>
-  <string name="empty_cloud_tab_logout_hint">"미 계정에 로그인하여 다른 기기에 같은 화면을 전송해보세요."</string>
-  <string name="empty_history_hint">검색기록이 비어있습니다.</string>
+  <string name="empty_history_hint">검색기록이 없습니다.</string>
   <string name="empty_snapshot_hint">비어있음</string>
+  <string name="empty_cloud_tab_logout_hint">"미 계정에 로그인하여 다른 기기에 같은 화면을 전송해보세요."</string>
   <string name="enable_geolocation_confirm_message">이 기능을 끄는 것은 몇 몇 웹사이트가 오작동하게 만들 수 있습니다.</string>
   <string name="enter_developer_mode">개발자 모드 들어가기</string>
   <string name="enter_incongnito_mode">익명 사용자 모드 들어가기</string>
