@@ -415,7 +415,7 @@
   <string name="map_home_didi">집 가기</string>
   <string name="map_home_way">집 가는 경로</string>
   <string name="map_install_tip">이 기능을 사용하기 위해 Gaode 또는 Baidu 맵 설치</string>
-  <string name="map_loading_desc">정보를 불러올 수 없습니다. 다시 시도하십시오.</String>
+  <string name="map_loading_desc">정보를 불러올 수 없습니다. 다시 시도하십시오.</string>
   <string name="map_msg_smooth">전체 현재 경로</string>
   <string name="map_msg_sufix">세부 정보</string>
   <string name="map_office_didi">직장 출근하기</string>
