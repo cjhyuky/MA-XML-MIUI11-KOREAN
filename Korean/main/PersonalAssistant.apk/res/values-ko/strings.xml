@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_change_text" formatted="false">%d 를 선택하셨습니다. 이 항목은 %d 와 병합됩니다.</string>
-  <string name="access_select">%s 을(를) 선택하셨습니다.</string>
-  <string name="access_unselect">%s 을(를) 취소하셨습니다.</string>
+  <string name="access_change_text" formatted="false">%d 항목을 선택하셨습니다. 이 항목은 %d 와 병합됩니다.</string>
+  <string name="access_select">%s 항목을 선택하셨습니다.</string>
+  <string name="access_unselect">%s 항목을 취소하셨습니다.</string>
   <string name="accessibility_title">스마트 어시스턴트</string>
   <string name="accessibilty_back_button">반환</string>
   <string name="accessibilty_move_down">아래로 이동</string>
