@@ -431,7 +431,7 @@
   <string name="map_title_blocked">비정상적인 정체</string>
   <string name="map_title_blocked_last">혼잡</string>
   <string name="map_title_congestion">도로 혼잡</string>
-  <string name=“map_title_congestion_last">혼잡</string>  
+  <string name="map_title_congestion_last">혼잡</string>
   <string name=“map_title_home">집 가기</string>
   <string name=“map_title_hours">시간</string>
   <string name=“map_title_middle">필수</string>
