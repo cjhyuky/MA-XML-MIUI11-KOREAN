@@ -48,9 +48,9 @@
   <string name="folder_name_invalid">"/\\:*?&lt;&gt; 은 파일 이름에 포함할 수 없습니다."</string>
   <string name="gigabyteShort">GB</string>
   <string name="image_loading_error">"이미지를 불러올 수 없습니다"</string>
-  <string name="just_now">Just now</string>
+  <string name="just_now">방금 전</string>
   <string name="kilobyteShort">KB</string>
-  <string name="load_err">"Can't load"</string>
+  <string name="load_err">"불러올 수 없습니다"</string>
   <string name="login_reg_content">Store files and sync across multiple devices.</string>
   <string name="login_reg_title">Use Mi Drive from anywhere.</string>
   <string name="megabyteShort">MB</string>
