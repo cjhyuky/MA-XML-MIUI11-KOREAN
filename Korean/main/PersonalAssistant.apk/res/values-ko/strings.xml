@@ -333,7 +333,7 @@
   <string name="greeting_open">인사말 활성화시키기</string>
   <string name="greeting_schedule_desc">오늘의 이벤트들입니다 : %1$d</string>
   <string name="greeting_setting_brief">날씨 정보, 이벤트 미리 알림, 그리고 생일 알림들을 매일 아침, 저녁에 받아보세요!</string>
-  <string nam ="greeting_setting_brief_notice"> 날씨 앱에서 도시를 변경할 수 있습니다.</string>
+  <string name="greeting_setting_brief_notice"> 날씨 앱에서 도시를 변경할 수 있습니다.</string>
   <string name="greeting_title_morning">좋은 아침입니다!</string>
   <string name="greeting_title_night">안녕하세요!</string>
   <string name="groupon">티켓 &amp; 에 사용 가능한 쿠폰</string>
