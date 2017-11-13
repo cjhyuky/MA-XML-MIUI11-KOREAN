@@ -1558,6 +1558,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="accessibility_feature_state_on">사용</string>
     <string name="accessibility_feature_state_off">사용 안함</string>
     <string name="add_front_fingerprint_instruction_msg">지문인식센서는 기기 뒷면이나 기기 홈버튼에 위치하여 있습니다.</string>
+    <string name="add_back_fingerprint_instruction_msg">센서 위에 손가락을 올려 주세요.</string>
     <string name="accessibility_feature_or_input_method_not_allowed">조직에서 허용하지 않음</string>
     <string name="captioning_preview_title">미리보기</string>
     <string name="captioning_standard_options_title">표준 옵션</string>
