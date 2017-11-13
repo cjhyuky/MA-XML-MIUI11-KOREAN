@@ -112,4 +112,16 @@
     <string name="google_search_hint">구글 검색</string>
     <string name="google_search_description">구글 검색 제안</string>
     <string name="voice_search_hint_title">음성 검색:</string>
+    <string name="barcode_install_back">뒤로가기</string>
+    <string name="barcode_install_cancel">취소</string>
+    <string name="barcode_install_confirm">설치</string>
+    <string name="barcode_system_unmatch">스캐너를 설치하기 전에 MIUI를 업데이트하세요.</string>
+    <string name="barcode_to_install">계속 진행하시려면 스캐너를 추가하세요.</string>
+    <string name="barcode_uninstalled">스캐너 삭제됨</string>
+    <string name="choose_search_engine">기본 검색 엔진을 통해 검색하기</string>
+    <string name="mina_name">직결된 앱</string>
+    <string name="setting_other">기타</string>
+    <string name="setting_version">앱 버전</string>
+    <string name="setting_version_title">앱 버전</string>
+    <string name="switch_email">메일</string>
 </resources>
