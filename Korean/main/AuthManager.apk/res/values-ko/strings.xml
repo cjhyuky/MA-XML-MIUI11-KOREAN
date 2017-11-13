@@ -101,4 +101,5 @@
     <string name="grant_dialog_button_deny">거부</string>
     <string name="current_permission_template">%2$s의 %1$s</string>
     <string name="never_ask_again">다시 묻지 않기</string>
+    <string name="permission_warning_template_ask">%1$s 앱에 아래의 권한을 허용하시겠습니까？</string>
 </resources>
