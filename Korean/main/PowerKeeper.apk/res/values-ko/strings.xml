@@ -200,4 +200,6 @@
     <string name="lasttime_feature_cloud">Function last update：</string>
     <string name="lasttime_applist_cloud">Applist last update：</string>
     <string name="base_info">기본 정보</string>
+    <string name="nonui_mode_config_description">"MIUI는 당신이 기기를 사용하지 않는다는 걸 감지할 경우 화면을 포함한 모든 기능을 비활성화시킵니다."</string>
+    <string name="nonui_mode_config_title">방해금지 모드</string>
 </resources>
