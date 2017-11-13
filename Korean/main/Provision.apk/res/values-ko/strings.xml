@@ -67,7 +67,13 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="enable_accessibility_dialog_negative_btn">취소</string>
     <string name="cm_terms_title">모바일 네트워크 운영자 동의</string>
     <string name="cm_terms_content">사용자에게 제공되는 서비스의 품질을 향상시키려면 Wi-Fi 네트워크나 모바일 데이터 연결을 통해 선택한 모바일 네트워크 운영자가 서버에 사용자의 개인 정보와 이 기기의 정보를 업로드해야할 수 있습니다. 제공된 정보는 서비스 품질 향상과 개인화된 컨텐츠 제공을 위해 통계 목적으로만 사용됩니다. 제공된 정보는 개인을 특정하기 위해 사용하거나 제 3자에게 제공하지 않습니다.</string>
-    <string name="two_dimensional_code_scan">QR code scan</string>
+    <string name="two_dimensional_code_scan">QR코드 스캔</string>
     <string name="user_strayed_warning">이 페이지는 공장 테스트를 위해 설계되었으며, 종료 버튼을 클릭하여 종료합니다.</string>
     <string name="fail_to_generate_qr_code">QR코드를 생성하지 못했습니다. 이 페이지를 다시 입력하십시오.</string>
+    <string name="accessibility_enabled">접근성 활성화</string>
+    <string name="continue_to_enable_accessibility">접근성을 활성화하려면 두 손가락을 계속 내리고 계십시오.</string>
+    <string name="enable_accessibility_canceled">지문</string>
+    <string name="item_fingerprint">지문</string>
+    <string name="item_lock_screen_password">화면 잠금만</string>
+    <string name="language_settings">언어 선택</string>
 </resources>
