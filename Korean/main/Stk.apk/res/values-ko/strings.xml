@@ -25,4 +25,9 @@
     <string name="stk_dialog_accept">예</string>
     <string name="stk_dialog_reject">아니요</string>
     <string name="no_sim_card_inserted">SIM 툴킷을 실행하려면 SIM을 삽입하세요.</string>
+    <string name="default_tone_dialog_msg">실행중…</string>
+    <string name="sim_type_sim_name">SIM 도구 킷</string>
+    <string name="sim_type_uim_name">UIM 도구 킷</string>
+    <string name="sim_type_usim_name">USIM 도구 킷</string>
+    <string name="stk_intent_permission">권한이 필요합니다.</string>
 </resources>
