@@ -347,13 +347,13 @@ SMS 전송"</string>
     <string name="firewall_fragment_tab_title_sys">시스템</string>
     <string name="firewall_fragment_sys_listempty">비어있음</string>
     <string name="firewall_fragment_nonesys_listempty">비어있음</string>
-    <string name="firewall_restrict_notify_title">%s 네트워크 사용 실패</string>
+    <string name="firewall_restrict_notify_title">%s 네트워크 사용 제한됨</string>
     <string name="firewall_network_restrict_notify_mobile">모바일 데이터</string>
     <string name="firewall_network_restrict_notify_message">탭하여 설정 변경</string>
     <string name="firewall_restrict_android_dialog_title">주의</string>
     <string name="firewall_restrict_android_dialog_content">기기가 정상적으로 작동하는지 확인하기 위해서 몇몇 안드로이드 시스템 앱들이 아직 인터넷에 연결 중일 수도 있습니다. 이 앱들은 귀하의 모바일 데이터 연결을 사용할 수 있으며 귀하가 이용중인 통신사에서 많지 않은 요금이 청구될 수도 있습니다.</string>
-    <string name="background_restrict_app_dialog_message">Restricting background network access for this app might make it impossible for the app to work normally, receive messages, download content, etc. Restrict anyway?</string>
-    <string name="firewall_allow_network">허용됨</string>
+    <string name="background_restrict_app_dialog_message">이 앱의 백그라운드 네트워크 접속을 제한하면 앱이 정상적으로 작동하지 않을 수 있습니다. 그래도 제한하시겠습니까?</string>
+    <string name="firewall_allow_network">허용하기</string>
     <string name="firewall_network_allow">%1$s의 %2$s 연결이 허용됨</string>
     <string name="search_result_text">아무 앱도 찾지 못했습니다</string>
     <string name="firewall_mobile_dialog_message">스위치가 꺼져있을 때는 설치된 앱은 모바일 데이터를 사용하여 인터넷에 연결할 수 없습니다.</string>
