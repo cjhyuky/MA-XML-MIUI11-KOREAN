@@ -515,4 +515,5 @@
   <string name="xiaomi_user">사용자</string>
   <string name="yinyuetai">음악당</string>
   <string name="youku">요우쿠</string>
+  <string name="toast_player_list_none">더 불러올 컨텐츠 없음</string>
 </resources>
