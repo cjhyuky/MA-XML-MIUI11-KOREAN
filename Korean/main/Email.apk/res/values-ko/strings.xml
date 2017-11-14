@@ -503,7 +503,7 @@
     <string name="mailbox_name_display_inbox">받은 편지함</string>
     <string name="mailbox_name_display_junk">스팸</string>
     <string name="mailbox_name_display_outbox">보낼 편지함</string>
-    <string name="mailbox_name_display_sent">전송됨</string>
+    <string name="mailbox_name_display_sent">보낸 편지함</string>
     <string name="mailbox_name_display_starred">별 표시됨</string>
     <string name="mailbox_name_display_trash">휴지통</string>
     <string name="mailbox_name_display_unread">읽지 않음</string>
