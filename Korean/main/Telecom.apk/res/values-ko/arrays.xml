@@ -175,25 +175,21 @@
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>없음</item>
-        <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
     </string-array>
     <string-array name="enable_opengl_traces_values">
         <item>0</item>
         <item>1</item>
-        <item>systrace</item>
         <item>오류</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Off</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
+        <item>직사각형이 아닌 클립을 파란색 영역에 그려주세요.</item>
+        <item>테스트 면을 녹색으로 칠해주세요.</item>
     </string-array>
     <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
+        <item>숨기기</item>
+        <item>지역</item>
+        <item>하이라이트</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Off</item>
@@ -218,10 +214,10 @@
     <string-array name="app_process_limit_entries">
         <item>Standard limit</item>
         <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+        <item>최대 1개 처리</item>
+        <item>최대 2개 처리</item>
+        <item>최대 3개 처리</item>
+        <item>최대 4개 처리</item>
     </string-array>
     <string-array name="app_process_limit_values">
         <item>-1</item>
@@ -232,27 +228,12 @@
         <item>4</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Charging</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
+        <item>충전중</item>
+        <item>MTP (미디어 전송 프로트콜)</item>
+        <item>PTP (사진 전송 프로트콜)</item>
+        <item>RNDIS (USB 이더넷)</item>
+        <item>오디오 소스</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="usb_configuration_values">
-        <item>none</item>
-        <item>mtp</item>
-        <item>ptp</item>
-        <item>rndis</item>
-        <item>audio_source</item>
-        <item>midi</item>
-    </string-array>
-    <string-array name="simulate_color_space_entries">
-        <item>@string/daltonizer_mode_disabled</item>
-        <item>@string/daltonizer_mode_monochromacy</item>
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
     </string-array>
     <string-array name="simulate_color_space_values">
         <item>-1</item>
@@ -268,15 +249,15 @@
     </integer-array>
     <array name="config_hideWhenDisabled_packageNames" />
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
+        <item>매우 느리게</item>
+        <item>느리게</item>
+        <item>보통</item>
         <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>아주 조금 빠르게</item>
+        <item>아주 조금 빠르게</item>
+        <item>매우 빠르게</item>     
+        <item>극도로 빠르게</item>
+        <item>제일 빠르게</item>
     </string-array>
     <string-array name="tts_rate_values">
         <item>60</item>
@@ -306,14 +287,14 @@
         <item>kor</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
-        <item>Natural</item>
-        <item>Standard</item>
+         <item>활기찬(기본)</item>
+         <item>자연스러운</item>
+         <item>표준</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
+        <item>보정된 색상</item>
+        <item>자연스러운 색상</item>
+        <item>디지털 컨텐츠를 위해 보정된 색상</item>
     </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
