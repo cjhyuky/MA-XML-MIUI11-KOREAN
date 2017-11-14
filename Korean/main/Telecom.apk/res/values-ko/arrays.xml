@@ -24,27 +24,27 @@
         <item>거절됨</item>
         <item>%1$s에서 연결 해제중…</item>
         <item>연결 해제됨</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>실패</item>
+        <item>차단됨</item>
+        <item>원활한 네트워크 연결을 위해 임시적으로 차단됨</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
-        <item>Check for DRM content only</item>
-        <item>Always check</item>
+        <item>체크하지 않기</item>
+        <item>DRM 컨텐츠만 체크하기</item>
+        <item>항상 체크하기</item>
     </string-array>
     <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
+        <item>안함</item>
+        <item>DRM에 한해</item>
+        <item>항상</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Never use HDCP checking</item>
-        <item>Use HDCP checking for DRM content only</item>
-        <item>Always use HDCP checking</item>
+        <item>항상 HDCP 검사 사용하지 않기</item>
+        <item>DRM 컨텐츠만 HDCP 검사 사용하기</item>
+        <item>항상 HDCP 검사 사용하기</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Off</item>
+        <item>끄기</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -52,7 +52,7 @@
         <item>16M</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+        <item>끄기</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -67,38 +67,38 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Off</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
+        <item>로그 버퍼당 64K</item>
+        <item>로그 버퍼당 256K</item>
+        <item>로그 버퍼당 1M</item>
+        <item>로그 버퍼당 4M</item>
+        <item>로그 버퍼당 16M</item>
     </string-array>
     <string-array name="select_logpersist_values">
         <item></item>
-        <item>all</item>
-        <item>default,security,kernel</item>
-        <item>kernel</item>
+        <item>전체</item>
+        <item>기본,보안,커널</item>
+        <item>커널</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>끄가</item>
+        <item>전체</item>
+        <item>라디오를 제외한 전체</item>
+        <item>커널만</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>끄기</item>
+        <item>모든 로그 버퍼만</item>
+        <item>라디오 로그 버퍼를 제외한 전체</item>
+        <item>커널 로그버퍼만</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>애니메이션 끄기</item>
+        <item>애니메이션 스케일 .5x</item>
+        <item>애니메이션 스케일 1x</item>
+        <item>애니메이션 스케일 1.5x</item>
+        <item>애니메이션 스케일 2x</item>
+        <item>애니메이션 스케일 5x</item>
+        <item>애니메이션 스케일 10x</item>
     </string-array>
     <string-array name="window_animation_scale_values">
         <item>0</item>
@@ -110,13 +110,13 @@
         <item>10</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>애니메이션 끄기</item>
+        <item>애니메이션 스케일 .5x</item>
+        <item>애니메이션 스케일 1x</item>
+        <item>애니메이션 스케일 1.5x</item>
+        <item>애니메이션 스케일 2x</item>
+        <item>애니메이션 스케일 5x</item>
+        <item>애니메이션 스케일 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_values">
         <item>0</item>
@@ -128,13 +128,13 @@
         <item>10</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>애니메이션 끄기</item>
+        <item>애니메이션 스케일 .5x</item>
+        <item>애니메이션 스케일 1x</item>
+        <item>애니메이션 스케일 1.5x</item>
+        <item>애니메이션 스케일 2x</item>
+        <item>애니메이션 스케일 5x</item>
+        <item>애니메이션 스케일 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_values">
         <item>0</item>
@@ -146,35 +146,35 @@
         <item>10</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>없음</item>
         <item>480p</item>
-        <item>480p (secure)</item>
+        <item>480p (보안)</item>
         <item>720p</item>
-        <item>720p (secure)</item>
+        <item>720p (보안)</item>
         <item>1080p</item>
-        <item>1080p (secure)</item>
+        <item>1080p (보안)</item>
         <item>4K</item>
-        <item>4K (secure)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
+        <item>4K (보안)</item>
+        <item>4K (업스케일됨)</item>
+        <item>4K (보안처리됨, 업스케일됨)</item>
+        <item>720p, 1080p (듀얼 스크린)</item>
     </string-array>
     <string-array name="overlay_display_devices_values">
         <item></item>
         <item>720x480/142</item>
-        <item>720x480/142,secure</item>
+        <item>720x480/142,보안</item>
         <item>1280x720/213</item>
-        <item>1280x720/213,secure</item>
+        <item>1280x720/213,보안</item>
         <item>1920x1080/320</item>
-        <item>1920x1080/320,secure</item>
+        <item>1920x1080/320,보안</item>
         <item>3840x2160/320</item>
-        <item>3840x2160/320,secure</item>
+        <item>3840x2160/320,보안</item>
         <item>1920x1080/320|3840x2160/640</item>
         <item>1920x1080/320|3840x2160/640,secure</item>
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>없음</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
@@ -183,7 +183,7 @@
         <item>0</item>
         <item>1</item>
         <item>systrace</item>
-        <item>error</item>
+        <item>오류</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Off</item>
