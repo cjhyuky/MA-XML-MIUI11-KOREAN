@@ -67,9 +67,9 @@
     <string name="xspace_loading_msg">앱 로딩 중…</string>
     <string name="xspace_header">듀얼 앱</string>
     <string name="xspace_introduce">추천됨</string>
-    <string name="xspace_description">"双开应用将在桌面生成一个全新的应用副本，两者可同时运行互不影响。
+    <string name="xspace_description">""응용 프로그램을 두 번 열면 데스크톱에서 응용 프로그램의 새로운 복사본이 생성되며 둘 다 서로 독립적으로 실행됩니다.
 
-部分应用需要谷歌服务框架支持，双开这部分应用时会同步双开谷歌服务以保障体验。"</string>
+응용 프로그램의 일부는 Google 서비스 프레임 워크 지원을 필요로하며, 응용 프로그램의이 부분을 두 번 열면 경험을 보호하기 위해 이중 Google 서비스가 동기화됩니다."</string>
     <string name="xspace_chocie">듀얼 앱 지원</string>
     <string name="xspace_creating">듀얼 앱 생성 중…</string>
     <string name="xspace_installing">설치 중…</string>
@@ -286,31 +286,33 @@
     <string name="can_not_switch_when_calling">통화 중에는 공간 간의 전환을 할 수 없습니다.</string>
     <string name="can_not_delete_when_calling">통화 중에는 공간을 삭제할 수 없습니다.</string>
     <string name="support_desc">보안 서비스 Graphite에 의해 제공됨</string>
-    <string name="sdcardfs_dialog_message">Turn off \"Mock SD card optimization\" in Developer options before entering Second space.</string>
-    <string name="do_not_ask">"Don't ask again"</string>
-    <string name="gpg_message">Creating dual apps for games requires working with Google Play Games. Create a dual app for Google Play Games?</string>
+    <string name="sdcardfs_dialog_message">세컨드 스페이스에 진입하기 전에 \"Mock SD card optimization\" 를 개발자 옵션에서 비활성화하세요.</string>
+    <string name="do_not_ask">"다시 묻지 않기"</string>
+    <string name="gpg_message">세컨드 스페이스를 사용하려면 Google Play Games도 함께 해야 합니다. Google Play Games도 같이 복사하시겠습니까?</string>
     <string name="gpg_title">Dual app for Google Play Games</string>
     <string name="gms_message">Creating dual apps requires working with Google services. Create a dual app for Google services?</string>
     <string name="gms_title">Turn on Google services</string>
-    <string name="gms_open_button">Turn on</string>
-    <string name="create_second_space">Created successfully</string>
-    <string name="set_space_password">Set password</string>
-    <string name="set_space_finger">Set fingerprint</string>
-    <string name="guide_start_text">Two spaces. One device.</string>
-    <string name="guide_start_ads_text">A completely new level of security</string>
-    <string name="skip">Skip</string>
-    <string name="input_space_password">Set now</string>
-    <string name="input_space_finger">Set now</string>
-    <string name="space_finger_sub_text">Set Second space fingerprint to switch faster</string>
-    <string name="set_space_finger_sub_text_suc">Set fingerprint successfully</string>
-    <string name="show_noti_from_owner">Notifications from the other space</string>
-    <string name="show_noti_from_owner_detail">Receive notifications in the current space when they come to the other one</string>
-    <string name="show_noti_quick_switch_icon">Notification shade shortcut</string>
-    <string name="show_noti_quick_switch_icon_detail">Show a shortcut for switching spaces in the Notification shade</string>
-    <string name="show_decktop_quick_switch_icon">Home screen shortcut</string>
-    <string name="show_decktop_quick_switch_icon_detail">Show a shortcut for switching spaces on the Home screen in First space</string>
-    <string name="has_created_second_space">"You can open Second space now.
-One device. Two spaces."</string>
-    <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
-    <string name="privacy_password_fingerprint_dialog_message">Put your finger on the sensor</string>
+    <string name="gms_open_button">켜기</string>
+    <string name="create_second_space">성공적으로 생성됨</string>
+    <string name="set_space_password">비밀번호 설정</string>
+    <string name="set_space_finger">지문 설정</string>
+    <string name="guide_start_text">한 기기를 두 기기같이.</string>
+    <string name="guide_start_ads_text">완전히 새롭고 안전해진 보안</string>
+    <string name="skip">건너뛰기</string>
+    <string name="input_space_password">지금 설정</string>
+    <string name="input_space_finger">지금 설정</string>
+    <string name="space_finger_sub_text">세컨드 스페이스 지문을 설정해 더욱 빠르게 접근하세요.</string>
+    <string name="set_space_finger_sub_text_suc">지문 추가 완료</string>
+    <string name="show_noti_from_owner">다른 공간에서의 알림</string>
+    <string name="show_noti_from_owner_detail">세컨드 스페이스에 변경사항이 감지되면 메인 계정에서 알림 받기</string>
+    <string name="show_noti_quick_switch_icon">알림 바로가기</string>
+    <string name="show_noti_quick_switch_icon_detail">알림 바로가기 보기</string>
+    <string name="show_decktop_quick_switch_icon">홈 화면 바로가기</string>
+    <string name="has_created_second_space">"이제 세컨드 스페이스를 열 수 있습니다."</string>
+    <string name="privacy_password_fingerprint_dialog_title">지문 스캔</string>
+    <string name="privacy_password_fingerprint_dialog_message">지문 위에 센서를 올려놔 주세요.</string>
+    <string name="dialog_title">주의</string>
+    <string name="fingerprint_number_upper_limit">너무 많이 실패하였습니다.</string>
+    <string name="optimize_now">최적화하기</string>
+    
 </resources>
