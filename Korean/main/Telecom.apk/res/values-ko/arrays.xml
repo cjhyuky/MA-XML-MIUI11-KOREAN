@@ -21,9 +21,9 @@
         <item>%1$s 네트워크 로그인 중…</item>
         <item>%1$s 에서 IP 주소를 받아오는 중…</item>
         <item>%1$s 에 </item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
+        <item>거절됨</item>
+        <item>%1$s에서 연결 해제중…</item>
+        <item>연결 해제됨</item>
         <item>Unsuccessful</item>
         <item>Blocked</item>
         <item>Temporarily avoiding poor connection</item>
