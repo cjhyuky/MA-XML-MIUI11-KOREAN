@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="account_phone">핸드폰</string>
+  <string name="account_sim">SIM 카드</string>
+  <string name="app_name">SIM 카드에 저장된 연락처</string>
+</resources>
