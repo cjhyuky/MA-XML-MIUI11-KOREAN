@@ -4475,7 +4475,6 @@ PIN 설정"</string>
     <string name="accessibility_lock_screen_progress">%2$d 중 %1$d자 사용됨</string>
     <string name="accessibility_no_wifi">Wifi 연결 해제됨</string>
     <string name="accessibility_personal_account_title">개인 계정 - %s</string>
-    <string name="accessibility_screen_magnification_short_summary">3번 탭하여 줌하기</string>
     <string name="accessibility_wifi_off">와이파이 꺼짐</string>
     <string name="accessibility_wifi_one_bar">와이파이 신호 약함.</string>
     <string name="accessibility_wifi_signal_full">와이파이 신호 강함.</string>
@@ -4488,7 +4487,6 @@ PIN 설정"</string>
     <string name="action_drag_label_move_up">위로 옮기기</string>
     <string name="action_drag_label_remove">언어 삭제</string>
     <string name="add_a_language">언어 추가</string>
-    <string name="add_back_fingerprint_instruction_msg">센서 위에 손가락을 올려 주세요.</string>
     <string name="add_fingerprint_edge_instruction_msg">센서위에 올려놓은 손가락을 살짝 움직이며 지문의 모든 부분이 추가될 수 있도록 하십시오.</string>
     <string name="add_fingerprint_edge_instruction_title">손가락을 약간 움직여 주십시오.</string>
     <string name="additional_permissions">추가 엑세스 권한</string>
@@ -5518,7 +5516,6 @@ PIN 설정"</string>
     <string name="zen_mode_rule_name_warning">Rule name already in use</string>
     <string name="zen_mode_rule_not_found_text">Rule not found.</string>
     <string name="zen_mode_rule_summary_enabled_combination">On / %1$s</string>
-    <string name="zen_mode_rule_summary_provider_combination">"%1$s
     <string name="zen_mode_rule_type">Rule type</string>
     <string name="zen_mode_rule_type_unknown">Unknown</string>
     <string name="zen_mode_schedule_alarm_summary">Stop at the end time or next alarm, whichever comes first</string>
