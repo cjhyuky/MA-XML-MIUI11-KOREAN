@@ -53,9 +53,9 @@
         <item>알람이 %2$s 후 울립니다.</item>
         <item>알람이 %1$s %2$s 후 울립니다.</item>
         <item>알람이 %3$s 후 울립니다.</item>
-        <item>알람 %1$s %3$s 후 알림</item>
-        <item>알람 %2$s %3$s 후 알림</item>
-        <item>알람 %1$s %2$s %3$s 후 알림</item>
+        <item>알람 %1$s %3$s 후 알람</item>
+        <item>알람 %2$s %3$s 후 알람</item>
+        <item>알람 %1$s %2$s %3$s 후 알람</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1분</item>
