@@ -48,14 +48,14 @@
         <item>좋은 하루되세요!</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>알람이 1분 안에 종료될 것입니다.</item>
-        <item>알람이 %1$s 후 종료될 것입니다.</item>
-        <item>알람이 %2$s 후 종료될 것입니다.</item>
-        <item>알람이 %1$s %2$s 후 종료될 것입니다.</item>
-        <item>알람이 %3$s 후 종료될 것입니다.</item>
-        <item>알람 %1$s %3$s 후 종료</item>
-        <item>알람 %2$s %3$s 후 종료</item>
-        <item>알람 %1$s %2$s %3$s 후 종료</item>
+        <item>알람이 1분 안에 울립니다.</item>
+        <item>알람이 %1$s 후 울립니다.</item>
+        <item>알람이 %2$s 후 울립니다.</item>
+        <item>알람이 %1$s %2$s 후 울립니다.</item>
+        <item>알람이 %3$s 후 울립니다.</item>
+        <item>알람 %1$s %3$s 후 알림</item>
+        <item>알람 %2$s %3$s 후 알림</item>
+        <item>알람 %1$s %2$s %3$s 후 알림</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1분</item>
