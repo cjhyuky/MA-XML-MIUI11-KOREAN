@@ -172,7 +172,7 @@
   <string name="connected_via_passpoint">Connected via %1$s</string>
   <string name="connected_via_wfa">Connected via WLAN assistant</string>
   <string name="content_description_menu_button">Menu</string>
-  <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
+  <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.</string>
   <string name="convert_to_file_encryption">Convert to file encryption</string>
   <string name="convert_to_file_encryption_done">Already file encrypted</string>
   <string name="convert_to_file_encryption_enabled">Convert…</string>
