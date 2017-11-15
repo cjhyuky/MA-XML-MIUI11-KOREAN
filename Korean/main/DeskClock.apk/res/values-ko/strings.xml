@@ -27,8 +27,8 @@
     <string name="alarm_disabled">꺼짐</string>
     <string name="alarm_ascending_mode_title">볼륨 높이기</string>
     <string name="alarm_ascending_mode_summary">알람 볼륨이 점점 커짐</string>
-    <string name="setting_alarm_arriving_title">벨소리 울리기전 진동 알림</string>
-    <string name="setting_alarm_arriving_summary">벨소리 울리기전 진동으로 먼저 알림</string>
+    <string name="setting_alarm_arriving_title">벨소리 울리기 전 알림</string>
+    <string name="setting_alarm_arriving_summary">벨소리 울리기 전 알림 전송</string>
     <string name="close_alarm">끄기</string>
     <string name="timer_notify_text">타이머를 잠시 멈추거나 종료합니다.</string>
     <string name="upcoming_alarm">다가오는 알람</string>
