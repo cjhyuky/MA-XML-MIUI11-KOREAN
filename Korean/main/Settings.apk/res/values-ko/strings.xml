@@ -5275,7 +5275,7 @@ PIN 설정"</string>
     <string name="testing_wifi_info">WLAN information</string>
     <string name="tether_settings_disabled_on_data_saver">Can’t tether or use portable hotspots while Data Saver is on</string>
     <string name="tether_settings_launch_title">Mobile HotSpot</string>
-    <string name="tethering_help_dialog_text">&lt;b&gt;USB tethering&lt;/b&gt;" 
+    <string name="tethering_help_dialog_text">&lt;b&gt;USB tethering&lt;/b&gt;" </string>
     <string name="tethering_help_dialog_title">Help</string>
     <string name="tethering_no_sim_alert_title">No SIM Card</string>
     <string name="tethering_no_sim_card_text">Please install SIM card in order to share your data connection with other devices using Mobile HotSpot or USB tethering for Internet access.</string>
