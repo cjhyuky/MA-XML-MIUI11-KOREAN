@@ -1263,4 +1263,5 @@
     <string name="t9_search_empty_send_sms">메세지 전송</string>
     <string name="t9_search_empty_edit_contact">연락처에 추가</string>
     <string name="add_field_toast">추가할 공간이 없습니다</string>
+    <string name="add_miui_contact">Mi Card</string>
 </resources>
