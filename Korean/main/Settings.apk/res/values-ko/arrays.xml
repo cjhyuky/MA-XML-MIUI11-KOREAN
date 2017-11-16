@@ -1345,11 +1345,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>파일</item>
         <item>메모</item>
     </string-array>
-    <string-array name="standard_configuration_version">
-        <item>3.00GB</item>
-        <item>16GB</item>
-        <item>쿼드 코어 최대 2.5GHz</item>
-    </string-array>
     <string-array name="standard_configuration_version_description_primary">
         <item>CPU</item>
         <item>배터리 용량</item>
@@ -1357,14 +1352,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>화면 크기</item>
         <item>해상도</item>
         <item>안드로이드 버전</item>
-    </string-array>
-    <string-array name="standard_configuration_version_description_secondary">
-        <item>MTK Helio X10</item>
-        <item>3060mAh(typ)</item>
-        <item>13MP</item>
-        <item>5.5 인치</item>
-        <item>1920 x 1080</item>
-        <item>4.4</item>
     </string-array>
     <string-array name="screen_key_position_action">
         <item>메뉴 버튼은 왼쪽으로, 뒤로가기 버튼은 오른쪽으로</item>
