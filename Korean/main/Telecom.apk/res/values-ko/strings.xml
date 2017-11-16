@@ -16,7 +16,6 @@
     <string name="respond_via_sms_canned_response_4">지금은 통화할 수 없습니다. 나중에 다시 걸어주시겠습니까?</string>
     <string name="respond_via_sms_setting_title">빠른 답장</string>
     <string name="respond_via_sms_setting_title_2">빠른 답장 편집</string>
-    <string name="respond_via_sms_setting_summary" />
     <string name="respond_via_sms_edittext_dialog_title">빠른 답장</string>
     <string name="respond_via_sms_menu_reset_default_activity">기본 앱 재설정</string>
     <string name="respond_via_sms_confirmation_format">%s 으로 메시지가 전송되었습니다.</string>
