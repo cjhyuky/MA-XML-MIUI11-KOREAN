@@ -4556,7 +4556,6 @@ PIN 설정"</string>
     <string name="battery_info_status_charging_usb_short">충전중</string>
     <string name="battery_info_status_charging_wireless_short">충전중</string>
     <string name="battery_saver_desc_turn_on_auto_never">자동 실행 비활성화</string>
-    <string name="battery_saver_desc_turn_on_auto_pct">%1$s % 이하일 경우 자동 실행</string>
     <string name="battery_saver_off_summary">끔 / %1$s</string>
     <string name="battery_saver_on_summary">켬 / %1$s</string>
     <string name="battery_stats_camera_on_label">카메라 켜짐</string>
@@ -4611,5 +4610,4 @@ PIN 설정"</string>
     <string name="condition_airplane_summary">"Wi-Fi, 블루투스, 모바일 네트워크가 비활성화되었습니다. 비행기 모드 해제 전까지는 전화를 걸 수 없습니다."</string>
     <string name="condition_airplane_title">비행기 모드 켜짐</string>
     <string name="condition_battery_summary">배터리 절약을 위해 GPS가 꺼졌습니다.</string>
-
 </resources>
