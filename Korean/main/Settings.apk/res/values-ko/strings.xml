@@ -4558,6 +4558,7 @@ PIN 설정"</string>
     <string name="battery_saver_desc_turn_on_auto_never">자동 실행 비활성화</string>
     <string name="battery_saver_off_summary">끔 / %1$s</string>
     <string name="battery_saver_on_summary">켬 / %1$s</string>
+    <string name="battery_saver_desc_turn_on_auto_pct">%1$s 이하일 경우 자동 실행</string>
     <string name="battery_stats_camera_on_label">카메라 켜짐</string>
     <string name="battery_stats_flashlight_on_label">손전등 켜짐</string>
     <string name="billing_cycle">납부일</string>
