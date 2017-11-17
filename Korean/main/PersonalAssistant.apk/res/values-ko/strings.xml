@@ -626,7 +626,7 @@
   <string name="search_label">검색 중...</string>
   <string name="search_setting_description">즐겨 찾기 제목</string>
   <string name="search_tip">검색 중...</string>
-  <string name="security">보안 옵션</string>
+  <string name="security">보안</string>
   <string name="send_action_title">즐겨 찾기에 추가</string>
   <string name="send_shortcut_failed">"보낼 수 없습니다"</string>
   <string name="send_shortcut_success">홈 화면에 배치됨</string>
