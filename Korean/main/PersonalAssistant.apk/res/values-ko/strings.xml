@@ -524,6 +524,8 @@
   <string name="music_setting_brief">음악이나 라디오를 듣기 위해서는 이어폰을 연결해 주세요.</string>
   <string name="navigation_network_location_enable">동의</string>
   <string name="navigation_network_location_enable_later">취소</string>
+  <string name="note_name">메모하기</string>
+  <string name="note_parent">메모장</string>
   <string name="fav_support_label">자동 수집 관리</string>
   <string name="fav_support_more">모든 지원 응용 프로그램</string>
   <string name="fav_support_not_title">자동 수집 앱 사용 중지</string>
