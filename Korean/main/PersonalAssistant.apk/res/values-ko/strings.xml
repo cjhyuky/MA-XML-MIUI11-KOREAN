@@ -598,7 +598,7 @@
   <string name="recharge_title_remaining">사용가능한 잔여 데이터</string>
   <string name="recharge_title_used">오늘 사용됨</string>
   <string name="record_name">새로운 녹음</string>
-  <string name="record_parent">레코더</string>
+  <string name="record_parent">녹음기</string>
   <string name="red_dowm_blue_grow">녹색 : 플러스, 적색 : 마이너스</string>
   <string name="red_grow_blue_dowm">적색 : 플러스, 녹색 : 마이너스</string>
   <string name="remaining_flow">모바일 데이터</string>
