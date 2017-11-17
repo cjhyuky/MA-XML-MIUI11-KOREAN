@@ -1609,4 +1609,5 @@
 기기를 충전하는 중에는 배터리 세이버가 자동으로 사용 중지됩니다."</string>
     <string name="downtime_condition_summary">%1$s에 정지가 종료될 때까지</string>
     <string name="zen_mode_forever">무제한</string>
+    <string namr="usb_charging_notification_title">USB로 기기를 충전중</string>
 </resources>
