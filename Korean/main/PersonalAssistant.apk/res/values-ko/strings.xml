@@ -672,7 +672,7 @@
   <string name="setting_football_select_title"> 팔로우 할 팀을 선택해주세요.</string>
   <string name="setting_football_toast_max">최대 4개의 팀을 선택할 수 있습니다.</string>
   <string name="setting_home_label">집 주소 추가</string>
-  <string name="setting_launch_all_added">더 이상 주소를 추가할 수 없습니다.</string>
+  <string name="setting_launch_all_added">더 이상 추가할 수 없습니다.</string>
   <string name="setting_launch_change">변경</string>
   <string name="setting_launch_select_other_app">다른 앱 선택</string>
   <string name="setting_list_guide">가이드</string>
