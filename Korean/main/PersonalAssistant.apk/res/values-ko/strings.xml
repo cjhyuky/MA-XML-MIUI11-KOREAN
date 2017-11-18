@@ -154,7 +154,7 @@
   <string name="city_name_spell">도시 입력</string>
   <string name="cleanup_garbage">클리너</string>
   <string name="cleanup_memory">캐시 삭제</string>
-  <string name="cleanup_power">고급 삭제 옵션</string>
+  <string name="cleanup_power">고급 삭제</string>
   <string name="clear">삭제</string>
   <string name="closed">끔</string>
   <string name="commute">지도 개선점</string>
@@ -815,7 +815,7 @@
   <string name="wx_paycode">지불수단</string>
   <string name="wx_photo">사진</string>
   <string name="wx_scan">스캐너</string>
-  <string name="wx_timeline">행복했던 순간들</string>
+  <string name="wx_timeline"> 사용시간</string>
   <string name="xiaomi_search_label">검색</string>
   <string name="xspace_resolver_activity_title">앱 선택</string>
   <string name="yellow_page_website">공식 사이트</string>
