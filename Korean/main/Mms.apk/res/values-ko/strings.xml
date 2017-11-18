@@ -95,7 +95,7 @@
     <string name="context_menu_add_calendar">달력에 추가</string>
     <string name="context_menu_add_contact">연락처에 추가</string>
     <string name="context_menu_add_to_browser_favorite">브라우저 북마크에 추가</string>
-    <string name="context_menu_browse_web">찾아보기</string>
+    <string name="context_menu_browse_web">URL 열기</string>
     <string name="context_menu_call">통화</string>
     <string name="context_menu_contact">연락처: %1$s</string>
     <string name="context_menu_copy">복사</string>
