@@ -423,4 +423,10 @@
     <string name="order_merchant_title_format">%1$s-%2$s</string>
     <string name="recharge_charge_value">가격 : RMB %s</string>
     <string name="recharge_phone_format">%1$s / %2$s</string>
+    <string name="sim1">1번 심</string>
+    <string name="sim2">2번 심</string>
+    <string name="turn_on_online_antispam_enable">켜기</string>
+    <string name="turn_on_online_antispam_summary">전화번호를 켜서 원치 않는 전화번호 차단</string>
+    <string name="turn_on_online_antispam_title">전화번호 표시하기</string>
+    <string name="turn_on_smart_antispam_summary">통화 기록 및 문자 메시지에서 알 수 없는 전화번호를 식별합니다.</string>
 </resources>
