@@ -4745,7 +4745,7 @@ PIN 설정"</string>
     <string name="fullbackup_data_summary">"Automatically back up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps) remotely.</string>
     <string name="fullbackup_erase_dialog_message"> 장치 데이터 (WLAN 암호 및 통화 기록) 및 응용 프로그램 데이터 (응용 프로그램에 저장된 설정 및 파일)를 백업하고 원격 서버의 모든 사본을 지우시겠습니까? </string>
     <string name="go_back_button_label">뒤로 가기</string>
-    <string name="hidden_ssid_label">숨겨진 SSID:string>
+    <string name="hidden_ssid_label">숨겨진 SSID:</string>
     <string name="high_power_apps">배터리 최적화</string>
     <string name="high_power_desc">배터리 최적화를 비활성화합니다. 배터리 소모가 빨라질 수 있습니다.</string>
     <string name="high_power_filter_on">최적화되지 않음</string>
