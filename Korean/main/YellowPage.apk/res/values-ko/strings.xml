@@ -415,4 +415,12 @@
     <string name="sina_token_expired_warning">Weibo 계정이 만료되었습니다. 계정을 다시 연동하십시오.</string>
     <string name="sina_token_invalid_warning">Weibo 계정이 유효하지 않습니다. 계정을 다시 연동하십시오.</string>
     <string name="sina_share_fail_content_repeat">공유에 실패하였습니다. 콘텐트가 이미 존재합니다.…</string>
+    <string name="colon">": "</string>
+    <string name="data_error_w"> 발생</string>
+    <string name="miuishare_qzone_title">Q존</string>
+    <string name="navigation_search_default_hint">장소 검색</string>
+    <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
+    <string name="order_merchant_title_format">%1$s-%2$s</string>
+    <string name="recharge_charge_value">가격 : RMB %s</string>
+    <string name="recharge_phone_format">%1$s / %2$s</string>
 </resources>
