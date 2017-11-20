@@ -5073,7 +5073,7 @@ PIN 설정"</string>
     <string name="storage_detail_videos">비디오</string>
     <string name="storage_dialog_unmountable">"^1이 잠겼습니다.</string>
     <string name="storage_dialog_unmounted">"^1저장소가 안전하게 추출되었지만, 아직 사용할 수 있습니다.</string>
-    <string name="storage_dialog_unsupported">"이 디바이스가 ^1 파일을 지원하지 않습니다.</string >
+    <string name="storage_dialog_unsupported">"이 디바이스가 ^1 파일을 지원하지 않습니다.</string>
     <string name="storage_external_title">이동식 저장소</string>
     <string name="storage_format_failure"> %1$s 포맷 불가능</string>
     <string name="storage_format_success">%1$s 가 이미 포맷되어 있습니다.</string>
@@ -5208,7 +5208,7 @@ PIN 설정"</string>
     <string name="usage_access_description">사용 권한 액세스를 허용하면 사용중인 다른 앱 및 이동 통신사, 언어 설정 및 기타 세부 정보를 추적할 수 있습니다.</string>
     <string name="usage_type_camera">카메라</string>
     <string name="usage_type_flashlight">손전등</string>
-    <string name="usb_midi_summary">컴퓨터에서 MIDI 소프트웨어로 USB를 통해 MIDI 지원 응용 프로그램을 사용할 수 있습니다./string>
+    <string name="usb_midi_summary">컴퓨터에서 MIDI 소프트웨어로 USB를 통해 MIDI 지원 응용 프로그램을 사용할 수 있습니다.</string>
     <string name="usb_tethering_desc">기기를 USB 테더링을 위해 사용</string>
     <string name="usb_tethering_title">USB 테더링</string>
     <string name="usb_use_MIDI">기기를 MIDI로 사용</string>
@@ -5347,7 +5347,7 @@ PIN 설정"</string>
     <string name="write_system_settings">시스템 설정 변경</string>
     <string name="zen_access_disabled_package_warning">알림 엑세스가 활성화되어 있기 때문에 반드시 켜져 있어야 합니다.</string>
     <string name="zen_access_empty_text">방해 금지 모드를 요청한 앱이 없습니다.</string>
-    <string name="zen_access_revoke_warning_dialog_summary">이 앱으로 만든 방해 금지 규칙이 모두 삭제됩니다./string>
+    <string name="zen_access_revoke_warning_dialog_summary">이 앱으로 만든 방해 금지 규칙이 모두 삭제됩니다.</string>
     <string name="zen_access_revoke_warning_dialog_title">%1$s의 방해 금지 모드 권한을 취소할까요?</string>
     <string name="zen_access_warning_dialog_summary">앱에서 방해 금지을 사용 / 사용 중지하고 관련 설정을 변경할 수 있습니다.</string>
     <string name="zen_access_warning_dialog_title">%1$s이 방해 금지 모드를 설정할 수 있도록 변경하시겠습니까?</string>
