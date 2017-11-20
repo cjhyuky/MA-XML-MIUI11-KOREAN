@@ -5103,7 +5103,7 @@ PIN 설정"</string>
     <string name="storage_volume_summary">%1$s 에서 %2$s 사용됨</string>
     <string name="storage_volume_used">%1$s에서 사용됨</string>
     <string name="storage_volume_used_total">%1$s에서 전체 사용됨</string>
-    <string name="storage_wizard_format_confirm_body">"^1이 포맷되어야 합니다.
+    <string name="storage_wizard_format_confirm_body">"^1이 포맷되어야 합니다.</string>
     <string name="storage_wizard_format_confirm_next">삭제 &amp; 포맷</string>
     <string name="storage_wizard_format_confirm_public_title">이동식 저장소로 포맷</string>
     <string name="storage_wizard_format_confirm_title">내부 저장소로 포맷</string>
