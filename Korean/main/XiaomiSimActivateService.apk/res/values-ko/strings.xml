@@ -115,4 +115,5 @@
     <string name="phone_get_text">Do you agree %1$s to get your phone number：%2$s</string>
     <string name="phone_get_processing">getting…</string>
     <string name="agree">Agree</string>
+    <string name="activate_sms_postfix">이 SIM 카드가 미 서비스를 활성화하는데 사용됩니다.</string>
 </resources>
