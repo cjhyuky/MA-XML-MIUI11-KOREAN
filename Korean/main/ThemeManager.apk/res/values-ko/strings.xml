@@ -436,10 +436,10 @@
     <string name="card_retry">재시도</string>
     <string name="in_the_end">더 없음</string>
     <string name="item_resource_audio_divider">│</string>
-    <string name="item_resource_audio_optional_color_ring">color ring</string>
-    <string name="item_resource_audio_optional_phone_ring">phone ring</string>
-    <string name="item_resource_audio_optional_alarm_ring">alarm ring</string>
-    <string name="item_resource_audio_optional_notification_ring">notification ring</string>
+    <string name="item_resource_audio_optional_color_ring">컬러링</string>
+    <string name="item_resource_audio_optional_phone_ring">전화 벨소리</string>
+    <string name="item_resource_audio_optional_alarm_ring">알람</string>
+    <string name="item_resource_audio_optional_notification_ring">알림 알람</string>
     <string name="resource_ring_ranking_list_divider">-</string>
     <string name="resource_ring_ranking_list_rank_1">1</string>
     <string name="resource_ring_ranking_list_rank_2">2</string>
@@ -447,4 +447,29 @@
     <string name="ringtone_set_success">설정 성공</string>
     <string name="online_precust_dreams">드림</string>
     <string name="online_precust_midnight">미드나잇</string>
+    <string name="current_version_incompatible">이 테마를 적용할 수 없습니다.</string>
+    <string name="find_more_theme">더 찾아보기</string>
+    <string name="gift_count_format">%1$s+</string>
+    <string name="hide_free">무료 테마 숨기기</string>
+    <string name="hide_incompatible">적용 불가능한 테마 숨기기</string>
+    <string name="online_precust_abstract">추상</string>
+    <string name="online_precust_animal">동물</string>
+    <string name="online_precust_asphalt">아스팔트</string>
+    <string name="online_precust_building">빌딩</string>
+    <string name="online_precust_chubby_dreamer">몽상가</string>
+    <string name="online_precust_creative">창의적</string>
+    <string name="online_precust_forest_stories">숲 속 동화 </string>
+    <string name="online_precust_geometry">지오메트리</string>
+    <string name="online_precust_lifestyle">라이프스타일</string>
+    <string name="online_precust_mi_note2">미 노트 2</string>
+    <string name="online_precust_paper_world">종이 세상</string>
+    <string name="online_precust_peach_blossom">복숭아 꽃</string>
+    <string name="online_precust_plant">식물</string>
+    <string name="online_precust_scenery">풍경</string>
+    <string name="online_precust_tiny">작은</string>
+    <string name="present_official_themes">에디터 추천</string>
+    <string name="region_not_support">" 해당 지역에서 테마가 지원되지 않습니다."</string>
+    <string name="resource_comment_date">%1$02d-%2$02d</string>
+    <string name="resource_detail_vertical_divider">|</string>
+
 </resources>
