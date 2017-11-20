@@ -260,4 +260,6 @@
     <string name="city_exceeded_warning">최대 10개의 도시를 추가할 수 있습니다.</string>
     <string name="xiaomi_weather_description_title">날씨 정보</string>
     <string name="xiaomi_weather_description_content">날씨 기능으로 정확한 날씨 정보를 제공받으실 수 있습니다. 앱을 삭제하시면 상태표시줄, 홈 화면 날씨 위젯이 정상적으로 작동하지 않습니다. 앱 삭제 전에 이러한 점을 유의하십시오.</string>
+    <string name="search_weather">날씨</string>
+    <string name="search_weather_keywords">온도;일기 예보;날씨;공기질;공기 오염도;습도</string>
 </resources>
