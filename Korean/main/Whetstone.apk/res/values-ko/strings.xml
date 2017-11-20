@@ -1,0 +1,6 @@
+ <?xml version='1.0' encoding='UTF-8'?>
+ <resources>
+    <string name="app_name">Whetstone</string>
+    <string name="permstep_description">"이 앱이 걸음 데이터를 읽게 허용하시겠습니까?"</string>
+    <string name="permstep_label">걸음 인식</string>
+ </resources>
