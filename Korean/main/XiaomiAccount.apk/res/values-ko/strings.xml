@@ -428,5 +428,18 @@
     <string name="account_token_expired_title">인증 실패</string>
     <string name="account_token_expired_msg">"인증 코드 만료됨, 재로그인 또는 로그아웃하십시오.
 귀하의 계정 ID: %s"</string>
-    <string name="bind_safe_phone_msg">Add safe phone for next sign in</string>
+    <string name="bind_safe_phone_msg">전화번호를 지금 추가하세요.</string>
+    <string name="account_mibi_center">Mi 크레딧</string>
+    <string name="account_notification_message">세션 만료됨. 다시 시도하세요.</string>
+    <string name="passport_continue">계속</string>
+    <string name="passport_login_recycle_account_no">아니오</string>
+    <string name="passport_login_recycle_account_yes">네</string>
+    <string name="passport_no">아니오</string>
+    <string name="passport_quick_register">계정 만들기</string>
+    <string name="passport_reg_recycle_account_no">아니오</string>
+    <string name="passport_reg_recycle_account_yes">네</string>
+    <string name="passport_set_password_no_phone_msg">전화번호를 추가해 계정을 보호하세요.</string>
+    <string name="passport_yes">네</string>
+    <string name="talkback_scan_barcode">QR 코드 스캔</string>
+
 </resources>
