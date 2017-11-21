@@ -51,4 +51,6 @@
     <string name="show_on_keyguard">잠금화면에 표시</string>
     <string name="theme_manager_not_supported">테마 매니저 지원되지 않음</string>
     <string name="three_seconds_auto_hide">3초간 활동이 없으면 가장자리로 이동</string>
+    <string name="handy_mode_default_to_close_whether_open">한손모드가 해제되어 있습니다. 지금 실행하시겠습니까?</string>
+    <string name="open">켜기</string
 </resources>
