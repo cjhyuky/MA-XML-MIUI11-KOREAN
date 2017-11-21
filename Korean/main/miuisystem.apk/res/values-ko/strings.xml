@@ -10,7 +10,7 @@
     <string name="yellow_page_sms_send_failed">SMS를 전송하지 못했습니다.</string>
     <string name="yellow_page_sms_sending">전송 중…</string>
     <string name="yellow_page_unable_send_sms">메시지를 전송할 수 없습니다.</string>
-    <string name="device_hongmi">Redmi</string>
+    <string name="device_hongmi">홍미</string>
     <string name="device_pad">Mi 패드</string>
     <string name="device_xiaomi">Mi 폰</string>
     <string name="solar_calendar">公历</string>
@@ -128,4 +128,5 @@
     <string name="cta_check_reminder">다시 표시하지 않기</string>
     <string name="cta_button_quit">나가기</string>
     <string name="cta_button_continue">동의</string>
+    <string name="miui_device_name">안드로이드</string>
 </resources>
