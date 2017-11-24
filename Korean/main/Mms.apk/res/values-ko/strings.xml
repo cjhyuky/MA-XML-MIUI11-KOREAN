@@ -6,7 +6,6 @@
     <string name="activity_not_found_uri">이 동작을 처리할 앱을 발견하지 못했습니다.</string>
     <string name="addBlackList">차단</string>
     <string name="add_attachment">첨부 파일 추가</string>
-    <string name="add_contact">vCard</string>
     <string name="add_music">음악 추가</string>
     <string name="add_number_to_sender">%s에 번호 추가</string>
     <string name="add_picture">사진 추가</string>
@@ -653,4 +652,27 @@
     <string name="wild_msg_title">동기화할 전화번호 선택</string>
     <string name="yes">확인</string>
     <string name="yesterday">어제</string>
+    <string name="add_miui_contact">Mi 카드</string>
+    <string name="conversation_listitem_avatar">아바타</string>
+    <string name="conversation_style">말풍선</string>
+    <string name="delete_verification_code_sms_message">모든 인증번호 문자를 삭제하시겠습니까?</string>
+    <string name="delete_verification_code_sms_title">인증번호 문자 삭제</string>
+    <string name="dialog_message_sms_report">"스팸 문자와 보낸 사람의 정보가 MIUI 서버에 업로드됩니다. 정보는 MIUI 스팸 필터를 향상 시키는데 쓰입니다."</string>
+    <string name="ex_type_guide">정보</string>
+    <string name="group_verification_codes_summary">인증번호 문자를 자동으로 하나로 묶어서 관리합니다</string>
+    <string name="group_verification_codes_title">인증번호 문자 그룹화</string>
+    <string name="open_edit_sms_panel">메시지 수정을 위해 패널 열기</string>
+    <string name="prefDefault_vibrateWhen">없음</string>
+    <string name="prefDefault_vibrate_false">없음</string>
+    <string name="prefDefault_vibrate_true">항상</string>
+    <string name="pref_sms_storage_title">보관함</string>
+    <string name="pref_summary_allow_upload_message_info">"스팸 문자와 보낸 사람의 정보가 MIUI 서버에 업로드됩니다."</string>
+    <string name="pref_summary_auto_delete">보관함이 꽉차면 오래된 메시지부터 순차적으로 삭제합니다</string>
+    <string name="pref_title_allow_upload_message_info">스팸 메시지 업로드</string>
+    <string name="pref_title_auto_delete">오래된 메시지부터 삭제</string>
+    <string name="pref_title_mms_retrieval_during_international_roaming">해외로밍시 MMS 콘텐츠 다운로드</string>
+    <string name="pref_title_mms_retrieval_during_national_roaming">국내 사용중 MMS 콘텐츠 다운로드</string>
+    <string name="sms_report">스팸 메시지 신고</string>
+    <string name="verification_code_icon_name">인</string>
+    <string name="yellowpage_recommend_msg">"MIUI의 메시지 기능을 살펴보세요"</string>   
 </resources>
