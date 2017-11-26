@@ -87,9 +87,9 @@
     <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_data_c">%s℃</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_left_smarthome">Mi 홈</string>
-    <string name="keyguard_left_remotecentral">Mi 리모컨</string>
-    <string name="keyguard_left_bankcard">Mi Pay</string>
+    <string name="keyguard_left_smarthome">연락처</string>
+    <string name="keyguard_left_remotecentral">캘린더</string>
+    <string name="keyguard_left_bankcard">계산기</string>
     <string name="keyguard_left_buscard">교통 카드</string>
     <string name="face_data_input_title">얼굴 데이터 추가</string>
     <string name="face_data_introduction_title">얼굴 인식</string>
