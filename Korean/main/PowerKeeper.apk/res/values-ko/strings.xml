@@ -117,14 +117,14 @@
     <string name="about_hide_mode">MIUI 배터리 절약 정보</string>
     <string name="disable_hide_mode_warning">MIUI 배터리 절약을 비활성화 하시면 전력 소모가 증가할 것입니다.</string>
     <string name="show_system_app">시스템 앱 표시</string>
+    <string name="sleep_config_enhance_description">시스템 학습을 통해 사용자의 수면 시간을 예측합니다. 수면 시간 중에 일부 NFC, 키가드 알림, 동기화, 블루투스, GPS, 모바일 및 Wi-Fi 데이터 사용을 제한 할 수 있습니다.</string>
     <string name="hide_system_app">시스템 앱 숨기기</string>
     <string name="scenario_policies_title">시나리오 전력 절약 방법</string>
     <string name="config_scenario_policies_title">시나리오</string>
     <string name="scenario_policies_summary">시나리오에 따라 전력을 절약합니다.</string>
     <string name="sleep_config_enhance_title">수면 절전 모드</string>
-    <string name="sleep_config_enhance_description">predict user sleep time by machine learning, whithin the sleep time, we may clear some background apps, restrict to use NFC, KeyGauard Notification, Sync, Bluetooth, GPS, mobile and wifi data, etc.</string>
-    <string name="scenario_policies_warmcontrol">Warm control</string>
-    <string name="warm_configure">Warm control configure</string>
+    <string name="scenario_policies_warmcontrol">고부하 컨트롤</string>
+    <string name="warm_configure">고부하 컨트롤 설정</string>
     <string name="important_warning">경고</string>
     <string name="confirm">승인</string>
     <string name="warm_performance_tip">고부하 시나리오에서는 휴대전화의 온도가 기본 모드 사용 시에 비해 높습니다.</string>
@@ -142,7 +142,7 @@
     <string name="power_config_ultimate_unlock_already">모든 항목 잠겨짐</string>
     <string name="extreme_power_config_mode_category">익스트림 배터리 세이버</string>
     <string name="extreme_power_config_mode_title">익스트림 배터리 세이버 모드</string>
-    <string name="extreme_power_config_mode_desc">Enable this function will disable sync, bluetooth, GPS, NFC, double tapping, button lights, wake lock screen for notifications, pluse notification light etc, and battery saver mode is set to be ultimate</string>
+    <string name="extreme_power_config_mode_desc">이 기능을 사용하면 동기화, 블루투스, GPS, NFC, 두번 탭 잠금해제, 버튼 조명, 잠금화면에 알림 표시, LED 라이트로 알림 표시 등을 사용할 수 없으며 배터리 절약 모드는 최고절약모드로 진입됩니다.</string>
     <string name="empty_title_apps_container_list">앱 없음</string>
     <string name="hints_loading_text">잠시 기다려 주십시오.…</string>
     <string name="config_mode_title">백그라운드 설정</string>
