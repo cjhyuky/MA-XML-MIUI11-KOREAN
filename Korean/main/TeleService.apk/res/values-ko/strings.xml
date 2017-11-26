@@ -1417,4 +1417,5 @@
     <string name="wifi_only">Wi-Fi만 사용</string>
     <string name="cellular_preferred">모바일 데이터 선호</string>
     <string name="cellular_only">모바일 데이터만 사용</string>
+    <string name="volte_switch_not_support_summary">"데이터 SIM 카드에서 VoLTE를 사용할 수 없습니다."</string>
 </resources>
