@@ -490,10 +490,11 @@ SMS 전송"</string>
 다시 모바일 데이터로 연결 시 추가 요금이 부과될 수 있습니다."</string>
     <string name="lock_screen_traffic_warn_title">잠금화면 알림</string>
     <string name="lock_screen_traffic_notify_body">%1$s에서 %2$s 잠금, 데이터 %3$s 사용됨</string>
-    <string name="timeshow_s">%d초</string>
-    <string name="timeshow_m">%d분</string>
-    <string name="timeshow_h">%.1f시간</string>
-    <string name="timeshow_h_int">%d시간</string>
+    <string name="timeshow_h">%.1f 시간</string>
+    <string name="timeshow_h_int">%d 시간</string>
+    <string name="timeshow_m">%d 분</string>
+    <string name="timeshow_s">%d 초</string>
+    <string name="timeshow_h_int">%d 시간</string>
     <string name="lock_screen_traffic_guide_notification_title">탭하여 데이터 사용량 관리</string>
     <string name="lock_screen_traffic_guide_notification_summary">잠금화면에서 %s 사용됨</string>
     <string name="lock_screen_traffic_purchase_textview">모바일 데이터 구매</string>
