@@ -204,7 +204,6 @@
     <string name="enable_webview_multiprocess_desc">WebView 렌더링을 별도로 실행</string>
     <string name="enabled_by_admin">관리자에 의해 활성화됨</string>
     <string name="force_allow_on_external">강제로 외부 저장소 앱 허용</string>
-    <string name=“force_resizable_activities">활동 크기 조정</string>
     <string name=“force_resizable_activities_summary">매니페스트 값에 상관없이 모든 활동을 다중 창에서 조정할수 있게 합니다. </string>
     <string name=“force_rtl_layout_all_locales">강제 RTL 레이아웃 방향</string>
     <string name=“force_rtl_layout_all_locales_summary">모든 로케일에 대해 화면 레이아웃 방향을 RTL로 강제 설정</string>
