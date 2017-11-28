@@ -1418,7 +1418,6 @@
     <string name="cellular_preferred">모바일 데이터 선호</string>
     <string name="cellular_only">모바일 데이터만 사용</string>
     <string name="volte_switch_not_support_summary">"데이터 SIM 카드에서 VoLTE를 사용할 수 없습니다."</string>
-    <string name="hide_error_from_network_text">"요청을 처리 할 수 없습니다."</ string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM 법인 잠금 PIN</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">RUIM 법인 잠금 해제 요청 중 ...</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ERROR">PUK 잠금이 해제되었습니다.</string>
@@ -1441,8 +1440,6 @@
     <string name="PERSOSUBSTATE_RUIM_NETWORK2_ERROR">RUIM Network2 잠금 해제 요청 실패했습니다.</string>
     <string name="PERSOSUBSTATE_RUIM_NETWORK2_IN_PROGRESS">RUIM network2 잠금 요청 중 ...</string>
     <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_ERROR">PUK 잠금이 해제되었습니다.</string>
-    <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_SUCCESS" PUK 잠금이 성공적으로 해제되었습니다.</string>
-    <string name="PERSOSUBSTATE_RUIM_RUIM_ENTRY">RUIM PIN 잠금 해제</string>
     <string name="PERSOSUBSTATE_RUIM_RUIM_IN_PROGRESS">RUIM 잠금 해제 요청 중 ...</string>
     <string name="PERSOSUBSTATE_RUIM_RUIM_PUK_ERROR">PUK 잠금이 해제되었습니다.</string>
     <string name="PERSOSUBSTATE_RUIM_RUIM_PUK_SUCCESS">PUK 잠금이 해제되었습니다.</string>
