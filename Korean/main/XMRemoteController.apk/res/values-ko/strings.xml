@@ -840,8 +840,6 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="epg_change_channel_casting">채널 재생 (현재 재생중)</string>
     <string name="epg_change_channel_expired">채널 전환 (종료)</string>
     <string name="epg_change_channel_not_casting">채널 전환 (%1$s 안에 시작)</string>
-    <string name="epg_comment_action_bar_title">댓글 : %1$s</string>
-    <string name="epg_comment_list_title">댓글(%1$d)</string>
     <string name="epg_comment_no_reply">"댓글이 없습니다."</string>
     <string name="epg_comment_reply">답장</string>
     <string name="epg_hot_comment_list_title">인기있는 댓글</string>
