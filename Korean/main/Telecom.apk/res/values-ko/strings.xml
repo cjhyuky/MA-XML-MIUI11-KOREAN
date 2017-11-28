@@ -140,8 +140,7 @@
     <string name="bluetooth_profile_map">메세지 엑세스</string>
     <string name="bluetooth_profile_opp">파일 전송</string>
     <string name="bluetooth_profile_pan">인터넷 연결</string>
-    
-        <string name="bluetooth_profile_pan_nap">인터넷 연결 공유</string>
+    <string name="bluetooth_profile_pan_nap">인터넷 연결 공유</string>
     <string name="bluetooth_profile_pbap">연락처 공유</string>
     <string name="bluetooth_profile_pbap_summary">연락처 공유 사용</string>
     <string name="bluetooth_profile_sap">SIM 접근</string>
@@ -205,8 +204,6 @@
     <string name="enable_webview_multiprocess_desc">WebView 렌더링을 별도로 실행</string>
     <string name="enabled_by_admin">관리자에 의해 활성화됨</string>
     <string name="force_allow_on_external">강제로 외부 저장소 앱 허용</string>
-    <string name=“force_msaa">4x MSAA 강제 실행</string>
-    <string name=“force_msaa_summary">OpenGL ES 2.0에서 4x MSAA 사용</string>
     <string name=“force_resizable_activities">활동 크기 조정</string>
     <string name=“force_resizable_activities_summary">매니페스트 값에 상관없이 모든 활동을 다중 창에서 조정할수 있게 합니다. </string>
     <string name=“force_rtl_layout_all_locales">강제 RTL 레이아웃 방향</string>
