@@ -5423,7 +5423,7 @@ PIN 설정"</string>
     <string name="debug_intent_sender_label">디버그 전송</string>
     <string name="debug_networking_category">네트워킹</string>
     <string name="fingerprint_payment">지문을 이용한 결제</string>
-    <string name="help_feedback_label">도움말 & 피드백</string>
+    <string name="help_feedback_label">도움말 &amp; 피드백</string>
     <string name="high_power_on">최적화되지 않음</string>
     <string name="legacy_dhcp_client_summary">안드로이드 롤리팝 버전의 DHCP 클라이언트를 사용합니다.</string>
     <string name="master_clear_other_users_present">"다른 사용자가 기기를 사용중입니다."</string>
