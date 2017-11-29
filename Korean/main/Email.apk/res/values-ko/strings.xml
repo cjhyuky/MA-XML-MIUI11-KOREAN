@@ -1014,8 +1014,6 @@
 	<string name="other_permissions">기타 앱 기능</string>
 	<string name="app_info">녹화 중, 탭하여 중지</string>
 	<string name="redo">다시 실행</string>
-	<string name="undo">실행 취소</string>
 	<string name="notification_hidden_text">알림이 숨겨져 있습니다</string>
-	<string name="search_hint">인터넷, 앱, 연락처, 비디오 검색...</string>
 	<string name="wifi_no_internet">인터넷에 연결할 수 없습니다.</string>
 </resources>
