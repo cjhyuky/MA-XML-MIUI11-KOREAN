@@ -282,10 +282,8 @@
     <string name="audio_mode_earpiece">휴대전화 이어폰</string>
     <string name="audio_mode_wired_headset">유선 헤드셋</string>
     <string name="audio_mode_bluetooth">블루투스</string>
-    <string name="wait_prompt_str">"다음 톤을 전송하시겠습니까?
-"</string>
-    <string name="pause_prompt_str">"톤 전송 중
-"</string>
+    <string name="wait_prompt_str">"다음 톤을 전송하시겠습니까?"</string>
+    <string name="pause_prompt_str">"톤 전송 중"</string>
     <string name="send_button">전송</string>
     <string name="pause_prompt_yes">예</string>
     <string name="pause_prompt_no">아니요</string>
@@ -652,8 +650,7 @@
     <string name="fdn_enable_puk2_requested">비밀번호가 잘못되어서 PIN2가 차단되었습니다. PIN2를 변경한 후 다시 시도하십시오.</string>
     <string name="puk2_requested">비밀번호가 올바르지 않습니다. SIM 카드가 잠겨 있습니다. PUK가 요청되었습니다.</string>
     <string name="puk2_blocked">PUK2는 영구적으로 차단되었습니다.</string>
-    <string name="pin2_attempts">"
-남은 시도 횟수는 %d번입니다."</string>
+    <string name="pin2_attempts">"남은 시도 횟수는 %d번입니다."</string>
     <string name="pin2_unblocked">PIN 2는 더 이상 차단되지 않습니다.</string>
     <string name="pin2_error_exception">네트워크 또는 SIM 카드 오류</string>
     <string name="doneButton">완료</string>
@@ -757,10 +754,7 @@
     <string name="ota_progress">휴대전화가 프로그래밍되는 동안 기다리십시오.</string>
     <string name="ota_failure">프로그래밍 실패</string>
     <string name="ota_successful">휴대폰이 활성화되었습니다, 서비스가 시작되기까지 최대 15분 정도 걸릴 수 있습니다.</string>
-    <string name="ota_unsuccessful">"스마트폰이 활성화되지 않았습니다. 
-더 나은 서비스 지역(창가 또는 실외)를 찾을 필요가 있습니다. 
-
-다시 시도하십시오. 더 많은 옵션을 원하시면 고객 센터로 문의하십시오."</string>
+    <string name="ota_unsuccessful">"스마트폰이 활성화되지 않았습니다. 인터넷이 원활한 지역(창가 또는 실외) 다시 시도하십시오. 더 많은 옵션을 원하시면 고객 센터로 문의하십시오."</string>
     <string name="ota_spc_failure">초과 SPC 실패</string>
     <string name="ota_call_end">뒤로</string>
     <string name="ota_try_again">재시도</string>
@@ -1759,9 +1753,8 @@
     <string name="picture_color_mode_desc">sRGB 사용</string>
     <string name="pointer_location">포인터 위치</string>
     <string name="pointer_location_summary"> 현재 터치 데이터를 보여주는 화면 오버레이</string>
-    <string name="port"> 포트</string>
+    <string name="port">포트</string>
     <string name="power_charging_duration">완전 충전까지 %1$s - %2$s</string>
-    <string name="power_charging_duration_ac"> %1$s - %2$s</string>
     <string name="power_charging_duration_usb">USB 충전으로 완전 충전까지 %1$s - %2$s </string>
     <string name="power_charging_duration_wireless">무선 충전으로 완전 충전까지 %1$s - %2$s </string>
     <string name="power_discharging_duration">약 %1$s - %2$s 남음</string>
@@ -1827,9 +1820,9 @@
     <string name="srvcc_message">4G 네트워크를 사용할 수 없기 때문에 4G 음성 통화가 2G / 3G 음성 통화로 변경되었습니다.</string>
     <string name="srvcc_video_message"> 4G 네트워크를 사용할 수 없기 때문에 화상 통화가 2G / 3G 음성 통화로 변경되었습니다.</string>
     <string name="strict_mode">제한 모드 사용</string>
-    <string name="strict_mode_summary">앱이 메인 ​​스레드에서 장시간 작업을 할 때 플래시 스크린</string>
+    <string name="strict_mode_summary">앱이 메인 코어 이용해 장시간 작업을 할 때 플래시 스크린</string>
     <string name="sum_cfu_enabled_indicator_by_sim">SIM %s에 대한 모든 통화가 전달됩니다.</string>
-    <string name="tether_settings_title_all">테더링& amp;휴대용 핫스팟</string>
+    <string name="tether_settings_title_all">테더링&amp;휴대용 핫스팟</string>
     <string name="tether_settings_title_bluetooth"> 블루투스 테더링</string>
     <string name="tether_settings_title_usb"> USB 테더링</string>
     <string name="tether_settings_title_usb_bluetooth">테더링</string>
@@ -1864,7 +1857,7 @@
     <string name="tts_reset_speech_pitch_title">음성 피치 재설정</string>
     <string name="tts_settings">TTS (text-to-speech) 설정</string>
     <string name="tts_settings_title">TTS (text-to-speech) 출력</string>
-    <string name="tts_status_checking" 확인중 ...</string>
+    <string name="tts_status_checking">확인중 ...</string>
     <string name="tts_status_not_supported">%1$s는 지원되지 않습니다.</string>
     <string name="tts_status_ok"> %1$s는 완전히 지원됩니다.</string>
     <string name="tts_status_requires_network">%1$s에 네트워크 연결이 필요합니다.</string>
