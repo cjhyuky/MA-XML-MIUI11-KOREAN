@@ -845,4 +845,13 @@
   <string name="webview_find_on_page">이 페이지에서 찾기</string>
   <string name="webviewchromium_private_browsing_warning">이 안드로이드 버전에서는 지원하지 않는 기능입니다.</string>
   <string name="week_picker_dialog_title">주 설정</string>
+  <string name="history">기록</string>
+  <string name="comment_hint">댓글 추가</string>
+  <string name="low_memory_toast">메모리가 부족해 계속 사용할 수 없습니다.</string>
+  <string name="bookmark">별 표시됨</string>
+  <string name="search_label">설정</string>
+  <string name="undo">실행 취소</string>
+  <string name="js_dialog_title_default">자바스크립트</string>
+  <string name="exit">종료</string>
+  <string name="hint">주의</string>
 </resources>

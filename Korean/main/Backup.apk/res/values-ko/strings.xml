@@ -392,4 +392,11 @@ Wi-Fi 핫스팟을 끄지 마십시오.
     <string name="backup_security_tips_message">일부 앱은 백업이나 복구가 불가할 수 있습니다.</string>
     <string name="trans_security_tips_title">Mi Mover 호환성</string>
     <string name="trans_security_tips_message">일부 앱은 Mi Mover가 지원되지 않습니다.</string>
+	<string name="login">로그인</string>
+	<string name="logining">로그인 중…</string>
+	<string name="login_failed">로그인할 수 없습니다. %s.</string>
+	<string name="password">비밀번호 입력</string>
+	<string name="error_permissions">스캐너가 정상적으로 동작하는 데 필요한 권한이 충분하지 않습니다. 계속하시려면 설정으로 가서 권한을 확인해 주십시오.</string>
+	<string name="connect_wifi">이 네트워크에 연결</string>
+	<string name="pause">일시정지</string>
 </resources>

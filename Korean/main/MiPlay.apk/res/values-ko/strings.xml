@@ -24,4 +24,15 @@
     <string name="enable_wifi_title">Wi-Fi 켜기</string>
     <string name="enable_wifi_message">Wi-Fi를 켜서 근처의 기기 검색 및 연결</string>
     <string name="enable_wifi_btn">켜기</string>
+	<string name="wifi_display_autonomous_go">Enable autonomous GO</string>
+	<string name="wifi_display_wps_config">WPS 구성 정보</string>
+	<string name="wifi_display_listen_mode">듣기 모드 활성화</string>
+	<string name="wifi_display_session_info">세션 정보</string>
+	<string name="media_route_controller_disconnect">연결 해제</string>
+	<string name="wifi_display_certification_heading">자격 증명서</string>
+	<string name="wifi_display_operating_channel">작동 채널</string>
+	<string name="wifi_display_resume">재게</string>
+	<string name="wifi_display_pause">중지</string>
+	<string name="wifi_display_listen_channel">채널 듣기</string>
+	<string name="app_name">Mi 플레이</string>
 </resources>

@@ -25,4 +25,6 @@
     <string name="ci_extreme">FX 부스터</string>
     <string name="user">사용자</string>
     <string name="picker_title">음악 효과 제어판</string>
+	<string name="normal">보통</string>
+	<string name="none">프로세스 없음</string>
 </resources>

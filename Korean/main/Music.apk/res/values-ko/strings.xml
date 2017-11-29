@@ -807,4 +807,7 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="talkback_favorite">이 노래 좋아함</string>
     <string name="talkback_progress">진행 바</string>
     <string name="talkback_back">돌아가기</string>
+	<string name="search_empty">일치하는 항목 없음</string>
+	<string name="stop">중지</string>
+	<string name="confirm">확인</string>
 </resources>

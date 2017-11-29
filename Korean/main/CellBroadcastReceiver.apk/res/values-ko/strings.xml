@@ -100,4 +100,11 @@
     <string name="cmas_opt_out_button_yes">예</string>
     <string name="cmas_opt_out_button_no">아니요</string>
     <string name="sim_selected_dialog_title">SIM 선택</string>
+	<string name="disable">끄기</string>
+	<string name="updating_settings">설정 업데이트 중…</string>
+	<string name="reading_settings">설정 읽는 중…</string>
+	<string name="enable">켜기</string>
+	<string name="error_updating_title">통화 설정 오류</string>
+	<string name="close_dialog">확인</string>
 </resources>
+

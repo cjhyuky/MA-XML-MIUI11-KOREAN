@@ -31,4 +31,7 @@
     <string name="sdcard_not_present">SD 카드가 없습니다.</string>
     <string name="only_primary_user_allowed">이 기기의 소유자만 인증서를 설치할 수 있습니다.</string>
     <string name="credential_usage_label">자격증명 사용:</string>
+	<string name="wifi_title">Wi-Fi 설정</string>
+	<string name="install_done">앱 설치됨</string>
+	<string name="done_label">완료</string>
 </resources>

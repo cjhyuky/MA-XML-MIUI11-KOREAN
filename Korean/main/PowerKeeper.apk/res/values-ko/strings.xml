@@ -206,4 +206,6 @@
     <string name="performance_category">퍼포먼스</string>
     <string name="power_mode">배터리 설정</string>
     <string name="power_usage">배터리 사용량</string>
+	<string name="performance_category">성능</string>
+	<string name="power_mode">전원 설정</string>
 </resources>

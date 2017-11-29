@@ -654,4 +654,8 @@ EEEE"</string>
     <string name="wifi_verbose_logging">와이파이 상세 로그 활성화</string>
     <string name="wifi_verbose_logging_summary">와이파이 로그 레벨을 높입니다. 모든 무선랜 SSID의 RSSI를 표시합니다.</string>
     <string name="window_animation_scale_title">창 애니메이션 길이</string>
+	<string name="wifi_security_WAPI_CERT">WAPI 증명</string>
+	<string name="wifi_security_short_WAPI_CERT">WAPI 증명</string>
+	<string name="wifi_security_none">없음</string>
+	<string name="wifi_security_passpoint">패스포인트</string>
 </resources>

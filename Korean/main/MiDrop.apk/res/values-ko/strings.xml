@@ -91,4 +91,17 @@
     <string name="intro_page3_choose_midrop">\"Mi 드롭\" 선택</string>
     <string name="intro_page3_choose_midrop2">파일이 즉시 전송됩니다!</string>
     <string name="runtime_permission_ungranted">권한 부족으로 Mi Drop을 사용할 수 없습니다.</string>
+	<string name="title_activity_main">MainActivity</string>
+	<string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi 연결 변경</string>
+	<string name="request_permission_title">권한 필수</string>
+	<string name="HIPS_Perm_get_accounts">기기 계정에 접근</string>
+	<string name="HIPS_Perm_PhoneID">기기 정보 가져오기</string>
+	<string name="HIPS_Perm_External_Storage">내부 저장소에 접근 및 파일 수정</string>
+	<string name="description_title">무음 모드</string>
+	<string name="request_permission_msg">미 드롭이 정상적으로 작동하기 위해선 미 계정에 엑세스 권한이 있어야 합니다.</string>
+	<string name="HIPS_Perm_background_start_activity">백그라운드에서 시작</string>
+	<string name="HIPS_Perm_get_installed_apps">설치된 앱에 대한 정보 얻기</string>
+	<string name="HIPS_Perm_Settings">시스템 설정 수정</string>
+	<string name="HIPS_Perm_Location">위치 정보 얻기</string>
+	<string name="hello_world">환영합니다!</string>
 </resources>

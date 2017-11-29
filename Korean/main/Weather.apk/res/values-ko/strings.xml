@@ -262,4 +262,5 @@
     <string name="search_weather_keywords">온도;일기 예보;날씨;공기질;공기 오염도;습도</string>
     <string name="updated_a_moment_ago">방금 업데이트됨</string>
     <string name="updating">업데이트중...</string>
+	<string name="no_data">정보 없음</string>
 </resources>

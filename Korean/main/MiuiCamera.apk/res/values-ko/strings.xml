@@ -477,4 +477,7 @@
     <string name="pref_retain_camera_mode_title">기본모드 설정</string>
     <string name="pref_retain_camera_mode_summary">카메라를 켜면 지정해둔 모드로 켜집니다.</string>
     <string name="pref_fingerprint_capture_title">지문인식 셔터</string>
+	<string name="confirm_restore_message">선택한 메시지를 복원하시겠습니까?</string>
+	<string name="pref_setting_title">페이지 설정</string>
+	<string name="empty">항목 없음</string>
 </resources>

@@ -153,4 +153,5 @@
     <string name="passport_copy_message_vcode">복사 코드</string>
     <string name="passport_message_dialog_title">SMS 인증 코드</string>
     <string name="passport_trust_device">이 기기를 인증된 기기에 추가</string>
+	<string name="passport_barcode_add_account_prompt">계정에 연결하려면 로그인 후에 QR 코드를 다시 스캔하십시오.</string>
 </resources>
