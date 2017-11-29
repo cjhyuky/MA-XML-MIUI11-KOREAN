@@ -1597,7 +1597,7 @@
     <string name="callFailed_resp_to_status_enquiry">답변</string>
     <string name="callFailed_semantically_incorrect_message">부정확한 메시지</string>
     <string name="callFailed_service_option_not_available">서비스 또는 옵션을 사용할 수 없거나 지정하지 않음</string>
-    <string name="callFailed_service_or_option_not_implemented">서비스 또는 옵션이 지정되지 않았기 때문에 실행되지 않았습니다.string>
+    <string name="callFailed_service_or_option_not_implemented">서비스 또는 옵션이 지정되지 않았기 때문에 실행되지 않았습니다</string>
     <string name="callFailed_switching_equipment_congestion">장비 변환</string>
     <string name="callFailed_tempopary_failure">실패</string>
     <string name="callFailed_user_not_member_of_CUG">사용자가 CUG의 구성원이 아님</string>
