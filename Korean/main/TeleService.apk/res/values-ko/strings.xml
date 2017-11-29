@@ -1612,7 +1612,7 @@
     <string name="change_data_preference_4g_only_prompt">4G 전용 SIM 카드가 있는 것 같습니다. 이 SIM카드를 모바일 데이터의 기본값으로 설정 하시겠습니까?</string>
     <string name="change_pin_cancel_label">취소</string>
     <string name="change_pin_confirm_pin_header">PIN을 확인하십시오.</string>
-    <string name="change_pin_confirm_pins_dont_match">"PIN이 일치하지 않습니다."</ string>
+    <string name="change_pin_confirm_pins_dont_match">"PIN이 일치하지 않습니다."</string>
     <string name="change_pin_continue_label">계속하기</string>
     <string name="change_pin_enter_new_pin_header">새 PIN 설정</string>
     <string name="change_pin_enter_new_pin_hint">PIN 번호는 %1$d-%2$d자 이내여야 합니다.</string>
@@ -1704,9 +1704,9 @@
     <string name="inactive_app_active_summary">활성 상태. 탭하여 변경.</string>
     <string name="inactive_app_inactive_summary">비활성 상태. 탭하여 변경.</string>
     <string name="inactive_apps_title">비활성화된 앱</string>
-    <string name="incall_error_cannot_add_call">"현재 통화를 추가할 수 없습니다."</ string>
+    <string name="incall_error_cannot_add_call">"현재 통화를 추가할 수 없습니다."</string>
     <string name="incall_error_promote_wfc">전화를 걸려면 WLAN 호출을 켭니다.</string>
-    <string name="incall_error_supp_service_hold">"통화를 대기 할 수 없습니다."</ string>
+    <string name="incall_error_supp_service_hold">"통화를 대기 할 수 없습니다."</string>
     <string name="keep_screen_on">계속 깨어있기</string>
     <string name="keep_screen_on_summary">충전 중에 화면이 절전 모드가 되지 않습니다.</string>
     <string name="labelCFType">착신 전환 설정</string>
@@ -1727,10 +1727,10 @@
     <string name="mock_location_app">모의 위치 앱 선택</string>
     <string name="mock_location_app_not_set">간이 위치 앱이 설정되지 않았습니다.</string>
     <string name="mock_location_app_set">간이 위치 앱 : %1$s</string>
-    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"긴급 전화 모드에서 보조 SIM카드 사용을 제한하지 않습니다."</ string>
+    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"긴급 전화 모드에서 보조 SIM카드 사용을 제한하지 않습니다."</string>
     <string name="no_application">아무것도 없습니다.</string>
-    <string name="no_checked_network">"이 모바일 네트워크를 이용하여 전화를 걸 수 없습니다. 다른 네트워크를 선택 하시겠습니까?"</ string>
-    <string name="no_mobile_data">"모바일 데이터를 사용할 수 없습니다."</ string>
+    <string name="no_checked_network">"이 모바일 네트워크를 이용하여 전화를 걸 수 없습니다. 다른 네트워크를 선택 하시겠습니까?"</string>
+    <string name="no_mobile_data">"모바일 데이터를 사용할 수 없습니다."</string>
     <string name="no_mobile_data_roaming">데이터 로밍을 사용할 수 없습니다.</string>
     <string name="oem_unlock_enable">OEM 잠금 해제</string>
     <string name="oem_unlock_enable_summary">부트 로더 잠금을 해제하도록 허용</string>
@@ -1764,7 +1764,7 @@
     <string name="proximity_mode_title">근접 센서 켜기</string>
     <string name="proximity_off_summary">전화를 받으면 항상 화면이 켜집니다.</string>
     <string name="proximity_on_summary">전화를 받으면 절전을 위해 화면이 꺼집니다.</string>
-    <string name="radio_off_during_emergency_call">"긴급 통화 중에 비행기 모드로 전환 할 수 없습니다."</ string>
+    <string name="radio_off_during_emergency_call">"긴급 통화 중에 비행기 모드로 전환 할 수 없습니다."</string>
     <string name="remaining_length_format">%1$s 남음</string>
     <string name="running_process_item_user_label">사용자 : %1$s</string>
     <string name="runningservices_settings_summary">현재 실행중인 서비스 보기 및 제어</string>
@@ -1798,8 +1798,8 @@
     <string name="show_touches_summary">탭에 대한 시각적 피드백 표시</string>
     <string name="simulate_color_space">색상 공간 시뮬레이션</string>
     <string name="singleContactImportedMsg">가져온 연락처</string>
-    <string name="sip_profile_create_error">"새 SIP 프로필을 만들지 못했습니다"</ string>
-    <string name="sip_save_register_error">"새 SIP 프로필을 등록하고 저장할 수 없습니다"</ string>
+    <string name="sip_profile_create_error">"새 SIP 프로필을 만들지 못했습니다"</string>
+    <string name="sip_save_register_error">"새 SIP 프로필을 등록하고 저장할 수 없습니다"</string>
     <string name="smart_divert_summary">CFNRc 설정</string>
     <string name="smart_divert_title">스마트 전환</string>
     <string name="srvcc_message">4G 네트워크를 사용할 수 없기 때문에 4G 음성 통화가 2G / 3G 음성 통화로 변경되었습니다.</string>
@@ -1813,7 +1813,7 @@
     <string name="tether_settings_title_usb_bluetooth">테더링</string>
     <string name="tether_settings_title_wifi">휴대용 핫스팟</string>
     <string name="tethering_settings_not_available">이 사용자는 테더링 설정을 사용할 수 없습니다</string>
-    <string name="time_next_day">"다음날"</ string>
+    <string name="time_next_day">"다음날"</string>
     <string name="title_cfu_enabled">착신 전환이 설정되었습니다.</string>
     <string name="title_convert_fbe">파일 기반 암호화로 변환</string>
     <string name="track_frame_time">프로필 GPU 렌더링</string>
@@ -1855,7 +1855,7 @@
     <string name="vibrate_after_connected_summary">응답시 진동</string>
     <string name="vibrate_after_connected_title">연결된 후 진동</string>
     <string name="vm_change_pin_error_invalid">새 PIN에 잘못된 문자가 있습니다.</string>
-    <string name="vm_change_pin_error_mismatch">"이전 PIN이 일치하지 않습니다."</ string>
+    <string name="vm_change_pin_error_mismatch">"이전 PIN이 일치하지 않습니다."</string>
     <string name="vm_change_pin_error_system_error">PIN을 변경할 수 없습니다</string>
     <string name="vm_change_pin_error_too_long">새 PIN이 너무 깁니다.</string>
     <string name="vm_change_pin_error_too_short">새 PIN이 너무 짧습니다.</string>
@@ -1886,9 +1886,9 @@
     <string name="wifi_disabled_wifi_failure">WLAN 연결 실패</string>
     <string name="wifi_display_certification">무선 디스플레이 인증</string>
     <string name="wifi_display_certification_summary">무선 디스플레이 인증 옵션 표시</string>
-    <string name="wifi_fail_to_scan">"네트워크를 검색할 수 없습니다"</ string>
+    <string name="wifi_fail_to_scan">"네트워크를 검색할 수 없습니다"</string>
      <string name="wifi_no_internet">인터넷에 연결할 수 없습니다.</string>
-     <string name="wifi_no_internet_no_reconnect">"인터넷 액세스가 감지되지 않고 자동으로 다시 연결되지 않습니다."</ string>
+     <string name="wifi_no_internet_no_reconnect">"인터넷 액세스가 감지되지 않고 자동으로 다시 연결되지 않습니다."</string>
      <string name="wifi_not_in_range">범위 내에 없음</string>
      <string name="wifi_remembered">저장됨</string>
      <string name="wifi_security_none">없음</string>
