@@ -221,7 +221,7 @@
     <string name="force_rtl_layout_all_locales_summary">모든 언어에서 RTL 레이아웃 방향을 강제로 고정합니다</string>
     <string name="hdcp_checking_dialog_title">HDCP 확인 동작 설정</string>
     <string name="hdcp_checking_title">HDCP 확인</string>
-    <string name="help_feedback_label">도움말&피드백</string>
+    <string name="help_feedback_label">도움말&amp;피드백</string>
     <string name="immediately_destroy_activities">활동을 보관하지 마십시오.</string>
     <string name="immediately_destroy_activities_summary">앱을 닫으면 바로 백그라운드에서 중단됩니다</string>
     <string name="inactive_app_active_summary">활성화 상태입니다. 탭하여 설정 변경.</string>
@@ -294,7 +294,7 @@
     <string name="simulate_color_space">색상 공간 적용</string>
     <string name="strict_mode">제한 모드 사용</string>
     <string name="strict_mode_summary">앱이 메인 코어 이용해 장시간 작업을 할 때 플래시 스크린</string>
-    <string name="tether_settings_title_all">테더링&휴대용 핫스팟</string>
+    <string name="tether_settings_title_all">테더링&amp;휴대용 핫스팟</string>
     <string name="tether_settings_title_bluetooth">블루투스 테더링</string>
     <string name="tether_settings_title_usb">USB 테더링</string>
     <string name="tether_settings_title_usb_bluetooth">테더링</string>
