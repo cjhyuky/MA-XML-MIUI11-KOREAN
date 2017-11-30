@@ -1910,5 +1910,18 @@
     <string name="show_cpu_usage_summary">화면에 CPU 사용량을 표시해줍니다.</string>
     <string name="wifi_security_WAPI_CERT">WAPI 증명</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI 증명</string>
+    <string name=" hide_error_from_network_text">"요청을 처리할 수 없습니다"</string>
+    <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_ERROR">PUK 언락 실패.</string>
+    <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_SUCCESS">PUK 언락 성공.</string>
+    <string name="PERSOSUBSTATE_RUIM_RUIM_ENTRY">RUIM PIN 언락</string>
+    <string name="battery_info_status_discharging">충전 중이 아님</string>
+    <string name="bluetooth_pairing_error_message">"%1$s 기기와 연결할 수 없음."</string>
+    <string name="callFailed_invalid_transaction_identifier">실패</string>
+    <string name="callFailed_invalid_transit_NW_selection">연결 실패</string>
+    <string name="callFailed_resources_unavailable_or_unspecified">리소스 사용 불가능</string>
+    <string name="password">비밀번호/string>
+    <string name="power_charging_duration_ac">완전 충전까지 %1$s - %2$s</string>
+    <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">선호하는 네트워크 : TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
+    <string name="show_all_anrs_summary">앱 응답 없음</string>
 </resources>
     
