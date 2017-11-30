@@ -268,26 +268,19 @@
     <string name="trans_sender">이전 기기</string>
     <string name="trans_receiver">새로운 기기</string>
     <string name="trans_waiting_for_sender">이전 기기가 연결하기를 기다리는 중…</string>
-    <string name="trans_waiting_ensurance">"이전 기기와 Mi Mover가
-켜져있는지 확인하십시오"</string>
+    <string name="trans_waiting_ensurance">"이전 기기와 Mi Mover가 켜져있는지 확인하십시오"</string>
     <string name="trans_my_device">내 기기</string>
     <string name="trans_sender_searching">새 기기 찾는 중</string>
-    <string name="trans_sender_searching_ensurance">"이전 기기가 켜져 있는지 확인하십시오
-이전 기기가 연결하기를 기다리는 중…"</string>
+    <string name="trans_sender_searching_ensurance">"이전 기기가 켜져 있는지 확인하십시오. 이전 기기가 연결하기를 기다리는 중…"</string>
     <string name="trans_select_device_send">데이터를 전송할 기기를 하나 고르세요.</string>
     <string name="trans_sender_connectting">새 기기에서 수락하십시오</string>
     <string name="trans_select_device_receive">데이터를 수신할 기기를 하나 고르세요.</string>
     <string name="trans_backingup">백업하는 중 …</string>
     <string name="trans_backingup_no_items">동기화 중…</string>
     <string name="trans_restoring">복원 중…</string>
-    <string name="trans_sender_time_remained">"%s 남음.
-Wi-Fi를 끄지 마십시오.
-기기를 가까이에 두십시오."</string>
-    <string name="trans_receiver_time_remained">"%s 남음.
-Wi-Fi 핫스팟을 끄지 마십시오.
-기기를 가까이에 두십시오."</string>
-    <string name="trans_time_spent">"
-소요 시간: %s"</string>
+    <string name="trans_sender_time_remained">"%s 남음. Wi-Fi를 끄지 마십시오. 기기를 가까이에 두십시오."</string>
+    <string name="trans_receiver_time_remained">"%s 남음. Wi-Fi 핫스팟을 끄지 마십시오. 기기를 가까이에 두십시오."</string>
+    <string name="trans_time_spent">"소요 시간: %s"</string>
     <string name="trans_restoring_no_items">항목 동기화 중</string>
     <string name="trans_detail_category_sysdata">시스템 데이터</string>
     <string name="trans_detail_category_userdata">앱</string>
@@ -309,46 +302,45 @@ Wi-Fi 핫스팟을 끄지 마십시오.
     <string name="trans_cancel_confirm">전송이 진행중입니다. 중단하시겠습니까?</string>
     <string name="trans_cancelling">취소 중…</string>
     <string name="trans_connecting_toast">연결 중…</string>
-    
-  <string name="trans_connect_failed_message">"연결 실패, 다시 시도하시거나 디바이스를 재부팅해주세요."</string>
-  <string name="trans_connect_failed_title">"연결 실패."</string>
+    <string name="trans_connect_failed_message">"연결 실패, 다시 시도하시거나 디바이스를 재부팅해주세요."</string>
+    <string name="trans_connect_failed_title">"연결 실패."</string>
     <string name="trans_connection_failed">"연결 실패, 다시 시도하시거나 디바이스를 재부팅해주세요."</string>
     <string name="trans_detail_category_files">파일</string>
-  <string name="trans_device_auto_reconnecting">상대 디바이스와 연결이 해제되었습니다. 자동으로 연결을 다시 시도합니다...</string>
-  <string name="trans_device_disconnected">상대 디바이스와 연결이 해제되었습니다. </string>
-  <string name="trans_device_wait_for_reconnecting">상대 디바이스와 연결이 해제되었습니다. 다시 연결해주세요.</string>
-  <string name="trans_disconnected_tips_message">상대 디바이스와 연결이 해제되었습니다. 다시 연결해주세요.</string>
-  <string name="trans_disconnected_tips_title">상대 디바이스와 연결이 해제되었습니다.</string>
-  <string name="trans_intro_desc_1">"Mi 핸드폰에서 WLAN에 연결 후 \"I'm a recipient\"를 선택해주세요. 아이폰에서는 iCloud에 로그인 후 데이터를 입력해주세요."</string>
-  <string name="trans_intro_desc_3">중복 파일 문제입니다. 미 무버를 다시 시작해주세요.</string>
-  <string name="trans_intro_desc_4">"미 무버가 를 사용하고 있기 때문에 안전한 파일 전송을 위하여 사용자가 를 전송 도중에는 사용할 수가 없습니다. 일부 최신 기종에서는 WLAN을 동시에 사용이 가능합니다."</string>
-  <string name="trans_intro_desc_5">"최소 500메가~1기가정도의 여유 공간을 만들고 미 무버를 재시작해주세요."</string>
-  <string name="trans_intro_desc_6">"앱 호환성, 인터넷 문제, 안드로이드 버전 호환성 문제로 미 무버가 정상적으로 작동되지 않을 수 있습니다." </string>
-  <string name="trans_intro_desc_7">금융앱 같은 앱들은 보안상의 이유로 자동으로 옮겨지지 않을 수 있습니다. 이 경우, 앱을 삭제하고 새로운 폰에서 앱을 다시 다운받아주세요.</string>
-  <string name="trans_intro_desc_8">"위챗의 채팅 기록이나 앱 데이터는 완전히 옮겨지지 않을 수 있습니다. 위챗 로그아웃 후에 미 무버를 이용해주세요."</string>
-  <string name="trans_intro_desc_account">보안상의 이유로 Mi Account, Exchange, Google 등의 계정에 먼저 로그인을 하셔야 합니다.</string>
-  <string name="trans_intro_desc_multiapp">"미 무버는 파일의 중복 생성을 방지하기 위해 듀얼 앱 정보를 이동하지 않습니다."</string>
-  <string name="trans_intro_desc_multiuser">"미 무버가 세컨드 스페이스에 엑세스할수 없습니다. 일부 정보들을 삭제한 후에 시도해주세요."</string>
-  <string name="trans_intro_desc_new">"Tap \"I'm a recipient\".QR코드가 곧 생성될 예정입니다. 잠시만 기다려 주세요.."</string>
-  <string name="trans_intro_desc_old">"Tap \"I'm a sender\". 새로운 핸드폰에서 QR코드를 스캔하시고, \"전송\" 버튼을 눌러주세요."</string>
-  <string name="trans_intro_desc_private">"사진이 암호화되어 엑세스할수 없습니다. 이 사진들은 미 클라우드에서 확인하실 수 있습니다."</string>
-  <string name="trans_intro_question_1">1. 아이폰에서 데이터 전송은 어떻게 하나요?</string>
-  <string name="trans_intro_question_2">2. 타 안드로이드 기기들에서 데이터 전송을 어떻게 하나요?</string>
-  <string name="trans_intro_question_3">3. Mi Mover가 전송 도중 문제가 생겨 페어링이 끊기면 어떻게 해야 하나요?</string>
-  <string name="trans_intro_question_4">"4. 왜 파일 전송 도중 WLAN을 사용할수 없나요?"</string>
-  <string name="trans_intro_question_5">"5. 왜 Mi Miver에서 '저장소 부족' 에러 메세지가 표시되나요?"</string>
-  <string name="trans_intro_question_6">"6. 왜 일부 앱들은 이동되지 않나요?"</string>
-  <string name="trans_intro_question_7">"7. 왜 이전 디바이스의 앱들이 새로운 디바이스에서 실행되지 않나요?"</string>
-  <string name="trans_intro_question_8">"8.왜 위챗 채팅 기록들이 자동으로 전송되지 않나요?"</string>
-  <string name="trans_intro_question_9">"9. 어떠한 정보들이 이동될수 없나요?"</string>
-  <string name="trans_intro_title">자주하는질문</string>
-  <string name="trans_intro_title_account">계정 및 비밀번호:</string>
-  <string name="trans_intro_title_multiapp">듀얼 앱 데이터:</string>
-  <string name="trans_intro_title_multiuser">세컨드 스페이스 데이터:</string>
-  <string name="trans_intro_title_new">새로운 디바이스에서:</string>
-  <string name="trans_intro_title_old">이전 디바이스에서:</string>
-  <string name="trans_intro_title_private">숨김처리된 앨범:</string>
-    
+    <string name="trans_device_auto_reconnecting">상대 디바이스와 연결이 해제되었습니다. 자동으로 연결을 다시 시도합니다...</string>
+    <string name="trans_device_auto_reconnecting">상대 디바이스와 연결이 해제되었습니다. 자동으로 연결을 다시 시도합니다...</string>
+    <string name="trans_device_disconnected">상대 디바이스와 연결이 해제되었습니다. </string>
+    <string name="trans_device_wait_for_reconnecting">상대 디바이스와 연결이 해제되었습니다. 다시 연결해주세요.</string>
+    <string name="trans_disconnected_tips_message">상대 디바이스와 연결이 해제되었습니다. 다시 연결해주세요.</string>
+    <string name="trans_disconnected_tips_title">상대 디바이스와 연결이 해제되었습니다.</string>
+    <string name="trans_intro_desc_1">"Mi 핸드폰에서 WLAN에 연결 후 \"I'm a recipient\"를 선택해주세요. 아이폰에서는 iCloud에 로그인 후 데이터를 입력해주세요."</string>
+    <string name="trans_intro_desc_3">중복 파일 문제입니다. 미 무버를 다시 시작해주세요.</string>
+    <string name="trans_intro_desc_4">"미 무버가 를 사용하고 있기 때문에 안전한 파일 전송을 위하여 사용자가 를 전송 도중에는 사용할 수가 없습니다. 일부 최신 기종에서는 WLAN을 동시에 사용이 가능합니다."</string>
+    <string name="trans_intro_desc_5">"최소 500메가~1기가정도의 여유 공간을 만들고 미 무버를 재시작해주세요."</string>
+    <string name="trans_intro_desc_6">"앱 호환성, 인터넷 문제, 안드로이드 버전 호환성 문제로 미 무버가 정상적으로 작동되지 않을 수 있습니다." </string>
+    <string name="trans_intro_desc_7">금융앱 같은 앱들은 보안상의 이유로 자동으로 옮겨지지 않을 수 있습니다. 이 경우, 앱을 삭제하고 새로운 폰에서 앱을 다시 다운받아주세요.</string>
+    <string name="trans_intro_desc_8">"위챗의 채팅 기록이나 앱 데이터는 완전히 옮겨지지 않을 수 있습니다. 위챗 로그아웃 후에 미 무버를 이용해주세요."</string>
+    <string name="trans_intro_desc_account">보안상의 이유로 Mi Account, Exchange, Google 등의 계정에 먼저 로그인을 하셔야 합니다.</string>
+    <string name="trans_intro_desc_multiapp">"미 무버는 파일의 중복 생성을 방지하기 위해 듀얼 앱 정보를 이동하지 않습니다."</string>
+    <string name="trans_intro_desc_multiuser">"미 무버가 세컨드 스페이스에 엑세스할수 없습니다. 일부 정보들을 삭제한 후에 시도해주세요."</string>
+    <string name="trans_intro_desc_new">"Tap \"I'm a recipient\".QR코드가 곧 생성될 예정입니다. 잠시만 기다려 주세요.."</string>
+    <string name="trans_intro_desc_old">"Tap \"I'm a sender\". 새로운 핸드폰에서 QR코드를 스캔하시고, \"전송\" 버튼을 눌러주세요."</string>
+    <string name="trans_intro_desc_private">"사진이 암호화되어 엑세스할수 없습니다. 이 사진들은 미 클라우드에서 확인하실 수 있습니다."</string>
+    <string name="trans_intro_question_1">1. 아이폰에서 데이터 전송은 어떻게 하나요?</string>
+    <string name="trans_intro_question_2">2. 타 안드로이드 기기들에서 데이터 전송을 어떻게 하나요?</string>
+    <string name="trans_intro_question_3">3. Mi Mover가 전송 도중 문제가 생겨 페어링이 끊기면 어떻게 해야 하나요?</string>
+    <string name="trans_intro_question_4">"4. 왜 파일 전송 도중 WLAN을 사용할수 없나요?"</string>
+    <string name="trans_intro_question_5">"5. 왜 Mi Miver에서 '저장소 부족' 에러 메세지가 표시되나요?"</string>
+    <string name="trans_intro_question_6">"6. 왜 일부 앱들은 이동되지 않나요?"</string>
+    <string name="trans_intro_question_7">"7. 왜 이전 디바이스의 앱들이 새로운 디바이스에서 실행되지 않나요?"</string>
+    <string name="trans_intro_question_8">"8.왜 위챗 채팅 기록들이 자동으로 전송되지 않나요?"</string>
+    <string name="trans_intro_question_9">"9. 어떠한 정보들이 이동될수 없나요?"</string>
+    <string name="trans_intro_title">자주하는질문</string>
+    <string name="trans_intro_title_account">계정 및 비밀번호:</string>
+    <string name="trans_intro_title_multiapp">듀얼 앱 데이터:</string>
+    <string name="trans_intro_title_multiuser">세컨드 스페이스 데이터:</string>
+    <string name="trans_intro_title_new">새로운 디바이스에서:</string>
+    <string name="trans_intro_title_old">이전 디바이스에서:</string>
+    <string name="trans_intro_title_private">숨김처리된 앨범:</string>
     <string name="trans_connect_failed_toast">연결할 수 없음</string>
     <string name="trans_generate_qr_code_failed">QR 코드를 생성할 수 없습니다.</string>
     <string name="trans_scan_invalid_qrcode">잘못된 QR 코드</string>
@@ -392,11 +384,11 @@ Wi-Fi 핫스팟을 끄지 마십시오.
     <string name="backup_security_tips_message">일부 앱은 백업이나 복구가 불가할 수 있습니다.</string>
     <string name="trans_security_tips_title">Mi Mover 호환성</string>
     <string name="trans_security_tips_message">일부 앱은 Mi Mover가 지원되지 않습니다.</string>
-	<string name="login">로그인</string>
-	<string name="logining">로그인 중…</string>
-	<string name="login_failed">로그인할 수 없습니다. %s.</string>
-	<string name="password">비밀번호 입력</string>
-	<string name="error_permissions">스캐너가 정상적으로 동작하는 데 필요한 권한이 충분하지 않습니다. 계속하시려면 설정으로 가서 권한을 확인해 주십시오.</string>
-	<string name="connect_wifi">이 네트워크에 연결</string>
-	<string name="pause">일시정지</string>
+    <string name="login">로그인</string>
+    <string name="logining">로그인 중…</string>
+    <string name="login_failed">로그인할 수 없습니다. %s.</string>
+    <string name="password">비밀번호 입력</string>
+    <string name="error_permissions">스캐너가 정상적으로 동작하는 데 필요한 권한이 충분하지 않습니다. 계속하시려면 설정으로 가서 권한을 확인해 주십시오.</string>
+    <string name="connect_wifi">이 네트워크에 연결</string>
+    <string name="pause">일시정지</string>
 </resources>
