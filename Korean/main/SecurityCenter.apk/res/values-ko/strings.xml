@@ -2250,4 +2250,5 @@ Rolled over extra data"</string>
     <string name="xunyou_net_booster">네트워크 스피드 부스트</string>
     <string name="xunyou_net_booster_detail">Xunyou 스피드 부스트를 게임하실때 활용해보세요.</string>
     <string name="xunyou_server_expired">시간 초과</string>
+    <string name="back_description_securitycenter">뒤로가기</string>
 </resources>
