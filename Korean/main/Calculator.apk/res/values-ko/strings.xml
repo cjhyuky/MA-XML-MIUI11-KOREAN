@@ -327,15 +327,15 @@
     <string name="preference_check_update_summary_new_version">업데이트 가능: %s</string>
     <string name="description_title">계산기 정보</string>
     <string name="description_content">계산기로 기본적인 계산뿐만 아니라 여러가지 변환, 주택융자 계산, 세금 계산 등도 하실 수 있습니다. 앱 제거 전 이러한 기능들을 사용하지 못하게 된다는 사실을 아셔야 합니다.</string>
-	<string name="xiaomi_update_dialog_message_diff">%1$s 버전업데이트 크기: %2$s</string>
-	<string name="xiaomi_update_dialog_message">%1$s 버전크기: %2$s</string>
-	<string name="xiaomi_bytes_unit">%1$sB</string>
-	<string name="xiaomi_kilobytes_unit">%1$sKB</string>
-	<string name="xiaomi_megabytes_unit">%1$sMB</string>
-	<string name="percentage">%s%%</string>
-	<string name="xiaomi_connect_download_manager_fail">다운로드 시작 실패, 다운로드 매니저가 정상 작동 중인지 확인하십시오.</string>
-	<string name="xiaomi_update_dialog_title">업데이트 가능</string>
-	<string name="xiaomi_external_storage_unavailable">저장소를 사용할 수 없습니다. SD 카드를 확인하십시오.</string>
-	<string name="power">전원</string>
-	<string name="clear">지우기</string>
+    <string name="xiaomi_update_dialog_message_diff">%1$s 버전업데이트 크기: %2$s</string>
+    <string name="xiaomi_update_dialog_message">%1$s 버전크기: %2$s</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="percentage">%s%%</string>
+    <string name="xiaomi_connect_download_manager_fail">다운로드 시작 실패, 다운로드 매니저가 정상 작동 중인지 확인하십시오.</string>
+    <string name="xiaomi_update_dialog_title">업데이트 가능</string>
+    <string name="xiaomi_external_storage_unavailable">저장소를 사용할 수 없습니다. SD 카드를 확인하십시오.</string>
+    <string name="power">전원</string>
+    <string name="clear">지우기</string>
 </resources>
