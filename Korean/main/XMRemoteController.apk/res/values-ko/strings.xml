@@ -838,7 +838,6 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="device_shop_share_weibo_not_support">"현재 버전의 Weibo는 공유를 지원하지 않습니다"</string>
     <string name="epg_booked_program_time_left">예약됨 (%1$s 안에 시작)</string>
     <string name="epg_change_channel_casting">채널 재생 (현재 재생중)</string>
-    <string name="passport_user_agreement_p3">?및?</string>
     <string name="passport_notification_title">%1$s 로그인 오류</string>
     <string name="passport_email_reg_success_summary">%1$s이(가) 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
     <string name="passport_reg_success_summary">%1$s이(가) 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
