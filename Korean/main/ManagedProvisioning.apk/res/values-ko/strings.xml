@@ -49,10 +49,10 @@
     <string name="device_owner_error_package_invalid">관리 앱을 사용할 수 없습니다. 구성요소가 없거나 손상되었습니다. IT 부서에 문의해 주시기 바랍니다.</string>
     <string name="device_owner_error_installation_failed">관리 앱을 설치할 수 없습니다.</string>
     <string name="device_owner_error_package_not_installed">기기에 관리 앱이 설치되어 있지 않습니다.</string>
-	<string name="next">다음</string>
-	<string name="suw_next_button_label">다음</string>
-	<string name="suw_more_button_label">더보기</string>
-	<string name="suw_back_button_label">뒤로</string>
-	<string name="opening_paragraph_delete_profile_unknown_company">업무 프로필 관리됨:</string>
-	<string name="app_label">휴대전화/메시지 저장공간</string>
+    <string name="next">다음</string>
+    <string name="suw_next_button_label">다음</string>
+    <string name="suw_more_button_label">더보기</string>
+    <string name="suw_back_button_label">뒤로</string>
+    <string name="opening_paragraph_delete_profile_unknown_company">업무 프로필 관리됨:</string>
+    <string name="app_label">휴대전화/메시지 저장공간</string>
 </resources>
