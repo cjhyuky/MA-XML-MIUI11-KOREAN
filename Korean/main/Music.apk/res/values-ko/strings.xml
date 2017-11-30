@@ -810,4 +810,5 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="search_empty">일치하는 항목 없음</string>
     <string name="stop">중지</string>
     <string name="confirm">확인</string>
+    <string name="save">저장</string>
 </resources>

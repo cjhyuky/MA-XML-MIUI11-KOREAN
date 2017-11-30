@@ -5441,4 +5441,5 @@ PIN 설정"</string>
     <string name="screen_pinning_unlock_password">언핑 전에 비밀번호 물어보기</string>
     <string name="screen_pinning_unlock_pattern">언핑 전에 패턴 물어보기</string>
     <string name="screen_pinning_unlock_pin">언핑 전에 PIN 물어보기</string>
+	<string name="error_title">동기화할 수 없음</string>
 </resources>

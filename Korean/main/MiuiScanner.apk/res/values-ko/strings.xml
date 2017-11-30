@@ -171,4 +171,7 @@
     <string name="recognition_error_download_data_msg">식별 엔진을 다운로드하여 카드를 스캔하십시오. 크기가 대략 15MB 입니다. 모바일 데이터를 사용하여 다운로드 하시겠습니까?</string>
     <string name="recognition_error_download_success">다운로드 성공</string>
     <string name="recognition_error_download_fail">식별 엔진을 다운로드할 수 없음</string>
+    <string name="app_description_content">스캐너는 당신이 QR코드, 문서, 명함등을 스캔할 수 있게 도와줍니다.</string>
+    <string name="app_description_title">스캐너 정보</string>
+    <string name="back">뒤로 가기</string>
 </resources>
