@@ -56,10 +56,7 @@
     <string name="passport_register_by_email"><u>이메일 주소 사용하여 계정 만들기</u></string>
     <string name="passport_account_not_actived">계정이 활성화되지 않았습니다.</string>
     <string name="passport_active_email_visit">%s의 수신함을 확인하십시오.</string>
-    <string name="passport_click_email_to_valid">"
-
-계정을 활성화하려면, 받은 메시지함으로 보내드린 
- 링크를 따라가세요."</string>
+    <string name="passport_click_email_to_valid">"계정을 활성화하려면, 받은 메시지함으로 보내드린 링크를 따라가세요."</string>
     <string name="passport_resend_active_email">이메일 다시 보내기</string>
     <string name="passport_failed_to_send_activate_email">활성화 이메일을 전송하지 못했습니다.</string>
     <string name="passport_reg_success">계정 만들어짐</string>
@@ -153,5 +150,5 @@
     <string name="passport_copy_message_vcode">복사 코드</string>
     <string name="passport_message_dialog_title">SMS 인증 코드</string>
     <string name="passport_trust_device">이 기기를 인증된 기기에 추가</string>
-	<string name="passport_barcode_add_account_prompt">계정에 연결하려면 로그인 후에 QR 코드를 다시 스캔하십시오.</string>
+    <string name="passport_barcode_add_account_prompt">계정에 연결하려면 로그인 후에 QR 코드를 다시 스캔하십시오.</string>
 </resources>
