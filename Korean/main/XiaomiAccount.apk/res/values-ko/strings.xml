@@ -59,10 +59,7 @@
     <string name="passport_register_by_email"><u>이메일 주소 사용하여 계정 만들기</u></string>
     <string name="passport_account_not_actived">계정이 활성화되지 않았습니다.</string>
     <string name="passport_active_email_visit">%s의 수신함을 확인하십시오.</string>
-    <string name="passport_click_email_to_valid">"
-
-계정을 활성화하려면, 받은 메시지함으로 보내드린 
- 링크를 따라가세요."</string>
+    <string name="passport_click_email_to_valid">"계정을 활성화하려면, 받은 메시지함으로 보내드린 링크를 따라가세요."</string>
     <string name="passport_resend_active_email">이메일 다시 보내기</string>
     <string name="passport_failed_to_send_activate_email">활성화 이메일을 전송하지 못했습니다.</string>
     <string name="passport_reg_success">계정 만들어짐</string>
@@ -441,5 +438,18 @@
     <string name="passport_set_password_no_phone_msg">전화번호를 추가해 계정을 보호하세요.</string>
     <string name="passport_yes">네</string>
     <string name="talkback_scan_barcode">QR 코드 스캔</string>
-
+    <string name="action_add_phone">전화번호 추가</string>
+    <string name="action_update_phone">전화번호 변경</string>
+    <string name="get_back_pwd">비밀번호 초기화</string>
+    <string name="identity">확인</string>
+    <string name="mi_vip_info">혜텍 보기</string>
+    <string name="no_phone">전화번호 없음</string>
+    <string name="passport_sync_account_data">계정 정보 동기화 중…</string>
+    <string name="passport_sync_account_data_failed_warning">계정 정보가 동기화 중입니다. 전화번호나 이메일로 로그인하려면 동기화가 끝날때까지 기다려주세요.</string>
+    <string name="passport_user_id_notice">미 계정은 %s입니다.</string>
+    <string name="phone_num_use_for">귀하의 전화번호는 다음에 사용됩니다:</string>
+    <string name="set_success">성공적으로 변경됨</string>
+    <string name="sign_in">로그인 중</string>
+    <string name="update_phone_notice">보안 설정 변경</string>
+    <string name="vip_settings_info">VIP 설정</string>
 </resources>
