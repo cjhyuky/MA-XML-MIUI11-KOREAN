@@ -449,5 +449,5 @@
     <string name="dialog_btn_cancel">취소</string>
     <string name="dialog_btn_ok">확인</string>
     <string name="ad_install">설치</string>
-	<string name="download_title">파일 준비 중…</string>
+    <string name="download_title">파일 준비 중…</string>
 </resources>
