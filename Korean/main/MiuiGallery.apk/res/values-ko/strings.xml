@@ -966,5 +966,5 @@
     <string name="text_edit_dialog_font">글꼴</string>
     <string name="text_edit_dialog_font_default">기본값</string>
     <string name="video_editor_text_none">없음</string>
-	<string name="install_fail">에러로 인해 플러그인을 로드할 수 없습니다.</string>
+    <string name="install_fail">에러로 인해 플러그인을 로드할 수 없습니다.</string>
 </resources>
