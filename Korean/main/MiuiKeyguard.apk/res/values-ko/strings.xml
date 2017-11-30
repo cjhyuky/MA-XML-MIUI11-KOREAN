@@ -91,8 +91,8 @@
     <string name="keyguard_left_remotecentral">캘린더</string>
     <string name="keyguard_left_bankcard">계산기</string>
     <string name="keyguard_left_buscard">교통 카드</string>
-    <string name="face_data_input_title">얼굴 데이터 추가</string>
-    <string name="face_data_introduction_title">얼굴 인식</string>
+    <string name="face_data_input_title">얼굴 추가</string>
+    <string name="face_data_introduction_title">안면 인식</string>
     <string name="face_data_introduction_msg">얼굴 데이터로 기기 잠금 해제와 신분 확인 등을 하실 수 있습니다. 얼굴 데이터 추가 전 잠금화면 비밀번호를 추가하십시오.</string>
     <string name="face_data_introduction_next">다음</string>
     <string name="face_data_suggesstion_first">얼굴 데이터 잠금해제의 보안성은 잠금화면 비밀번호 보다 낮습니다. 비슷한 얼굴의 사람이 기기의 잠금을 해제할 수 있습니다.</string>
@@ -124,7 +124,7 @@
     <string name="face_unlock_reveal_mouth">입술이 보이게 해주십시오</string>
     <string name="face_unlock_check_failed">인식 실패</string>
     <string name="btn_camera">얼굴 입력</string>
-    <string name="face_unlock_passwork_and_fingerprint">비밀번호 또는 얼굴 데이터 사용</string>
+    <string name="face_unlock_passwork_and_fingerprint">비밀번호 또는 안면 인식 사용</string>
     <string name="face_unlock_passwork">비밀번호 사용</string>
     <string name="unlock_failed">내부 오류</string>
     <string name="unlock_failed_face_not_found">감지 중</string>
