@@ -377,7 +377,6 @@
     <string name="owner_info_settings_title">화면 소유자 정보 잠금</string>
     <string name="security_enable_widgets_title">위젯 사용</string>
     <string name="security_enable_widgets_disabled_summary">관리자가 사용 중지함</string>
-    <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_edit_text_hint">화면 잠금에 표시할 텍스트를 입력하세요.</string>
     <string name="show_user_info_on_lockscreen_label">잠금화면에서 사용자 정보 보여주기</string>
     <string name="user_info_settings_title">사용자 정보</string>
