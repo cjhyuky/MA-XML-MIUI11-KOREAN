@@ -13,6 +13,7 @@
     <string name="menu_speaker">스피커로 전환</string>
     <string name="menu_headset">블루투스 헤드셋으로 전환</string>
     <string name="menu_exit">종료</string>
+    <string name="menu_label">메뉴</string>
     <string name="dialog_sleep_title">수면 타이머 설정</string>
     <string name="search_dialog_title">방송국 스캔</string>
     <string name="fmradio_clear_confirm_msg">모든 프리셋이 삭제 됩니다</string>
