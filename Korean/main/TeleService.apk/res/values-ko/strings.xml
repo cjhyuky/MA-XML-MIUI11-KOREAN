@@ -1896,14 +1896,11 @@
     <string name="wifi_verbose_logging">WLAN 상세 로깅 사용</string>
     <string name="wifi_verbose_logging_summary">WLAN 로깅 수준 높이기, WLAN Picker의 SSID 당 표시 RSSI</string>
     <string name="window_animation_scale_title">창 애니메이션 스케일</string>
-    <string name="battery_info_status_discharging">충전되지 않음</string>
-    <string name="bluetooth_pairing_error_message">%1$s와(과) 페어링하지 못했습니다.</string>
     <string name="daltonizer_mode_deuteranomaly">녹색약(적녹)</string>
     <string name="daltonizer_mode_monochromacy">전색맹</string>
     <string name="daltonizer_mode_protanomaly">적색약(적녹)</string>
     <string name="daltonizer_mode_tritanomaly">청색약(청황)</string>
     <string name="password">비밀번호 입력</string>
-    <string name="power_charging_duration_ac">AC로 완전충전까지 %1$s - %2$s 소요</string>
     <string name="show_all_anrs_summary">백그라운드 앱을 위해 \"앱 응답 없음\" 창을 보여줍니다</string>
     <string name="legacy_dhcp_client_summary">안드로이드 롤리팝 버전의 DHCP 클라이언트를 사용합니다.</string>
     <string name="show_cpu_usage">CPU 사용량 표시</string>
@@ -1915,13 +1912,11 @@
     <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_SUCCESS">PUK 언락 성공.</string>
     <string name="PERSOSUBSTATE_RUIM_RUIM_ENTRY">RUIM PIN 언락</string>
     <string name="battery_info_status_discharging">충전 중이 아님</string>
-    <string name="bluetooth_pairing_error_message">"%1$s 기기와 연결할 수 없음."</string>
+    <string name="bluetooth_pairing_error_message">"%1$s 기기와 페어링하지 못했습니다."</string>
     <string name="callFailed_invalid_transaction_identifier">실패</string>
     <string name="callFailed_invalid_transit_NW_selection">연결 실패</string>
     <string name="callFailed_resources_unavailable_or_unspecified">리소스 사용 불가능</string>
     <string name="password">비밀번호/string>
-    <string name="power_charging_duration_ac">완전 충전까지 %1$s - %2$s</string>
+    <string name="power_charging_duration_ac">AC로 완전 충전까지 %1$s - %2$s 소요</string>
     <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">선호하는 네트워크 : TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
-    <string name="show_all_anrs_summary">앱 응답 없음</string>
 </resources>
-    
