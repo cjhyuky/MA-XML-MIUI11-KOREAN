@@ -851,7 +851,6 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="cloud_state_storage_full">저장공간 부족, 백업을 중단합니다</string>
     <string name="cloud_welcome_message">음악 백업</string>
     <string name="cloud_welcome_summary">Mi클라우드에 음악을 백업하시면 다른 기기에서도 감상할 수 있습니다</string>
-    <string name="confirm">확인</string>
     <string name="continue_backup">계속하기</string>
     <string name="date_format_str">yyyy-MM-dd</string>
     <string name="dialog_song_sort_type">정렬</string>
@@ -927,14 +926,12 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="playlist_empty">재생목록 없음.</string>
     <string name="recently_played">최근 재생됨</string>
     <string name="recently_played_songs">최근 재생된 곡</string>
-    <string name="search_empty">"결과 없음"</string>
     <string name="search_hint_not_support_online">아티스트, 노래, 앨범을 검색</string>
     <string name="search_history_clear_all">지우기</string>
     <string name="search_instant_online_music">온라인</string>
     <string name="shuffle_music">랜덤 재생</string>
     <string name="start_shuffle">셔플중…</string>
-    <string name="stop">정지</string>
-    <string name="stop_backup">정지</string>
+    <string name="stop_backup">중지</string>
     <string name="talkback_mode_repeat_all">전체 반복 모드</string>
     <string name="talkback_mode_repeat_current">한곡 반복 모드</string>
     <string name="talkback_mode_repeat_shuffle">랜덤 재생 모드</string>
