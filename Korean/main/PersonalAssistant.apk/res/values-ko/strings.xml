@@ -406,7 +406,7 @@
   <string name="map_msg_sufix">세부 정보</string>
   <string name="map_office_didi">직장 출근하기</string>
   <string name="map_office_way">사무실로 가는 길</string>
-  <string name="map_subway_card">교통 카드</string>
+  <string name="map_subway_card">메모장</string>
   <string name="map_suggestion_desc">자주가는 목적지를 추가하여 여행 전에 도로 상태를 확인하세요.</string>
   <string name="map_suggestion_negative">지금은 아닙니다.</string>
   <string name="map_suggestion_positive">추가</string>
