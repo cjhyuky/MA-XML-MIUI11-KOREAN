@@ -90,7 +90,7 @@
     <string name="keyguard_left_smarthome">연락처</string>
     <string name="keyguard_left_remotecentral">캘린더</string>
     <string name="keyguard_left_bankcard">계산기</string>
-    <string name="keyguard_left_buscard">교통 카드</string>
+    <string name="keyguard_left_buscard"></string>
     <string name="face_data_input_title">얼굴 추가</string>
     <string name="face_data_introduction_title">안면 인식</string>
     <string name="face_data_introduction_msg">얼굴 데이터로 기기 잠금 해제와 신분 확인 등을 하실 수 있습니다. 얼굴 데이터 추가 전 잠금화면 비밀번호를 추가하십시오.</string>
