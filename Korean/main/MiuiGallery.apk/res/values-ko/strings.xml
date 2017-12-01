@@ -967,4 +967,7 @@
     <string name="text_edit_dialog_font_default">기본값</string>
     <string name="video_editor_text_none">없음</string>
     <string name="install_fail">에러로 인해 플러그인을 로드할 수 없습니다.</string>
+    <string name="remover_edit_type_free">물체</string>
+	<string name="remover_edit_type_line">선</string>
+    <string name="photo_editor_remover">지우개</string>
 </resources>
