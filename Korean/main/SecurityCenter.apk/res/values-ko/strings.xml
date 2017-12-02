@@ -2250,4 +2250,9 @@ Rolled over extra data"</string>
     <string name="xunyou_net_booster">네트워크 스피드 부스트</string>
     <string name="xunyou_net_booster_detail">Xunyou 스피드 부스트를 게임하실때 활용해보세요.</string>
     <string name="xunyou_server_expired">시간 초과</string>
+    <string name="call_oversea_block">해외에서 걸려오는 전화 차단</string>
+    <string name="fw_oversea">해외에서 걸려오는 전화 차단</string>
+    <string name="fw_oversea_content">외국 전화번호에서 걸려오는 전화 차단하기</string>
+    <string name="st_call_intercept_oversea">해외에서 수신한 전화 차단하기</string>
+    <string name="st_confirm_dialog_summary_oversea_call">해외 전화번호에서 오는 전화 차단하기</string>
 </resources>
