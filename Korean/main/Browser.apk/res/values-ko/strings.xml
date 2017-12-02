@@ -955,7 +955,7 @@
   <string name="voice_stop_description">정지</string>
   <string name="miuichromium_error_page_problem_cannot_reach_site">"웹사이트에 연결할 수 없습니다."</string>
   <string name="miuichromium_error_page_problem_connection_interrupted">연결에 문제가 발생하였습니다.</string>
-  <string name="miuichromium_error_page_problem_file_not_found">”파일을 찾을 수 없습니다”</sttring>
+  <string name="miuichromium_error_page_problem_file_not_found">”파일을 찾을 수 없습니다”</string>
   <string name="miuichromium_error_page_problem_no_internet_connection">"인터넷에 연결할 수 없습니다."</string>
   <string name="miuichromium_error_page_problem_page_not_working">"이 페이지가 작동하지 않습니다."</string>
   <string name="miuichromium_error_page_problem_security_error">"보안 연결 상태가 아닙니다"</string>
