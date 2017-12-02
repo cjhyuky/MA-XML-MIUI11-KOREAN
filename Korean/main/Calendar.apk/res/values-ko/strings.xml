@@ -480,4 +480,17 @@
     <string name="week_view">주</string>
     <string name="what_label">내용</string>
     <string name="where_label">장소</string>
+    <string name="action_bar_more_menu_view_description">더보기</string>
+    <string name="app_name">공통</string>
+    <string name="email_install_hint">이메일이 삭제되었습니다.</string>
+    <string name="english_premium_league">영국 프리미어 리그</string>
+    <string name="global_football_final">파이널</string>
+    <string name="global_football_no_match">오늘로 예정된 축구 경기가 없습니다.</string>
+    <string name="install_email_app">이메일 설치</string>
+    <string name="install_email_finished">이메일 설치됨</string>
+    <string name="installing_email">설치중...</string>
+    <string name="new_event_description">새로운</string>
+    <string name="prefDefault_alerts_vibrateWhen">절대 안함</string>
+    <string name="prefDefault_alerts_vibrate_false">절대 안함</string>
+    <string name="prefDefault_alerts_vibrate_true">항상</string>
 </resources>
