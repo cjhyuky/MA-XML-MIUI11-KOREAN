@@ -223,4 +223,22 @@
     <string name="hdcp_checking_title">HDCP 확인</string>
     <string name="help_feedback_label">도움말&amp;피드백</string>
     <string name="immediately_destroy_activities">활동을 보관하지 마십시오.</string>
+    <string name="home">설정 홈</string>
+    <string name="incoming_call_failed_low_battery">배터리가 부족해 전화를 받을 수 없습니다.</string>
+    <string name="notification_pullcall">보조 계정에서 전화 걸기</string>
+    <string name="pull_to_call_back">탭하여 당겨오기</string>
+    <string name="select_logpersist_dialog_title">로그 버퍼 선택</string>
+    <string name="select_logpersist_title">기기의 로그 버퍼 선택/string>
+    <string name="test_account_0_label">Q Mobile</string>
+    <string name="test_account_0_short_description">Q Mobile 계정</string>
+    <string name="test_account_1_label">Market 텔레콤</string>
+    <string name="test_account_1_short_description">Market 텔레콤 계정</string>
+    <string name="test_account_2_label">Sonoma Circles Talk Plus</string>
+    <string name="test_account_2_short_description">모든 이들과 통화하세요!</string>
+    <string name="test_account_3_label">Bay 음성 채팅 Pro</string>
+    <string name="test_account_3_short_description">채팅 네트워크 사용자와 채팅하세요.</string>
+    <string name="wifi_auth_password_wrong">비밀번호가 올바르지 않습니다.</string>
+    <string name="wifi_no_internet_no_reconnect">"인터넷에 연결되지 않았습니다. 자동으로 연결되지 않습니다."</string>
+    <string name="change_default_dialer_no_previous_app_set_text">%s 앱을 기본 전화 앱으로 설정합니까?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">%2$s 대신 %1$s 앱을 기본 전화 앱으로 설정할까요?</string>
 </resources>
