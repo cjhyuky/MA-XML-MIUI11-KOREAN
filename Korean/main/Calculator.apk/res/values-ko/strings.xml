@@ -338,4 +338,21 @@
     <string name="xiaomi_external_storage_unavailable">저장소를 사용할 수 없습니다. SD 카드를 확인하십시오.</string>
     <string name="power">전원</string>
     <string name="clear">지우기</string>
+    <string name="from_unit_en">km/h</string>
+    <string name="global_network_confirm_content">환율 변환기를 사용하려면 인터넷에 연결되어 있어야 합니다.</string>
+    <string name="global_search_key_area_convertion">면적;면적 변환;면적 변환기</string>
+    <string name="global_search_key_calculation">계산;계산기;단위 변환;변환기;단위 계산기</string>
+    <string name="global_search_key_date_convertion">시간 변환기;시간 단위;시간 변환;시간</string>
+    <string name="global_search_key_exchange_rate">환율;환율 변환;환율 변환기</string>
+    <string name="global_search_key_length_convertion">길이;길이 변환;길이 변환기</string>
+    <string name="global_search_key_mortgage">주택대출 계산;주택대출 계산기;주택대출</string>
+    <string name="global_search_key_personal_tax">개인 세금;세금;세금 계산기</string>
+    <string name="global_search_key_scientific_convertion">공학 계산기;수학;산수</string>
+    <string name="global_search_key_speed_convertion">속도 변환;가속도 변환;속도 변환;속도 변환기;속도;가속도</string>
+    <string name="global_search_key_temperature_convertion">온도 변환기;온도 변환</string>
+    <string name="global_search_key_volume_convertion">부피 변환;부피 단위 변환;부피 변환기</string>
+    <string name="global_search_key_weight_convertion">무게 변환기;무게 변환</string>
+    <string name="global_search_key_word_figure">금융 관련 단위</string>
+    <string name="golbal_search_calculator_setting">계산기;계산기 설정;설정</string>
+    <string name="title_bar">길이 변환기</string>
 </resources>
