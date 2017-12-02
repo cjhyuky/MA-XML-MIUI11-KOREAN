@@ -34,4 +34,23 @@
     <string name="wifi_title">Wi-Fi 설정</string>
     <string name="install_done">앱 설치됨</string>
     <string name="done_label">완료</string>
+    <string name="install_done_title">증명서 설치됨</string>
+    <string name="one_wapi_ascrt">증명서 1장</string>
+    <string name="one_wapi_usercrt">사용자 증명서 1장</string>
+    <string name="wifi_cancel_label">취소</string>
+    <string name="wifi_config_text">"이름: %1$sFQDN: %2$s로밍 컨설티움: %3$s렐름: %4$s허용된 방법: EAP-%5$s"</string>
+    <string name="wifi_detail_label">자세히</string>
+    <string name="wifi_detail_title">%s에 대한 정보</string>
+    <string name="wifi_dismiss_label">릴리즈</string>
+    <string name="wifi_install_label">설치</string>
+    <string name="wifi_installer_detail">%1$s을 이용해 증명서 설치</string>
+    <string name="wifi_installer_download_error">"다운로드 파일에 문제가 발생해 다운로드할 수 없습니다."</string>
+    <string name="wifi_installer_fail">"Wi-Fi 증명서를 설치할 수 없습니다. 파일을 다시 다운받아 보세요."</string>
+    <string name="wifi_installer_fail_no_wifi">Wi-Fi를 켜고 다시 시도하세요.</string>
+    <string name="wifi_installer_fail_no_wifi_title">설치 취소됨</string>
+    <string name="wifi_installer_fail_title">"설치되지 않음"</string>
+    <string name="wifi_installing_label">설치중</string>
+    <string name="wifi_no_config">없음</string>
+    <string name="wifi_tls_config_text">"클라이언트 증명서:%1$sKey: %2$s"</string>
+    <string name="wifi_ttls_config_text">"사용자명: %s"</string>
 </resources>
