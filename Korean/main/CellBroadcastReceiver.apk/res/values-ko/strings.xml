@@ -106,5 +106,36 @@
     <string name="enable">켜기</string>
     <string name="error_updating_title">통화 설정 오류</string>
     <string name="close_dialog">확인</string>
+    <string name="add_channel">채널 추가</string>
+    <string name="category_india_settings_title">인도 특정 설정</string>
+    <string name="cb_channel_50_name">채널 50</string>
+    <string name="cb_channel_dialog_channel_name">채널명 (0-10자)</string>
+    <string name="cb_channel_dialog_channel_number">채널 번호 (0-65534자리)</string>
+    <string name="cb_channel_dialog_channel_state">채널 활성화</string>
+    <string name="cb_channel_dialog_edit_channel">채널 정보 수정</string>
+    <string name="cb_default_new_channel_name">새 채널</string>
+    <string name="cb_error_channel_id_exist">이 채널 ID가 이미 존재합니다.</string>
+    <string name="cb_error_channel_name">채널 이름이 올바르지 않습니다. (1-10자)</string>
+    <string name="cb_error_channel_num">채널 번호를 입력하세요. (0-65534자리).</string>
+    <string name="cb_menu_add_channel">채널 추가</string>
+    <string name="cb_menu_channel_list">채널 목록</string>
+    <string name="cb_menu_delete">브로드캐스트 삭제</string>
+    <string name="cb_menu_edit">수정</string>
+    <string name="cb_menu_tile">채널 운영</string>
+    <string name="cell_broadcast_setting">셀 브로드캐스트 설정</string>
+    <string name="channel_list">채널 목록</string>
+    <string name="done_text">Done</string>
+    <string name="enable_alert_tone_summary">알림 경고음 활성화</string>
+    <string name="enable_alert_tone_title">알림 경고음</string>
+    <string name="enable_channel_60_alerts_summary">인도에서는 채널 60이 활성화되어 있어야 합니다.</string>
+    <string name="enable_channel_60_alerts_title">채널 60 브로드캐스트 보기</string>
+    <string name="enable_cmas_presidential_alerts_summary">대통령령 알림 항상 보기</string>
+    <string name="enable_cmas_presidential_alerts_title">대통령령 알림 보기</string>
+    <string name="error_finish_dialog_title">네트워크 / SIM 카드 오류.</string>
+    <string name="receive_broad_cast">셀 브로드캐스트 알림을 문자로 받기</string>
+    <string name="tw_alert_message">경고 메세지</string>
+    <string name="tw_emergency_alert">긴급 경고</string>
+    <string name="tw_required_monthly_test">월 정기 테스트 설정</string>
+    <string name="updating_title">전화 설정</string>
 </resources>
 
