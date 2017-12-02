@@ -152,4 +152,5 @@
     <string name="head_set_tip_dialog_msg">상세 설정으로 소리를 녹음하려면 이어폰 연결을 해제하십시오. (e.g., 음악, 목소리).</string>
     <string name="head_set_tip_dialog_ok">알겠습니다</string>
     <string name="rename_fail_tip">이름 변경 실패, 같은 이름을 가진 항목이 있습니다.</string>
+    <string name="cloud_service_state_open_reminder">Mi Cloud 동기화를 켜서 녹음 파일을 동기화하세요.</string>
 </resources>
