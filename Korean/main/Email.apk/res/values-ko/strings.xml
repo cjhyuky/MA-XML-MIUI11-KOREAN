@@ -1016,4 +1016,6 @@
     <string name="redo">다시 실행</string>
     <string name="notification_hidden_text">알림이 숨겨져 있습니다</string>
     <string name="wifi_no_internet">인터넷에 연결할 수 없습니다.</string>
+    <string name="auto_mail_window_label">139 메일함 자동 설정</string>
+    <string name="config">139 메일함 전화번호 설정</string>
 </resources>
