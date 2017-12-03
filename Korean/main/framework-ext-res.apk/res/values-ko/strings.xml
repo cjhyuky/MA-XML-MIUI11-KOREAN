@@ -170,4 +170,5 @@
     <string name="switching_tv">전환중…</string>
     <string name="switch_desc_tv">두개의 공간. 하나의 기기.</string>
     <string name="switch_brand_desc_tv">보안 서비스 제공 : Graphite</string>
+    <string name="autofill">자동채우기</string>
 </resources>
