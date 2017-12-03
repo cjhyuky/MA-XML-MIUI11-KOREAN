@@ -21,4 +21,10 @@
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="search_menu_title">검색</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="app_name">하이브리드 액세서리</string>
+    <string name="short_cut_dialog_cancel_button_text">아니오</string>
+    <string name="short_cut_dialog_cotent">다음 앱은 설치 과정 없이도 사용될 수 있습니다. 단축키를 사용하시겠습니까?</string>
+    <string name="short_cut_dialog_create_button_text">네</string>
+    <string name="short_cut_dialog_not_tip_check_box">"2주 내에 다시 알리지 않기"</string>
+    <string name="short_cut_dialog_title">단축키 생성</string>
 </resources>
