@@ -812,4 +812,15 @@
     <string name="instruction_pre_pad">터치하여 FTP 서버 시작</string>
     <string name="homepage_tab_file_view_phone">저장소</string>
     <string name="cannot_send">외부 저장소에서 파일 전송 실패</string>
+    <string name="path_download">다운로드 관리</string>
+    <string name="path_hot_sticker">인기있는 스티커</string>
+    <string name="path_hot_video">인기 비디오를 무료로 시청하세요.</string>
+    <string name="path_kuai_chuan">파일 전송</string>
+    <string name="path_recent_file">기기에서 파일을 관리하세요</string>
+    <string name="rename_alert2">파일명이 변경됩니다..</string>
+    <string name="search_download">다운로드;최근 다운로드</string>
+    <string name="search_hot_sticker">스티커; 스티커 다운로드</string>
+    <string name="search_hot_video">인기 비디오;비디오 업로드;영상 업로드;짧은 영상;짧은 비디오</string>
+    <string name="search_kuai_chuan">미 드롭;전송</string>
+    <string name="search_recent_file">파일 탐색기;탐색기;파일;파일들;파일 관리;파일 매니저</string>
 </resources>
