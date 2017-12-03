@@ -916,7 +916,7 @@
   <string name="pwa_app_name">웹 앱</string>
   <string name="qr_description">QR 코드 스캔</string>
   <string name="quicklink_folder_text">상위 앱</string>
-  <string name="quicklink_push_confirm_message">"Your feed won't receive updates after you turn this feature off. Turn off now?"</string>
+  <string name="quicklink_push_confirm_message">"이 기능을 끄시면 더이상 업데이트 소식을 받지 않습니다. 끄시겠습니까?"</string>
   <string name="refuse_permissions_request">제한</string>
   <string name="scanner_uninstalled_text">계속하려면 스캐너를 설치하세요</string>
   <string name="scanner_uninstalled_title">스캐너 삭제됨</string>
