@@ -320,4 +320,7 @@
     <string name="select_system_app_tag">태그 선택</string>
     <string name="time_in_justnow">방금 전</string>
     <string name="toast_log_too_large">"파일이 너무 커서 업로드할 수 없습니다."</string>
+    <string name="feedback_delete_images">삭제한 이미지</string>
+    <string name="feedback_jira_key">JIRA 키: %s</string>
+    <string name="feedback_submit_hint_gone">닫은 메세지</string>
 </resources>
