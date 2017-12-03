@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Xiaomi SIM 활성화 서비스</string>
+    <string name="app_name">샤오미 SIM 활성화 서비스</string>
     <string name="accept">확인</string>
     <string name="explain_send_sms_permission_title">전화번호 인증</string>
-    <string name="explain_send_sms_permission_msg">%s을(를) 켜기 위해 Xiaomi 서비스 프레임워크가 귀하의 전화번호 인증 SMS를 발송합니다. SMS 비용은 귀하가 사용하시는 통신사의 요금제에 따라 다르게 부과됩니다.</string>
+    <string name="explain_send_sms_permission_msg">%s 항목을 켜기 위해 Xiaomi 서비스 프레임워크가 귀하의 전화번호 인증 SMS를 발송합니다. SMS 비용은 귀하가 사용하시는 통신사의 요금제에 따라 다르게 부과됩니다.</string>
     <string name="explain_send_sms_permission_button">인증</string>
     <string name="activate_phone_failed_notif_title">SIM 카드를 활성화할 수 없습니다.</string>
-    <string name="activate_phone_failed_notif_title_msim">"Can't activate SIM card %d"</string>
+    <string name="activate_phone_failed_notif_title_msim">"%d SIM카드를 활성화 할 수 없습니다"</string>
     <string name="activate_phone_success_notif_title">SIM 카드 활성화됨</string>
-    <string name="activate_phone_success_notif_title_msim">SIM card %d activated</string>
+    <string name="activate_phone_success_notif_title_msim">%d SIM 카드 활성화됨</string>
     <string name="activate_phone_cancel_notif_title">SIM 카드 활성화 취소됨</string>
-    <string name="activate_phone_cancel_notif_title_msim">SIM card %d activation cancelled</string>
+    <string name="activate_phone_cancel_notif_title_msim">%d SIM 카드 인증 취소됨</string>
     <string name="activate_status_title_activating">SIM 카드 활성화 중…</string>
-    <string name="activate_status_title_activating_msim">Activating SIM card %d…</string>
+    <string name="activate_status_title_activating_msim">%d SIM 카드 활성화 중…</string>
     <string name="activate_auto_sms_notification_title">SIM 카드 활성화</string>
     <string name="activate_auto_sms_notification_desc_2_cards">\"기기 찾기\"를 활성화시키기 위해 SIM 카드 %s로부터 SMS가 발송되었습니다</string>
     <string name="activate_auto_sms_notification_desc_1_card">\"기기 찾기\" 활성화를 위한 SMS 발송됨</string>
@@ -45,20 +45,20 @@
     <string name="sim_unactivated_title">SIM 카드가 활성화되지 않습니다.</string>
     <string name="activate">활성화</string>
     <string name="activate_popup_title_manual">%s 활성화</string>
-    <string name="activate_popup_desc_sim_card">일반 문자 메시지가 %s을(를) 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
-    <string name="activate_popup_desc_intl_sim_card">국제 문자 메시지가 %s을(를) 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
-    <string name="activate_popup_desc_mixed_sim_cards">2개의 문자 메시지(일반 혹은 국제)가 %s을(를) 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
-    <string name="activate_popup_desc_2_sim_cards">2개의 일반 문자 메시지가 %s을(를) 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
-    <string name="activate_popup_desc_2_intl_sim_cards">2개의 국제 문자 메시지가 %s을(를) 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
-    <string name="activate_popup_desc_sim_card_downlink">현재 전화번호를 입력해서 %s을(를) 활성화하십시오.</string>
+    <string name="activate_popup_desc_sim_card">일반 문자 메시지가 %s 항목을 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
+    <string name="activate_popup_desc_intl_sim_card">국제 문자 메시지가 %s 항목을 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
+    <string name="activate_popup_desc_mixed_sim_cards">2개의 문자 메시지(일반 혹은 국제)가 %s 항목을 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
+    <string name="activate_popup_desc_2_sim_cards">2개의 일반 문자 메시지가 %s 항목을 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards">2개의 국제 문자 메시지가 %s 항목을 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
+    <string name="activate_popup_desc_sim_card_downlink">현재 전화번호를 입력해서 %s 항목을 활성화하십시오.</string>
     <string name="activate_popup_desc_find_device_postfix">SIM 카드를 바꾸신 후 활성화 메시지가 전송 될 것 입니다.</string>
     <string name="activate_popup_title_new_sim_card">%s 재활성화</string>
-    <string name="activate_popup_desc_new_sim_card">SIM 카드가 변경 된 것 같습니다. 일반 문자 메시지가 %s을(를) 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
-    <string name="activate_popup_desc_new_intl_sim_card">SIM 카드가 변경 된 것 같습니다. 국제 문자 메시지가 %s을(를) 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
-    <string name="activate_popup_desc_new_mixed_sim_cards">SIM 카드가 변경 된 것 같습니다. 2개의 문자 메시지(일반 혹은 국제) 가 %s을(를) 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
+    <string name="activate_popup_desc_new_sim_card">SIM 카드가 변경 된 것 같습니다. 일반 문자 메시지가 %s 항목을 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
+    <string name="activate_popup_desc_new_intl_sim_card">SIM 카드가 변경 된 것 같습니다. 국제 문자 메시지가 %s 항목을 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
+    <string name="activate_popup_desc_new_mixed_sim_cards">SIM 카드가 변경 된 것 같습니다. 2개의 문자 메시지(일반 혹은 국제) 가 %s 항목을 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
     <string name="activate_popup_desc_new_2_sim_cards">SIM 카드가 변경 된 것 같습니다. 2개의 일반 문자 메시지가 %s(을) 를 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
-    <string name="activate_popup_desc_new_2_intl_sim_cards">SIM 카드가 변경 된 것 같습니다. 2개의 국제 문자 메시지가 %s을(를) 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
-    <string name="activate_popup_desc_new_sim_card_downlink">SIM 카드가 변경 된 것 같습니다. 현재 전화번호를 입력해서 %s을(를) 활성화 하십시오.</string>
+    <string name="activate_popup_desc_new_2_intl_sim_cards">SIM 카드가 변경 된 것 같습니다. 2개의 국제 문자 메시지가 %s 항목을 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
+    <string name="activate_popup_desc_new_sim_card_downlink">SIM 카드가 변경 된 것 같습니다. 현재 전화번호를 입력해서 %s 항목을 활성화 하십시오.</string>
     <string name="activate_popup_desc_voip_privacy_prefix">VolP 서비스는 Weihui에서 지원됩니다. Weihui 보기</string>
     <string name="activate_popup_desc_voip_privacy">개인정보 보호정책</string>
     <string name="activate_popup_title_register_account">Mi 계정 생성</string>
@@ -82,11 +82,11 @@
     <string name="activate_popup_confirm_failed_phone_error">다시 시도하십시오</string>
     <string name="activate_popup_title_all_gateway_failed_send_sms">텍스트 메시지 전송 실패</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"활성화 메시지를 전송하지 못했습니다. SIM 카드가 활성화 되었는지 확인하십시오.
-새 SIM 카드와 연관된 전화번호를 입력하여 %s을(를) 재활성화하십시오."</string>
+새 SIM 카드와 연관된 전화번호를 입력하여 %s 항목을 재활성화하십시오."</string>
     <string name="activate_popup_confirm_all_gateway_failed_send_sms">다시 시도</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">번호를 찾을 수 없습니다.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"전화번호를 찾을 수 없습니다. SIM 카드가 활성화 되었는지 확인하십시오.
-%s을(를) 활성화할 새 SIM 카드와 연관된 전화번호를 입력하주십시오."</string>
+%s 항목을 활성화할 새 SIM 카드와 연관된 전화번호를 입력하주십시오."</string>
     <string name="activate_popup_confirm_all_gateway_failed_query_info">다시 시도</string>
     <string name="activate_popup_title_error_device_id">잘못된 IMEI</string>
     <string name="activate_popup_desc_error_device_id">IMEI를 확인하시려면 다이얼 *#06#를 입력하십시오.</string>
@@ -108,12 +108,12 @@
     <string name="activate_history_multisim_success_overview">SIM 카드 %2$d 활성화 성공. 활성화가 %1$s\"에 의해 실행됨.</string>
     <string name="activate_history_multisim_canceled_overview">SIM 카드 %2$d 활성화가 취소되었습니다. 활성화가 %1$s\"에 의해 실행됨.</string>
     <string name="activate_history_sms">SMS가 활성화하는 동안 전송되었습니다.</string>
-    <string name="phone_verify_title">Agree %1$s to verify your phone number</string>
-    <string name="phone_verify_text">%1$s will not get your phone number，just verify your phone number is match。</string>
-    <string name="phone_verify_processing">verifying…</string>
-    <string name="phone_get_title">Agree %1$s to get your phone number</string>
-    <string name="phone_get_text">Do you agree %1$s to get your phone number：%2$s</string>
-    <string name="phone_get_processing">getting…</string>
-    <string name="agree">Agree</string>
+    <string name="phone_verify_title">%1$s 통신사에 동의하여 전화번호를 인증하십시오</string>
+    <string name="phone_verify_text">%1$s 통신사가 이 전화번호를 받지 못합니다. 전화번호가 맞는지 확인하십시오.</string>
+    <string name="phone_verify_processing">인증중…</string>
+    <string name="phone_get_title">%1$s 통신사에 동의하여 전화번호 받기</string>
+    <string name="phone_get_text">%1$s 통신사에 동의하여 이 번호를 받으시겠습니까：%2$s</string>
+    <string name="phone_get_processing">전화번호 받는중…</string>
+    <string name="agree">동의</string>
     <string name="activate_sms_postfix">이 SIM 카드가 미 서비스를 활성화하는데 사용됩니다.</string>
 </resources>
