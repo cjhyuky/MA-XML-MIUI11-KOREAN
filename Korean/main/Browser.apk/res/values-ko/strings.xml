@@ -1018,5 +1018,12 @@
   <string name="miuichromium_error_page_suggestion_contact_admin">시스템 관리자에게 연락하세요</string>
   <string name="miuichromium_error_page_suggestion_correct_url">"입력하신 URL이 올바른지 확안"</string>
   <string name="miuichromium_error_page_suggestion_grant_permission">새로고침</string>
-  <string name="miuichromium_error_page_suggestion_title">다음을 시도해보세요:</string>
+  <string name="miuichromium_error_page_suggestion_title">다음을 시도해보세요:</string
+  <string name="miuichromium_error_page_suggestion_check_mobile_proxy">(Mobile data) %s1APN 설정%s2을 초기화하세요.</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) %s1프록시 설정%s2을 확인하세요.</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache">캐쉬 삭제 (%s1설정%s2 - 데이터 초기화).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies">쿠키와 캐쉬 데이터를 초기화하세요. (%s1설정%s2 - 로그인 계정 정보가 삭제될 수 있습니다).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">쿠키와 캐쉬 데이터를 초기화하세요. (로그인 계정 정보가 삭제될 수 있습니다)</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">캐쉬 데이터를 초기화하세요.</string>
+  <string name="reply_comment_title">Re: %s</string>
 </resources>
