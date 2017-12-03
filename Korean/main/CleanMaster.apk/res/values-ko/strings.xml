@@ -477,4 +477,20 @@
     <string name="search_history">검색 기록</string>
     <string name="sms">문자 메시지</string>
     <string name="app_name">화면 녹화기</string>
+    <string name="browser_scan_history_desc">검색 기록</string>
+    <string name="browser_search_history_desc">검색된 내용</string>
+    <string name="call_log">전화 기록</string>
+    <string name="cd_back">뒤로가기</string>
+    <string name="cd_check_box_checked">확인됨</string>
+    <string name="cd_check_box_middle">일부 선택됨</string>
+    <string name="cd_check_box_unchecked">선택되지 않음</string>
+    <string name="cd_list_item_collapse">접음</string>
+    <string name="cd_list_item_expanded">펼침</string>
+    <string name="cd_percent">퍼센트</string>
+    <string name="cd_settings">설정</string>
+    <string name="cd_sort_type">정렬 방식</string>
+    <string name="clip_board_history_desc">복사된 컨텐츠</string>
+    <string name="clipboard">클립보드</string>
+    <string name="phone_search">구글 검색</string>
+    <string name="privacy_appdata_chrome_history_des">방문한 웹사이트</string>
 </resources>
