@@ -130,4 +130,9 @@
   <string name="xiaomi_drive_description_title">미 드라이브에 대해서</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yesterday">어제</string>
+  <string name="drive_low_memory_description_content">기 내장 저장소가 부족합니다.</string>
+  <string name="drive_low_memory_description_title">사용 가능 메모리 낮음 경고</string>
+  <string name="drive_low_memory_description_toast">기기 내장 저장소가 부족합니다. 미 드라이브에 백업한 후 정리해주세요.</string>
+  <string name="drive_low_memory_positive_content">정리하기</string>
+  <string name="source_file_missing">파일이 없습니다.</string>
 </resources>
