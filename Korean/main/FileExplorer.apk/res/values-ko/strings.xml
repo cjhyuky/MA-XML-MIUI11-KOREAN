@@ -208,7 +208,6 @@
     <string name="port_range">포트는 1024–65535 사이에 있어야 합니다.</string>
     <string name="file_name_invalid">"파일 이름엔 /\\:*?&lt;>와 같은 문자가 포함되어서는 안'됩니다."</string>
     <string name="rename_alert">이 파일의 확장명을 변경하면 이 파일을 열지 못할 수도 있습니다.</string>
-    <string name="rename_alert2">如果修改后缀名，文件将可能无法打开。</string>
     <string name="search_file_type_picture">사진</string>
     <string name="search_file_type_video">동영상</string>
     <string name="search_file_type_music">음악</string>
