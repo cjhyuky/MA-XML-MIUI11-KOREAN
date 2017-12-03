@@ -53,9 +53,9 @@
     <string name="adding_or_updating_account">계정 업데이트 중…</string>
     <string name="unlocking">활성화 중…</string>
     <string name="unlock">활성화</string>
-    <string name="verify_password_failed">Mi 계정ID. %s을(를) 인증하지 못하였습니다.</string>
+    <string name="verify_password_failed">Mi 계정 %s ID를 인증하지 못하였습니다.</string>
     <string name="login_failed">로그인할 수 없습니다. %s.</string>
-    <string name="change_find_device_status_failed">%s을(를) 잠금 해제하지 못하였습니다.</string>
+    <string name="change_find_device_status_failed">%s 기기를 잠금 해제하지 못하였습니다.</string>
     <string name="unlock_help_title">잠금 해제 도움말:</string>
     <string name="unlock_help">"네트워크 연결을 유지하십시오
  정상 작동되는 SIM 카드를 설치하셨는지 기기가 유효하지 않은 Wi-Fi와 연결되어있는지 확인해 주십시오
