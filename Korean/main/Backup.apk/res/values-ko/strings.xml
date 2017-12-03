@@ -478,4 +478,6 @@
     <string name="user_name">Apple ID 또는 이메일 주소</string>
     <string name="user_name_null">"ID를 입력하세요."</string>
     <string name="view_password_description">비밀번호 표시</string>
+    <string name="trans_wlan_tips_message">"데이터 전송중 Wi-Fi를 끄거나 변경하지 마세요. 미 무버가 정상적으로 작동하지 않을 수 있습니다."</string>
+    <string name="trans_wlan_tips_title">"Wi-Fi를 끄지 마세요."</string>
 </resources>
