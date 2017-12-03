@@ -555,4 +555,24 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_dialog_sync_now_message">추가적인 모바일 데이터 요금 부과를 방지하려면 Wi-Fi에 연결하십시오.</string>
     <string name="micloud_dialog_sync_now_negative">나중에</string>
     <string name="micloud_dialog_sync_now_positive">모바일 데이터 사용</string>
+    <string name="confirm_delete">삭제</string>
+    <string name="confirm_save">보관</string>
+    <string name="ks_certificate_udpate_time">증명서 업데이트</string>
+    <string name="ks_certificate_version">증명서 번호</string>
+    <string name="ks_download_certificate">증명서 다운로드</string>
+    <string name="ks_download_success">성공적으로 다운로드됨</string>
+    <string name="ks_fingerprint_payment">지문을 이용한 결제</string>
+    <string name="ks_fingerprint_status">결제 상태</string>
+    <string name="ks_status_available">가능</string>
+    <string name="ks_status_unavailable">불가능</string>
+    <string name="ks_update_certificate">증명서</string>
+    <string name="ks_update_fail">"다운로드할 수 없음"</string>
+    <string name="ks_update_fail_code">"증명서를 다운로드할 수 없습니다. 에러 코드 : %d"</string>
+    <string name="ks_update_fail_no_network">"네트워크에 연결할 수 없습니다. 인터넷에 연결하고 다시 시도하세요."</string>
+    <string name="ks_update_fail_request_timeout">시간 초과입니다. 몇분 후에 다시 시도하세요.</string>
+    <string name="ks_update_success">성공적으로 업데이트됨</string>
+    <string name="ks_update_wait">잠시만 기다려주세요...</string>
+    <string name="secret_photo">숨김처리된 사진들</string>
+    <string name="sync_dspt_entrance_provision_network">이 앱이 정상적으로 작동되기 위해서는 인터넷 연결이 필요합니다.</string>
+    <string name="wipe_secret_photo_dialog_title">"숨김처리된 사진들은 동기화되지 않았습니다"</string>
 </resources>
