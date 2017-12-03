@@ -185,7 +185,7 @@
     <string name="activity_title_cache_data">앱 데이터</string>
     <string name="deepclean_cache_header_left">데이터 파일: %d</string>
     <string name="notification_title_of_garbage_cleanup">쓰레기 크기</string>
-    <string name="notification_summary_of_garbage_cleanup">쓰레기가 %s을(를) 초과하였습니다.</string>
+    <string name="notification_summary_of_garbage_cleanup">쓰레기가 %s 쌓였습니다.</string>
     <string name="notification_summary_after_auto_cleanup">%s 청소됨</string>
     <string name="toast_uninstall_success">설치 제거 완료</string>
     <string name="toast_app_no_residual_on_sdcard">앱은 SD 카드에 어떤 파일도 저장하지 않습니다.</string>
