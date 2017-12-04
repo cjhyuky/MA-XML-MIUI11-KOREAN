@@ -210,12 +210,6 @@
     <string name="no_vote_ratio">반대 %1$s%%</string>
     <string name="already_voted">투표됨</string>
     <string name="already_voted_toast">오늘 이미 투표하였습니다</string>
-    <string name="radar_cloud_image_title">雷达降水图</string>
-    <string name="precipitation_degree_one">无</string>
-    <string name="precipitation_degree_two">小</string>
-    <string name="precipitation_degree_three">中</string>
-    <string name="precipitation_degree_four">大</string>
-    <string name="precipitation_degree_five">暴</string>
     <string name="menu_minute_rain">2시간 일기예보</string>
     <string name="minute_rain_now">지금</string>
     <string name="minute_rain_after_an_hour">1시간 후</string>
@@ -270,7 +264,6 @@
     <string name="precipitation_degree_two">약</string>
     <string name="pull_fresh_updated">업데이트됨</string>
     <string name="pull_fresh_updating">업데이트중…</string>
-    <string name="radar_cloud_image_title">레이더 지도</string>
     <string name="real_time_sunrise">일출 : %1$s</string>
     <string name="real_time_sunset">일몰 : %1$s</string>
 </resources>
