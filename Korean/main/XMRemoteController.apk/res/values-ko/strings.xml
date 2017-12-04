@@ -857,7 +857,6 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_message_dialog_title">SMS 인증 코드</string>
     <string name="passport_getting_verify_code">가져오는 중</string>
     <string name="passport_privacy_policy">개인 정보 보호 정책</string>
-    <string name="passport_user_agreement_p4">개인 정보 보호 정책</string>
     <string name="passport_skip_login">건너뛰기</string>
     <string name="passport_error_empty_username">계정 ID를 입력하십시오</string>
     <string name="passport_reging">계정 만드는 중…</string>
