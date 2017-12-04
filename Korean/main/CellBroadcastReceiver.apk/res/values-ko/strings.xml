@@ -137,5 +137,6 @@
     <string name="tw_emergency_alert">긴급 경고</string>
     <string name="tw_required_monthly_test">월 정기 테스트 설정</string>
     <string name="updating_title">전화 설정</string>
+    <string name="done_text">마침</string>
 </resources>
 
