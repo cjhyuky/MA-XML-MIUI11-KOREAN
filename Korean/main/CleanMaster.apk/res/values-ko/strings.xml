@@ -493,4 +493,5 @@
     <string name="clipboard">클립보드</string>
     <string name="phone_search">구글 검색</string>
     <string name="privacy_appdata_chrome_history_des">방문한 웹사이트</string>
+    <string name="name_debuglog_dir">Bsp 디버그 로그</string>
 </resources>
