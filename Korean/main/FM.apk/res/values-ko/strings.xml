@@ -66,4 +66,5 @@
     <string name="using_recorder_confirm">허용</string>
     <string name="using_recorder_cancel">거절</string>
     <string name="runtime_permission_ungranted">권한이 부족하여 녹음을 시작할 수 없습니다.</string>
+    <string name="toast_fm_seeking">튜닝중…</string>
 </resources>
