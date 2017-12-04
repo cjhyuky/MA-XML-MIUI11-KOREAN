@@ -1916,7 +1916,7 @@
     <string name="callFailed_invalid_transaction_identifier">실패</string>
     <string name="callFailed_invalid_transit_NW_selection">연결 실패</string>
     <string name="callFailed_resources_unavailable_or_unspecified">리소스 사용 불가능</string>
-    <string name="password">비밀번호/string>
+    <string name="password">비밀번호</string>
     <string name="power_charging_duration_ac">AC로 완전 충전까지 %1$s - %2$s 소요</string>
     <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">선호하는 네트워크 : TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
 </resources>
