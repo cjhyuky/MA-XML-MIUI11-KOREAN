@@ -575,4 +575,12 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="secret_photo">숨김처리된 사진들</string>
     <string name="sync_dspt_entrance_provision_network">이 앱이 정상적으로 작동되기 위해서는 인터넷 연결이 필요합니다.</string>
     <string name="wipe_secret_photo_dialog_title">"숨김처리된 사진들은 동기화되지 않았습니다"</string>
+    <string name="apple_10gb">10GB</string>
+    <string name="apple_cloud">아이클라우드</string>
+    <string name="apple_cloud_eng">아이클라우드</string>
+    <string name="google_100gb">100GB</string>
+    <string name="micloud_detail_not_syncable">"동기화할수 없습니다."</string>
+    <string name="micloud_main_button_set_internet">설정</string>
+    <string name="micloud_main_query_again">다른 요청 전송</string>
+    <string name="micloud_main_space_full_message">더 큰 저장소를 미 클라우드에서 구매하세요.</string>
 </resources>
