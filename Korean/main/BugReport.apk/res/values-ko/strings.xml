@@ -192,7 +192,6 @@
     <string name="tab_title_my_reports">내 보고서</string>
     <string name="nothing">--</string>
     <string name="feedback_id">ID: %d</string>
-    <string name="feedback_jira_key">JIRA Key: %s</string>
     <string name="feedback_collect_log_failed">로그를 가져올 수 없음</string>
     <string name="feedback_package_log_failed">로그를 압축할 수 없음</string>
     <string name="submit_feedback_info_failed">보고서를 전송하지 못했습니다.</string>
@@ -210,7 +209,6 @@
     <string name="feedback_title">제목</string>
     <string name="feedback_description">설명</string>
     <string name="feedback_select_images">이미지 추가</string>
-    <string name="feedback_delete_images">Delete images</string>
     <string name="feedback_select_upload_log">로그 추가</string>
     <string name="feedback_select_modem_log">모뎀 로그 추가</string>
     <string name="feedback_select_suggestion">제안</string>
@@ -295,7 +293,6 @@
     <string name="module_search">검색</string>
     <string name="module_google_apps">구글 앱</string>
     <string name="feedback_submit_hint">빠른 해결을 위해 문제가 발생할 때 마다 버그를 보고합니다</string>
-    <string name="feedback_submit_hint_gone">Closed message</string>
     <string name="toast_post_deleted">이 토픽은 존재하지 않습니다. 삭제되었거나 수정되었습니다.</string>
     <string name="toast_log_not_exists">요청된 로그는 삭제되었거나 존재하지 않습니다</string>
     <string name="toast_pic_not_exists">캐시된 이미지가 삭제되었습니다</string>

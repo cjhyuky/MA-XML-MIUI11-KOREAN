@@ -72,8 +72,7 @@
     <string name="auto_backup">정기 백업 예약</string>
     <string name="contact_title">연락처</string>
     <string name="call_title">통화 기록</string>
-    <string name="sms_title">메시지 전송</string>
-    <string name="mms_title">MMS</string>
+    <string name="sms_title">메시지 전송</string>	
     <string name="wifi_title">Wi-Fi 설정</string>
     <string name="note_title">메모</string>
     <string name="compute_backup_info">백업 정보 받는 중…</string>
@@ -263,7 +262,6 @@
     <string name="custom_progress">%d개 항목</string>
     <string name="remote_receive">수신</string>
     <string name="click_to_view">탭하여 보기</string>
-    <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_main_tutor">주소록, 전화 기록, 메시지, 홈 스크린 배열, 앱, 설정 등을 새 기기로 이동하십시오.</string>
     <string name="trans_sender">이전 기기</string>
     <string name="trans_receiver">새로운 기기</string>

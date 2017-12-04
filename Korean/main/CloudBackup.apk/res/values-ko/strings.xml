@@ -131,7 +131,6 @@
     <string name="authentication_failed">"계정을 확인할 수 없습니다."</string>
     <string name="backup_fail_wifi_needed">"백업할 수 없습니다. Wi-Fi 연결이 필요합니다."</string>
     <string name="cancel_restore_home">취소중…</string>
-    <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
     <string name="cloud_backup">미 클라우드 백업</string>
     <string name="cloud_backup_detail_title">홈 화면, 앱, 그리고 설정.</string>
     <string name="cloud_backup_in_cancel">취소</string>
@@ -140,7 +139,6 @@
     <string name="confirm_cancel_restore_negative">취소</string>
     <string name="confirm_cancel_restore_positive">계속</string>
     <string name="confirm_cancel_restore_title">백업을 취소하시겠습니까?</string>
-    <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
     <string name="desktop_failed">실패함</string>
     <string name="dialog_cancel_backup_cancel">취소</string>
     <string name="dialog_cancel_backup_confirm">네</string>

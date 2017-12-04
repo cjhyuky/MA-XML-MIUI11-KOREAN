@@ -24,7 +24,6 @@
     <string name="enable_wifi_title">Wi-Fi 켜기</string>
     <string name="enable_wifi_message">Wi-Fi를 켜서 근처의 기기 검색 및 연결</string>
     <string name="enable_wifi_btn">켜기</string>
-    <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
     <string name="wifi_display_wps_config">WPS 구성 정보</string>
     <string name="wifi_display_listen_mode">듣기 모드 활성화</string>
     <string name="wifi_display_session_info">세션 정보</string>

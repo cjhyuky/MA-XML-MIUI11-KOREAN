@@ -49,7 +49,6 @@
     <string name="toast_added_to_list">목록에 추가됨</string>
     <string name="toast_removed_from_presets">미리 설정에서 제거됨</string>
     <string name="toast_fm_starting">시작 중…</string>
-    <string name="toast_fm_seeking">Tuning…</string>
     <string name="station_check_favorite">미리 설정에 추가</string>
     <string name="toast_fm_recorder_internal_error">FM 녹음 오류</string>
     <string name="toast_fm_recorder_storage_full">녹음을 계속할 수 없음. 남은 공간 없음.</string>

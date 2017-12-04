@@ -271,7 +271,6 @@
     <string name="toast_select_white_need_remove">제거할 항목 선택</string>
     <string name="network_not_available">네크워크에 연결할 수 없습니다.</string>
     <string name="no_network_btn">다시 시도</string>
-    <string name="name_debuglog_dir">Bsp Debug Log</string>
     <string name="just_now">지금</string>
     <string name="yesterday">어제</string>
     <string name="month_day_format">MM월dd일</string>

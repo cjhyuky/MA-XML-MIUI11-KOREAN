@@ -265,7 +265,6 @@
     <string name="micloud_main_space_low">공간이 거의 다 찼습니다.</string>
     <string name="micloud_main_update_space">더 많은 저장 공간을 확보하십시오.</string>
     <string name="micloud_main_space_full_title">충분한 저장 공간이 남아있지 않습니다. 동기화가 일시중단됨</string>
-    <string name="micloud_main_space_full_message">Upgrade to member will obtain more storage space</string>
     <string name="micloud_main_memory_low_title">휴대전화의 내부 저장소가 가득 찼습니다.</string>
     <string name="micloud_main_memory_low_message">동기화 하기 위하여 클라우드의 내용을 삭제해주시오</string>
     <string name="micloud_main_clear_now">제거</string>
@@ -275,14 +274,12 @@
     <string name="micloud_main_multi_user_error_message">"기본 공간과 보조 공간의 계정이 같으면 Mi 클라우드 오류가 발생할 수 있습니다.
 보조 공간에 기타 Mi 계정을 사용해주십시오."</string>
     <string name="micloud_main_cancel_sync">동기화 취소</string>
-    <string name="micloud_main_query_again">Query</string>
     <string name="micloud_main_wait_wlan">Wi-Fi를 기다리는 중</string>
     <string name="micloud_main_wait_wlan_charge_sleep">충전기를 연결하고 Wi-Fi 연결과 화면 꺼짐을 기다리는 중</string>
     <string name="micloud_main_wait_wlan_charge">충전기를 연결하고 Wi-Fi 연결을 기다리는 중</string>
 	<string name="micloud_main_wait_charge_sleep">충전기를 연결하고 화면 끄기를 기다리는 중</string>
     <string name="micloud_main_wait_charge">충전기를 연결하기를 기다리는 중</string>
     <string name="micloud_main_resume_sync_soon">곧 동기화 계속</string>
-    <string name="micloud_main_button_set_internet">Setting</string>
     <string name="micloud_main_button_activate">활성화</string>
     <string name="micloud_main_button_authorize">권한 부여</string>
     <string name="micloud_detail_syncing">동기화 중</string>
@@ -291,7 +288,6 @@
     <string name="micloud_detail_pending">대기 중</string>
     <string name="micloud_detail_success">동기화됨</string>
     <string name="micloud_detail_fail">동기화할 수 없습니다.</string>
-    <string name="micloud_detail_not_syncable">Not syncable</string>
     <string name="micloud_detail_lastest">동기화됨</string>
     <string name="micloud_detail_lastest_with_off">동기화 됨</string>
     <string name="micloud_detail_not_synced">동기화되지 않음</string>
@@ -331,13 +327,10 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="more_activity_in_upgrade_space"><a href="http://i.mi.com">http://i.mi.com</a>에서 더 알아보기</string>
     <string name="success_upgraded_space">%s 추가됨</string>
     <string name="total_space_upgraded_to">총 공간:%s</string>
-    <string name="apple_cloud">iCloud</string>
     <string name="google_cloud">구글 드라이브</string>
     <string name="microsoft_cloud">MS 클라우드 서비스</string>
-    <string name="apple_cloud_eng">iCloud</string>
     <string name="google_cloud_eng">구글 드라이브</string>
     <string name="microsoft_cloud_eng">원 드라이브</string>
-    <string name="apple_10gb">20GB</string>
     <string name="google_100gb">100GB</string>
     <string name="apple_cloud_price">1년에 RMB 72</string>
     <string name="google_cloud_price">1년에 RMB 143</string>
@@ -578,7 +571,6 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="apple_10gb">10GB</string>
     <string name="apple_cloud">아이클라우드</string>
     <string name="apple_cloud_eng">아이클라우드</string>
-    <string name="google_100gb">100GB</string>
     <string name="micloud_detail_not_syncable">"동기화할수 없습니다."</string>
     <string name="micloud_main_button_set_internet">설정</string>
     <string name="micloud_main_query_again">다른 요청 전송</string>
