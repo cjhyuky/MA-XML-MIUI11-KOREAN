@@ -53,4 +53,6 @@
     <string name="wifi_no_config">없음</string>
     <string name="wifi_tls_config_text">"클라이언트 증명서:%1$sKey: %2$s"</string>
     <string name="wifi_ttls_config_text">"사용자명: %s"</string>
+    <string name="wifi_sim_config_text">"SIM : %s"</string>
+    <string name="wifi_trust_config_text">"신뢰할 수 있는 인증서 : %s"</string>
 </resources>
