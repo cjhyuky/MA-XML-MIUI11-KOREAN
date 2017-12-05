@@ -1027,7 +1027,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="epg_comment_list_title">댓글 (%1$d)</string>
     <string name="passport_uplink_slot1_reg">SIM 1 사용</string>
     <string name="passport_uplink_slot2_reg">SIM 2 사용</string>
-    <string name="passport_user_agreement_p3"> & </string>
+    <string name="passport_user_agreement_p3">&</string>
     <string name="play_mi_video">모바일 기기에서 재생</string>
     <string name="play_tv_video">방송하기</string>
     <string name="share_score_share_no_install">"공유 실패"</string>
