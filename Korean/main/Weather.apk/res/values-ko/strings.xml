@@ -264,6 +264,6 @@
     <string name="precipitation_degree_two">약</string>
     <string name="pull_fresh_updated">업데이트됨</string>
     <string name="pull_fresh_updating">업데이트중…</string>
-    <string name="real_time_sunrise">일출 : %1$s</string>
-    <string name="real_time_sunset">일몰 : %1$s</string>
+    <string name="real_time_sunrise">일출시간 : %1$s</string>
+    <string name="real_time_sunset">일몰시간 : %1$s</string>
 </resources>
