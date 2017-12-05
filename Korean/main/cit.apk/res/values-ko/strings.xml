@@ -514,7 +514,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="cit_build_finger_failed">지문 데이터 빌드 실패</string>
   <string name="cit_build_finger_passed">b지문 데이터 빌드 통과</string>
   <string name="cit_dial_emergencycall">112에 신고하세요.</string>
-  <string name="cit_emergencycall_check_summary">'112에 신고하세요' 버튼을 눌러 긴급 전화 연결이 원활하게 되는지 확인하세요.</string>
+  <string name="cit_emergencycall_check_summary">112에 신고하세요 버튼을 눌러 긴급 전화 연결이 원활하게 되는지 확인하세요.</string>
   <string name="cit_emergencycall_check_title">긴급 전화</string>
   <string name="cit_external_sd_check_summary">이 테스트는 SD카드 상태를 확인합니다.</string>
   <string name="cit_external_sd_check_title">SD카드 테스트</string>
