@@ -605,10 +605,10 @@ EEEE"</string>
     <string name="tts_default_pitch_title">높낮이</string>
     <string name="tts_default_rate_summary">텍스트를 읽어주는 속도를 조절합니다</string>
     <string name="tts_default_rate_title">목소리 빠르기</string>
-    <string name="tts_default_sample_string">This is an example of speech synthesis</string>
-    <string name="tts_engine_network_required">This language requires a working network connection for text-to-speech output.</string>
-    <string name="tts_engine_preference_section_title">Preferred engine</string>
-    <string name="tts_engine_security_warning">This voice engine may be able to record and collect everything you say, including personal data like passwords and credit card numbers. This voice engine is provided by %s. Turn on voice engine?</string>
+    <string name="tts_default_sample_string">이것은 음성 합성의 예입니다</string>
+    <string name="tts_engine_network_required">이 언어는 TTS 출력을 위해 네트워크 연결이 필요합니다.</string>
+    <string name="tts_engine_preference_section_title">선호하는 엔진</string>
+    <string name="tts_engine_security_warning">이 음성 엔진은 당신이 말하는 모든 데이터(비밀번호, 카드번호, 등)를 기록하고 수집합니다. 이 음성 엔진은 %s 제공입니다. 음성 엔진을 켜시겠습니까?</string>
     <string name="tts_engine_settings_button">엔진 설정 실행</string>
     <string name="tts_engine_settings_title">%s 설정</string>
     <string name="tts_general_section_title">일반 설정</string>
