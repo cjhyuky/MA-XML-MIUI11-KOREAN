@@ -224,9 +224,9 @@
     <string name="preference_use_degress_summary">삼각함수에서 라디안을 각도로 대체합니다</string>
     <string name="preference_about_calculator">계산기 정보</string>
     <string name="preference_check_update_title">업데이트 확인</string>
-    <string name="preference_follow_us">팔로우 하기</string>
-    <string name="preference_follow_wechat_title">WeChat</string>
-    <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_follow_us">Mi 공식 계정</string>
+    <string name="preference_follow_wechat_title">위챗</string>
+    <string name="preference_follow_weibo_title">웨이보</string>
     <string name="preference_follow_web_title">공식 웹사이트</string>
     <string name="preference_alert_follow_wechat">팔로우를 위해 WeChat에 복사 후 붙여넣으세요</string>
     <string name="preference_alert_follow_qq_group">피드백하려면 QQ에 복사 후 붙여넣으세요</string>
