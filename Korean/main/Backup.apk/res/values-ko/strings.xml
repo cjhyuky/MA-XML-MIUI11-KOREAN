@@ -330,7 +330,6 @@
     <string name="trans_intro_question_6">"5. 왜 일부 앱들은 이동되지 않나요?"</string>
     <string name="trans_intro_question_7">"6. 왜 이전 디바이스의 앱들이 새로운 디바이스에서 실행되지 않나요?"</string>
     <string name="trans_intro_question_8">"7. 왜 위챗 채팅 기록들이 자동으로 전송되지 않나요?"</string>
-    <string name="trans_intro_question_9">"8. 어떠한 정보들이 이동될수 없나요?"</string>
     <string name="trans_intro_title">자주하는질문</string>
     <string name="trans_intro_title_account">계정 및 비밀번호:</string>
     <string name="trans_intro_title_multiapp">듀얼 앱 데이터:</string>
@@ -366,7 +365,6 @@
     <string name="trans_calculating_app_sd_size">크기 계산 중: %s</string>
     <string name="trans_please_waiting">잠시만 기다려주십시오…</string>
     <string name="size_byte">B</string>
-    <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_giga_byte">GB</string>
     <string name="trans_retry">재시도</string>
