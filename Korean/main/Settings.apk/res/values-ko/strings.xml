@@ -3670,7 +3670,7 @@ PIN 설정"</string>
     <string name="whetstone_level_reboot_OK">재시작</string>
     <string name="alpha_build">" | 알파"</string>
     <string name="developer_build">" | 개발자롬"</string>
-    <string name="stable_build">" | 안정적"</string>
+    <string name="stable_build">" | 안정화롬"</string>
     <string name="location_agps_params_settings_title">AGPS 설정</string>
     <string name="location_agps_supl_settings">SUPL 설정</string>
     <string name="location_agps_supl_server_addr">서버 주소</string>
@@ -4684,9 +4684,9 @@ PIN 설정"</string>
     <string name="filter_notif_sensitive_apps">잠금화면에 민감한 콘텐츠 배제하기</string>
     <string name="filter_notif_silent">무음으로 표시</string>
     <string name="filter_overlay_apps">권한을 가진 앱들만</string>
-    <string name="filter_personal_apps">개인적인 앱</string>
+    <string name="filter_personal_apps">원본 앱</string>
     <string name="filter_with_domain_urls_apps">도메인 URL 포함</string>
-    <string name="filter_work_apps">직장</string>
+    <string name="filter_work_apps">듀얼 앱</string>
     <string name="filter_write_settings_apps">시스템 설정을 변경할 수 없습니다.</string>
     <string name="fingerprint_add_max">지문은 최대 %d 개 까지 설정 가능합니다.</string>
     <string name="fingerprint_add_title">지문 추가</string>
