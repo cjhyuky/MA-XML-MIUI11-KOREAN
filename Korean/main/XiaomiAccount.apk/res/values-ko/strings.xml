@@ -447,4 +447,5 @@
     <string name="sign_in">로그인 중</string>
     <string name="update_phone_notice">보안 설정 변경</string>
     <string name="vip_settings_info">VIP 설정</string>
+    <string name="account_global_region">해외</string>
 </resources>
