@@ -430,4 +430,5 @@
     <string name="turn_on_online_antispam_title">전화번호 표시하기</string>
     <string name="turn_on_smart_antispam_summary">통화 기록 및 문자 메시지에서 알 수 없는 전화번호를 식별합니다.</string>
     <string name="send_shortcut_already_exists">홈 화면이 이미 존재합니다.</string>
+    <string name="mark_number_notification_title">수상한 전화번호 보고</string>
 </resources>
