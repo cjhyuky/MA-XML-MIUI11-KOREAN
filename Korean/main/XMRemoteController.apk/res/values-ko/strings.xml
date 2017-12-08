@@ -35,8 +35,8 @@
     <string name="add_control">IR 리모컨</string>
     <string name="add_control_frame">%1$s 리모컨 추가</string>
     <string name="add_device">기기 추가</string>
-    <string name="add_device_match_desc_bottom">    3. 연결을 확인하려면 %1$s를 선택하십시오. </string>
-    <string name="add_device_match_desc_center">    2. 버튼을 터치하십시오.</string>
+    <string name="add_device_match_desc_bottom">    3. 연결을 확인하려면 %1$s를 선택하십시오. </string>
+    <string name="add_device_match_desc_center">    2. 버튼을 터치하십시오.</string>
     <string name="add_device_match_desc_top">1. 귀하의 Mi 기기를 %1$s로 가리키십시오.</string>
     <string name="add_device_remote">%1$s 리모컨 추가</string>
     <string name="add_more">더 많은 IR 기기 추가</string>
@@ -391,8 +391,8 @@
     <string name="match_main_tip_frame_click">"%1$s에 리모컨을 가리키고 버튼을 누릅니다.
 %1$s이(가) 응답하는지 확인하십시오."</string>
     <string name="match_mibox_first">mi TV를 찾았습니다.</string>
-    <string name="match_mibox_sencond">    · 이 기기로 Mi TV를 제어하십시오.</string>
-    <string name="match_mibox_third">    · 다른 Mi 기기를 자동으로 추가합니다.</string>
+    <string name="match_mibox_sencond">    · 이 기기로 Mi TV를 제어하십시오.</string>
+    <string name="match_mibox_third">    · 다른 Mi 기기를 자동으로 추가합니다.</string>
     <string name="match_name_power">전원</string>
     <string name="match_number_default">숫자 버튼이 작동합니까?</string>
     <string name="match_power_confirm_tip_frame">%1$s이(가) 켜졌습니까?</string>

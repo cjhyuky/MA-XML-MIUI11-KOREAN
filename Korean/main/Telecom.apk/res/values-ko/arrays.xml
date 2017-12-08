@@ -288,8 +288,8 @@
     </string-array>
     <string-array name="color_mode_names">
          <item>활기찬(기본)</item>
-         <item>자연스러운</item>
-         <item>표준</item>
+         <item>자연스러운</item>
+         <item>표준</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>보정된 색상</item>

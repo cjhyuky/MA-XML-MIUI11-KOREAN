@@ -332,7 +332,7 @@
     <string name="xl_vip_open">결제</string>
     <string name="xl_vip_pay">연장</string>
     <string name="xl_vip_overdue">만료됨</string>
-    <string name="download_num_size">%1$s | %2$s</string>
+    <string name="download_num_size">%1$s | %2$s</string>
     <string name="app_size">%1$s</string>
     <string name="ad_title">다른 사용자들이 %1$s에서도 다운로드했습니다</string>
     <string name="rank_data_empty">랭킹 없음</string>

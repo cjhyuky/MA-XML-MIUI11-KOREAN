@@ -430,7 +430,7 @@
     <string name="portait_effect_entry_blackwhite">흑백</string>
     <string name="pano_how_to_use_prompt_start">방향을 바꾸려면 화살표를 탭하세요</string>
     <string name="pref_scan_qrcode_summary">QR코드는 후면 카메라를 이용해주세요</string>
-    <string name="face_age_info">나이: %d</string>
+    <string name="face_age_info">나이: %d</string>
     <string name="face_score_info">점수: %.1f</string>
     <string name="pref_camera_show_gender_age_config_title">나이 &amp; 성별</string>
     <string name="hint_groupshot">"여러명이 함께 사진을 찍을 때

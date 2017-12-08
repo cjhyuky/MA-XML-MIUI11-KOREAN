@@ -374,7 +374,7 @@
     <string name="download_confirm_message">첨부파일 %1$s을(를) 다운로드하시겠습니까?</string>
     <string name="download_confirm_title">첨부파일 다운로드</string>
     <string name="download_message_failed_for_too_large">메시지가 다운로드하기에 너무 큽니다.</string>
-    <string name="draft_count_format"> (%1$s)</string>
+    <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_bank_bill">은행 명세서</string>
     <string name="drawer_classification">카테고리</string>
     <string name="drawer_close">탐색 서랍 닫기</string>
@@ -872,7 +872,7 @@
     <string name="send_feed_back_keywords">피드백 전송</string>
     <string name="send_mail">전송</string>
     <string name="sender_whitelist_cleared">사진이 자동으로 보여지지 않습니다.</string>
-    <string name="senders_split_token">, </string>
+    <string name="senders_split_token">, </string>
     <string name="sending">전송 중…</string>
     <string name="sending_message">메시지 전송 중…</string>
     <string name="sending_quick_reply">\"%s\" 전송</string>

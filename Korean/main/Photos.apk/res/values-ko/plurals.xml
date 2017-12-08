@@ -169,8 +169,8 @@
         <item quantity="one">항목 1개</item>
     </plurals>
     <plurals name="album_subtitle">
-        <item quantity="other">%1$s  •  사진 %2$d장</item>
-        <item quantity="one">%1$s  •  사진 1장</item>
+        <item quantity="other">%1$s  •  사진 %2$d장</item>
+        <item quantity="one">%1$s  •  사진 1장</item>
     </plurals>
     <plurals name="photos_create_uploadhandlers_success_existing_album">
         <item quantity="other">앨범에 항목 %d개가 추가되었습니다.</item>

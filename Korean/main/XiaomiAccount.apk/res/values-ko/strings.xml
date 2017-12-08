@@ -124,9 +124,9 @@
     <string name="passport_querying_phone_info">계정 정보를 요청하는 중…</string>
     <string name="passport_area_code_title">국가 코드</string>
     <string name="passport_area_code_hot">자주 사용됨</string>
-    <string name="passport_user_agreement_p1">동의: </string>
+    <string name="passport_user_agreement_p1">동의: </string>
     <string name="passport_user_agreement_p2">사용자 계약</string>
-    <string name="passport_user_agreement_p3"> 및 </string>
+    <string name="passport_user_agreement_p3"> 및 </string>
     <string name="passport_user_agreement_p4">개인 정보 보호 정책</string>
     <string name="passport_privacy_policy">개인 정보 보호 정책</string>
     <string name="passport_user_agreement">사용자 계약</string>

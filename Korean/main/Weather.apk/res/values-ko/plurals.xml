@@ -19,10 +19,10 @@
         <item quantity="other">"&amp;lt;font color='#20a7ff'>%1$s&amp;lt;/font> 명의 사람들이 투표했습니다"</item>
     </plurals>
     <plurals name="yes_vote_num">
-        <item quantity="other"> | %1$s 명</item>
+        <item quantity="other"> | %1$s 명</item>
     </plurals>
     <plurals name="no_vote_num">
-        <item quantity="other">%1$s 명 | </item>
+        <item quantity="other">%1$s 명 | </item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short">
         <item quantity="other">%1$s 초 후 피드백</item>

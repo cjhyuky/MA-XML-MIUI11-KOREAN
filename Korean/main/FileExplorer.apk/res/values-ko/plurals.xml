@@ -61,7 +61,7 @@
         <item quantity="other">%d 자리 문자를 입력할 수 있습니다.</item>
     </plurals>
     <plurals name="video_items">
-        <item quantity="other"> %1$d개 항목</item>
+        <item quantity="other"> %1$d개 항목</item>
     </plurals>
     <plurals name="original_user_days">
         <item quantity="other">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font>일</item>

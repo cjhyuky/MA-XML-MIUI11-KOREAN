@@ -68,13 +68,13 @@
     <string name="album_page_label">앨범</string>
     <string name="other_album">다른 앨범</string>
     <string name="crop_label">사진 잘려짐</string>
-    <string name="name_split">, </string>
+    <string name="name_split">, </string>
     <string name="more_album_hint">, 기타.</string>
     <string name="runtime_permission_ungranted">갤러리 닫힘. 요청된 권한 없음</string>
     <string name="not_remind_again">다시 표시하지 않기</string>
     <string name="yes">네</string>
     <string name="no">아니요</string>
-    <string name="and"> 및 </string>
+    <string name="and"> 및 </string>
     <string name="today">오늘</string>
     <string name="yesterday">어제</string>
     <string name="empty_title_no_photos">사진 또는 동영상 없음</string>
@@ -704,7 +704,7 @@
     <string name="secret_reason_unknow_reasons">알 수 없는 오류</string>
     <string name="alert_secret_album_title">숨김 폴더 보는 방법</string>
     <string name="alert_secret_album_message">앨범을 탭하시고 당겨 내리시면 숨겨진 앨범을 확인하실 수 있습니다.</string>
-    <string name="alert_secret_album_message_lower_case">  swipe down in Albums to view</string>
+    <string name="alert_secret_album_message_lower_case">  swipe down in Albums to view</string>
     <string name="alert_secret_album_enter">알겠습니다.</string>
     <string name="all_items_synced">모든 앨범이 Mi 클라우드에 백업되었습니다</string>
     <string name="need_to_turn_on_sync">Mi 클라우드와 동기화 켜기</string>
