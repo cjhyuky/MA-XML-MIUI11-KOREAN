@@ -5460,4 +5460,22 @@ PIN 설정"</string>
     <string name="suggestion_for_phone_recycled">다른 핸드폰 번호 추가</string>
     <string name="system_shortcut_wake">단축버튼으로 깨우기</string>
     <string name="voice_helper_title">음성 어시스턴트</string>
+    <string name="notification_log_details_actions">액션</string>
+    <string name="notification_log_details_content_intent">의도</string>
+    <string name="notification_log_details_content_view">사용자 정의 보기</string>
+    <string name="notification_log_details_default">기본값</string>
+    <string name="notification_log_details_delete_intent">의도 삭제</string>
+    <string name="notification_log_details_explanation">설명</string>
+    <string name="notification_log_details_extras">추가 정보</string>
+    <string name="notification_log_details_full_screen_intent">전체 화면 의도</string>
+    <string name="notification_log_details_group">그룹</string>
+    <string name="notification_log_details_group_summary">(요약)</string>
+    <string name="notification_log_details_icon">아이콘</string>
+    <string name="notification_log_details_importance">중요성</string>
+    <string name="notification_log_details_key">키</string>
+    <string name="notification_log_details_none">없음</string>
+    <string name="notification_log_details_package">패키지</string>
+    <string name="notification_log_details_parcel">소포 크기</string>
+    <string name="notification_log_details_priority">우선 순위</string>
+    <string name="notification_log_no_title">(없음)</string>
 </resources>
