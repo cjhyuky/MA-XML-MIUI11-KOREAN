@@ -123,7 +123,7 @@
     <string name="tencent">Tencent</string>
     <string name="to_be_play_label_v5">"다음 재생 예정: "</string>
     <string name="toast_back_key_pressed_notice">종료하시려면 \"뒤로\"를 한번 더 탭</string>
-    <string name="toast_message_continue_play_from">에서 재생 중</string>
+    <string name="toast_message_continue_play_from">에서 재생 중</string>
     <string name="toast_message_continue_play_hour">시간</string>
     <string name="toast_message_continue_play_minute">분</string>
     <string name="toast_message_continue_play_second_and_play">초</string>

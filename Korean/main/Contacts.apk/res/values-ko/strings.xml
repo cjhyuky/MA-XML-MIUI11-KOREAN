@@ -976,7 +976,7 @@
     <string name="menu_bar_group_ringtone_largeui">벨소리</string>
     <string name="group_rename_dialog_title">그룹 이름 변경</string>
     <string name="group_sms_progress_msg">그룹화하는 중…</string>
-    <string name="group_detail_label_placeholder"> </string>
+    <string name="group_detail_label_placeholder"> </string>
     <string name="group_create_success_toast">그룹 생성됨</string>
     <string name="group_rename_success_toast">그룹 이름 변경됨</string>
     <string name="group_delete_success_toast">그룹 삭제됨</string>

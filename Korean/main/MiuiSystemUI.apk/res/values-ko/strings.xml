@@ -361,7 +361,7 @@ EEEE"</string>
     <string name="click_to_return_multi_window">탭하여 분할 화면으로 돌아가기</string>
     <string name="recent_dock_tip">탭하여 앱을 선택하세요</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">"분할 화면은 잠금화면에서는 작동하지 않습니다."</string>
-    <string name="inactive_app_active_summary">활성화 됨. 탭하여 변경.</string>
+    <string name="inactive_app_active_summary">활성화 됨. 탭하여 변경.</string>
     <string name="inactive_app_inactive_summary">비활성화 됨. 탭하여 변경.</string>
     <string name="inactive_apps_title">비활성화 앱</string>
     <string name="accessibility_brightness_slider">밝기 슬라이더</string>

@@ -402,7 +402,7 @@
     <string name="phone_storage_other_title">기타:</string>
     <string name="phone_storage_audio_title">음악:</string>
     <string name="phone_storage_doc_title">문서:</string>
-    <string name="phone_storage_apk_title">APKs: </string>
+    <string name="phone_storage_apk_title">APKs: </string>
     <string name="phone_storage_free_title">사용 가능:</string>
     <string name="phone_storage_clean">청소</string>
     <string name="no_apk">탭하여 앱 얻기</string>
@@ -504,7 +504,7 @@
     <string name="video_topic_hint">사람 또는 토픽 검색</string>
     <string name="comment_reply">답장 %1$s:</string>
     <string name="comment_hint">댓글 추가</string>
-    <string name="origin_name">%1$s: </string>
+    <string name="origin_name">%1$s: </string>
     <string name="hot_comments">인기 댓글</string>
     <string name="new_comments">새로운 댓글</string>
     <string name="copy_text">텍스트 복사</string>
@@ -556,7 +556,7 @@
     <string name="phone_login_btn_str">휴대전화 번호</string>
     <string name="qq_login_btn_str">QQ</string>
     <string name="weibo_login_btn_str">Weibo</string>
-    <string name="user_id_tip">ID: %1$s</string>
+    <string name="user_id_tip">ID: %1$s</string>
     <string name="user_desc_default_tip">포인트를 모으고 상을 받으려면 로그인하십시오.</string>
     <string name="click_login_str">로그인</string>
     <string name="you_liao_god_str">신사</string>

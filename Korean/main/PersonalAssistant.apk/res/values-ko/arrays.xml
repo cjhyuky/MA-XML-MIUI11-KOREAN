@@ -11,14 +11,14 @@
     </string-array>
     <string-array name="map_title">
         <item> 잘못된 피크 트립 </item>
-         <item>의 혼잡이 심함 </item>
-         <item> 원활한 트래픽 </item>
-         <item> 분명한 혼잡 없음 </item>
-         <item> 비정상적인 트래픽 </item>
+         <item>의 혼잡이 심함 </item>
+         <item> 원활한 트래픽 </item>
+         <item> 분명한 혼잡 없음 </item>
+         <item> 비정상적인 트래픽 </item>
     </string-array>
     <string-array name="keyword_recommend_unit">
-         <item>필요</item>
-         <item>만큼 </item>
+         <item>필요</item>
+         <item>만큼 </item>
     </string-array>
     <string-array name="day_time_space">
         <item>밤</item>

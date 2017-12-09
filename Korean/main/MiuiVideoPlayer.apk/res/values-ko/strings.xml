@@ -110,7 +110,7 @@
     <string name="airkan_playing">캐스트 중입니다.</string>
     <string name="airkan_playing_to">" 켜짐 "</string>
     <string name="airkan_tips">탭하여 캐스트</string>
-    <string name="toast_message_continue_play_from">에서 재생 중</string>
+    <string name="toast_message_continue_play_from">에서 재생 중</string>
     <string name="toast_message_continue_play_hour">시간</string>
     <string name="toast_message_continue_play_minute">분</string>
     <string name="toast_message_continue_play_second_and_play">초</string>

@@ -189,7 +189,7 @@
     <string name="device_mgmt_dialog_btn_delete_text">복사본 삭제</string>
     <string name="device_mgmt_dialog_btn_cancel_text">취소</string>
     <string name="device_mgmt_dialog_simple_title_text">%1$s 여유 공간 확보</string>
-    <string name="device_mgmt_dialog_simple_batch_description_text">클라우드에 %2$d일 이전에 백업된 사진 및 동영상의 기기 복사본 %1$d개를 삭제합니다.</string>
+    <string name="device_mgmt_dialog_simple_batch_description_text">클라우드에 %2$d일 이전에 백업된 사진 및 동영상의 기기 복사본 %1$d개를 삭제합니다.</string>
     <string name="device_mgmt_dialog_simple_call_to_action_text">백업한 모든 항목은 이 기기 및 기타 연결된 기기에서 액세스할 수 있습니다.</string>
     <string name="device_mgmt_permanently_delete_text">"이 기기의 사진 및 동영상 %1$d개를 영구 삭제하시겠습니까?
 
@@ -472,7 +472,7 @@
     <string name="info_screen_title">위치 기록</string>
     <string name="info_screen_content">"위치 기록은 사용자가 로그인한 기기를 가지고 이동한 장소의 개인 맞춤 지도를 만들어  유용한 정보(예: 사진 촬영 장소에 대한 정보 및 검색결과 개선)를 제공합니다.
 
-이 지도를 만들기 위해 Google은 위치 기록이 사용 설정된 기기에 한해서 사용자가 특정 Google 제품을 사용하지 않을 때도 수시로 위치 데이터를 수집합니다.
+이 지도를 만들기 위해 Google은 위치 기록이 사용 설정된 기기에 한해서 사용자가 특정 Google 제품을 사용하지 않을 때도 수시로 위치 데이터를 수집합니다.
 
 원하는 경우 위치 기록을 일시중지할 수 있지만, 위치 기록을 일시중지해도 이전 활동 기록은 삭제되지 않습니다. "<a href="https://support.google.com/accounts/answer/3118687?p=location_history">자세히 알아보기</a></string>
     <string name="device_folders_card_title">기기 폴더 백업</string>
