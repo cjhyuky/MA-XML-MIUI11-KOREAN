@@ -356,12 +356,12 @@
     <string name="mibi_prepaid_password_edit_hint">비밀번호</string>
     <string name="mibi_prepaid_picker_hint_1_2">일회성 요금만 지원합니다;</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">"선불 카드의 공칭 값과 일치해야합니다. 다른 값을 선택하면 카드가 무효화됩니다.이 작업은 취소 할 수 없습니다."</string>
-    <string name="mibi_prepaid_picker_hint_2_2_b">선불 카드의 명목 가치가 <font color=red>%1$s 위안</font>이 아닌 경우 카드는 무효가 됩니다. 샤오미는 사용자 오류로 인한 금전적 손실에 대해 책임을지지 않습니다.</string>
+    <string name="mibi_prepaid_picker_hint_2_2_b">선불 카드의 명목 가치가 %1$s 위안이 아닌 경우 카드는 무효가 됩니다. 샤오미는 사용자 오류로 인한 금전적 손실에 대해 책임을지지 않습니다.</string>
     <string name="mibi_prepaid_picker_title_default">금액 선택</string>
     <string name="mibi_prepaid_picker_title_selected">금액</string>
     <string name="mibi_process_expired">"작업 시간이 초과되었습니다."</string>
     <string name="mibi_progress_creating">주문 정보 검색 중…</string>
-    <string name="mibi_progress_deduct_creating">%1$s 자동 결제 프로토콜 활성화중​…</string>
+    <string name="mibi_progress_deduct_creating">%1$s 자동 결제 프로토콜 활성화중…</string>
     <string name="mibi_progress_downloading">로딩중…</string>
     <string name="mibi_progress_error_pay_summary">%1$s Mi크레딧이 충전되었지만 결제를 실패했습니다. 나중에 다시 시도하세요.</string>
     <string name="mibi_progress_error_pay_title">결제 실패</string>
