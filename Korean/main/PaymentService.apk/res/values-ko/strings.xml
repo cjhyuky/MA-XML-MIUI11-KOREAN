@@ -408,8 +408,8 @@
     <string name="mibi_recharge_push_notification_sub_title">충전 완료.</string>
     <string name="mibi_recharge_value_money">위안화 %s 상당의 Mi 크레딧 구매</string>
     <string name="mibi_recharge_value_money_special_unit">%1$s %2$s 상당의 Mi 크레딧 구매</string>
-    <string name="mibi_recharge_value_money_with_tip">"위안화 %s 상당의 Mi 크레딧 구매 <font color=red>(Mi 크레딧은 Mi.com에서 사용할 수 없음)</font>"</string>
-    <string name="mibi_recharge_value_money_with_tip_special_unit">"%1$s %2$s 상당의 Mi 크레딧 구매 <font color=red>(Mi 크레딧은 Mi.com에서 사용할 수 없음)</font>"</string>
+    <string name="mibi_recharge_value_money_with_tip">"위안화 %s 상당의 Mi 크레딧 구매 &lt;font color=red>(Mi 크레딧은 Mi.com에서 사용할 수 없음)&lt;/font>"</string>
+    <string name="mibi_recharge_value_money_with_tip_special_unit">"%1$s %2$s 상당의 Mi 크레딧 구매 &lt;font color=red>(Mi 크레딧은 Mi.com에서 사용할 수 없음)&lt;/font>"</string>
     <string name="mibi_scan_prompt_number">%1$s 선불 카드번호 스캔</string>
     <string name="mibi_scan_prompt_password">%1$s 선불카드 비밀번호 스캔</string>
     <string name="mibi_scan_prompt_voucher">Mi 크레딧 비밀번호 스캔</string>
