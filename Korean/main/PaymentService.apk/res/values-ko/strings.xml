@@ -250,7 +250,7 @@
     <string name="mibi_frozen">잠김</string>
     <string name="mibi_frozen_prim">계정 잠김</string>
     <string name="mibi_frozen_sub">비정상적인 활동이 감지되었습니다</string>
-    <string name="mibi_frozen_text"><data>귀하의 계정이 잠겼습니다. &lt;font color=#33aaff&gt;고객센터로 문의하세요.&lt;/font&gt;</Data></string>
+    <string name="mibi_frozen_text">귀하의 계정이 잠겼습니다. 고객센터로 문의하세요.</string>
     <string name="mibi_frozen_text_pad">귀하의 계정이 잠겼습니다. 고객센터번호: 400–100–3399.</string>
     <string name="mibi_get_phone_format_error">휴대전화 인증</string>
     <string name="mibi_get_phone_num_summary">지불에 사용된 전화번호를 입력하십시오</string>
@@ -297,7 +297,7 @@
     <string name="mibi_msg_error">팝업 실패</string>
     <string name="mibi_msg_order_hint_1_1">구매 확인을 터치하면 휴대전화가</string>
     <string name="mibi_msg_order_hint_1_2">자동으로 서비스 제공 업체로 연결할 것입니다.</string>
-    <string name="mibi_msg_picker_hint_1_2">문자로 충전하시면 더 비쌉니다: <font color=red>%1$d 위안 = %2$d Mi크레딧</font></string>
+    <string name="mibi_msg_picker_hint_1_2">문자로 충전하시면 더 비쌉니다: %1$d 위안 = %2$d Mi크레딧</string>
     <string name="mibi_msg_picker_hint_2_a">이동 통신사를 거쳐서 충전시 충전당 %1$s 위안의 서비스 요금이 부과됩니다</string>
     <string name="mibi_msg_picker_hint_2_b">\"충전\"을 탭하면 통신사에서 문자를 보냅니다. 통신사에서는 문자요금을 청구할 것입니다.</string>
     <string name="mibi_msg_picker_hint_3_2">월 최대 충전량: %1$s 위안</string>
