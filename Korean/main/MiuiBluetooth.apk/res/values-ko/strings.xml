@@ -44,4 +44,5 @@
     <string name="unbind_device_alert_ok">연결 해제</string>
     <string name="unbind_device_alert_cancel">취소</string>
     <string name="ok_button">확인</string>
+    <string name="bluetooth_device_context_unpair">연결 해제</string>
 </resources>
