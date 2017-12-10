@@ -45,4 +45,7 @@
     <string name="unbind_device_alert_cancel">취소</string>
     <string name="ok_button">확인</string>
     <string name="bluetooth_device_context_unpair">연결 해제</string>
+    <string name="legacy_dhcp_client_summary">최신 버전의 DHCP 클라이언트 대신에 이전 안드로이드 버전의 DHCP 클라이언트를 사용합니다.</string>
+    <string name="show_cpu_usage">CPU 사용량 보이기</string>
+    <string name="show_cpu_usage_summary">CPU 사용량을 화면 위에 보이기</string>
 </resources>
