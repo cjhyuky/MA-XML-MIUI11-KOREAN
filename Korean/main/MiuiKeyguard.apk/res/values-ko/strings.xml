@@ -138,4 +138,5 @@
     <string name="face_unlock_rise">머리를 숙여주십시오</string>
     <string name="face_unlock_down">머리를 들어주십시오</string>
     <string name="face_unlock_quality">얼굴이 정확히 보이지 않습니다</string>
+    <string name="lock_screen_no_sim_card">SIM 카드 없음</string>
 </resources>
