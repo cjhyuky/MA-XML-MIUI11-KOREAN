@@ -658,4 +658,17 @@ EEEE"</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI 증명</string>
     <string name="wifi_security_none">없음</string>
     <string name="wifi_security_passpoint">패스포인트</string>
+    <string name="accessibility_desc_app_allow_block">%1$s의 알림을 숨길 수 있습니다.</string>
+    <string name="accessibility_desc_app_unallow_block">%1$s의 알림을 숨길 수 없습니다.</string>
+    <string name="accessibility_desc_check_block_notification">%1$s의 알림 선택</string>
+    <string name="accessibility_desc_cancel_block">숨기지 않음</string>
+    <string name="accessibility_desc_check_block_notification">%1$s의 알림 선택</string>
+    <string name="accessibility_desc_confirm_block">숨기기</string>
+    <string name="accessibility_desc_details_page">%1$s 세부사항 페이지</string>
+    <string name="accessibility_desc_notification_shade">드롭 다운 메뉴</string>
+    <string name="accessibility_desc_quick_settings">빠른 설정</string>
+    <string name="accessibility_desc_reconfirm_block">지금 숨기시겠습니까?</string>
+    <string name="accessibility_desc_select_block_notification">숨길 알림 선택</string>
+    <string name="accessibility_desc_uncheck_block_notification">%1$s의 알림 선택 해제</string>
+    <string name="accessibility_desc_weather_temperature">날씨 %1s도</string>
 </resources>
