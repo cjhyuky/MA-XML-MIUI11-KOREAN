@@ -193,7 +193,7 @@
     <string name="pref_camera_video_duration_entry_mms">30초(MMS)</string>
     <string name="pref_camera_video_duration_entry_10">10분</string>
     <string name="pref_camera_video_duration_entry_30">30분</string>
-    <string name="pref_camera_video_duration_entry_120">제한 없음</string>
+    <string name="pref_camera_video_duration_entry_120">무제한</string>
     <string name="pref_camera_zsl_entry_off">꺼짐</string>
     <string name="pref_camera_zsl_entry_on">켜짐</string>
     <string name="pref_camera_facedetection_title">얼굴 인식</string>
@@ -346,8 +346,8 @@
     <string name="simple_mode_button_text_magic_mirror">마법 거울 끄기</string>
     <string name="pano_how_to_use_prompt_align_reference_line">기준 라인에 화살표를 맞춥니다.</string>
     <string name="pano_how_to_use_prompt_slow_down">천천히 하십시오.</string>
-    <string name="pref_camera_stereo_mode_title">스테레오</string>
-    <string name="simple_mode_button_text_stereo_mode">스테레오 끄기</string>
+    <string name="pref_camera_stereo_mode_title">듀얼 모드</string>
+    <string name="simple_mode_button_text_stereo_mode">듀얼 모드 끄기</string>
     <string name="dual_camera_too_close_toast">카메라가 물체에 너무 가까이 있습니다.</string>
     <string name="dual_camera_lowlight_toast">너무 어두운 것 같습니다.</string>
     <string name="dual_camera_lens_covered_toast">렌즈가 닫혀 있습니다.</string>
@@ -415,7 +415,7 @@
     <string name="color_effect_entry_blackwhite">흑백</string>
     <string name="color_effect_entry_fade">페이드</string>
     <string name="video_effect_entry_film">필름</string>
-    <string name="video_effect_entry_holiday">반사</string>
+    <string name="video_effect_entry_holiday">거울</string>
     <string name="video_effect_entry_polaroid">폴라로이드</string>
     <string name="video_effect_entry_forest">숲</string>
     <string name="video_effect_entry_blackwhite">흑백</string>
@@ -464,8 +464,8 @@
     <string name="edit_eye_large">눈 크게</string>
     <string name="edit_face_slender">슬림하게</string>
     <string name="edit_face_ruddy">건강하게</string>
-    <string name="sticker_tab1">귀여운</string>
-    <string name="sticker_tab2">재밌는</string>
+    <string name="sticker_tab1">귀여운스티커</string>
+    <string name="sticker_tab2">재밌는스티커</string>
     <string name="user_agreement2">서비스 약관</string>
     <string name="user_agreement4">개인 정보 보호정책</string>
     <string name="user_agree">동의</string>
@@ -480,4 +480,9 @@
     <string name="confirm_restore_message">선택한 메시지를 복원하시겠습니까?</string>
     <string name="pref_setting_title">페이지 설정</string>
     <string name="empty">항목 없음</string>
+    <string name="hint_device_water_mark">기기 워터마크는 자동으로 추가될 것입니다.</string>
+    <string name="multi_window_mode_not_supported">카메라는 분할 화면에서 작동하지 않습니다.</string>
+    <string name="pref_camera_device_watermark_title">기기 워터마크</string>
+    <string name="pref_camera_flashmode_title">플래시 모드</string>
+    <string name="toast_burst_snap_finished_summary">연속 촬영 완료, %1$s개 사진 촬영됨</string>
 </resources>
