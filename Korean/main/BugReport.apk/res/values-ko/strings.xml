@@ -320,4 +320,5 @@
     <string name="feedback_delete_images">삭제한 이미지</string>
     <string name="feedback_jira_key">JIRA 키: %s</string>
     <string name="feedback_submit_hint_gone">닫은 메세지</string>
+    <string name="app_search">앱 검색</string>
 </resources>
