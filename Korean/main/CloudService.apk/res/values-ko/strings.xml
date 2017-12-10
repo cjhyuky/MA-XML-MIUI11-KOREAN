@@ -571,4 +571,6 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_main_button_set_internet">설정</string>
     <string name="micloud_main_query_again">다른 요청 전송</string>
     <string name="micloud_main_space_full_message">더 큰 저장소를 미 클라우드에서 구매하세요.</string>
+    <string name="title_back">뒤로가기</string>
+    <string name="xiaomi_cloud_service_subtitle">중요한 자료를 한 곳에서 확인하세요!</string>
 </resources>
