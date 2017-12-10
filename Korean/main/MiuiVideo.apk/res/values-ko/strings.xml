@@ -636,4 +636,5 @@
   <string name="videos">비디오</string>
   <string name="volume">볼륨</string>
   <string name="wrapper_footer_text">페이지 하단입니다</string>
+  <string name="audio_delay">오디오 딜레이</string>
 </resources>
