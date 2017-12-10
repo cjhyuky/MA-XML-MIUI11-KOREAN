@@ -72,7 +72,7 @@
     <string name="auto_backup">정기 백업 예약</string>
     <string name="contact_title">연락처</string>
     <string name="call_title">통화 기록</string>
-    <string name="sms_title">메시지 전송</string>	
+    <string name="sms_title">메시지 전송</string>
     <string name="wifi_title">Wi-Fi 설정</string>
     <string name="note_title">메모</string>
     <string name="compute_backup_info">백업 정보 받는 중…</string>

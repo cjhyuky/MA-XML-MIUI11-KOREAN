@@ -169,10 +169,10 @@
         <item quantity="other">%1$d개 새 사진을 찾았습니다</item>
     </plurals>
     <plurals name="search_feedback_done_mark_false_positive">
-	<item quantity="other">\”%2$s\”에서 %1$d장의 사진을 삭제합니다.</item>
+        <item quantity="other">\”%2$s\”에서 %1$d장의 사진을 삭제합니다.</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_positive">
-	<item quantity="other">\”%2$s\”에서 %1$d장의 사진을 삭제하고 데이터베이스에 추가되었습니다.</item>
+        <item quantity="other">\”%2$s\”에서 %1$d장의 사진을 삭제하고 데이터베이스에 추가되었습니다.</item>
     </plurals>
     <plurals name="search_feedback_done_mark_false_negative">
         <item quantity="other">\”%2$s\”로 %1$d장의 사진이 추가되었습니다.</item>
