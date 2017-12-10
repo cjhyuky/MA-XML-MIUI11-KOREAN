@@ -495,4 +495,7 @@
     <string name="prefDefault_alerts_vibrate_true">항상</string>
     <string name="email_subject_prefix">"답장: "</string>
     <string name="olympic_vs">대</string>
+    <string name="action_bar_return">돌아가기</string>
+    <string name="date_calculate_direction_content_description">현재 방향은 %1s입니다.</string>
+    <string name="talk_back_read_date">오늘의 날짜는 %1$s,%2$s입니다.</string>
 </resources>
