@@ -274,4 +274,6 @@
     <string name="menu_lock">홈 화면 레이아웃 잠금</string>
     <string name="menu_more">더 보기</string>
     <string name="default_screen_preview_title">기본화면을 설정하려면 탭하세요</string>
+    <string name="action_add_to_workspace">워크 스페이스에 추가</string>
+    <string name="wallpaper_scrolling"></string>
 </resources>
