@@ -137,5 +137,8 @@
     <string name="tw_required_monthly_test">월 정기 테스트 설정</string>
     <string name="updating_title">전화 설정</string>
     <string name="done_text">마침</string>
+    <string name="alert_message">경고 메세지</string>
+    <string name="emergency_alert">긴급 경보</string>
+    <string name="required_monthly_test">월 정기 테스트를 해야 합니다.</string>
 </resources>
 
