@@ -66,4 +66,6 @@
     <string name="recording_max_size">"용량 초과로 녹화가 멈춰지고 저장되었습니다. 녹화할 부분이 더 있으면 마지막 부분부터 이어서 녹화를 시작하세요."</string>
     <string name="start_recording">녹화 시작</string>
     <string name="stop_recording">녹화 종료</string>
+    <string name="description_content">화면 녹화 기능을 비활성화합니다. 계속하려면 확인 버튼을 누르세요.</string>
+    <string name="description_title">화면 녹화 기능에 대하여</string>
 </resources>
