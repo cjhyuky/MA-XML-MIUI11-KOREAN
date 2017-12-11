@@ -234,7 +234,6 @@
     <string name="calendar_remind_gridview_pick_date">날짜 선택</string>
     <string name="cancel">취소</string>
     <string name="cancel_action">취소</string>
-    <string name="cancel_pop3_attchemt_downloading">pop3类型的帐号不能取消下载中的附件</string>
     <string name="cant_move_or_change_labels">다중 계정에서 항목을 이동할 수 없습니다.</string>
     <string name="cc">참조</string>
     <string name="cc_attribution">참조: %1$s&lt;br></string>
@@ -809,7 +808,6 @@
     <string name="recognize_ticket_air_notification_content">안전한 비행되세요!</string>
     <string name="recognize_ticket_air_notification_title">비행기가 곧 %3$s (%1$s/%2$s) 이륙할 것입니다. 비행 정보를 확인하십시오.</string>
     <string name="recognize_ticket_air_state_stopover">经停</string>
-    <string name="recognize_ticket_air_state_transfer">中转</string>
     <string name="recognize_ticket_air_user_name">승객:</string>
     <string name="recognize_ticket_title">비행기 &amp; 기차 티켓</string>
     <string name="recognize_ticket_train_alter">변경됨</string>
@@ -1027,7 +1025,6 @@
     <string name="account_setup_basics_mi_mail_login_help">이메일을 수신하시려면 SMS를 통한 계정 인증이 요구됩니다.</string>
     <string name="account_sync_settings_settings">연락처 및 캘린더 동기화</string>
     <string name="account_sync_settingstip_description">동기화</string>
-    <string name="automatic_remind_text">자동 미리알림</string>
     <string name="cancel_pop3_attchemt_downloading">POP3 계정으로는 진행 중인 첨부파일 다운로드를 취소할 수 없습니다.</string>
     <string name="changepw_dialog_tips_please_clikc_btn">%s에서 인증 코드를 확인한 후 다시 로그인하십시오.</string>
     <string name="confirm_delete_attachment">첨부파일을 삭제하시겠습니까?</string>
@@ -1071,7 +1068,6 @@
     <string name="permission_tip">구성 실패합니다. 구성 권한 중에 전화 및 문자 메시지를 허용하십시오.</string>
     <string name="quote_divider_6">---원본---</string>
     <string name="quote_divider_7">원본 메세지</string>
-    <string name="recognize_ticket_air_state_stopover">경유</string>
     <string name="recognize_ticket_air_state_transfer">환승</string>
     <string name="report_rendering_improvement">좋아보임</string>
     <string name="report_rendering_improvement_desc">이 메세지는 좋아보임.</string>
@@ -1098,7 +1094,5 @@
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">캘린더와 연락처를 동기화하시려면 캘린더 및 연락처 동기화 활성화</string>
     <string name="toastbar_local_calendar_sync_switch_close">캘린더 알림을 수신하려면 캘린더 동기화 활성화</string>
     <string name="toastbar_local_contacts_sync_swtich_close">연락처를 추가하시려면 연락처 동기화 활성화</string>
-    <string name="unbind_dialog_text">"메일 앱이 더 이상 이메일을 분석할 수 없습니다.
-계정을 삭제하시겠습니까?"</string>
     <string name="wait_help_context">대기</string>
 </resources>
