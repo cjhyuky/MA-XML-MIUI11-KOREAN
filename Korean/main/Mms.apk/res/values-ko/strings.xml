@@ -138,7 +138,7 @@
     <string name="duration_sec">지속 시간(%s초)</string>
     <string name="duration_selector_title">"슬라이드 지속 시간 "</string>
     <string name="duration_zero">지속 시간은 0초보다 커야 합니다.</string>
-    <string name="earlier">일찍</string>
+    <string name="earlier">이전</string>
     <string name="edit">편집</string>
     <string name="edit_phrase">빠른 답장 수정</string>
     <string name="edit_slide_activity">슬라이드 편집</string>
