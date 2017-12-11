@@ -377,7 +377,7 @@
   <string name="launch_setting_alipay_logout_msg">알리페이 계정에서 로그아웃 하시겠습니까?</string>
   <string name="launch_setting_alipay_logout_posi">로그아웃</string>
   <string name="launch_setting_alipay_logout_success">로그아웃되었습니다.</string>
-  <string name="launch_top">인기있는 앱 열기</string>
+  <string name="launch_top">자주 사용하는 앱 열기</string>
   <string name="launcher_else">기타</string>
   <string name="list_icon_add">추가</string>
   <string name="list_icon_delete">삭제</string>
