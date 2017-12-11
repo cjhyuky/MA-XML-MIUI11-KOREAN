@@ -660,7 +660,6 @@ EEEE"</string>
     <string name="wifi_security_passpoint">패스포인트</string>
     <string name="accessibility_desc_app_allow_block">%1$s의 알림을 숨길 수 있습니다.</string>
     <string name="accessibility_desc_app_unallow_block">%1$s의 알림을 숨길 수 없습니다.</string>
-    <string name="accessibility_desc_check_block_notification">%1$s의 알림 선택</string>
     <string name="accessibility_desc_cancel_block">숨기지 않음</string>
     <string name="accessibility_desc_check_block_notification">%1$s의 알림 선택</string>
     <string name="accessibility_desc_confirm_block">숨기기</string>
