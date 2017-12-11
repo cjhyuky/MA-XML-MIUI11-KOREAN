@@ -448,4 +448,14 @@
     <string name="update_phone_notice">보안 설정 변경</string>
     <string name="vip_settings_info">VIP 설정</string>
     <string name="account_global_region">해외</string>
+    <string name="account_error_user_name">입력하신 사용자명이 잘못되었습니다</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>주의&lt;/font>%s 이 번호는 통신사를 통해 다른사람이 이미 사용중이며 Mi계정이 이미 연결되어있습니다. 귀하의 계정인가요?"</string>
+    <string name="passport_get_innetdate_agree">확인</string>
+    <string name="passport_get_innetdate_disagree">아니오</string>
+    <string name="passport_get_innetdate_msg">"&lt;font color=Red>주의&lt;/font>%s 이 번호는 통신사를 통해 다른사람이 이미 사용중이며 Mi계정이 이미 연결되어있습니다. 통신사를 통해 온라인으로 확인하시겠습니까?"</string>
+    <string name="passport_get_innetdate_title">번호 사용 확인</string>
+    <string name="recycle_phone_notification_msg">귀하의 휴대전화 번호가 통신사를 통해 다른사람이 사용을 시작한 것 같습니다. 업데이트하려면 탭하세요.</string>
+    <string name="recycle_phone_notification_title">Mi 계정 보안 리스크</string>
+    <string name="sim_changed_notification_msg">탭하여 휴대전화 복구를 위한 보안을 강화하세요.</string>
+    <string name="sim_changed_notification_title">휴대전화 번호가 변경되었나요?</string>
 </resources>
