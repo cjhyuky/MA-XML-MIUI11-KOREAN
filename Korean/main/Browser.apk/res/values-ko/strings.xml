@@ -484,7 +484,7 @@
   <string name="pay_success_toast">지불 성공</string>
   <string name="popup_window_attempt">이 사이트의 팝업 창을 허용하시겠습니까?</string>
   <string name="positive_confirm_message">그래도 끄기</string>
-  <string name="pref_accept_quicklink_push">시작 페이지 고정</string>
+  <string name="pref_accept_quicklink_push">뉴스 피드</string>
   <string name="pref_accessibility">접근성</string>
   <string name="pref_accessibility_title">접근성</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">주소창을 한 번 탭해 일반 문자 조합을 입력할 수 있습니다.</string>
