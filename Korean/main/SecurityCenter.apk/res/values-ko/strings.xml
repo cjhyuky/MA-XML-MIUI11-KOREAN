@@ -2255,4 +2255,16 @@ Rolled over extra data"</string>
     <string name="fw_oversea_content">외국 전화번호에서 걸려오는 전화 차단하기</string>
     <string name="st_call_intercept_oversea">해외에서 수신한 전화 차단하기</string>
     <string name="st_confirm_dialog_summary_oversea_call">해외 전화번호에서 오는 전화 차단하기</string>
+    <string name="app_manager_cache_size">캐시</string>
+    <string name="app_manager_clear_all_data">모든 데이터 삭제</string>
+    <string name="app_manager_clear_dlg_title">데이터 삭제</string>
+    <string name="app_manager_code_size">앱 크기</string>
+    <string name="app_manager_comuting_size">계산중…</string>
+    <string name="app_manager_data_size">사용자 데이터</string>
+    <string name="app_manager_dlg_clear_cache_title">캐시를 삭제할까요?</string>
+    <string name="app_manager_memory">메모리</string>
+    <string name="app_manager_not_support_uninstall">"이 앱을 삭제할 수 없습니다"</string>
+    <string name="app_manager_support_uninstall">이 앱들을 삭제할 수 있습니다</string>
+    <string name="app_manager_total_size">총</string>
+    <string name="back_description_securitycenter">뒤로가기</string>
 </resources>
