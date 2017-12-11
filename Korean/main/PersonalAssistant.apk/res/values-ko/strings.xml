@@ -125,8 +125,8 @@
   <string name="card_settings_rule">카드 주문 설정</string>
   <string name="card_title_express">내 배달주문</string>
   <string name="card_title_favorite">즐겨찾기</string>
-  <string name="card_title_funclaunch">단축키</string>
-  <string name="card_title_noteboard">노트</string>
+  <string name="card_title_funclaunch">자주 사용하는 앱</string>
+  <string name="card_title_noteboard">메모장</string>
   <string name="card_title_sport">걸음 추적기</string>
   <string name="card_title_sportassist">스포츠 중계</string>
   <string name="card_trip_arrive">도착</string>
@@ -140,7 +140,7 @@
   <string name="category_medical">의학정보</string>
   <string name="category_other">기타</string>
   <string name="category_red_packet">축의금</string>
-  <string name="category_remain">남아있는</string>
+  <string name="category_remain">잔액</string>
   <string name="category_remittance">전송됨</string>
   <string name="category_shopping">쇼핑</string>
   <string name="category_spending">결제방식</string>
