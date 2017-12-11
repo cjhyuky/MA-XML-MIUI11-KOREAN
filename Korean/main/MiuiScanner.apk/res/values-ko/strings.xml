@@ -174,4 +174,40 @@
     <string name="app_description_content">스캐너는 당신이 QR코드, 문서, 명함등을 스캔할 수 있게 도와줍니다.</string>
     <string name="app_description_title">스캐너 정보</string>
     <string name="back">뒤로 가기</string>
+    <string name="com_taobao_tae_sdk_alert_message">시간이 너무 지났습니다. 다시 시도해주세요.</string>
+    <string name="com_taobao_tae_sdk_authorize_title">로그인</string>
+    <string name="com_taobao_tae_sdk_back_message">뒤로가기</string>
+    <string name="com_taobao_tae_sdk_cart_title">장바구니</string>
+    <string name="com_taobao_tae_sdk_close_message">닫기</string>
+    <string name="com_taobao_tae_sdk_loading_progress_message">로딩중</string>
+    <string name="com_taobao_tae_sdk_login_progress_message">로그인중</string>      <string name="com_taobao_tae_sdk_logout_fail_message">로그아웃 실패</string>
+    <string name="com_taobao_tae_sdk_network_not_available_message">네트워크 접속불가</string>
+    <string name="com_taobao_tae_sdk_qr_login_title_bar_text">타오바오 계정 로그인</string>
+    <string name="com_taobao_tae_sdk_system_exception">시스템 예외</string>
+    <string name="com_taobao_tae_sdk_trade_confirm_progress_message">구매 확정중</string>
+    <string name="com_taobao_tae_sdk_trade_title">구매 확정</string>
+    <string name="document_recognize_null_tip">"문서 인식불가"</string>
+    <string name="drag_barcode_into_frame">코드에 맞게끔 프레임을 드래그하세요</string>
+    <string name="error_get_image">"이미지 로드 불가"</string>
+    <string name="label_choose_picture">사진 선택</string>
+    <string name="label_flash_light">플래시</string>
+    <string name="language_value_danish">덴마크어</string>
+    <string name="language_value_dutch">네덜란드어</string>
+    <string name="language_value_english">영어</string>      <string name="language_value_finnish">핀란드어</string>
+    <string name="language_value_french">프랑스어</string>
+    <string name="language_value_german">독일어</string>
+    <string name="language_value_hungarian">헝가리어</string>
+    <string name="language_value_italian">이탈리아어</string>
+    <string name="language_value_japanese">일본어</string>
+    <string name="language_value_korean">한국어</string>
+    <string name="language_value_norwegian">노르웨이어</string>
+    <string name="language_value_portuguese">포르투갈어</string>
+    <string name="language_value_russian">러시아어</string>
+    <string name="language_value_spanish">스페인어</string>
+    <string name="language_value_swedish">스웨덴어</string>
+    <string name="low_version_tip">MIUI 버전이 너무 구버전입니다. 스캐너 기능을 사용하려면 업데이트하세요.</string>
+    <string name="pref_camera_jpeg_quality_fine">좋음</string>
+    <string name="pref_camera_jpeg_quality_normal">보통</string>
+    <string name="pref_camera_jpeg_quality_superfine">매우좋음</string>
+    <string name="weixin_code_tip">이 QR코드를 스캔하려면 위챗을 사용하세요</string>
 </resources>
