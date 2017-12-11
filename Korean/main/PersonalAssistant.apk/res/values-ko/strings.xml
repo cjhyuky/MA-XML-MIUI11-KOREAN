@@ -47,7 +47,6 @@
   <string name="arrive">착륙/도착</string>
   <string name="assistant_day_deadline">마지막 날</string>
   <string name="assistant_day_suffix">이후</string>
-  <string name="assistant_format_MMdd">월월/일일 형식</string>
   <string name="assistant_place">자주가는 장소 인식</string>
   <string name="assistant_summary">필요한 도움을 바로바로 받아보세요.</string>
   <string name="authorize_button">허용</string>
