@@ -427,12 +427,12 @@
   <string name="mi_agenda">스케쥴 일정</string>
   <string name="mi_basketball">농구</string>
   <string name="mi_express">빠른 배송</string>
-  <string name="mi_football">풋볼</string>
+  <string name="mi_football">축구</string>
   <string name="mi_function">바로 가기</string>
   <string name="mi_payment">지불 내역</string>
   <string name="mi_payment_setting_brief">지불 정보를 수집하십시오.</string>
   <string name="mi_payment_setting_brief_detail">메시지 및 기타 앱에서 결제 정보를 수집하십시오.</string>
-  <string name="mi_sport">걸음 추적기</string>
+  <string name="mi_sport">Mi 피트</string>
   <string name="mi_sport_go_install">다운로드</string>
   <string name="mi_wallet">Mi 지갑</string>
   <string name="mini_add_fp">먼저 지문을 휴대전화에 추가 한 다음 알리페이 지문을 설정하세요...</string>
