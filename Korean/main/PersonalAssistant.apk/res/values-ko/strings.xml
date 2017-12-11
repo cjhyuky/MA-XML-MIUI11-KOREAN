@@ -611,7 +611,7 @@
   <string name="scan_code">QR 코드</string>
   <string name="scan_doc">문서</string>
   <string name="scan_exercise">학습</string>
-  <string name="scan_parent">자녀 자료</string>
+  <string name="scan_parent">결제</string>
   <string name="scan_trans">번역</string>
   <string name="screen_shot">스크린샷</string>
   <string name="search">검색</string>
@@ -751,7 +751,7 @@
   <string name="stock_web_bottom_text">추가 정보를 보기 위해 클라이언트 열기</string>
   <string name="stockweb_lable">주식</string>
   <string name="stock_web_bottom_btn">열기</string>
-  <string name="study_parent">사무실 연구</string>
+  <string name="study_parent">업무</string>
   <string name="system_favorite_dialog_link">보안 &amp; 개인정보 보호</string>
   <string name="system_favorite_dialog_message"> 다른 앱들을 즐겨 찾기에 추가하십시오. </string>
   <string name="system_favorite_dialog_negative">취소</string>
