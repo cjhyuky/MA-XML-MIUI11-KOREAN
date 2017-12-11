@@ -9,7 +9,7 @@
     <string name="account_options_sync_title">동기화</string>
     <string name="account_password_spaces_error">"이 비밀번호는 한 개 이상의 공백 문자로
         시작하거나 끝납니다. 많은 서버가 공백이 포함된 비밀번호를 지원하지 않습니다."</string>
-    <string name="account_security_dialog_content_fmt">"%s은(는) 보안 설정 업데이트가
+    <string name="account_security_dialog_content_fmt">"%s 항목은 보안 설정 업데이트가
          필요합니다."</string>
     <string name="account_security_dialog_title">보안 업데이트</string>
     <string name="account_security_policy_explanation_fmt">"%s 서버에서 귀하의 안드로이드 기기의 일부 보안 기능을
@@ -34,7 +34,7 @@
     <string name="account_settings_enforced_summary">없음</string>
     <string name="account_settings_incoming_summary">사용자 이름, 비밀번호, 기타 서버 설정</string>
     <string name="account_settings_login_dialog_content_fmt">%s의 사용자 이름이나 비밀번호가 올바르지 않습니다. 지금 업데이트하시겠습니까?</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">%s(으)로 로그인하지 못했습니다.서버 메시지에 %s(으)로 표시됩니다.</string>
+    <string name="account_settings_login_dialog_reason_fmt" formatted="false">%s 때문에 로그인하지 못했습니다.서버 메시지에 %s 라고 표시됩니다.</string>
     <string name="account_settings_login_dialog_title">로그인하지 못했습니다.</string>
     <string name="account_settings_mail_check_frequency_label">동기화 주기</string>
     <string name="account_settings_mibill_resolve_label">청구서 자동 관리</string>
