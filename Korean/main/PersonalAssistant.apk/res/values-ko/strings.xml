@@ -340,7 +340,7 @@
   <string name="groupon_setting_brief">구매하신 티켓과 쿠폰 내역입니다.</string>
   <string name="guide_button_btn_close">닫기</string>
   <string name="guide_button_btn_keep">보관</string>
-  <string name="hold_down_adjustment_order">항목을 드래그하려면 아이콘을 오른쪽으로 길게 누르십시오.</string>    
+  <string name="hold_down_adjustment_order">항목을 추가하려면 아이콘 우측코너의 추가버튼(+)을 누르십시오.</string>    
   <string name="home">홈</string>
   <string name="home_and_company">집 &amp; 직장</string>
   <string name="http_stock_error">정보를 불러올 수 없습니다.</string>
