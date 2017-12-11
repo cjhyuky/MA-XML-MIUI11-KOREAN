@@ -807,7 +807,7 @@
     <string name="recognize_setting_title">여행 설정</string>
     <string name="recognize_ticket_air_notification_content">안전한 비행되세요!</string>
     <string name="recognize_ticket_air_notification_title">비행기가 곧 %3$s (%1$s/%2$s) 이륙할 것입니다. 비행 정보를 확인하십시오.</string>
-    <string name="recognize_ticket_air_state_stopover">经停</string>
+    <string name="recognize_ticket_air_state_stopover">중간 기착</string>
     <string name="recognize_ticket_air_user_name">승객:</string>
     <string name="recognize_ticket_title">비행기 &amp; 기차 티켓</string>
     <string name="recognize_ticket_train_alter">변경됨</string>
