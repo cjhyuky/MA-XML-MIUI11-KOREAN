@@ -1095,4 +1095,21 @@
     <string name="toastbar_local_calendar_sync_switch_close">캘린더 알림을 수신하려면 캘린더 동기화 활성화</string>
     <string name="toastbar_local_contacts_sync_swtich_close">연락처를 추가하시려면 연락처 동기화 활성화</string>
     <string name="wait_help_context">대기</string>
+    <string name="accessibility_guide_first">다음 화면에서 \"서비스\"탭을 선택하여 139 사서함 자동화 설정을 활성화하세요</string>
+    <string name="accessibility_guide_second">그런 다음 오른쪽 상단에있는 스위치를 클릭하고 \"확인\"을 클릭하여 계속하십시오.</string>
+    <string name="account_cache_provider">계정 캐시 공급자</string>
+    <string name="auto_mail_describe">139 전자 메일 서비스 자동화를 사용하면 사서함에 로그인 정보를 자동으로 채울 수 있습니다. 이 기능을 사용 하시겠습니까?</string>
+    <string name="auto_mail_disable_txt">비활성화</string>
+    <string name="auto_mail_enable_txt">활성화</string>
+    <string name="auto_mail_go_email">메일함</string>
+    <string name="auto_mail_name">자동메일</string>
+    <string name="auto_mail_title_note">\"139 메일함 자동화 설정\"을 클릭하여 시작하세요.</string>
+    <string name="auto_mail_window_description">139 이메일 서비스 자동화 설정</string>
+    <string name="config_cancel">취소</string>
+    <string name="config_retry">재시도</string>
+    <string name="email_address">이메일 주소</string>
+    <string name="float_window_content">사서함을 사용하고 있음을 감지하면 확인을 클릭하여 전자 메일 계정과 암호를 자동으로 기억합니다.</string>
+    <string name="float_window_info">"139 사서함을 구성 할 때, 구성이 실패할 수 있으니 전화를 작동하지 마십시오."</string>
+    <string name="float_window_title">설정중………</string>
+    <string name="reply_subject_label">답장:</string>
 </resources>
