@@ -1061,4 +1061,5 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="video_history">재생기록</string>
     <string name="video_size">총 %d</string>
     <string name="video_today_recommend">추천 영상</string>
+    <string name="passport_user_agreement_p4">개인정보 보호정책</string>
 </resources>
