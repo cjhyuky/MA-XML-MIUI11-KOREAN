@@ -3809,7 +3809,7 @@ PIN 설정"</string>
     <string name="wifi_eap_sim_simcard">SIM 선택</string>
     <string name="cancel_action">취소</string>
     <string name="confirm_action">확인</string>
-    <string name="wakeup_for_keyguard_notification_title">알림에 잠금화면 켜기</string>
+    <string name="wakeup_for_keyguard_notification_title">알림 수신시 잠금화면 켜기</string>
     <string name="pref_edge_handgrip">에지 컨트롤</string>
     <string name="edge_mode_notification_title">엣지 컨트롤 사용</string>
     <string name="edge_mode_notification_summary">탭하여 더 알아보기.</string>
