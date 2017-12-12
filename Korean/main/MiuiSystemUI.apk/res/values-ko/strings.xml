@@ -670,4 +670,5 @@ EEEE"</string>
     <string name="accessibility_desc_select_block_notification">숨길 알림 선택</string>
     <string name="accessibility_desc_uncheck_block_notification">%1$s의 알림 선택 해제</string>
     <string name="accessibility_desc_weather_temperature">날씨 %1s도</string>
+    <string name="accessibility_desc_block_notification">알림 </string>
 </resources>
