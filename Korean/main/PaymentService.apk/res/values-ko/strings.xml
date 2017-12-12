@@ -444,4 +444,8 @@
     <string name="mibi_web_login_description">로그인</string>
     <string name="mibi_web_login_waiting">잠시만 기다려주세요…</string>
     <string name="mibi_web_sso_login_fail">다시 로그인하세요</string>
+    <string name="mibi_button_call_frozen_service">24시간 온라인 지원</string>
+    <string name="mibi_error_frozen_service_time">월요일부터 일요일까지</string>
+    <string name="mibi_error_frozen_summary">"귀하의 계정이 정지되었습니다. 샤오미 고객센터에 문의하세요."</string>
+    <string name="mibi_title_bill_record">구매 내역</string>
 </resources>
