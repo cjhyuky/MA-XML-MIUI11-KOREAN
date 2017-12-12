@@ -477,6 +477,6 @@
     <string name="trans_wlan_tips_message">"데이터 전송중 Wi-Fi를 끄거나 변경하지 마세요. 미 무버가 정상적으로 작동하지 않을 수 있습니다."</string>
     <string name="trans_wlan_tips_title">"Wi-Fi를 끄지 마세요."</string>
     <string name="mms_title">멀티미디어 메세지</string>
-    <string name="trans_one_key_migrate">미 무버</string>
+    <string name="trans_one_key_migrate">Mi </string>
     <string name="trans_intro_question_9">"%d. 어떤 항목을 전송할 수 없나요?"</string>
 </resources>
