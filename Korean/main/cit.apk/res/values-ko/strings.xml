@@ -658,4 +658,5 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="tp_color">TP 색상:</string>
   <string name="tp_version">TP 버전:</string>
   <string name="wait_test">테스트 대기중</string>
+  <string name="cit_hall_test_summary">녹색 영역에 자석이 가까워지면 문자가 가까워야하며 그렇지 않으면 문자가 멀리 떨어져야합니다.</string>
 </resources>
