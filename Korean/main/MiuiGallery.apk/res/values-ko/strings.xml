@@ -1100,4 +1100,6 @@
     <string name="photomovie_tab_template">템플릿</string>
     <string name="photomovie_template_default">느리게</string>
     <string name="slim_dialog_message">수정된 HD 사진들은 원본 사진들이 아닌 Mi 클라우드에서 다운로드됩니다.</string>
+    <string name="search_feedback_task_finish_title">보상을 받으려면 누르십시오!</string>
+    <string name="search_mark_feedback_all_false_negative_title">모두 \"%s\"입니다.</string>
 </resources>
