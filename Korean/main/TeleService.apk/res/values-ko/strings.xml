@@ -1918,7 +1918,7 @@
     <string name="callFailed_resources_unavailable_or_unspecified">리소스 사용 불가능</string>
     <string name="power_charging_duration_ac">AC로 완전 충전까지 %1$s - %2$s 소요</string>
     <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">선호하는 네트워크 : TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
-    <string name="miui_notification_network_selection_text">SIM %s 선택한 네트워크 (%s) 사용할 수 없음</string>
+    <string name="miui_notification_network_selection_text">선택한 네트워크로는 이 유심을 사용할 수 없습니다</string>
     <string name="other_available_phone_accounts">사용가능한 다른 계정</string>
     <string name="preferred_phone_account">선호하는 통화 계정</string>
     <string name="volte_switch_not_support_summary2">"VoLTE 통화는 이동 통신사에서 지원하지 않습니다."</string>
