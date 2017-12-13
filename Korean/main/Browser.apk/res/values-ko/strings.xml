@@ -172,7 +172,7 @@
   <string name="contextmenu_add_contact">연락처 추가</string>
   <string name="contextmenu_copy">복사</string>
   <string name="contextmenu_copylink">URL 링크 복사</string>
-  <string name="contextmenu_dial_dot">다이얼…</string>
+  <string name="contextmenu_dial_dot">통화</string>
   <string name="contextmenu_download_image">이미지 저장</string>
   <string name="contextmenu_download_image_as">이미지 저장</string>
   <string name="contextmenu_map">지도</string>
