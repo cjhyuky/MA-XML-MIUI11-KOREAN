@@ -4918,7 +4918,7 @@ PIN 설정"</string>
     <string name="process_dex2oat_label">앱 최적화</string>
     <string name="process_format">%1$s (%2$d)</string>
     <string name="process_stats_bg_ram_use">RAM 사용량 (백그라운드)</string>
-    <string name="process_stats_os_cache">캐쉬</string>
+    <string name="process_stats_os_cache">캐시</string>
     <string name="process_stats_os_kernel">커널</string>
     <string name="process_stats_os_label">안드로이드 OS</string>
     <string name="process_stats_os_native">자연</string>
@@ -5063,7 +5063,7 @@ PIN 설정"</string>
     <string name="status_serialno">시리얼 번호</string>
     <string name="storage_detail_apps">앱</string>
     <string name="storage_detail_audio">오디오</string>
-    <string name="storage_detail_cached">캐쉬 데이터</string>
+    <string name="storage_detail_cached">캐시 데이터</string>
     <string name="storage_detail_dialog_other">"기타는 앱에서 저장한 공유 파일, 인터넷이나 블루투스에서 다운로드 한 파일, 안드로이드 파일 등을 포함합니다.”</string>
     <string name="storage_detail_dialog_user">"^1 의 데이터가 ^2 저장소를 차지하고 있을 수 있습니다.</string>
     <string name="storage_detail_explore">^1 탐색하기</string>

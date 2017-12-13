@@ -2170,7 +2170,7 @@ Rolled over extra data"</string>
     <string name="antivirus_main_activity_back">뒤로</string>
     <string name="app_manager_as_dlg_msg">앱 자동시작을 허용할 경우 램과 배터리를 더 소모할 수 있습니다. 그래도 허용하시겠습니까?</string>
     <string name="app_manager_as_dlg_title">주의</string>
-    <string name="app_manager_clear_cache">캐쉬 삭제</string>
+    <string name="app_manager_clear_cache">캐시 삭제</string>
     <string name="app_manager_copy_pkg_to_clip">클립보드에 복사됨</string>
     <string name="app_manager_default_cleared">삭제됨</string>
     <string name="app_manager_defaults_setting">기본 앱</string>
