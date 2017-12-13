@@ -1678,7 +1678,7 @@ Rolled over extra data"</string>
     <string name="toast_lockscreen_glogin_empty_password">비밀번호 요구됨</string>
     <string name="lockscreen_glogin_checking_password">확인 중…</string>
     <string name="passwordIncorrect">사용자 이름이나 비밀번호가 올바르지 않습니다.</string>
-    <string name="access_control_app_is_launching">App is starting</string>
+    <string name="access_control_app_is_launching">앱이 시작됩니다</string>
     <string name="access_control_need_to_unlock_nofingerprint">앱 잠금 비밀번호 입력</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">앱 실행에 비밀번호가 요구됩니다.</string>
     <string name="access_control_fingerprint_not_identified_msg">지문 식별 실패</string>
