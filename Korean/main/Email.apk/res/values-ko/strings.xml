@@ -571,7 +571,7 @@
     <string name="menu_contact_edit">편집</string>
     <string name="menu_discovery">프로모션</string>
     <string name="menu_folder_options">동기화 옵션</string>
-    <string name="menu_move_to">이동 방향</string>
+    <string name="menu_move_to">다른 편지함으로 이동</string>
     <string name="menu_move_to_inbox">받은 편지함으로 이동</string>
     <string name="menu_photo_save_all">모두 저장</string>
     <string name="menu_photo_share">공유</string>
