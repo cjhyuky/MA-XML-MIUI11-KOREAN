@@ -600,7 +600,7 @@
     <string name="min_payment_text">최소 결제</string>
     <string name="more_atts_remaining">%1$d개 더 남음</string>
     <string name="more_context">더 보기</string>
-    <string name="move_to_selection_dialog_title">다른 폴더로 이동</string>
+    <string name="move_to_selection_dialog_title">다른 편지함으로 이동</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">음소거</string>
     <string name="network_error">연결 없음</string>
