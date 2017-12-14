@@ -5480,4 +5480,6 @@ PIN 설정"</string>
     <string name="notification_log_no_title">(없음)</string>
     <string name="keywords_color_temperature">색온도 D65 D73 흰색 노랑 파랑 따뜻한 차가운</string>
     <string name="setup_add_fingerprint_failed_retry_text">"지문 추가 실패"</string>
+	<string name="tether_data_usage_limit">일회성 데이터 제한 설정</string>
+	<string name="tether_data_usage_limit_summary">다음에 핫스팟을 활성화하실때 데이터 제한이 활성화됩니다.</string>
 </resources>
