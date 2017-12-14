@@ -110,7 +110,7 @@ EEEE"</string>
     <string name="description_target_search">검색</string>
     <string name="status_bar_date_format_12">"M월dd일
 EEEE"</string>
-    <string name="status_bar_clock_date_format">M월d일 EEE</string>
+    <string name="status_bar_clock_date_format">M월d일 EEEE</string>
     <string name="status_bar_recent_memory_info1">%2$sB 중 %1$sB 사용 가능</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="accessibility_recent_task_exit">최근 닫음</string>
