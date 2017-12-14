@@ -6,7 +6,7 @@
     <string name="about_version_label">"버전 "</string>
     <string name="account_auth_fail">계정 인증 실패</string>
     <string name="actor">배우</string>
-    <string name="actor_intro">더보기</string>	
+    <string name="actor_intro">더보기</string>
     <string name="ad_countdown">%s초 남음</string>
     <string name="ad_moredetail">세부사항 보기</string>
     <string name="add_more_addons">더 많은 애드온 추가</string>

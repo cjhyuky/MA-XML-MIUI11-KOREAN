@@ -470,7 +470,7 @@
     <string name="region_not_support">" 해당 지역에서 테마가 지원되지 않습니다."</string>
     <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_detail_vertical_divider">|</string>
-	<string name="online_precust_cartoon">만화</string>
-	<string name="online_precust_entertainment">엔터테인먼트</string>
-	<string name="online_precust_starry_sky">푸른 하늘</string>
+    <string name="online_precust_cartoon">만화</string>
+    <string name="online_precust_entertainment">엔터테인먼트</string>
+    <string name="online_precust_starry_sky">푸른 하늘</string>
 </resources>
