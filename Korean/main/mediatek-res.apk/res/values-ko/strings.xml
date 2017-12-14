@@ -198,4 +198,10 @@
     <string name="wifi_display_channel_confliction">채널 충돌</string>
     <string name="wifi_display_wifi_network_cannot_coexist">현재 Wi-Fi 네트워크는 캐스트 스크린 연결과 함께 사용할 수 없습니다.</string>
     <string name="msensor_toast_text">나침반 간섭. 그림 8과 같이 전화기를 흔들어 나침반을 다시 보정하십시오.</string>
+    <string name="choose_account">계정 선택</string>
+    <string name="confirm_radio_msg_UIM">번호를 사용하려면, 먼저 비행기 모드를 켜세요.</string>
+    <string name="ext_media_status_shared">공유됨</string>
+    <string name="Midnight">자정</string>
+    <string name="other_accounts">기타 계정</string>
+    <string name="usb_cd_installer_notification_title">설치 프로그램으로 연결됨</string>
 </resources>

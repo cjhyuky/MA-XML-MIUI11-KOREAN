@@ -5480,6 +5480,32 @@ PIN 설정"</string>
     <string name="notification_log_no_title">(없음)</string>
     <string name="keywords_color_temperature">색온도 D65 D73 흰색 노랑 파랑 따뜻한 차가운</string>
     <string name="setup_add_fingerprint_failed_retry_text">"지문 추가 실패"</string>
-	<string name="tether_data_usage_limit">일회성 데이터 제한 설정</string>
-	<string name="tether_data_usage_limit_summary">다음에 핫스팟을 활성화하실때 데이터 제한이 활성화됩니다.</string>
+    <string name="tether_data_usage_limit">일회성 데이터 제한 설정</string>
+    <string name="tether_data_usage_limit_summary">다음에 핫스팟을 활성화하실때 데이터 제한이 활성화됩니다.</string>
+    <string name="close_dialog">확인</string>
+    <string name="disable_data_string">데이터 연결 비허용</string>
+    <string name="enable_data_string">데이터 연결 허용</string>
+    <string name="input_password_hint_text">비밀번호 입력</string>
+    <string name="miracast_error_connection_in_progress">연결중…</string>
+    <string name="miracast_menu_search">검색</string>
+    <string name="miracast_menu_searching">검색 중</string>
+    <string name="miracast_setup_cancel">취소</string>
+    <string name="miracast_setup_save">저장</string>
+    <string name="miracast_sink_busy">바쁨</string>
+    <string name="miracast_sink_connected">연결됨</string>
+    <string name="miracast_sink_connecting">연결중…</string>
+    <string name="miracast_sink_not_available">불가능</string>
+    <string name="night_mode_auto">자동</string>
+    <string name="night_mode_no">약</string>
+    <string name="night_mode_yes">다크</string>
+    <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">더 알아보기</string>
+    <string name="security_settings_fingerprint_enroll_onboard_message_2">지문 추가</string>
+    <string name="sim_disabled">비활성화됨</string>
+    <string name="sim_enabled">활성화됨</string>
+    <string name="sim_enabler_enabling">… 활성화 중</string>
+    <string name="status_bar_screen_button_desc">아래로 스와이프하여 화면 버튼을 숨깁니다.</string>
+    <string name="trust_agent_disabled_device_admin">관리자에 의해 비활성화됨</string>
+    <string name="unlock_set_unlock_password_none">없음</string>
+    <string name="usb_sdcard_title">SD 카드 장착</string>
+
 </resources>

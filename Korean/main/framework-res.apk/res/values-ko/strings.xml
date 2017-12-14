@@ -1860,4 +1860,20 @@
     <string name="zen_mode_feature_name">방해 금지 모드</string>
     <string name="zen_mode_forever_dnd">방해 금지 모드를 해제할때까지</string>
     <string name="zen_mode_until">%1$s까지</string>
+    <string name="date_picker_mode">캘린더</string>
+    <string name="global_action_choose_profile">프로필</string>
+    <string name="lockscreen_airplane_mode_on">비행기 탑승 모드</string>
+    <string name="permgrouplab_security">보안</string>
+    <string name="profileGroupCalendar">캘린더</string>
+    <string name="profileGroupEmail">이메일</string>
+    <string name="profileGroupPhone">전화</string>
+    <string name="profileGroupSMS">문자메시지</string>
+    <string name="profileNameDefault">기본값</string>
+    <string name="profileNameHome">집</string>
+    <string name="profileNameNight">야간</string>
+    <string name="profileNameSilent">무음</string>
+    <string name="profileNameWork">업무</string>
+    <string name="profile_none">없음</string>
+    <string name="time_picker_mode">시계</string>
+    <string name="wildcardProfile">기타</string>
 </resources>

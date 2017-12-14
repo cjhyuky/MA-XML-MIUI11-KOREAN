@@ -493,4 +493,13 @@
     <string name="phone_search">구글 검색</string>
     <string name="privacy_appdata_chrome_history_des">방문한 웹사이트</string>
     <string name="name_debuglog_dir">Bsp 디버그 로그</string>
+    <string name="unlike">취소</string>
+    <string name="wechat_clean_finish_empty_summary">모든 것이 좋아 보입니다!</string>
+    <string name="wechat_qq_celan_tab_file">파일</string>
+    <string name="wechat_qq_celan_tab_image">이미지</string>
+    <string name="wechat_qq_celan_tab_video">동영상</string>
+    <string name="wechat_qq_celan_tab_voice">음성</string>
+    <string name="wechat_qq_deep_clean_button_text">고급 삭제</string>
+    <string name="wq_deep_clean_filter_all">모두</string>
+    <string name="wq_deep_clean_filter_week_ago">일주일 전</string>
 </resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">홈화면으로 이동</string>
+    <string name="abc_action_bar_up_description">위로 탐색</string>
+    <string name="abc_action_menu_overflow_description">옵션 더보기</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
+    <string name="abc_searchview_description_clear">최근 검색 삭제</string>
+    <string name="abc_searchview_description_query">최근 검색</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색어</string>
+    <string name="abc_search_hint">검색중…</string>
+    <string name="abc_shareactionprovider_share_with">공유하기</string>
+    <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
+    <string name="abc_toolbar_collapse_description">툴바 접기</string>
+    <string name="loading">로딩중</string>
+    <string name="nnf_create_folder_error">폴더를 만들지 못함</string>
+    <string name="nnf_name">이름</string>
+    <string name="nnf_new_folder">새 폴더</string>
+</resources>

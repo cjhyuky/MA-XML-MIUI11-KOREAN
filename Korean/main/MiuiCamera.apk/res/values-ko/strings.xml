@@ -485,4 +485,18 @@
     <string name="pref_camera_device_watermark_title">기기 워터마크</string>
     <string name="pref_camera_flashmode_title">플래시 모드</string>
     <string name="toast_burst_snap_finished_summary">연속 촬영 완료, %1$s개 사진 촬영됨</string>
+    <string name="accessibility_intent_done_apply">완료</string>
+    <string name="front_camera_hint_text_confirm">확인</string>
+    <string name="pref_camera_beautify_entry_auto">끔</string>
+    <string name="pref_camera_exposuretime_entry_0.03125">32초</string>
+    <string name="pref_camera_exposuretime_entry_0.0625">16초</string>
+    <string name="pref_camera_exposuretime_entry_0.125">8초</string>
+    <string name="pref_camera_exposuretime_entry_0.25">4초</string>
+    <string name="pref_camera_exposuretime_entry_0_5">2초</string>
+    <string name="pref_camera_fisheye_title">어안렌즈</string>
+    <string name="pref_camera_mono_mode_title">흑백</string>
+    <string name="pref_camera_photostyle_default">표준</string>
+    <string name="pref_camera_photostyle_entry_standard">표준</string>
+    <string name="pref_camera_photostyle_entry_vivid">생생한</string>
+    <string name="pref_camera_zoom_value_title">줌</string>
 </resources>

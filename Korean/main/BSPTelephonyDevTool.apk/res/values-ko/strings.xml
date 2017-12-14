@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection">데이터 연결</string>
+    <string name="no">아니요</string>
+    <string name="off">끔</string>
+    <string name="phone">전화</string>
+    <string name="please_wait">잠시만 기다려주세요...</string>
+    <string name="yes">예</string>
+</resources>

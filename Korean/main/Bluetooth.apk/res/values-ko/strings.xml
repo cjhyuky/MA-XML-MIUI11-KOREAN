@@ -173,4 +173,10 @@
     <string name="permdesc_bluetoothAvrcpDataManager">앱이 블루투스 관련 앱을 사용할 수 있게 설정합니다.</string>
     <string name="permlab_bluetoothAvrcpDataManager">데이터 접근</string>
     <string name="upload_fail_waiting">업로드 실패, 재전송 대기중</string>
+    <string name="bluetooth_dun_authorize_allow">허용</string>
+    <string name="bluetooth_dun_authorize_decline">거절하기</string>
+    <string name="map_datasource_smsmms_name">SMS와 MMS</string>
+    <string name="map_datasource_sms_name">문자메시지</string>
+    <string name="map_provider_smsmms_name">메시지</string>
+    <string name="profile_mse">지도</string>
 </resources>

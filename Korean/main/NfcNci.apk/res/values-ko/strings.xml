@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_beam">안드로이드 빔</string>
+    <string name="cancel">취소</string>
+    <string name="device">기기</string>
+    <string name="inbound_me_profile_title">NFC로 연락처 수신</string>
+    <string name="no">아니요</string>
+    <string name="ok">확인</string>
+    <string name="pair_no">아니요</string>
+    <string name="pair_yes">예</string>
+    <string name="status_wifi_connected">연결됨</string>
+    <string name="title_connect_to_network">연결 없음</string>
+    <string name="wifi_connect">연결</string>
+</resources>

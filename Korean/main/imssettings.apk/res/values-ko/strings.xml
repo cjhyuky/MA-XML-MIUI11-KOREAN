@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ims_apn_settings_str_cancel">취소</string>
+    <string name="ims_apn_settings_str_confirm">확인</string>
+    <string name="ims_other_settings_name">기타 설정</string>
+    <string name="ims_reg_settings_digest_account">계정</string>
+    <string name="ims_reg_settings_digest_server">서버</string>
+    <string name="ims_settings_name_title">IMS 설정</string>
+    <string name="ims_settings_no_default_value">아니요</string>
+    <string name="ims_settings_value_no">아니요</string>
+    <string name="ims_settings_value_yes">예</string>
+</resources>
