@@ -2,8 +2,6 @@
 <resources>
     <string name="app_name">계산기</string>
     <string name="app_name_danfa">계산기</string>
-    <string name="error">오류</string>
-    <string name="devided_by_zero_reminder_message">0을 나눌 수 없습니다.</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -75,7 +73,6 @@
     <string name="unit_yuan">CNY</string>
     <string name="unit_year">년</string>
     <string name="unit_year_format">%s년</string>
-    <string name="error_fomrat">포맷 오류</string>
     <string name="mortgage_tab_commercial_loan">상업 대출</string>
     <string name="mortgage_tab_accumulation_fund">펀드 대출</string>
     <string name="mortgage_tab_combining_loan">혼합 대출</string>
