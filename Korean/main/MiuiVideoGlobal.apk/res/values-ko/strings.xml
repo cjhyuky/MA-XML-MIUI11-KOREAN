@@ -244,7 +244,6 @@
     <string name="t_deleting">삭제 중…</string>
     <string name="t_exit_app">다시 탭하여 나가기</string>
     <string name="t_password_null">비밀번호를 입력하세요.</string>
-    <string name="vp_device_list">기기</string>
     <string name="v_agree">동의</string>
     <string name="v_cancel">취소</string>
     <string name="v_canceled">취소됨</string>
