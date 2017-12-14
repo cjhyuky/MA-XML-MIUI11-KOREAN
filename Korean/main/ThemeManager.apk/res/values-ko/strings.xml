@@ -6,8 +6,7 @@
     <string name="resource_price_unit"> Mi 크레딧</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_not_mounted_dialog_title">SD 카드 발견되지 않음</string>
-    <string name="sdcard_not_mounted_dialog_message">"지금 SD 카드를 삽입하십시오.
-"</string>
+    <string name="sdcard_not_mounted_dialog_message">"지금 SD 카드를 삽입하십시오."</string>
     <string name="resource_mute">없음</string>
     <string name="resource_default">기본 벨소리</string>
     <string name="resource_ringtone_default">벨소리</string>
@@ -471,5 +470,7 @@
     <string name="region_not_support">" 해당 지역에서 테마가 지원되지 않습니다."</string>
     <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_detail_vertical_divider">|</string>
-
+	<string name="online_precust_cartoon">만화</string>
+	<string name="online_precust_entertainment">엔터테인먼트</string>
+	<string name="online_precust_starry_sky">푸른 하늘</string>
 </resources>
