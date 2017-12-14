@@ -2267,4 +2267,10 @@ Rolled over extra data"</string>
     <string name="app_manager_support_uninstall">이 앱들을 삭제할 수 있습니다</string>
     <string name="app_manager_total_size">총</string>
     <string name="back_description_securitycenter">뒤로가기</string>
+    <string name="firewall_mobile">모바일데이터</string>
+    <string name="more_settings">더 보기</string>
+    <string name="tether_custom_dialog_title">모바일 데이터 한도</string>
+    <string name="tether_limit_dialog_title">모바일 데이터 한도</string>
+    <string name="tether_limit_value_custom">사용자 설정</string>
+    <string name="tether_over_limit_dialog_title">데이터 사용량 경고</string>
 </resources>

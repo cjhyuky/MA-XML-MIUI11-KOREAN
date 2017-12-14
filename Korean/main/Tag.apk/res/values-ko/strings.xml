@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_call">%s로 통화</string>
+    <string name="action_text">%s로 문자</string>
+    <string name="button_done">완료</string>
+</resources>

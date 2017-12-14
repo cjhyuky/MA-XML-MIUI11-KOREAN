@@ -97,4 +97,5 @@
     <string name="work_profile_setup_later_message">나중에 프로필을 설정할 수도 있습니다.</string>
     <string name="work_profile_setup_later_title">프로필 설정을 중단하시겠습니까?</string>
     <string name="work_profile_setup_stop">정지</string>
+    <string name="profile_owner_cancel_title">설정을 중단하시겠습니까?</string>
 </resources>

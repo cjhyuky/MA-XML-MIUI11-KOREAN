@@ -98,5 +98,6 @@
     <string name="open_external_dialog_root_request"><b>^1</b> 에게 <i>^2</i>의 엑세스 권한을 허용합니까?</string>
     <string name="rename_error">파일 이름 변경 실패</string>
     <string name="too_many_in_select_all">최대 1000개까지만 선택 가능</string>
-    <string name="too_many_selected">한번에 최대 1000개까지만 선택하실 수 있습니다.</string>   
+    <string name="too_many_selected">한번에 최대 1000개까지만 선택하실 수 있습니다.</string>
+    <string name="retry">재시도</string>
 </resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="action_settings">설정</string>
+    <string name="cold">전력량 낮음</string>
+    <string name="delete">삭제</string>
+    <string name="full">완전 충전됨</string>
+    <string name="hot">인기영상</string>
+    <string name="phone">전화</string>
+    <string name="phone_edit">편집</string>
+    <string name="settings">설정</string>
+</resources>

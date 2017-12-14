@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">취소</string>
+    <string name="illegal_arguments_error">오류 발생</string>
+    <string name="loading_tip">잠시 기다려주십시오…</string>
+    <string name="load_image_error">사진을 불러올 수 없습니다.</string>
+    <string name="m_fancy_color_effect_negative">부정적</string>
+    <string name="m_fancy_color_effect_normal">보통</string>
+    <string name="refocus">재초점</string>
+    <string name="save">저장</string>
+    <string name="save_dialog_title">저장</string>
+    <string name="save_error">사진 저장 실패</string>
+    <string name="saving_image">사진 저장 중…</string>
+    <string name="wait_error">잠시 기다려주십시오…</string>
+</resources>

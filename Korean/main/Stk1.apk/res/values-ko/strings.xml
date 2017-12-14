@@ -69,4 +69,11 @@
     <string name="lable_on_flight_mode">이 앱은 비행기 모드에서 사용할 수 없습니다.</string>
     <string name="lable_sim_not_ready">SIM 툴키트가 준비되지 않았거나 지원되지 않습니다.</string>
     <string name="no_sim_card_inserted">SIM를 넣어 SIM 키트를 시작하십시오.</string>
+    <string name="default_open_channel_msg">열린 채널입니까?</string>
+    <string name="sim_type_sim_name">SIM 툴킷</string>
+    <string name="sim_type_uim_name">UIM 도구 킷</string>
+    <string name="sim_type_usim_name">USIM 도구 킷</string>
+    <string name="stk_dialog_accept">예</string>
+    <string name="stk_dialog_reject">아니요</string>
+    <string name="stk_dialog_title">SIM 툴킷</string>
 </resources>

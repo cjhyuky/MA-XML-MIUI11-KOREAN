@@ -605,4 +605,13 @@
     <string name="legacy_dhcp_client_summary">이전 안드로이드 버전의 DHCP 사용</string>
     <string name="show_cpu_usage">CPU 사용량 보이기</string>
     <string name="show_cpu_usage_summary">현재 CPU 사용량을 화면에 오버레이하여 보이기</string>
+    <string name="activity_package_delete_confirm_title">중요 경고</string>
+    <string name="button_text_cancel">취소</string>
+    <string name="button_text_delete">삭제</string>
+    <string name="button_text_next_step">다음</string>
+    <string name="button_text_next_step_timer">다음 (%d)</string>
+    <string name="miui_uninstall_application_text">이 앱을 제거하시겠습니까?</string>
+    <string name="miui_uninstall_update_text">이 앱을 공장 초기 버전으로 교체하시겠습니까? 모든 데이터가 삭제될 것입니다.</string>
+    <string name="package_delete_confirm_step_1">%s을(를) 삭제하시겠습니까?</string>
+
 </resources>
