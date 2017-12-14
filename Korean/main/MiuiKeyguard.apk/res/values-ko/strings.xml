@@ -13,8 +13,8 @@
     <string name="input_pin_code">PIN 입력</string>
     <string name="incorrect_pukcode">잘못된 PUK 코드</string>
     <string name="incorrect_pincode">잘못된 PIN 코드</string>
-    <string name="lock_screen_date">M월d일 EE</string>
-    <string name="lock_screen_date_12">M월d일 EE aa</string>
+    <string name="lock_screen_date">M월d일 EEEE</string>
+    <string name="lock_screen_date_12">M월d일 EEEE</string>
     <string name="phone_locked_string">휴대전화가 잠겨 있습니다.</string>
     <string name="phone_locked_foget_password">비밀번호를 분실하셨습니까?</string>
     <string name="phone_locked_foget_password_method">비밀번호를 잊으셨습니까?</string>
