@@ -659,4 +659,15 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="tp_version">TP 버전:</string>
   <string name="wait_test">테스트 대기중</string>
   <string name="cit_hall_test_summary">녹색 영역에 자석이 가까워지면 문자가 가까워야하며 그렇지 않으면 문자가 멀리 떨어져야합니다.</string>
+  <string name="cit_audio_cali_valueC">카운터 : </string>
+  <string name="cit_button_light_writein">점등된 불의 밝기</string>
+  <string name="cit_left_button_light">좌측 빨간불</string>
+  <string name="cit_right_button_light">빨간불</string>
+  <string name="sd_correct_status">정상</string>
+  <string name="sd_external_storage">"외장 메모리 상태 : "</string>
+  <string name="sd_read_exception">예외 사항</string>
+  <string name="sd_remained">"사용 가능한 용량 : "</string>
+  <string name="sd_total">"전체 용량 : "</string>
+  <string name="sd_used">"사용된 용량 : "</string>
+  <string name="sd_wrong_status">잘못된 형식</string>
 </resources>
