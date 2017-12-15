@@ -499,4 +499,14 @@
     <string name="pref_camera_photostyle_entry_standard">표준</string>
     <string name="pref_camera_photostyle_entry_vivid">생생한</string>
     <string name="pref_camera_zoom_value_title">줌</string>
+    <string name="camera_facedetection_sub_option_hint">베타 배포 옵션 사용 가능</string>
+    <string name="front_camera_hint_text_place">"핸드폰을 가로로 돌려 셀카를 편하게 촬영하세요."</string>
+    <string name="front_camera_hint_text_rotate">핸드폰 돌리기</string>
+    <string name="pref_camera_facedetection_auto_hidden_title">안면 인식 숨겨짐</string>
+    <string name="pref_camera_raw_title">RAW</string>
+    <string name="simple_mode_button_text_mono">흑백 모드</string>
+    <string name="simple_mode_button_text_raw">RAW 모드</string>
+    <string name="accessibility_photo_style_button">PhotoStyleButton</string>
+    <string name="pref_camera_photostyle_title">사진 스타일</string>
+    <string name="simple_mode_button_text_fisheye">배불뚝이 모드</string>
 </resources>
