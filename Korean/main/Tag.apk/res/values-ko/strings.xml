@@ -3,4 +3,13 @@
     <string name="action_call">%s로 통화</string>
     <string name="action_text">%s로 문자</string>
     <string name="button_done">완료</string>
+    <string name="app_name">태그</string>
+    <string name="empty_tag_prompt">태그가 없습니다.</string>
+    <string name="import_vcard">^1 불러오기</string>
+    <string name="mime_display_name">NFC로 태그 데이터 불러오기</string>
+    <string name="tag_empty">빈 태그</string>
+    <string name="tag_unknown">알 수 없는 태그</string>
+    <string name="title_existing_tag">태그</string>
+    <string name="title_scanned_tag">새로운 태그 수집됨</string>
+    <string name="vcard_title">^1의 연락처</string>
 </resources>
