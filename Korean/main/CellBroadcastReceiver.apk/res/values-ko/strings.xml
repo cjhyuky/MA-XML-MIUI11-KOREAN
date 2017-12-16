@@ -50,8 +50,8 @@
     <string name="enable_cmas_extreme_threat_alerts_summary">생명과 재산에 대한 극단적인 위협에 대해 경보 표시</string>
     <string name="enable_cmas_severe_threat_alerts_title">심각한 위협 표시</string>
     <string name="enable_cmas_severe_threat_alerts_summary">생명 및 재산에 대한 심각한 위협에 대해 경보 표시</string>
-    <string name="enable_cmas_amber_alerts_title">황색 경보 표시</string>
-    <string name="enable_cmas_amber_alerts_summary">아동 유괴 긴급상황 공지 표시(황색 경보)</string>
+    <string name="enable_cmas_amber_alerts_title">앰버 경고 표시</string>
+    <string name="enable_cmas_amber_alerts_summary">아동 유괴 긴급상황 공지 표시 (앰버 경보)</string>
     <string name="enable_cmas_test_alerts_title">CMAS 테스트 브로드캐스트 표시</string>
     <string name="enable_cmas_test_alerts_summary">모바일 경보 시스템(CMAS)에 대한 테스트 브로드캐스트 표시</string>
     <string name="enable_alert_vibrate_title">진동</string>
