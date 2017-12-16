@@ -502,4 +502,14 @@
     <string name="wechat_qq_deep_clean_button_text">고급 삭제</string>
     <string name="wq_deep_clean_filter_all">모두</string>
     <string name="wq_deep_clean_filter_week_ago">일주일 전</string>
+    <string name="qq_clean_finish_summary">파일 삭제됨</string>
+    <string name="wechat_clean_canceled_empty_summary">"완료되지 않았습니다. 다시 시도하세요."</string>
+    <string name="wechat_clean_finish_summary">선택한 파일 삭제됨</string>
+    <string name="wq_deep_clean_filter_month_ago">1개월 전</string>
+    <string name="wq_deep_clean_filter_three_month_ago">3개월 전</string>
+    <string name="wq_deep_clean_filter_years_ago">6개월 전</string>
+    <string name="wqfile_group_chat_file">다른 파일</string>
+    <string name="wqfile_group_chat_pic">사진 채팅</string>
+    <string name="wqfile_group_chat_video">영상통화</string>
+    <string name="wqfile_group_chat_voice">음성통화</string>
 </resources>
