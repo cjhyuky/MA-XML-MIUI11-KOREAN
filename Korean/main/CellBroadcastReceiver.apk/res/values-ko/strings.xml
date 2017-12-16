@@ -140,5 +140,18 @@
     <string name="alert_message">경고 메세지</string>
     <string name="emergency_alert">긴급 경보</string>
     <string name="required_monthly_test">월 정기 테스트를 해야 합니다.</string>
+    <string name="emergency_alerts">긴급 경보</string>
+    <string name="exercise">운동</string>
+    <string name="exercises">운동</string>
+    <string name="national_emergency_alert">국가 재난 긴급 경보</string>
+    <string name="national_emergency_alerts">국가 재난 긴급 경보</string>
+    <string name="test_alert">테스트 경보</string>
+    <string name="test_alerts">테스트 경보</string>
+    <string name="warning_alert">경고 경보</string>
+    <string name="warning_alerts">경고 경보</string>
+    <string name="cmas_amber_alert_off_summary">앰버 경고 수신을 거부합니다.</string>
+    <string name="cmas_amber_alert_on_summary">앰버 경고 수신 거부를 선택하셨습니다.</string>
+    <string name="cmas_extreme_alert_off_summary">긴급 경보 수신 거부를 선택하셨습니다.</string>
+    <string name="cmas_extreme_alert_on_summary">긴급 경보 수신을 선택하셨습니다.</string>
 </resources>
 
