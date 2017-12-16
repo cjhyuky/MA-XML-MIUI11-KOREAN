@@ -19,4 +19,21 @@
     <string name="nnf_create_folder_error">폴더를 만들지 못함</string>
     <string name="nnf_name">이름</string>
     <string name="nnf_new_folder">새 폴더</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="act_set_pref_btsc_cust_path_summary">%1$s</string>
+    <string name="act_set_pref_btsc_cust_path_title">스택 사용자 설정</string>
+    <string name="act_set_pref_systool_open_engmode_summary">대화 VM: 하드웨어 설정 > 오디오 > 스피치 로거</string>
+    <string name="act_set_pref_systool_open_engmode_title">엔지니어 모드 열기</string>
+    <string name="act_set_pref_systool_open_mtklogger_summary">MtkLogger 홈 화면 열기</string>
+    <string name="act_set_pref_systool_open_mtklogger_title">MtkLogger 열기</string>
+    <string name="act_set_pref_test_situation_dialog_title">테스트 시뮬레이션</string>
+    <string name="act_set_pref_test_situation_title">테스트 시뮬레이션 : %1$s</string>
+    <string name="act_set_prefs_bluetooth">Bluetooth Log Tool</string>
+    <string name="act_set_prefs_systool">MTK System Tool</string>
+    <string name="app_name">BT Tool</string>
+    <string name="app_version">0.9.6</string>
+    <string name="nnf_permission_external_write_denied">접근이 거부되었습니다.</string>
+    <string name="nnf_select_something_first">먼저 선택하세요.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
