@@ -41,9 +41,9 @@
         <item>경고 후 모바일 데이터 끄기</item>
     </string-array>
     <string-array name="roaming_network_type">
-        <item>항상</item>
-        <item>오직 예외 사항만</item>
-        <item>안함</item>
+        <item>항상 허용</item>
+        <item>설정된 예외 사항의 경우만 허용</item>
+        <item>허용 안함</item>
     </string-array>
     <string-array name="lock_mode">
         <item>기기가 잠겨있을 때</item>
