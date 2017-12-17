@@ -165,4 +165,6 @@
     <string name="restore_unfinished">나중에 다시 시도하세요.</string>
     <string name="restoring_file_tile">%d 파일 복원중</string>
     <string name="total_space">전체 용량 : %s</string>
+    <string name="device_corrupt">Mi 폰 (손상된 데이터)</string>
+    <string name="size_unknown">알 수 없는 크기</string>
 </resources>
