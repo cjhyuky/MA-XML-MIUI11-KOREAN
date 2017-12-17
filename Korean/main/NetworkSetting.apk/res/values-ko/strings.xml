@@ -13,4 +13,12 @@
     <string name="search_networks">네트워크 검색</string>
     <string name="select_automatically">자동으로 선택</string>
     <string name="sum_select_automatically">기본 설정 네트워크 자동으로 선택</string>
+    <string name="China_Mobile">차이나모바일</string>
+    <string name="China_Telecom">차이나텔레콤</string>
+    <string name="China_Unicom">차이나유니콤</string>
+    <string name="dialog_message">검색을 중단합니다. 계속 진행하시겠습니까?</string>
+    <string name="disconnect_data_confirm">모바일 네트워크가 잠시 연결 해제됩니다. 계속하시겠습니까?</string>
+    <string name="network_forbidden">(금지됨)</string>
+    <string name="register_on_network">%1$s 등록중…</string>
+    <string name="timeout_message">사용 가능한 네트워크가 없습니다.</string>
 </resources>
