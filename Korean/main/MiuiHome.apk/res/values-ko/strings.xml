@@ -280,4 +280,7 @@
     <string name="edit_mode_group_error_full">저장 공간 부족</string>
     <string name="edit_mode_uninstall">설치 제거</string>
     <string name="memory_clear_nothing_result">삭제할 캐시 없음</string>
+    <string name="edit_mode_group_error_in_folder">아이콘을 묶기 전에 폴더를 정리하세요.</string>
+    <string name="edit_mode_group_error_one_folder">"선택한 아이콘을 이용해 폴더를 복사할 수 없습니다."</string>
+    <string name="memory_clear_result">%1$sB 삭제됨</string>
 </resources>
