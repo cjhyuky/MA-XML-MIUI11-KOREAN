@@ -96,4 +96,20 @@
     <string name="download_running">진행 중</string>
     <string name="download_error">실패</string>
     <string name="download_running_percent">%d%% 진행 중</string>
+    <string name="byteShort">B</string>
+    <string name="dialog_speed_msg">데이터 네트워크를 사용한 네트워크 테스트는 많은 양의 데이터를 소모합니다. 계속 진행하시겠습니까?</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="home_page_new_download_guide">여기서 다운로드하세요.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="megabyteShort">MB</string>
+    <string name="percent_title">%1$s명이 다운로드함</string>
+    <string name="petabyteShort">PB</string>
+    <string name="speed_result_broadband_text1">현재 다운로드 속도</string>
+    <string name="speed_result_broadband_text2">%s 대역폭</string>
+    <string name="speed_tip_netwrok_fail">네트워크 오류 발생, 다시 시도하세요.</string>
+    <string name="speed_tip_netwrok_timeout">연결 시간 초과, 다시 시도하세요.</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_update_data_limit_fail">"설정할 수 없음"</string>
+    <string name="menu_back">Xunlei 멤버쉽으로 돌아가기</string>
 </resources>
