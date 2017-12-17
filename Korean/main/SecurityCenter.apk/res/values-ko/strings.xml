@@ -2273,4 +2273,12 @@ Rolled over extra data"</string>
     <string name="tether_limit_dialog_title">모바일 데이터 한도</string>
     <string name="tether_limit_value_custom">사용자 설정</string>
     <string name="tether_over_limit_dialog_title">데이터 사용량 경고</string>
+    <string name="firewall_system_title">시스템 앱을 위해 모바일 데이터 사용</string>
+    <string name="firewall_wifi">Wi-Fi</string>
+    <string name="pref_key_tethering_setting">일회성 데이터 한도 제한</string>
+    <string name="pref_key_tethering_title">일회성 데이터 한도 제한</string>
+    <string name="tether_over_limit_dialog_cancle_btn">핫스팟 초기화</string>
+    <string name="tether_over_limit_dialog_message">데이터 한도에 도달했습니다.</string>
+    <string name="tether_over_limit_warning_notify_message">핫스팟을 종료하세요.</string>
+    <string name="tether_over_limit_warning_notify_title">데이터 한도 도달</string>
 </resources>
