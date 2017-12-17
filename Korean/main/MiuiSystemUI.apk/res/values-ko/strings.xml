@@ -703,4 +703,16 @@ EEEE"</string>
     <string name="keyboard_shortcut_group_system_home">집</string>
     <string name="keyboard_shortcut_group_system_notifications">알림 알람</string>
     <string name="keyboard_shortcut_group_system_switch_input">입력 방법 전환</string>
+    <string name="accessibility_desc_work_lock">업무용 잠금화면</string>
+    <string name="keyboard_key_button_template">%1$s 버튼</string>
+    <string name="keyboard_key_insert">삽입</string>
+    <string name="keyboard_key_num_lock">Num Lock</string>
+    <string name="keyboard_key_numpad_template">숫자 패드 %1$s번</string>
+    <string name="keyboard_key_page_down">Page Down</string>
+    <string name="keyboard_key_page_up">Page Up</string>
+    <string name="keyboard_key_tab">탭</string>
+    <string name="keyboard_shortcut_group_applications">앱</string>
+    <string name="keyboard_shortcut_group_applications_im">IM 바로가기</string>
+    <string name="keyboard_shortcut_group_applications_youtube">유튜브</string>
+    <string name="keyboard_shortcut_group_system_shortcuts_helper">키보드 단축키</string>
 </resources>
