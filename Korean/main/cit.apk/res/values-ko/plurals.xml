@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_hiden_test">
+        <item quantity="other">%1$d단계만 거치면 실행할 수 있습니다.</item>
+        <item quantity="one">%1$d단계만 거치면 실행할 수 있습니다.</item>
+    </plurals>
+</resources>
