@@ -139,4 +139,6 @@
     <string name="face_unlock_down">머리를 들어주십시오</string>
     <string name="face_unlock_quality">얼굴이 정확히 보이지 않습니다</string>
     <string name="lock_screen_no_sim_card">SIM 카드 없음</string>
+    <string name="do_disclosure_generic">이 기기는 업무 그룹에 의해 관리됩니다.</string>
+    <string name="do_disclosure_with_name">이 기기는 %s에 의해 관리됩니다.</string>
 </resources>
