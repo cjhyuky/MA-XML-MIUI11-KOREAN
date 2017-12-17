@@ -12,4 +12,20 @@
     <string name="save_error">사진 저장 실패</string>
     <string name="saving_image">사진 저장 중…</string>
     <string name="wait_error">잠시 기다려주십시오…</string>
+    <string name="app_error">에러 발생, 앱을 종료합니다…</string>
+    <string name="background_effect">배경 효과</string>
+    <string name="fancy_color_tip">특정 포인트를 탭하여 사진을 꾸며보세요!</string>
+    <string name="fancycolor_title">배경 효과</string>
+    <string name="free_view_tip">핸드폰을 기울여 3D 모드를 사용해보세요.</string>
+    <string name="m_fancy_color_effect_blackboard">칠판</string>
+    <string name="m_fancy_color_effect_monochrome">모노</string>
+    <string name="m_fancy_color_effect_posterize">포스터</string>
+    <string name="m_fancy_color_effect_radial_blur">흐리게</string>
+    <string name="m_fancy_color_effect_silhouette">실루엣</string>
+    <string name="m_fancy_color_effect_stroke">획</string>
+    <string name="m_fancy_color_effect_whiteboard">화이트보드</string>
+    <string name="multi_view">3D 모드</string>
+    <string name="refocus_tip">사진을 탭하여 초점 잡기</string>
+    <string name="save_dialog_message">변경 사항을 저장하시겠습니까?</string>
+    <string name="saving_image_to_album">%1$s에 사진 저장중…</string>
 </resources>
