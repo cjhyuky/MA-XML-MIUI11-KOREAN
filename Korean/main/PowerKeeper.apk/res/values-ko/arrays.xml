@@ -67,8 +67,8 @@
         <item>기기 작업 빈도</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
+        <item>커널 웨이크락</item>
+        <item>웨이크락</item>
         <item>Wi-Fi 스캔</item>
         <item>GPS</item>
         <item>CPU</item>
@@ -80,11 +80,15 @@
         <item></item>
     </string-array>
     <string-array name="thermal_entries">
-        <item>Default warm control mode</item>
+        <item>기본 모드</item>
         <item>성능 모드</item>
     </string-array>
     <string-array name="thermal_summaries">
         <item>현재 기본 모드</item>
         <item>현재 성능 모드</item>
+    </string-array>
+        <string-array name="power_mode_entries">
+        <item>퍼포먼스 모드</item>
+        <item>균형 모드</item>
     </string-array>
 </resources>
