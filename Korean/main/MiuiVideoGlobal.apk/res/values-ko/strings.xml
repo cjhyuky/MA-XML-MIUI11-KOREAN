@@ -311,6 +311,7 @@
     <string name="subtitle_onlinesub_language">Language: %s</string>
     <string name="subtitle_onlinesub_loading">자막 로딩중…</string>
     <string name="subtitle_onlinesub_loading_wait">자막을 불러오는 중…</string>
+    <string name="subtitle_onlinesub_right_declare_content">&lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>에서 자막을 불러오세요. &lt;br/>&lt;br/> 모든 온라인 자막은&lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>에서 제공되었습니다.</string>
     <string name="subtitle_onlinesub_save_failed">"자막을 추가할 수 없습니다."</string>
     <string name="subtitle_onlinesub_save_success">자막 추가 완료</string>
     <string name="subtitle_onlinesub_search_keyword">키워드 추가</string>
