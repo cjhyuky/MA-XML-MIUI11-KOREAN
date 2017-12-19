@@ -940,7 +940,7 @@ Rolled over extra data"</string>
     <string name="usage_type_wifi_running">Wi-Fi 실행 중</string>
     <string name="usage_type_audio">오디오</string>
     <string name="usage_type_video">동영상</string>
-    <string name="usage_type_on_time">운행된 시간</string>
+    <string name="usage_type_on_time">사용 시간</string>
     <string name="battery_history_days">%1$d일 %2$d시간 %3$d분 %4$d초</string>
     <string name="battery_history_hours">%1$d시간 %2$d분 %3$d초</string>
     <string name="battery_history_minutes">%1$d분 %2$d초</string>
