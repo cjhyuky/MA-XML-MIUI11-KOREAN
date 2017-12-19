@@ -573,4 +573,5 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_main_space_full_message">더 큰 저장소를 미 클라우드에서 구매하세요.</string>
     <string name="title_back">뒤로가기</string>
     <string name="xiaomi_cloud_service_subtitle">중요한 자료를 한 곳에서 확인하세요!</string>
+    <string name="micloud_main_head_menu_cloud_backup">클라우드 백업</string>
 </resources>

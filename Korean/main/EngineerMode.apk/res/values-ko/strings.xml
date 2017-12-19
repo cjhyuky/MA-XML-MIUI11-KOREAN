@@ -388,4 +388,6 @@
     <string name="wps_dialog_init">진행</string>
     <string name="wps_dialog_ok">확인</string>
     <string name="wps_dialog_warn">Wi-Fi에 연결하십시오</string>
+    <string name="auto_dialer">자동 다이얼</string>
+    <string name="sim_switch">SIM 전환</string>
 </resources>

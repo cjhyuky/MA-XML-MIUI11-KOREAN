@@ -480,4 +480,9 @@
     <string name="trans_one_key_migrate">Mi </string>
     <string name="trans_intro_question_9">"%d. 어떤 항목을 전송할 수 없나요?"</string>
     <string name="trans_intro_desc_2">중복 파일 문제입니다. 미 무버를 다시 시작해주세요.</string>
+    <string name="list_footer_tip_title">팁:</string>
+    <string name="trans_detail_app_apk_list_title">설치된 어플리케이션</string>
+    <string name="trans_detail_app_data_list_title">앱 데이터</string>
+    <string name="trans_detail_category_user_app_data">앱 데이터</string>
+    <string name="trans_detail_sys_data_list_title">시스템 앱</string>
 </resources>

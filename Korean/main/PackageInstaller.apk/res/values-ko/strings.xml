@@ -613,5 +613,15 @@
     <string name="miui_uninstall_application_text">이 앱을 제거하시겠습니까?</string>
     <string name="miui_uninstall_update_text">이 앱을 공장 초기 버전으로 교체하시겠습니까? 모든 데이터가 삭제될 것입니다.</string>
     <string name="package_delete_confirm_step_1">%s을(를) 삭제하시겠습니까?</string>
-
+    <string name="active_input_method_subtypes">입력 방법</string>
+    <string name="anonymous_source_continue">계속</string>
+    <string name="battery_info_status_charging_lower">충전중</string>
+    <string name="disabled">비활성화됨</string>
+    <string name="external_sources_settings">설정</string>
+    <string name="external_source_trusted">허가됨</string>
+    <string name="failed_to_open_app_settings_toast">%1$s 설정을 열지 못했음</string>
+    <string name="generic_error_dlg_title">오류</string>
+    <string name="retail_demo_reset_next">다음</string>
+    <string name="retail_demo_reset_title">비밀번호 요구됨</string>
+    <string name="use_system_language_to_select_input_method_subtypes">시스템 언어 사용</string>
 </resources>

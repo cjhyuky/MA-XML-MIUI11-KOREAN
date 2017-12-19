@@ -105,5 +105,16 @@
     <string name="no_permission_for_drm">DRM 파일은 공유할 수 없습니다.</string>
     <string name="rights_expired">음원 저작권 만료</string>
     <string name="toast_not_show_thumbnail">사용 가능한 램이 낮아 썸네일을 표시할 수 없습니다.</string>
-
+    <string name="button_compress">압축</string>
+    <string name="button_extract">압축 풀기</string>
+    <string name="files_label">파일</string>
+    <string name="images_shortcut_label">사진</string>
+    <string name="menu_compress">압축</string>
+    <string name="menu_cut_to_clipboard">잘라내기</string>
+    <string name="menu_eject_root">꺼내기</string>
+    <string name="menu_open_with">연결 프로그램</string>
+    <string name="sign_in">로그인</string>
+    <string name="sort_dimension_name">이름</string>
+    <string name="sort_dimension_size">크기</string>
+    <string name="sort_dimension_summary">요약</string>
 </resources>

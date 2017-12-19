@@ -1123,4 +1123,8 @@
   <string name="favorite_title_modify">편집</string>
   <string name="memory_clear_nothing_result">삭제할 캐시 없음</string>
   <string name="help_quick_start_wechat_video">앱 바로가기를 사용하여 특정앱의 기능을 바로 사용하세요</string>
+  <string name="fav_tab_all">모두</string>
+  <string name="fav_tab_article">신문/뉴스 기사</string>
+  <string name="fav_tab_new">새 권한</string>
+  <string name="fav_tab_video">비디오</string>
 </resources>

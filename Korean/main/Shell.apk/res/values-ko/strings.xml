@@ -23,4 +23,5 @@
     <string name="bugreport_updating_title">버그 신고서에 자세한 정보 추가</string>
     <string name="bugreport_updating_wait">잠시만 기다려주세요…</string>
     <string name="save">저장</string>
+    <string name="bugreport_notification_channel">버그 신고서</string>
 </resources>

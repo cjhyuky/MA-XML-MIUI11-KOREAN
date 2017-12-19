@@ -421,4 +421,19 @@
     <string name="select_account_dialog_title">계정 선택</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI 증명</string>
     <string name="wifi_security_WAPI_CERT">WAPI 증명</string>
+    <string name="active_input_method_subtypes">입력 방법</string>
+    <string name="answer_incoming_call">응답하기</string>
+    <string name="battery_info_status_charging_lower">충전중</string>
+    <string name="decline_incoming_call">거절하기</string>
+    <string name="disabled">비활성화됨</string>
+    <string name="external_source_trusted">허가됨</string>
+    <string name="failed_to_open_app_settings_toast">%1$s 설정을 열지 못했음</string>
+    <string name="notification_channel_incoming_call">수신 통화</string>
+    <string name="notification_channel_missed_call">부재중 전화</string>
+    <string name="use_system_language_to_select_input_method_subtypes">시스템 언어 사용</string>
+    <string name="wapi_cert_roaming">연결중…</string>
+    <string name="wapi_no">아니요</string>
+    <string name="wapi_yes">예</string>
+    <string name="wifi_wapi_as_certificate">AS 인증서</string>
+    <string name="wifi_wapi_user_certificate">사용자 인증서</string>
 </resources>

@@ -98,4 +98,12 @@
     <string name="work_profile_setup_later_title">프로필 설정을 중단하시겠습니까?</string>
     <string name="work_profile_setup_stop">정지</string>
     <string name="profile_owner_cancel_title">설정을 중단하시겠습니까?</string>
+    <string name="close">닫기</string>
+    <string name="collapse">툴바 접기</string>
+    <string name="continue_button">계속</string>
+    <string name="dismiss">무시</string>
+    <string name="encrypt">암호화</string>
+    <string name="expand">확장</string>
+    <string name="reset">초기화</string>
+    <string name="set_up_your_device">기기 설정</string>
 </resources>
