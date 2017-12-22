@@ -6043,14 +6043,14 @@ PIN 설정"</string>
     <string name="support_escalation_24_7_content_description">"당신을 위해 365일, 24시간 준비되어 있습니다."</string>
     <string name="support_escalation_24_7_summary">고객지원센터는 언제나 여러분을 기다리고 있습니다.</string>
     <string name="support_escalation_24_7_title">"당신을 위해 365일, 24시간 준비되어 있습니다."</string>
-    <string name="support_escalation_closed_summary">질문사항을 검색하거나 업무 시간 중에 연락해주세요. (현지 시간):<br><b>%s</b></string>
-    <string name="support_escalation_no_internet_summary">전화 상담 업무 시간 (현지 시간)<br><b>%s</b></string>
+    <string name="support_escalation_closed_summary">질문사항을 검색하거나 업무 시간 중에 연락해주세요. (현지 시간):%s</string>
+    <string name="support_escalation_no_internet_summary">전화 상담 업무 시간 (현지 시간) %s</string>
     <string name="support_escalation_summary">저희가 모든 문제를 해결할 수 있습니다.</string>
     <string name="support_escalation_title">"무엇을 도와드릴까요?"</string>
     <string name="support_escalation_unavailable_summary">도움말을 검색하거나 &amp; 팁 검색</string>
     <string name="support_estimated_wait_time">최대 %1$s정도 소요될 예정입니다. 잠시만 기다려 주세요.</string>
     <string name="support_help_feedback_title">도움말 &amp; 피드백 전송</string>
-    <string name="support_hour_format">%1$s - %2$s, %3$s - %4$s<br></string>
+    <string name="support_hour_format">%1$s - %2$s, %3$s - %4$s</string>
     <string name="support_international_phone_summary">국제 통화료가 청구될 수 있습니다.</string>
     <string name="support_international_phone_title">해외 여행 중이십니까?</string>
     <string name="support_phone_international_format">%1$s (%2$s)</string>
