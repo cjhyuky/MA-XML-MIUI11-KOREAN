@@ -6032,10 +6032,6 @@ PIN 설정"</string>
     <string name="storage_movies_tv">영화 &amp; TV 앱</string>
     <string name="storage_music_audio">음악 &amp; 오디오</string>
     <string name="storage_photos_videos">사진 &amp; 영상</string>
-    <string name="storage_summary_with_sdcard">내부 저장소 : %2s 사용가능 - %1$s 사용됨</string>
-    <string name="suggestions_summary">+%1$d</string>
-    <string name="summary_placeholder"> </string>
-    <string name="summary_two_lines_placeholder">"  "</string>
     <string name="support_account_request_prefix">다음 권한으로 요청중:</string>
     <string name="support_country_format">%1$s - %2$s</string>
     <string name="support_country_list_title">다음을 지원 : </string>
