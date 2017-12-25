@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_title">제목없음</string>
+    <string name="no_artist">알수없는아티스트</string>
+</resources>
