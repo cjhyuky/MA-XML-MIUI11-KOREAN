@@ -2033,4 +2033,10 @@
     <string name="tooltip_popup_title">툴팁</string>
     <string name="hdmi_audio_output_stereo">듀얼 모드</string>
     <string name="pinpuk_attempts">남은 시도 가능 횟수 :</string>
+    <string name="hdmi_audio_output">음성 출력</string>
+    <string name="hdmi_audio_output_multi_channel">멀티 채널</string>
+    <string name="hdmi_hdvideo_toast">HDMI로는 4K 영상을 재생할 수 없습니다. 연결이 해제됩니다.</string>
+    <string name="hdmi_mutex_call_content">죄송합니다, 전화수신시에는 HDMI기능이 멈춥니다.</string>
+    <string name="hdmi_notification_content">HDMI 설정을하려면 클릭하세요</string>
+    <string name="hdmi_notification_title">HDMI 케이블 연결됨</string>
 </resources>
