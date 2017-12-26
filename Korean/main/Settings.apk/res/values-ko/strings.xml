@@ -5994,10 +5994,10 @@ PIN 설정"</string>
     <string name="quick_settings_developer_tiles">빠른 설정</string>
     <string name="radioInfo_menu_getIMS">IMS 서비스 상태</string>
     <string name="radio_info_ims_reg_status">"IMS 등록: %1$s
-	VoLTE: %2$s
-	Wi-Fi 전화: %3$s
-	영상통화: %4$s
-	유저 인터페이스: %5$s"</string>
+    VoLTE: %2$s
+    Wi-Fi 전화: %3$s
+    영상통화: %4$s
+    유저 인터페이스: %5$s"</string>
     <string name="radio_info_ims_reg_status_not_registered">등록되지 않음</string>
     <string name="radio_info_ims_reg_status_registered">등록됨</string>
     <string name="radio_info_ims_reg_status_title">IMS 상태</string>

@@ -8,12 +8,12 @@
     <string name="phone">전화</string>
     <string name="phone_edit">편집</string>
     <string name="settings">설정</string>
-	<string name="app_name">자동 다이얼</string>
-	<string name="end_call">통화 종료 시간</string>
-	<string name="loops">루프</string>
-	<string name="phone_8378911">\#8378911</string>
-	<string name="phone_call">통화 시간</string>
-	<string name="start_test_off">테스트 시작 (끄기)</string>
-	<string name="start_test_on">테스트 정지 (켜기)</string>
-	<string name="warm">따뜻함</string>
+    <string name="app_name">자동 다이얼</string>
+    <string name="end_call">통화 종료 시간</string>
+    <string name="loops">루프</string>
+    <string name="phone_8378911">\#8378911</string>
+    <string name="phone_call">통화 시간</string>
+    <string name="start_test_off">테스트 시작 (끄기)</string>
+    <string name="start_test_on">테스트 정지 (켜기)</string>
+    <string name="warm">따뜻함</string>
 </resources>

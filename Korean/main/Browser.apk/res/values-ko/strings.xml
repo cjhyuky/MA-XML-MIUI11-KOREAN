@@ -301,7 +301,7 @@
   <string name="find_on_page_prev">뒤로</string>
   <string name="find_previous">이전 찾기</string>
   <string name="finish_sync_cloud_tabs">성공적으로 동기화함</string>
-  <string name="fling_on_border_gesture_hint">설정에서 제스쳐를 선택하실 수 있습니다.</string>	
+  <string name="fling_on_border_gesture_hint">설정에서 제스쳐를 선택하실 수 있습니다.</string>
   <string name="force_quick_search_title">검색</string>
   <string name="force_touch_bookmark_history_title">북마크 &amp; 기록</string>
   <string name="force_touch_infoflow_title">뉴스</string>
@@ -908,9 +908,9 @@
   <string name="pref_label_advert_manager">관리 설정된 광고</string>
   <string name="pref_link_prefetch_value_always">항상</string>
   <string name="pref_link_prefetch_value_never">항상 하지 않음</string>
-  <string name="pref_link_prefetch_value_wifi_only">Wi-Fi만 사용</string>		
-  <string name="pref_video_preload_value_always">항상</string>		
-  <string name="pref_video_preload_value_never">항상 하지 않음</string>		
+  <string name="pref_link_prefetch_value_wifi_only">Wi-Fi만 사용</string>
+  <string name="pref_video_preload_value_always">항상</string>
+  <string name="pref_video_preload_value_never">항상 하지 않음</string>
   <string name="pref_video_preload_value_wifi_only">Wi-Fi만 사용</string>
   <string name="pwa_app_name">웹 앱</string>
   <string name="qr_description">QR 코드 스캔</string>
