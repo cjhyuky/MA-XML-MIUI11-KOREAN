@@ -335,5 +335,5 @@
     <string name="xspace_default_setting_label">기본 앱</string>
     <string name="weixin_pay">위챗 페이</string>
     <string name="xspace_weibo_title">웨이보</string>
-    <string name="xspace_weixin_title"></string>
+    <string name="xspace_weixin_title">위챗</string>
 </resources>
