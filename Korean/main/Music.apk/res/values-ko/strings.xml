@@ -999,4 +999,11 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="recognized_alert_title">자동 앨범 및 가사 동기화</string>
     <string name="search_album_and_lyric">위의 정보를 이용해 자동으로 노래 및 앨범 찾기</string>
     <string name="talkback_karaoke">노래방 실행</string>
+    <string name="dialog_button_agree">동의</string>
+    <string name="dialog_delete_descript">%s을(를) 삭제하시겠습니까?</string>
+    <string name="dialog_hint_network_error">네크워크에 연결할 수 없습니다.</string>
+    <string name="high_quality">더 높음</string>
+    <string name="my_music">내 음악</string>
+    <string name="network_error">네트워크에 연결할 수 없습니다.</string>
+    <string name="online_music">발견</string>
 </resources>

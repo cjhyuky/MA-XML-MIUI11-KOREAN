@@ -1276,4 +1276,20 @@
     <string name="group_member_remove_fail_toast">그룹에서 삭제되지 않음</string>
     <string name="group_member_remove_success_toast">그룹에서 삭제됨</string>
     <string name="import_sim_contacts_hint_title">SIM 연락처 불러오기</string>
+    <string name="btn_delete_one_contact">연락처 삭제</string>
+    <string name="close_dial_pad">다이얼 패드 닫기</string>
+    <string name="device_import_done_toast">%1$d개의 연락처 가져옴</string>
+    <string name="dlg_add_blacklist">이 번호를 차단하시겠습니까?</string>
+    <string name="dlg_remove_blacklist">이 번호를 차단 해제하시겠습니까?</string>
+    <string name="frequency_none">아니오</string>
+    <string name="group_name_contacts">연락처</string>
+    <string name="group_name_coworkers">동료</string>
+    <string name="group_name_family">가족</string>
+    <string name="group_name_friends">친구</string>
+    <string name="remind_btn_ignore">무시하기</string>
+    <string name="remind_btn_sync_now">동기화</string>
+    <string name="scanning">스캔 중…</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">전체선택 해제</string>
+    <string name="sim_contact_dropdown_menu_select_all_miui">모두 선택 </string>
+    <string name="yellowpage_navigation_search_hint">검색</string>
 </resources>

@@ -1991,4 +1991,16 @@
     <string name="wapi_yes">예</string>
     <string name="wifi_wapi_as_certificate">AS 인증서</string>
     <string name="wifi_wapi_user_certificate">사용자 인증서</string>
+    <string name="cb_dialog_title_language_choice">언어 선택</string>
+    <string name="cell_broadcast">셀 브로드캐스트</string>
+    <string name="default_preference_summary_domain_address">&lt;설정 안 됨></string>
+    <string name="default_preference_summary_password">&lt;설정 안 됨></string>
+    <string name="default_preference_summary_username">&lt;설정 안 됨></string>
+    <string name="dialog_cancel">취소</string>
+    <string name="dialog_report">리포트</string>
+    <string name="ime_security_warning">%1$s은(는) 비밀번호, 신용카드 번호, 기타 개인 정보를 포함하여 당신이 입력하는 모든 것을 기록할 수 있습니다.</string>
+    <string name="networks_state_china_forbidden">금지됨</string>
+    <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM 통합 잠금 해제 요청 실패.</string>
+    <string name="PERSOSUBSTATE_RUIM_NETWORK2_SUCCESS">RUIM 네트워크2 잠금해제 성공.</string>
+    <string name="PERSOSUBSTATE_RUIM_RUIM_ERROR">RUIM 잠금 해제 요청 실패.</string>
 </resources>

@@ -164,4 +164,10 @@
     <string name="WIFI_enable_wifi">Wi-Fi 켜기</string>
     <string name="yellow">노랑</string>
     <string name="yes">예</string>
+    <string name="patterninfo">패턴:</string>
+    <string name="radio_info_neighboring_location_label">인접한 CID:</string>
+    <string name="radio_info_signal_location_label">위치:</string>
+    <string name="radio_info_signal_strength_label">신호 강도:</string>
+    <string name="replay">리플레이</string>
+    <string name="swversion">SW 버전</string>
 </resources>

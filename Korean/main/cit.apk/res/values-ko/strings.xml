@@ -838,4 +838,13 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="WIFI_enable_wifi">Wi-Fi 켜기</string>
   <string name="yellow">노랑</string>
   <string name="yes">예</string>
+  <string name="cit_camera_check_summary_no_flash">테스트 가이드:1.아래의 카메라 버튼을 탭하여 전면 카메라 인터페이스에 진입합니다2.셔터 버튼을 탭합니다3.확인 아이콘을 탭합니다. 시스템이 사진을 자동으로 저장합니다.4.찍은 사진이 아래에 표시됩니다. \삭제\를 탭하여 테스트를 완료합니다.</string>
+  <string name="cit_camera_check_summary_with_flash">테스트 가이드:1.아래의 카메라 버튼을 탭하여 후면 카메라 인터페이스에 진입합니다2.플래시를 활성화합니다3.셔터 버튼을 탭합니다4.확인 아이콘을 탭합니다. 시스템이 사진을 자동으로 저장합니다.5.찍은 사진이 아래에 표시됩니다. \삭제\를 탭하여 테스트를 완료합니다.</string>
+  <string name="flashled_off">손전등 꺼짐</string>
+  <string name="flashled_on">손전등 켜짐</string>
+  <string name="patterninfo">패턴:</string>
+  <string name="replay">리플레이</string>
+  <string name="serial_no">시리얼 번호</string>
+  <string name="swversion">SW 버전</string>
+  <string name="timeout">제한 시간</string>
 </resources>

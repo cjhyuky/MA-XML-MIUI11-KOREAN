@@ -15,4 +15,6 @@
     <string name="ims_vt_call_quality_medium">중간</string>
     <string name="ims_vt_call_quality_unknown">알 수 없음</string>
     <string name="qti_ims_number_not_set">설정되지 않음</string>
+    <string name="ims_vt_call_quality_set_failed">영상 품질 설정 실패</string>
+    <string name="ims_vt_call_quality_title">VT 통화 품질</string>
 </resources>

@@ -204,4 +204,5 @@
     <string name="Midnight">자정</string>
     <string name="other_accounts">기타 계정</string>
     <string name="usb_cd_installer_notification_title">설치 프로그램으로 연결됨</string>
+    <string name="storage_phone">내부 저장소</string>
 </resources>

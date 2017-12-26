@@ -106,4 +106,5 @@
     <string name="expand">확장</string>
     <string name="reset">초기화</string>
     <string name="set_up_your_device">기기 설정</string>
+    <string name="setup_profile">프로필 설정</string>
 </resources>

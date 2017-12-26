@@ -624,4 +624,18 @@
     <string name="retail_demo_reset_next">다음</string>
     <string name="retail_demo_reset_title">비밀번호 요구됨</string>
     <string name="use_system_language_to_select_input_method_subtypes">시스템 언어 사용</string>
+    <string name="all">모든 권한</string>
+    <string name="button_cancel">취소</string>
+    <string name="button_continue">계속</string>
+    <string name="button_continue_install">계속</string>
+    <string name="button_install_lastest">설치</string>
+    <string name="button_install_official">설치</string>
+    <string name="button_next">다음</string>
+    <string name="button_remove">삭제</string>
+    <string name="button_text_delete_timer">(%d) 삭제</string>
+    <string name="ime_security_warning">%1$s은(는) 비밀번호, 신용카드 번호, 기타 개인 정보를 포함하여 당신이 입력하는 모든 것을 기록할 수 있습니다.</string>
+    <string name="installer_name">출처: %1$s</string>
+    <string name="installing_app">%1$s 항목을 설치 중…</string>
+    <string name="main_title">앱 설치</string>
+    <string name="progress_verifying">확인 중…</string>
 </resources>

@@ -485,4 +485,6 @@
     <string name="trans_detail_app_data_list_title">앱 데이터</string>
     <string name="trans_detail_category_user_app_data">앱 데이터</string>
     <string name="trans_detail_sys_data_list_title">시스템 앱</string>
+    <string name="alert_button_agree_and_continue">허용</string>
+    <string name="alert_button_deny">거절</string>
 </resources>

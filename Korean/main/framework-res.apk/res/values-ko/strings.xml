@@ -2031,4 +2031,6 @@
     <string name="time_picker_radial_mode_description">시간 입력을 위해 시계 모드로 전환합니다.</string>
     <string name="time_picker_text_input_mode_description">시간 입력을 위해 문자 입력 모드로 전환합니다.</string>
     <string name="tooltip_popup_title">툴팁</string>
+    <string name="hdmi_audio_output_stereo">듀얼 모드</string>
+    <string name="pinpuk_attempts">남은 시도 가능 횟수 :</string>
 </resources>

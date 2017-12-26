@@ -2281,4 +2281,9 @@ Rolled over extra data"</string>
     <string name="tether_over_limit_dialog_message">데이터 한도에 도달했습니다.</string>
     <string name="tether_over_limit_warning_notify_message">핫스팟을 종료하세요.</string>
     <string name="tether_over_limit_warning_notify_title">데이터 한도 도달</string>
+    <string name="auto_booster_suc">가속 성공</string>
+    <string name="gb_description_image_button_answer">답장</string>
+    <string name="gb_description_image_button_reject">거절</string>
+    <string name="gb_description_image_button_video_answer">영상 통화</string>
+    <string name="st_msg_keyword_black">키워드 차단 목록</string>
 </resources>
