@@ -6201,7 +6201,7 @@ PIN 설정"</string>
     <string name="cloud_item_info_summary"> (Local: %1$s | Mi 클라우드: %2$s)</string>
     <string name="cloud_last_backup">마지막 백업 </string>
     <string name="cloud_no_backup">백업 없음</string>
-    <string name="cloud_restore_guide">%s의 사용자 데이터를 복원하려면, '복원'을 터치하십시오.</string>
+    <string name="cloud_restore_guide">%s의 사용자 데이터를 복원하려면, &apos;복원&apos;을 터치하십시오.</string>
     <string name="cloud_restore_title">백업 데이터 복원</string>
     <string name="cloud_restore_window_title">Mi 클라우드 복원</string>
     <string name="cloud_search">검색 중/u2026</string>
@@ -6250,7 +6250,7 @@ PIN 설정"</string>
     <string name="guarded_mode_dialog_title">게스트 모드 사용 중입니다.</string>
     <string name="guarded_mode_dialog_transfer_message">게스트 모드에서는 Mi Mover를 사용할 수 없습니다.</string>
     <string name="import_from_xiaomi_account_hint1">1.\u0009Mi Talk 앱을 다운로드한 후 로그인하십시오.\u0009http://www.miliao.com2.\u0009Mi Talk 설정으로 이동하여 ”Mi 계정에 연락처 백업”을 선택하십시오.</string>
-    <string name="import_from_xiaomi_account_hint2">백업이 이미 있는 경우, '다음'을 터치하십시오.</string>
+    <string name="import_from_xiaomi_account_hint2">백업이 이미 있는 경우, &apos;다음&apos;을 터치하십시오.</string>
     <string name="import_from_xiaomi_account_hint_title">다른 기기에서 연락처를 백업하려면 Mi Talk를 사용하십시오.</string>
     <string name="local_app_name">백업</string>
     <string name="local_backup_window_title">로컬 백업 데이터</string>
