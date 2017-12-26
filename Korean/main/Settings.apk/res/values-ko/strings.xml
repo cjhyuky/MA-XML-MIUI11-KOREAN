@@ -635,7 +635,7 @@
     <string name="wifi_access_points">Wi-Fi 네트워크</string>
     <string name="wifi_menu_wps_pbc">WPS 푸시 버튼</string>
     <string name="wifi_menu_more_options">추가 옵션</string>
-    <string name="wifi_menu_wps_pin">WPS PIN 입장</string>
+    <string name="wifi_menu_wps_pin">WPS PIN 입력</string>
     <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_scan">검색</string>
     <string name="wifi_menu_advanced">고급</string>
