@@ -17,4 +17,5 @@
     <string name="qti_ims_number_not_set">설정되지 않음</string>
     <string name="ims_vt_call_quality_set_failed">영상 품질 설정 실패</string>
     <string name="ims_vt_call_quality_title">VT 통화 품질</string>
+    <string name="ims_ns_iot_name">프로트콜 테스트</string>
 </resources>

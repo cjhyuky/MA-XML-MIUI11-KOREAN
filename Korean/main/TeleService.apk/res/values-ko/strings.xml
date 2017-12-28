@@ -2003,4 +2003,5 @@
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM 통합 잠금 해제 요청 실패.</string>
     <string name="PERSOSUBSTATE_RUIM_NETWORK2_SUCCESS">RUIM 네트워크2 잠금해제 성공.</string>
     <string name="PERSOSUBSTATE_RUIM_RUIM_ERROR">RUIM 잠금 해제 요청 실패.</string>
+    <string name="gsm_umts_network_preferneces_summary">구현되지 않음</string>
 </resources>

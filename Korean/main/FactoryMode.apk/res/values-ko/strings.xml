@@ -76,4 +76,5 @@
     <string name="Vibrator_test">진동</string>
     <string name="man_fw_version">FW 버전</string>
     <string name="man_memory">메모리 : </string>
+    <string name="test_succeed">성공</string>
 </resources>

@@ -1390,4 +1390,17 @@
     <string name="ims_ss_mode_xcap">선호하는 XCAP</string>
     <string name="ims_status">IMS 등록 상태:</string>
     <string name="ims_title">IMS</string>
+    <string name="mcdi_invalid_timer_val">유효하지 않은 타이머 값</string>
+    <string name="mcdi_set_wake_timer">알람 설정</string>
+    <string name="mcdi_timer_disable">타이머 비활성화</string>
+    <string name="msdc_set_ok_title">성공</string>
+    <string name="network_info">네트워크 정보</string>
+    <string name="network_selection">네트워크 선택</string>
+    <string name="sleep_mode_invalid_timer_val">유효하지 않은 타이머 값</string>
+    <string name="sleep_mode_legacy_sleep">레거시 슬립</string>
+    <string name="sleep_mode_operate_success">성공</string>
+    <string name="tab_connectivity">연결성</string>
+    <string name="title_activity_engineer_mode">엔지니어 모드</string>
+    <string name="tv_out">TV 출력</string>
+    <string name="wifi_toast_select_error">오류</string>
 </resources>

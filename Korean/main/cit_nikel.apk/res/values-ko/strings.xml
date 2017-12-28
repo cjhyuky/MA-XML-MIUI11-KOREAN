@@ -170,4 +170,6 @@
     <string name="radio_info_signal_strength_label">신호 강도:</string>
     <string name="replay">리플레이</string>
     <string name="swversion">SW 버전</string>
+    <string name="battery_info_status_discharging">충전 중이 아님</string>
+    <string name="toast_listen">듣기</string>
 </resources>

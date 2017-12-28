@@ -847,4 +847,6 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="serial_no">시리얼 번호</string>
   <string name="swversion">SW 버전</string>
   <string name="timeout">제한 시간</string>
+  <string name="battery_info_status_discharging">충전 중이 아님</string>
+  <string name="toast_listen">듣기</string>
 </resources>

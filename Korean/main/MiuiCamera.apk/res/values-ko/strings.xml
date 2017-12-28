@@ -637,4 +637,5 @@
     <string name="wifi_open_fail">Wi-Fi를 켤 수 없습니다.</string>
     <string name="wifi_pwd">비밀번호:</string>
     <string name="wifi_security">보안:</string>
+    <string name="pref_front_camera_flashmode_entry_torch">켜짐</string>
 </resources>

@@ -2299,11 +2299,11 @@ Rolled over extra data"</string>
     <string name="app_manager_show_all_apps_opened">모든 앱에 대한 결과를 보여주는 중…</string>
     <string name="back_sound_data">데이터 네트워크가 필요합니다. 다시 시도해주세요.</string>
     <string name="back_sound_fail">실패!</string>
-    <string name="back_sound_success">성공!</string>
+    <string name="back_sound_success">완료</string>
     <string name="back_sound_support">"네트워크 사업자가 이것을 지원하지 않습니다."</string>
     <string name="bg_network_exception_title">백그라운드에서 네트워크 제한</string>
     <string name="dlg_add_white">"예외에 추가된 번호로부터 오는 새로운 통화 및 메시지는 통화 내역 및 메시지 수신함에 표시됩니다. 그러나 이전에 차단된 항목은 여기에 나타나지 않습니다. 선택한 번호를 예외에 추가하시겠습니까?"</string>
-    <string name="dlg_move_to_white">예외에 추가</string>
+    <string name="dlg_move_to_white">예외 목록에 추가</string>
     <string name="dlg_not_block_call">"선택한 번호를 차단 해제하시겠습니까? 예외에 추가되지만, 이전에 차단된 항목은 통화 기록에 나타나지 않습니다."</string>
     <string name="dlg_not_block_sms">"선택한 번호를 차단 해제하시겠습니까? 예외에 추가되지만, 이전에 차단된 항목은 메시지 기록에 나타나지 않습니다."</string>
     <string name="gmscore_support_remind">Gmail, 구글 지도 및 다른 구글 어플을 사용하는데 문제가 있을경우, 이 기능을 켭니다. 배터리 수명을 약간 줄일 수 있습니다.</string>
