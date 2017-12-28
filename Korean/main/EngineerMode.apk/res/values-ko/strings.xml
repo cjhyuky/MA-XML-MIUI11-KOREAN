@@ -516,7 +516,6 @@
     <string name="BandSel_GSM_GSM850">GSM850</string>
     <string name="BandSel_GSM_PCS1900">PCS1900</string>
     <string name="BandSel_RESET">기본 설정 상태로 초기화</string>
-    <string name="BandSel_UMTS">UMTS 모드</string>
     <string name="BandSel_UMTS_BAND_I">WCDMA-IMT-2000</string>
     <string name="BandSel_UMTS_BAND_II">WCDMA-PCS-1900</string>
     <string name="BandSel_UMTS_BAND_III">WCDMA-DCS-1800</string>
@@ -691,11 +690,9 @@
     <string name="NFC_SoftwareStack_RawCommand_Examp">예시 : (에코 앱)</string>
     <string name="Audio_Get">설정</string>
     <string name="auto_clibr_af_full">전체 검사</string>
-    <string name="bandmodesim1_GSM">GSM 모드</string>
     <string name="bandmodesim1_UMTS">UMTS 모드</string>
     <string name="bandmodesim2_GSM">GSM 모드</string>
     <string name="ctia_btn_get">설정</string>
-    <string name="ct_sim_select">SIM 선택</string>
     <string name="fd_text_send">FD 전송</string>
     <string name="hqa_cpustress_apmcu_result">결과:</string>
     <string name="hqa_nfc_disable_card_emu">카드 에뮬레이션 비활성화</string>
@@ -707,17 +704,6 @@
     <string name="lte_ram_dump_on">lte ram 덤프 사용</string>
     <string name="NetworkInfo_BLK">RR BLK 정보</string>
     <string name="NetworkInfo_Ca">RR Ca 리스트</string>
-    <string name="NetworkInfo_Control">RR 컨트롤 메세지</string>
-    <string name="NetworkInfo_Ctrl">RR Ctrl 채널</string>
-    <string name="NetworkInfo_LAI">RR LAI 정보</string>
-    <string name="NetworkInfo_MI">RR MI 리스트</string>
-    <string name="NetworkInfo_RACH">RR RACH 컨트롤</string>
-    <string name="NetworkInfo_Radio">RR Radio 링크</string>
-    <string name="NetworkInfo_SI2Q">RR SI2Q 정보</string>
-    <string name="NetworkInfo_TBF">RR TBF 정보</string>
-    <string name="NFC_SoftwareStack_Scan_BtnRawCommand">로우 명령어</string>
-    <string name="NFC_SoftwareStack_Scan_P2PInit">P2P 감지됨</string>
-    <string name="NFC_SoftwareStack_Scan_TagDect">태그 감지됨</string>
     <string name="pmu_btn_get">설정</string>
     <string name="radio_info_data_attempts_label">데이터 시도:</string>
     <string name="radio_info_data_successes_label">데이터 성공:</string>
@@ -924,7 +910,6 @@
     <string name="auto_clibr_af_bracket_range">Bracket Range(0~511) : </string>
     <string name="auto_clibr_af_bracket_range_tip">AF Bracket Range is 0~511!</string>
     <string name="auto_clibr_af_continuous">Continuous</string>
-    <string name="auto_clibr_af_full">Full Scan</string>
     <string name="auto_clibr_af_full_scan_time_tip">AF 풀 스캔중.</string>
     <string name="auto_clibr_af_setting">AF</string>
     <string name="auto_clibr_af_through">포커스 덤프</string>
@@ -1067,10 +1052,8 @@
     <string name="ct_network_selection">네트워크 선택</string>
     <string name="ct_sim_1">SIM1</string>
     <string name="ct_sim_2">SIM2</string>
-    <string name="ct_sim_select">Sim 선택</string>
     <string name="ctia_auto_tx_power">자동 Tx 전원 비활성화</string>
     <string name="ctia_bcn_timeout_detection">BCN 타임아웃 감지 비활성화</string>
-    <string name="ctia_btn_get">GET</string>
     <string name="ctia_cam_mode">CAM 모드에 머무르기</string>
     <string name="ctia_checkbox">CTIA 테스트 모드 활성화</string>
     <string name="ctia_counter_checkbox">Tx Rx 카운터를 위해 로그 활성화</string>
