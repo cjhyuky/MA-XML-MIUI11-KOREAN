@@ -252,4 +252,5 @@
     <string name="modify_call_option_vt_tx">비디오 전달</string>
     <string name="modify_call_prompt_no">아니오</string>
     <string name="modify_call_prompt_yes">예</string>
+    <string name="video_crbt_title">%s 컬러링 음악</string>
 </resources>
