@@ -6506,4 +6506,5 @@ PIN 설정"</string>
     <string name="close_demo_mode">취소</string>
     <string name="open_demo_mode">켜기</string>
     <string name="open_demo_mode_warning_message">데모 모드가 켜지면, 상태바의 시계는 멈출것입니다. 배터리와 모바일 신호는 가득참으로 표시됩니다. 기기를 재부팅하시면 다시 정상작동합니다.</string>
+    <string name="mute_music_stream">음악 스트리밍 음소거</string>
 </resources>
