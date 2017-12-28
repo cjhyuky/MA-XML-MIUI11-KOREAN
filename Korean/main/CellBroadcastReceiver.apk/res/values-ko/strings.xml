@@ -154,5 +154,19 @@
     <string name="cmas_extreme_alert_off_summary">긴급 경보 수신 거부를 선택하셨습니다.</string>
     <string name="cmas_extreme_alert_on_summary">긴급 경보 수신을 선택하셨습니다.</string>
     <string name="notification_channel_broadcast_messages">브로드캐스트 문자</string>
+    <string name="en_alert_message_dialog_title">경고 메세지</string>
+    <string name="en_emergency_alerts_title">긴급 경보</string>
+    <string name="en_emergency_alert_dialog_title">비상사태 경고</string>
+    <string name="en_emergency_alert_title">비상사태 경고</string>
+    <string name="en_exercises_title">운동</string>
+    <string name="en_exercise_title">운동</string>
+    <string name="en_national_emergency_alerts_title">국가 재난 긴급 경보</string>
+    <string name="en_national_emergency_alert_title">국가 재난 긴급 경보</string>
+    <string name="en_presidential_alert_dialog_title">정부 경고</string>
+    <string name="en_required_monthly_test_dialog_title">월 정기 테스트 설정</string>
+    <string name="en_test_alerts_title">테스트 경보</string>
+    <string name="en_test_alert_title">테스트 경보</string>
+    <string name="en_warning_alerts_title">경고 경보</string>
+    <string name="en_warning_alert_title">경고 경보</string>
 </resources>
 
