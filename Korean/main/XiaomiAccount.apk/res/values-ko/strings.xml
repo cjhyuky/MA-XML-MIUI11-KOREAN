@@ -459,4 +459,5 @@
     <string name="sim_changed_notification_msg">탭하여 휴대전화 복구를 위한 보안을 강화하세요.</string>
     <string name="sim_changed_notification_title">휴대전화 번호가 변경되었나요?</string>
     <string name="passport_confirm_login">계속</string>
+    <string name="passport_sms_verification_code_login">SMS 인증 코드 로그인</string>
 </resources>
