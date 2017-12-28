@@ -1323,7 +1323,7 @@
     <string name="pick_favorites_list_title">%1$d 즐겨찾기</string>
     <string name="pick_recent_contacts_list_title">%1$d 최근 연락처</string>
     <string name="pick_recent_list_title">%1$d 최근 연락처</string>
-    <string name="progress_notifier_message">%s/%s 불러오는 중 : %s</string>
+    <string name="progress_notifier_message" formatted="false">%s/%s 불러오는 중 : %s</string>
     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\"에 여러 계정의 정보가 포함되어 있습니다. 읽기 전용 계정의 정보는 연락처 목록에 표시되지 않습니다.</string>
     <string name="select_device">기기 선택</string>
     <string name="select_new_photo_from_photo_package">폴더 보기</string>
