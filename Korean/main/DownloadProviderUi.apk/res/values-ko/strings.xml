@@ -484,4 +484,5 @@
     <string name="speed_tip_netwrok_timeout">연결 시간이 초과되었습니다. 다시 시도하십시오.</string>
     <string name="toast_update_data_limit_fail">"설정할 수 없음"</string>
     <string name="menu_back">Xunlei 멤버쉽으로 돌아가기</string>
+    <string name="speed_result_broadband_text2">밴드위치의 %s</string>
 </resources>
