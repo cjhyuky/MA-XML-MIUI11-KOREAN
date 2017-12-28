@@ -70,4 +70,10 @@
     <string name="printer_info_desc">프린터기 정보</string>
     <string name="recommended_services_title">추천 서비스</string>
     <string name="select_to_add_printers">선택하여 프린터 추가</string>
+    <string name="permdesc_accessAllPrintJobs">소유자가 다른 앱에서 생성한 인쇄 작업에 액세스 할 수 있습니다. 일반적인 앱에는 절대 필요하지 않습니다.</string>
+    <string name="permdesc_startPrintServiceConfigActivity">소유자가 인쇄 서비스의 구성 작업을 시작할 수 있습니다. 일반적인 앱에는 절대 필요하지 않습니다.</string>
+    <string name="permlab_accessAllPrintJobs">모든 인쇄 작업 액세스</string>
+    <string name="permlab_startPrintServiceConfigActivity">프린터 서비스 설정 시작</string>
+    <string name="notification_channel_failure">인쇄가 실패하였습니다.</string>
+    <string name="notification_channel_progress">인쇄 중 입니다.</string>
 </resources>
