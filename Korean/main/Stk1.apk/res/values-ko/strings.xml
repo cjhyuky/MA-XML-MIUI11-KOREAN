@@ -76,4 +76,6 @@
     <string name="stk_dialog_accept">예</string>
     <string name="stk_dialog_reject">아니요</string>
     <string name="stk_dialog_title">SIM 툴킷</string>
+    <string name="app_name1">SIM 툴킷 1</string>
+    <string name="app_name2">SIM 툴킷 2</string>
 </resources>
