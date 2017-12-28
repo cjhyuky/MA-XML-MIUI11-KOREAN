@@ -210,4 +210,5 @@
     <string name="bluetooth_dun_notification_connect_request_title">블루투스 전화 기능</string>
     <string name="a2dp_sink_mbs_label">블루투스 오디오</string>
     <string name="opp_notification_group">블루투스 공유</string>
+    <string name="pbap_notification_group">블루투스 연락처 공유</string>
 </resources>
