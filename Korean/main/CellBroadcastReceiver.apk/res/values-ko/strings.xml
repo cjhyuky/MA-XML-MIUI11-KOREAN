@@ -153,5 +153,6 @@
     <string name="cmas_amber_alert_on_summary">앰버 경고 수신 거부를 선택하셨습니다.</string>
     <string name="cmas_extreme_alert_off_summary">긴급 경보 수신 거부를 선택하셨습니다.</string>
     <string name="cmas_extreme_alert_on_summary">긴급 경보 수신을 선택하셨습니다.</string>
+    <string name="notification_channel_broadcast_messages">브로드캐스트 문자</string>
 </resources>
 
