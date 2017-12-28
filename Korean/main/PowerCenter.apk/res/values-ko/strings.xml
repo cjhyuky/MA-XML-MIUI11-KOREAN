@@ -57,4 +57,7 @@
     <string name="hints_power_percent_title">배터리</string>
     <string name="usage_type_data_wifi_recv">Wi-Fi 데이터 수신 : </string>
     <string name="usage_type_data_wifi_send">Wi-Fi 데이터 송신 : </string>
+    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
+    <string name="power_wifi">Wi-Fi</string>
+    <string name="usage_type_gps">GPS</string>
 </resources>
