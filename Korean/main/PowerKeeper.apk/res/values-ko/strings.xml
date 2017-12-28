@@ -206,5 +206,5 @@
     <string name="performance_category">퍼포먼스</string>
     <string name="power_mode">배터리 설정</string>
     <string name="power_usage">배터리 사용량</string>
-<string name="sleep_config_enhance_description_non_nfc">"MIUI가 당신이 잠자리에 든걸 감지하면, 자동으로 백그라운드 앱, 블루투스, GPS, 모바일 데이터 및 Wi-Fi 사용, 알림 표시 등을 제한합니다."</string>
+    <string name="sleep_config_enhance_description_non_nfc">"MIUI가 당신이 잠자리에 든걸 감지하면, 자동으로 백그라운드 앱, 블루투스, GPS, 모바일 데이터 및 Wi-Fi 사용, 알림 표시 등을 제한합니다."</string>
 </resources>
