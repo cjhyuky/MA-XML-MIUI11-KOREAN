@@ -54,4 +54,7 @@
     <string name="usage_type_video">동영상</string>
     <string name="usage_type_wake_lock">계속 켜짐</string>
     <string name="usage_type_wifi_running">Wi-Fi 실행 중</string>
+    <string name="hints_power_percent_title">배터리</string>
+    <string name="usage_type_data_wifi_recv">Wi-Fi 데이터 수신 : </string>
+    <string name="usage_type_data_wifi_send">Wi-Fi 데이터 송신 : </string>
 </resources>

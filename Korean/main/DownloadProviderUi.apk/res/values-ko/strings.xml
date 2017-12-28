@@ -476,4 +476,12 @@
     <string name="speed_tip_no_netwrok">네트워크에 연결할 수 없습니다. 인터넷에 연결하고 다시 시도하세요.</string>
     <string name="speed_title">Wi-Fi 속도 측정</string>
     <string name="speed_title_result">Wi-Fi 속도 측정</string>
+    <string name="dialog_speed_msg">모바일 데이터를 사용하여 네트워크를 테스트하면 많은 양의 모바일 데이터가 소모될 수 있습니다. 계속하시겠습니까?</string>
+    <string name="home_page_new_download_guide">새 다운로드는 여기에 있습니다.</string>
+    <string name="percent_title">%1$s 명의 사용자가 다운로드 받았습니다.</string>
+    <string name="speed_result_broadband_text1">현재 다운로드 속도</string>
+    <string name="speed_tip_netwrok_fail">네트워크 오류가 발생했습니다. 다시 시도하십시오.</string>
+    <string name="speed_tip_netwrok_timeout">연결 시간이 초과되었습니다. 다시 시도하십시오.</string>
+    <string name="toast_update_data_limit_fail">"설정할 수 없음"</string>
+    <string name="menu_back">Xunlei 멤버쉽으로 돌아가기</string>
 </resources>
