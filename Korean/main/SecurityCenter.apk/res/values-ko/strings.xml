@@ -2286,4 +2286,26 @@ Rolled over extra data"</string>
     <string name="gb_description_image_button_reject">거절</string>
     <string name="gb_description_image_button_video_answer">영상 통화</string>
     <string name="st_msg_keyword_black">키워드 차단 목록</string>
+    <string name="st_filter_keywords_setting_summary3">이 목록에 있는 단어를 포함하는 알 수 없는 번호의 메시지는 수신이 허용됩니다.</string>
+    <string name="st_msg_keyword_white">제외할 키워드</string>
+    <string name="st_title_keywords_whitelist">제외 키워드 리스트</string>
+    <string name="auto_back_booster">속도 향상 중단</string>
+    <string name="gs_autobooster">자동 속도 향상</string>
+    <string name="gs_autobooster_detail">택한 게임의 속도를 자동으로 향상시킵니다.</string>
+    <string name="gs_autobooster_dialog_message">"만약 Xunyou 속도 향상 어플을 사용할경우, 지정된 페이지에서 게임을 실행해주시기 바랍니다."</string>
+    <string name="app_bg_restrict_dialog_message">백그라운드에서 네트워크 연결을 제한하면 앱이 정상적으로 작동하지 않을 수 있습니다. 예를 들어 더 이상 메시지를 수신하거나 콘텐츠를 업데이트하지 못할 수 있습니다. 제한하시겠습니까? </string>
+    <string name="app_manager_open_show_all_apps_immediate">모든 결과 보기</string>
+    <string name="app_manager_search_prompt">"결과를 찾지 못하셨나요? 모든 어플의 결과를 확인해보세요."</string>
+    <string name="app_manager_show_all_apps_opened">모든 앱에 대한 결과를 보여주는 중…</string>
+    <string name="back_sound_data">데이터 네트워크가 필요합니다. 다시 시도해주세요.</string>
+    <string name="back_sound_fail">실패!</string>
+    <string name="back_sound_success">성공!</string>
+    <string name="back_sound_support">"네트워크 사업자가 이것을 지원하지 않습니다."</string>
+    <string name="bg_network_exception_title">백그라운드에서 네트워크 제한</string>
+    <string name="dlg_add_white">"예외에 추가된 번호로부터 오는 새로운 통화 및 메시지는 통화 내역 및 메시지 수신함에 표시됩니다. 그러나 이전에 차단된 항목은 여기에 나타나지 않습니다. 선택한 번호를 예외에 추가하시겠습니까?"</string>
+    <string name="dlg_move_to_white">예외에 추가</string>
+    <string name="dlg_not_block_call">"선택한 번호를 차단 해제하시겠습니까? 예외에 추가되지만, 이전에 차단된 항목은 통화 기록에 나타나지 않습니다."</string>
+    <string name="dlg_not_block_sms">"선택한 번호를 차단 해제하시겠습니까? 예외에 추가되지만, 이전에 차단된 항목은 메시지 기록에 나타나지 않습니다."</string>
+    <string name="gmscore_support_remind">Gmail, 구글 지도 및 다른 구글 어플을 사용하는데 문제가 있을경우, 이 기능을 켭니다. 배터리 수명을 약간 줄일 수 있습니다.</string>
+    <string name="pref_bg_network_title">백그라운드에서 네트워크 연결</string>
 </resources>
