@@ -807,4 +807,22 @@ EEEE"</string>
     <string name="fs_gesture_skip">뒤로 가기</string>
     <string name="screenshot_feedback_txt">피드백</string>
     <string name="screenshot_toalbum_txt">미리 보기</string>
+    <string name="click_expand">탭하여 펼치기</string>
+    <string name="fs_gesture_back_home_summary">아래에서 빠르게 스와이프하기</string>
+    <string name="fs_gesture_back_ready_title">이전 페이지로 어떻게 갑니까?</string>
+    <string name="fs_gesture_final_restart">다시 학습하기</string>
+    <string name="fs_gesture_final_summary">[설정-풀 스크린]에서 다시 설정할 수 있습니다.</string>
+    <string name="fs_gesture_final_title">학습 마치기</string>
+    <string name="fs_gesture_finish">수고하셨습니다!</string>
+    <string name="fs_gesture_left_back_ready_summary">화면 왼쪽에서 스와이프하기</string>
+    <string name="fs_gesture_right_back_ready_summary">화면 오른쪽에서 스와이프하기</string>
+    <string name="fs_gesture_switch_recents_summary">아래에서 스와이프하고 잠시 기다리기</string>
+    <string name="fsg_demo_go_on">계속</string>
+    <string name="how_to_back_home">홈 화면으로 가는 방법</string>
+    <string name="how_to_switch_recents">최근 앱으로 전환하는 방법</string>
+    <string name="how_to_use_fsg">풀 화면 제스쳐를 어떻게 사용합니까?</string>
+    <string name="notification_group_overflow_indicator">+%s</string>
+    <string name="notification_group_title_text">%1$s(%2$s)</string>
+    <string name="battery_meter_very_low_overlay_symbol">!</string>
+    <string name="time_zone_gmt">GMT</string>
 </resources>
