@@ -141,4 +141,9 @@
     <string name="lock_screen_no_sim_card">SIM 카드 없음</string>
     <string name="do_disclosure_generic">이 기기는 업무 그룹에 의해 관리됩니다.</string>
     <string name="do_disclosure_with_name">이 기기는 %s에 의해 관리됩니다.</string>
+    <string name="face_data_input_ok_msg_angle">"기기가 켜져 있을 때 안면 인식으로 잠금을 해제하세요."</string>
+    <string name="face_data_siggesstion_next">다음</string>
+    <string name="face_data_siggesstion_next_time">다음 (%ds)</string>
+    <string name="face_unlock_reenter_content">안면 인식 알고리즘 업데이트 중입니다. 탭하여 다시 인식하세요.</string>
+    <string name="face_unlock_reenter_title">얼굴을 다시 인식해주세요.</string>
 </resources>
