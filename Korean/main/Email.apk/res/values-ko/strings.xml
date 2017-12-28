@@ -1109,4 +1109,8 @@
     <string name="float_window_info">"139 사서함을 구성 할 때, 구성이 실패할 수 있으니 전화를 작동하지 마십시오."</string>
     <string name="float_window_title">설정중………</string>
     <string name="reply_subject_label">답장:</string>
+    <string name="auto_login_fail">자동 로그인 실패</string>
+    <string name="auto_login_fail_to_retry">자동 로그인에 실패하였습니다. 다시 로그인하세요.</string>
+    <string name="qq_auto_login_failed_dialog_positive_label">인증 코드를 복사하세요.</string>
+    <string name="retry_login">다시 로그인하세요.</string>
 </resources>
