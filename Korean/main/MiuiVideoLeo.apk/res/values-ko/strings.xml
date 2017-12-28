@@ -789,4 +789,20 @@
   <string name="passport_wrong_captcha">입력한 코드가 올바르지 않습니다</string>
   <string name="passport_wrong_phone_number_format">입력한 전화번호의 형식이 올바르지 않습니다.</string>
   <string name="passport_wrong_vcode">입력한 코드가 올바르지 않습니다</string>
+  <string name="alert_dialog_download_install_task">플러그인 설치를 기다리는 중…</string>
+  <string name="already_buy_vip">는 이미 VIP 멤버입니다.</string>
+  <string name="create_tencent_shortcut_message">Tencent 비디오 단축키를 이미 바탕화면에 생성하였습니다.</string>
+  <string name="current_price">현재 가격</string>
+  <string name="do_not_buy_vip">VIP 패키지를 구매하지 마세요.</string>
+  <string name="expired_buy_vip">VIP 멤버십이 만료되었습니다.</string>
+  <string name="go_to_cinema">시네마 가기</string>
+  <string name="no_vip_product">VIP 서비스를 지원하지 않음</string>
+  <string name="single_pay">싱글 페이</string>
+  <string name="video_vip">VIP</string>
+  <string name="vip_rights">VIP 이용 약관</string>
+  <string name="vp_full_high_definition">1080P</string>
+  <string name="vp_high_definition">HD</string>
+  <string name="vp_loading"><CDATA>다운로드중</CDATA></string>
+  <string name="vp_standard_definition">SD</string>
+  <string name="wasu">Wasu</string>
 </resources>
