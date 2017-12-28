@@ -30,4 +30,7 @@
     <string name="sim_type_uim_name">UIM 도구 킷</string>
     <string name="sim_type_usim_name">USIM 도구 킷</string>
     <string name="stk_intent_permission">권한이 필요합니다.</string>
+    <string name="app_name2">SIM 툴킷 2</string>
+    <string name="app_name3">SIM 툴킷 3</string>
+    <string name="stk_channel_name">모바일 서비스 메세지</string>
 </resources>
