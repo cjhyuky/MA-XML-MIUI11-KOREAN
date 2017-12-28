@@ -1030,4 +1030,10 @@
   <string name="action_modify_bookmark">북마크 수정</string>
   <string name="action_put_in_search_box">%s를 검색 박스에 입력하세요.</string>
   <string name="miuishare_dialog_cancel">취소</string>
+  <string name="open_cloud_sync">클라우드 동기화 열기</string>
+  <string name="open_cloud_sync_desc">북마크가 추가되었습니다. 클라우드에 연결된 다른 기기에도 같은 항목이 추가되도록 할 수 있습니다. 지금 클라우드에 로그인하시겠습니까?</string>
+  <string name="sign_and_open">로그인 후 열기</string>
+  <string name="sync_and_backup_bookmark">북마크 동기화 및 백업</string>
+  <string name="sync_and_backup_history">검색 기록 동기화 및 백업</string>
+  <string name="temp_refuse">거절</string>
 </resources>
