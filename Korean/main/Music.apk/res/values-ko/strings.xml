@@ -1006,4 +1006,21 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="my_music">내 음악</string>
     <string name="network_error">네트워크에 연결할 수 없습니다.</string>
     <string name="online_music">발견</string>
+    <string name="filter_size_unit">%dKB</string>
+    <string name="atmd_copyright_info">스트리밍 서비스 제공업체 : Ultimate Inc.</string>
+    <string name="atmd_mail">service1@ultimobi.com</string>
+    <string name="atmd_tel">서비스 문의 : 0755-86699030</string>
+    <string name="dialog_remove_descript">%s 항목을 삭제하시겠습니까?</string>
+    <string name="download_auto_quality_alert_sub_title_for_expired">체험판이나 구독이 만료되었습니다. 낮은 다운로드 품질을 선택하십시오.</string>
+    <string name="download_auto_quality_alert_sub_title_for_login">활성화하려면 Mi 계정에 로그인하십시오.</string>
+    <string name="download_auto_quality_alert_title">음악 다운로드 품질</string>
+    <string name="format_unsupported">"지원되지 않는 형식입니다."</string>
+    <string name="impunity_declaration">이 앱은 온라인 음악을 듣고 스트리밍하기 위해 인터넷에 연결해야 합니다.</string>
+    <string name="music_quality">음악 퀄리티</string>
+    <string name="not_vip">회원님은 VIP 멤버십 가입 회원이 아닙니다.</string>
+    <string name="only_online_can_select_quality">스트리밍하는 음악의 품질만 선택할 수 있습니다.</string>
+    <string name="period_format">%1$s-%2$s</string>
+    <string name="quit_warining">플레이어가 %d분 후에 종료됩니다.</string>
+    <string name="support_online_only">스트리밍 전용</string>
+    <string name="vip_recommend_title">고품질 음악 듣기</string>
 </resources>
