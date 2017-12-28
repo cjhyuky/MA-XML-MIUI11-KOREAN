@@ -690,8 +690,6 @@
     <string name="NFC_SoftwareStack_RawCommand_Examp">예시 : (에코 앱)</string>
     <string name="Audio_Get">설정</string>
     <string name="auto_clibr_af_full">전체 검사</string>
-    <string name="bandmodesim1_UMTS">UMTS 모드</string>
-    <string name="bandmodesim2_GSM">GSM 모드</string>
     <string name="ctia_btn_get">설정</string>
     <string name="fd_text_send">FD 전송</string>
     <string name="hqa_cpustress_apmcu_result">결과:</string>
@@ -803,8 +801,6 @@
     <string name="NetworkInfo_3GUl2EmUrlcEventStatusIndStruct">3GUl2EmUrlcEventStatusIndStruct</string>
     <string name="NetworkInfo_3GUrrUmtsSrncId">3GUrrUmtsSrncId</string>
     <string name="NetworkInfo_3Gul2EmHsdschReconfigStatusIndStruct">3GUl2EmHsdschReconfigStatusIndStruct</string>
-    <string name="NetworkInfo_BLK">RR BLK Info</string>
-    <string name="NetworkInfo_Ca">RR Ca List</string>
     <string name="NetworkInfo_Cell">RR Cell Sel</string>
     <string name="NetworkInfo_Ch">RR Ch Dscr</string>
     <string name="NetworkInfo_Control">RR Control Msg</string>
@@ -833,15 +829,12 @@
     <string name="RxWritten">쓰여짐</string>
     <string name="SIM1">SIM1</string>
     <string name="SIM2">SIM2</string>
-    <string name="SIMList">SIM 선택</string>
     <string name="SSPDebugMode"><b>SSP 디버깅 모드 활성화</b></string>
     <string name="StrFrequency">Tx 채널 : </string>
     <string name="StrPattern">Tx 패턴 : </string>
     <string name="StrPocketLength">포켓 길이 : </string>
     <string name="StrPocketType">포켓 유형 : </string>
     <string name="Success">성공</string>
-    <string name="TDD_BandSel_GSM">GSM 모드</string>
-    <string name="TDD_BandSel_UMTS">UMTS 모드</string>
     <string name="TDD_GSM_DCS1800">DCS1800</string>
     <string name="TDD_GSM_EGSM900">EGSM900</string>
     <string name="TDD_GSM_GSM850">GSM850</string>
