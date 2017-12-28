@@ -14,4 +14,15 @@
     <string name="delete_ringtone_text">삭제</string>
     <string name="sound_name_rise">올리기</string>
     <string name="storage_description">내부 저장소</string>
+    <string name="add_ringtone_text">벨소리 추가</string>
+    <string name="sound_name_awaken">Awaken</string>
+    <string name="sound_name_bounce">Bounce</string>
+    <string name="sound_name_drip">Drip</string>
+    <string name="sound_name_gallop">Gallop</string>
+    <string name="sound_name_nudge">Nudge</string>
+    <string name="sound_name_orbit">Orbit</string>
+    <string name="sound_name_sway">Sway</string>
+    <string name="sound_name_wag">Wag</string>
+    <string name="unable_to_add_ringtone">사용자 지정 벨소리를 추가할 수 없습니다.</string>
+    <string name="unable_to_delete_ringtone">사용자 지정 벨소리를 제거할 수 없습니다.</string>
 </resources>
