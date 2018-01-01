@@ -2065,7 +2065,6 @@
     <string name="cdma_labelCFC">모든 전달 취소</string>
     <string name="cdma_labelCFD">기본 포워딩</string>
     <string name="cdma_label_voice_message_retrieve">음성 메시지 검색</string>
-    <string name="change_cdma_capability_dialog">%s 항목이 일시적으로 작동하지 않으며 기본 전화, SMS, %s의 데이터가 그에 따라 %s 항목으로 변경됩니다.</string>
     <string name="default_call_switch_err_msg1">통화 도중 기본 설정 SIM을 전환 할 수 없습니다.</string>
     <string name="delete_ecc_number">긴급번호 삭제</string>
     <string name="ecc_contact_added">긴급번호 추가됨.</string>
