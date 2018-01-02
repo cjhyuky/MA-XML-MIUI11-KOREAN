@@ -69,4 +69,34 @@
     <plurals name="show_messages_read">
         <item quantity="other">%1$d개의 이전 메시지</item>
     </plurals>
+	<plurals name="confirm_delete_draft">
+		<item quantity="other">%1$d개 항목을 삭제하시겠습니까?</item>
+	</plurals>
+	<plurals name="conversation_msg_header_count">
+		<item quantity="other">+%1$d명</item>
+	</plurals>
+	<plurals name="actionbar_large_unread_count">
+		<item quantity="other">%1$d+개의 읽지 않은 메세지</item>
+	</plurals>
+	<plurals name="hide_atts_remaining">
+		<item quantity="other">%1$d개의 항목 숨김처리됨</item>
+	</plurals>
+	<plurals name="local_search_result">
+		<item quantity="other">동기화된 메세지의 %s개 항목</item>
+	</plurals>
+	<plurals name="more_atts_remaining">
+		<item quantity="other">%1$d개 남음</item>
+	</plurals>
+	<plurals name="new_messages">
+		<item quantity="other">%1$d개의 새로운 메세지</item>
+	</plurals>
+	<plurals name="quick_reply_hint">
+		<item quantity="other">%1$d명에게 답장</item>
+	</plurals>
+	<plurals name="remote_search_result">
+		<item quantity="other">서버에 %s개 결과</item>
+	</plurals>
+	<plurals name="unsent_messages_in_outbox">
+		<item quantity="other">%2$s에 %1$s개 항목 전송되지 않음</item>
+	</plurals>
 </resources>
