@@ -203,4 +203,25 @@
     <plurals name="uninstall_game_count_title">
         <item quantity="other">%d개 게임 추가되지 않음</item>
     </plurals>
+       <plurals name="bg_network_allow_count">
+        <item quantity="other">%d개의 앱이 백그라운드에서 네트워크 접속을 사용합니다</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d개의 앱이 백그라운드에서 네트워크 접속을 할 수 없습니다"</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"<font color='#ff0000'>%d개의</font> 앱이 네트워크 접속 제한됨"</item>
+    </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d개의 앱</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d개의 알림이 숨겨짐</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d개의 알림이 보여짐</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">%d일 뒤 네트워크 속도 향상 세션이 끝납니다. 네트워크 속도 문제를 피하기 위해 세션을 갱신하십시오.</item>
+    </plurals>
 </resources>
