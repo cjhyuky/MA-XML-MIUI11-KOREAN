@@ -78,4 +78,43 @@
     <plurals name="reader_count">
         <item quantity="other">%d 팔로워</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">%d개 파일을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d개 파일 삭제됨</item>
+    </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Mi 클라우드에서 %d개 음악파일을 삭제하시겠습니까? 기기의 재생목록에서도 같이 삭제됩니다.</item>
+    </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%d개의 음악파일</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d개 음악파일이 백업되지 않았습니다. (%2$.1fMB)"</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">%1$d개 파일 백업하기 (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">음악파일 백업중, %1$d개 파일 남음 (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d개 음악파일이  Mi 클라우드에 백업되지 않았습니다. 지금 중단하시겠습니까?"</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">%1$s에 생성됨 | 총 %2$d개 음악</item>
+    </plurals>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">총 %d개 음악</item>
+    </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">%d개 음악을 건너뛰었습니다. 설정에서 온라인 서비스를 켠 후에 정상적으로 들을 수 있습니다.</item>
+    </plurals>
+    <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">저장된 노래에 대한 앨범 표지 및 가사를 자동으로 찾지 않기로 선택했습니다. %d개 음악의 정보를 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">앨범 표지 및 가사 검색중 (%1$d/%2$d)</item>
+    </plurals>
 </resources>
