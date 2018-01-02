@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">자막이 %.1f초 빠르게 표시됩니다.</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">자막이 %.1f초 지연되어 표시됩니다.</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">파일 크기 : %.2fKB</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d개 영상</item>
+    </plurals>
+</resources>
