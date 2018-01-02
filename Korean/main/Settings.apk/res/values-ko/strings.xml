@@ -4663,7 +4663,7 @@ PIN 설정"</string>
     <string name="domain_urls_summary_none">지원되는 링크 열지 않기</string>
     <string name="domain_urls_summary_one">%s 열기</string>
     <string name="domain_urls_summary_some"> %s 와 다른 링크 열기</string>
-    <string name="domain_urls_title">링크 여는 중</string>
+    <string name="domain_urls_title">링크 열기</string>
     <string name="done">마침</string>
     <string name="emergency_info_title">긴급 정보</string>
     <string name="enableNetwork">네트워크 활성화</string>
@@ -4877,7 +4877,7 @@ PIN 설정"</string>
     <string name="notifications_disabled">차단됨</string>
     <string name="notifications_enabled">표준</string>
     <string name="notifications_hidden">잠금 화면은 제외</string>
-    <string name="notifications_label">알림들</string>
+    <string name="notifications_label">앱 알림</string>
     <string name="notifications_priority">방해 금지 모드 무시</string>
     <string name="notifications_redacted">민감한 컨텐츠 잠금 화면에 보이지 않기</string>
     <string name="notifications_silenced">모음처리됨</string>
