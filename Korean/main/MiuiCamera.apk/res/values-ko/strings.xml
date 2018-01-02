@@ -825,4 +825,8 @@
     <string name="pref_camera_picturesize_entry_16_9">16:9</string>
     <string name="pref_camera_picturesize_entry_18_9">18:9</string>
     <string name="pref_camera_picturesize_entry_4_3">4:3</string>
+    <string name="pref_camera_bokeh_title">초상화</string>
+    <string name="pref_camera_front_bokeh_entry_off">꺼짐</string>
+    <string name="pref_camera_front_bokeh_entry_on">켜짐</string>
+    <string name="video_effect_entry_bygone">과거</string>
 </resources>
