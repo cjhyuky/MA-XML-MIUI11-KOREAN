@@ -85,4 +85,43 @@
         <item quantity="other">%d분</item>
         <item quantity="one">1분</item>
     </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">기념일로부터 %1$d일</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d 남음</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">최대 %1$d일까지 입력할 수 있습니다.</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d일 후</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">%1$일 전</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d번</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d일마다</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d주마다</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d일마다</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d주마다</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d달마다</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d년마다</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d 이벤트를 위해</item>
+    </plurals>
 </resources>
