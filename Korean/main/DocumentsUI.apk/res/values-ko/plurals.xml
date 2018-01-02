@@ -8,61 +8,61 @@
         <item quantity="other">파일 %1$d개를 복사할 수 없습니다.</item>
         <item quantity="one">파일 %1$d개를 복사할 수 없습니다.</item>
     </plurals>
-    <plurals name="move_begin">
+        <plurals name="move_begin">
     <item quantity="other">%1$d개 파일을 옮기는 중입니다..</item>
-    </plurals>
+        </plurals>
     <plurals name="deleting">
-    <item quantity="other">%1$d개 파일을 삭제중입니다.</item>
+        <item quantity="other">%1$d개 파일을 삭제중입니다.</item>
     </plurals>
     <plurals name="move_error_notification_title">
-    <item quantity="other">%1$d 파일을 옮길 수 없습니다.</item>
+        <item quantity="other">%1$d 파일을 옮길 수 없습니다.</item>
     </plurals>
     <plurals name="delete_error_notification_title">
-    <item quantity="other">%1$d 파일을 삭제할 수 없습니다.</item>
+        <item quantity="other">%1$d 파일을 삭제할 수 없습니다.</item>
     </plurals>
     <plurals name="clipboard_files_clipped">
-    <item quantity="other">%1$d개의 파일을 클립보드에 옮겼습니다.</item>
+        <item quantity="other">%1$d개의 파일을 클립보드에 옮겼습니다.</item>
     </plurals>
     <plurals name="elements_selected">
-    <item quantity="other">%1$d개 선택됨</item>
+        <item quantity="other">%1$d개 선택됨</item>
     </plurals>
     <plurals name="elements_dragged">
-    <item quantity="other">%1$d개 아이템</item>
+        <item quantity="other">%1$d개 아이템</item>
     </plurals>
     <plurals name="delete_files_confirmation_message">
-    <item quantity="other">%1$d개 파일을 삭제하시겠습니까?</item>
+        <item quantity="other">%1$d개 파일을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_folders_confirmation_message">
-    <item quantity="other">%1$d개 폴더와 내부 파일들을 삭제하시겠습니까?</item>
+        <item quantity="other">%1$d개 폴더와 내부 파일들을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_items_confirmation_message">
-    <item quantity="other">%1$d개 파일을 삭제하시겠습니까?</item>
+        <item quantity="other">%1$d개 파일을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="compress_begin">
-    <item quantity="other">%1$d개 파일을 압축중입니다.</item>
+        <item quantity="other">%1$d개 파일을 압축중입니다.</item>
     </plurals>
     <plurals name="compress_error_notification_title">
-    <item quantity="other">%1$d개 파일을 압축할 수 없습니다.</item>
+        <item quantity="other">%1$d개 파일을 압축할 수 없습니다.</item>
     </plurals>
     <plurals name="compress_failure_alert_content">
-    <item quantity="other">다음 항목 압축되지 않음 : %1$s</item>
+        <item quantity="other">다음 항목 압축되지 않음 : %1$s</item>
     </plurals>
     <plurals name="copy_converted_warning_content">
-    <item quantity="other">다음 파일 변환됨: %1$s</item>
+        <item quantity="other">다음 파일 변환됨: %1$s</item>
     </plurals>
     <plurals name="copy_failure_alert_content">
-    <item quantity="other">다음 항목 복사되지 않음: %1$s</item>
+        <item quantity="other">다음 항목 복사되지 않음: %1$s</item>
     </plurals>
     <plurals name="delete_failure_alert_content">
-    <item quantity="other">다음 항목 삭제되지 않음: %1$s</item>
+        <item quantity="other">다음 항목 삭제되지 않음: %1$s</item>
     </plurals>
     <plurals name="extract_begin">
-    <item quantity="other">%1$d개 파일을 추출중입니다.</item>
+        <item quantity="other">%1$d개 파일을 추출중입니다.</item>
     </plurals>
     <plurals name="extract_failure_alert_content">
-    <item quantity="other">다음 항목 추출되지 않음 : %1$s</item>
+        <item quantity="other">다음 항목 추출되지 않음 : %1$s</item>
     </plurals>
     <plurals name="move_failure_alert_content">
-    <item quantity="other">다음 항목 옮겨지지 않음: %1$s</item>
+        <item quantity="other">다음 항목 옮겨지지 않음: %1$s</item>
     </plurals>
-    </resources>
+</resources>
