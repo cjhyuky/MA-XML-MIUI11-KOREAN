@@ -25,4 +25,13 @@
     <plurals name="fold_tips_title">
         <item quantity="other">%d개의 중요하지 않은 알림</item>
     </plurals>
+    <plurals name="accessibility_desc_weather_temperature">
+        <item quantity="other">%d도</item>
+    </plurals>
+    <plurals name="notification_group_child_count">
+        <item quantity="other">%1$d개의 알림</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s개의 추가 알림이 있습니다.</item>
+    </plurals>
 </resources>
