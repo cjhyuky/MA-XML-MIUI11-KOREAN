@@ -100,4 +100,145 @@
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d개 위험 발견됨</item>
     </plurals>
+        <plurals name="dlg_remove_locales_title">
+        <item quantity="other">선택한 언어를 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d개의 지문이 설정됨</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d개의 항목</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">엄청나게 짧은 지연속도 (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">매우 짧은 지연속도 (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">짧은 지연속도 (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">긴 지연속도 (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">매우 긴 지연속도 (%1$d ms)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d개의 인쇄 작업</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">인증서 신뢰 또는 삭제</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s님이 장치에 인증서를 설치 했으므로 이메일, 응용 프로그램 및 보안 웹 사이트를 포함한 장치 네트워크 활동을 모니터링 할 수 있습니다. 이러한 인증서에 대한 자세한 내용은 관리자에게 문의하십시오."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s님이 직장 프로필에 대한 인증서를 설치 했으므로 이메일, 앱, 보안 웹 사이트 등 직장 네트워크 활동을 모니터링 할 수 있습니다. 이러한 인증서에 대한 자세한 내용은 관리자에게 문의하십시오."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">인증서 체크</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">%1$d분 동안만 알림으로 변경(%2$s까지)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%1$d시간 동안만 알림으로 변경(%2$s까지)</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d개의 권한 허용됨</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%2$d개 중 %1$d개의 권한 허용됨</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d개의 추가 권한</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d개의 앱이 신뢰하는 링크를 열 수 있습니다</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d개의 앱이 배터리 최적화에서 제외되었습니다</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d앱이 전송 제한되었습니다</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d개의 앱이 데이터세이버가 켜져있어도 제한없이 데이터를 사용하게끔 허용되었습니다</item>
+    </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">%d개의 항목</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d 분</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d 시간</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item quantity="other">%d개의 앱이 알림꺼짐</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">카메라 앱</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">이메일 앱</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">전화 앱</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item quantity="other">%d개의 카테고리 삭제</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item quantity="other">지원되는 링크를 여는 %d개의 앱</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item quantity="other">최소 %d개의 CA 인증서</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d번째 시도</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d개의 앱</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">최소 %d개의 앱</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s 시간</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item quantity="other">%d개의 신뢰하는 에이전트</item>
+    </plurals>
+    <plurals name="master_clear_with_account_summary">
+        <item quantity="other">%1$d개의 계정이 초기화됩니다</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s 분</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item quantity="other">%1$d개의 제한</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item quantity="other">%d개의 활성 앱</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item quantity="other">%1$d개의 프린트 서비스 켜짐</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s 초</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item quantity="other">%d개의 숨겨진 항목 보기</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d개의 앱이 제한없이 데이터를 사용할 수 있습니다</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item quantity="other">%d개의 네트워크</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item quantity="other">%d개의 자동화 규칙이 켜짐</item>
+    </plurals>
 </resources>
