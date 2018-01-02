@@ -33,4 +33,10 @@
     <plurals name="save_item_failed_summary_seg2">
         <item quantity="other">%d개의 항목이 백업되지 않았습니다</item>
     </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d 항목,</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d 항목</item>
+    </plurals>
 </resources>
