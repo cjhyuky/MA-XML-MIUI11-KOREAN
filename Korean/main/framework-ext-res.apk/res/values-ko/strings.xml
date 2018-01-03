@@ -46,7 +46,7 @@
     <string name="caller_info_name_delimiter">" 또는 "</string>
     <string name="first_back_long_press_message">사용자 설정을 하시려면 탐색 버튼을 길게 &amp; 눌러주십시오. 설정 > 추가 설정 > 버튼에서도 설정하실 수 있습니다.</string>
     <string name="force_exit_message">%1$s 강제로 종료됨</string>
-    <string name="force_exit_skip_message">시스템이 요구하므로 %1$s을(를) 종료할 수 없습니다.</string>
+    <string name="force_exit_skip_message">시스템이 요구하므로 %1$s 앱을 종료할 수 없습니다.</string>
     <string name="fm_record_smaple_prefix_miui">FM 녹음</string>
     <string name="global_actions_airplane_mode">비행기 탑승 모드</string>
     <string name="global_actions_reboot">재시작</string>
