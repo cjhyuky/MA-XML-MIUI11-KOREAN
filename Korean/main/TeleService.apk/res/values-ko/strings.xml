@@ -351,11 +351,11 @@
     <string name="all_day">하루 종일</string>
     <string name="time_interval_char">:</string>
     <string name="time_start">에서</string>
-    <string name="time_start_hour">time start hour</string>
-    <string name="time_start_minute">time start minute</string>
+    <string name="time_start_hour">시작 시간 (시)</string>
+    <string name="time_start_minute">시작 시간 (분)</string>
     <string name="time_end">까지</string>
-    <string name="time_end_hour">time end hour</string>
-    <string name="time_end_minute">time end minute</string>
+    <string name="time_end_hour">종료 시간 (시)</string>
+    <string name="time_end_minute">종료 시간 (분)</string>
     <string name="time_formate_am">오전</string>
     <string name="time_formate_pm">오후</string>
     <string name="cf_mobile_date">모바일 데이터를 켜주시고 Wi-Fi가 꺼져있는지 확인해주십시오.</string>
@@ -619,7 +619,7 @@
     <string name="simContacts_airplaneMode">SIM 카드에서 연락처를 가져오려면, 비행기 모드를 끄십시오.</string>
     <string name="simContacts_title">SIM 카드 연락처 관리</string>
     <string name="Result_title">SIM 카드 연락처</string>
-    <string name="enable_pin">SIM PIN</string>
+    <string name="enable_pin">SIM PIN 활성화/비활성화</string>
     <string name="change_pin">SIM PIN 변경</string>
     <string name="enter_pin_text">SIN PIN:</string>
     <string name="oldPinLabel">이전 PIN</string>

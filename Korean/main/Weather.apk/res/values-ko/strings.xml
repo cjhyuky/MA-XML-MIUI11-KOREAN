@@ -215,7 +215,7 @@
     <string name="minute_rain_after_an_hour">1시간 후</string>
     <string name="minute_rain_after_two_hour">2시간 후</string>
     <string name="minute_rain_progress_indicator_original_time">- -</string>
-    <string name="some_where_on_earth">Somewhere on Earth</string>
+    <string name="some_where_on_earth">지구 어딘가</string>
     <string name="minute_rain_no_data">데이터 없음</string>
     <string name="minute_rain_feedback_title">날씨 정보가 잘못된 것 같습니다.</string>
     <string name="minute_rain_feedback_subtitle">날씨가 어떤지 알려주십시오</string>

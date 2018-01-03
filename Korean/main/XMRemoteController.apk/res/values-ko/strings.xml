@@ -212,7 +212,7 @@
     <string name="epg_hot_channels">채널</string>
     <string name="epg_hot_programs">쇼</string>
     <string name="epg_loading_hint">전화를 사용하여 셋톱 박스에서 채널 전환</string>
-    <string name="epg_name">Live TV</string>
+    <string name="epg_name">실시간 TV</string>
     <string name="epg_no_search_result">결과를 찾지 못했음</string>
     <string name="epg_search_history">기록</string>
     <string name="epg_status_playing_text">재생 중…</string>
