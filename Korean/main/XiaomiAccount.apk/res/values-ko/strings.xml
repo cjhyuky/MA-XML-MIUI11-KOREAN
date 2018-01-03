@@ -7,7 +7,7 @@
     <string name="passport_login_title">Mi 계정에 로그인</string>
     <string name="passport_login">로그인</string>
     <string name="passport_relogin">다시 로그인</string>
-    <string name="passport_instant_login">Sign in</string>
+    <string name="passport_instant_login">로그인</string>
     <string name="passport_skip_login">건너뛰기</string>
     <string name="passport_skip_setup_account_title">설정 건너뛰기</string>
     <string name="passport_skip_setup_account_msg">나중에 설정에서 Mi 계정을 설정할 수 있습니다.</string>

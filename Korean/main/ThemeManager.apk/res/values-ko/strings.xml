@@ -283,7 +283,7 @@
     <string name="favorite_list">즐겨찾기</string>
     <string name="favorite_list_format">%1$s 즐겨찾기</string>
     <string name="purchased_list">구매됨</string>
-    <string name="purchased_list_current">MIUI 8</string>
+    <string name="purchased_list_current">MIUI 9</string>
     <string name="purchased_list_legacy">보유 테마</string>
     <string name="my_gifts">선물</string>
     <string name="my_gifts_purchased">구매됨</string>

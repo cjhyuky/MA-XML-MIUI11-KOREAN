@@ -1442,7 +1442,7 @@
     <string name="PERSOSUBSTATE_SIM_CORPORATE_ENTRY">SIM 법인 PIN</string>
     <string name="PERSOSUBSTATE_SIM_CORPORATE_ERROR">SIM 기업 잠금 해제 요청 실패했습니다.</string>
     <string name="PERSOSUBSTATE_SIM_CORPORATE_IN_PROGRESS">SIM 법인 잠금 해제 요청 중 ...</string>
-    <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_ERROR">PUK unlock unsuccessful.</string>
+    <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_ERROR">PUK 해제가 실패했습니다.</string>
     <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_SUCCESS">PUK 잠금이 성공적으로 해제되었습니다.</string>
     <string name="PERSOSUBSTATE_SIM_CORPORATE_SUCCESS">SIM 기업 잠금 해제 성공.</string>
     <string name="PERSOSUBSTATE_SIM_NETWORK_ENTRY">SIM 네트워크 잠금 해제 PIN</string>
@@ -1460,13 +1460,13 @@
     <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_ENTRY">SIM PIN 잠금 해제</string>
     <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_ERROR">SIM 서비스 공급자가 요청한 잠금 해제에 실패했습니다.</string>
     <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_IN_PROGRESS">SIM 서비스 공급자 요청 잠금중...</string>
-    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_PUK_ERROR">PUK unlock unsuccessful.</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_PUK_ERROR">PUK 해제가 실패했습니다.</string>
     <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_PUK_SUCCESS">PUK 잠금이 성공적으로 해제되었습니다.</string>
     <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_SUCCESS">SIM 서비스 공급자의 잠금이 해제되었습니다.</string>
     <string name="PERSOSUBSTATE_SIM_SIM_ENTRY">SIM 잠금 해제 PIN</string>
     <string name="PERSOSUBSTATE_SIM_SIM_ERROR">SIM 잠금 해제 요청이 실패했습니다.</string>
     <string name="PERSOSUBSTATE_SIM_SIM_IN_PROGRESS">SIM 잠금 해제 요청중 ...</string>
-    <string name="PERSOSUBSTATE_SIM_SIM_PUK_ERROR">PUK unlock unsuccessful.</string>
+    <string name="PERSOSUBSTATE_SIM_SIM_PUK_ERROR">PUK 해제가 실패했습니다.</string>
     <string name="PERSOSUBSTATE_SIM_SIM_PUK_SUCCESS">PUK 잠금이 성공적으로 해제되었습니다.</string>
     <string name="PERSOSUBSTATE_SIM_SIM_SUCCESS">SIM 잠금 해제 성공.</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">이 기능은 실험적이며 성능에 영향을 줄 수 있습니다.</string>
