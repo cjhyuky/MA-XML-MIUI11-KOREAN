@@ -4,6 +4,7 @@
     <string name="date_time_12">M월dd일 EEEE</string>
     <string name="desc_date_format">M월dd일 EEEE</string>
     <string name="desc_date_format_12">M월dd일 EEEE</string>
+    <string name="weather_type_null">'정보 없음'</string>
     <string name="weather_type_0">맑음</string>
     <string name="weather_type_1">흐림</string>
     <string name="weather_type_2">연무</string>
