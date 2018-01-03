@@ -101,7 +101,7 @@
     <string name="menu_send_weibo">Weibo로 전송</string>
     <string name="info_note_enter_desktop">홈 화면에 추가됨</string>
     <string name="all_terms">%1$s 그리고 %2$s</string>
-    <string name="alert_title_delete">Delete note</string>
+    <string name="alert_title_delete">메모 삭제</string>
     <string name="alert_message_delete">%1$s을(를) 삭제하시겠습니까?</string>
     <string name="alert_message_delete_note">이 메모를 삭제하시겠습니까?</string>
     <string name="format_move_notes_to_folder">%1$s에서 %2$s(으)로 이동됨</string>

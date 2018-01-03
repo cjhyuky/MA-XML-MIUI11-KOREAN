@@ -528,7 +528,7 @@ SMS 전송"</string>
 이번 달에 %s의 추가 데이터를 구매하였습니다. 이것은 수동으로 설정한 월간 데이터 한도에 반영되지 않습니다."</string>
     <string name="traffic_config_alert_setted">설정 적용됨</string>
     <string name="traffic_config_alert_package">"
-Rolled over extra data"</string>
+추가 데이터로 롤업됩니다."</string>
     <string name="traffic_limit_error_alert_title">데이터 한도 미리 알림 %s</string>
     <string name="traffic_limit_error_alert_body">귀하의 남아있는 이번 달 데이터 (%1$s) 가 월간 플랜 (%2$s) 보다 큽니다. 월간 플랜을 변경하시겠습니까?</string>
     <string name="traffic_limit_error_alert_package">"
@@ -1320,7 +1320,7 @@ Rolled over extra data"</string>
     <string name="title_install_virus_no">설치 모니터 꺼짐</string>
     <string name="title_install_virus_yes">설치 모니터 켜짐</string>
     <string name="summary_install_virus">앱 설치 전 바이러스 확인</string>
-    <string name="title_dev_model_off">"Developer's options are off"</string>
+    <string name="title_dev_model_off">"개발자 옵션이 꺼져있습니다."</string>
     <string name="title_dev_yes">개발자 옵션 꺼짐</string>
     <string name="title_dev_no">개발자 옵션 켜짐</string>
     <string name="summary_dev">악성코드를 방지하고 개인 정보를 보호합니다.</string>
@@ -1513,7 +1513,7 @@ Rolled over extra data"</string>
     <string name="title_payment_protection">결제 환경이 안전합니다.</string>
     <string name="title_payment_risk">결제 문제 발견</string>
     <string name="summary_payment_risk">결제 환경이 안전하지 않습니다.</string>
-    <string name="title_garbage_less">App cache is small</string>
+    <string name="title_garbage_less">애플리케이션 캐시가 작습니다.</string>
     <string name="title_garbage_clean">앱 캐시 크기 %s 도달함</string>
     <string name="summary_garbage_clean">캐시를 지워서 공간 확보</string>
     <string name="summary_consume_power">발열 이슈 발견됨. 배터리 수명에 영향을 줄 수 있습니다.</string>
@@ -1557,14 +1557,14 @@ Rolled over extra data"</string>
     <string name="handle_title_pay_env">결제 환경</string>
     <string name="handle_title_privacy">개인정보 보호 &amp; 보안</string>
     <string name="risk_count_suffix" />
-    <string name="virus_auto_update_engine">Auto updates：%s</string>
-    <string name="hints_scan_danger_result">Risk found, fix now</string>
+    <string name="virus_auto_update_engine">자동 업데이트：%s</string>
+    <string name="hints_scan_danger_result">위험이 발견되었습니다. 지금 수정하세요.</string>
     <string name="ss_activity_main_support_text">%s 제공</string>
     <string name="hints_virus_app_summary">%s (app)</string>
     <string name="hints_virus_apk_summary">%s (apk)</string>
-    <string name="hints_risk_name_title">Risk:</string>
-    <string name="hints_risk_descx_title">Description:</string>
-    <string name="button_text_clear">Clear</string>
+    <string name="hints_risk_name_title">위험:</string>
+    <string name="hints_risk_descx_title">설명:</string>
+    <string name="button_text_clear">삭제</string>
     <string name="toast_removed_from_virus_white_list">예외에서 제외됨. 다음부터 이 항목이 스캔됩니다.</string>
     <string name="long_click_dialog_title">주의</string>
     <string name="long_click_dialog_summary">예외에 추가하려면 목록의 결과를 길게 눌러주십시오.</string>
@@ -1577,7 +1577,7 @@ Rolled over extra data"</string>
     <string name="virus_scan_process_pre">%</string>
     <string name="try_recommended_function">새 보안 기능으로 기기를 보호하십시오</string>
     <string name="activity_title_white_list">예외</string>
-    <string name="uninstall_danagerous_title">Uninstall malicious app</string>
+    <string name="uninstall_danagerous_title">악성 어플을 삭제합니다.</string>
     <string name="uninstall_danagerous_desc">\"%s\"이(가) 디바이스를 손상시킬 수 있습니다</string>
     <string name="uninstall_danagerous_msg">\"%s\"이(가) 디바이스를 손상시키거나 성능 저하 또는 재부팅을 일으킬 수 있습니다.</string>
     <string name="still_retain_btn">유지</string>
@@ -1711,7 +1711,7 @@ Rolled over extra data"</string>
     <string name="go_to_setting_fingerprint">설정</string>
     <string name="fingerprint_remind_dialog_title">지문 잠금 해제</string>
     <string name="confirm_fingerprint_msg">지문 인증</string>
-    <string name="fingerprint_identify_msg">Turn on Fingerprint unlock</string>
+    <string name="fingerprint_identify_msg">지문 인증을 켜주세요.</string>
     <string name="fingerprint_not_identified_msg">지문을 읽을 수 없습니다. 비밀번호를 입력해 주십시오.</string>
     <string name="lockscreen_access_pattern_start">패턴 시작됨</string>
     <string name="lockscreen_access_pattern_cleared">패턴 지워짐</string>
@@ -1727,7 +1727,7 @@ Rolled over extra data"</string>
     <string name="applock_bind_account_title">비밀번호 찾기</string>
     <string name="applock_close_dialog_title">앱 잠금을 끄시겠습니까?</string>
     <string name="applock_close_dialog_summary">앱 잠금이 꺼진 후에는 앱이 더이상 보호되지 않을 것이고 비밀번호가 삭제될 것입니다.</string>
-    <string name="applock_header_text_less_than_half">Too little space for this app. Drag the separator further.</string>
+    <string name="applock_header_text_less_than_half">이 앱에 사용할 공간이 너무 적습니다.</string>
     <string name="wakepath_confirm_start_activity">%1$s을(를) 허용하여 %2$s을(를) 여시겠습니까?</string>
     <string name="unlike">사양하겠습니다.</string>
     <string name="toast_network_eror">네트워크에 연결할 수 없습니다.</string>
@@ -1990,11 +1990,11 @@ Rolled over extra data"</string>
     <string name="renew_now">갱신</string>
     <string name="receive_now">수신</string>
     <string name="net_booster">네트워크 스피드 부스트</string>
-    <string name="wlan_booster">Wi-Fi optizition</string>
+    <string name="wlan_booster">Wi-Fi 최적화</string>
     <string name="tab_gift">선물</string>
     <string name="tab_guide">가이드</string>
     <string name="release_meminfo">메모리 %dMB 확보</string>
-    <string name="best_booster_status">Gaming speed is the best available now.</string>
+    <string name="best_booster_status">게임 속도는 지금이 제일 최적의 상태입니다.</string>
     <string name="do_clean">청소 중…</string>
     <string name="auto_clean_close">자동 청소 꺼짐</string>
     <string name="net_booster_title">네트워크 스피드 부스트</string>

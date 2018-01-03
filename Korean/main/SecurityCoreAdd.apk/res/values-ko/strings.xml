@@ -291,9 +291,9 @@
     <string name="sdcardfs_dialog_message">세컨드 스페이스에 진입하기 전에 \"Mock SD card optimization\" 를 개발자 옵션에서 비활성화하세요.</string>
     <string name="do_not_ask">"다시 묻지 않기"</string>
     <string name="gpg_message">세컨드 스페이스를 사용하려면 Google Play Games도 함께 해야 합니다. Google Play Games도 같이 복사하시겠습니까?</string>
-    <string name="gpg_title">Dual app for Google Play Games</string>
-    <string name="gms_message">Creating dual apps requires working with Google services. Create a dual app for Google services?</string>
-    <string name="gms_title">Turn on Google services</string>
+    <string name="gpg_title">Google Play Games 듀얼 앱</string>
+    <string name="gms_message">듀얼앱은 Google Service를 필요로 합니다. Google Service도 같이 복사하시겠습니까? </string>
+    <string name="gms_title">Google services 켜기</string>
     <string name="gms_open_button">켜기</string>
     <string name="create_second_space">성공적으로 생성됨</string>
     <string name="set_space_password">비밀번호 설정</string>

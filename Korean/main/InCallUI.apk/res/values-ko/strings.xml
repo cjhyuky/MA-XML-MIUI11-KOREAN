@@ -127,7 +127,7 @@
     <string name="unlock_phone">기기 잠금 해제</string>
     <string name="remind_unlock_message">기기가 잠겼습니다. 기기를 잠금 해제하신 후 \"%s\"를 사용하실 수 있습니다. 지금 잠금 해제하시겠습니까?</string>
     <string name="user_locked_prompt">기기를 잠금 해제하여 연락처 접근</string>
-    <string name="package_not_available">\"%s\" is not available</string>
+    <string name="package_not_available">\"%s\" 를 사용할 수 없습니다.</string>
     <string name="select_voice_call_sim">SIM카드 선택</string>
     <string name="msim_select_default_time_left">(%d 초)</string>
     <string name="select_sim_hint">SIM %2$d 사용할 수 없음, SIM %1$d 사용중.</string>

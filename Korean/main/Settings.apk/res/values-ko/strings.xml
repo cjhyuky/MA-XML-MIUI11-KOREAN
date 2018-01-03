@@ -146,7 +146,7 @@
     <string name="battery_info_uptime">부팅 후 경과 시간:</string>
     <string name="battery_info_awake_battery">배터리 각성 시간:</string>
     <string name="battery_info_awake_plugged">충전 중 각성 시간:</string>
-    <string name="battery_info_screen_on">Screen ON time:</string>
+    <string name="battery_info_screen_on">화면 켜짐 시간:</string>
     <string name="battery_info_status_unknown">알 수 없음</string>
     <string name="battery_info_status_charging">충전 중</string>
     <string name="battery_info_status_charging_ac">AC로 충전 중</string>
@@ -3437,7 +3437,7 @@ PIN 설정"</string>
     <string name="wifi_share_action_turn_off">네트워크 공유 중지</string>
     <string name="wifi_share_list_empty">공유된 네트워크 발견되지 않음</string>
     <string name="wifi_share_connect">연결</string>
-    <string name="enalbe_identify_iPhone">AP identification</string>
+    <string name="enalbe_identify_iPhone">AP 식별</string>
     <string name="wifi_share_qrcode_title">Wi-Fi 네트워크 공유</string>
     <string name="wifi_share_qrcode_summary">공유하려면 위의 QR 코드를 스캔하십시오.</string>
     <string name="wifi_share_qrcode_finish">확인</string>
@@ -3559,7 +3559,7 @@ PIN 설정"</string>
     <string name="found_new_version">업데이트 사용 가능</string>
     <string name="no_update_found">최신 MIUI 버전을 실행 중입니다.</string>
     <string name="no_updates_found">최신 MIUI 버전을 실행 중입니다.</string>
-    <string name="no_updates_warning">Your system is up to date</string>
+    <string name="no_updates_warning">최신 MIUI 버전을 사용하고 있습니다.</string>
     <string name="no_updates_warning2">안심하십시오. 업데이트가 있으면 알려 드리겠습니다. :)</string>
     <string name="network_error">네트워크 오류</string>
     <string name="checking_for_updates">업데이트 확인 중…</string>
@@ -4086,7 +4086,7 @@ PIN 설정"</string>
     <string name="keyguard_advance_setting_title">고급 설정</string>
     <string name="lock_screen_signature_title">잠금화면 소유자 정보</string>
     <string name="lock_screen_signature_summary">설정시 정보가 잠금화면에 표시됨</string>
-    <string name="fingerprint_manage_tittle">Fingerprint</string>
+    <string name="fingerprint_manage_tittle">지문</string>
     <string name="fingerprint_apply_to_privacy_password">개인 정보 보호 비밀번호</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">개인 정보 보호 비밀번호가 귀하의 메시지, 사진, 파일, 메모, 기타 등을 보호합니다.</string>
     <string name="turn_off_keyguard_password_alert_title">끄기</string>
@@ -4582,8 +4582,8 @@ PIN 설정"</string>
     <string name="condition_battery_summary">배터리 절약을 위해 GPS가 꺼졌습니다.</string>
     <string name="condition_battery_title">배터리 절약 모드 실행</string>
     <string name="condition_bg_data_summary">백그라운드 정보를 Wi-Fi로 불러와야 합니다.</string>
-    <string name="condition_bg_data_title">Data Saver is on</string>
-    <string name="condition_cellular_summary">Internet is available only via WLAN</string>
+    <string name="condition_bg_data_title">데이터 절약 모드가 켜짐</string>
+    <string name="condition_cellular_summary">인터넷은 Wi-Fi에서만 사용할 수 있습니다.</string>
     <string name="condition_cellular_title">데이터 절약 모드 실행</string>
     <string name="condition_expand_hide">숨기기</string>
     <string name="condition_expand_show">보이기</string>
@@ -4705,13 +4705,9 @@ PIN 설정"</string>
     <string name="fingerprint_usage_category_title">지문을 다음으로 사용:</string>
     <string name="font_size_make_larger_desc">크게 늘리기</string>
     <string name="font_size_make_smaller_desc">작게 축소하기</string>
-    <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
-    <string name="font_size_preview_text_body">"Even with eyes protected by the green spectacles Dorothy and her friends were at first dazzled by the brilliancy of the wonderful City. The streets were lined with beautiful houses all built of green marble and studded everywhere with sparkling emeralds. They walked over a pavement of the same green marble, and where the blocks were joined together were rows of emeralds, set closely, and glittering in the brighness of the sun. The window panes were of green glass; even the sky above the City had a green tint, and the rays of the sun were green. </string>
-    <string name="font_size_preview_text_headline">Sample text</string>
-    <string name="font_size_preview_text_subtitle">Chapter 11: The Wonderful Emerald City of Oz</string>
-    <string name="font_size_preview_text_title">The Wonderful Wizard of Oz</string>
+    <string name="font_size_preview_text_headline">샘플 텍스트</string>
     <string name="free_memory">사용가능 용량</string>
-    <string name="fullbackup_data_summary">"Automatically back up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps) remotely.</string>
+    <string name="fullbackup_data_summary">"기기 데이터 (Wi-Fi 비밀번호와 통화기록 등) 과 앱 데이터 (설정 및 어플에 의한 파일 등) 이 자동으로 백업됩니다.</string>
     <string name="fullbackup_erase_dialog_message"> 장치 데이터 (WLAN 암호 및 통화 기록) 및 응용 프로그램 데이터 (응용 프로그램에 저장된 설정 및 파일)를 백업하고 원격 서버의 모든 사본을 지우시겠습니까? </string>
     <string name="go_back_button_label">뒤로 가기</string>
     <string name="hidden_ssid_label">숨겨진 SSID:</string>
@@ -4871,7 +4867,7 @@ PIN 설정"</string>
     <string name="notification_listener_disable_warning_confirm">끄기</string>
     <string name="notification_listener_disable_warning_summary">%1$s의 알림 권한을 끌 경우, 방해 금지 모드도 해제될 수 있습니다.</string>
     <string name="notification_suggestion_summary">알림 컨텐츠 보이거나 숨기기</string>
-    <string name="notification_suggestion_title">Control lock screen notifications</string>
+    <string name="notification_suggestion_title">잠금 화면 알림 제어</string>
     <string name="notification_summary_level">%d 단계</string>
     <string name="notification_summary_none">모든 앱들의 전송 허용</string>
     <string name="notifications_disabled">차단됨</string>
@@ -4968,7 +4964,7 @@ PIN 설정"</string>
     <string name="screen_zoom_make_larger_desc">크게 만들기</string>
     <string name="screen_zoom_make_smaller_desc">작게 만들기</string>
     <string name="screen_zoom_preview_title">미리보기</string>
-    <string name="screen_zoom_short_summary">Make items on screen larger or smaller</string>
+    <string name="screen_zoom_short_summary">화면 속 아이템의 크기 설정</string>
     <string name="screen_zoom_summary">화면 속 아이템의 크기를 조절하세요. 일부 앱에서 크기 조절이 발생할 수 있습니다.</string>
     <string name="screen_zoom_summary_custom">사용자 설정 (%d)</string>
     <string name="screen_zoom_summary_default">기본</string>
@@ -5765,8 +5761,8 @@ PIN 설정"</string>
     <string name="assist_gesture_title">어시스트 제스쳐</string>
     <string name="audio_and_captions_category_title">&amp; 화면 위 오디오</string>
     <string name="auto_brightness_disclaimer">밝기를 조절하십시오. 이 기능이 켜져 있으면 일시적으로 밝기를 조정할 수 있습니다.</string>
-    <string name="auto_brightness_off_summary">"Don't adjust for available light"</string>
-    <string name="auto_brightness_subtitle">Your preferred brightness level</string>
+    <string name="auto_brightness_off_summary">"자동으로 밝기를 조절하기 않습니다."</string>
+    <string name="auto_brightness_subtitle">원하는 밝기 수준</string>
     <string name="auto_brightness_summary_default">기본 설정 선호 밝기</string>
     <string name="auto_brightness_summary_high">선호 밝기 높음</string>
     <string name="auto_brightness_summary_low">선호 밝기 낮음</string>
@@ -5895,7 +5891,7 @@ PIN 설정"</string>
     <string name="enterprise_privacy_input_method_name">%s로 설정</string>
     <string name="enterprise_privacy_installed_packages">설치된 앱 목록</string>
     <string name="enterprise_privacy_location_access">위치 접근 권한</string>
-    <string name="enterprise_privacy_lock_device">Admin can lock the device and reset password</string>
+    <string name="enterprise_privacy_lock_device">관리자는 기기를 잠그고 암호를 재설정할 수 있습니다.</string>
     <string name="enterprise_privacy_microphone_access">마이크 접근 권한</string>
     <string name="enterprise_privacy_network_logs">최신 네트워크 트래픽 로그</string>
     <string name="enterprise_privacy_security_logs">최신 보안 로그</string>

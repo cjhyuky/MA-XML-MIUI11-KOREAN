@@ -1765,7 +1765,7 @@
     <string name="permlab_requestInstallPackages">패키지 설치 요청</string>
     <string name="permlab_useFingerprint">지문인식 센서를 사용</string>
     <string name="pin_target">핀</string>
-    <string name="policydesc_watchLogin_secondaryUser">"null"</string>
+    <string name="policydesc_watchLogin_secondaryUser">"화면 잠금을 해제할 때, 잘못된 암호를 많이 입력할 경우 모든 사용자 데이터를 삭제합니다."</string>
     <string name="policydesc_wipeData_secondaryUser">"경고 없이 사용자 데이터를 삭제합니다."</string>
     <string name="policylab_wipeData_secondaryUser">사용자 데이터 삭제</string>
     <string name="power_key_emergency_number">112</string>
@@ -1906,9 +1906,9 @@
     <string name="silent_mode_vibrate_with_ringtone">벨소리와 함께 진동</string>
     <string name="storage_uicc">UICC 저장소</string>
     <string name="usb_choose_notification_title">탭하여 USB 옵션 선택</string>
-    <string name="wt_lock_to_app_toast">To unpin this screen, touch and hold Back.</string>
-    <string name="zen_mode_next_alarm_line_one">Until next alarm</string>
-    <string name="zen_mode_next_alarm_summary">Until next alarm at %1$s</string>
+    <string name="wt_lock_to_app_toast">화면을 고정하려면, 계속 누르세요.</string>
+    <string name="zen_mode_next_alarm_line_one">다음 알람</string>
+    <string name="zen_mode_next_alarm_summary">다음 알람은 %1$s 입니다.</string>
     <string name="high_definition_tag">%s</string>
     <string name="wfcDataSpnFormat">%s</string>
     <string name="permdesc_broadcastScoreNetworks">앱이 알림을 발신할 수 있도록 허용합니다. 일반 앱은 이 기능을 필요로 하지 않습니다.</string>

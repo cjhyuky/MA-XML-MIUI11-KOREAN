@@ -496,5 +496,5 @@
     <string name="search_mode_button_back_description">뒤로</string>
     <string name="actionbar_immersion_button_more_description">더 보기</string>
     <string name="actionbar_button_up_description">뒤로</string>
-    <string name="clearable_edittext_clear_description">clear</string>
+    <string name="clearable_edittext_clear_description">삭제</string>
 </resources>

@@ -80,9 +80,9 @@
     <string name="empty_title_no_photos">사진 또는 동영상 없음</string>
     <string name="home_page_empty_action">사진 찍기</string>
     <string name="recent_album_empty_title">최근 새 사진이 추가되지 않았습니다.</string>
-    <string name="people_album_empty_title">Photos can be sorted by people in them</string>
+    <string name="people_album_empty_title">사진을 사람별로 정렬할 수 있습니다.</string>
     <string name="places_album_empty_title">사진을 위치로 정렬할 수 있습니다.</string>
-    <string name="things_album_empty_title">Photos can be sorted by objects in them</string>
+    <string name="things_album_empty_title">사진을 물건별로 정렬할 수 있습니다</string>
     <string name="people_page_label">사람들</string>
     <string name="ignore_faces_title">무시됨</string>
     <string name="see_ignore_faces">차단한 사람 보기</string>
@@ -704,7 +704,7 @@
     <string name="secret_reason_unknow_reasons">알 수 없는 오류</string>
     <string name="alert_secret_album_title">숨김 폴더 보는 방법</string>
     <string name="alert_secret_album_message">앨범을 탭하시고 당겨 내리시면 숨겨진 앨범을 확인하실 수 있습니다.</string>
-    <string name="alert_secret_album_message_lower_case">  swipe down in Albums to view</string>
+    <string name="alert_secret_album_message_lower_case">사진을 보려면 앨범을 밑으로 내리세요.</string>
     <string name="alert_secret_album_enter">알겠습니다.</string>
     <string name="all_items_synced">모든 앨범이 Mi 클라우드에 백업되었습니다</string>
     <string name="need_to_turn_on_sync">Mi 클라우드와 동기화 켜기</string>

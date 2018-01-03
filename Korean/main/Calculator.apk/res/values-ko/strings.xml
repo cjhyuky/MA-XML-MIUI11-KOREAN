@@ -315,4 +315,5 @@
     <string name="unit_data_display_weight_uk.cwt">영국식 100파운드단위</string>
     <string name="unit_data_display_weight_uk.st">스톤</string>
     <string name="unit_data_display_weight_us.cwt">미국식 100파운드단위</string>
+    <string name="devided_by_zero_reminder_message">"0으로 나눌 수 없습니다."</string>
 </resources>
