@@ -520,8 +520,8 @@
     <string name="power_remaining_charging_duration_only">완전 충전까지 %1$s 남음</string>
     <string name="show_notification_channel_warnings">알림 채널 경고 표시</string>
     <string name="show_notification_channel_warnings_summary">앱이 유효한 채널이 없는 알림을 게시하면 화면에 경고가 표시됩니다.</string>
-    <string name="telephony_monitor_switch">Telephony 모니터</string>
-    <string name="telephony_monitor_switch_summary">TelephonyMonitor는 전화 통신 / 모뎀 기능에 문제가 있음을 감지하면 사용자에게 버그를 신고하라는 메시지를 알리는 즉시 로그를 수집합니다.</string>
+    <string name="telephony_monitor_switch">전화 모니터</string>
+    <string name="telephony_monitor_switch_summary">전화 모니터는 전화 통신 / 모뎀 기능에 문제가 있음을 감지하면 사용자에게 버그를 신고하라는 메시지를 알리는 즉시 로그를 수집합니다.</string>
     <string name="tethering_hardware_offload">테더링 하드웨어 가속</string>
     <string name="tethering_hardware_offload_summary">사용 가능할 때 테더링 하드웨어 가속</string>
     <string name="wapi_all_sel_mode">모드 선택</string>
