@@ -827,7 +827,7 @@
   <string name="express_order_result">결과</string>
   <string name="express_inquiry_no_result">결과 없음</string>
   <string name="no_more_result">결과가 더 이상 없음</string>
-  <string name="express_order_success_hint">귀하의 주문 %s이(가) 배달될 것입니다.</string>
+  <string name="express_order_success_hint">귀하의 %s 주문이 배달될 것입니다.</string>
   <string name="express_send_notice">금지 품목</string>
   <string name="express_inquiry_history">기록</string>
   <string name="express_inquiry_no_history">기록 없음</string>

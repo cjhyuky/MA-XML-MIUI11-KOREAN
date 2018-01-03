@@ -64,11 +64,11 @@
     <string name="apps_by">%1$s의 애플리케이션</string>
     <string name="archive_label">삭제</string>
     <string name="archiving">삭제 중…</string>
-    <string name="archiving_no_uninstall_confirmation">"'%1$s'을(를) 내 앱에서 삭제하시겠습니까?"</string>
+    <string name="archiving_no_uninstall_confirmation">"'%1$s'앱을 내 앱에서 삭제하시겠습니까?"</string>
     <string name="archiving_no_uninstall_confirmation_multiple">선택한 앱을 내 앱에서 삭제하시겠습니까??</string>
-    <string name="asset_removed_bar">"'%1$s'이(가) 삭제되었습니다."</string>
-    <string name="asset_removed_message">"'%1$s'이(가) 휴대전화에서 삭제되었습니다. 자세한 내용은 이메일로 전송됩니다."</string>
-    <string name="asset_removed_title">"'%1$s'이(가) 삭제되었습니다."</string>
+    <string name="asset_removed_bar">"'%1$s'앱이 삭제되었습니다."</string>
+    <string name="asset_removed_message">"'%1$s'앱이 휴대전화에서 삭제되었습니다. 자세한 내용은 이메일로 전송됩니다."</string>
+    <string name="asset_removed_title">"'%1$s'앱이 삭제되었습니다."</string>
     <string name="associating_device_message">이동통신사에 계정 확인 SMS를 보냅니다.</string>
     <string name="associating_device_timeout_message">계정을 확인할 수 없습니다. 나중에 다시 시도해 주세요.</string>
     <string name="auth_challenge_opt_out_info">인증을 사용 중지하면 승인되지 않은 구매가 발생할 수 있습니다. 이로 인해 발생하는 모든 비용은 사용자의 책임입니다. &lt;a href=%1$s>자세히 알아보기&lt;/a></string>
@@ -136,12 +136,12 @@
     <string name="common_android_wear_update_title">Android Wear 업데이트</string>
     <string name="common_google_play_services_api_unavailable_text">%1$s에 필요한 하나 이상의 Google Play 서비스를 현재 사용할 수 없습니다. 개발자에게 문의하여 도움을 받으시기 바랍니다.</string>
     <string name="common_google_play_services_enable_button">Google Play 서비스 사용</string>
-    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
+    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s앱이 작동합니다.</string>
     <string name="common_google_play_services_enable_title">Google Play 서비스 사용</string>
     <string name="common_google_play_services_error_notification_requested_by_msg">%1$s에서 요청</string>
     <string name="common_google_play_services_install_button">Google Play 서비스 설치</string>
-    <string name="common_google_play_services_install_text_phone">휴대전화에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
-    <string name="common_google_play_services_install_text_tablet">태블릿에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_install_text_phone">휴대전화에 Google Play 서비스가 설치되어 있어야 %1$s앱이 실행됩니다.</string>
+    <string name="common_google_play_services_install_text_tablet">태블릿에 Google Play 서비스가 설치되어 있어야 %1$s앱이 실행됩니다.</string>
     <string name="common_google_play_services_install_title">Google Play 서비스 설치</string>
     <string name="common_google_play_services_invalid_account_text">지정한 계정이 이 기기에 존재하지 않습니다. 다른 계정을 선택하세요.</string>
     <string name="common_google_play_services_invalid_account_title">올바르지 않은 계정</string>
@@ -156,17 +156,17 @@
     <string name="common_google_play_services_unsupported_text">%1$s에 필요한 Google Play 서비스가 사용자 기기에서 지원되지 않습니다. 기기 제조업체에 문의하시기 바랍니다.</string>
     <string name="common_google_play_services_unsupported_title">Google Play 서비스</string>
     <string name="common_google_play_services_update_button">업데이트</string>
-    <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s앱이 실행됩니다.</string>
     <string name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
-    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s앱이 실행됩니다.</string>
     <string name="common_google_play_services_updating_title">Google Play 서비스 업데이트 중</string>
     <string name="common_open_on_phone">휴대전화에서 열기</string>
     <string name="common_signin_button_text">로그인</string>
     <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
     <string name="confirm">확인</string>
     <string name="confirm_preorder_cancel">"'%1$s' 선주문을 취소하시겠습니까?"</string>
-    <string name="confirm_renewing_subscription_cancel">"'%1$s'을(를) 취소하시겠습니까? 구독이 종료되고 비용이 청구되지 않습니다."</string>
-    <string name="confirm_trial_subscription_cancel">"'%1$s'을(를) 취소하시겠습니까? 평가판 구독이 종료되고 비용이 청구되지 않습니다."</string>
+    <string name="confirm_renewing_subscription_cancel">"'%1$s'구독을 취소하시겠습니까? 구독이 종료되고 비용이 청구되지 않습니다."</string>
+    <string name="confirm_trial_subscription_cancel">"'%1$s'구독을 취소하시겠습니까? 평가판 구독이 종료되고 비용이 청구되지 않습니다."</string>
     <string name="consumption_item_added">추가됨</string>
     <string name="content_description_add_on_gplus">내 서클에 %1$s님 추가</string>
     <string name="content_description_app_title">앱: %1$s</string>
@@ -260,7 +260,7 @@
 카드 뒷면 서명란에 표시된 숫자의 마지막 세 자리가 CVC입니다."</string>
     <string name="dcb_setup_title">%1$s 청구</string>
     <string name="dcb_setup_title_generic">이동통신사 결제</string>
-    <string name="dcb_tos_acceptance_footer_html">"'%1$s'을(를) 탭하면 &lt;a href=%2$s>%3$s 서비스 약관&lt;/a>에 동의하게 됩니다."</string>
+    <string name="dcb_tos_acceptance_footer_html">"'%1$s' 항목을 탭하면 &lt;a href=%2$s>%3$s 서비스 약관&lt;/a>에 동의하게 됩니다."</string>
     <string name="deactivate">비활성화</string>
     <string name="deactivate_device_admin_msg">이 앱은 기기 관리자이며 비활성화한 후에 제거해야 합니다.</string>
     <string name="decline">동의 안함</string>
@@ -306,24 +306,24 @@
     <string name="enterprise_admin_purchased_app">관리자가 이 앱의 라이선스를 구매했습니다.</string>
     <string name="enterprise_externally_hosted_application">이 앱은 회사에서 호스팅했습니다. Google에서는 검색할 수 없으며 회사 네트워크나 VPN에 연결되어 있는 동안에만 설치가 가능할 수 있습니다.</string>
     <string name="error">오류</string>
-    <string name="error_while_downloading_bar">"'%1$s'을(를) 다운로드할 수 없습니다."</string>
-    <string name="error_while_downloading_message">"'%1$s'을(를) 다운로드할 수 없습니다. 다시 시도해 주세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
-    <string name="error_while_downloading_message_server_message">"'%1$s'을(를) 다운로드할 수 없습니다. 다시 시도해 주세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(%2$s)."</string>
-    <string name="error_while_downloading_outdated_response_message">"오류가 발생하여 '%1$s'을(를) 설치할 수 없습니다. 다시 시도해 주세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>&lt;br>(오류 코드: %2$d)."</string>
+    <string name="error_while_downloading_bar">"'%1$s'앱을 다운로드할 수 없습니다."</string>
+    <string name="error_while_downloading_message">"'%1$s'앱을 다운로드할 수 없습니다. 다시 시도해 주세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
+    <string name="error_while_downloading_message_server_message">"'%1$s'앱을 다운로드할 수 없습니다. 다시 시도해 주세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(%2$s)."</string>
+    <string name="error_while_downloading_outdated_response_message">"오류가 발생하여 '%1$s'앱을 설치할 수 없습니다. 다시 시도해 주세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>&lt;br>(오류 코드: %2$d)."</string>
     <string name="error_while_downloading_outdated_response_title">앱을 설치할 수 없음</string>
     <string name="error_while_downloading_timeout_error_message">Google Play가 응답하지 않습니다. 몇 분 후에 다시 시도해 보세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>&lt;br>(오류 코드: %2$d).</string>
     <string name="error_while_downloading_timeout_error_title">응답 없음</string>
     <string name="error_while_downloading_title">앱을 다운로드할 수 없음</string>
-    <string name="error_while_downloading_update_bar">"'%1$s'을(를) 업데이트할 수 없음"</string>
-    <string name="error_while_downloading_update_message">"'%1$s'을(를) 업데이트할 수 없습니다. 다시 시도해 주세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
+    <string name="error_while_downloading_update_bar">"'%1$s'앱을 업데이트할 수 없음"</string>
+    <string name="error_while_downloading_update_message">"'%1$s'앱을 업데이트할 수 없습니다. 다시 시도해 주세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
     <string name="error_while_downloading_update_message_server_message">"오류로 인해 '%1$s'에 대한 업데이트를 다운로드하지 못했습니다(%2$s)."</string>
     <string name="error_while_downloading_update_title">앱을 업데이트할 수 없음</string>
     <string name="expiration_date_separator">/</string>
     <string name="explore">탐색</string>
-    <string name="external_space_bar">"'%1$s'을(를) 다운로드할 수 없습니다. 외부 저장공간이 부족합니다."</string>
-    <string name="external_space_message">"'%1$s'을(를) 다운로드할 수 없습니다. 필요하지 않은 앱 또는 콘텐츠를 삭제하고 다시 시도하세요."</string>
-    <string name="external_space_missing_bar">"'%1$s'을(를) 다운로드할 수 없습니다. 외부 저장공간이 필요합니다."</string>
-    <string name="external_space_missing_message">"'%1$s'을(를) 다운로드할 수 없습니다. 저장공간이 충분한 &lt;a href=%2$s>SD 카드&lt;/a> 또는 USB 저장소를 삽입한 후 다시 시도해 보세요."</string>
+    <string name="external_space_bar">"'%1$s'앱을 다운로드할 수 없습니다. 외부 저장공간이 부족합니다."</string>
+    <string name="external_space_message">"'%1$s'앱을 다운로드할 수 없습니다. 필요하지 않은 앱 또는 콘텐츠를 삭제하고 다시 시도하세요."</string>
+    <string name="external_space_missing_bar">"'%1$s'앱을 다운로드할 수 없습니다. 외부 저장공간이 필요합니다."</string>
+    <string name="external_space_missing_message">"'%1$s'앱을 다운로드할 수 없습니다. 저장공간이 충분한 &lt;a href=%2$s>SD 카드&lt;/a> 또는 USB 저장소를 삽입한 후 다시 시도해 보세요."</string>
     <string name="external_space_missing_title">앱에 외부 저장소가 필요합니다.</string>
     <string name="external_space_title">외부 저장공간이 충분하지 않음</string>
     <string name="failed">이미지를 로드할 수 없음</string>
@@ -361,7 +361,7 @@
     <string name="forgot_your_password">비밀번호 찾기</string>
     <string name="four_star">별 4개</string>
     <string name="full_page_replaced_question">다음 검색어에 대한 검색결과 표시:</string>
-    <string name="gaia_recovery_dialog_text">"즐겁게 앱을 사용하세요. 비밀번호를 잊은 경우 Google Play 라이브러리 및 구매 내역에 대한 액세스 권한을 복구하도록 도와 드리겠습니다. '%1$s'을(를) 탭하여 연락할 수 있는 방법을 알려주세요."</string>
+    <string name="gaia_recovery_dialog_text">"즐겁게 앱을 사용하세요. 비밀번호를 잊은 경우 Google Play 라이브러리 및 구매 내역에 대한 액세스 권한을 복구하도록 도와 드리겠습니다. '%1$s' 항목을 탭하여 연락할 수 있는 방법을 알려주세요."</string>
     <string name="games_corpus_title">게임</string>
     <string name="generic_purchase_completion_error">오류가 발생했습니다. 다시 시도해 주세요.</string>
     <string name="generic_purchase_prepare_error">오류가 발생했습니다. 다시 시도해 주세요.</string>
@@ -411,12 +411,12 @@
     <string name="install_approval_no">건너뛰기</string>
     <string name="install_approval_permissions_yes">수락</string>
     <string name="install_approval_progress_text">앱 %2$d개 중 %1$d개</string>
-    <string name="install_failed_already_exists">"이 기기에 이미 '%1$s'이(가) 설치되었습니다. 추가 지원이 필요한 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
-    <string name="install_failed_bar">"'%1$s'을(를) 설치할 수 없습니다."</string>
+    <string name="install_failed_already_exists">"이 기기에 이미 '%1$s'앱이 설치되었습니다. 추가 지원이 필요한 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
+    <string name="install_failed_bar">"'%1$s'앱을 설치할 수 없습니다."</string>
     <string name="install_failed_conflicting_provider">콘텐츠 제공자의 권한이 중복됩니다.</string>
-    <string name="install_failed_container_error">"'%1$s'을(를) USB 저장소나 SD 카드에 설치할 수 없습니다. 다시 시도해 보세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
+    <string name="install_failed_container_error">"'%1$s'앱을 USB 저장소나 SD 카드에 설치할 수 없습니다. 다시 시도해 보세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
     <string name="install_failed_insufficient_storage">저장공간이 부족합니다.</string>
-    <string name="install_failed_message">"'%1$s'을(를) 설치할 수 없습니다. 다시 시도해 주세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
+    <string name="install_failed_message">"'%1$s'앱을 설치할 수 없습니다. 다시 시도해 주세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
     <string name="install_failed_missing_feature">애플리케이션에 필요한 기능을 기기에서 사용할 수 없습니다.</string>
     <string name="install_failed_replace_couldnt_delete">"이 기기에 있는 '%1$s'의 이전 버전을 삭제할 수 없습니다. 다시 시도해 보세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
     <string name="install_failed_title">앱을 설치할 수 없음</string>
@@ -426,8 +426,8 @@
     <string name="installed_list_state">설치된 항목</string>
     <string name="installed_section">최신 버전</string>
     <string name="installing">설치 중...</string>
-    <string name="internal_space_bar">"'%1$s'을(를) 다운로드할 수 없습니다. 저장공간이 충분하지 않습니다."</string>
-    <string name="internal_space_message">"기기에 '%1$s'을(를) 다운로드할 공간이 충분하지 않습니다. 필요하지 않은 앱 또는 콘텐츠를 삭제하고 다시 시도하시기 바랍니다."</string>
+    <string name="internal_space_bar">"'%1$s'앱을 다운로드할 수 없습니다. 저장공간이 충분하지 않습니다."</string>
+    <string name="internal_space_message">"기기에 '%1$s'앱을 다운로드할 공간이 충분하지 않습니다. 필요하지 않은 앱 또는 콘텐츠를 삭제하고 다시 시도하시기 바랍니다."</string>
     <string name="internal_space_title">저장용량 부족</string>
     <string name="invalid_account_password">잘못된 계정 비밀번호</string>
     <string name="invalid_account_password_max_attempts_exceeded">허용되는 최대 로그인 시도 횟수에 도달했습니다.&lt;br>&lt;a href=%1$s>비밀번호를 잊어버렸습니까?&lt;/a></string>
@@ -716,7 +716,7 @@ Google 설정 앱에서 자세히 알아보세요."</string>
     <string name="preorder_sd">%1$s에 SD 선주문</string>
     <string name="preordered_list_state">선주문함</string>
     <string name="preregistration_add">사전 등록</string>
-    <string name="preregistration_add_error">%1$s을(를) 사전 등록하지 못했습니다.</string>
+    <string name="preregistration_add_error">%1$s앱을 사전 등록하지 못했습니다.</string>
     <string name="preregistration_coming_soon">출시 예정</string>
     <string name="preregistration_dialog_message">앱이 출시되면 알림이 전송됩니다. 친구들과 소식을 공유하세요.</string>
     <string name="preregistration_dialog_positive_button">확인</string>
@@ -870,7 +870,7 @@ Google 설정 앱에서 자세히 알아보세요."</string>
     <string name="share_dialog_title">"다음을 통해 '%1$s' 공유"</string>
     <string name="share_google_plus">Google+에서 공유</string>
     <string name="share_subject">"'%1$s' 확인"</string>
-    <string name="share_subject_preregistration">"'%1$s'이(가) 곧 출시될 예정입니다. 오늘 사전 등록하세요."</string>
+    <string name="share_subject_preregistration">"'%1$s'앱이 곧 출시될 예정입니다. 오늘 사전 등록하세요."</string>
     <string name="show_all_search_results_title">결과 모두 표시</string>
     <string name="side_drawer_my_account">내 계정</string>
     <string name="side_drawer_opened_breadcrumb">Google Play</string>
@@ -908,7 +908,7 @@ Google 설정 앱에서 자세히 알아보세요."</string>
     <string name="top_charts_cluster_action_button">차트 보기</string>
     <string name="topup_choose_amount">금액 선택</string>
     <string name="topup_not_available">잔액에 추가할 수 없습니다. 나중에 다시 시도해 주세요.</string>
-    <string name="topup_success">%1$s을(를) Google Play 잔액에 추가했습니다.</string>
+    <string name="topup_success">%1$s 금액을 Google Play 잔액에 추가했습니다.</string>
     <string name="tos_locale_replacement" />
     <string name="track_pause">일시중지</string>
     <string name="track_play">재생</string>
@@ -994,7 +994,7 @@ CVC는 카드 뒷면 서명란에 있는 번호의 마지막 세 자리 숫자�
     <string name="wallet_uic_address_field_zip_code">우편번호</string>
     <string name="wallet_uic_close">닫기</string>
     <string name="wallet_uic_content_description_edit_address">주소 수정</string>
-    <string name="wallet_uic_error_address_field_invalid">%s이(가) 잘못되었습니다.</string>
+    <string name="wallet_uic_error_address_field_invalid">%s 항목이 잘못되었습니다.</string>
     <string name="wallet_uic_error_email_address_invalid">이메일 주소가 잘못되었습니다.</string>
     <string name="wallet_uic_error_expired_credit_card">만료된 신용카드입니다.</string>
     <string name="wallet_uic_error_field_must_be_complete">불완전한 입력란</string>
@@ -1029,10 +1029,10 @@ CVC는 카드 뒷면 서명란에 있는 번호의 마지막 세 자리 숫자�
     <string name="widget_recommended">Play 추천 콘텐츠</string>
     <string name="widget_welcome_empty_legend">내 최근 Google Play 항목이 여기에 표시됩니다.</string>
     <string name="wishlist_add">위시리스트에 추가</string>
-    <string name="wishlist_add_error">%1$s을(를) 위시리스트에 추가하지 못함</string>
+    <string name="wishlist_add_error">%1$s앱을 위시리스트에 추가하지 못함</string>
     <string name="wishlist_adding">위시리스트에 추가...</string>
     <string name="wishlist_remove">위시리스트에서 삭제</string>
-    <string name="wishlist_remove_error">%1$s을(를) 위시리스트에서 삭제하지 못함</string>
+    <string name="wishlist_remove_error">%1$s앱을 위시리스트에서 삭제하지 못함</string>
     <string name="wishlist_removing">위시리스트에서 삭제...</string>
     <string name="yes">예</string>
     <string name="your_review_label">나</string>
