@@ -1334,9 +1334,9 @@
     <string name="keyboardview_keycode_shift">Shift 키</string>
     <string name="keyboardview_keycode_enter">Enter 키</string>
     <string name="activitychooserview_choose_application">앱 선택</string>
-    <string name="activitychooserview_choose_application_error">%s을(를) 실행할 수 없습니다.</string>
+    <string name="activitychooserview_choose_application_error">%s 앱을 실행할 수 없습니다.</string>
     <string name="shareactionprovider_share_with">공유 대상:</string>
-    <string name="shareactionprovider_share_with_application">%s와(과) 공유</string>
+    <string name="shareactionprovider_share_with_application">%s님과 공유</string>
     <string name="content_description_sliding_handle">슬라이딩 핸들을 길게 터치하세요.</string>
     <string name="description_target_unlock_tablet">스와이프하여 잠급니다.</string>
     <string name="keyboard_headset_required_to_hear_password">비밀번호 키를 음성으로 들으려면 헤드셋을 연결하세요.</string>
