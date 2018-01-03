@@ -101,7 +101,7 @@
     <string name="account_setup_failed_ioerror">서버에 연결을 열지 못했습니다.</string>
     <string name="account_setup_failed_protocol_unsupported">잘못된 서버 주소를 입력했거나 이메일이 지원하지 않는 프로토콜 버전을 서버에서 요구합니다.</string>
     <string name="account_setup_failed_security">보안 오류로 인해 서버에 연결을 열지 못했습니다.</string>
-    <string name="account_setup_failed_security_policies_unsupported">이 서버는 %s을(를) 포함하여 귀하의 안드로이드 기기가 지원하지 않는 보안 기능을 요구합니다.</string>
+    <string name="account_setup_failed_security_policies_unsupported">이 서버는 %s 기능을 포함하여 귀하의 안드로이드 기기가 지원하지 않는 보안 기능을 요구합니다.</string>
     <string name="account_setup_failed_tls_required">TLS가 필요하지만 서버에서 지원하지 않습니다.</string>
     <string name="account_setup_failed_too_many_partnerships">로그인 실패, 너무 많은 연결</string>
     <string name="account_setup_incoming_delete_policy_delete_label">휴지통에서 삭제 시</string>
@@ -125,7 +125,7 @@
     <string name="account_setup_options_mail_check_frequency_12hour">12시간마다</string>
     <string name="account_setup_options_mail_check_frequency_1hour">매시간</string>
     <string name="account_setup_options_mail_check_frequency_4hour">4시간마다</string>
-    <string name="account_setup_options_mail_check_frequency_imap_push">자동 (푸시)</string>
+    <string name="account_setup_options_mail_check_frequency_imap_push">자동(푸시)</string>
     <string name="account_setup_options_mail_check_frequency_never">안 함</string>
     <string name="account_setup_options_mail_check_frequency_push">자동(푸시)</string>
     <string name="account_setup_options_mail_window_1day">어제</string>
@@ -174,7 +174,7 @@
     <string name="att_download_failed_network_slow">연결 속도가 너무 느립니다. 나중에 다시 시도하십시오.</string>
     <string name="att_download_failed_permission_denied">외부 저장소 접근 권한이 없습니다.</string>
     <string name="att_download_failed_title">첨부파일을 다운로드할 수 없습니다.</string>
-    <string name="att_file_not_exists">%s를 찾을 수 없습니다.</string>
+    <string name="att_file_not_exists">%s 파일을 찾을 수 없습니다.</string>
     <string name="att_mgr_no_attachment">첨부파일 없음.</string>
     <string name="att_mgr_title_order_mime">형식</string>
     <string name="att_mgr_title_order_name">이름</string>
@@ -222,7 +222,7 @@
     <string name="bill_remind">상환 알림</string>
     <string name="bill_remind_due">상환 만기일이 %s 입니다. 탭하여 보기</string>
     <string name="blank_feedback_toast">피드백을 작성해야 합니다.</string>
-    <string name="body_forward_email_text">[Forward]</string>
+    <string name="body_forward_email_text">[답장]</string>
     <string name="body_hint">이메일 작성</string>
     <string name="body_inline_pic_text">[사진]</string>
     <string name="bottom_bar_more_quickreply">빠른 답장</string>
@@ -287,8 +287,8 @@
     <string name="contact_list_title">연락처</string>
     <string name="contact_permission_error">차단된 휴대전화 연락처 접근</string>
     <string name="contact_select">연락처 선택</string>
-    <string name="content_description">%1$s이(가) %2$s에 대하여, %4$s일에 %3$s, %5$s</string>
-    <string name="content_description_today">xliff:g id=\"sender\">%1$s이(가) %2$s에 대하여, %4$s일에 %3$s, %5$s</string>
+    <string name="content_description">%1$s님이 %2$s에 대하여, %4$s일에 %3$s, %5$s</string>
+    <string name="content_description_today">xliff:g id=\"sender\">%1$s님이 %2$s에 대하여, %4$s일에 %3$s, %5$s</string>
     <string name="contextmenu_add">연락처에 추가</string>
     <string name="contextmenu_add_contact">연락처 추가</string>
     <string name="contextmenu_call">통화</string>
@@ -369,7 +369,7 @@
     <string name="download_cancel_confirm_message">다운로드가 중지됩니다.</string>
     <string name="download_cancel_confirm_title">이 첨부파일을 다운로드하시겠습니까?</string>
     <string name="download_complete_not_cancel">다운로드 완료</string>
-    <string name="download_confirm_message">첨부파일 %1$s을(를) 다운로드하시겠습니까?</string>
+    <string name="download_confirm_message">%1$s 첨부파일을 다운로드하시겠습니까?</string>
     <string name="download_confirm_title">첨부파일 다운로드</string>
     <string name="download_message_failed_for_too_large">메시지가 다운로드하기에 너무 큽니다.</string>
     <string name="draft_count_format"> (%1$s)</string>
@@ -400,7 +400,7 @@
 %s "</string>
     <string name="exception_updated">이 이벤트의 세부 정보가 다음으로 변경 되었습니다: %s</string>
     <string name="exchange_name">기업</string>
-    <string name="exchange_name_alternate">마이크로소프트 Exchange ActiveSync</string>
+    <string name="exchange_name_alternate">마이크로소프트 익스체인지 엑티브씽크</string>
     <string name="expand_recipient_details">받는 사람 세부 정보 확장</string>
     <string name="fail_get_email_message">메시지 받기 실패함.</string>
     <string name="failed">이미지를 로드하지 못했습니다.</string>
@@ -419,7 +419,7 @@
     <string name="file_not_found_redownload">파일을 찾지 못했습니다.</string>
     <string name="file_rar_not_support">암호화된 rar 파일을 열 수 없습니다.</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
-    <string name="first_quick_default_reply">버튼을 탭하여 대화창의 모든 사람에게 \"%s\"을(를) 전송</string>
+    <string name="first_quick_default_reply">버튼을 탭하여 대화창의 모든 사람에게 \"%s\" 메일을 전송</string>
     <string name="folder_list_display_all">모든 폴더 표시</string>
     <string name="folder_list_display_only_import">중요 폴더만 표시</string>
     <string name="folder_picker_title">폴더 선택</string>
@@ -616,7 +616,7 @@
     <string name="no_bill_discribe">"어떠한 청구서도 찾을 수 없음
 다른 이메일 계정으로 전환을 시도하십시오."</string>
     <string name="no_contacts">연락처 없음.</string>
-    <string name="no_content_in_body">[No Body]</string>
+    <string name="no_content_in_body">[연락처 없음]</string>
     <string name="no_conversations">메시지 없음</string>
     <string name="no_filtrable_email_account">필터링할 계정 없음</string>
     <string name="no_mails">메일 없음.</string>
@@ -633,7 +633,7 @@
     <string name="notification_action_undo_archive">보관됨</string>
     <string name="notification_action_undo_delete">삭제됨</string>
     <string name="notification_action_undo_remove_label">태그 제거됨</string>
-    <string name="notification_exchange_calendar_added">Exchange 달력 추가됨</string>
+    <string name="notification_exchange_calendar_added">익스체인지 달력 추가됨</string>
     <string name="oauth_error_description">인증하지 못했습니다.</string>
     <string name="oauth_gmail_login_notify">다음 로그인 페이지에서 구글 계정의 사용자 이름과 비밀번호를 입력하십시오.</string>
     <string name="oauth_login_continue">계속</string>
@@ -644,7 +644,7 @@
     <string name="outbox_alert_button_resend">재전송</string>
     <string name="outbox_alert_certificate_error">이메일 시스템 관리자에게 연락하여 인증서를 업데이트하십시오.</string>
     <string name="outbox_alert_description_auth_error">보낼 메일함 동기화 중 서버 권한 부여 오류가 발생했습니다.</string>
-    <string name="outbox_alert_description_cannot_authenticate">%s을(를) 인증하지 못했습니다.</string>
+    <string name="outbox_alert_description_cannot_authenticate">%s 메일을 인증하지 못했습니다.</string>
     <string name="outbox_alert_description_email_size_error">이메일의용량이 한계에 도달했습니다.</string>
     <string name="outbox_alert_description_fail_authentication">사용자 이름 또는 비밀번호가 잘못되었습니다.</string>
     <string name="outbox_alert_description_fail_network">네트워크에 연결할 수 없습니다.</string>
@@ -668,7 +668,7 @@
     <string name="password_expire_warning_content_title">잠금 화면 비밀번호 만료 중</string>
     <string name="password_expire_warning_dialog_content_fmt">잠금 화면의 PIN 또는 비밀번호를 곧 변경해야 합니다. 그렇지 않으면 %s의 데이터가 삭제됩니다. 지금 변경하시겠습니까?</string>
     <string name="password_expire_warning_dialog_title">잠금 화면 비밀번호 만료 중</string>
-    <string name="password_expire_warning_ticker_fmt">"%s\"이(가) 잠금 화면의 PIN이나 비밀번호를
+    <string name="password_expire_warning_ticker_fmt">"%s\"님이 잠금 화면의 PIN이나 비밀번호를
             변경할 것을 요구합니다."</string>
     <string name="password_expired_content_title">잠금 화면 비밀번호 만료됨</string>
     <string name="password_expired_dialog_content_fmt">"%s의 데이터가 기기에서 삭제되는 중입니다.
@@ -932,9 +932,9 @@
     <string name="toast_bar_no_connection_network">인터넷이 연결되지 않았습니다.</string>
     <string name="toast_bar_open_gmail_synchronization">탭하여 Gmail의 프록시 서버 사용</string>
     <string name="today_text">오늘</string>
-    <string name="too_large_to_attach_additional">파일 크기는 %1$s을(를) 초과할 수 없습니다.</string>
-    <string name="too_large_to_attach_multiple">하나 이상의 파일이 첨부되지 않았습니다. 파일 크기는 %1$s을(를) 초과할 수 없습니다.</string>
-    <string name="too_large_to_attach_single">"%1$s  보다 큰 파일을 첨부할 수 없습니다."</string>
+    <string name="too_large_to_attach_additional">파일 크기는 %1$s 용량을 초과할 수 없습니다.</string>
+    <string name="too_large_to_attach_multiple">하나 이상의 파일이 첨부되지 않았습니다. 파일 크기는 %1$s 용량을 초과할 수 없습니다.</string>
+    <string name="too_large_to_attach_single">"%1$s 보다 큰 파일을 첨부할 수 없습니다."</string>
     <string name="topic_merge">이메일 표시</string>
     <string name="topic_merge_summary">스레드가 구성한 모드</string>
     <string name="translation_loading">잠시 기다려주십시오…</string>
