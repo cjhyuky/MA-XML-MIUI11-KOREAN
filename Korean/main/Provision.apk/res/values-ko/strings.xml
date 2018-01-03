@@ -58,7 +58,7 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">귀하의 지문을 사용하여 기기 잠금 해제, 앱과 서비스에 로그인 하십시오.</string>
     <string name="content_description_start">시작</string>
-    <string name="content_description_miui_version">MIUI 8</string>
+    <string name="content_description_miui_version">MIUI 9</string>
     <string name="content_description_complete">완료</string>
     <string name="content_description_language_picker">언어 선택</string>
     <string name="language_picker_other_languages_title">더 많은 언어</string>
