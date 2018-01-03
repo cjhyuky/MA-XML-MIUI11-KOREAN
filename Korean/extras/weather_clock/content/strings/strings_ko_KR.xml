@@ -4,7 +4,7 @@
     <string name="language">ko</string>
     <string name="desc_date_format">MMMM d일 EEEE</string>
     <string name="desc_time">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', double tap to enter clock app'</string>
-	<string name="weather_type_null">'정보 없음'</string>
+    <string name="weather_type_null">'정보 없음'</string>
     <string name="weather_type_0">맑음</string>
     <string name="weather_type_1">흐림</string>
     <string name="weather_type_2">연무</string>
