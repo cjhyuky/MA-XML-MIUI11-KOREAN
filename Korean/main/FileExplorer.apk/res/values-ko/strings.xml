@@ -683,7 +683,7 @@
     <string name="tab_mine">프로필</string>
     <string name="original_user_signal">탤런트 팀</string>
     <string name="original_user_title">탤런트 팀의 맴버가 되신 것을 축하합니다!</string>
-    <string name="original_user_register">• &lt;font color=#fc7050>%1$s&lt;/font>이(가) 이 커뮤니티에 가입함</string>
+    <string name="original_user_register">• &lt;font color=#fc7050>%1$s&lt;/font>님이 이 커뮤니티에 가입함</string>
     <string name="original_user_verify">• 참여해주셔서 감사합니다!</string>
     <string name="original_user_qq_group">탤런트 팀 QQ 그룹에 가입하십시오</string>
     <string name="video_encrypt_login_text">이 동영상을 재생하기 위해 로그인</string>
