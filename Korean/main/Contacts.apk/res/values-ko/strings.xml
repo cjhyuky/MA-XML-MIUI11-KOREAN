@@ -329,7 +329,7 @@
     <string name="composer_failed_to_get_database_infomation">데이터베이스 정보를 불러오지 못했습니다.</string>
     <string name="composer_has_no_exportable_contact">내보낼 연락처가 없습니다. 전화에 연락처가 있다 해도 일부 데이터 제공업체는 전화에서 연락처 내보내기를 허용하지 않습니다.</string>
     <string name="composer_not_initialized">vCard 작성자가 시작을 제대로 하지 않았습니다.</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">파일 \"%s을(를) 열지 못했습니다(%s\").</string>
+    <string name="fail_reason_could_not_open_file" formatted="false">\"%s 파일을 열지 못했습니다(%s\").</string>
     <string name="exporting_contact_list_progress" formatted="false">%s개의 연락처 중 %s개</string>
     <string name="cancel_import_confirmation_message">%s 가져오기를 취소하시겠습니까?</string>
     <string name="cancel_export_confirmation_message">%s 내보내기를 취소하시겠습니까?</string>
@@ -366,7 +366,7 @@
     <string name="display_more_groups">더 많은 그룹…</string>
     <string name="display_ungrouped">기타 모든 연락처</string>
     <string name="display_all_contacts">모든 연락처</string>
-    <string name="display_warn_remove_ungrouped">동기화에서 \"%s\"을(를) 제거하면 동기화에서 그룹화되지 않은 연락처가 제거됩니다.</string>
+    <string name="display_warn_remove_ungrouped">동기화에서 \"%s\" 항목을 제거하면 동기화에서 그룹화되지 않은 연락처가 제거됩니다.</string>
     <string name="account_phone">전화 전용, 동기화 안 됨</string>
     <string name="call_custom">%s로 통화</string>
     <string name="call_home">집으로 통화</string>
@@ -492,7 +492,7 @@
     <string name="event_edit_field_hint_text">날짜</string>
     <string name="group_edit_field_hint_text">그룹 이름</string>
     <string name="contact_status_update_attribution">%1$s 경유</string>
-    <string name="contact_status_update_attribution_with_date">%2$s을(를) 통한 %1$s</string>
+    <string name="contact_status_update_attribution_with_date">%2$s 항목을 통한 %1$s</string>
     <string name="description_star">즐겨찾기</string>
     <string name="edit_contact">연락처 편집</string>
     <string name="local_invisible_directory">기타</string>
@@ -534,7 +534,7 @@
     <string name="create_group_dialog_title">새 그룹 만들기</string>
     <string name="create_group_item_label">새 그룹 만들기</string>
     <string name="delete_group_dialog_title">그룹 삭제</string>
-    <string name="delete_group_dialog_message">그룹 \"%1$s\"을(를) 삭제해도 연락처는 삭제되지 않습니다.</string>
+    <string name="delete_group_dialog_message">\"%1$s\" 그룹을 삭제해도 연락처는 삭제되지 않습니다.</string>
     <string name="toast_join_with_empty_contact">다른 연락처 이름과 합치기 전에 연락처 이름 입력</string>
     <string name="copy_text">클립보드에 복사</string>
     <string name="set_default">기본값 설정</string>
@@ -548,7 +548,7 @@
     <string name="view_updates_from_group">업데이트 보기</string>
     <string name="notification_action_voicemail_play">재생</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-    <string name="notification_new_voicemail_ticker">%1$s로부터 온 새 음성 메일</string>
+    <string name="notification_new_voicemail_ticker">%1$s님으로부터 온 새 음성 메일</string>
     <string name="voicemail_playback_error">음성 메일을 재생하지 못했습니다.</string>
     <string name="voicemail_buffering">버퍼링 중…</string>
     <string name="voicemail_fetching_content">음성 메일 페치 중…</string>
@@ -602,7 +602,7 @@
     <string name="generic_no_account_prompt">스마트폰을 잃어버려도 온라인 서비스로 동기화하면 연락처를 안전하게 보관할 수 있습니다.</string>
     <string name="generic_no_account_prompt_title">계정 추가</string>
     <string name="contact_editor_prompt_zero_accounts">모바일 또는 새 온라인 계정에 저장</string>
-    <string name="contact_editor_prompt_one_account">새 연락처가 %1$s(으)로 동기화됩니다.</string>
+    <string name="contact_editor_prompt_one_account">새 연락처가 %1$s 계정으로 동기화됩니다.</string>
     <string name="contact_editor_prompt_multiple_accounts">다음으로 연락처 저장</string>
     <string name="keep_local">동기화하지 않음</string>
     <string name="add_account">계정 추가</string>
@@ -937,7 +937,7 @@
     <string name="option_rename_group">이름 변경</string>
     <string name="option_delete_group">삭제</string>
     <string name="deleteConfirmation_title">이 연락처를 삭제하겠습니까?</string>
-    <string name="deleteConfirmationDetail">\"%s\"을(를) 삭제하시겠습니까?</string>
+    <string name="deleteConfirmationDetail">\"%s\"님을 삭제하시겠습니까?</string>
     <string name="nickname_picker_name_column">연락처 이름</string>
     <string name="nickname_picker_nickname_column">제목</string>
     <string name="not_applied">적용하지 못했습니다.</string>
