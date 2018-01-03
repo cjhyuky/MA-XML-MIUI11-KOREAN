@@ -499,7 +499,7 @@
   <string name="vp_using_4_3">4:3 강제 적용</string>
   <string name="vp_video_bad_network_condition">인터넷 연결 상태가 좋지 않습니다. 나중에 다시 시도하십시오.</string>
   <string name="vp_video_invalid_cp_info">동영상 공급자의 정보 잘못되었습니다. 앱을 다시 시작하십시오.</string>
-  <string name="vp_video_plugin_installation">%1$s 항목을 설치 중…</string>
+  <string name="vp_video_plugin_installation">%1$s 플러그인을 설치 중…</string>
   <string name="waiting_to_download">대기 중</string>
   <string name="write_comment">리뷰 남기기</string>
   <string name="xiaomi_account_type_unsupported">Mi 계정 지원되지 않음</string>
@@ -667,7 +667,7 @@
   <string name="passport_downlink_reg">전화번호를 이용하여 계정 생성</string>
   <string name="passport_email">이메일 주소</string>
   <string name="passport_email_or_id_hint_text">이메일 주소 또는 Mi 계정 ID</string>
-  <string name="passport_email_reg_success_summary">%1$s이(가) 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
+  <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
   <string name="passport_error_device_id">기기 ID를 가져올 수 없습니다.</string>
   <string name="passport_error_dup_email">입력한 이메일이 이미 다른 계정과 연동되어 있습니다.</string>
   <string name="passport_error_email">입력한 이메일 주소가 올바르지 않습니다.</string>
@@ -739,7 +739,7 @@
   <string name="passport_reg_failed">계정을 설정할 수 없습니다</string>
   <string name="passport_reg_prompt">Mi 계정을 가지고 계시지 않습니까? 무료로 생성해보십시오.</string>
   <string name="passport_reg_success">계정 만들어짐</string>
-  <string name="passport_reg_success_summary">%1$s이(가) 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
+  <string name="passport_reg_success_summary">%1$s 항목이 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
   <string name="passport_reg_type_email">이메일 주소 사용하기</string>
   <string name="passport_reg_using_other_phone">대체 전화번호 사용</string>
   <string name="passport_reg_using_other_phone_number_prompt">새 계정을 생성하는 중…</string>

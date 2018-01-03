@@ -185,7 +185,7 @@
     <string name="vp_maintitlearea">어디서든 HD 비디오 시청</string>
     <string name="vp_toast_downloadapk">다운로드 중…</string>
     <string name="vp_video_loading"><CDATA>로딩 중…</CDATA></string>
-    <string name="vp_video_plugin_installation">%1$s을(를) 설치 중…</string>
+    <string name="vp_video_plugin_installation">%1$s 플러그인을 설치 중…</string>
     <string name="vp_video_bad_network_condition">네트워크에 연결할 수 없습니다. 다시 시도</string>
     <string name="vp_video_invalid_cp_info">잘못된 공급자 정보, 앱 다시 시작</string>
     <string name="vp_datastream_alert_play">모바일 데이터 연결을 사용하여 동영상을 시청하면 데이터 사용량이 증가합니다. 데이터 사용 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
