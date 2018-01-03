@@ -5092,8 +5092,8 @@ PIN 설정"</string>
     <string name="storage_menu_rename">이름 변경</string>
     <string name="storage_menu_set_up">설정</string>
     <string name="storage_menu_unmount">분리</string>
-    <string name="storage_mount_failure">%1$s 저장소를 분리할 수 없습니다.</string>
-    <string name="storage_mount_success">%1$s 분리됨</string>
+    <string name="storage_mount_failure">%1$s 저장소를 연결할 수 없습니다.</string>
+    <string name="storage_mount_success">%1$s 연결됨</string>
     <string name="storage_rename_title">저장소 이름 변경</string>
     <string name="storage_summary">%2$s 중 %1$s 사용됨</string>
     <string name="storage_usb_settings">저장소</string>
