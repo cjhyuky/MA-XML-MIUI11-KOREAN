@@ -30,7 +30,7 @@
     <string name="daily">매일</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="day_view_new_event_hint">새 일정</string>
-    <string name="delete_recurring_event_title">%s을(를) 삭제하시겠습니까?</string>
+    <string name="delete_recurring_event_title">%s 일정을 삭제하시겠습니까?</string>
     <string name="delete_this_event_title">이번 일정을 삭제하시겠습니까?</string>
     <string name="directory_searching_fmt">%s 검색 중...</string>
     <string name="discard_label">취소</string>
