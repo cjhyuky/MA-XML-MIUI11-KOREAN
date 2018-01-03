@@ -97,7 +97,7 @@
     <string name="favorite_ringtone">벨소리</string>
     <string name="file_loading">잠시만 기다려주십시오…</string>
     <string name="ui_main_toast_favorite_removed">즐겨찾기 해제됨</string>
-    <string name="ui_main_toast_operation_failed">%1$s을(를) 즐겨찾기 해제할 수 없음</string>
+    <string name="ui_main_toast_operation_failed">%1$s 항목을 즐겨찾기 해제할 수 없음</string>
     <string name="rename_failed">%1$s의 이름을 변경할 수 없습니다.</string>
     <string name="error_open_file_failed_no_app_found">이 동작을 처리할 앱을 발견하지 못했습니다.</string>
     <string name="directory_info_divider">"  |  "</string>
