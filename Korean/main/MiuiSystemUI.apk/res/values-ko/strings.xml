@@ -16,8 +16,8 @@
     <string name="bluetooth_tethered">블루투스 테더링됨</string>
     <string name="usb_device_permission_prompt">%1$s의 USB 기기 접근을 허용하시겠습니까?</string>
     <string name="usb_accessory_permission_prompt">%1$s의 USB 주변기기 접근을 허용하시겠습니까?</string>
-    <string name="usb_device_confirm_prompt">이 USB 기기가 연결되면 %1$s을(를) 실행하시겠습니까?</string>
-    <string name="usb_accessory_confirm_prompt">이 USB 주변기기가 연결되면 %1$s을(를) 실행하시겠습니까?</string>
+    <string name="usb_device_confirm_prompt">이 USB 기기가 연결되면 %1$s 앱을 실행하시겠습니까?</string>
+    <string name="usb_accessory_confirm_prompt">이 USB 주변기기가 연결되면 %1$s 앱을 실행하시겠습니까?</string>
     <string name="usb_accessory_uri_prompt">이 USB 주변기기와 호환되는 앱이 설치되어 있지 않습니다. %1$s에서 이 주변기기에 대해 자세히 알아보세요.</string>
     <string name="title_usb_accessory">USB 주변기기</string>
     <string name="label_view">보기</string>
@@ -262,11 +262,11 @@ EEEE"</string>
     <string name="audio_effect_settings">헤드폰 유형 선택</string>
     <string name="audio_effect_info">오디오 최적화</string>
     <string name="audio_effect_custom">환경 설정</string>
-    <string name="media_projection_dialog_text">%s이(가) 화면에 표시된 모든 것을 캡처하기 시작합니다.</string>
+    <string name="media_projection_dialog_text">%s 앱이 화면에 표시된 모든 것을 캡처하기 시작합니다.</string>
     <string name="media_projection_remember_text">다시 표시하지 않기</string>
     <string name="media_projection_action_text">지금 시작</string>
     <string name="vpn_title">VPN 활성화됨</string>
-    <string name="vpn_title_long">%s을(를) 사용하여 VPN에 연결 중</string>
+    <string name="vpn_title_long">%s 앱을 사용하여 VPN에 연결 중</string>
     <string name="vpn_text">터치하여 설정 보기</string>
     <string name="vpn_text_long">%s에 연결됨. 자세히 보려면 탭하십시오.</string>
     <string name="screen_button_notification_title">탐색 버튼이 꺼졌습니다.</string>

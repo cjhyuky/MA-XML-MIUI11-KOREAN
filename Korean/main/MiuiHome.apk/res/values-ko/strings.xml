@@ -69,8 +69,8 @@
     <string name="cant_remove_system_app">시스템 앱은 제거할 수 없습니다.</string>
     <string name="cant_remove_retained_app">이 앱을 제거하지 못했습니다.</string>
     <string name="uninstall_dialog_message">설치 제거하면 앱의 모든 데이터가 삭제됩니다.</string>
-    <string name="uninstall_dialog_title_format">%s을(를) 설치 제거하시겠습니까?</string>
-    <string name="uninstall_xspace_dialog_title_format">듀얼 \"%s\"을(를) 제거하시겠습니까?</string>
+    <string name="uninstall_dialog_title_format">%s 앱을 설치 제거하시겠습니까?</string>
+    <string name="uninstall_xspace_dialog_title_format">듀얼 \"%s\" 앱을 제거하시겠습니까?</string>
     <string name="uninstall_xspace_dialog_message">듀얼 앱을 제거하시면 모든 앱 데이터가 제거될 것입니다.</string>
     <string name="uninstall_with_xspace_dialog_message">연관된 듀얼 앱이 함께 삭제될 것이며 앱 데이터 또한 삭제될 것입니다.</string>
     <string name="confirm_uninstall_dialog_title">듀얼 앱이 삭제될 것입니다.</string>
@@ -78,7 +78,7 @@
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">듀얼 앱이 이 항목과 함께 제거될 것입니다.</string>
     <string name="uninstall">설치 제거</string>
     <string name="uninstall_result_succeeded">앱 설치 제거됨</string>
-    <string name="uninstall_result_failed">%s을(를) 설치 제거할 수 없습니다.</string>
+    <string name="uninstall_result_failed">%s 앱을 설치 제거할 수 없습니다.</string>
     <string name="starting_preset_app">시작 중…</string>
     <string name="install">설치</string>
     <string name="cant_remove_folder">폴더를 제거할 수 없습니다.</string>
