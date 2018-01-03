@@ -68,7 +68,7 @@
     <string name="michat_motto">Mi 고객지원은 이미 도울 준비가 되어 있습니다.</string>
     <string name="michat_no_good_message_title">이것으로 문제를 해결할 수 없습니다.</string>
     <string name="michat_artificial_customer_phone">4001005678</string>
-    <string name="michat_artificial_customer_phone_dial_error">400 핫라인으로 전화를 거실 수 없다면 다른 휴대전화를 이용하여 %1$s을(를) 다이얼링 하십시오.</string>
+    <string name="michat_artificial_customer_phone_dial_error">400 핫라인으로 전화를 거실 수 없다면 다른 휴대전화를 이용하여 %1$s 번호를 다이얼링 하십시오.</string>
     <string name="login_system_failed">로그인 실패, 다시 시도</string>
     <string name="dialog_ask_delete">삭제</string>
     <string name="dialog_ask_quit">나가기</string>
@@ -263,7 +263,7 @@
     <string name="reply_failed">답장할 수 없음</string>
     <string name="message_label">메시지</string>
     <string name="warning_field_empty">%1$s 입력</string>
-    <string name="warning_field_invalid">%1$s을(를) 하나 선택하십시오.</string>
+    <string name="warning_field_invalid">%1$s 항목을 하나 선택하십시오.</string>
     <string name="min_error">%1$s보다 길어야 합니다.</string>
     <string name="max_error">%1$s보다 짧아야 합니다.</string>
     <string name="title_mi_family">근처 Mi 홈</string>
