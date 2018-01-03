@@ -20,8 +20,8 @@
     <string name="alert_tip_del_choose">선택한 메시지를 삭제하시겠습니까?</string>
     <string name="alert_btn_ok">확인</string>
     <string name="alert_btn_cancel">취소</string>
-    <string name="time_list_year_format">dd/MM</string>
-    <string name="time_list_month_format">dd/MM</string>
+    <string name="time_list_year_format">MM/dd</string>
+    <string name="time_list_month_format">MM/dd</string>
     <string name="time_list_12hour_format">h:mm</string>
     <string name="time_list_24hour_format">H:mm</string>
     <string name="time_foramt_yesterday">어제</string>
@@ -125,7 +125,7 @@
     <string name="contact_insert_screen_launcher_full">홈 화면이 가득 찼습니다.</string>
     <string name="contact_remove_from_screen_succeed">홈 화면에서 제거됨</string>
     <string name="contact_remove_from_screen_failed">홈 화면에서 제거하지 못했습니다.</string>
-    <string name="contact_delete_contact_hint">%1$s을(를) 삭제하시겠습니까?</string>
+    <string name="contact_delete_contact_hint">%1$s님을 삭제하시겠습니까?</string>
     <string name="contact_delete_contact_photo">프로필 사진 삭제</string>
     <string name="contact_delete_contact_photo_hint">프로필 사진을 삭제하시겠습니까?</string>
     <string name="contact_saving_hint">연락처 저장 중…</string>
@@ -193,9 +193,9 @@
     <string name="selected_mms_list_empty_hint">메시지 선택</string>
     <string name="service_contact_name">Jeejen 지원</string>
     <string name="service_contact_phone">4006380360</string>
-    <string name="insert_contact_to_launcher_hint">%1$s을(를) 홈 화면에 추가하시겠습니까?</string>
-    <string name="remove_contact_from_launcher_hint">%1$s을(를) 홈 화면에서 제거하시겠습니까?</string>
-    <string name="remove_loading">삭제 중…</string>
+    <string name="insert_contact_to_launcher_hint">%1$s님을 홈화면에 추가하시겠습니까?</string>
+    <string name="remove_contact_from_launcher_hint">%1$s님을 홈화면에서 제거하시겠습니까?</string>
+    <string name="remove_loading">삭제중…</string>
     <string name="contact_search_hint">검색</string>
     <string name="contact_call_duration_minute">%1$d분</string>
     <string name="contact_call_duration_minute_second">%1$d분 %2$d초</string>
@@ -221,7 +221,7 @@
     <string name="contact_list_empty_hint">비어 있음</string>
     <string name="select_all">모두 선택</string>
     <string name="select_none">선택 해제</string>
-    <string name="contact_edit_contact_input_name_length_limit">이름은 최대 20 문자까지 포함할 수 있습니다.</string>
+    <string name="contact_edit_contact_input_name_length_limit">이름은 최대 20자까지 포함할 수 있습니다.</string>
     <string name="contact_selection_multi_select">다중 항목</string>
     <string name="mms_multi_send_sms_failed_contact_empty_hint">받는 사람 선택</string>
     <string name="mms_multi_send_sms_search_title">결과</string>
@@ -237,7 +237,7 @@
     <string name="launcher_select_guide_btn_new_contact">연락처 추가</string>
     <string name="launcher_select_guide_btn_select_contact">연락처에서 선택</string>
     <string name="camera_rc_flip">뒤집기</string>
-    <string name="contact_edit_contact_input_number_length_limit">숫자는 최대 20 문자를 포함할 수 있습니다.</string>
+    <string name="contact_edit_contact_input_number_length_limit">숫자는 최대 20자를 포함할 수 있습니다.</string>
     <string name="helper_app_name">도움말</string>
     <string name="topbar_title">도움말</string>
     <string name="alert_btn_ok_text">확인</string>
@@ -278,7 +278,7 @@
     <string name="saturday">토요일</string>
     <string name="about_version_format">"Jeejen 버젼: %1$s
 현재 버젼"</string>
-    <string name="about_checking_newest_version">확인 중…</string>
+    <string name="about_checking_newest_version">확인중…</string>
     <string name="about_net_error">네트워크 오류</string>
     <string name="about_have_a_newer_version">새 버젼 발견(%1$s)</string>
     <string name="about_file_error">파일 오류</string>
@@ -296,8 +296,8 @@
     <string name="unlock_launcher_hint">홈 스크린 잠금 해제됨</string>
     <string name="lock_launcher_toast_hint">홈 스크린이 잠겨있어서 변경할 수 없습니다. 설정에서 잠금 해제 하세요.</string>
     <string name="box_app_name">앱</string>
-    <string name="box_insert_to_launcher_hint">%1$s를 홈 스크린에 추가하시겠습니까?</string>
-    <string name="box_remove_from_launcher_hint">%1$s를 홈 스크린에서 제거하시겠습니까?</string>
+    <string name="box_insert_to_launcher_hint">%1$s 앱을 홈화면에 추가하시겠습니까?</string>
+    <string name="box_remove_from_launcher_hint">%1$s 앱을 홈화면에서 제거하시겠습니까?</string>
     <string name="tts_invalid_hint">음성 엔진 설치</string>
     <string name="alert_install_text">설치</string>
     <string name="alert_go_text">설정으로 이동</string>
@@ -309,7 +309,7 @@
     <string name="nonsupport_asr">음성 인식이 지원 되지 않습니다.</string>
     <string name="text_uninstall">설치 제거</string>
     <string name="box_menu_uninstall_hint">앱 제거</string>
-    <string name="uninstall_app_dialog">%1$s을(를) 제거하시겠습니까?</string>
+    <string name="uninstall_app_dialog">%1$s 앱을 제거하시겠습니까?</string>
     <string name="delete_system_app_hint">시스템 앱을 제거할 수 없습니다.</string>
     <string name="jeejen_sunday">일요일</string>
     <string name="jeejen_monday">월요일</string>
@@ -320,16 +320,16 @@
     <string name="jeejen_saturday">토요일</string>
     <string name="jeejen_valentines_day">발렌타인데이</string>
     <string name="jeejen_teachers_day">스승의 날</string>
-    <string name="jeejen_timeutil_year_format">dd/MM</string>
+    <string name="jeejen_timeutil_year_format">MM/dd</string>
     <string name="jeejen_unlock_hint">잠금을 해제 하시려면 위로 슬라이드 하십시오.</string>
     <string name="jeejen_lockscren_mms_unread_hint">새 메시지 (%1$s)</string>
     <string name="jeejen_lockscren_call_miss_hint">부재중 전화 (%1$s)</string>
-    <string name="app_sub_not_found_hint">%1$s을(를) 찾을 수 없습니다. 수동으로 선택해 보십시오.</string>
+    <string name="app_sub_not_found_hint">%1$s 앱을 찾을 수 없습니다. 수동으로 선택해 보십시오.</string>
     <string name="app_sub_dialog_setting_now">설정으로 이동</string>
     <string name="app_sub_dialog_cancel">취소</string>
-    <string name="box_app_sub_title">%1$s 선택</string>
+    <string name="box_app_sub_title">%1$s 앱 선택</string>
     <string name="box_app_sub_bottom_bar_title">확인</string>
-    <string name="box_app_sub_dialog_hint">%1$s와 %2$s을(를) 교체하시겠습니까?</string>
+    <string name="box_app_sub_dialog_hint">%1$s 앱과 %2$s 앱을 교체하시겠습니까?</string>
     <string name="settings_exit_app">홈 화면 종료</string>
     <string name="settings_exit_app_hint">홈 화면을 종료하시겠습니까?</string>
     <string name="delete_success">성공적으로 삭제되었습니다.</string>
