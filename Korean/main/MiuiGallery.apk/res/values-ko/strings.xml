@@ -681,7 +681,7 @@
     <string name="cloud_storage_warn_title">Mi 클라우드 저장소에 충분한 공간이 없습니다</string>
     <string name="cloud_storage_warn_desc">추가 공간을 원하시면 클라우드 VIP를 구매하십시오</string>
     <string name="percent_sign">%</string>
-    <string name="cloud_storage_extend">Extend cloud space</string>
+    <string name="cloud_storage_extend">클라우드 공간 확장</string>
     <string name="user_agreement2">서비스 약관</string>
     <string name="user_agreement4">개인 정보 보호 정책</string>
     <string name="user_agree">동의</string>
@@ -788,9 +788,9 @@
     <string name="search_setting_sub_title">향상된 이미지 검색</string>
     <string name="search_setting_sub_title_open">적용되었습니다. 잠시만 기다려주세요.</string>
     <string name="search_request_open">테스트 팀에 가입</string>
-    <string name="search_title_more">More</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_title_more">더 보기</string>
+    <string name="search_transition_element_input">검색</string>
+    <string name="search_transition_element_icon">검색</string>
     <string name="grant_permission_title">접근 허용</string>
     <string name="grant_permission_text">"갤러리는 정상작동을 위해
 %s
