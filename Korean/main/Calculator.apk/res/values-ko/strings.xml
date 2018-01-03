@@ -52,7 +52,7 @@
     <string name="item_title_tip">팁</string>
     <string name="item_title_length_conversion">길이</string>
     <string name="item_title_area_conversion">지역</string>
-    <string name="item_title_volume_conversion">볼륨</string>
+    <string name="item_title_volume_conversion">부피</string>
     <string name="item_title_weight_conversion">중량 전환</string>
     <string name="item_title_temprature_conversion">온도</string>
     <string name="item_title_vel_conversion">속도</string>
