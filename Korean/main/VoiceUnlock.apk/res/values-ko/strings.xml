@@ -18,10 +18,10 @@
     <string name="voice_command1">웨이크업 명령 1</string>
     <string name="voice_command2">웨이크업 명령 2</string>
     <string name="voice_command3">웨이크업 명령 3</string>
-    <string name="command_summary">%1$s 을(를) 잠금해제하고 시작</string>
-    <string name="voice_command_primary">%1$s 을(를) 시작</string>
+    <string name="command_summary">%1$s 어플을 잠금해제하고 시작</string>
+    <string name="voice_command_primary">%1$s 어플을 시작</string>
     <string name="voice_command_customize">맞춤설정</string>
-    <string name="voice_command_secondary">잠금해제 후 %1$s 을(를) 시작</string>
+    <string name="voice_command_secondary">잠금해제 후 %1$s 어플을 시작</string>
     <string name="voice_command_record_description_unlock_screen">화면 잠금해제</string>
     <string name="voice_command_record_description_command">화면을 잠금해제하고 %1$s 을(를) 시작</string>
     <string name="voice_service_error_title">음성 잠금해제 서비스가 오류입니다.</string>
@@ -53,11 +53,11 @@
     <string name="reset_command_action">명령 재설정</string>
     <string name="reinforce_command_action">강화 명령</string>
     <string name="reinforce_command_action_summary">정확성을 높이는 기록 명령</string>
-    <string name="voice_command_record_different_with_customized">사용자 지정 명령 중에서 다른 명령을 제공합니다. %1$s 을(를) 말하십시오.</string>
+    <string name="voice_command_record_different_with_customized">사용자 지정 명령 중에서 다른 명령을 제공합니다. %1$s 문자열을 말하십시오.</string>
     <string name="vow_setup_intro_with_speaker">4-6 음절로 명령을 말한 후 3-6번 반복하십시오.</string>
     <string name="vow_record_first_recording_with_speaker">"명령을 말하십시오.
 4-6 음절을 권장합니다."</string>
-    <string name="vow_setup_intro_no_speaker">\"%1$s\" 을(를) 3번 반복하십시오.</string>
-    <string name="vow_recording_no_speaker">\"%1$s\" 을(를) 반복하십시오.</string>
+    <string name="vow_setup_intro_no_speaker">\"%1$s\" 문자열을 3번 반복하십시오.</string>
+    <string name="vow_recording_no_speaker">\"%1$s\" 문자열을 반복하십시오.</string>
     <string name="voice_wakeup_setup_end_prompt">전화기 절전 모드를 해제하려면 화면이 꺼져 있을 때 음성 명령을 말하기만 하면 됩니다.</string>
 </resources>

@@ -24,7 +24,7 @@
     <string name="passport_select_reg_ways_title">다른 방법으로 로그인</string>
     <string name="passport_reg_using_phone_number_prompt">전화번호를 이용하여 계정 생성</string>
     <string name="passport_reg_using_other_phone_number_prompt">새 계정을 생성하는 중…</string>
-    <string name="passport_reg_success_summary">%1$s이(가) 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
     <string name="passport_re_register">다시 회원 가입</string>
     <string name="passport_register">계정 만들기</string>
     <string name="passport_vcode_sms_send_prompt">%s 기기로 인증 코드 전송</string>
@@ -63,7 +63,7 @@
     <string name="passport_resend_active_email">이메일 다시 보내기</string>
     <string name="passport_failed_to_send_activate_email">활성화 이메일을 전송하지 못했습니다.</string>
     <string name="passport_reg_success">계정 만들어짐</string>
-    <string name="passport_email_reg_success_summary">%1$s이(가) 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
     <string name="passport_remove_unactivated_account_notice">계정이 활성화되지 않았습니다.</string>
     <string name="passport_remove_confirm">로그아웃</string>
     <string name="passport_skip_register">가입 건너뛰기</string>
@@ -217,7 +217,7 @@
     <string name="button_unbind">연결 해제</string>
     <string name="unbind_sns_description">이 계정을 연결 해제한 후에는 %s 계정 정보를 사용하여 Mi 계정에 로그인할 수 없습니다.</string>
     <string name="confirm_unbind">이 계정을 연결 해제하시겠습니까?</string>
-    <string name="binded_description" formatted="false">%s이(가) Mi 계정에 연결되었습니다. %s 계정 정보로 프로필이 업데이트 되었습니다.</string>
+    <string name="binded_description" formatted="false">%s 계정이 Mi 계정에 연결되었습니다. %s 계정 정보로 프로필이 업데이트 되었습니다.</string>
     <string name="update_contacts">연락처 업데이트</string>
     <string name="updated_nothing">업데이트됨</string>
     <string name="access_token_expired_warning">Weibo 계정이 만료되었습니다.</string>

@@ -157,8 +157,8 @@
     <string name="delete">삭제</string>
     <string name="delete_confirm">기기를 삭제하시겠습니까?</string>
     <string name="delete_desc">\"%s\"를 Mi 리모트로 제어할 수 없습니다.</string>
-    <string name="delete_device_frame">%1$s을(를) 삭제하겠습니까?</string>
-    <string name="delete_frame">\"%1$s\"을(를) 삭제하시겠습니까?</string>
+    <string name="delete_device_frame">%1$s 기기를 삭제하겠습니까?</string>
+    <string name="delete_frame">\"%1$s\" 기기를 삭제하시겠습니까?</string>
     <string name="device_bluetoothi">블루투스 리모컨</string>
     <string name="device_brand">브랜드</string>
     <string name="device_model">모델</string>
@@ -387,16 +387,16 @@
     <string name="match_intro_power">기기 전원이 켜지면 손을 떼십시오</string>
     <string name="match_is_respond">응답을 하였습니까?</string>
     <string name="match_main_tip_frame">"%1$s에 리모컨을 가리키고 버튼을 누릅니다.
-%1$s이(가) 응답할 때 버튼을 놓습니다."</string>
+%1$s 기기가 응답할 때 버튼을 놓습니다."</string>
     <string name="match_main_tip_frame_click">"%1$s에 리모컨을 가리키고 버튼을 누릅니다.
-%1$s이(가) 응답하는지 확인하십시오."</string>
+%1$s 기기가 응답하는지 확인하십시오."</string>
     <string name="match_mibox_first">mi TV를 찾았습니다.</string>
     <string name="match_mibox_sencond">    · 이 기기로 Mi TV를 제어하십시오.</string>
     <string name="match_mibox_third">    · 다른 Mi 기기를 자동으로 추가합니다.</string>
     <string name="match_name_power">전원</string>
     <string name="match_number_default">숫자 버튼이 작동합니까?</string>
-    <string name="match_power_confirm_tip_frame">%1$s이(가) 켜졌습니까?</string>
-    <string name="match_power_main_tip_frame">%1$s이(가) 켜졌습니까?</string>
+    <string name="match_power_confirm_tip_frame">%1$s 기기가 켜졌습니까?</string>
+    <string name="match_power_main_tip_frame">%1$s 기기가 켜졌습니까?</string>
     <string name="match_stb_intro_left">커서가 왼쪽으로 이동하면 손을 떼십시오</string>
     <string name="match_stb_intro_ok">변경 사항이 화면에 표시되면 손을 떼십시오</string>
     <string name="match_stb_intro_up">커서가 위로 이동하면 손을 떼십시오</string>
@@ -497,7 +497,7 @@
     <string name="notification_found_device_text">귀하의 휴대전화로 이 기기를 제어해보십시오!</string>
     <string name="notification_found_device_title">새 기기 발견됨: %1$s</string>
     <string name="notification_found_shared_remote_text">탭하여 컨트롤</string>
-    <string name="notification_found_shared_remote_title">근처에서 %1$s을(를) 발견</string>
+    <string name="notification_found_shared_remote_title">근처에서 %1$s 기기를 발견</string>
     <string name="notification_str1">\"</string>
     <string name="notification_str2">시작에 대한 정보</string>
     <string name="notification_title">타이머 알림</string>
@@ -541,7 +541,7 @@
     <string name="pull_to_refresh">당겨서 새로고침</string>
     <string name="pull_up_refresh">놓아서 새로고침</string>
     <string name="push_add">귀하에게 공유된 리모컨을 찾았습니다.</string>
-    <string name="push_add_desc">이 리모컨으로 근처에 있는 %1$s을(를) 제어하시겠습니까?</string>
+    <string name="push_add_desc">이 리모컨으로 근처에 있는 %1$s 기기를 제어하시겠습니까?</string>
     <string name="rc">리모컨</string>
     <string name="rc_add_distance">%1$dm</string>
     <string name="rc_add_distance_far">>1000km</string>
@@ -840,8 +840,8 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="epg_booked_program_time_left">예약됨 (%1$s 안에 시작)</string>
     <string name="epg_change_channel_casting">채널 재생 (현재 재생중)</string>
     <string name="passport_notification_title">%1$s 로그인 오류</string>
-    <string name="passport_email_reg_success_summary">%1$s이(가) 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
-    <string name="passport_reg_success_summary">%1$s이(가) 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
     <string name="video_count">%d개의 비디오</string>
     <string name="passport_vcode_sms_send_prompt">%s(으)로 인증 코드 전송</string>
     <string name="passport_active_email_visit">%s의 수신함을 확인하십시오.</string>
