@@ -140,7 +140,7 @@
     <string name="get_order_dialog_msg">주문 정보를 가져오는중…</string>
     <string name="get_account_dialog_msg">계정 정보를 가져오는중…</string>
     <string name="display_expire_netiv1">이번 달</string>
-    <string name="add_flow_success_msg">%s이(가) 이번 달에 추가되었습니다</string>
+    <string name="add_flow_success_msg">%s 이번 달에 추가되었습니다</string>
     <string name="add_flow_fail_vip_msg">Xunlei 다운로드 가속기 켜짐</string>
     <string name="add_flow_fail_haveget_msg">체험 기간이 만료되었습니다.</string>
     <string name="download_list_open_xl_title">Xunlei 다운로드 가속기</string>
@@ -343,7 +343,7 @@
     <string name="rank_guide_title">다른 사람들이 설치한 앱</string>
     <string name="rank_guide_content">랭킹은 매일 인기 있는 앱으로 업데이트됩니다</string>
     <string name="rank_guide_confirm">확인</string>
-    <string name="install_failed">%1$s을(를) 설치할 수 없습니다</string>
+    <string name="install_failed">%1$s 항목을 설치할 수 없습니다</string>
     <string name="get_data_failed">정보를 가져올 수 없습니다. 나중에 다시 시도하십시오</string>
     <string name="unit_en_thounsand">K</string>
     <string name="unit_en_million">M</string>
