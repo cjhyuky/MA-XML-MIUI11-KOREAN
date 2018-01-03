@@ -70,7 +70,7 @@
     <string name="drm_forwardforbidden_title">전달이 금지됨</string>
     <string name="drm_forwardforbidden_message">일부 보호된 파일은 전달할 수 없습니다.</string>
     <string name="drm_license_install_success">DRM 라이센스가 성공적으로 설치되었습니다.</string>
-    <string name="media_controller_buffering">%d%%을(를) 버퍼링하는 중...</string>
+    <string name="media_controller_buffering">%d%% 버퍼링 중...</string>
     <string name="contact_widget_loading">로드하는 중…</string>
     <string name="drm_license_install_fail">DRM 라이센스 설치에 실패했습니다.</string>
     <string name="drm_secure_timer_title">잘못된 DRM 보안 시계</string>
