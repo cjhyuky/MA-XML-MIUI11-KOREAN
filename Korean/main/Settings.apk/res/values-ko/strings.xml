@@ -6504,6 +6504,6 @@ PIN 설정"</string>
     <string name="open_demo_mode_warning_message">데모 모드가 켜지면, 상태바의 시계는 멈출것입니다. 배터리와 모바일 신호는 가득참으로 표시됩니다. 기기를 재부팅하시면 다시 정상작동합니다.</string>
     <string name="mute_music_stream">음악 스트리밍 음소거</string>
     <string name="font_size_preview_text">다람쥐 헌 쳇바퀴에 타고파.</string>
-    <string name="font_size_preview_text_subtitle">대한민국 헌법 제 1조 : 국호는 '대한민국'으로 한다.</string>
+    <string name="font_size_preview_text_subtitle">"대한민국 헌법 제 1조 : 국호는 '대한민국'으로 한다."</string>
     <string name="font_size_preview_text_title">대한민국 헌법</string>
 </resources>
