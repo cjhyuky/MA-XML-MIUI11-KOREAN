@@ -23,7 +23,7 @@
     <string name="voice_command_customize">맞춤설정</string>
     <string name="voice_command_secondary">잠금해제 후 %1$s 어플을 시작</string>
     <string name="voice_command_record_description_unlock_screen">화면 잠금해제</string>
-    <string name="voice_command_record_description_command">화면을 잠금해제하고 %1$s 을(를) 시작</string>
+    <string name="voice_command_record_description_command">화면을 잠금해제하고 %1$s 어플을 시작</string>
     <string name="voice_service_error_title">음성 잠금해제 서비스가 오류입니다.</string>
     <string name="stop_playing_title">미디어 재생 정지</string>
     <string name="stop_playing_message">레코딩하기 전에 미디어 재생을 정지하십시오.</string>

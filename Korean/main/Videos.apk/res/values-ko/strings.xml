@@ -425,7 +425,7 @@
     <string name="new_episodes_notification_title">%1$s 새 에피소드</string>
     <string name="new_episode_notification_text">%1$s 시청 가능</string>
     <string name="new_episodes_notification_text">%1$d 새 에피소드 시청 가능</string>
-    <string name="new_season_title_notification_text">%1$s을(를) 지금 Google Play에서 만나보세요.</string>
+    <string name="new_season_title_notification_text">%1$s 시즌을 지금 Google Play에서 만나보세요.</string>
     <string name="new_season_notification_text">Google Play에서 새로운 시즌을 만나보세요.</string>
     <string name="expires_soon">만료 임박</string>
     <string name="gift">선물</string>

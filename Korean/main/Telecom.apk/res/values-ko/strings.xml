@@ -47,14 +47,14 @@
     <string name="outgoing_call_not_allowed_user_restriction">긴급 전화만 가능합니다.</string>
     <string name="outgoing_call_not_allowed_no_permission">이 앱은 휴대전화 권한이 없으면 발신 전화를 걸 수 없습니다.</string>
     <string name="duplicate_video_call_not_allowed">통화를 추가할 수 없습니다.</string>
-    <string name="change_default_dialer_dialog_title">%s을(를) 기본 전화 앱으로 사용하시겠습니까?</string>
+    <string name="change_default_dialer_dialog_title">%s 앱을 기본 전화 앱으로 사용하시겠습니까?</string>
     <string name="change_default_dialer_dialog_affirmative">기본값으로 설정</string>
     <string name="change_default_dialer_dialog_negative">취소</string>
     <string name="change_default_dialer_warning_message">%s 앱은 통화에 관련된 모든 측면을 제어할 수 있게 됩니다. 신뢰할 수 있는 앱만 기본 전화 앱으로 사용하십시오.</string>
     <string name="blocked_numbers">차단된 번호</string>
     <string name="blocked_numbers_msg">"차단된 번호의 전화나 문자를 받지 않습니다."</string>
     <string name="block_number">번호 추가</string>
-    <string name="unblock_dialog_body">%1$s을(를) 차단 해제하시겠습니까?</string>
+    <string name="unblock_dialog_body">%1$s 번호를 차단 해제하시겠습니까?</string>
     <string name="unblock_button">차단 해제</string>
     <string name="add_blocked_dialog_body">에서 오는 전화와 문자를 차단합니다.</string>
     <string name="add_blocked_number_hint">전화번호</string>

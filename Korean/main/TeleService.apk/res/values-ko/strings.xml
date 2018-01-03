@@ -181,7 +181,7 @@
     <string name="optional_summary">&lt;옵션></string>
     <string name="advanced_settings_show">▷ 탭하여 모두 표시</string>
     <string name="advanced_settings_hide">▽ 탭하여 모두 숨기기</string>
-    <string name="empty_alert">%s을(를) 비워둘 수 없습니다.</string>
+    <string name="empty_alert">%s 항목을 비워둘 수 없습니다.</string>
     <string name="not_a_valid_port">포트 번호는 1000~65534여야 합니다.</string>
     <string name="no_internet_available">인터넷 통화를 하려면 데이터 연결이 필요합니다.</string>
     <string name="no_wifi_available">인터넷 통화를 하려면 Wi-Fi 네트워크에 연결해야 합니다(무선 &amp; 네트워크 설정 사용).</string>
@@ -772,7 +772,7 @@
     <string name="voicemail_settings">음성 메일 설정</string>
     <string name="voicemail_number_not_set">&lt;설정 안 됨></string>
     <string name="other_settings">기타 통화 설정</string>
-    <string name="calling_via_template">%s을(를) 통하여 통화하기</string>
+    <string name="calling_via_template">%s 기능을 통하여 통화하기</string>
     <string name="contactPhoto">연락처 사진</string>
     <string name="goPrivate">비공개로 변경</string>
     <string name="selectContact">연락처 선택</string>
