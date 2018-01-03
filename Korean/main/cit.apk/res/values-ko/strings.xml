@@ -237,7 +237,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="cit_tool_log">로그 받아 오기</string>
   <string name="cit_tool_log_bugreport">버그 리포트</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
-  <string name="cit_tool_log_file_not_exist">%s이(가) 존재하지 않음</string>
+  <string name="cit_tool_log_file_not_exist">%s 항목이 존재하지 않음</string>
   <string name="cit_tool_log_generate_bugreport">버그 보고서 작성 중…</string>
   <string name="cit_tool_log_kmsg">마지막 커널 로그</string>
   <string name="cit_tool_log_logcat">ADB 로그</string>
