@@ -5,7 +5,7 @@
     <string name="cancel">취소</string>
     <string name="no_access_toast">계정을 찾을 수 없습니다. 먼저 계정을 추가하십시오</string>
     <string name="null_name">없음</string>
-    <string name="import_message">\#을(를) 일정에 가져오시겠습니까?</string>
+    <string name="import_message">\# 항목을 일정에 가져오시겠습니까?</string>
     <string name="calendar_lable">"일정: "</string>
     <string name="date_lable">"날짜: "</string>
     <string name="import_title">일정 이벤트 가져오기</string>
