@@ -3112,7 +3112,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="master_clear_personal_data_sdcard">개인 정보와 콘텐츠를 지우시겠습니까? 이 동작은 되돌릴 수 없습니다!</string>
     <string name="master_clear_all">휴대전화의 내부 저장소에서 모든 데이터를 지우시겠습니까? 이 동작은 되돌릴 수 없습니다!</string>
     <string name="button_text_ok">확인</string>
-    <string name="button_text_ok_timer">OK(%d)</string>
+    <string name="button_text_ok_timer">확인(%d)</string>
     <string name="button_text_cancel">취소</string>
     <string name="master_clear_apply_title">주의</string>
     <string name="master_clear_apply_step_1"><b>“공장 초기화”는 Mi 폰에 있는 모든 데이터를 지웁니다</b>, 사진, 음악, 메모, 기타 개인 데이터가 포함됩니다. 반드시 중요한 항목을 컴퓨터에 백업하십시오.</string>
@@ -3360,7 +3360,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="private_gallery_need_to_unlock">비밀번호 필요</string>
     <string name="private_gallery_reset_by_account">비밀번호를 재설정하려면 Mi 계정에 로그인하십시오.</string>
     <string name="private_gallery_recording_intro_header">잠금 해제 패턴 그리기:</string>
-    <string name="lockpassword_pin_fixed_length">PIN must be %d digits</string>
+    <string name="lockpassword_pin_fixed_length">핀은 %d 자여야 합니다.</string>
     <string name="lockpassword_confirm_for_second_user">보조 공간 비밀번호 승인</string>
     <string name="lockpassword_choose_for_second_user">보조 공간 비밀번호 설정</string>
     <string name="lockpassword_choose_your_password_second_space">"보조 공간을 위한
@@ -4673,7 +4673,7 @@ PIN 설정"</string>
     <string name="encryption_interstitial_message_password_for_fingerprint">" 지문을 사용하여 장치의 잠금을 해제하는 것 외에도 암호를 요구하기 전에 지문을 사용하여 장치를 보호 할 수 있습니다. 장치가 시작될 때까지는 통화, 메시지 또는 알림을 수신 할 수 없습니다.”</string>
     <string name="encryption_interstitial_message_pattern_for_fingerprint">"지문을 사용하여 장치의 잠금을 해제하는 것 외에도  패턴을 요구하여 이 장치를 보호할 수 있습니다. 장치가 시작될 때까지 전화, 메시지 또는 알림을 수신 할 수 없습니다.”</string>
     <string name="encryption_interstitial_message_pin_for_fingerprint">" 지문을 사용하여 장치를 잠금 해제하는 것 외에도 PIN을 요구하여 이 장치를 보호 할 수 있습니다. 장치가 시작될 때까지는 통화, 메시지 또는 알림을 수신 할 수 없습니다.”</string>
-    <string name="ethernet">Ethernet</string>
+    <string name="ethernet">인터넷</string>
     <string name="ethernet_data_template">%1$s 데이터</string>
     <string name="ethernet_data_usage">데이터 사용량</string>
     <string name="filter_all_apps">모든 앱</string>
