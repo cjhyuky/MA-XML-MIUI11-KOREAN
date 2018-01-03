@@ -23,7 +23,7 @@
     <string name="cert_not_saved">인증서가 설치되지 않았습니다.</string>
     <string name="no_cert_to_saved">설치할 인증서가 없습니다.</string>
     <string name="invalid_cert">인증서가 잘못되었습니다.</string>
-    <string name="cert_is_added">%s이(가) 설치되었습니다.</string>
+    <string name="cert_is_added">%s 인증서가 설치되었습니다.</string>
     <string name="cert_too_large_error">인증서 크기가 너무 크기 때문에 설치할 수 없습니다.</string>
     <string name="cert_missing_error">인증서 파일을 찾을 수 없어서 설치할 수 없습니다.</string>
     <string name="cert_read_error">인증서 파일을 읽을 수 없어서 설치할 수 없습니다.</string>
