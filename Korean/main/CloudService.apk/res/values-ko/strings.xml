@@ -405,10 +405,10 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_confusion_cancel">취소</string>
     <string name="micloud_confusion_ok">확인</string>
     <string name="micloud_confusion_entrance_title">데이터 수정됨</string>
-    <string name="micloud_confusion_entrance_question">최근에 %s을(를) 사용하여 Mi 계정을 수정하신 적이 있으십니까?</string>
+    <string name="micloud_confusion_entrance_question">최근에 %s 계정을 사용하여 Mi 계정을 수정하신 적이 있으십니까?</string>
     <string name="micloud_confusion_entrance_hint">공용 기기에서 Mi 계정을 로그인하지 마십시오.</string>
     <string name="micloud_confusion_account_title">Mi 계정</string>
-    <string name="micloud_confusion_account_question">Mi 계정 ID: %s이(가) 귀하의 것입니까?</string>
+    <string name="micloud_confusion_account_question">Mi 계정 ID: %s 아이디가 귀하의 것입니까?</string>
     <string name="micloud_confusion_account_hint">이 기기를 다른 모든 장치들과 동기화되도록 변경하였습니다. 귀하의 계정 보안을 위해서 사용하지않을때의 기기에 대해서는 동기화 해제를 추천합니다.</string>
     <string name="micloud_confusion_setting_title">기기가 너무 많습니다.</string>
     <string name="micloud_confusion_setting_question">귀하의 계정과 관련된 기기와의 동기화 해제</string>
@@ -425,7 +425,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_confusion_toast_confirm">기기 확인됨</string>
     <string name="micloud_confusion_toast_deny">Mi 계정에 로그인</string>
     <string name="micloud_confusion_alert_title">다른 기기에서 귀하의 계정이 수정 중입니다.</string>
-    <string name="micloud_confusion_alert_message">%s이(가) Mi 계정 정보를 바꾸는 중입니다.</string>
+    <string name="micloud_confusion_alert_message">%s님이 Mi 계정 정보를 바꾸는 중입니다.</string>
     <string name="micloud_confusion_alert_negative">나중에</string>
     <string name="micloud_confusion_alert_positive">세부사항</string>
     <string name="micloud_confusion_check_account_title">Mi 계정에 로그인하여 Mi 클라우드 재활성화하기</string>
