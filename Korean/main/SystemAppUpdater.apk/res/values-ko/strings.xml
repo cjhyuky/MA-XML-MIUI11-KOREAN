@@ -72,10 +72,10 @@
     <string name="loading_update_history_list">잠시만 기다려주십시오…</string>
     <string name="install_title">설치</string>
     <string name="install_no_network_description">네트워크에 연결할 수 없습니다.</string>
-    <string name="install_on_data_description_lte_2">휴대 전화의 데이터 연결을 사용해서 앱을 다운로드하면 데이터 사용량이 증가합니다. %1$s을(를) 다운로드할까요?</string>
+    <string name="install_on_data_description_lte_2">휴대 전화의 데이터 연결을 사용해서 앱을 다운로드하면 데이터 사용량이 증가합니다. %1$s 앱을 다운로드할까요?</string>
     <string name="install_all_title">모든 앱 설치</string>
     <string name="install_all_description">%1$s 및 %2$s개의 다른 앱을 설치하시겠습니까?</string>
-    <string name="install_all_description_lte_2">%1$s을(를) 설치할까요?</string>
+    <string name="install_all_description_lte_2">%1$s 앱을 설치할까요?</string>
     <string name="install_btn_cancel">취소</string>
     <string name="install_btn_continue">계속</string>
     <string name="install_btn_ok">확인</string>
@@ -84,7 +84,7 @@
     <string name="install_sign_not_same_message">%1$s의 업데이트가 로컬 앱의 서명과 일치하지 않습니다. 이 업데이트를 설치하시려면 사용 중이신 현재 버전의 앱을 제거하셔야 합니다.</string>
     <string name="install_sign_not_same_btn_remove">설치 제거</string>
     <string name="upgrade_all_title">전체 업데이트</string>
-    <string name="upgrade_all_description_lte_2">%1$s을(를) 업데이트할까요?</string>
+    <string name="upgrade_all_description_lte_2">%1$s 앱을 업데이트할까요?</string>
     <string name="expansion_confirm_title">앱 확장</string>
     <string name="expansion_confirm_message">이 앱은 확장 패키지를 포함하고 있습니다. 설치 과정이 더 오래 걸릴 수 있습니다.</string>
     <string name="already_bottom">페이지 최하단에 도달했습니다.</string>

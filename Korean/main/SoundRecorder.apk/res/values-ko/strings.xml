@@ -84,7 +84,7 @@
     <string name="record_downloading_notification_count">%d 다운 중</string>
     <string name="record_downloading_notification_complete">다운로드 완료</string>
     <string name="wifi_recommended_title">데이터 사용량 경고</string>
-    <string name="wifi_recommended_body" formatted="false">모바일 데이터 연결을 사용하여 이 파일(%s)을 다운로드하면 데이터 사용량이 증가합니다. 계획한 데이터 사용량 한도를 초과하면 추가 요금이 청구될 수 있습니다. Wi-Fi 연결을 기다렸다 이 파일을 다운로드하려면 %s을(를) 탭하십시오.</string>
+    <string name="wifi_recommended_body" formatted="false">모바일 데이터 연결을 사용하여 이 파일(%s)을 다운로드하면 데이터 사용량이 증가합니다. 계획한 데이터 사용량 한도를 초과하면 추가 요금이 청구될 수 있습니다. Wi-Fi 연결을 기다렸다 이 파일을 다운로드하려면 %s 항목을 탭하십시오.</string>
     <string name="button_queue_for_wifi">대기</string>
     <string name="button_start_now">다운로드</string>
     <string name="notification_title_all_paused">다운로드 일시정지됨</string>
