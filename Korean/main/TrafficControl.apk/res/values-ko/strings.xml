@@ -405,7 +405,7 @@
   <string name="v2_share_app_pass_text">Opera Max를 설치하고 %1$s에서 무료 앱 패스를 획득하세요. http://opr.as/maxsh</string>
   <string name="v2_share_app_pass_title">Opera Max에서 앱 패스 둘러보기</string>
   <string name="v2_share_now">지금 공유</string>
-  <string name="v2_share_specific_app_pass_text">Opera Max를 설치하고 %1$s에서 무료 %2$s 을(를) 획득하세요. http://opr.as/maxsh</string>
+  <string name="v2_share_specific_app_pass_text">Opera Max 앱을 설치하고 %1$s 페이지에서 무료 %2$s 혜택을 누리세요 http://opr.as/maxsh</string>
   <string name="v2_share_text_all_savings">Opera Max로 %1$s 절약했습니다. http://opr.as/maxsh</string>
   <string name="v2_share_with">와(과) 공유…</string>
   <string name="v2_shortcut_opt_in_message">홈 화면 바로가기를 추가하여 절약한 데이터량을 확인하십시오.</string>

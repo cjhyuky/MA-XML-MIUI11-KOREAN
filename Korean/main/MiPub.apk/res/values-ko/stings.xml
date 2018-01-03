@@ -24,7 +24,7 @@
     <string name="unsupported_media_format">지원되지 않는 %1$s 형식</string>
     <string name="select_different_media">다른 %1$s 선택</string>
     <string name="exceed_message_size_limitation">메시지 크기 제한에 도달 했습니다.</string>
-    <string name="failed_to_add_media">이 %1$s을(를) 메시지에 추가할 수 없습니다.</string>
+    <string name="failed_to_add_media">이 %1$s 미디어를 메시지에 추가할 수 없습니다.</string>
     <string name="failed_to_resize_image">이미지 조절 실패</string>
     <string name="resize_image_error_information">크기를 조절해도 이 이미지는 전송하기에 너무 큽니다.</string>
     <string name="discard_message">변경 취소</string>

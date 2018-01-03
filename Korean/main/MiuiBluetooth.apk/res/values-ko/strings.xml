@@ -35,8 +35,8 @@
     <string name="bluetooth_connecting">연결 중…</string>
     <string name="goto_package">%1$s 열기</string>
     <string name="install_package">더 많은 기능을 위해 %1$s 설치</string>
-    <string name="some_app_taking">(%1$s이(가) 이미 이 기능을 사용 중입니다.)</string>
-    <string name="reset_function_msg">이 기능을 초기화하면 %1$s이(가) 정상 작동하지 않을 수 있습니다.</string>
+    <string name="some_app_taking">(%1$s 기기가 이미 이 기능을 사용 중입니다.)</string>
+    <string name="reset_function_msg">이 기능을 초기화하면 %1$s 기기가 정상 작동하지 않을 수 있습니다.</string>
     <string name="notify_device_lose_connection_title">%1$s와(과) 연결 끊김</string>
     <string name="notify_device_lose_connection_text">탭하여 %1$s 연결 해제</string>
     <string name="unbind_device_alert_title">기기의 연결 해제</string>

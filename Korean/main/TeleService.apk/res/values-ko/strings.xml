@@ -1120,8 +1120,8 @@
     <string name="telocation_number_type_tel">유선 전화</string>
     <string name="telocation_countrycode_alert_message">국가 코드를 제외한 전화번호를 입력하십시오.</string>
     <string name="telocation_confim_delete_title">이 메시지를 삭제하겠습니까?</string>
-    <string name="telocation_error_message_number">%s은(는) 숫자만 지원합니다.</string>
-    <string name="telocation_jituan_error_message_number">%s은(는) 숫자와 와일드카드 문자만 지원합니다.</string>
+    <string name="telocation_error_message_number">%s 항목은 숫자만 지원합니다.</string>
+    <string name="telocation_jituan_error_message_number">%s 항목은 숫자와 와일드카드 문자만 지원합니다.</string>
     <string name="telocation_country_code_enabled_title">전화 걸 때 국가 코드 추가</string>
     <string name="telocation_country_code_enabled_message">로밍 전화를 더욱 편리하게 만들기 위해 국가 코드 추가</string>
     <string name="voip_setting">VoIP 설정</string>
@@ -1381,7 +1381,7 @@
     <string name="lte_recognition_title">SIM 카드 인식</string>
     <string name="reg_failed">등록 실패</string>
     <string name="reg_suc">등록 성공</string>
-    <string name="reg_failed_msg">기본 4G/3G SIM 카드 설정 실패, %1$s은(는) 2G SIM 카드로 인식될 것입니다.</string>
+    <string name="reg_failed_msg">기본 4G/3G SIM 카드 설정 실패, %1$s 슬롯은 2G SIM 카드로 인식될 것입니다.</string>
     <string name="lte_set">설정</string>
     <string name="lte_setting">기본 4G/3G SIM 카드를 설정하고 있습니다.</string>
     <string name="select_continue">계속</string>
@@ -1998,7 +1998,7 @@
     <string name="default_preference_summary_username">&lt;설정 안 됨></string>
     <string name="dialog_cancel">취소</string>
     <string name="dialog_report">리포트</string>
-    <string name="ime_security_warning">%1$s은(는) 비밀번호, 신용카드 번호, 기타 개인 정보를 포함하여 당신이 입력하는 모든 것을 기록할 수 있습니다.</string>
+    <string name="ime_security_warning">%1$s 앱은 비밀번호, 신용카드 번호, 기타 개인 정보를 포함하여 당신이 입력하는 모든 것을 기록할 수 있습니다.</string>
     <string name="networks_state_china_forbidden">금지됨</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM 통합 잠금 해제 요청 실패.</string>
     <string name="PERSOSUBSTATE_RUIM_NETWORK2_SUCCESS">RUIM 네트워크2 잠금해제 성공.</string>

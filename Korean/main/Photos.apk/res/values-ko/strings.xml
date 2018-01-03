@@ -592,7 +592,7 @@
     <string name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
     <string name="common_android_wear_update_title">Android Wear 업데이트</string>
     <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s앱이 실행됩니다.</string>
-    <string name="common_android_wear_update_text">%1$s은(는) Android Wear 앱을 업데이트하지 않으면 실행되지 않습니다.</string>
+    <string name="common_android_wear_update_text">%1$s앱은 Android Wear 앱을 업데이트하지 않으면 실행되지 않습니다.</string>
     <string name="common_google_play_services_updating_title">Google Play 서비스 업데이트 중</string>
     <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s앱이 실행됩니다.</string>
     <string name="common_google_play_services_network_error_title">네트워크 오류</string>

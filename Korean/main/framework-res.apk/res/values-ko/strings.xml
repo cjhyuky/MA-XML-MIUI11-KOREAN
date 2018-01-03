@@ -966,7 +966,7 @@
     <string name="searchview_description_submit">검색어 보내기</string>
     <string name="searchview_description_voice">음성 검색</string>
     <string name="enable_explore_by_touch_warning_title">"'터치하여 탐색'을 사용하시겠습니까?"</string>
-    <string name="enable_explore_by_touch_warning_message">"%1$s을(를) 사용하려면 '터치하여 탐색' 기능을 사용하도록 설정해야 합니다. '터치하여 탐색'을 사용하도록 설정하면, 화면을 터치하여 손가락 아래에 표시된 항목에 대한 설명을 듣고 보거나 휴대전화로 상호작용하기 위한 동작을 수행할 수 있습니다."</string>
+    <string name="enable_explore_by_touch_warning_message">"%1$s 기능을 사용하려면 '터치하여 탐색' 기능을 사용하도록 설정해야 합니다. '터치하여 탐색'을 사용하도록 설정하면, 화면을 터치하여 손가락 아래에 표시된 항목에 대한 설명을 듣고 보거나 휴대전화로 상호작용하기 위한 동작을 수행할 수 있습니다."</string>
     <string name="oneMonthDurationPast">한 달 전</string>
     <string name="beforeOneMonthDurationPast">한 달 전</string>
     <string name="last_month">지난 달</string>
@@ -1105,7 +1105,7 @@
     <string name="wifi_p2p_frequency_conflict_message">%1$s에 연결되어 있는 동안 일시적으로 휴대전화의 Wi-Fi 연결이 해제됩니다.</string>
     <string name="select_character">문자 삽입</string>
     <string name="sms_control_title">SMS 메시지를 보내는 중</string>
-    <string name="sms_control_message">&lt;b>%1$s&lt;/b>이(가) SMS 메시지를 대량으로 보내고 있습니다. 해당 앱이 메시지를 계속 보내도록 하시겠습니까?</string>
+    <string name="sms_control_message">&lt;b>%1$s&lt;/b>앱이 SMS 메시지를 대량으로 보내고 있습니다. 해당 앱이 메시지를 계속 보내도록 하시겠습니까?</string>
     <string name="sms_control_yes">허용</string>
     <string name="sms_control_no">거부</string>
     <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> &lt;b>%2$s&lt;/b> 번호로 메시지를 보내시겠습니까?</string>
