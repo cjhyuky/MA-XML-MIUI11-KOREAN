@@ -546,12 +546,12 @@
     <string name="wifi_aggressive_handover">적극적인 WLAN to Cellular 핸드 오버</string>
     <string name="wifi_aggressive_handover_summary">활성화 되어있으면, 와이파이 신호가 약할때 모바일 데이터로 자동 전환 됩니다.</string>
     <string name="wifi_allow_scan_with_traffic">와이파이 로밍 스캔을 항상 허용</string>
-    <string name="wifi_allow_scan_with_traffic_summary">인터페이스에서 데이터 트래픽의 양에 따라 WLAN Roam 검사를 허용 / 금지합니다.</string>
+    <string name="wifi_allow_scan_with_traffic_summary">인터페이스에서 데이터 트래픽의 양에 따라 Wi-Fi 로밍 검사를 허용 / 금지합니다.</string>
     <string name="wifi_connected_no_internet">인터넷에 연결되어 있지 않습니다.</string>
     <string name="wifi_disabled_generic">연결 실패</string>
     <string name="wifi_disabled_network_failure">인터넷 접속 불량 방지</string>
     <string name="wifi_disabled_password_failure">인증 문제</string>
-    <string name="wifi_disabled_wifi_failure">WLAN 연결 실패</string>
+    <string name="wifi_disabled_wifi_failure">Wi-Fi 연결 실패</string>
     <string name="wifi_display_certification">무선 디스플레이 인증서</string>
     <string name="wifi_display_certification_summary">무선 디스플레이 인증서 옵션 표시</string>
     <string name="wifi_fail_to_scan">네트워크를 검색할 수 없습니다.</string>

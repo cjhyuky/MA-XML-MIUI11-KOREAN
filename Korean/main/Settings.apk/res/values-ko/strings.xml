@@ -2593,9 +2593,9 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="search_networks_title">모바일 네트워크;통신사;모바일 통신사</string>
     <string name="search_wifi_settings_title">Wifi;Wi-Fi;고급 설정;WLAN;무선 네트워크;무선</string>
     <string name="search_wifi_enable">WiFi;Wi-Fi;WLAN;Wifi 켜기;Wi-Fi 켜기;WLAN 켜기</string>
-    <string name="search_advanced_settings">고급 설정;Wifi;Wifi 설정;WLAN 설정</string>
+    <string name="search_advanced_settings">고급 설정;Wifi;Wifi 설정;WLAN 설정;Wi-Fi 설정</string>
     <string name="search_wifi_setting_sleep_policy_title">절전 중에 Wi-Fi 유지;절전 중에 WiFi 유지;절전 중에 WLAN 유지;절전 중에 Wi-Fi 유지;절전 중에 WiFi 유지;절전 중에 WLAN 유지</string>
-    <string name="search_wifi_scan_always_available">항상 스캔 가능;네트워크 스캔;Wifi 스캔;WLAN 스캔</string>
+    <string name="search_wifi_scan_always_available">항상 스캔 가능;네트워크 스캔;Wifi 스캔;WLAN 스캔;Wi-Fi 스캔</string>
     <string name="search_wifi_setting_frequency_band_title">Wi-Fi 주파수 밴드;WIFI 주파수;Wi-Fi 주파수;Wi-Fi:WLAN 주파수;주파수 밴드</string>
     <string name="search_wifi_install_credentials">인증서 설치;인증서</string>
     <string name="search_wifi_advanced_mac_address_title">Wi-Fi MAC 주소;WLAN MAC 주소</string>
@@ -4708,7 +4708,7 @@ PIN 설정"</string>
     <string name="font_size_preview_text_headline">샘플 텍스트</string>
     <string name="free_memory">사용가능 용량</string>
     <string name="fullbackup_data_summary">"기기 데이터 (Wi-Fi 비밀번호와 통화기록 등) 과 앱 데이터 (설정 및 어플에 의한 파일 등) 이 자동으로 백업됩니다.</string>
-    <string name="fullbackup_erase_dialog_message"> 장치 데이터 (WLAN 암호 및 통화 기록) 및 응용 프로그램 데이터 (응용 프로그램에 저장된 설정 및 파일)를 백업하고 원격 서버의 모든 사본을 지우시겠습니까? </string>
+    <string name="fullbackup_erase_dialog_message"> 장치 데이터 (Wi-Fi 암호 및 통화 기록) 및 응용 프로그램 데이터 (응용 프로그램에 저장된 설정 및 파일)를 백업하고 원격 서버의 모든 사본을 지우시겠습니까? </string>
     <string name="go_back_button_label">뒤로 가기</string>
     <string name="hidden_ssid_label">숨겨진 SSID:</string>
     <string name="high_power_apps">배터리 최적화</string>
@@ -4877,7 +4877,7 @@ PIN 설정"</string>
     <string name="notifications_priority">방해 금지 모드 무시</string>
     <string name="notifications_redacted">민감한 컨텐츠 잠금 화면에 보이지 않기</string>
     <string name="notifications_silenced">모음처리됨</string>
-    <string name="notify_connect_summary"> CMCC WLAN에 엑세스 권한이 있을 때 알림</string>
+    <string name="notify_connect_summary"> CMCC Wi-Fi 엑세스 권한이 있을 때 알림</string>
     <string name="one_cacrt"> CA 인증서</string>
     <string name="one_usercrt">사용자 인증서</string>
     <string name="one_userkey">사용자 키</string>
@@ -5251,13 +5251,13 @@ PIN 설정"</string>
     <string name="wifi_api_test">Wi-Fi API</string>
     <string name="wifi_auto_connect_type_summary">네트워크 연결 방식 선택</string>
     <string name="wifi_auto_connect_type_title">자동 연결 방식</string>
-    <string name="wifi_automatically_connect_summary">WLAN 도우미가 고품질의 개방형 네트워크에 자동으로 연결하게 하십시오.</string>
-    <string name="wifi_automatically_connect_title">자동으로 개방된 WLAN 사용하기</string>
+    <string name="wifi_automatically_connect_summary">Wi-Fi 도우미가 고품질의 개방형 네트워크에 자동으로 연결하게 하십시오.</string>
+    <string name="wifi_automatically_connect_title">자동으로 개방된 Wi-Fi 사용하기</string>
     <string name="wifi_band_24ghz">2.4 GHz</string>
     <string name="wifi_band_5ghz">5 GHz</string>
     <string name="wifi_calling_mode_dialog_title">Wi-Fi 전화 모드</string>
     <string name="wifi_calling_mode_title">전화 설정</string>
-    <string name="wifi_calling_off_explanation">WLAN 통화가 켜지면 휴대 전화는 선호도 및 신호 강도에 따라 WLAN 네트워크 또는 이동 통신사의 네트워크를 통해 통화를 연결할 수 있습니다. 이 기능을 켜기 전에 요금 및 기타 세부 사항에 대해 이동 통신사에 문의하십시오.</string>
+    <string name="wifi_calling_off_explanation">Wi-Fi 통화가 켜지면 휴대 전화는 선호도 및 신호 강도에 따라 Wi-Fi 네트워크 또는 이동 통신사의 네트워크를 통해 통화를 연결할 수 있습니다. 이 기능을 켜기 전에 요금 및 기타 세부 사항에 대해 이동 통신사에 문의하십시오.</string>
     <string name="wifi_calling_settings_title">Wi-Fi 전화</string>
     <string name="wifi_calling_suggestion_summary">모바일 네트워크 (데이터) 대신 Wi-Fi 사용</string>
     <string name="wifi_calling_suggestion_title">Wi-Fi 전화 기능 활성화</string>
@@ -5293,7 +5293,7 @@ PIN 설정"</string>
     <string name="wifi_no_domain_warning">도메인은 반드시 적어야 합니다.</string>
     <string name="wifi_no_internet">"인터넷 연결 없음, 자동으로 연결됩니다."</string>
     <string name="wifi_sap_no_channel_error">이 국가에서 5 GHz 밴드가 지원되지 않습니다.</string>
-    <string name="wifi_scan_notify_text">위치 정확성을 향상시키기 위해 시스템 앱과 서비스는 여전히 WLAN 네트워크를 검색 할 수 있습니다.</string>
+    <string name="wifi_scan_notify_text">위치 정확성을 향상시키기 위해 시스템 앱과 서비스는 여전히 Wi-Fi 네트워크를 검색 할 수 있습니다.</string>
     <string name="wifi_security_WAPI_CERT">WAPI 증명</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_eap">802.1x EAP</string>
@@ -5312,9 +5312,9 @@ PIN 설정"</string>
     <string name="wifi_state_disabling">비활성화중</string>
     <string name="wifi_state_enabled">활성화됨</string>
     <string name="wifi_state_enabling">활성화중</string>
-    <string name="wifi_state_label">WLAN 상태 : </string>
+    <string name="wifi_state_label">Wi-Fi 상태 : </string>
     <string name="wifi_state_unknown">알수없음</string>
-    <string name="wifi_status_test">WLAN 상태</string>
+    <string name="wifi_status_test">Wi-Fi 상태</string>
     <string name="wifi_switch_away_when_unvalidated">Wi-Fi 인터넷 연결이 끊길 경우 모바일 네트워크 사용</string>
     <string name="wifi_tether_first_use_message">모바일 핫스팟을 1순위로 설정</string>
     <string name="wifi_update">새로고침</string>
@@ -5322,7 +5322,7 @@ PIN 설정"</string>
     <string name="wifiap_configure_ap_text">Wi-Fi AP 사용</string>
     <string name="wifiap_configure_subtext">%1$s%2$s 휴대용 Wi-Fi</string>
     <string name="wifiap_settings_desc">Wi-Fi가 데이터 공유를 통해 다른 PC / 모바일 장치에서 인터넷에 연결할 수 있도록 합니다.</string>
-    <string name="wifiap_settings_indication">WLAN 무선 랜이 켜지면 다른 PC / 모바일 장치가 WLAN에 연결하여 다음 단계에 따라 인터넷 사용을 시작할 수 있습니다:</string>
+    <string name="wifiap_settings_indication">Wi-Fi 무선 랜이 켜지면 다른 PC / 모바일 장치가 Wi-Fi에 연결하여 다음 단계에 따라 인터넷 사용을 시작할 수 있습니다:</string>
     <string name="wifiap_settings_indication_step1">1. PC/모바일 기기에서 Wi-Fi를 켜세요.</string>
     <string name="wifiap_settings_indication_step2">2. Wi-Fi 리스트에서 “%s”를 찾아주세요.</string>
     <string name="wifiap_title">Wi-Fi 핫스팟</string>

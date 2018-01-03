@@ -2002,7 +2002,7 @@
     <string name="notification_channel_car_mode">저동차 모드</string>
     <string name="notification_channel_developer">개발자 메세지</string>
     <string name="notification_channel_foreground_service">앱이 백그라운드에서 실행중입니다</string>
-    <string name="notification_channel_hotspot">WLAN 핫스팟 알림</string>
+    <string name="notification_channel_hotspot">Wi-Fi 핫스팟 알림</string>
     <string name="notification_channel_mobile_data_alert">모바일 데이터 경고</string>
     <string name="notification_channel_network_alert">경고</string>
     <string name="notification_channel_network_alerts">네트워크 경고</string>

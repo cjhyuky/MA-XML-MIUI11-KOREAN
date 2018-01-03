@@ -44,7 +44,7 @@
   <string name="theme_apply_success">잠금화면 적용됨</string>
   <string name="theme_applying">적용 중…</string>
   <string name="wlan_download">Wi-Fi로 업데이트</string>
-  <string name="wlan_download_cn">WLAN으로 업데이트</string>
+  <string name="wlan_download_cn">Wi-Fi로 업데이트</string>
   <string name="share">공유</string>
   <string name="settings">설정</string>
   <string name="apply">적용</string>

@@ -159,7 +159,7 @@
     <string name="confirm_enable_oem_unlock_text">주의 : 이 기능이 켜져 있을 때에는 기기 보호 기능이 해제됩니다.</string>
     <string name="confirm_enable_oem_unlock_title">OEM 언락 허용?</string>
     <string name="connected_via_passpoint">%1$s에 연결됨</string>
-    <string name="connected_via_wfa">WLAN 어시스턴트로 연결</string>
+    <string name="connected_via_wfa">Wi-Fi 어시스턴트로 연결</string>
     <string name="content_description_menu_button">메뉴</string>
     <string name="convert_to_file_encryption">암호화된 파일로 변환</string>
     <string name="convert_to_file_encryption_done">파일이 이미 암호화되어있음</string>
