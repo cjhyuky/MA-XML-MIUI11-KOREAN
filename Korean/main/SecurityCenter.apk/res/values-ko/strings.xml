@@ -825,7 +825,7 @@ SMS 전송"</string>
     <string name="memory_clean_running_process_title">현재 진행 과정 (%d)</string>
     <string name="memory_clean_cleaning_title">캐시 지우는 중</string>
     <string name="memory_clean_no_need_clean">모두 좋아 보입니다</string>
-    <string name="memory_cleaned_memory_up">Speed boost</string>
+    <string name="memory_cleaned_memory_up">스피트 부스트</string>
     <string name="memory_cleaned_memory_info">사용 가능한 메모리</string>
     <string name="memory_clean_no_running_process">지울 작업 없음</string>
     <string name="memory_clean_btn_click_text">스피드 부스트</string>
