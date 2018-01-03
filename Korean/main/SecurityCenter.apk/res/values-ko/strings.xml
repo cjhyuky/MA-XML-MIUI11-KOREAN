@@ -1126,7 +1126,7 @@ SMS 전송"</string>
     <string name="apps_item_title_system">시스템 업데이트</string>
     <string name="apps_item_summary_system_update">더 안전한 지불을 위해 새 버전에서는 몇몇 버그가 수정되었습니다.</string>
     <string name="apps_item_summary_system_rooted">루트 접근이 허용되었습니다. 보안 위협을 피하기 위해 기본 설정으로 복구합니다.</string>
-    <string name="apps_item_summary_sms">%s이(가) 귀하의 메시지에 접근했습니다. 보안 문제의 원인이 될 수 있습니다.</string>
+    <string name="apps_item_summary_sms">%s 어플이 귀하의 메시지에 접근했습니다. 보안 문제의 원인이 될 수 있습니다.</string>
     <string name="button_text_update_now">업데이트</string>
     <string name="button_text_fix_now">수정</string>
     <string name="button_text_open_now">열기</string>
@@ -1578,8 +1578,8 @@ SMS 전송"</string>
     <string name="try_recommended_function">새 보안 기능으로 기기를 보호하십시오</string>
     <string name="activity_title_white_list">예외</string>
     <string name="uninstall_danagerous_title">악성 어플을 삭제합니다.</string>
-    <string name="uninstall_danagerous_desc">\"%s\"이(가) 디바이스를 손상시킬 수 있습니다</string>
-    <string name="uninstall_danagerous_msg">\"%s\"이(가) 디바이스를 손상시키거나 성능 저하 또는 재부팅을 일으킬 수 있습니다.</string>
+    <string name="uninstall_danagerous_desc">\"%s\" 앱이 디바이스를 손상시킬 수 있습니다</string>
+    <string name="uninstall_danagerous_msg">\"%s\" 앱이 디바이스를 손상시키거나 성능 저하 또는 재부팅을 일으킬 수 있습니다.</string>
     <string name="still_retain_btn">유지</string>
     <string name="uninstall_danagerous_btn">제거</string>
     <string name="app_install_tips_install_success">성공적으로 %1$s 설치됨</string>
@@ -1728,7 +1728,7 @@ SMS 전송"</string>
     <string name="applock_close_dialog_title">앱 잠금을 끄시겠습니까?</string>
     <string name="applock_close_dialog_summary">앱 잠금이 꺼진 후에는 앱이 더이상 보호되지 않을 것이고 비밀번호가 삭제될 것입니다.</string>
     <string name="applock_header_text_less_than_half">이 앱에 사용할 공간이 너무 적습니다.</string>
-    <string name="wakepath_confirm_start_activity">%1$s을(를) 허용하여 %2$s을(를) 여시겠습니까?</string>
+    <string name="wakepath_confirm_start_activity">%1$s 기능을 허용하여 %2$s 앱을 여시겠습니까?</string>
     <string name="unlike">사양하겠습니다.</string>
     <string name="toast_network_eror">네트워크에 연결할 수 없습니다.</string>
     <string name="download">다운로드</string>
@@ -1831,8 +1831,8 @@ SMS 전송"</string>
     <string name="app_manager_wakepath_dialog_summary">연속 실행은 하나의 앱 실행시 다른 앱이 백그라운드에서 시작되는 것입니다. 시스템 성능을 저하시키고 배터리를 빨리 소모하게 합니다. MIUI는 연속 실행을 차단할 것입니다.</string>
     <string name="app_manager_wakepath_dialog_buttontext">알겠습니다</string>
     <string name="app_manager_stop_wakepath_dialog_title">연속 실행 제한</string>
-    <string name="app_manager_stop_wakepath_dialog_summary">%s을(를) 제거하여 연속 실행을 제한하시겠습니까?</string>
-    <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">이 앱을 제거하시면 연속 실행이 제한될 것입니다. 동시에 관련 듀얼 앱 또한 제거될 것입니다. %s을(를) 제거하시겠습니까?</string>
+    <string name="app_manager_stop_wakepath_dialog_summary">%s 앱을 제거하여 연속 실행을 제한하시겠습니까?</string>
+    <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">이 앱을 제거하시면 연속 실행이 제한될 것입니다. 동시에 관련 듀얼 앱 또한 제거될 것입니다. %s 앱을 제거하시겠습니까?</string>
     <string name="app_manager_stop_wp_dialog_cancel">취소</string>
     <string name="app_manager_stop_wp_dialog_uninstall">설치 제거</string>
     <string name="app_manager_reduce_wakepath_dialog">이 연속 실행 축소</string>
@@ -2013,7 +2013,7 @@ SMS 전송"</string>
     <string name="power_center_low_battery_title">배터리 절약</string>
     <string name="power_center_low_battery_summary_dynamic">%1$d%% 시 %2$s로 전환</string>
     <string name="power_center_on_time_title">프로필 전환 예약</string>
-    <string name="power_center_on_time_summary_dynamic">%1$s - %2$s을(를) %3$s(으)로 전환</string>
+    <string name="power_center_on_time_summary_dynamic">%1$s - %2$s 프로필을 %3$s 프로필로 전환</string>
     <string name="power_center_consume_time">%1$s 남음</string>
     <string name="power_center_battery_full">배터리 완전 충전됨</string>
     <string name="power_chooser_title">배터리 프로필</string>

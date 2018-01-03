@@ -491,7 +491,7 @@
     <string name="bluetooth_enter_passkey_other_device">또한 경우에 따라 다른 기기에 이 패스키를 입력해야 합니다.</string>
     <string name="bluetooth_confirm_passkey_msg">&lt;b>%1$s&lt;/b>와(과) 페어링하려면&lt;br>&lt;br>이 패스키(&lt;b>%2$s&lt;/b>)가 표시되는지 확인하세요.&lt;br>&lt;br></string>
     <string name="bluetooth_incoming_pairing_msg">출처:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>이 기기와 페어링하시겠습니까?</string>
-    <string name="bluetooth_display_passkey_pin_msg">&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>와(과) 페어링하려면 &lt;br>&lt;b>%2$s&lt;/b>을(를) 입력한 다음 Return 또는 Enter 키를 누르세요.</string>
+    <string name="bluetooth_display_passkey_pin_msg">&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>기기와 페어링하려면 &lt;br>&lt;b>%2$s&lt;/b> PIN을 입력한 다음 Return 또는 Enter 키를 누르세요.</string>
     <string name="bluetooth_pairing_accept">페어링</string>
     <string name="bluetooth_pairing_accept_all_caps">페어링</string>
     <string name="bluetooth_pairing_decline">취소</string>
@@ -2268,7 +2268,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="nfc_more_title">더보기...</string>
     <string name="nfc_payment_menu_item_add_service">앱 검색</string>
     <string name="nfc_payment_set_default_label">기본으로 설정하시겠습니까?</string>
-    <string name="nfc_payment_set_default">탭앤페이에 항상 %1$s을(를) 사용하시겠습니까?</string>
+    <string name="nfc_payment_set_default">탭앤페이에 항상 %1$s 어플을 사용하시겠습니까?</string>
     <string name="nfc_payment_set_default_instead_of">탭앤페이에 항상 %2$s 대신 %1$s 어플을 사용하시겠습니까?</string>
     <string name="restriction_settings_title">제한사항</string>
     <string name="restriction_menu_reset">제한사항 삭제</string>
@@ -3519,7 +3519,7 @@ PIN 설정"</string>
     <string name="free_xiaomi_wifi_connect_summary">탭하여 %1$s에 연결</string>
     <string name="free_wifi_manage_summary">탭하여 %1$s 보기</string>
     <string name="free_wifi_connect_dialog_title">Wi-Fi 이용 가능</string>
-    <string name="free_wifi_connect_dialog_summary">%2$s이(가) 제공한 %1$s</string>
+    <string name="free_wifi_connect_dialog_summary">%2$s 에서 제공한 %1$s</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_wifi_connect">연결</string>
     <string name="free_wifi_connecting">연결 중…</string>
