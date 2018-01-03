@@ -29,8 +29,8 @@
     <string name="act_set_pref_systool_open_mtklogger_title">MtkLogger 열기</string>
     <string name="act_set_pref_test_situation_dialog_title">테스트 시뮬레이션</string>
     <string name="act_set_pref_test_situation_title">테스트 시뮬레이션 : %1$s</string>
-    <string name="act_set_prefs_bluetooth">Bluetooth Log Tool</string>
-    <string name="act_set_prefs_systool">MTK System Tool</string>
+    <string name="act_set_prefs_bluetooth">블루투스 로그 툴</string>
+    <string name="act_set_prefs_systool">미디어택 시스템 툴</string>
     <string name="app_name">BT Tool</string>
     <string name="app_version">0.9.6</string>
     <string name="nnf_permission_external_write_denied">접근이 거부되었습니다.</string>

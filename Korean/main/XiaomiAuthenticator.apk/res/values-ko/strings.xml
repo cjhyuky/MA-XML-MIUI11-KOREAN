@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">샤오미 인증센터</string>
+    <string name="app_name">샤오미 OTP</string>
     <string name="app_name_short">OTP</string>
     <string name="enter_key_title">수동 계정 입력</string>
     <string name="enter_key_page_add_button">추가</string>
@@ -92,7 +92,7 @@
     <string name="lockpattern_recording_inprogress">완료되면 손가락을 놓으십시오.</string>
     <string name="lockpattern_retry_text">패턴 비밀번호 리셋</string>
     <string name="forget_password">&lt;u>비밀번호 분실&lt;/u></string>
-    <string name="change_security_lock">More screen locks</string>
+    <string name="change_security_lock">더 많은 화면 잠금</string>
     <string name="lockpassword_confirm_your_pattern_header">패턴 확인</string>
     <string name="lockpassword_input_your_pattern_header">패턴 확인</string>
     <string name="lockpassword_choose_your_pattern_header">패턴 선택</string>
