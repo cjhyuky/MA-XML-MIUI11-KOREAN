@@ -1003,21 +1003,21 @@
     <string name="low_internal_storage_view_title">저장 공간이 부족함</string>
     <string name="low_internal_storage_view_text">일부 시스템 기능이 작동하지 않을 수 있습니다.</string>
     <string name="low_internal_storage_view_text_no_boot">시스템의 저장 공간이 부족합니다. 250MB의 여유 공간이 확보한 후 다시 시작하세요.</string>
-    <string name="app_running_notification_title">%1$s이(가) 실행 중입니다.</string>
+    <string name="app_running_notification_title">%1$s 앱이 실행 중입니다.</string>
     <string name="app_running_notification_text">자세한 정보를 보거나 앱을 중지하려면 터치하세요.</string>
     <string name="loading">로드 중..</string>
     <string name="capital_on">켜기</string>
-    <string name="capital_off">OFF</string>
+    <string name="capital_off">끄기</string>
     <string name="whichApplication">작업을 수행할 때 사용하는 애플리케이션</string>
-    <string name="whichApplicationNamed">%1$s을(를) 사용하여 작업 완료</string>
+    <string name="whichApplicationNamed">%1$s 앱을 사용하여 작업 완료</string>
     <string name="whichViewApplication">연결 프로그램</string>
-    <string name="whichViewApplicationNamed">%1$s(으)로 열기</string>
+    <string name="whichViewApplicationNamed">%1$s 앱으로 열기</string>
     <string name="whichEditApplication">편집 프로그램:</string>
-    <string name="whichEditApplicationNamed">%1$s(으)로 수정</string>
+    <string name="whichEditApplicationNamed">%1$s 앱으로 수정</string>
     <string name="whichSendApplication">공유 대상</string>
-    <string name="whichSendApplicationNamed">%1$s와(과) 공유</string>
+    <string name="whichSendApplicationNamed">%1$s 앱에 공유</string>
     <string name="whichHomeApplication">홈 앱 선택</string>
-    <string name="whichHomeApplicationNamed">%1$s을(를) 홈 앱으로 사용</string>
+    <string name="whichHomeApplicationNamed">%1$s 앱을 홈 앱으로 사용</string>
     <string name="alwaysUse">이 작업에 대해 기본값으로 사용</string>
     <string name="use_a_different_app">다른 앱 사용</string>
     <string name="clearDefaultHintMsg">시스템 설정 > 앱 > 다운로드로 이동하여 기본 설정을 지웁니다.</string>
@@ -1025,16 +1025,16 @@
     <string name="chooseUsbActivity">USB 기기에 대한 앱 선택</string>
     <string name="noApplications">작업을 수행할 수 있는 앱이 없습니다.</string>
     <string name="aerr_title" />
-    <string name="aerr_application">%1$s(이)가 중지되었습니다.</string>
+    <string name="aerr_application">%1$s 앱이 중지되었습니다.</string>
     <string name="aerr_process">%1$s 프로세스가 중지되었습니다.</string>
     <string name="anr_title" />
-    <string name="anr_activity_application">"%2$s이(가) 응답하지 않습니다.
+    <string name="anr_activity_application">"%2$s 앱이 응답하지 않습니다.
 
 닫으시겠습니까?"</string>
-    <string name="anr_activity_process">"%1$s이(가) 응답하지 않습니다.
+    <string name="anr_activity_process">"%1$s 프로세스가 응답하지 않습니다.
 
 닫으시겠습니까?"</string>
-    <string name="anr_application_process">%1$s이(가) 응답하지 않습니다. 닫으시겠습니까?</string>
+    <string name="anr_application_process">%1$s 프로세스가 응답하지 않습니다. 닫으시겠습니까?</string>
     <string name="anr_process">"%1$s 프로세스가 응답하지 않습니다.
 
 닫으시겠습니까?"</string>
@@ -1045,14 +1045,14 @@
 
 페이지를 닫으시겠습니까?"</string>
     <string name="launch_warning_title">앱 리디렉션됨</string>
-    <string name="launch_warning_replace">%1$s이(가) 실행 중입니다.</string>
-    <string name="launch_warning_original">원래 %1$s을(를) 실행했습니다.</string>
+    <string name="launch_warning_replace">%1$s 앱이 실행 중입니다.</string>
+    <string name="launch_warning_original">원래 %1$s 앱을 실행했습니다.</string>
     <string name="screen_compat_mode_scale">배율</string>
     <string name="screen_compat_mode_show">항상 표시</string>
     <string name="screen_compat_mode_hint">시스템 설정 > 앱 > 다운로드로 이동하여 이 모드를 다시 사용하도록 설정합니다.</string>
-    <string name="smv_application">앱 %1$s(프로세스 %2$s)이(가) 자체 시행 StrictMode 정책을 위반했습니다.</string>
-    <string name="smv_process">프로세스(%1$s)가 자체 시행 StrictMode 정책을 위반했습니다.</string>
-    <string name="android_upgrading_title">Android 업그레이드 중..</string>
+    <string name="smv_application">%1$s 앱의 %2$s 프로세스가 자체 시행 엄격모드 정책을 위반했습니다.</string>
+    <string name="smv_process">%1$s 프로세스가 자체 시행 엄격모드 정책을 위반했습니다.</string>
+    <string name="android_upgrading_title">안드로이드 업그레이드 중..</string>
     <string name="android_upgrading_apk">앱 %2$d개 중 %1$d개 최적화 중</string>
     <string name="android_upgrading_starting_apps">앱을 시작하는 중입니다.</string>
     <string name="android_upgrading_complete">부팅 완료</string>
@@ -1060,7 +1060,7 @@
     <string name="heavy_weight_notification_detail">앱으로 전환하려면 터치</string>
     <string name="heavy_weight_switcher_title">앱을 전환하시겠습니까?</string>
     <string name="heavy_weight_switcher_text">다른 앱이 이미 실행 중입니다. 새 앱을 시작하려면 실행 중인 앱을 중단해야 합니다.</string>
-    <string name="old_app_action">%1$s(으)로 돌아가기</string>
+    <string name="old_app_action">%1$s 앱으로 돌아가기</string>
     <string name="old_app_description">새 앱을 시작하지 마세요.</string>
     <string name="new_app_action">%1$s 시작</string>
     <string name="new_app_description">저장하지 않고 이전 앱을 중단합니다.</string>
@@ -1108,7 +1108,7 @@
     <string name="sms_control_message">&lt;b>%1$s&lt;/b>이(가) SMS 메시지를 대량으로 보내고 있습니다. 해당 앱이 메시지를 계속 보내도록 하시겠습니까?</string>
     <string name="sms_control_yes">허용</string>
     <string name="sms_control_no">거부</string>
-    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> &lt;b>%2$s&lt;/b>(으)로 메시지를 보내시겠습니까?</string>
+    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> &lt;b>%2$s&lt;/b> 번호로 메시지를 보내시겠습니까?</string>
     <string name="sms_short_code_details">모바일 계정에 <b>요금이 부과될 수 있습니다</b>.</string>
     <string name="sms_premium_short_code_details"><b>모바일 계정에 요금이 부과됩니다.</b></string>
     <string name="sms_short_code_confirm_allow">전송</string>
@@ -1242,7 +1242,7 @@
     <string name="ime_action_previous">이전</string>
     <string name="ime_action_default">실행</string>
     <string name="dial_number_using">"전화하기 
-%s에 연결"</string>
+%s님에게 연결"</string>
     <string name="create_contact_using">"전화번호부에
 %s 추가"</string>
     <string name="grant_credentials_permission_message_header">다음 앱에서 앞으로 계정에 액세스할 수 있도록 권한을 요청합니다.</string>
@@ -1584,7 +1584,7 @@
     <string name="year_picker_description">년</string>
     <string name="select_day">월/일 선택</string>
     <string name="select_year">연도 선택</string>
-    <string name="item_is_selected">%1$s이(가) 선택됨</string>
+    <string name="item_is_selected">%1$s 항목이 선택됨</string>
     <string name="deleted_key">%1$s 삭제됨</string>
     <string name="managed_profile_label_badge">업무용 %1$s</string>
     <string name="lock_to_app_toast">고정을 해제 하시려면, 홈 버튼과 전원 버튼을 동시에 눌러 유지해 주십시오.</string>
@@ -1607,7 +1607,7 @@
     <string name="battery_saver_description">"배터리 수명을 개선하기 위해 배터리 세이버에서는 기기의 성능을 줄이고 진동과 대부분의 백그라운드 데이터를 제한합니다. 동기화가 필요한 이메일, 메시지, 기타 앱은 열어야 업데이트됩니다.
 
 기기를 충전하는 중에는 배터리 세이버가 자동으로 사용 중지됩니다."</string>
-    <string name="downtime_condition_summary">%1$s에 정지가 종료될 때까지</string>
+    <string name="downtime_condition_summary">%1$s 앱의 멈춤이 종료될 때까지</string>
     <string name="zen_mode_forever">무제한</string>
     <string name="usb_charging_notification_title">USB로 기기를 충전중</string>
     <string name="decline_remote_bugreport_action">거절</string>
