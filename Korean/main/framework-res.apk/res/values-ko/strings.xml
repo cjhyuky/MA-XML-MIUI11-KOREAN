@@ -1089,9 +1089,9 @@
     <string name="network_available_sign_in_detailed">%1$s</string>
     <string name="wifi_watchdog_network_disabled">Wi-Fi에 연결할 수 없습니다</string>
     <string name="wifi_watchdog_network_disabled_detailed">" 인터넷 연결 상태가 좋지 않습니다."</string>
-    <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
-    <string name="wifi_p2p_turnon_message">Wi-Fi Direct 작업을 시작합니다. 이 작업을 하면 Wi-Fi 클라이언트/핫스팟 작업이 중지됩니다.</string>
-    <string name="wifi_p2p_failed_message">Wi-Fi Direct를 시작하지 못했습니다.</string>
+    <string name="wifi_p2p_dialog_title"> Wi-Fi 다이렉트 </string>
+    <string name="wifi_p2p_turnon_message">Wi-Fi 다이렉트  작업을 시작합니다. 이 작업을 하면 Wi-Fi 클라이언트/핫스팟 작업이 중지됩니다.</string>
+    <string name="wifi_p2p_failed_message">Wi-Fi 다이렉트 를 시작하지 못했습니다.</string>
     <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct 켜짐</string>
     <string name="wifi_p2p_enabled_notification_message">설정으로 이동하려면 터치하세요.</string>
     <string name="accept">동의</string>

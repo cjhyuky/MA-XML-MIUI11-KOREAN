@@ -141,7 +141,7 @@ EEEE"</string>
     <string name="activate_usb_message">이 기능을 활성화하려면 SIM 카드를 삽입하십시오.</string>
     <string name="usb_function_charging_text">충전 모드로 연결됨</string>
     <string name="return_to_incall_screen">통화로 돌아가기</string>
-    <string name="call_status_holding">Holding</string>
+    <string name="call_status_holding">보류</string>
     <string name="call_status_dialing">전화거는 중</string>
     <string name="call_status_ringing">벨 울리는 중</string>
     <string name="reject_call">통화 거부 중</string>

@@ -283,7 +283,7 @@
     <string name="favorite_list">즐겨찾기</string>
     <string name="favorite_list_format">%1$s 즐겨찾기</string>
     <string name="purchased_list">구매됨</string>
-    <string name="purchased_list_current">MIUI 9</string>
+    <string name="purchased_list_current">최적화된 테마</string>
     <string name="purchased_list_legacy">보유 테마</string>
     <string name="my_gifts">선물</string>
     <string name="my_gifts_purchased">구매됨</string>
@@ -426,7 +426,7 @@
     <string name="find_more_wallpapers">더 찾아보기</string>
     <string name="local_photos">로컬 사진</string>
     <string name="recently_used">최근 사용됨</string>
-    <string name="system_precust">System precust</string>
+    <string name="system_precust">설치됨</string>
     <string name="wallpaper_settings_loading_text">로드 중</string>
     <string name="wallpaper_settings_no_history">기록 없음</string>
     <string name="card_loading">로드 중...</string>

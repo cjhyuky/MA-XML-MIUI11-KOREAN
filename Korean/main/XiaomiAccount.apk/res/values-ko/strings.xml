@@ -82,7 +82,7 @@
     <string name="passport_delete_account">로그아웃</string>
     <string name="passport_vcode_notification_title">로그인 인증이 완료되지 않았습니다.</string>
     <string name="passport_account_name">계정: %1$s</string>
-    <string name="passport_account_hint_text">Email address, phone number or Mi Account ID</string>
+    <string name="passport_account_hint_text">이메일 주소, 휴대폰 번호 또는 MI 계정 ID</string>
     <string name="passport_email_or_id_hint_text">이메일 주소 또는 Mi 계정 ID</string>
     <string name="passport_phone_num_hint_text">전화번호</string>
     <string name="passport_input_password_hint">비밀번호 입력</string>

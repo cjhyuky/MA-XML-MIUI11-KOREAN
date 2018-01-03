@@ -67,7 +67,7 @@
     <string name="card_title_threeway_call">3자 통화</string>
     <string name="card_title_incoming_call">수신 통화</string>
     <string name="card_title_answering">통화 응답 중</string>
-    <string name="card_title_answering_time_out">"Couldn't answer call, try again."</string>
+    <string name="card_title_answering_time_out">"전화를 받을 수 없습니다. 다시 시도하십시오."</string>
     <string name="card_title_call_ended">"통화 종료됨 "</string>
     <string name="card_title_on_hold">"대기 중 "</string>
     <string name="card_title_hanging_up">"끊는 중 "</string>

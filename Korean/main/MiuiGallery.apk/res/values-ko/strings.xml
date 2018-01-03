@@ -851,7 +851,7 @@
     <string name="error_not_synced_tip">정보가 동기화되지 않았습니다.</string>
     <string name="error_not_synced_msg">정보가 동기화되지 않았습니다. 1~2분 뒤 다시 시도하세요.</string>
     <string name="error_not_synced_action">지금 동기화</string>
-    <string name="error_download_tip">"Couldn't download"</string>
+    <string name="error_download_tip">"다운로드할 수 없음"</string>
     <string name="people_mark_mode_title">\"%s\" 선택</string>
     <string name="people_mark_mode_title_no_mark_name">사람 선택</string>
     <string name="home_menu_cleaner">저장공간 확보</string>
