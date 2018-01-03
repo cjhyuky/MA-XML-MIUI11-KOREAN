@@ -54,9 +54,9 @@
     <string name="video_editor_down_load_no_wifi_tips">Wi-Fi에 연결하여 다운로드</string>
     <string name="video_editor_down_load_now">다운로드</string>
     <string name="video_editor_down_load_later">나중에</string>
-    <string name="video_editor_res_not_load_dialog_msg">이 기능을 사용하기 위해 다운로드 (20MB 이상)</string>
+    <string name="video_editor_res_not_load_dialog_msg">이 기능을 사용하기 위해 파일을 다운로드(20MB 이상)</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">모바일 데이터 사용</string>
-    <string name="video_editor_res_download_mobil_network_confirm_msg">모바일 데이터를 사용하여 사운드트랙을 다운로드 하시겠습니까?</string>
+    <string name="video_editor_res_download_mobil_network_confirm_msg">모바일 데이터를 사용하여 파일을 다운로드 하시겠습니까?</string>
     <string name="video_editor_res_download_failed_tips">다운로드 실패, 네트워크 설정을 확인하시고 다시 시도하십시오.</string>
     <string name="video_editor_loading_warning_title">인코딩 오류</string>
     <string name="video_editor_loading_warning_msg">이 동영상은 인코딩에 오류가 있습니다. 최종 동영상 파일에는 영향이 없지만 편집시에 몇몇 기능이 사용 불가 하거나 미리보기가 불가할 수 있습니다.</string>
