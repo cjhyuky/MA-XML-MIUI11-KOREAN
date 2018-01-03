@@ -42,7 +42,7 @@
     <string name="HIPS_Perm_SystemAlert">팝업 창 표시</string>
     <string name="HIPS_Perm_SystemAlert_Desc">팝업 창 표시</string>
     <string name="HIPS_SecurityPrompt_Caption">보안 경고</string>
-    <string name="HIPS_SecurityPrompt_Title">%1$s이(가) %2$s을(를) 시도 중입니다.</string>
+    <string name="HIPS_SecurityPrompt_Title">%1$s님이 %2$s 작업을 시도 중입니다.</string>
     <string name="HIPS_SecurityPrompt_Reject">거부(%d)</string>
     <string name="Su_Package_Forbidden2">루트 권한이 없습니다.</string>
     <string name="permisson_reject_notice_toast_text2">%1$s의 권한이 거부되었습니다.</string>
