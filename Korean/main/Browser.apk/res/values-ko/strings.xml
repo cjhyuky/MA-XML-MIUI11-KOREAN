@@ -860,7 +860,7 @@
   <string name="autoSwithcingSearchEngineTips">자주 이용하는 검색 엔진으로 설정됨</string>
   <string name="autofill_keyboard_accessory_content_description">권장사항이 있습니다.</string>
   <string name="back_description">뒤로</string>
-  <string name="bookmark_move_to">로 이동</string>
+  <string name="bookmark_move_to">이동</string>
   <string name="bookmark_url_can_not_null">URL 입력</string>
   <string name="cancle_sync_cloud_tabs">동기화 취소</string>
   <string name="check_security_tip_privacy_policy">개인 정보 보호 약관</string>
