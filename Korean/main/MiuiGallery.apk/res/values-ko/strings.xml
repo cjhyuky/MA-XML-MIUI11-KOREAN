@@ -455,12 +455,12 @@
     <string name="delete_third_party_photo">이 사진을 삭제하시겠습니까?</string>
     <string name="delete_third_party_video">이 동영상을 삭제하겠습니까?</string>
     <string name="create_new_album">새 앨범 생성</string>
-    <string name="album_already_exists_msg">앨범 \"%s\"은(는) 이미 존재합니다.</string>
+    <string name="album_already_exists_msg">\"%s\"앨범은 이미 존재합니다.</string>
     <string name="album_already_exists_check">보기</string>
     <string name="create_new_album_failed">생성할 수 없음</string>
     <string name="new_album_invalid_prefix">앨범의 이름의 첫부분에 \".\" 또는 \"_\"을 사용하지 마십시오.</string>
     <string name="new_album_invalid_char">이름에 \"%s\"을(를) 포함할 수 없습니다. 문자나 숫자를 입력하십시오.</string>
-    <string name="new_album_invalid_name">\"%s\"은(는) 시스템 앨범입니다. 이것의 이름을 바꿔주십시오.</string>
+    <string name="new_album_invalid_name">\"%s\"앨범은 시스템 앨범입니다. 이것의 이름을 바꿔주십시오.</string>
     <string name="rename_album">앨범 이름 변경</string>
     <string name="rename_album_succeeded">이름 변경 성공</string>
     <string name="rename_album_failed">이름을 변경할 수 없습니다</string>

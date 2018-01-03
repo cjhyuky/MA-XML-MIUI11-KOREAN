@@ -32,7 +32,7 @@
   <string name="com_appboy_notification_time_twenty_four_hour_format">HH:mm</string>
   <string name="com_appboy_recommendation_free">무료</string>
   <string name="common_android_wear_notification_needs_update_text">%1$s에서 Android Wear 앱을 업데이트해야 합니다.</string>
-  <string name="common_android_wear_update_text">%1$s은(는) Android Wear 앱을 업데이트하지 않으면 실행되지 않습니다.</string>
+  <string name="common_android_wear_update_text">%1$s 앱은 Android Wear 앱을 업데이트하지 않으면 실행되지 않습니다.</string>
   <string name="common_android_wear_update_title">Android Wear 업데이트</string>
   <string name="common_google_play_services_api_unavailable_text">%1$s에 필요한 하나 이상의 Google Play 서비스를 현재 사용할 수 없습니다. 개발자에게 문의하여 도움을 받으시기 바랍니다.</string>
   <string name="common_google_play_services_enable_button">Google Play 서비스 사용</string>

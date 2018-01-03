@@ -233,7 +233,7 @@
     <string name="permission_title">%1$s 권한</string>
     <string name="no_apps">앱 없음</string>
     <string name="location_settings">위치 설정</string>
-    <string name="location_warning">%1$s은(는) 이 기기의 위치 서비스 제공자입니다. 위치 설정에서 위치 접근을 수정할 수 있습니다.</string>
+    <string name="location_warning">%1$s 앱은 이 기기의 위치 서비스 제공자입니다. 위치 설정에서 위치 접근을 수정할 수 있습니다.</string>
     <string name="system_warning">이 권한을 거부하면 이 기기의 기본 기능이 더 이상 동작하지 않을 수 있습니다.</string>
     <string name="permission_summary_enforced_by_policy">정책에 의해 요구됨</string>
     <string name="loading">불러오는 중…</string>
@@ -529,9 +529,9 @@
     <string name="tts_settings">TTS 설정</string>
     <string name="tts_settings_title">TTS 출력</string>
     <string name="tts_status_checking">확인중 ...</string>
-    <string name="tts_status_not_supported">%1$s은(는) 지원되지 않습니다.</string>
-    <string name="tts_status_ok">%1$s은(는) 완전하게 지원됩니다.</string>
-    <string name="tts_status_requires_network">%1$s은(는) 네트워크 연결이 필요합니다.</string>
+    <string name="tts_status_not_supported">%1$s 기능은 지원되지 않습니다.</string>
+    <string name="tts_status_ok">%1$s 기능은 완전하게 지원됩니다.</string>
+    <string name="tts_status_requires_network">%1$s 기능은 네트워크 연결이 필요합니다.</string>
     <string name="tts_status_title">기본 언어 상태</string>
     <string name="usb_audio_disable_routing">USB 오디오 연결 사용 중지</string>
     <string name="usb_audio_disable_routing_summary">USB 오디오 주변기기로 자동 연결 사용 중지</string>
@@ -633,7 +633,7 @@
     <string name="button_next">다음</string>
     <string name="button_remove">삭제</string>
     <string name="button_text_delete_timer">(%d) 삭제</string>
-    <string name="ime_security_warning">%1$s은(는) 비밀번호, 신용카드 번호, 기타 개인 정보를 포함하여 당신이 입력하는 모든 것을 기록할 수 있습니다.</string>
+    <string name="ime_security_warning">%1$s앱은 비밀번호, 신용카드 번호, 기타 개인 정보를 포함하여 당신이 입력하는 모든 것을 기록할 수 있습니다.</string>
     <string name="installer_name">출처: %1$s</string>
     <string name="installing_app">%1$s 항목을 설치 중…</string>
     <string name="main_title">앱 설치</string>

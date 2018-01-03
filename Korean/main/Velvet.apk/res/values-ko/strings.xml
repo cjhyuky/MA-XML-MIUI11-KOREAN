@@ -134,14 +134,14 @@
     <string name="common_google_play_services_install_text_tablet">태블릿에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
     <string name="common_google_play_services_install_button">Google Play 서비스 설치</string>
     <string name="common_google_play_services_enable_title">Google Play 서비스 사용</string>
-    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
+    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s 앱이 작동합니다.</string>
     <string name="common_google_play_services_enable_button">Google Play 서비스 사용</string>
     <string name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
     <string name="common_android_wear_update_title">Android Wear 업데이트</string>
-    <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</string>
-    <string name="common_android_wear_update_text">%1$s은(는) Android Wear 앱을 업데이트하지 않으면 실행되지 않습니다.</string>
+    <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s 앱이 실행됩니다.</string>
+    <string name="common_android_wear_update_text">%1$s 앱은 Android Wear 앱을 업데이트하지 않으면 실행되지 않습니다.</string>
     <string name="common_google_play_services_updating_title">Google Play 서비스 업데이트 중</string>
-    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s 앱이 실행됩니다.</string>
     <string name="common_google_play_services_network_error_title">네트워크 오류</string>
     <string name="common_google_play_services_network_error_text">Google Play 서비스에 연결하려면 데이터 연결이 필요합니다.</string>
     <string name="common_google_play_services_invalid_account_title">올바르지 않은 계정</string>
@@ -1059,7 +1059,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="add_your_relationship_subject">%2$s님을 %1$s(으)로 설정하시겠습니까?</string>
     <string name="relationships">닉네임</string>
     <string name="relationship_removal_dialog_title">이 닉네임을 삭제하시겠습니까?</string>
-    <string name="relationship_removal_dialog_message" formatted="false">"닉네임 '%s'은(는) 더 이상 %s에 할당되지 않습니다."</string>
+    <string name="relationship_removal_dialog_message" formatted="false">"'%s' 닉네임은 더 이상 %s에 할당되지 않습니다."</string>
     <string name="relationship_removal_dialog_positive_button_text">삭제</string>
     <string name="relationship_removal_dialog_negative_button_text">취소</string>
     <string name="one_time">한 번</string>
@@ -1675,8 +1675,8 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="set_reminder_submit_occasionally_confirmation">Google Now에 알림이 가끔 표시됩니다.</string>
     <string name="set_reminder_submit_alertless_trigger">Google Now에서 진행 중</string>
     <string name="date_in_the_past">%1$s&lt;font color=#9E9E9E>은 이미 지났습니다&lt;/font>.</string>
-    <string name="time_in_the_past">%1$s&lt;font color=#9E9E9E>은(는) 이미 지났습니다&lt;/font>.</string>
-    <string name="time_too_soon">%1$s&lt;font color=#9E9E9E>은(는) 너무 가깝습니다&lt;/font>.</string>
+    <string name="time_in_the_past">%1$s&lt;font color=#9E9E9E> 시간은 이미 지났습니다&lt;/font>.</string>
+    <string name="time_too_soon">%1$s&lt;font color=#9E9E9E> 시간은 너무 가깝습니다&lt;/font>.</string>
     <string name="edit_reminder_set_title">제목 추가</string>
     <string name="edit_reminder_set_location">위치 설정</string>
     <string name="edit_reminder_set_home_location">집 위치 설정</string>

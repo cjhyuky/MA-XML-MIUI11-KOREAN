@@ -72,7 +72,7 @@
     <string name="resource_share_subject">테마 공유: %1$s</string>
     <string name="resource_share_text">%1$s 테마를 추천합니다! 링크: %2$s</string>
     <string name="resource_delete_all">선택한 리소스 %1$d을(를) 삭제하시겠습니까?</string>
-    <string name="resource_can_not_selected">%1$s은(는) 선택할 수 없습니다.</string>
+    <string name="resource_can_not_selected">%1$s 리소스는 선택할 수 없습니다.</string>
     <string name="resource_system_title">시스템 리소스</string>
     <string name="resource_downloaded_title">다운로드한 리소스</string>
     <string name="resource_see_more">더 보기</string>

@@ -110,7 +110,7 @@
     <string name="cancel_share">공유 중지</string>
     <string name="cancel_share_done">공유 중지됨</string>
     <string name="cancel_timer">타이머 취소</string>
-    <string name="cannot_be_used_in_current_mode">&lt;%1$s> 은(는) 현재 모드에서 사용할 수 없습니다.</string>
+    <string name="cannot_be_used_in_current_mode">&lt;%1$s> 기능은 현재 모드에서 사용할 수 없습니다.</string>
     <string name="carrier_data">캐리어 정보</string>
     <string name="change_to_channel">[%1$s] %2$s 전환 중</string>
     <string name="channel">채널</string>
@@ -695,7 +695,7 @@
     <string name="timer_turn_off">예약 종료 시간</string>
     <string name="timer_turn_on">예약 시작 시간</string>
     <string name="title_nodata_feedback">기기 정보를 가져올 수 없음</string>
-    <string name="to_be_used_in_these_modes">&lt;%1$s> 은(는) 오직 %2$s 모드에서만 사용할 수 있습니다</string>
+    <string name="to_be_used_in_these_modes">&lt;%1$s> 기능은 오직 %2$s 모드에서만 사용할 수 있습니다</string>
     <string name="to_qq">QQ계정을 만드시고 저희 그룹에 가입하십시오</string>
     <string name="to_qq_maintext">QQ 그룹에 가입하시고 피드백을 보내 주십시오</string>
     <string name="to_qq_subtext">QQ 그룹: 532652329</string>

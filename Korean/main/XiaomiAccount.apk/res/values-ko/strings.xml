@@ -269,7 +269,7 @@
     <string name="confirm_phone_number_dialog_title">전화번호 확인</string>
     <string name="confirm_bundled_phone_dialog_title">연관된 전화번호 승인</string>
     <string name="confirm_phone_number_dialog_message">인증 코드가 %s(으)로 전송될 것입니다.</string>
-    <string name="confirm_unbundled_phone_dialog_message">전화번호 %1$s은(는) Mi 계정 %2$s으로 연결되어 있습니다. 계속하시면 Mi 계정 %3$s와(과)의 연결이 해제됩니다. 계속하시겠습니까?</string>
+    <string name="confirm_unbundled_phone_dialog_message">전화번호 %1$s 번호는 Mi 계정 %2$s으로 연결되어 있습니다. 계속하시면 Mi 계정 %3$s 계정과의 연결이 해제됩니다. 계속하시겠습니까?</string>
     <string name="change_phone_number">전화번호 변경</string>
     <string name="change_email_address">이메일 주소 변경</string>
     <string name="checking_phone_num_availible">휴대전화 확인 중…</string>
