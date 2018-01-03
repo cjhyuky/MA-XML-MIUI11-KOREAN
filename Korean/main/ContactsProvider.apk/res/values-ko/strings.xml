@@ -26,7 +26,7 @@
     <string name="search_the_yellowpage">전화번호부 검색</string>
     <string name="edit_contact">연락처에 추가</string>
     <string name="call_log_provider_label">통화 기록</string>
-    <string name="third_party_delete_contact_info">\"%s\"이(가) 귀하의 연락처 삭제를 시도 중입니다. 이 동작은 타사 앱으로 수행할 수 없습니다. 연락처를 삭제하려면 MIUI의 내장 연락처 앱을 사용하십시오.</string>
+    <string name="third_party_delete_contact_info">\"%s\"님이 귀하의 연락처 삭제를 시도중입니다. 이 동작은 타사 앱으로 수행할 수 없습니다. 연락처를 삭제하려면 MIUI의 내장 연락처 앱을 사용하십시오.</string>
     <string name="low_memory_toast">메모리가 부족해 계속 사용할 수 없습니다.</string>
     <string name="group_name_contacts">연락처</string>
     <string name="group_name_coworkers">동료</string>
