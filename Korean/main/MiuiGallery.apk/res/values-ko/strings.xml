@@ -864,8 +864,8 @@
     <string name="hidden_album_display_name">숨겨진 앨범</string>
     <string name="cloudfolder_name_cannot_empty">앨범 이름 입력</string>
     <string name="cloudfolder_name_reserved">앨범 이름 예약됨</string>
-    <string name="cloudfolder_contain_invalidate_char">"앨범 이름에 '%s'이(가) 포함되어선 안 됩니다."</string>
-    <string name="cloudfolder_cannot_start_with">"앨범 이름이 '%s'(으) 로 시작해서는 안 됩니다."</string>
+    <string name="cloudfolder_contain_invalidate_char">"앨범 이름에 '%s' 문자열이 포함되어선 안 됩니다."</string>
+    <string name="cloudfolder_cannot_start_with">"앨범 이름이 '%s' 문자열로 시작해서는 안 됩니다."</string>
     <string name="quotation">\"%s\"</string>
     <string name="cloud_camera_display_name">카메라 사진</string>
     <string name="cloud_screenshots_display_name">스크린샷</string>
