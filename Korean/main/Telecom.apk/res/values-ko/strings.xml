@@ -541,7 +541,8 @@
     <string name="wifi_auto_sel_wapi_cert">자동으로 선택</string>
     <string name="wifi_disabled_by_recommendation_provider">네트워크 연결이 불안정해 Wi-Fi 꺼짐</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI 인증서</string>
-    <string name="wifi_security_wapi_psk_hexadecimal">16진수</string>
+    <string name="wifi_security_wapi_psk_ascii">아스키(ASCII)</string>
+    <string name="wifi_security_wapi_psk_hexadecimal">16진수(HEX)</string>
     <string name="wifi_ssid_is_empty">SSID를 입력하세요.</string>
     <string name="wifi_ssid_length_is_max">SSID는 32자 이내여야 합니다.</string>
     <string name="wifi_wapi_cert_mode_hand_text">인증서 선택</string>
