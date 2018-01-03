@@ -46,7 +46,7 @@
     <string name="menu_copy_text">클립보드에 복사</string>
     <string name="menu_call_ip_number">IP 전화 걸기</string>
     <string name="toast_text_copied">텍스트 복사됨</string>
-    <string name="confirm_to_send_to_desktop">홈 화면에 %s을(를) 배치하겠습니까?</string>
+    <string name="confirm_to_send_to_desktop">홈 화면에 %s항목을 배치하겠습니까?</string>
     <string name="sending_shortcut">전송 중...</string>
     <string name="send_shortcut_failed">전송하지 못했습니다.</string>
     <string name="send_shortcut_success">홈 화면에 배치됨</string>
@@ -118,7 +118,7 @@
     <string name="mark_number_feedback_personal_number">개인번호 입니다.</string>
     <string name="mark_number_feedback_not_number">%s번호가 아닙니다.</string>
     <string name="mark_number_delete_confirm_title">플래그 정보 제거</string>
-    <string name="mark_number_delete_confirm_message">플래그 정보 %s을(를) 제거하시겠습니까?</string>
+    <string name="mark_number_delete_confirm_message">%s 플래그 정보를 제거하시겠습니까?</string>
     <string name="smart_antispam">발신자 ID</string>
     <string name="turn_on_smart_antispam_hint">알 수 없는 번호로 온 통화 식별</string>
     <string name="turn_on_smart_antispam_title">발신자 ID</string>
@@ -278,7 +278,7 @@
     <string name="express_address_region">지역</string>
     <string name="express_address_deleted">주소 삭제됨</string>
     <string name="express_location_failed">위치를 찾지 못했습니다. 주소를 입력하십시오.</string>
-    <string name="express_order_success_hint">귀하의 주문 %s이(가) 배달될 것입니다.</string>
+    <string name="express_order_success_hint">귀하의 %s 주문이 배달될 것입니다.</string>
     <string name="express_order_ongoing">주문 중…</string>
     <string name="express_order_succeeded">완료</string>
     <string name="express_order_failed">실패</string>
@@ -363,7 +363,7 @@
     <string name="general_menu_unfollow">언팔로우</string>
     <string name="general_btn_follow_ok">팔로우됨</string>
     <string name="general_btn_follow">팔로우</string>
-    <string name="general_follow_hint">%1$s을(를) 팔로우하여 관련 업데이트 수신</string>
+    <string name="general_follow_hint">%1$s 업체를 팔로우하여 관련 업데이트 수신</string>
     <string name="general_unfollow_hint">%1$s 팔로우를 중단하시겠습니까?</string>
     <string name="general_cancel_followed_ok">언팔로우됨</string>
     <string name="general_follow_hint_title">힌트</string>
@@ -372,7 +372,7 @@
     <string name="follow_processing">처리 중</string>
     <string name="homepage_barcode_prompt">스캔하여 홈페이지 열기</string>
     <string name="follow_label">%1$s 팔로우</string>
-    <string name="follow_success">현재 %1$s을(를) 팔로우 중입니다.</string>
+    <string name="follow_success">현재 %1$s 업체를 팔로우 중입니다.</string>
     <string name="nearby_yellow_page_title">근처</string>
     <string name="nearby_no_yellow_page">근처에 결과 없음</string>
     <string name="nearby_average_price">평균 %dRMB</string>
@@ -393,7 +393,7 @@
     <string name="quick_yellow_page_tab_call_log">통화 기록</string>
     <string name="uploads_disabled">파일 업로드가 중단되었습니다.</string>
     <string name="choose_upload">업로드할 파일 선택</string>
-    <string name="web_permission_message">%1$s이(가) 제공하는 서비스는 휴대전화 %2$s 기능 사용이 필요합니다.</string>
+    <string name="web_permission_message">%1$s에서 제공하는 서비스는 휴대전화 %2$s 기능 사용이 필요합니다.</string>
     <string name="remember_preference">기본 설정 기억</string>
     <string name="allow">허용</string>
     <string name="view_orders">주문 보기</string>

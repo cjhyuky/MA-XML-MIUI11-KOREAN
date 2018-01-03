@@ -23,7 +23,7 @@
     <string name="perm_action_prompt">문의</string>
     <string name="perm_action_reject">거부</string>
     <string name="unknown_installer">미확인된 PC 도구</string>
-    <string name="dlg_app_replacement_statement_with_version">%1$s(%3$s)이(가) 현재 설치된 버전(%2$s)을 대체합니다. 기존의 모든 앱 데이터는 저장됩니다.</string>
+    <string name="dlg_app_replacement_statement_with_version">%1$s(%3$s)앱이 현재 설치된 버전(%2$s)을 대체합니다. 기존의 모든 앱 데이터는 저장됩니다.</string>
     <string name="lift_ban">허용</string>
     <string name="uninstall_confirm_question">이 앱을 설치 제거하시겠습니까?</string>
     <string name="uninstall_failed_retained_app_msg">이 앱은 수정되었으므로 현재 양식에서 설치 제거할 수 없습니다.</string>
@@ -91,7 +91,7 @@
     <string name="ads_install_button_isInstalling">설치중</string>
     <string name="ads_install_button_installed">열기</string>
     <string name="ads_install_button_waiting">대기 중</string>
-    <string name="ads_summary">%1$s 을(를) 좋아한 사람들도 좋아한 것</string>
+    <string name="ads_summary">%1$s 앱을 설치한 사람들이 좋아한 것</string>
     <string name="ads">광고</string>
     <string name="pref_key_antivirus">안티바이러스</string>
     <string name="pref_key_antivirus_summary">설치 전 앱 바이러스 확인</string>
@@ -246,7 +246,7 @@
     <string name="screen_overlay_button">설정 열기</string>
     <string name="wear_not_allowed_dlg_title">안드로이드 웨어</string>
     <string name="wear_not_allowed_dlg_text">설치/제거 동작은 웨어에서 지원하지 않습니다.</string>
-    <string name="permission_review_warning_title_template_update">%1$s 업데이트됨. %1$s을(를) 허용하여 다음 항목에 접근하시겠습니까?</string>
+    <string name="permission_review_warning_title_template_update">%1$s 업데이트됨. %1$s앱을 허용하여 다음 항목에 접근하시겠습니까?</string>
     <string name="permission_review_title_template_install">%1$s 접근 허용 항목 선택</string>
     <string name="permission_review_title_template_update">%1$s 업데이트됨. 이 앱의 접근을 허용할 항목을 선택하십시오.</string>
     <string name="review_button_cancel">취소</string>
@@ -612,7 +612,7 @@
     <string name="button_text_next_step_timer">다음 (%d)</string>
     <string name="miui_uninstall_application_text">이 앱을 제거하시겠습니까?</string>
     <string name="miui_uninstall_update_text">이 앱을 공장 초기 버전으로 교체하시겠습니까? 모든 데이터가 삭제될 것입니다.</string>
-    <string name="package_delete_confirm_step_1">%s을(를) 삭제하시겠습니까?</string>
+    <string name="package_delete_confirm_step_1">%s앱을 삭제하시겠습니까?</string>
     <string name="active_input_method_subtypes">입력 방법</string>
     <string name="anonymous_source_continue">계속</string>
     <string name="battery_info_status_charging_lower">충전중</string>

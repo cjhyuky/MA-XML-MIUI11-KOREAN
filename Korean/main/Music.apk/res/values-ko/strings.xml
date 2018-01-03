@@ -41,7 +41,7 @@
     <string name="wifi_required_title">이 파일을 다운로드 하시려면 Wi-Fi에 연결하셔야 합니다.</string>
     <string name="wifi_required_body" formatted="false">"귀하는 Wi-Fi를 사용하여 %s 의 다운로드를 완료하셔야 합니다. 
 
-%s 을(를) 탭하여 나중에 Wi-Fi에 연결되었을때 다운로드를 시작할 수 있습니다."</string>
+%s 항목을 탭하여 나중에 Wi-Fi에 연결되었을때 다운로드를 시작할 수 있습니다."</string>
     <string name="download_no_application_title">파일 열기 실패</string>
     <string name="download_percent">%d%%</string>
     <string name="notification_need_wifi_for_size">파일이 너무 큽니다. Wi-Fi 다운로드가 필요합니다.</string>
@@ -422,7 +422,7 @@
     <string name="set_as_ring">벨소리로 설정</string>
     <string name="ringtone_not_support">이 음악의 형식은 지원되지 않습니다.</string>
     <string name="please_download_first">이 노래를 다운로드해야 벨소리로 설정할 수 있습니다</string>
-    <string name="set_ringtones_successful">%s이(가) 벨소리로 설정됨</string>
+    <string name="set_ringtones_successful">%s 노래가 벨소리로 설정됨</string>
     <string name="set_ringtones_failed">벨소리를 설정하지 못했습니다.</string>
     <string name="sleep_mode_canceled">취침모드가 종료되었습니다</string>
     <string name="priority_storage">외장 SD 카드 사용</string>
@@ -733,7 +733,7 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="upgrade_music_message">업데이트가 준비되었습니다. 재시작하여 업데이트하십시오.</string>
     <string name="next_time">나중에 실행</string>
     <string name="restart_immediate">재시작</string>
-    <string name="download_confirm_text">Mi 뮤직이 \"%s\"을(를) 다운로드 및 설치할 것입니다.</string>
+    <string name="download_confirm_text">Mi 뮤직이 \"%s\" 어플을 다운로드 및 설치할 것입니다.</string>
     <string name="download_confirm_button_text">설치</string>
     <string name="milink_unavaliable_please_update">Mi Link를 사용할 수 없습니다. MIUI를 업데이트하십시오.</string>
     <string name="song_exist_in_playlist">이 노래는 이미 재생 목록에 존재합니다.</string>
@@ -1000,7 +1000,7 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="search_album_and_lyric">위의 정보를 이용해 자동으로 노래 및 앨범 찾기</string>
     <string name="talkback_karaoke">노래방 실행</string>
     <string name="dialog_button_agree">동의</string>
-    <string name="dialog_delete_descript">%s을(를) 삭제하시겠습니까?</string>
+    <string name="dialog_delete_descript">%s 항목을 삭제하시겠습니까?</string>
     <string name="dialog_hint_network_error">네크워크에 연결할 수 없습니다.</string>
     <string name="high_quality">더 높음</string>
     <string name="my_music">내 음악</string>

@@ -420,7 +420,7 @@
     <string name="install_failed_missing_feature">애플리케이션에 필요한 기능을 기기에서 사용할 수 없습니다.</string>
     <string name="install_failed_replace_couldnt_delete">"이 기기에 있는 '%1$s'의 이전 버전을 삭제할 수 없습니다. 다시 시도해 보세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
     <string name="install_failed_title">앱을 설치할 수 없음</string>
-    <string name="install_invalid_install_location">"'%1$s'을(를) 기기의 기본 설치 위치에 설치할 수 없습니다. 기기의 저장공간을 확인한 후 다시 시도해 주세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
+    <string name="install_invalid_install_location">"'%1$s'앱을 기기의 기본 설치 위치에 설치할 수 없습니다. 기기의 저장공간을 확인한 후 다시 시도해 주세요. 문제가 지속되는 경우 &lt;a href=%3$s>문제해결을 위한 도움을 받으세요&lt;/a>(오류 코드: %2$d)."</string>
     <string name="install_parse_failed_bad_certificates">패키지 파일이 올바르게 서명되지 않았습니다.</string>
     <string name="install_parse_failed_mismatched_certificates">패키지 파일이 올바르게 서명되지 않았습니다. 이전 앱 사본을 제거하고 다시 시도하세요.</string>
     <string name="installed_list_state">설치된 항목</string>
