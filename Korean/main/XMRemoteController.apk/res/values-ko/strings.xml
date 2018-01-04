@@ -1082,7 +1082,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_account_set_password_prompt">다음에 로그인할 계정의 비밀번호를 설정합니다.</string>
     <string name="passport_account_set_password_title">비밀번호 설정</string>
     <string name="passport_adding_account">계정 추가중…</string>
-    <string name="passport_confirm_recycle_account_msg">"<font color=Red>경고</font> %s 번호는 통신사에서 번호 재사용이 되었고, 이 번호와 관련된 Mi 계정이 있습니다. 당신의 번호가 맞습니까?"</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;경고&lt;/font&gt; %s 번호는 통신사에서 번호 재사용이 되었고, 이 번호와 관련된 Mi 계정이 있습니다. 당신의 번호가 맞습니까?"</string>
     <string name="passport_continue">계속</string>
     <string name="passport_error_auth_fail">세션이 만료되었습니다. 다음에 다시 로그인해주세요.</string>
     <string name="passport_error_no_password_user">"아직 비밀번호를 설정하지 않았습니다. SMS를 이용하여 로그인해주세요. "</string>
