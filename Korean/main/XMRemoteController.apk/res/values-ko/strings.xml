@@ -1090,7 +1090,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_error_verify_activator_phone_title">"전화 번호를 확인할 수 없습니다."</string>
     <string name="passport_get_innetdate_agree">확인</string>
     <string name="passport_get_innetdate_disagree">아니요</string>
-    <string name="passport_get_innetdate_msg"><font color=Red>경고</font> %s 번호는 통신사에서 번호 재사용이 되었습니다. 언제 그 번호가 사용이 되었는지 확인하시겠습니까?</string>
+    <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;경고&lt;/font&gt; %s 번호는 통신사에서 번호 재사용이 되었습니다. 언제 그 번호가 사용이 되었는지 확인하시겠습니까?</string>
     <string name="passport_get_innetdate_title">사용된 시기 확인</string>
     <string name="passport_getting_activator_phone">SMS 정보를 가져오는 중…</string>
     <string name="passport_identification_expired">확인 코드가 만료되었습니다. 다시 시작하십시오.</string>
