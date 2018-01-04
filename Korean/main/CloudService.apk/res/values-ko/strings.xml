@@ -581,8 +581,8 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">연락처 백업,사진</string>
     <string name="micloud_main_head_menu_recycle_bin_title">휴지통</string>
-    <string name="micloud_main_head_menu_state_close">닫힘</string>
-    <string name="micloud_main_head_menu_state_open">열림</string>
+    <string name="micloud_main_head_menu_state_close">꺼짐</string>
+    <string name="micloud_main_head_menu_state_open">켜짐</string>
     <string name="micloud_manage_space_data">Mi 클라우드 데이터 관리</string>
     <string name="micloud_main_head_menu_state_unavailable">불가능</string>
     <string name="reading_status">상태 확인중…</string>
