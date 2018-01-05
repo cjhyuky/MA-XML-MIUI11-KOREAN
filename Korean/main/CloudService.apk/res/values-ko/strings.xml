@@ -274,8 +274,8 @@
     <string name="micloud_main_wait_wlan_charge_sleep">계속하려면 Wi-Fi에 연결을 하고, 화면을 끄고 기기를 완전히 충전하세요.</string>
     <string name="micloud_main_wait_wlan_charge">계속하려면 Wi-Fi에 연결을 하고 기기를 완전히 충전하세요.</string>
     <string name="micloud_main_wait_charge_sleep">계속하려면 화면을 끄고 기기를 완전히 충전하세요.</string>
-    <string name="micloud_main_wait_charge">충전기를 연결하기를 기다리는 중</string>
-    <string name="micloud_main_resume_sync_soon">곧 동기화 계속</string>
+    <string name="micloud_main_wait_charge">충전기를 연결해주세요</string>
+    <string name="micloud_main_resume_sync_soon">곧 동기화가 계속됩니다.</string>
     <string name="micloud_main_button_activate">활성화</string>
     <string name="micloud_main_button_authorize">권한 부여</string>
     <string name="micloud_detail_syncing">동기화 중</string>
