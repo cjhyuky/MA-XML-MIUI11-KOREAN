@@ -117,4 +117,16 @@
     <plurals name="Nassociate_songs">
         <item quantity="other">앨범 표지 및 가사 검색중 (%1$d/%2$d)</item>
     </plurals>
+    <plurals name="Ndownload_fee_alert_message">
+        <item quantity="other">원저작자의 요청으로 %d개의 음악은 무료 다운로드를 지원하지 않습니다.</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">%1$d개 음악 다운로드중</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"%1$d개 음악을 다운로드할 수 없습니다."</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d개 다운로드</item>
+    </plurals>
 </resources>
