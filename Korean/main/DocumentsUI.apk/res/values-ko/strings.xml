@@ -83,7 +83,7 @@
     <string name="delete_preparing">삭제 준비중…</string>
     <string name="downloads_label">다운로드</string>
     <string name="menu_copy_to_clipboard">복사</string>
-    <string name="menu_move">다음으로 이동 :</string>
+    <string name="menu_move">다른 폴더로 이동</string>
     <string name="menu_new_window">새 윈도우</string>
     <string name="menu_paste_from_clipboard">붙여넣기</string>
     <string name="menu_rename">이름 변경</string>
