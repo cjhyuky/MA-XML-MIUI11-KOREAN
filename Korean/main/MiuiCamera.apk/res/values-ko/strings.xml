@@ -674,7 +674,7 @@
     <string name="download_by_browser">브라우저로 다운로드하기</string>
     <string name="download_qq">QQ 다운로드</string>
     <string name="download_wechat">WeChat 다운로드</string>
-    <string name="effect_backdropper_disco">Disco</string>
+    <string name="effect_backdropper_disco">디스코</string>
     <string name="effect_backdropper_gallery">사용자 지정</string>
     <string name="effect_backdropper_space">사용 중</string>
     <string name="effect_background">백그라운드</string>
@@ -703,7 +703,7 @@
     <string name="group_by_faces">사람</string>
     <string name="group_by_tags">태그</string>
     <string name="group_by_time">시간</string>
-    <string name="hand_night_exit_button_text">Exit Hand-held Twilight</string>
+    <string name="hand_night_exit_button_text">황혼의 손 모드 해제</string>
     <string name="hdr_exit_button_text">HDR 모드 해제</string>
     <string name="height">세</string>
     <string name="import_complete">불러오기 성공</string>
@@ -738,7 +738,7 @@
     <string name="pref_camera_coloreffect_entry_yesteryear">작년</string>
     <string name="pref_camera_current_k_value">현재값</string>
     <string name="pref_camera_denoise_default">소리 켜짐</string>
-    <string name="pref_camera_denoise_title">Wavelet denoise mode</string>
+    <string name="pref_camera_denoise_title">Wavelet denoise 모드</string>
     <string name="pref_camera_exposuretime_entry_5000">1/5000s</string>
     <string name="pref_camera_focusmode_entry_continuous">CAF</string>
     <string name="pref_camera_hdr_type_title">HDR 유형</string>
