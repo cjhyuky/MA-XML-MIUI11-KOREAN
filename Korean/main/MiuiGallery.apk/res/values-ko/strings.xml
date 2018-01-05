@@ -303,7 +303,7 @@
     <string name="operation_send">전송</string>
     <string name="operation_edit">편집</string>
     <string name="operation_edit_video">편집</string>
-    <string name="operation_projection">투영</string>
+    <string name="operation_projection">프로젝터로 </string>
     <string name="operation_delete">삭제</string>
     <string name="operation_rename">이름 변경</string>
     <string name="operation_save">저장</string>
