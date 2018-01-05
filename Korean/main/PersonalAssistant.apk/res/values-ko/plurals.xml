@@ -51,4 +51,10 @@
     <plurals name="assistant_day">
         <item quantity="other">%d일 이내로</item>
     </plurals>
+    <plurals name="express_history_dialog_delete_message">
+        <item quantity="other">%s개 항목을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="express_history_menu_select_num">
+        <item quantity="other">%s개 항목 선택됨</item>
+    </plurals>
 </resources>
