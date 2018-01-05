@@ -9,4 +9,13 @@
     <plurals name="unsynced_records_count">
         <item quantity="other">%d개 동기화되지 않음</item>
     </plurals>
+    <plurals name="btn_clear_records">
+        <item quantity="other">%d개 파일 삭제</item>
+    </plurals>
+    <plurals name="choose_call_records_count">
+        <item quantity="other">%d개 항목</item>
+    </plurals>
+    <plurals name="notification_warning">
+        <item quantity="other">저장 공간 부족 (%d분 남음)</item>
+    </plurals>
 </resources>
