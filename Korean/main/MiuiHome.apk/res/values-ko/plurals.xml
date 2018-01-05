@@ -18,4 +18,7 @@
     <plurals name="delete_wallpapers_message">
         <item quantity="other">%1$d개 배경화면을 삭제하시겠습니까?</item>
     </plurals>
+    <plurals name="announce_for_drag">
+        <item quantity="other">%1$d개 항목 드래그</item>
+    </plurals>
 </resources>
