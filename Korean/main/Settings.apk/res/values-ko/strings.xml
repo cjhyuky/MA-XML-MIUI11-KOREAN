@@ -5108,7 +5108,7 @@ PIN 설정"</string>
     <string name="storage_wizard_init_internal_summary">앱 및 사진을 포함하여 이 기기에 모든 항목을 저장합니다. 타 기기와의 혼선을 방지하기 위하여 이 기기 전용으로 포맷을 해야 합니다.</string>
     <string name="storage_wizard_init_internal_title">내부 저장소로 사용</string>
     <string name="storage_wizard_init_title">^1를 설정하세요.</string>
-    <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;The move takes about ^1. It will free ^2 on ^3.&lt;/b&gt;</string>
+    <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;이 작업은 약 ^1정도 소요될 예정입니다.^3에서 ^2를 정리할 수 있습니다.&lt;/b&gt;</string>
     <string name="storage_wizard_migrate_confirm_next">이동</string>
     <string name="storage_wizard_migrate_confirm_title">지금 데이터 이동</string>
     <string name="storage_wizard_migrate_details">"이동 중에는
