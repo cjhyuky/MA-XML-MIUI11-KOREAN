@@ -8,10 +8,10 @@
     <string name="StopScan">StopScan</string>
     <string name="Connect">연결</string>
     <string name="Disconnect">연결 해제</string>
-    <string name="Register">register</string>
-    <string name="Unregister">unregister</string>
-    <string name="TestSender">Test Sender</string>
-    <string name="TestReceiver">Test Receiver</string>
+    <string name="Register">등록됨</string>
+    <string name="Unregister">등록되지 않음</string>
+    <string name="TestSender">시범 발신자</string>
+    <string name="TestReceiver">시범 수신자</string>
     <string name="TestP2pGo">Test P2pGroupOwner</string>
     <string name="TestP2pGc">Test P2pGroupClient</string>
     <string name="TestP2pLs">Test P2pLegacyStation</string>
