@@ -67,7 +67,7 @@
     <string name="sync_dspt_provision">"동기화하여 모든 기기에서 당신의 사진, 연락처, 노트, 기타 자료에 접근 할 수 있습니다. "</string>
     <string name="sync_dspt_provision3">". 설정에서 언제든지 이 기능을 켜거나 끌 수 있습니다.
 "</string>
-    <string name="sync_dspt_entrance_provision">"모든 기기의 사진, 연락처, 통화 기록, 메시지를 동기화하십시오. %s의 모든 브라우저에서 동기화하는 것에 접근하십시오. "</string>
+    <string name="sync_dspt_entrance_provision">"기기의 모든 사진, 연락처, 통화 기록, 메시지를 동기화하십시오. %s에서 동기화 된 항목을 보실 수 있습니다."</string>
     <string name="sync_dspt_entrance_provision_2">더 알아보기</string>
     <string name="sync_dspt_entrance_provision_confirm_close">사용 안 함</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Mi 클라우드 사용</string>
@@ -271,9 +271,9 @@
 보조 공간에 기타 Mi 계정을 사용해주십시오."</string>
     <string name="micloud_main_cancel_sync">동기화 취소</string>
     <string name="micloud_main_wait_wlan">Wi-Fi를 기다리는 중</string>
-    <string name="micloud_main_wait_wlan_charge_sleep">충전기를 연결하고 Wi-Fi 연결과 화면 꺼짐을 기다리는 중</string>
-    <string name="micloud_main_wait_wlan_charge">충전기를 연결하고 Wi-Fi 연결을 기다리는 중</string>
-    <string name="micloud_main_wait_charge_sleep">충전기를 연결하고 화면 끄기를 기다리는 중</string>
+    <string name="micloud_main_wait_wlan_charge_sleep">계속하려면 Wi-Fi에 연결을 하고, 화면을 끄고 기기를 완전히 충전하세요.</string>
+    <string name="micloud_main_wait_wlan_charge">계속하려면 Wi-Fi에 연결을 하고 기기를 완전히 충전하세요.</string>
+    <string name="micloud_main_wait_charge_sleep">계속하려면 화면을 끄고 기기를 완전히 충전하세요.</string>
     <string name="micloud_main_wait_charge">충전기를 연결하기를 기다리는 중</string>
     <string name="micloud_main_resume_sync_soon">곧 동기화 계속</string>
     <string name="micloud_main_button_activate">활성화</string>
@@ -433,7 +433,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="input_password_hint">비밀번호 입력</string>
     <string name="forget_password"><u>비밀번호 찾기</u></string>
     <string name="micloud_sync_alert_dialog_title">Mi 클라우드 사용</string>
-    <string name="micloud_sync_alert_dialog_message">모든 기기의 사진, 연락처, 메모, 앱 등을 동기화하십시오.</string>
+    <string name="micloud_sync_alert_dialog_message">기기의 모든 사진, 연락처, 메모, 앱 등을 동기화하십시오.</string>
     <string name="micloud_sync_alert_dialog_negative">취소</string>
     <string name="micloud_sync_alert_dialog_positive">확인</string>
     <string name="micloud_battery_low_notification_title">배터리 부족</string>
@@ -459,8 +459,8 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_notif_content_multi_user_error">같은 계정으로 기본 공간에 로그인 하셨습니다.</string>
     <string name="micloud_notif_title_dirty_data">항목을 동기화하지 않으셨습니다.</string>
     <string name="micloud_notif_content_dirty_data">자세히</string>
-    <string name="micloud_find_device_guide_title">&lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>에 로그인하여 기기의 위치 확인, 잠금 또는 제거를 하실 수 있습니다. 이는 기기 분실시 큰 도움이 될 것입니다. &lt;br />기기 분실를 분실하신 후 &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>.에서 Alipay, WeChat, QQ 등 주요 앱의 보안 센터에 정보를 전송하여 계정을 보호하실 수 있습니다.</string>
-    <string name="micloud_find_device_guide_content">이 서비스 활성화를 위해 SMS 메시지 발신이 요구됩니다. 이 메시지에 대한 요금이 추가될 것이며 SIM 카드를 바꾸실 시에 자동으로 기능 재활성화를 위해 메시지가 전송될 것입니다.</string>
+    <string name="micloud_find_device_guide_title">&lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>에 로그인하여 기기의 위치 확인, 잠금 또는 제거를 하실 수 있습니다. 이는 기기 분실시 큰 도움이 될 것입니다. &lt;br />기기를 분실하신 후 &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>.에서 Alipay, WeChat, QQ 등 주요 앱의 보안 센터에 정보를 전송하여 계정을 보호하실 수 있습니다.</string>
+    <string name="micloud_find_device_guide_content">이 서비스 활성화를 위해 SMS 메시지 발신이 요구됩니다. 이 메시지에 대한 요금이 부과될 것이며 SIM 카드를 바꾸실 시에 자동으로 기능 재활성화를 위해 메시지가 전송될 것입니다.</string>
     <string name="micloud_find_device_guide_button">기기 찾기 켜기</string>
     <string name="micloud_find_device_guide_progress">기기 찾기 켜는 중…</string>
     <string name="micloud_find_device_verify_button">기기 찾기 재활성화</string>
