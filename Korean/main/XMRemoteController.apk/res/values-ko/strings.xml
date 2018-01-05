@@ -1136,5 +1136,5 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="voice_tips_long_pressed">음성 컨트롤을 사용하려면 마이크를 가볍게 칩니다.</string>
     <string name="voice_tips_subtitle">"당신이 말할 수 있는 목록입니다."</string>
     <string name="voice_tips_title">휴대전화를 당신에게 향하게 하세요.</string>
-
+    <string name="local_apk">로컬 앱 APK</string>
 </resources>
