@@ -315,7 +315,7 @@
     <string name="tips_of_traffic_pack_threshold">당신이 트래픽 한계에 도달했을 때 더 많은 데이터를 구매해 주십시오</string>
     <string name="buy_immediately">구매</string>
     <string name="title_of_auto_launch_manage">자동 시작</string>
-    <string name="tips_of_auto_launch_manage">자동 시작으로 거의 사용하지 않는 앱을 방지하십시오</string>
+    <string name="tips_of_auto_launch_manage">사용하지 않는 앱이 자동시작되는 것을 방지하십시오</string>
     <string name="title_of_app_manage">앱</string>
     <string name="tips_of_app_manage">저장소를 절약하기 위해 사용하지 않는 앱 삭제</string>
     <string name="title_of_traffic_notification">데이터 상태창</string>
