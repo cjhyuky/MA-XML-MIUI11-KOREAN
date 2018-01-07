@@ -34,10 +34,10 @@
         <item quantity="other">%d곡의 비슷한 노래</item>
     </plurals>
     <plurals name="Nartists_count">
-        <item quantity="other">%d 명의 아티스트</item>
+        <item quantity="other">%d명의 아티스트</item>
     </plurals>
     <plurals name="Ngroups_count">
-        <item quantity="other">%d 개의 밴드</item>
+        <item quantity="other">%d개의 밴드</item>
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">%d개의 음악을 삭제하겠습니까?</item>
@@ -67,16 +67,16 @@
         <item quantity="other">%d곡 추가됨</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">%d 개 선택됨</item>
+        <item quantity="other">%d개 선택됨</item>
     </plurals>
     <plurals name="song_already_favorite">
         <item quantity="other">노래가 즐겨찾기에 추가 되었습니다.</item>
     </plurals>
     <plurals name="comment_count">
-        <item quantity="other">%d 댓글</item>
+        <item quantity="other">댓글 %d개</item>
     </plurals>
     <plurals name="reader_count">
-        <item quantity="other">%d 팔로워</item>
+        <item quantity="other">팔로워 %d명</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">%d개 파일을 삭제하시겠습니까?</item>

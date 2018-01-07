@@ -16,22 +16,22 @@
         <item quantity="other">%d개의 새로운 알림</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">풀충전까지 약 %d 분</item>
+        <item quantity="other">완전 충전까지 약 %d분</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">풀충전까지 약 %d 시간</item>
+        <item quantity="other">완전 충전까지 약 %d시간</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">풀충전까지 약 %1$d 시간 %2$d 분</item>
+        <item quantity="other">완전 충전까지 약 %1$d시간 %2$d분</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">약 %d 분 남음</item>
+        <item quantity="other">약 %d분 남음</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">약 %d 시간 남음</item>
+        <item quantity="other">약 %d시간 남음</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">약 %1$d 시간 %2$d 분 남음</item>
+        <item quantity="other">약 %1$d시간 %2$d분 남음</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%d 시간</item>

@@ -129,7 +129,7 @@
     <string name="user_locked_prompt">기기를 잠금 해제하여 연락처 접근</string>
     <string name="package_not_available">\"%s\" 를 사용할 수 없습니다.</string>
     <string name="select_voice_call_sim">SIM카드 선택</string>
-    <string name="msim_select_default_time_left">(%d 초)</string>
+    <string name="msim_select_default_time_left">(%d초)</string>
     <string name="select_sim_hint">SIM %2$d 사용할 수 없음, SIM %1$d 사용중.</string>
     <string name="select_one_sim_title">SIM %1$d만 사용 가능</string>
     <string name="can_not_use">사용할 수 없음</string>

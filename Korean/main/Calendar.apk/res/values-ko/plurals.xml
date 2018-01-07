@@ -26,7 +26,7 @@
         <item quantity="other">%1$d일 전 %2$s</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d 주 전</item>
+        <item quantity="other">%d주 전</item>
     </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s 일</item>
@@ -71,7 +71,7 @@
         <item quantity="other">%1$d 년</item>
     </plurals>
     <plurals name="work_days">
-        <item quantity="other">평일 %d 일</item>
+        <item quantity="other">평일 %d일</item>
     </plurals>
     <plurals name="N_remaining_events">
         <item quantity="other">남은 일정 %d개</item>

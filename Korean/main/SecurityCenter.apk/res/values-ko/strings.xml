@@ -491,9 +491,9 @@ SMS 전송"</string>
     <string name="lock_screen_traffic_warn_title">잠금화면 알림</string>
     <string name="lock_screen_traffic_notify_body">%1$s에서 %2$s 잠금, 데이터 %3$s 사용됨</string>
     <string name="timeshow_h">%.1f 시간</string>
-    <string name="timeshow_m">%d 분</string>
-    <string name="timeshow_s">%d 초</string>
-    <string name="timeshow_h_int">%d 시간</string>
+    <string name="timeshow_m">%d분</string>
+    <string name="timeshow_s">%d초</string>
+    <string name="timeshow_h_int">%d시간</string>
     <string name="lock_screen_traffic_guide_notification_title">탭하여 데이터 사용량 관리</string>
     <string name="lock_screen_traffic_guide_notification_summary">잠금화면에서 %s 사용됨</string>
     <string name="lock_screen_traffic_purchase_textview">모바일 데이터 구매</string>
@@ -2156,7 +2156,7 @@ SMS 전송"</string>
     <string name="power_consume_total_software">앱: %1$d%%</string>
     <string name="power_consume_total_hardware">하드웨어: %1$d%%</string>
     <string name="start_tc_button">보정</string>
-    <string name="net_booster_expire_notification_tip">네트워크 스피드 부스트 %d d 남음. 문제가 생기면 새로고침하세요.</string>
+    <string name="net_booster_expire_notification_tip">네트워크 스피드 부스트 %d 남음. 문제가 생기면 새로고침하세요.</string>
     <string name="status_bar_network_flow_content">오늘: %1$s 남음: %2$s</string> 
     <string name="status_bar_network_flow_content_not_setting">오늘: %1$s 이번달: %2$s</string> 
     <string name="status_bar_network_flow_exceed_content">오늘: %1$s 이번달 남음: %2$s</string> 

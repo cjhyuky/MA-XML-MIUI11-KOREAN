@@ -3177,7 +3177,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="virus_scan_app_continue">스캔 계속</string>
     <string name="virus_scan_app_uninstall">%d개 제거됨</string>
     <string name="virus_scan_app_force_stop">스캔 일시정지됨</string>
-    <string name="virus_scan_app_find_risk">%d 위험 발견</string>
+    <string name="virus_scan_app_find_risk">위험 %d개 발견</string>
     <string name="virus_scan_app_scan_finish">스캔 완료</string>
     <string name="virus_scan_app_no_risk">위험 발견되지 않음</string>
     <string name="virus_scan_app_is_stop_scan">스캔을 중지하시겠습니까?</string>
@@ -3360,7 +3360,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="private_gallery_need_to_unlock">비밀번호 필요</string>
     <string name="private_gallery_reset_by_account">비밀번호를 재설정하려면 Mi 계정에 로그인하십시오.</string>
     <string name="private_gallery_recording_intro_header">잠금 해제 패턴 그리기:</string>
-    <string name="lockpassword_pin_fixed_length">핀은 %d 자여야 합니다.</string>
+    <string name="lockpassword_pin_fixed_length">핀은 %d자여야 합니다.</string>
     <string name="lockpassword_confirm_for_second_user">보조 공간 비밀번호 승인</string>
     <string name="lockpassword_choose_for_second_user">보조 공간 비밀번호 설정</string>
     <string name="lockpassword_choose_your_password_second_space">"보조 공간을 위한
@@ -4868,7 +4868,7 @@ PIN 설정"</string>
     <string name="notification_listener_disable_warning_summary">%1$s의 알림 권한을 끌 경우, 방해 금지 모드도 해제될 수 있습니다.</string>
     <string name="notification_suggestion_summary">알림 컨텐츠 보이거나 숨기기</string>
     <string name="notification_suggestion_title">잠금 화면 알림 제어</string>
-    <string name="notification_summary_level">%d 단계</string>
+    <string name="notification_summary_level">%d단계</string>
     <string name="notification_summary_none">모든 앱들의 전송 허용</string>
     <string name="notifications_disabled">차단됨</string>
     <string name="notifications_enabled">표준</string>
@@ -5377,7 +5377,7 @@ PIN 설정"</string>
     <string name="zen_mode_priority_settings_title">우선 순위는</string>
     <string name="zen_mode_reminders">미리 알림</string>
     <string name="zen_mode_repeat_callers">발신자 반복</string>
-    <string name="zen_mode_repeat_callers_summary">같은 사람이 %d 분 동안 전화를 하면</string>
+    <string name="zen_mode_repeat_callers_summary">같은 사람이 %d분 동안 전화를 하면</string>
     <string name="zen_mode_rule_name">규칙 이름</string>
     <string name="zen_mode_rule_name_hint">규칙 이름 입력</string>
     <string name="zen_mode_rule_name_warning">이미 사용중인 규칙 이름</string>

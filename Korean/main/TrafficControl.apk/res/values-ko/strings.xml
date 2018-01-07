@@ -488,7 +488,7 @@
   <string name="v2_vpn_not_supported_line1">Opera Max가 VPN 채널 생성을 못하여 데이터를 절약할 수 없습니다.</string>
   <string name="v2_vpn_reminder_generic">모바일 데이터를 최대 50%까지 절약하려면 Opera Max에 연결하세요.</string>
   <string name="v2_vpn_warning">Android에서 이 옵션을 체크 표시하면 Opera Max로 이동하여 장치가 재부팅될 때마다 연결해야 합니다.</string>
-  <string name="v2_week_number">%d 주</string>
+  <string name="v2_week_number">%d주</string>
   <string name="v2_what_are_passes">앱 패스가 무엇입니까?</string>
   <string name="v2_wifi_access">Wi‑Fi 액세스</string>
   <string name="v2_wifi_data_used">Wi‑Fi 데이터가 사용됨</string>

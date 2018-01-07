@@ -436,7 +436,7 @@
     <string name="match_voh_intro_open">프로젝터 스위치가 켜지면 손을 떼십시오</string>
     <string name="match_vol_dec">볼륨이 줄여집니까?</string>
     <string name="match_vol_inc">볼륨이 높여집니까?</string>
-    <string name="max_enter">최대 %d 문자까지 포함할 수 있습니다.</string>
+    <string name="max_enter">최대 %d문자까지 포함할 수 있습니다.</string>
     <string name="maybe_is">확인:</string>
     <string name="menu">메뉴</string>
     <string name="mi_account">Mi 계정</string>
