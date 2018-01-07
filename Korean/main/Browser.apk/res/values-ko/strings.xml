@@ -192,7 +192,7 @@
   <string name="create_qr_code">QR 코드</string>
   <string name="current_version_pad">패드</string>
   <string name="current_version_pc">데스크탑</string>
-  <string name="current_version_phone">스마트폰</string>
+  <string name="current_version_phone">휴대전화</string>
   <string name="custom_head_card_text">"어떤 멋진일이 생길거라고
 항상 믿고 있습니다."</string>
   <string name="custom_head_card_text_incognito">"귀하는 익명 상태입니다!
@@ -264,7 +264,7 @@
   <string name="download_no_sdcard_dlg_msg">%s를 다운로드하려면 SD 카드가 필요합니다.</string>
   <string name="download_no_sdcard_dlg_title">SD 카드 없음</string>
   <string name="download_pending">다운로드 시작 중…</string>
-  <string name="download_phone_tip">스마트폰</string>
+  <string name="download_phone_tip">휴대전화</string>
   <string name="download_router_tip">Mi 공유기로 다운로드</string>
   <string name="download_sdcard_busy_dlg_msg">SD 카드가 사용 중입니다. 다운로드를 허용하려면 드롭 다운 메뉴에서 USB 저장소를 끄십시오.</string>
   <string name="download_sdcard_busy_dlg_title">SD 카드 사용 불가</string>
@@ -539,7 +539,7 @@
   <string name="pref_general_title">일반</string>
   <string name="pref_key_gesture_title">버튼 &amp; 제스쳐</string>
   <string name="pref_nav_mode_summary_pad">패드</string>
-  <string name="pref_nav_mode_summary_phone">스마트폰</string>
+  <string name="pref_nav_mode_summary_phone">휴대전화</string>
   <string name="pref_nav_mode_title">브라우저 모드</string>
   <string name="pref_notifications_hint">알림</string>
   <string name="pref_notifications_receive">알림</string>

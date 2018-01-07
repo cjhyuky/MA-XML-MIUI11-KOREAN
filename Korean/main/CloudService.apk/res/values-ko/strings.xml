@@ -16,7 +16,7 @@
     <string name="search_cloudbackup_pref_path">Mi 계정/Mi 클라우드/기기 백업</string>
     <string name="app_name">Mi 클라우드</string>
     <string name="sync_item_sms_title">메시지 동기화</string>
-    <string name="sync_item_sms_summary">이 스마트폰에서 주고 받은 메시지 동기화</string>
+    <string name="sync_item_sms_summary">이 휴대전화에서 주고 받은 메시지 동기화</string>
     <string name="sub_sync_item_sms_title_wifi_only">Wi-Fi만 사용하여 MMS 동기화</string>
     <string name="sub_sync_item_sms_summary">Wi-Fi 접속 시에만 사진, 오디오 또는 기타 미디어가 포함된 메시지 동기화</string>
     <string name="pref_title_sync_contacts_title">주소록 동기화</string>
@@ -127,7 +127,7 @@
     <string name="find_device_success_title">기기 찾기</string>
     <string name="find_device_notice_p1">이동</string>
     <string name="find_device_notice_p2">i.mi.com</string>
-    <string name="find_device_notice_p3">"스마트폰 위치 찾기, 잠그기, 또는 복원.
+    <string name="find_device_notice_p3">"휴대전화 위치 찾기, 잠그기, 또는 복원.
  SIM 카드를 교체하면, 이 기능을 다시 활성화하기 위해서 또다른 SMS 메시지가 전송됩니다."</string>
     <string name="i_know">확인</string>
     <string name="find_device_disabled_title">기기 찾기 꺼져 있음</string>

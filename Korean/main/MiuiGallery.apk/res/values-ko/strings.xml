@@ -378,7 +378,7 @@
     <string name="confirm_download_video_message">이 동영상을 보기 전에 다운로드를 완료해야 합니다. Wi-Fi가 사용 가능해지면 다운로드가 다시 시작됩니다.</string>
     <string name="download_tip">다운로드</string>
     <string name="video_not_exist">동영상이 존재하지 않습니다.</string>
-    <string name="projection_local_mobile">이 스마트폰</string>
+    <string name="projection_local_mobile">이 휴대전화</string>
     <string name="projection_multi_title">기기</string>
     <string name="projection_single_title">%s에게 전달됨</string>
     <string name="projection_checkbox_text">이 화면 기억</string>

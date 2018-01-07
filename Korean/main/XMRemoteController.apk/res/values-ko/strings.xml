@@ -260,7 +260,7 @@
     <string name="gesture_pad_first_line_tips">기기에서 음량을 조절 하려면 음량 버튼을 사용하세요</string>
     <string name="gesture_pad_orietaion_tips">슬라이드로 어느 방향이든지 이동 합니다. 확인을 누르세요.</string>
     <string name="gesture_pad_sencond_line_tips">· 메뉴를 보려면 화면 중앙을 탭 &amp; 길게 누르세요. 위, 아래로 슬라이드하여 음량을 조절합니다.</string>
-    <string name="gesture_pad_vol_tips">스마트폰의 음량 버튼을 사용해서 연결 된 기기의 음량을 조절하십시오</string>
+    <string name="gesture_pad_vol_tips">휴대전화의 음량 버튼을 사용해서 연결 된 기기의 음량을 조절하십시오</string>
     <string name="get_backup_failed">수정 실패, 다시 시도</string>
     <string name="get_backup_succeed">복구 성공. 전체: %1$d | 현재: %2$d| 복구됨: %3$d</string>
     <string name="get_data_fail_tips">데이터 불러오기 실패. 다시 시도해주십시오.</string>
@@ -977,7 +977,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_downlink_reg">전화번호를 사용하여 계정 생성</string>
     <string name="passport_reg_using_phone_number_prompt">전화번호를 이용하여 계정 생성</string>
     <string name="passport_access_denied">접근 거부됨</string>
-    <string name="passport_wait_for_sms_prompt">지금 다시 시작하시겠습니까? 스마트폰이 통신사 네트워크의 범위 내에 있을 경우 인증 메시지 도착까지 약 10분 정도 걸릴 수 있습니다.</string>
+    <string name="passport_wait_for_sms_prompt">지금 다시 시작하시겠습니까? 휴대전화가 통신사 네트워크의 범위 내에 있을 경우 인증 메시지 도착까지 약 10분 정도 걸릴 수 있습니다.</string>
     <string name="passport_error_empty_captcha_code">캡차 코드를 입력</string>
     <string name="passport_get_verify_code">코드 가져오기</string>
     <string name="passport_re_get_verify_code">코드 다시 가져오기</string>

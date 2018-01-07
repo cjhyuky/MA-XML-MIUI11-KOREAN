@@ -277,8 +277,8 @@
     <string name="contact_edit_set_black_list_receive">이 발신인의 이메일 휴지통으로 이동(새로운 메일만)</string>
     <string name="contact_edit_set_black_list_receive_summary">수신 또는 참조 영역의 수신자가 포함된 메일 삭제</string>
     <string name="contact_edit_set_black_list_title">차단 목록에 추가</string>
-    <string name="contact_edit_set_phone_contact">스마트폰 연락처 편집</string>
-    <string name="contact_edit_title_phone_contact">스마트폰 연락처 목록</string>
+    <string name="contact_edit_set_phone_contact">휴대전화 연락처 편집</string>
+    <string name="contact_edit_title_phone_contact">휴대전화 연락처 목록</string>
     <string name="contact_in_filter_title">보낸 사람</string>
     <string name="contact_info_string">%1$s의 연락처 정보 표시</string>
     <string name="contact_info_string_default">연락처 정보 표시</string>

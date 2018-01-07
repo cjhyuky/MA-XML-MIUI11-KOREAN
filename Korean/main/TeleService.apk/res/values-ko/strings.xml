@@ -291,7 +291,7 @@
     <string name="no_vm_number">음성 메일 번호 누락</string>
     <string name="no_vm_number_msg">SIM 카드에 저장된 음성 메일 번호가 없습니다.</string>
     <string name="add_vm_number_str">번호 추가</string>
-    <string name="puk_unlocked">SIM 카드가 잠금 해제되었습니다. 스마트폰 잠금 해제 중…</string>
+    <string name="puk_unlocked">SIM 카드가 잠금 해제되었습니다. 휴대전화 잠금 해제 중…</string>
     <string name="label_ndp">SIM 네트워크 잠금 해제 PIN</string>
     <string name="sim_ndp_unlock_text">잠금 해제</string>
     <string name="sim_ndp_dismiss_text">무시</string>
@@ -737,14 +737,14 @@
     <string name="managed_roaming_title">로밍 관리됨</string>
     <string name="managed_roaming_title_sub">로밍 관리됨 (SUB%d)</string>
     <string name="managed_roaming_dialog_content">제한된 네트워크 서비스를 발견했습니다, 사용가능한 네트워크만 보시겠습니까?</string>
-    <string name="ota_title_activate">스마트폰 활성화</string>
-    <string name="ota_touch_activate">"스마트폰 서비스를 활성화하려면 특별한 통화를 해야 합니다. 
+    <string name="ota_title_activate">휴대전화 활성화</string>
+    <string name="ota_touch_activate">"휴대전화 서비스를 활성화하려면 특별한 통화를 해야 합니다. 
 
-“활성화”를 누른 후, 스마트폰 활성화를 위해 제공되는 지시사항을 잘 들으십시오."</string>
+“활성화”를 누른 후, 휴대전화 활성화를 위해 제공되는 지시사항을 잘 들으십시오."</string>
     <string name="ota_hfa_activation_title">… 활성화 중</string>
     <string name="ota_hfa_activation_dialog_message">모바일 데이터 서비스를 활성화하는 데에 최대 5분 정도 걸릴 수 있습니다.</string>
     <string name="ota_skip_activation_dialog_title">활성화를 건너뛰시겠습니까?</string>
-    <string name="ota_skip_activation_dialog_message">활성화를 건너뛰면 통화를 하거나 모바일 데이터 네트워크에 연결할 수 없습니다(Wi-Fi 네트워크에 연결할 수 있다 해도). 스마트폰이 활성화될 때까지 스마트폰을 켤 때마다 스마트폰을 활성화하라는 요청을 받게 됩니다.</string>
+    <string name="ota_skip_activation_dialog_message">활성화를 건너뛰면 통화를 하거나 모바일 데이터 네트워크에 연결할 수 없습니다(Wi-Fi 네트워크에 연결할 수 있다 해도). 휴대전화가 활성화될 때까지 휴대전화를 켤 때마다 휴대전화를 활성화하라는 요청을 받게 됩니다.</string>
     <string name="ota_skip_activation_dialog_skip_label">건너뛰기</string>
     <string name="ota_activate">활성화</string>
     <string name="ota_title_activate_success">휴대폰 활성화에 성공했습니다.</string>
@@ -754,7 +754,7 @@
     <string name="ota_progress">휴대전화가 프로그래밍되는 동안 기다리십시오.</string>
     <string name="ota_failure">프로그래밍 실패</string>
     <string name="ota_successful">휴대폰이 활성화되었습니다, 서비스가 시작되기까지 최대 15분 정도 걸릴 수 있습니다.</string>
-    <string name="ota_unsuccessful">"스마트폰이 활성화되지 않았습니다. 인터넷이 원활한 지역(창가 또는 실외) 다시 시도하십시오. 더 많은 옵션을 원하시면 고객 센터로 문의하십시오."</string>
+    <string name="ota_unsuccessful">"휴대전화가 활성화되지 않았습니다. 인터넷이 원활한 지역(창가 또는 실외) 다시 시도하십시오. 더 많은 옵션을 원하시면 고객 센터로 문의하십시오."</string>
     <string name="ota_spc_failure">초과 SPC 실패</string>
     <string name="ota_call_end">뒤로</string>
     <string name="ota_try_again">재시도</string>
@@ -797,7 +797,7 @@
     <string name="status_hint_label_wifi_call">Wi-Fi 통화</string>
     <string name="emergency_action_launch_hint">다시 터치해서 열기</string>
     <string name="message_decode_error">메시지 해석에 오류가 발생</string>
-    <string name="callFailed_cdma_activation">SIM 카드가 서비스를 활성화 했으며 스마트폰의 로밍 기능이 업데이트되었습니다.</string>
+    <string name="callFailed_cdma_activation">SIM 카드가 서비스를 활성화 했으며 휴대전화의 로밍 기능이 업데이트되었습니다.</string>
     <string name="contactScreen">SIM 연락처 추가/수정</string>
     <string name="exportContactScreen">SIM에 휴대폰 연락처 내보내기</string>
     <string name="addSimEntries">SIM 연락처 추가</string>

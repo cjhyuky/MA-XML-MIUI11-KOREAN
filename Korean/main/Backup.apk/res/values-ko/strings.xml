@@ -46,7 +46,7 @@
     <string name="restore_contacts_hit">복원 된 데이터를 보시려면 Mi 계정에 로그인 하셔야 합니다.</string>
     <string name="restore_telephony_hit">복원 작업을 위해 폰 앱을 재시작합니다.</string>
     <string name="restore_launcher_layout_hit">런처 설정 복원</string>
-    <string name="settings_summary">스마트폰 및 메시지 설정</string>
+    <string name="settings_summary">휴대전화 및 메시지 설정</string>
     <string name="camera_summary">카메라 설정(사진 제외)</string>
     <string name="account_summary">Google 계정, Mi 계정 및 사용자 데이터 백업</string>
     <string name="cloud_app_name">Mi 클라우드 백업</string>
@@ -215,7 +215,7 @@
     <string name="never">안 함</string>
     <string name="every_day">매일</string>
     <string name="select_storage_location">백업 위치 선택</string>
-    <string name="current_phone_location">스마트폰</string>
+    <string name="current_phone_location">휴대전화</string>
     <string name="current_pad_location">패드</string>
     <string name="xiaomi_router_location">Mi 공유기 %s</string>
     <string name="xiaomi_router">Mi 공유기</string>

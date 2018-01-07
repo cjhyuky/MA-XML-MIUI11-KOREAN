@@ -129,9 +129,9 @@
     <string name="enable_now">켜기</string>
     <string name="dont_enable">끄기</string>
     <string name="user_notice_title">주의</string>
-    <string name="user_notice_identify_summary_format">귀하의 스마트폰은 Wi-Fi가 연결되었을 때 불필요한 통화를 차단하는 MIUI의 데이터베이스를 사용하게 됩니다. 이 서비스를 사용하시려면 저희의 %1$s와(과) %2$s에 동의하셔야 합니다.</string>
+    <string name="user_notice_identify_summary_format">귀하의 휴대전화는 Wi-Fi가 연결되었을 때 불필요한 통화를 차단하는 MIUI의 데이터베이스를 사용하게 됩니다. 이 서비스를 사용하시려면 저희의 %1$s와(과) %2$s에 동의하셔야 합니다.</string>
     <string name="user_notice_yp_detail_summary_format">발신자 ID의 일부 정보가 오래되었습니다. 업데이트를 원하십니까? 이 서비스를 사용하시려면 저희의 %1$s와(과) %2$s에 동의하셔야 합니다.</string>
-    <string name="user_notice_identify_summary_format_cta">귀하의 스마트폰은 Wi-Fi가 연결되었을 때 불필요한 통화를 차단하는 MIUI의 데이터베이스를 사용하게 됩니다. 이 서비스를 사용하시려면 저희의 %1$s와(과) %2$s에 동의하셔야 합니다.</string>
+    <string name="user_notice_identify_summary_format_cta">귀하의 휴대전화는 Wi-Fi가 연결되었을 때 불필요한 통화를 차단하는 MIUI의 데이터베이스를 사용하게 됩니다. 이 서비스를 사용하시려면 저희의 %1$s와(과) %2$s에 동의하셔야 합니다.</string>
     <string name="user_notice_yp_detail_summary_format_cta">발신자 ID의 일부 정보가 오래되었습니다. 업데이트를 원하십니까? 이 서비스를 사용하시려면 저희의 %1$s와(과) %2$s에 동의하셔야 합니다.</string>
     <string name="about_smart_antispam_summary">이 기능에 관하여</string>
     <string name="about_fraud_num_online_identification">이 기능에 관하여</string>
@@ -145,7 +145,7 @@
     <string name="upload_and_verify_fraud_num_off">불필요한 통화 정보 공유</string>
     <string name="turn_on_phone_event_dialog_title">발신자 ID 데이터베이스 업데이트</string>
     <string name="turn_on_phone_event_title">서비스 정보 수신</string>
-    <string name="turn_on_phone_event_summary">서비스 번호의 스마트폰 상태 업로드</string>
+    <string name="turn_on_phone_event_summary">서비스 번호의 휴대전화 상태 업로드</string>
     <string name="turn_off_hint_title">발신자 ID를 끄시겠습니까?</string>
     <string name="turn_off_phone_event_hint">끄신 후에는 알 수 없는 번호에 대한 표기 정보를 볼 수 없습니다.</string>
     <string name="turn_off_smart_antispam_hint">끄신 후에는 알 수 없는 번호의 수신 통화 표기 정보를 볼 수 없습니다.</string>
@@ -266,7 +266,7 @@
     <string name="express_select_addressee">수신</string>
     <string name="express_region_pick_title">지역 선택</string>
     <string name="express_address_warning_no_name">이름 필요</string>
-    <string name="express_address_warning_no_phone">스마트폰 요구됨</string>
+    <string name="express_address_warning_no_phone">휴대전화 요구됨</string>
     <string name="express_address_warning_no_area">지역 필요</string>
     <string name="express_address_warning_no_full_address">주소 필요</string>
     <string name="exapress_save_address_to_contact">연락처에 주소 저장</string>

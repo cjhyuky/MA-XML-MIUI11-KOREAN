@@ -294,7 +294,7 @@
     <string name="description_attribution_su_st_lt">%3$s에 따라 &lt;a href=%1$s>%2$s&lt;/a> 제공</string>
     <string name="description_attribution_su_st_lu_lt">&lt;a href=%3$s>%4$s&lt;/a>에 따라 &lt;a href=%1$s>%2$s&lt;/a> 제공</string>
     <string name="device_group_other">기타 기기</string>
-    <string name="device_group_smartphone">스마트폰</string>
+    <string name="device_group_smartphone">휴대전화</string>
     <string name="device_last_accessed_time">최근 사용: %s</string>
     <string name="dial_media_route_provider_service">Google 뮤직의 다이얼 미디어 경로 제공업체</string>
     <string name="dialog_delete_message">모든 기기의 Google Play 라이브러리에서 이 음악을 더 이상 사용할 수 없습니다.</string>
@@ -814,7 +814,7 @@
     <string name="stream_error_another_stream_being_played_notification">다른 기기에서 듣고 있습니다.</string>
     <string name="stream_error_another_stream_being_played_notification_short">음악이 일시 중지되었습니다.</string>
     <string name="stream_error_another_stream_being_played_short">음악이 일시 중지되었습니다.</string>
-    <string name="stream_error_device_not_authorized">뮤직 라이브러리는 최대 5대 스마트폰과 총 10개 기기에서 사용할 수 있습니다. 다른 기기를 추가하려면 기존의 기기 중 하나를 승인 해제해야 합니다.</string>
+    <string name="stream_error_device_not_authorized">뮤직 라이브러리는 최대 5대 휴대전화와 총 10개 기기에서 사용할 수 있습니다. 다른 기기를 추가하려면 기존의 기기 중 하나를 승인 해제해야 합니다.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">기기 관리</string>
     <string name="stream_error_device_not_authorized_not_now_button">나중에 하기</string>

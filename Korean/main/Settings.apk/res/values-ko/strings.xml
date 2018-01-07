@@ -1003,7 +1003,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="restore_default_apn_completed">기본 APN 설정을 초기화했습니다.</string>
     <string name="device_reset_title">기기 재설정</string>
     <string name="master_clear_title">공장 초기화</string>
-    <string name="master_clear_summary">스마트폰의 모든 데이터 삭제</string>
+    <string name="master_clear_summary">휴대전화의 모든 데이터 삭제</string>
     <string name="master_clear_desc">공장 초기화하면 휴대전화 <b>내부 저장소의 모든 데이터가 삭제됩니다.</b>"
 
 "<li>Google 계정</li>"
@@ -3006,7 +3006,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="batch_delete_saved_networks">선택한 모든 네트워크 삭제</string>
     <string name="unlock_set_enter_system">화면 잠금 건너뛰기</string>
     <string name="unlock_set_enter_system_summary">절전 모드 해제 시 홈 화면으로 바로 이동</string>
-    <string name="forget_wifi_message">귀하의 스마트폰이 이 네트워크에 자동으로 연결하는 것을 중지시킵니다.</string>
+    <string name="forget_wifi_message">귀하의 휴대전화가 이 네트워크에 자동으로 연결하는 것을 중지시킵니다.</string>
     <string name="button_disconnect_network">네트워크와 연결 끊김</string>
     <string name="no_nearby_wifi">네트워크 발견되지 않음</string>
     <string name="manually_add_network">네트워크 추가</string>
@@ -3226,7 +3226,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="msd_install_status_undo">드라이버 설치</string>
     <string name="msd_install_status_done">드라이버 설치됨</string>
     <string name="msd_driver_download">드라이버 다운로드</string>
-    <string name="msd_driver_download_xp">Windows: Mi 폰 매니저를 다운로드하여 스마트폰을 USB 저장 장치로 사용하십시오.</string>
+    <string name="msd_driver_download_xp">Windows: Mi 폰 매니저를 다운로드하여 휴대전화를 USB 저장 장치로 사용하십시오.</string>
     <string name="msd_driver_download_xp_url">http://zhushou.mi.com/에서 드라이버 받기</string>
     <string name="msd_driver_download_mac">OSX: 드라이버를 다운로드하여 AndroidFileTransfer.dmg를 설치하십시오.</string>
     <string name="msd_driver_download_mac_url">http://www.android.com/filetransfer/에서 드라이버 받기</string>
@@ -3831,10 +3831,10 @@ PIN 설정"</string>
     <string name="crypt_keeper_content_title">기기 암호화</string>
     <string name="crypt_keeper_content">계정, 설정, 다운로드된 앱과 데이터, 미디어, 기타 파일 등을 암호화할 수 있습니다.</string>
     <string name="crypt_keeper_decrypt_methods_title">기기 암호화 해제</string>
-    <string name="crypt_keeper_decrypt_methods">스마트폰을 암호화 하신 후 화면 잠금을 설정하셨다면 (패턴, 숫자 PIN, 비밀번호), 매번 스마트폰을 켜실 때마다 화면 잠금 해제가 필요합니다. 단 한가지 비밀번호 해제 방법으로 공장 초기화 방법이 있습니다. 이 방법은 귀하의 모든 데이터를 삭제하게 될 것입니다.</string>
+    <string name="crypt_keeper_decrypt_methods">휴대전화를 암호화 하신 후 화면 잠금을 설정하셨다면 (패턴, 숫자 PIN, 비밀번호), 매번 휴대전화를 켜실 때마다 화면 잠금 해제가 필요합니다. 단 한가지 비밀번호 해제 방법으로 공장 초기화 방법이 있습니다. 이 방법은 귀하의 모든 데이터를 삭제하게 될 것입니다.</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">휴대전화를 암호화 하시면 재시작하실 때마다 암호 해제를 위해 비밀번호, PIN, 패턴을 입력하셔야 할 것입니다.</string>
     <string name="crypt_keeper_conditions_title">기기 암호화 정보</string>
-    <string name="crypt_keeper_conditions">암호화 과정에 한 시간 혹은 더 걸리게 됩니다. 시작하시기 전 스마트폰의 배터리가 과정을 진행하기에 충분한지 확인해 주십시오. 만약 중단된다면 부분 혹은 전체 데이터를 잃게 될 것입니다.</string>
+    <string name="crypt_keeper_conditions">암호화 과정에 한 시간 혹은 더 걸리게 됩니다. 시작하시기 전 휴대전화의 배터리가 과정을 진행하기에 충분한지 확인해 주십시오. 만약 중단된다면 부분 혹은 전체 데이터를 잃게 될 것입니다.</string>
     <string name="application_lock_name">앱 잠금</string>
     <string name="bug_report_settings">피드백</string>
     <string name="connecting_to_vpn">VPN에 연결 중</string>
@@ -5647,7 +5647,7 @@ PIN 설정"</string>
     <string name="gesture_setting_on">켜짐</string>
     <string name="hardware_revision">하드웨어 버전</string>
     <string name="installed">설치됨</string>
-    <string name="miui_master_clear_summary">스마트폰의 모든 데이터 삭제</string>
+    <string name="miui_master_clear_summary">휴대전화의 모든 데이터 삭제</string>
     <string name="model_info">모델</string>
     <string name="network_scorer_picker_none_preference">없음</string>
     <string name="night_display_auto_mode_never">아니오</string>
@@ -6330,7 +6330,7 @@ PIN 설정"</string>
     <string name="select_backup_item">항목 선택</string>
     <string name="select_storage_location">백업 위치 선택</string>
     <string name="service_stoped">서비스 중지 됨</string>
-    <string name="settings_summary">스마트폰 및 메시지 설정</string>
+    <string name="settings_summary">휴대전화 및 메시지 설정</string>
     <string name="sms_title">메시지</string>
     <string name="software_backup_info">앱 데이터</string>
     <string name="start_backup">백업</string>

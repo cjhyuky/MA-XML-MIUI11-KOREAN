@@ -535,7 +535,7 @@
     <string name="sim_card1">SIM 카드 1</string>
     <string name="sim_card2">SIM 카드 2</string>
     <string name="sim_card_cloud">%s개(Mi 메시지)</string>
-    <string name="sim_copy_to_phone_memory">스마트폰 메모리에 복사</string>
+    <string name="sim_copy_to_phone_memory">휴대전화 메모리에 복사</string>
     <string name="sim_delete">삭제</string>
     <string name="sim_empty">SIM 카드에 메시지 없음</string>
     <string name="sim_full_body">더 많은 공간을 확보하기 위해 일부 메시지를 삭제하십시오.</string>

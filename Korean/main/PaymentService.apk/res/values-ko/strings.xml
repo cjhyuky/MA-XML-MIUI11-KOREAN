@@ -33,7 +33,7 @@
     <string name="passport_send_too_many_code">이 번호로 너무 많은 인증 코드를 전송했습니다. 24시간 뒤에 다시 시도하십시오.</string>
     <string name="passport_restart_register_title">Mi 계정 만들기</string>
     <string name="passport_restart_register_prompt">계정을 생성하려면 다른 인증 메시지가 필요합니다.</string>
-    <string name="passport_wait_for_sms_prompt">지금 다시 시작하시겠습니까? 스마트폰이 통신사 네트워크의 범위 내에 있을 경우 인증 메시지 도착까지 약 10분 정도 걸릴 수 있습니다.</string>
+    <string name="passport_wait_for_sms_prompt">지금 다시 시작하시겠습니까? 휴대전화가 통신사 네트워크의 범위 내에 있을 경우 인증 메시지 도착까지 약 10분 정도 걸릴 수 있습니다.</string>
     <string name="passport_recycle_account_prompt">이 계정이 당신의 Mi 계정입니까?</string>
     <string name="passport_confirm_recycle_account">예</string>
     <string name="passport_reject_recycle_account">아니요</string>

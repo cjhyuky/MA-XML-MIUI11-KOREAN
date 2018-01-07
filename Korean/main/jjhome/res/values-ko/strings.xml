@@ -40,7 +40,7 @@
     <string name="text_simcard">SIM 카드: %d</string>
     <string name="title_activity_contact">연락처</string>
     <string name="title_activity_mms">메시지</string>
-    <string name="title_activity_phone">스마트폰</string>
+    <string name="title_activity_phone">휴대전화</string>
     <string name="phone_list_title">기록</string>
     <string name="phone_list_dial">다이얼 패드</string>
     <string name="dial_call">다이얼</string>
@@ -138,10 +138,10 @@
     <string name="contact_import_simcard_finding_hint">가져오는 중…</string>
     <string name="contact_import_simcard_hint">가져옴: %1$d/%2$d</string>
     <string name="contact_import_simcard_completed_hint">%1$d개 연락처 가져옴</string>
-    <string name="contact_import_simcard_completed_2_hint">이 연락처들이 모두 이미 스마트폰에 저장되어 있습니다.</string>
+    <string name="contact_import_simcard_completed_2_hint">이 연락처들이 모두 이미 휴대전화에 저장되어 있습니다.</string>
     <string name="contact_import_simcard_completed_3_hint">가져옴: %1$d | 가져올 수 없음: %2$d</string>
     <string name="contact_export_to_simcard_finding_hint">내보내는 중…</string>
-    <string name="contact_export_to_simcard_empty_hint">스마트폰에서 연락처를 찾지 못했습니다.</string>
+    <string name="contact_export_to_simcard_empty_hint">휴대전화에서 연락처를 찾지 못했습니다.</string>
     <string name="contact_export_to_simcard_hint">%1$d개 연락처 내보내는중</string>
     <string name="contact_export_to_simcard_completed_hint">내보내기 완료! %1$d개 연락처 내보냄</string>
     <string name="contact_export_to_simcard_completed_2_hint">SIM 카드에 충분한 공간 없음</string>
