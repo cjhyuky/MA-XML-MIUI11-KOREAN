@@ -200,12 +200,12 @@
     <string name="contact_call_duration_minute">%1$d분</string>
     <string name="contact_call_duration_minute_second">%1$d분 %2$d초</string>
     <string name="contact_call_duration_second">%1$d초</string>
-    <string name="contact_call_duration_hour">%1$d 시간</string>
+    <string name="contact_call_duration_hour">%1$d시간</string>
     <string name="contact_call_duration_hour_minute">%1$d시간 %2$d분</string>
     <string name="contact_call_miss_duration">부재중 전화</string>
     <string name="contact_call_today_time_format">오늘 HH:mm</string>
     <string name="contact_call_yesterday_time_format">어제 HH:mm</string>
-    <string name="contact_call_before_yesterday_time_format">M월d일 HH:mm</string>
+    <string name="contact_call_before_yesterday_time_format">M월 d일 HH:mm</string>
     <string name="contact_call_other_time_format_1">MM/dd</string>
     <string name="contact_call_other_time_format_2">yyyy-MM-dd</string>
     <string name="phone_record_title">통화 기록</string>
@@ -447,6 +447,6 @@ Jeejen 폰이 현재 사용 가능합니다."</string>
     <string name="settings_launcher_layout_qingchun_title">청소년 모드</string>
     <string name="settings_launcher_layout_qingchun_desc">기능이나 생산성을 우선으로 하는 사람을 위한 모드입니다.</string>
     <string name="settings_launcher_default_text">기본 홈 화면</string>
-    <string name="clock_year_format_4_1">yyyy년MM월dd일</string>
+    <string name="clock_year_format_4_1">yyyy년 MM월 dd일</string>
     <string name="menu_dialog_cancel_title">취소</string>
 </resources>

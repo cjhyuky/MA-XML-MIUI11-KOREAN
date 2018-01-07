@@ -125,7 +125,7 @@
     <string name="recording_quality_low">저품질</string>
     <string name="share_dialog_title">공유 방식</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-    <string name="record_list_category_title_format">yyyy년MM월</string>
+    <string name="record_list_category_title_format">yyyy년 MM월</string>
     <string name="recognition_error_stopped">식별 중지됨</string>
     <string name="recognition_error_cancel">취소됨</string>
     <string name="recognition_error_format">잘못된 오디오 포맷</string>

@@ -98,8 +98,7 @@
     <string name="status_bar_safepay_risk">결제 위험 요소 발견</string>
     <string name="status_bar_safepay_unknown">결제 환경을 확인할 수 없습니다</string>
     <string name="loading_desktop">잠시만 기다려주십시오…</string>
-    <string name="status_bar_date_format">"M월dd일
-EEEE"</string>
+    <string name="status_bar_date_format">"M월 dd일 EEEE"</string>
     <string name="status_bar_recent_guide_all">"위로 슬라이드하여 닫기
 아래로 슬라이드하여 잠그기"</string>
     <string name="status_bar_recent_guide_top">위로 슬라이드하여 닫기</string>
@@ -108,10 +107,10 @@ EEEE"</string>
     <string name="description_direction_up">%s하려면 위로 슬라이드</string>
     <string name="description_direction_left">%s하려면 왼쪽으로 슬라이드</string>
     <string name="description_target_search">검색</string>
-    <string name="status_bar_date_format_12">"M월dd일
+    <string name="status_bar_date_format_12">"M월 dd일
 EEEE"</string>
-    <string name="status_bar_clock_date_format">M월d일 EEEE</string>
-    <string name="status_bar_recent_memory_info1">%2$sB 중 %1$sB 사용 가능</string>
+    <string name="status_bar_clock_date_format">M월 d일 EEEE</string>
+    <string name="status_bar_recent_memory_info1">%2$sB중 %1$sB 사용 가능</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="accessibility_recent_task_exit">최근 닫음</string>
     <string name="accessibility_recent_task_memory_info">총 RAM: %2$s | 사용가능한 RAM: %1$s. 더블 탭하여 지우기.</string>

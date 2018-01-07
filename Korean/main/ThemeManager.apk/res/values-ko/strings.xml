@@ -107,7 +107,7 @@
     <string name="resource_trial_hours">(시험: %1$d시간)</string>
     <string name="resource_trial_days">(시험: %1$d일)</string>
     <string name="resource_trial_end_time">(%1$s까지 시험)</string>
-    <string name="resource_trial_end_time_format">MM월dd일 kk:mm</string>
+    <string name="resource_trial_end_time_format">MM월 dd일 kk:mm</string>
     <string name="resource_trial_fail_title">체험판 세션을 설정하지 못했습니다.</string>
     <string name="resource_trial_fail_message">시스템 시간이 정확하게 설정되었는지 확인하십시오.</string>
     <string name="resource_trial_fail_cancel">확인</string>

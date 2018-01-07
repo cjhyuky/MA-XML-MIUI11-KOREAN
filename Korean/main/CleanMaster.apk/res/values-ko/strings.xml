@@ -273,8 +273,8 @@
     <string name="no_network_btn">다시 시도</string>
     <string name="just_now">지금</string>
     <string name="yesterday">어제</string>
-    <string name="month_day_format">MM월dd일</string>
-    <string name="year_month_day_format">yyyy년MM월dd일</string>
+    <string name="month_day_format">MM월 dd일</string>
+    <string name="year_month_day_format">yyyy년 MM월 dd일</string>
     <string name="go_to">진행</string>
     <string name="promotion">Ad</string>
     <string name="recommended">추천</string>

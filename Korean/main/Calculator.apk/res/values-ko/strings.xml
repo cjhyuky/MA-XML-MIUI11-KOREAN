@@ -182,7 +182,7 @@
     <string name="commercial_loan">상업 대출</string>
     <string name="current_rate_remind_commercial" />
     <string name="day">일</string>
-    <string name="dateformat">yyyy년MM월dd일</string>
+    <string name="dateformat">yyyy년 MM월 dd일</string>
     <string name="current_rate_remind_fund" />
     <string name="fund" />
     <string name="fund_loan" />

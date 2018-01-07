@@ -822,7 +822,7 @@
   <string name="alipay_scan">스캐너</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="express_send_mms_format">%1$s로 발송함 | 운송장 번호: %2$s</string>
-  <string name="year_month_day_format">yyyy년MM월dd일</string>
+  <string name="year_month_day_format">yyyy년 MM월 dd일</string>
   <string name="express_inquiry_status_sign_out">거부됨</string>
   <string name="express_order_result">결과</string>
   <string name="express_inquiry_no_result">결과 없음</string>
