@@ -4688,7 +4688,7 @@ PIN 설정"</string>
     <string name="filter_with_domain_urls_apps">도메인 URL 포함</string>
     <string name="filter_work_apps">듀얼 앱</string>
     <string name="filter_write_settings_apps">시스템 설정을 변경할 수 없습니다.</string>
-    <string name="fingerprint_add_max">지문은 최대 %d 개 까지 설정 가능합니다.</string>
+    <string name="fingerprint_add_max">지문은 최대 %d개 까지 설정 가능합니다.</string>
     <string name="fingerprint_add_title">지문 추가</string>
     <string name="fingerprint_enable_keyguard_toggle_title">화면 잠금</string>
     <string name="fingerprint_enroll_button_add"> 지문 추가</string>

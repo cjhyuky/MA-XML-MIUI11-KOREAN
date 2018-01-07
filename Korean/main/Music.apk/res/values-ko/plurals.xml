@@ -10,10 +10,10 @@
         <item quantity="other">%d곡 발견됨</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">\"이번 달에 오직 %d 개의 프리미엄 노래를 다운로드할 수 있습니다. 프리미엄 뮤직 패키지로 업그레이드하셔서 더 많이 다운로드하십시오. \"</item>
+        <item quantity="other">\"이번 달에 오직 %d개의 프리미엄 노래를 다운로드할 수 있습니다. 프리미엄 뮤직 패키지로 업그레이드하셔서 더 많이 다운로드하십시오. \"</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">\"이번 달에 오직 %d 개의 프리미엄 노래를 다운로드할 수 있습니다. 선택된 노래들을 다운로드하시겠습니까?\"</item>
+        <item quantity="other">\"이번 달에 오직 %d개의 프리미엄 노래를 다운로드할 수 있습니다. 선택된 노래들을 다운로드하시겠습니까?\"</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">%d일 남음</item>

@@ -357,11 +357,11 @@
     <string name="trans_select_data_tips">"전송할 파일 선택
 유사한 파일은 새로운 기기에 덮어씌워집니다."</string>
     <string name="trans_select_data_no_space">"새 기기의 저장 공간이 부족합니다.
-다시 파일을 선택하시거나 %s 만큼의 공간을 정리하십시오."</string>
+다시 파일을 선택하시거나 %s만큼의 공간을 정리하십시오."</string>
     <string name="trans_calculating_base_size">앱 크기 계산 중</string>
     <string name="trans_calculating">계산 중…</string>
     <string name="trans_native_no_space">"이 기기의 저장 공간이 부족합니다.
-최소 %s 만큼의 용량을 삭제하십시오."</string>
+최소 %s만큼의 용량을 삭제하십시오."</string>
     <string name="trans_calculating_app_sd_size">크기 계산 중: %s</string>
     <string name="trans_please_waiting">잠시만 기다려주십시오…</string>
     <string name="size_byte">B</string>
