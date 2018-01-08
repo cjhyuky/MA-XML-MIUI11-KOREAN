@@ -76,4 +76,7 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="item_fingerprint">지문</string>
     <string name="item_lock_screen_password">화면 잠금만</string>
     <string name="language_settings">언어 선택</string>
+    <string name="terms_of_use_label_gms">"사용자의 개인 정보는 매우 소중합니다. 수집되는 정보가 어떻게 사용되고 사용자의 선택지는 무엇이 있는지 알고 싶다면 이용 약관과 개인정보 보호 정책을 참고하십시오.
+
+MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드시 동의하셔야 합니다. Mi SIM 활성화 서비스, Mi 클라우드, Mi 서비스, 기기 찾기, 홈스크린 모듈, 게임 서비스, MAB 및 MSA 시스템 구성 요소, 다이렉트 서비스, 퀵 카드, 통계, Mi 스마트카드, Mi 계정 구성 요소 등의 기능들은 인터넷에 연결하고 사용자의 위치를 수신할 것입니다."</string>
 </resources>

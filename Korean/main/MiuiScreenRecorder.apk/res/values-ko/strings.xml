@@ -68,4 +68,6 @@
     <string name="stop_recording">녹화 종료</string>
     <string name="description_content">화면 녹화 기능을 비활성화합니다. 계속하려면 확인 버튼을 누르세요.</string>
     <string name="description_title">화면 녹화 기능에 대하여</string>
+    <string name="app_notification_info">화면 녹화기는 백그라운드에서 실행 중입니다.</string>
+    <string name="recording_without_mic">마이크가 사용되고 있으며 마이크 소리를 녹음할 수 없습니다.</string>
 </resources>

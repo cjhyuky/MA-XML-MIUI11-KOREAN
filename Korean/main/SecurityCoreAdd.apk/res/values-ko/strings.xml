@@ -336,4 +336,8 @@
     <string name="weixin_pay">위챗 페이</string>
     <string name="xspace_weibo_title">웨이보</string>
     <string name="xspace_weixin_title">위챗</string>
+    <string name="weixin_share_sign">로그인 및 공유</string>
+    <string name="xspace_default_guide_notification_content">변경하려면 누르세요.</string>
+    <string name="xspace_default_guide_notification_main_title">기본 앱 사용</string>
+    <string name="xspace_default_guide_notification_xspace_title">듀얼 앱 사용</string>
 </resources>
