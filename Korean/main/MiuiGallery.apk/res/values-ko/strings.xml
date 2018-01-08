@@ -1126,4 +1126,7 @@
     <string name="remove_from_favorites_failed">"즐겨찾기에서 삭제할 수 없습니다"</string>
     <string name="removing_from_favorites">즐겨찾기에서 삭제중…</string>
     <string name="searching_cast_devices">프로젝터 찾는중…</string>
+    <string name="add_to_album_failed_with_reason">"%1$s앨범을 추가할 수 없습니다."</string>
+    <string name="loading_processing_tip">사진 작업 중…</string>
+    <string name="operate_processing_file_error">사진이 작업 되는 동안 기다려주세요.</string>
 </resources>

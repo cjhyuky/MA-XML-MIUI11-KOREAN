@@ -1331,4 +1331,5 @@
     <string name="t9_search_guide_pinyin">숫자 2, 1, 3을 눌러 노길동을 검색 (한글은 아직 미지원!)</string>
     <string name="t9_search_guide_zhuyin">숫자 2, 1, 3을 눌러 노길동을 검색 (한글은 아직 미지원!)</string>
     <string name="unknown_caller">모르는 전화</string>
+	<string name="dialer_firewall_entry_name">차단된 통화 기록</string>
 </resources>
