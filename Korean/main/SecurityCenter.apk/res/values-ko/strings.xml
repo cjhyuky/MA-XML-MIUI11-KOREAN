@@ -2309,4 +2309,37 @@ SMS 전송"</string>
     <string name="gmscore_support_remind">Gmail, 구글 지도 및 다른 구글 어플을 사용하는데 문제가 있을경우, 이 기능을 켭니다. 배터리 수명을 약간 줄일 수 있습니다.</string>
     <string name="pref_bg_network_title">백그라운드에서 네트워크 연결</string>
     <string name="sc_warning_updater_not_found">업데이트 앱을 발견하지 못했습니다. 업데이트할 수 없습니다!</string>
+    <string name="action_source_call_title">차단된 통화</string>
+    <string name="delete_input">삭제</string>
+    <string name="gb_new_feature">새로운 기능</string>
+    <string name="input_password_hint_text">비밀번호 입력</string>
+    <string name="mixed_need_to_confirm">비밀번호 확인</string>
+    <string name="mixed_password_confirmed_header_confirm">성공적으로 설정되었습니다. 확인하려면 버튼을 누르십시오.</string>
+    <string name="mixed_password_confirmed_header_continue">성공적으로 설정되었습니다. 다음을 누르세요.</string>
+    <string name="mixed_pattern_entered_header">비밀번호 설정이 성공적으로 끝났습니다.</string>
+    <string name="mixed_recording_incorrect_too_short">%d자 이상을 입력하십시오.</string>
+    <string name="mixed_recording_intro_header">4자 이상을 입력하십시오.</string>
+    <string name="mixed_retry_button_text">취소</string>
+    <string name="mixed_settings_help_how_to_record">비밀 번호 설정 방법</string>
+    <string name="numeric_need_to_confirm">확인하려면 다시 입력하세요ㅣ.</string>
+    <string name="numeric_password_confirmed_header_confirm">성공적으로 설정되었습니다. 확인하려면 버튼을 누르십시오.</string>
+    <string name="numeric_password_confirmed_header_continue">성공적으로 설정되었습니다. 다음을 누르세요.</string>
+    <string name="numeric_pattern_entered_header">PIN 설정 성공</string>
+    <string name="numeric_recording_incorrect_too_short">%d자 이상을 입력하십시오.</string>
+    <string name="numeric_recording_intro_header">비밀번호 입력</string>
+    <string name="numeric_retry_button_text">취소</string>
+    <string name="numeric_settings_help_how_to_record">PIN 설정 방법</string>
+    <string name="password_type">비밀번호 변경</string>
+    <string name="password_type_underline"><u>비밀번호 변경</u></string>
+    <string name="quite_all_string">취소</string>
+    <string name="set_mixed_password_name">비밀번호 설정</string>
+    <string name="set_numeric_password_name">PIN 설정</string>
+    <string name="set_pattern_password_name">패턴 설정</string>
+    <string name="unlock_set_unlock_password_summary">다른 문자가 포함되어야 합니다.</string>
+    <string name="unlock_set_unlock_password_title">비밀번호</string>
+    <string name="unlock_set_unlock_pattern_summary">최소 4개 이상의 점을 연결해주세요</string>
+    <string name="unlock_set_unlock_pattern_title">패턴</string>
+    <string name="unlock_set_unlock_pin_summary">4자리를 입력해주세요</string>
+    <string name="wrong_password">틀린 비밀번호</string>
+
 </resources>
