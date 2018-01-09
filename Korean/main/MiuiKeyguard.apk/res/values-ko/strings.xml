@@ -146,4 +146,5 @@
     <string name="face_data_siggesstion_next_time">다음 (%ds)</string>
     <string name="face_unlock_reenter_content">안면 인식 알고리즘 업데이트 중입니다. 탭하여 다시 인식하세요.</string>
     <string name="face_unlock_reenter_title">얼굴을 다시 인식해주세요.</string>
+    <string name="fingerprint_not_identified_msg_lock">잘못된 지문인식 시도가 너무 많았습니다. 비밀번호를 입력하세요.</string>
 </resources>
