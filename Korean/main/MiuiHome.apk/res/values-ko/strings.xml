@@ -310,4 +310,5 @@
     <string name="content_description_workspace_thumbnail_item">화면 미리보기，%1$s</string>
     <string name="recommend_apps_no_data">데이터 없음</string>
     <string name="recommend_loading">로딩중</string>
+    <string name="announce_for_delete_gadget_and_widget">위젯</string>
 </resources>
