@@ -1331,5 +1331,14 @@
     <string name="t9_search_guide_pinyin">숫자 2, 1, 3을 눌러 노길동을 검색 (한글은 아직 미지원!)</string>
     <string name="t9_search_guide_zhuyin">숫자 2, 1, 3을 눌러 노길동을 검색 (한글은 아직 미지원!)</string>
     <string name="unknown_caller">모르는 전화</string>
-	<string name="dialer_firewall_entry_name">차단된 통화 기록</string>
+    <string name="dialer_firewall_entry_name">차단된 통화 기록</string>
+    <string name="description_quick_dial_button">단축 번호</string>
+    <string name="path_quick_dial_setting">시스템 앱/연락처/단축 번호</string>
+    <string name="quick_dial_setting_delete_dialog_message">단축 번호를 삭제하시겠습니까?</string>
+    <string name="quick_dial_setting_delete_dialog_option_delete">삭제</string>
+    <string name="quick_dial_setting_hint">단축번호를 지정 또는 삭제 하려면 버튼을 탭하세요. 지정된 단축번호로 통화하려면 버튼을 길게 누르세요.</string>
+    <string name="quick_dial_setting_set_dialog_message">이 버튼으로 단축 번호를 설정하시겠습니까?</string>
+    <string name="quick_dial_setting_set_dialog_option_set">설정</string>
+    <string name="quick_dial_setting_title">단축 번호</string>
+    <string name="search_quick_dial_setting">연락처</string>
 </resources>
