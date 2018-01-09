@@ -2185,4 +2185,5 @@
     <string name="callFailed_dialVideoToDialVideo">영상통화를 다른 번호의 영상통화로 수정했습니다.</string>
     <string name="callFailed_dialVideoToSs">영상통화를 SS로 전환하였습니다.</string>
     <string name="callFailed_dialVideoToUssd">영상통화를 USSD로 전환하였습니다.</string>
+    <string name="quick_dial_setting_title">단축 번호</string>
 </resources>
