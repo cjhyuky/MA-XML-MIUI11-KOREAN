@@ -2340,6 +2340,6 @@ SMS 전송"</string>
     <string name="unlock_set_unlock_pattern_summary">최소 4개 이상의 점을 연결해주세요</string>
     <string name="unlock_set_unlock_pattern_title">패턴</string>
     <string name="unlock_set_unlock_pin_summary">4자리를 입력해주세요</string>
-    <string name="wrong_password">틀린 비밀번호</string>
-
+    <string name="wrong_password">잘못된 비밀번호</string>
+    <string name="firewall_temp_rule_reason">%1$s 때문에 %2$s 방화벽이 인터넷 접속을 막고 있습니다.</string>
 </resources>
