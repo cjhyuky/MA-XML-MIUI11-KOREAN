@@ -1,1 +1,4 @@
-   <string name="app_name">프록시</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">프록시</string>
+</resources>
