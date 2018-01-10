@@ -512,4 +512,8 @@
     <string name="wqfile_group_chat_pic">사진 채팅</string>
     <string name="wqfile_group_chat_video">영상통화</string>
     <string name="wqfile_group_chat_voice">음성통화</string>
+    <string name="auto_clean_time_every_day">매일</string>
+    <string name="auto_clean_time_fifteen_day">15일마다</string>
+    <string name="auto_clean_time_seven_day">7일마다</string>
+    <string name="auto_clean_time_three_day">3</string>
 </resources>
