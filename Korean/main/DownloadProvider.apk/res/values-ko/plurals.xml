@@ -8,4 +8,13 @@
         <item quantity="other">%d개의 파일 대기 중</item>
         <item quantity="one">1개의 파일 대기 중</item>
     </plurals>
+        <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d 다운로드 완료</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">%1$d개의 파일 다운로드중</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"%1$d개의 항목 다운로드 실패"</item>
+    </plurals>
 </resources>
