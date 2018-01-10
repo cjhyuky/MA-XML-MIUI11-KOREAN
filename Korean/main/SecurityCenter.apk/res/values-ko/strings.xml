@@ -2342,4 +2342,9 @@ SMS 전송"</string>
     <string name="unlock_set_unlock_pin_summary">4자리를 입력해주세요</string>
     <string name="wrong_password">잘못된 비밀번호</string>
     <string name="firewall_temp_rule_reason">%1$s 때문에 %2$s 방화벽이 인터넷 접속을 막고 있습니다.</string>
+    <string name="gb_ad_game_size">MB</string>
+    <string name="gb_cutoff">|</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="app_manager_mobile_slot1">모바일 데이터 (SIM 1)</string>
+    <string name="app_manager_mobile_slot2">모바일 데이터 (SIM 2)</string>
 </resources>
