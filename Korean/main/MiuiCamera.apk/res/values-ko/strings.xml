@@ -829,4 +829,6 @@
     <string name="pref_camera_front_bokeh_entry_on">켜짐</string>
     <string name="video_effect_entry_bygone">과거</string>
     <string name="bokeh_use_hint">심도 효과</string>
+    <string name="hint_groupshot_beauty">그룹 셀카 사진은 보정 모드를 사용할 수 없습니다.</string>
+    <string name="pref_camera_beauty_deep">고급 보정 모드</string>
 </resources>
