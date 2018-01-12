@@ -455,7 +455,7 @@
     <string name="add_connection_button">연결 추가</string>
     <string name="recent">최근</string>
     <string name="recent_updates">최근 업데이트</string>
-    <string name="account_type_format">%1$s개 연락처</string>
+    <string name="account_type_format">%1$s</string>
     <string name="from_account_format">%1$s</string>
     <string name="use_photo_as_primary">이 사진 사용</string>
     <string name="contact_read_only">이 앱에서는 편집 불가</string>
