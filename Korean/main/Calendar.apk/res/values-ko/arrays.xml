@@ -367,4 +367,59 @@
         <item>비공개</item>
         <item>공개</item>
     </string-array>
+    <string-array name="recurrence_freq">
+        <item>매일 반복</item>
+        <item>매주 반복</item>
+        <item>매월 반복</item>
+        <item>매년 반복</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>매월 첫째 일요일</item>
+        <item>매월 둘째 일요일</item>
+        <item>매월 셋째 일요일</item>
+        <item>매월 넷째 일요일</item>
+        <item>매월 마지막 일요일</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>매월 첫째 월요일</item>
+        <item>매월 둘째 월요일</item>
+        <item>매월 셋째 월요일</item>
+        <item>매월 넷째 월요일</item>
+        <item>매월 마지막 월요일</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>매월 첫째 화요일</item>
+        <item>매월 둘째 화요일</item>
+        <item>매월 셋째 화요일</item>
+        <item>매월 넷째 화요일</item>
+        <item>매월 마지막 화요일</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>매월 첫째 수요일</item>
+        <item>매월 둘째 수요일</item>
+        <item>매월 셋째 수요일</item>
+        <item>매월 넷째 수요일</item>
+        <item>매월 마지막 수요일</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+         <item>매월 첫째 목요일</item>
+        <item>매월 둘째 목요일</item>
+        <item>매월 셋째 목요일</item>
+        <item>매월 넷째 목요일</item>
+        <item>매월 마지막 목요일</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>매월 첫째 금요일</item>
+        <item>매월 둘째 금요일</item>
+        <item>매월 셋째 금요일</item>
+        <item>매월 넷째 금요일</item>
+        <item>매월 마지막 금요일</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>매월 첫째 토요일</item>
+        <item>매월 둘째 토요일</item>
+        <item>매월 셋째 토요일</item>
+        <item>매월 넷째 토요일</item>
+        <item>매월 마지막 토요일</item>
+    </string-array>
 </resources>

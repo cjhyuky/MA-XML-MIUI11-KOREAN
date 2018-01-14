@@ -43,4 +43,53 @@
         <item>기타</item>
         <item>맞춤설정</item>
     </string-array>
+    <string-array name="app_ops_labels">
+        <item>위치</item>
+        <item>위치</item>
+        <item>위치</item>
+        <item>진동</item>
+        <item>주소록 읽기</item>
+        <item>주소록 수정</item>
+        <item>통화 기록 읽기</item>
+        <item>통화 기록 수정</item>
+        <item>캘린더 읽기</item>
+        <item>캘린더 수정</item>
+        <item>위치</item>
+        <item>소식 알림</item>
+        <item>위치</item>
+        <item>전화 걸기</item>
+        <item>SMS/MMS 읽기</item>
+        <item>SMS/MMS 쓰기</item>
+        <item>SMS/MMS 수신</item>
+        <item>SMS/MMS 수신</item>
+        <item>SMS/MMS 수신</item>
+        <item>SMS/MMS 수신</item>
+        <item>SMS/MMS 전송</item>
+        <item>SMS/MMS 읽기</item>
+        <item>SMS/MMS 쓰기</item>
+        <item>설정 수정</item>
+        <item>위에 그림</item>
+        <item>액세스 알림</item>
+        <item>카메라</item>
+        <item>오디오 녹음</item>
+        <item>오디오 재생</item>
+        <item>클립보드 읽기</item>
+        <item>클립보드 수정</item>
+        <item>미디어 버튼</item>
+        <item>오디오 포커스</item>
+        <item>마스터 볼륨</item>
+        <item>음성 볼륨</item>
+        <item>벨소리 볼륨</item>
+        <item>미디어 볼륨</item>
+        <item>알람 볼륨</item>
+        <item>알림 볼륨</item>
+        <item>블루투스 볼륨</item>
+        <item>켜진 상태로 유지</item>
+        <item>위치</item>
+        <item>위치</item>
+        <item>사용 통계 가져오기</item>
+        <item>마이크 음소거/음소거 해제</item>
+        <item>프로젝트 미디어</item>
+        <item>VPN 활성화</item>
+    </string-array>
 </resources>

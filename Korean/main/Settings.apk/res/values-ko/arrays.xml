@@ -1390,14 +1390,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>클릭 조절 - 클릭 트리거</item>
         <item>클릭 조절 - 길게 클릭 트리거</item>
     </string-array>
-    <string-array name="silent_entries">
-        <item>@string/standard</item>
-        <item>@string/total</item>
-    </string-array>
-    <string-array name="silent_values">
-        <item>1</item>
-        <item>3</item>
-    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>항상</item>
         <item>30분</item>
@@ -1405,23 +1397,48 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2시간</item>
         <item>8시간</item>
     </string-array>
-    <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-    </string-array>
     <string-array name="vip_mode_text">
         <item>모든사람</item>
         <item>연락처의 사람만</item>
         <item>소장된 연락처의 사람만</item>
         <item>미설정</item>
     </string-array>
-    <string-array name="vip_mode_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
+    <string-array name="hdcp_checking_values">
+        <item>안함</item>
+        <item>DRM에 한해</item>
+        <item>항상</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_values">
+        <item>숨기기</item>
+        <item>지역</item>
+        <item>하이라이트</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>활기찬(기본)</item>
+        <item>자연스러운</item>
+        <item>표준</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>보정된 색상</item>
+        <item>자연스러운 색상</item>
+        <item>디지털 컨텐츠를 위해 보정된 색상</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>끄기</item>
+        <item>모든 로그 버퍼만</item>
+        <item>라디오 로그 버퍼를 제외한 전체</item>
+        <item>커널 로그버퍼만</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>끄기</item>
+        <item>전체</item>
+        <item>라디오를 제외한 전체</item>
+        <item>커널만</item>
+    </string-array>
+    <string-array name="select_logpersist_values">
+        <item>끄기</item>
+        <item>전체</item>
+        <item>기본,보안,커널</item>
+        <item>커널</item>
     </string-array>
 </resources>

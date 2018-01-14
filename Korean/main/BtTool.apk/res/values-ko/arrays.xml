@@ -6,4 +6,10 @@
         <item>성능 저하가 있는 최대 로그</item>
         <item>자체 정의 로그 구성 사용</item>
     </string-array>
+    <string-array name="act_set_pref_test_situation_entries_labels">
+        <item>기본</item>
+        <item>SQC</item>
+        <item>디버깅</item>
+        <item>Cust</item>
+    </string-array>
 </resources>

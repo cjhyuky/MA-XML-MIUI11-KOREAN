@@ -56,4 +56,178 @@
         <item>진눈깨비</item>
         <item></item>
     </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>검색중…</item>
+        <item>연결중…</item>
+        <item>로그인중…</item>
+        <item>IP 주소를 받아오는 중…</item>
+        <item>연결됨</item>
+        <item>거부됨</item>
+        <item>연결해제중…</item>
+        <item>연결 해제됨</item>
+        <item>실패</item>
+        <item>차단됨</item>
+        <item>원활한 네트워크 연결을 위해 임시적으로 차단됨</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>스캔중…</item>
+        <item>%1$s 네트워크에 연결 중…</item>
+        <item>%1$s 네트워크 로그인 중…</item>
+        <item>%1$s 에서 IP 주소를 받아오는 중…</item>
+        <item>%1$s 에 </item>
+        <item>거절됨</item>
+        <item>%1$s에서 연결 해제중…</item>
+        <item>연결 해제됨</item>
+        <item>실패</item>
+        <item>차단됨</item>
+        <item>원활한 네트워크 연결을 위해 임시적으로 차단됨</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>체크하지 않기</item>
+        <item>DRM 컨텐츠만 체크하기</item>
+        <item>항상 체크하기</item>
+    </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>안함</item>
+        <item>DRM에 한해</item>
+        <item>항상</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>항상 HDCP 검사 사용하지 않기</item>
+        <item>DRM 컨텐츠만 HDCP 검사 사용하기</item>
+        <item>항상 HDCP 검사 사용하기</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>끄기</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+         <item>끄기</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Off</item>
+        <item>로그 버퍼당 64K</item>
+        <item>로그 버퍼당 256K</item>
+        <item>로그 버퍼당 1M</item>
+        <item>로그 버퍼당 4M</item>
+        <item>로그 버퍼당 16M</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>애니메이션 끄기</item>
+        <item>애니메이션 스케일 .5x</item>
+        <item>애니메이션 스케일 1x</item>
+        <item>애니메이션 스케일 1.5x</item>
+        <item>애니메이션 스케일 2x</item>
+        <item>애니메이션 스케일 5x</item>
+        <item>애니메이션 스케일 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>애니메이션 끄기</item>
+        <item>애니메이션 스케일 .5x</item>
+        <item>애니메이션 스케일 1x</item>
+        <item>애니메이션 스케일 1.5x</item>
+        <item>애니메이션 스케일 2x</item>
+        <item>애니메이션 스케일 5x</item>
+        <item>애니메이션 스케일 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>애니메이션 끄기</item>
+        <item>애니메이션 스케일 .5x</item>
+        <item>애니메이션 스케일 1x</item>
+        <item>애니메이션 스케일 1.5x</item>
+        <item>애니메이션 스케일 2x</item>
+        <item>애니메이션 스케일 5x</item>
+        <item>애니메이션 스케일 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>없음</item>
+        <item>480p</item>
+        <item>480p (보안)</item>
+        <item>720p</item>
+        <item>720p (보안)</item>
+        <item>1080p</item>
+        <item>1080p (보안)</item>
+        <item>4K</item>
+        <item>4K (보안)</item>
+        <item>4K (업스케일됨)</item>
+        <item>4K (보안처리됨, 업스케일됨)</item>
+        <item>720p, 1080p (듀얼 스크린)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>없음</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Off</item>
+        <item>직사각형이 아닌 클립을 파란색 영역에 그려주세요.</item>
+        <item>테스트 면을 녹색으로 칠해주세요.</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_values">
+        <item>숨기기</item>
+        <item>지역</item>
+        <item>하이라이트</item>
+    </string-array>
+    <string-array name="usb_configuration_values">
+        <item>없음</item>
+        <item>MTP (미디어 전송 프로트콜)</item>
+        <item>PTP (사진 전송 프로트콜)</item>
+        <item>RNDIS (USB 이더넷)</item>
+        <item>오디오 장치 입력</item>
+        <item>MIDI 장치</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>매우 느리게</item>
+        <item>느리게</item>
+        <item>보통</item>
+        <item>Fast</item>
+        <item>아주 조금 빠르게</item>
+        <item>아주 조금 빠르게</item>
+        <item>매우 빠르게</item>
+        <item>극도로 빠르게</item>
+        <item>제일 빠르게</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>활기찬(기본)</item>
+        <item>자연스러운</item>
+        <item>표준</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>보정된 색상</item>
+        <item>자연스러운 색상</item>
+        <item>디지털 컨텐츠를 위해 보정된 색상</item>
+    </string-array>
+    <string-array name="select_logpersist_values">
+        <item>끄기</item>
+        <item>전체</item>
+        <item>기본,보안,커널</item>
+        <item>커널</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>끄기</item>
+        <item>전체</item>
+        <item>라디오를 제외한 전체</item>
+        <item>커널만</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>끄기</item>
+        <item>모든 로그 버퍼만</item>
+        <item>라디오 로그 버퍼를 제외한 전체</item>
+        <item>커널 로그버퍼만</item>
+    </string-array>
 </resources>
