@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cabl_level_values">
+        <item>낮음</item>
+        <item>중간</item>
+        <item>높음</item>
+        <item>자동</item>
+    </string-array>
+</resources>

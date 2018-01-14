@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="act_set_pref_test_situation_entries_summaries">
+        <item>최소 로그 출력</item>
+        <item>로그를 더 많이 저장하지만 계속 좋은 성능 유지</item>
+        <item>성능 저하가 있는 최대 로그</item>
+        <item>자체 정의 로그 구성 사용</item>
+    </string-array>
+</resources>
