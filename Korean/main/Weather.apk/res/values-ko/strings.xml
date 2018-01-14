@@ -266,4 +266,5 @@
     <string name="pull_fresh_updating">업데이트중…</string>
     <string name="real_time_sunrise">일출시간 : %1$s</string>
     <string name="real_time_sunset">일몰시간 : %1$s</string>
+    <string name="radar_cloud_image_title">레이더 지도</string>
 </resources>

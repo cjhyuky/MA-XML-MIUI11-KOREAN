@@ -2036,7 +2036,20 @@
     <string name="hdmi_audio_output">음성 출력</string>
     <string name="hdmi_audio_output_multi_channel">멀티 채널</string>
     <string name="hdmi_hdvideo_toast">HDMI로는 4K 영상을 재생할 수 없습니다. 연결이 해제됩니다.</string>
-    <string name="hdmi_mutex_call_content">죄송합니다, 전화수신시에는 HDMI기능이 멈춥니다.</string>
-    <string name="hdmi_notification_content">HDMI 설정을하려면 클릭하세요</string>
+    <string name="hdmi_mutex_call_content">죄송합니다. 전화 수신시에는 HDMI기능이 멈춥니다.</string>
+    <string name="hdmi_notification_content">HDMI 설정을 하려면 클릭하세요</string>
     <string name="hdmi_notification_title">HDMI 케이블 연결됨</string>
+    <string name="status_bar_battery">배터리</string>
+    <string name="status_bar_bluetooth">블루투스</string>
+    <string name="status_bar_cast">전송</string>
+    <string name="status_bar_clock">시간</string>
+    <string name="status_bar_headset">헤드셋</string>
+    <string name="status_bar_hotspot">핫스팟</string>
+    <string name="status_bar_location">위치</string>
+    <string name="status_bar_mute">음소거</string>
+    <string name="status_bar_rotate">회전</string>
+    <string name="status_bar_secure">보안</string>
+    <string name="status_bar_speakerphone">스피커 폰</string>
+    <string name="status_bar_volume">볼륨</string>
+    <string name="status_bar_wifi">Wi-Fi</string>
 </resources>
