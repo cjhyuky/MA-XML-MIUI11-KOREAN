@@ -1874,7 +1874,7 @@
     <string name="vvm_unsupported_message_format"> 원되지 않는 메시지 유형이며 수신 대기중인 %s입니다.</string>
     <string name="wait_for_debugger">디버거를 기다립니다.</string>
     <string name="wait_for_debugger_summary">디버깅 된 응용 프로그램이 디버거가 실행되기 전에 연결될 때까지 대기합니다.</string>
-    <string name="wifi_aggressive_handover">적극적인 WLAN to Cellular 핸드 오버</string>
+    <string name="wifi_aggressive_handover"> Wi-Fi와 모바일 데이터 자동전환</string>
     <string name="wifi_aggressive_handover_summary">Wi-Fi 신호가 낮을 때 Wi-Fi를 사용하면 Cellular에 대한 데이터 연결을보다 적극적으로 처리 할 수 ​​있습니다.</string>
     <string name="wifi_allow_scan_with_traffic">Wi-Fi 롬 스캔을 항상 허용합니다.</string>
     <string name="wifi_allow_scan_with_traffic_summary">인터페이스에서 데이터 트래픽의 양에 따라 Wi-Fi 로밍 검사를 허용 / 금지합니다.</string>

@@ -309,9 +309,9 @@
     <string name="trans_device_wait_for_reconnecting">상대 디바이스와 연결이 해제되었습니다. 다시 연결해주세요.</string>
     <string name="trans_disconnected_tips_message">상대 디바이스와 연결이 해제되었습니다. 다시 연결해주세요.</string>
     <string name="trans_disconnected_tips_title">상대 디바이스와 연결이 해제되었습니다.</string>
-    <string name="trans_intro_desc_1">"Mi 핸드폰에서 WLAN에 연결 후 \"I'm a recipient\"를 선택해주세요. 아이폰에서는 iCloud에 로그인 후 데이터를 입력해주세요."</string>
+    <string name="trans_intro_desc_1">"Mi 핸드폰에서 Wi-Fi에 연결 후 \"I'm a recipient\"를 선택해주세요. 아이폰에서는 iCloud에 로그인 후 데이터를 입력해주세요."</string>
     <string name="trans_intro_desc_3">중복 파일 문제입니다. 미 무버를 다시 시작해주세요.</string>
-    <string name="trans_intro_desc_4">"미 무버가 를 사용하고 있기 때문에 안전한 파일 전송을 위하여 사용자가 를 전송 도중에는 사용할 수가 없습니다. 일부 최신 기종에서는 WLAN을 동시에 사용이 가능합니다."</string>
+    <string name="trans_intro_desc_4">"미 무버가 를 사용하고 있기 때문에 안전한 파일 전송을 위하여 사용자가 를 전송 도중에는 사용할 수가 없습니다. 일부 최신 기종에서는 Wi-Fi를 동시에 사용이 가능합니다."</string>
     <string name="trans_intro_desc_5">"최소 500MB~1GB정도의 여유 공간을 만들고 미 무버를 재시작해주세요."</string>
     <string name="trans_intro_desc_6">"앱 호환성, 인터넷 문제, 안드로이드 버전 호환성 문제로 미 무버가 정상적으로 작동되지 않을 수 있습니다." </string>
     <string name="trans_intro_desc_7">금융앱 같은 앱들은 보안상의 이유로 자동으로 옮겨지지 않을 수 있습니다. 이 경우, 앱을 삭제하고 새로운 폰에서 앱을 다시 다운받아주세요.</string>
@@ -325,7 +325,7 @@
     <string name="trans_intro_question_1">1. 아이폰에서 데이터 전송은 어떻게 하나요?</string>
     <string name="trans_intro_question_2">1. 타 안드로이드 기기들에서 데이터 전송을 어떻게 하나요?</string>
     <string name="trans_intro_question_3">2. Mi Mover가 전송 도중 문제가 생겨 페어링이 끊기면 어떻게 해야 하나요?</string>
-    <string name="trans_intro_question_4">"3. 왜 파일 전송 도중 WLAN을 사용할수 없나요?"</string>
+    <string name="trans_intro_question_4">"3. 왜 파일 전송 도중 Wi-Fi를 사용할수 없나요?"</string>
     <string name="trans_intro_question_5">"4. 왜 Mi Mover에서 '저장소 부족' 메세지가 표시되나요?"</string>
     <string name="trans_intro_question_6">"5. 왜 일부 앱들은 이동되지 않나요?"</string>
     <string name="trans_intro_question_7">"6. 왜 이전 디바이스의 앱들이 새로운 디바이스에서 실행되지 않나요?"</string>
