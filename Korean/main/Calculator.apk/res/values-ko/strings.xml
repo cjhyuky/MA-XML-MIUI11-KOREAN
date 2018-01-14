@@ -316,5 +316,7 @@
     <string name="unit_data_display_weight_uk.st">스톤</string>
     <string name="unit_data_display_weight_us.cwt">미국식 100파운드단위</string>
     <string name="devided_by_zero_reminder_message">"0으로 나눌 수 없습니다."</string>
-	<string name=" 	unit_data_display_time_s">초</string>
+    <string name="unit_data_display_time_s">초</string>
+    <string name="error">오류</string>
+    <string name="error_fomrat">포맷 오류</string>
 </resources>
