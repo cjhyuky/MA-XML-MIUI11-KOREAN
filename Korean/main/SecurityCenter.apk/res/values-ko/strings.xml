@@ -2347,4 +2347,6 @@ SMS 전송"</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="app_manager_mobile_slot1">모바일 데이터 (SIM 1)</string>
     <string name="app_manager_mobile_slot2">모바일 데이터 (SIM 2)</string>
+    <string name="accessibility_gameboosterservice_description">"게임을 하는동안, WeChat 알림을 음소거 하려면 기능을 켜세요."</string>
+    <string name="gmscore_support_service">Google 서비스</string>
 </resources>

@@ -60,4 +60,5 @@
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="power_bluetooth">블루투스</string>
 </resources>

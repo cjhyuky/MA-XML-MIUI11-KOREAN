@@ -2186,4 +2186,6 @@
     <string name="callFailed_dialVideoToSs">영상통화를 SS로 전환하였습니다.</string>
     <string name="callFailed_dialVideoToUssd">영상통화를 USSD로 전환하였습니다.</string>
     <string name="quick_dial_setting_title">단축 번호</string>
+    <string name="menu_dial_string">전화</string>
+    <string name="null_phone_number">전화번호는 비어있으면 되면 안됩니다!</string>
 </resources>
