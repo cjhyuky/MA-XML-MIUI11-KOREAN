@@ -505,7 +505,6 @@
     <string name="mailbox_name_display_starred">별 표시됨</string>
     <string name="mailbox_name_display_trash">휴지통</string>
     <string name="mailbox_name_display_unread">읽지 않음</string>
-    <string name="mailbox_name_server_all_unread">읽지 않음</string>
     <string name="mailbox_settings_activity_title">동기화 설정</string>
     <string name="mailbox_settings_activity_title_with_mailbox">동기화 설정(%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">동기화할 메일이 있는 메일함</string>
@@ -1040,13 +1039,6 @@
     <string name="hide_password">비밀번호 숨김</string>
     <string name="mail_description_content">메일은 이메일 앱으로서 동시에 여러 계정 관리와 이메일 발신 및 수신을 할 수 있으며 연락처와 캘린더의 정보를 동기화할 수 있습니다. 앱을 삭제하시기 전 이와 같은 기능들을 사용할 수 없게 된다는 사실을 염두에 두십시오. Exchange 연락처 및 캘린더 정보 또한 삭제될 것입니다.</string>
     <string name="mail_description_title">메일 정보</string>
-    <string name="mailbox_name_server_drafts">작성 중인 글</string>
-    <string name="mailbox_name_server_inbox">받은 편지함</string>
-    <string name="mailbox_name_server_junk">스팸</string>
-    <string name="mailbox_name_server_outbox">보낼 편지함</string>
-    <string name="mailbox_name_server_sent">보낸 편지함</string>
-    <string name="mailbox_name_server_starred">별 표시됨</string>
-    <string name="mailbox_name_server_trash">휴지통</string>
     <string name="meeting_responded_failed">응답 없음</string>
     <string name="navigation_menu">탐색 메뉴</string>
     <string name="network_tip">인증에 실패했습니다. 네트워크 연결을 확인하십시오.</string>
@@ -1116,5 +1108,4 @@
     <string name="unbind_dialog_text">"메일 앱은 계정을 삭제한 이후로 더 이상 이메일을 분석하지 않습니다. 계정을 삭제하시겠습니까?"</string>
     <string name="automatic_remind_text">자동 알림</string>
     <string name="special_text_sender_en">보낸사람</string>
-    
 </resources>
