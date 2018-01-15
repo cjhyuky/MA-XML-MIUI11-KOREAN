@@ -2187,5 +2187,7 @@
     <string name="callFailed_dialVideoToUssd">영상통화를 USSD로 전환하였습니다.</string>
     <string name="quick_dial_setting_title">단축 번호</string>
     <string name="menu_dial_string">전화</string>
-    <string name="null_phone_number">전화번호는 비어있으면 되면 안됩니다!</string>
+    <string name="null_phone_number">전화번호를 입력하세요!</string>
+    <string name="change_cdma_capability_dialog">%s가 정상적으로 작동되지 않습니다. %s의 기본 전화, 문자 등은 %s로 자동 전달됩니다.</string>
+    <string name="labelCFNRc_cdma">임시 전달</string>
 </resources>
