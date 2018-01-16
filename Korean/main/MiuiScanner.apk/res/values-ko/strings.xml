@@ -210,4 +210,5 @@
     <string name="pref_camera_jpeg_quality_normal">보통</string>
     <string name="pref_camera_jpeg_quality_superfine">매우좋음</string>
     <string name="weixin_code_tip">이 QR코드를 스캔하려면 위챗을 사용하세요</string>
+    <string name="pref_camera_focusmode_default">연속 사진</string>
 </resources>
