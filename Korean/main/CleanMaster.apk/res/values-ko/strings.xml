@@ -516,4 +516,5 @@
     <string name="auto_clean_time_fifteen_day">15일마다</string>
     <string name="auto_clean_time_seven_day">7일마다</string>
     <string name="auto_clean_time_three_day">3</string>
+    <string name="wechat_qq_activity_title">정밀 청소</string>
 </resources>
