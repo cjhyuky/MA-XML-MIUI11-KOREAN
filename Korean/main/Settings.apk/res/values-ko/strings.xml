@@ -6508,4 +6508,7 @@ PIN 설정"</string>
     <string name="font_size_preview_text_title">대한민국 헌법</string>
     <string name="title_jeejen">Jeejen 홈 화면</string>
     <string name="wifi_click_login_wlan">로그인/승인 필요함</string>
+    <string name="music_dirac_mode_cancelling">Mi 주변소음 제거(3.5mm)</string>
+    <string name="navigation_guide_app_summary">화면 상단부분을 왼쪽이나 오른쪽으로 스와이프하세요</string>
+    <string name="navigation_guide_app_title">"앱 실행 동작"</string>
 </resources>
