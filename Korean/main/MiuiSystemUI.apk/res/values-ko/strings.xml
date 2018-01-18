@@ -858,4 +858,7 @@ EEEE"</string>
     <string name="quick_settings_disclosure_named_vpn">%1$s에 연결됨</string>
     <string name="quick_settings_disclosure_personal_profile_named_vpn">개인 프로필 %1$s에 연결됨</string>
     <string name="quick_settings_disclosure_vpns">VPN에 연결됨</string>
+    <string name="accessibility_drag_hint_message">항목을 화면 상단으로 드래그하세요</string>
+    <string name="accessibility_recent_task_locked_state">잠김 상태</string>
+    <string name="accessibility_recent_task_unlocked_state">풀림 상태</string>
 </resources>
