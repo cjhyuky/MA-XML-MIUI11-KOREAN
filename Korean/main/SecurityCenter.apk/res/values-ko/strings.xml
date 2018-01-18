@@ -2350,4 +2350,5 @@ SMS 전송"</string>
     <string name="accessibility_gameboosterservice_description">"게임을 하는동안, WeChat 알림을 음소거 하려면 기능을 켜세요."</string>
     <string name="gmscore_support_service">Google 서비스</string>
     <string name="power_center_back">역력</string>
+    <string name="menu_white">예외</string>
 </resources>
