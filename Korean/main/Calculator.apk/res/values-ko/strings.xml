@@ -317,6 +317,12 @@
     <string name="unit_data_display_weight_us.cwt">미국식 100파운드단위</string>
     <string name="devided_by_zero_reminder_message">"0으로 나눌 수 없습니다."</string>
     <string name="unit_data_display_time_s">초</string>
-    <string name="error">오류</string>
-    <string name="error_fomrat">포맷 오류</string>
+    <string name="cancel">취소</string>
+    <string name="install">설치</string>
+    <string name="install_scanner_to_continued_use">스캐너가 설치되지 않았습니다. 다시 설치하시겠습니까?</string>
+    <string name="scannerDesc">스캐너</string>
+    <string name="scanner_had_been_uninstalled">스캐너를 삭제하였습니다</string>
+    <string name="secondFunction">추가</string>
+    <string name="secondFunctionDesc">추가 기능으로 전환</string>
+    <string name="switchDesc">전환</string>
 </resources>
