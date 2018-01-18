@@ -1024,7 +1024,7 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="support_online_only">스트리밍 전용</string>
     <string name="vip_recommend_title">고품질 음악 듣기</string>
     <string name="global_search_key_buddha">불교 음악</string>
-    <string name="global_search_key_cantonese">칸토네 송</string>
+    <string name="global_search_key_cantonese">광동어 노래</string>
     <string name="global_search_key_child">동요</string>
     <string name="global_search_key_classics">클래식 음악</string>
     <string name="global_search_key_fm">온라인 라디오</string>
@@ -1033,4 +1033,10 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="global_search_key_movie">영화 OST</string>
     <string name="global_search_key_prenatal">태교 음악</string>
     <string name="global_search_key_radar">인정하는 음악</string>
+    <string name="talkback_cloud_setting">클라우드 설정</string>
+    <string name="talkback_follow">팔로우</string>
+    <string name="talkback_followed">언팔로우</string>
+    <string name="talkback_header_search">"검색 "</string>
+    <string name="talkback_like">좋아요</string>
+    <string name="talkback_unlike">싫어요</string> 
 </resources>
