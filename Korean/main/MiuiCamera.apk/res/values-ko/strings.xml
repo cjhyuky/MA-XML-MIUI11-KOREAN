@@ -53,7 +53,7 @@
     <string name="pref_camcorder_settings_category">카메라 설정</string>
     <string name="pref_camera_picturesize_title_simple_mode">카메라 프레임</string>
     <string name="pref_camera_picturesize_entry_standard">표준 4:3</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">풀 스크린 16:9</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">풀스크린 16:9</string>
     <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
     <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
     <string name="pref_camera_picturesize_entry_3264x2448">8M(3264x2448)</string>
@@ -398,7 +398,7 @@
     <string name="install_confirmed">설치</string>
     <string name="confirm_install_scanner_title">스캐너 설치</string>
     <string name="confirm_install_scanner_message">스캐너는 QR 코드, 바코드를 스캔할 수 있습니다. 인터넷에 연결하지 않고 설치할 수 있습니다.</string>
-    <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
+    <string name="pref_camera_picturesize_entry_widescreen">와이드스크린 18:9</string>
     <string name="photos_portrait_type_name">인물</string>
     <string name="photos_portrait_type_description">인물 모드를 켜시면 배경에 블러 효과가 생겨 인물이 더욱 부각되어 보입니다.</string>
     <string name="color_effect_entry_vivid">생생한</string>
