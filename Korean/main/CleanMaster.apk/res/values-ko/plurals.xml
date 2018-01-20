@@ -67,6 +67,6 @@
         <item quantity="other">%d년 동안 사용되지 않음</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">&lt;Data>&amp;lt;font color=#ff0000 >%d&amp;lt;/font> 앱이 오랫동안 사용되지 않았습니다. 확인하십시오.;&lt;/Data></item>
+        <item quantity="other">오랫동안 사용하지 않은 앱이 있습니다. 사용하지 않는 앱들은 저장공간 확보를 위해 삭제하십시오.</item>
     </plurals>
 </resources>
