@@ -171,4 +171,8 @@
     <string name="provision_error_connect_msg">네트워크에 연결하고 다시 시도할 수 있습니다. 유효한 네트워크가 없으면 백업 기능을 사용할 수 없습니다.</string>
     <string name="provision_error_connect_title">연결할 수 없음</string>
     <string name="cloud_backup_derail_size_summary">크기 : %s</string>
+    <string name="dialog_btn_next">다음</string>
+    <string name="dialog_btn_restore_skip">나중에 복원</string>
+    <string name="dialog_msg_restore_require_wlan">백업 파일 복원은 와이파이 연결이 필요합니다.</string>
+    <string name="dialog_title_require_wlan">와이파이 연결요망</string>
 </resources>
