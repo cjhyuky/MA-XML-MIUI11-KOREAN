@@ -861,4 +861,5 @@ EEEE"</string>
     <string name="accessibility_drag_hint_message">항목을 화면 상단으로 드래그하세요</string>
     <string name="accessibility_recent_task_locked_state">잠김 상태</string>
     <string name="accessibility_recent_task_unlocked_state">풀림 상태</string>
+    <string name="please_slide_agian">다시 한번 슬라이드 하세요</string>
 </resources>
