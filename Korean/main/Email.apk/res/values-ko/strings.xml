@@ -311,7 +311,7 @@
     <string name="conversation_folder_moved">%1$s로 이동됨</string>
     <string name="conversation_item_mark_read">읽음</string>
     <string name="conversation_item_mark_unread">읽지 않음</string>
-    <string name="conversation_msg_header_collapsed_sent_to">" 올림 "</string>
+    <string name="conversation_msg_header_collapsed_sent_to">" 수신 "</string>
     <string name="conversation_photo_welcome_text">보낸사람 이미지 터치하여 해당 대화 선택</string>
     <string name="conversation_pull_ad_content">편리한 이메일 관리자</string>
     <string name="conversation_quick_button_approve">확인</string>
