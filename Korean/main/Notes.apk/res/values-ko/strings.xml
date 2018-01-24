@@ -199,4 +199,6 @@
     <string name="refuse_to_share_as_pic_because_of_loading">불러오는 중에는 공유를 할 수 없습니다.</string>
     <string name="toast_reach_text_limit_checkbox">"메모가 너무 길기 때문에, 확인란을 추가할 수 없습니다."</string>
     <string name="cloud_service_state_open_reminder">Mi 클라우드 동기화를 활성화하여 메모를 동기화 하세요.</string>
+    <string name="refuse_to_open_as_pic_because_of_loading">메모가 불러진 후 다시 시도하세요.</string>
+    <string name="toast_cancel_to_insert_image">이미지 추가 취소.</string>
 </resources>
