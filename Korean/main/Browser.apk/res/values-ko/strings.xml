@@ -1377,8 +1377,8 @@
     <string name="mw_save_password_notnow">나중에</string>
     <string name="mw_save_password_remember">저장하기</string>
     <string name="mw_search_menu_title">검색</string>
-    <string name="mw_snippets_disabled_generic_prompt">맞춤 설정된 콘텐츠 가져 오기</string>
-    <string name="mw_snippets_disabled_signed_out_instructions">Google에서 제안한 맞춤형 콘텐츠를 얻으려면 Chrome에 로그인하십시오.</string>
+    <string name="mw_snippets_disabled_generic_prompt">맞춤 설정된 콘텐츠 가져오기</string>
+    <string name="mw_snippets_disabled_signed_out_instructions">구글에서 제안한 맞춤형 콘텐츠를 얻으려면 Chrome에 로그인하십시오.</string>
     <string name="mw_time_picker_dialog_am">오전</string>
     <string name="mw_time_picker_dialog_pm">오후</string>
     <string name="mw_time_picker_dialog_title">시간 설정</string>
