@@ -1225,7 +1225,8 @@
     <string name="mw_miuichromium_error_page_safe_network">안전 모드</string>
     <string name="mw_miuichromium_error_page_server_error">너무 많은 기기들이 연결을 시도하고 있습니다.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">기기에 설치된 프록시 앱을 확인하세요.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_connetion">인터넷 연결 상태를 확인하세요.</string>    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy">(Mobile data) Reset your %s1 APN settings %s2 .</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_connetion">인터넷 연결 상태를 확인하세요.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy">(모바일 데이터) %s1 APN설정을 %s2로 설정하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">"입력하신 URL을 다시 확인해주세요."</string>
     <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) %s1 프록시 설정 %s2을 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">캐시 삭제 (%s1 설정 %s2 - 데이터 초기화).</string>
