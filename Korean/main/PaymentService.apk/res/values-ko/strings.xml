@@ -448,11 +448,9 @@
     <string name="mibi_error_frozen_service_time">월요일부터 일요일까지</string>
     <string name="mibi_error_frozen_summary">"귀하의 계정이 정지되었습니다. 샤오미 고객센터에 문의하세요."</string>
     <string name="mibi_title_bill_record">구매 내역</string>
-    <string name="abc_action_bar_home_description">홈으로 이동</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_home_description">홈화면으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
-    <string name="abc_action_menu_overflow_description">더많은 옵션</string>
+    <string name="abc_action_menu_overflow_description">옵션 더보기</string>
     <string name="abc_action_mode_done">완료</string>
     <string name="abc_activity_chooser_view_see_all">모두 보기</string>
     <string name="abc_activitychooserview_choose_application">앱을 선택하세요</string>
