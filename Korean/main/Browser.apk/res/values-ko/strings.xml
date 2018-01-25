@@ -1397,9 +1397,9 @@
     <string name="signed_in">체크인 됨</string>
     <string name="suggest_access_item_weather_mark">날씨</string>
     <string name="suggestion_lottery_detail_pour">%s노트</string>
-    <string name="suggestion_lottery_detail_price">각 노트%s위안</string>
+    <string name="suggestion_lottery_detail_price">각 노트 %s위안</string>
     <string name="suggestion_lottery_detail_text">이 %s</string>
-    <string name="suggestion_lottery_period">%s번째.</string>
+    <string name="suggestion_lottery_period">%s번째</string>
     <string name="suggestion_translation_more">다른 번역 보기</string>
     <string name="translation_copy">복사</string>
     <string name="translation_more">다른 번역</string>
