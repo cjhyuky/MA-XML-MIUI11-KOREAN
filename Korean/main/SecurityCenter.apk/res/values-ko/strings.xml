@@ -2353,4 +2353,6 @@ SMS 전송"</string>
     <string name="menu_white">예외</string>
     <string name="lockpattern_tutorial_continue_label_confirm">확인을 누르세요</string>
     <string name="lockpattern_tutorial_continue_label_next">다음을 누르세요</string>
+    <string name="network_changed_noti_summary">모바일데이터 사용</string>
+    <string name="network_changed_noti_title">와이파이 연결 끊어짐</string>
 </resources>
