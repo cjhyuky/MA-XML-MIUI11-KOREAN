@@ -322,4 +322,5 @@
     <string name="feedback_submit_hint_gone">닫은 메세지</string>
     <string name="app_search">앱 검색</string>
     <string name="issue_search">검색</string>
+    <string name="submit_dialog_content_global">"첨부 파일 및 로그와 함께 사용자의 버그리포트가 MIUI의 서버로 전송됩니다. 로그에는 개인 정보와 위치 데이터가 포함될 수 있습니다. 로그 제출을 원하지 않으시면 취소버튼을 누르세요."</string>
 </resources>
