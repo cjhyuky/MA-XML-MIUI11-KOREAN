@@ -832,4 +832,6 @@
     <string name="hint_groupshot_beauty">그룹 셀카 사진은 보정 모드를 사용할 수 없습니다.</string>
     <string name="pref_camera_beauty_deep">고급 보정 모드</string>
     <string name="pref_camera_focusmode_default">연속 사진</string>
+    <string name="pref_camera_zoom_mode_entry_high_pixel">높은 픽셀</string>
+    <string name="pref_camera_zoom_mode_entry_standard">표준</string>
 </resources>
