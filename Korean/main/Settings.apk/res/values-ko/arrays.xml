@@ -5,7 +5,7 @@
         <item>분리</item>
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
-        <item>잠금화면과 드롭 다운 메뉴에만 메시지 표시</item>
+        <item>잠금화면에만 통신사 이름 표시</item>
         <item>항상 통신사 이름 표시</item>
         <item>통신사 이름 표시하지 않음</item>
     </string-array>
