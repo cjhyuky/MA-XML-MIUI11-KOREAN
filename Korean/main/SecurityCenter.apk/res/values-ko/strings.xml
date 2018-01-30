@@ -2186,7 +2186,7 @@ SMS 전송"</string>
     <string name="app_manager_has_not_data">데이터 없음</string>
     <string name="app_manager_reset_app_preferences">앱 환경설정 초기화</string>
     <string name="app_manager_reset_app_preferences_button">앱 초기화</string>
-    <string name="app_manager_reset_app_preferences_desc">"계속 진행하시면 다음에 대한 설정사항을 초기화 하게 됩니다:</string>
+    <string name="app_manager_reset_app_preferences_desc">"초기화 버튼을 누르시면 앱 설정이 초기화됩니다.</string>
     <string name="app_manager_reset_app_preferences_title">앱 설정을 초기화 하시겠습니까?</string>
     <string name="app_manager_uninstall_protected_dlg_msg">시스템 앱을 삭제할 경우 MIUI의 일부 기능이 작동하지 않을 수 있습니다. 계속 진행하시겠습니까?</string>
     <string name="app_manager_uninstall_protected_dlg_title">시스템 앱 삭제중</string>
