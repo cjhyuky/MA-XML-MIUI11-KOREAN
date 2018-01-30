@@ -6511,4 +6511,14 @@ PIN 설정"</string>
     <string name="music_dirac_mode_cancelling">Mi 주변소음 제거(3.5mm)</string>
     <string name="navigation_guide_app_summary">화면 상단부분을 왼쪽이나 오른쪽으로 스와이프하세요</string>
     <string name="navigation_guide_app_title">"앱 실행 동작"</string>
+    <string name="find_my_device">내 기기 찾기</string>
+    <string name="find_my_device_disable">꺼짐</string>
+    <string name="find_my_device_enable">켜짐</string>
+    <string name="night_light">야간 조명</string>
+    <string name="night_light_brightness">야간 조명 밝기</string>
+    <string name="night_light_color">야간 조명 색상</string>
+    <string name="night_light_summary">저조도 환경에서 백라이트 최소화하기</string>
+    <string name="security_status">보안 상태</string>
+    <string name="security_update">보안 업데이트</string>
+    <string name="paper_mode_side_effect_hint">강도가 높으면 내용 표시 방법에 영향을 줄 수 있습니다.</string>
 </resources>
