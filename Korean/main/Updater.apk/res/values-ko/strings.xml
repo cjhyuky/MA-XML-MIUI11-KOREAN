@@ -45,7 +45,7 @@
    <string name="permlab_reboot">액세스 재부팅</string>
    <string name="pick_not_found">적합한 파일 관리자를 찾을 수 없습니다.</string>
    <string name="pick_title">설치 파일 선택</string>
-   <string name="recovery_desc">이후의 작업 취소 모드에 익숙하지 않은 경우 장치가 지금 복구 모드로 재부팅됩니다. 계속하시겠습니까?</string>
+   <string name="recovery_desc">복구모드가 익숙하지 않으시면 취소버튼을 누르세요. 확인버튼을 누르시면 기기가 복구모드로 재부팅됩니다. 계속하시겠습니까?</string>
    <string name="server_error">서버가 응답하지 않아 응용 프로그램이 제대로 작동하지 않을 수 있습니다! </string>
    <string name="share_desc"> MIUI 버전 %1$s 업데이트! 최신 변경사항을 확인하십시오 : https://xiaomi.eu/community/link-forums/rom-downloads.73/ </string>
    <string name="share_title">공유하세요</string>
