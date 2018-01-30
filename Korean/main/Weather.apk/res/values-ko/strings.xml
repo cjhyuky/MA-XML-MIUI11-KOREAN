@@ -267,4 +267,13 @@
     <string name="real_time_sunrise">일출시간 : %1$s</string>
     <string name="real_time_sunset">일몰시간 : %1$s</string>
     <string name="radar_cloud_image_title">레이더 지도</string>
+    <string name="abrupt_weather_settings_summary_type_a">비정상적인 날씨 경고 스위치</string>
+    <string name="abrupt_weather_settings_summary_type_b">비정상적인 날씨 경고 스위치</string>
+    <string name="abrupt_weather_settings_title">비정상적인 날씨 경고</string>
+    <string name="content_desc_back_button">뒤로가기</string>
+    <string name="content_desc_close_button">닫기</string>
+    <string name="content_desc_edit_city_manage">도시 편집</string>
+    <string name="menu_speaker">음성방송</string>
+    <string name="minute_rain">미미한 예측</string>
+    <string name="missing_required_permission">필요한 권한이 비활성화되어 있습니다.</string>
 </resources>
