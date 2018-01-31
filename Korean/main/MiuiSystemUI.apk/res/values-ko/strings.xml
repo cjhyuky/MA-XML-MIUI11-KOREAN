@@ -107,8 +107,7 @@
     <string name="description_direction_up">%s하려면 위로 슬라이드</string>
     <string name="description_direction_left">%s하려면 왼쪽으로 슬라이드</string>
     <string name="description_target_search">검색</string>
-    <string name="status_bar_date_format_12">"M월 dd일
-EEEE"</string>
+    <string name="status_bar_date_format_12">"M월 dd일 EEEE"</string>
     <string name="status_bar_clock_date_format">M월 d일 EEEE</string>
     <string name="status_bar_recent_memory_info1">%2$sB중 %1$sB 사용 가능</string>
     <string name="status_bar_recent_memory_info2" />
