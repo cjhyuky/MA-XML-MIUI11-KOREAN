@@ -1169,4 +1169,22 @@
     <string name="slim_running">최적화 중…</string>
     <string name="slim_space">해제</string>
     <string name="slim_stop">최적화 중지</string>
+    <string name="filter_bi_memory">추억</string>
+    <string name="filter_bi_mono">모노</string>
+    <string name="filter_bi_pink">화사</string>
+    <string name="filter_bi_portrait">인물</string>
+    <string name="filter_bi_retro">레트로</string>
+    <string name="filter_bi_romantic">로맨틱</string>
+    <string name="filter_bi_strong">강렬한</string>
+    <string name="filter_bi_sunny">밝은</string>
+    <string name="filter_bi_sweet">달콤한</string>
+    <string name="filter_bi_warm">따뜻한</string>
+    <string name="filter_bi_young">젊은</string>
+    <string name="mark_myself_default_name">나</string>
+    <string name="mark_myself_suggestion_load_more">"내가 아닙니다"</string>
+    <string name="mark_myself_suggestion_title">"얼굴을 탭하여 갤러리를 사용자에 맞게 설정하세요."</string>
+    <string name="mark_operation_failed">"추가할 수 없음"</string>
+    <string name="mark_operation_processing">처리중...</string>
+    <string name="mark_operation_succeeded">추가 완료</string>
+    <string name="mark_people_ignore_info_message">사진을 길게 눌러 사람을 추가하세요.</string>
 </resources>
