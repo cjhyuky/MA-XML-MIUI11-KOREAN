@@ -518,8 +518,8 @@
   <string name="abc_searchview_description_clear">최근 검색 삭제</string>
   <string name="abc_searchview_description_query">최근 검색</string>
   <string name="abc_searchview_description_search">검색</string>
-  <string name="abc_searchview_description_submit">검색어 제출</string>
-  <string name="abc_searchview_description_voice">음성 검색어</string>
+  <string name="abc_searchview_description_submit">검색어 </string>
+  <string name="abc_searchview_description_voice">음성 검색</string>
   <string name="abc_shareactionprovider_share_with">공유하기</string>
   <string name="abc_shareactionprovider_share_with_application">%s 님과 공유하기</string>
   <string name="abc_toolbar_collapse_description">툴바 접기</string>
