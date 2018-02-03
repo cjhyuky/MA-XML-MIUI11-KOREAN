@@ -276,4 +276,6 @@
     <string name="menu_speaker">음성방송</string>
     <string name="minute_rain">미미한 예측</string>
     <string name="missing_required_permission">필요한 권한이 비활성화되어 있습니다.</string>
+    <string name="information_settings_title">날씨 정보</string>
+    <string name="other_settings">기타 설정</string>
 </resources>
