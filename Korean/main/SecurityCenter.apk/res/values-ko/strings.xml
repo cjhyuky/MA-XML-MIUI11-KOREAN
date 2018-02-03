@@ -2355,4 +2355,10 @@ SMS 전송"</string>
     <string name="lockpattern_tutorial_continue_label_next">다음을 누르세요</string>
     <string name="network_changed_noti_summary">모바일데이터 사용</string>
     <string name="network_changed_noti_title">와이파이 연결 끊어짐</string>
+    <string name="ac_notification_contentText">탭하여 활성화하기</string>
+    <string name="ac_notification_contentTitle">앱 잠금을 이용해 사생활을 보호하세요.</string>
+    <string name="ac_post_notification_contentText">시스템 레벨 보호 활성화</string>
+    <string name="ac_post_notification_contentTitle">앱 잠금 활성화</string>
+    <string name="ac_pre_notification_contentText">개인 정보 보호</string>
+    <string name="ac_pre_notification_contentTitle">앱 잠금을 시도해 보세요.</string>
 </resources>
