@@ -323,4 +323,12 @@
     <string name="app_search">앱 검색</string>
     <string name="issue_search">검색</string>
     <string name="submit_dialog_content_global">"첨부 파일 및 로그와 함께 사용자의 버그리포트가 MIUI의 서버로 전송됩니다. 로그에는 개인 정보와 위치 데이터가 포함될 수 있습니다. 로그 제출을 원하지 않으시면 취소버튼을 누르세요."</string>
+    <string name="feedback_select_modem_log_not_select_desc">"\"Add modem logs\" 선택하지 않음"</string>
+    <string name="feedback_select_modem_log_select_desc">"\"Add modem logs\" 선택함"</string>
+    <string name="feedback_select_problem_not_select_desc">"\"Issues\" 선택하지 않음"</string>
+    <string name="feedback_select_problem_select_desc">"\"Issues\" 선택함"</string>
+    <string name="feedback_select_suggestion_not_select_desc">"\"Suggestions\" 선택하지 않음"</string>
+    <string name="feedback_select_suggestion_select_desc">\"Suggestions\" 선택함</string>
+    <string name="feedback_select_upload_log_not_select_desc">"\"Add logs\" 선택하지 않음"</string>
+    <string name="feedback_select_upload_log_select_desc">\"Add logs\" 선택함</string>
 </resources>
