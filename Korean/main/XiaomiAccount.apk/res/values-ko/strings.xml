@@ -460,4 +460,6 @@
     <string name="sim_changed_notification_title">휴대전화 번호가 변경되었나요?</string>
     <string name="passport_confirm_login">계속</string>
     <string name="passport_sms_verification_code_login">SMS 인증 코드 로그인</string>
+    <string name="passport_input_voice_captcha_hint">확인 코드 입력</string>
+    <string name="turning_off_find_device">내 기기 찾기 기능 비활성화중…</string>
 </resources>
