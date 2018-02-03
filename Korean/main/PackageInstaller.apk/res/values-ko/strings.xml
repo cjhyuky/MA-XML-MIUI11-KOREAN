@@ -217,7 +217,7 @@
     <string name="grant_confirm_question">다음의 권한을 부여하시겠습니까? 다음 항목에 접근할 수 있습니다:</string>
     <string name="grant_dialog_button_deny">거부</string>
     <string name="grant_dialog_button_deny_anyway">거부</string>
-    <string name="current_permission_template">총 %2$s개 권한 중 %1$s 권한</string>
+    <string name="current_permission_template">총 %2$s개의 권한 중 %1$s번째 권한</string>
     <string name="permission_warning_template"><b>%1$s</b>의 %2$s 접근을 허용하시겠습니까?</string>
     <string name="grant_dialog_button_allow">허용</string>
     <string name="app_permissions_breadcrumb">앱</string>
