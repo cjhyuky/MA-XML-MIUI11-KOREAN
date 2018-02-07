@@ -124,7 +124,7 @@
   <string name="card_settings_rule">카드 주문 설정</string>
   <string name="card_title_express">내 배달주문</string>
   <string name="card_title_favorite">즐겨찾기</string>
-  <string name="card_title_funclaunch">앱 바로가기</string>
+  <string name="card_title_funclaunch">바로가기</string>
   <string name="card_title_noteboard">메모장</string>
   <string name="card_title_sport">Mi 피트</string>
   <string name="card_title_sportassist">스포츠 중계</string>
@@ -1122,7 +1122,7 @@
   <string name="favorite_title_limit">40자까지만 입력할 수 있습니다</string>
   <string name="favorite_title_modify">편집</string>
   <string name="memory_clear_nothing_result">삭제할 캐시 없음</string>
-  <string name="help_quick_start_wechat_video">앱 바로가기를 사용하여 특정앱의 기능을 바로 사용하세요</string>
+  <string name="help_quick_start_wechat_video">바로가기를 사용하여 특정앱의 기능을 바로 사용하세요</string>
   <string name="fav_tab_all">모두</string>
   <string name="fav_tab_article">신문/뉴스 기사</string>
   <string name="fav_tab_new">새 권한</string>
