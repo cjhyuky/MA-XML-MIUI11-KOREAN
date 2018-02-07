@@ -861,4 +861,6 @@
     <string name="accessibility_recent_task_locked_state">잠김 상태</string>
     <string name="accessibility_recent_task_unlocked_state">풀림 상태</string>
     <string name="please_slide_agian">다시 한번 슬라이드 하세요</string>
+    <string name="how_to_use_drawer">앱 슬라이딩 기능 사용법</string>
+    <string name="how_to_use_drawer_summary">왼쪽상단에서부터 스와이프하세요</string>
 </resources>
