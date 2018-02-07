@@ -520,4 +520,5 @@
     <string name="passport_user_reg_region_warning">"계정 생성시 설정하신 국가/지역은 변경하실 수 없습니다."</string>
     <string name="passport_verifying_activator_phone">휴대전화 보안을 인증하는중…</string>
     <string name="passport_yes">네</string>
+    <string name="mibi_recharge_warn_text">"Mi크레딧을 사용하여 실제 물건을 구입하실 수는 없습니다."</string>
 </resources>
