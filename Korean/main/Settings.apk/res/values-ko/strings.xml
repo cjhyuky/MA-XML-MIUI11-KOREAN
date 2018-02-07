@@ -6136,4 +6136,23 @@ PIN 설정"</string>
     <string name="account_contact_backup_info">구글 계정, Mi 계정과 연락처 데이터</string>
     <string name="fsg_mistake_touch_summary">풀 화면 영상이나 게임을 구동중일 경우, 제스쳐를 두 번 반복해야 활성화됩니다.</string>
     <string name="fsg_mistake_touch_title">두 번 탭하여 제스쳐 활성화</string>
+    <string name="disabled_authorised_apps_title">취소된 인증</string>
+    <string name="disabled_low_ram_device">이 기기에서 이 기능을 사용할 수 없습니다</string>
+    <string name="enabled_authorised_apps_summary">개별 앱의 스위치를 등록한 뒤에는 승인이 취소됩니다.</string>
+    <string name="enabled_authorised_apps_title">승인된 권한</string>
+    <string name="privacy_authorize_dialog_agree">동의</string>
+    <string name="privacy_authorize_dialog_exit">나가기</string>
+    <string name="privacy_authorize_dialog_message">%2$s 사항을 읽고 동의하는 것을 %1$s 앱이 요구하고 있습니다. 정상적인 네트워크 연결이 필요합니다. 동의하십니까?</string>
+    <string name="privacy_authorize_network_error">네트워크에 연결하고 다시 시도하십시오.</string>
+    <string name="privacy_authorize_privacy_policy">개인정보 보호정책</string>
+    <string name="privacy_authorize_revoke">취소</string>
+    <string name="privacy_authorize_revoke_dialog_msg">인증을 취소하면 앱에서 데이터 수집이 중지되고 모든 관련 데이터가 서버에서 삭제됩니다. 이로 인해 앱을 사실상 사용할 수 없게 될 수도 있습니다. 권한을 취소하시겠습니까?</string>
+    <string name="privacy_authorize_revoke_dialog_title">인증 취소</string>
+    <string name="privacy_authorize_revoke_failed">"인증 취소 실패"</string>
+    <string name="privacy_authorize_revoke_success">인증을 취소했습니다</string>
+    <string name="privacy_authorize_revoke_time">취소(%1$ds)</string>
+    <string name="privacy_authorize_revoke_title">권한 및 취소</string>
+    <string name="privacy_authorize_revoking">인증 취소중…</string>
+    <string name="privacy_authorize_success">승인 권한 부여</string>
+    <string name="privacy_authorize_title">권한 승인</string>
 </resources>
