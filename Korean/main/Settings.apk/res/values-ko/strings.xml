@@ -5436,7 +5436,6 @@ PIN 설정"</string>
     <string name="screen_pinning_unlock_password">언핑 전에 비밀번호 물어보기</string>
     <string name="screen_pinning_unlock_pattern">언핑 전에 패턴 물어보기</string>
     <string name="screen_pinning_unlock_pin">언핑 전에 PIN 물어보기</string>
-    <string name="error_title">동기화할 수 없음</string>
     <string name="bluetooth_wake">블루투스 오디오로 깨우기</string>
     <string name="wifi_assistant_dialog_message">"Wi-Fi 어시스턴트는 네트워크 트래픽 감시를 위해서 보안 VPN 연결을 필요로 합니다."</string>
     <string name="wifi_assistant_explanation_message">구글 Wi-Fi 어시스턴트는 네트워크 트래픽을 감시하여 최적의 속도와 안정된 연결을 할 수 있도록 도와줍니다.</string>
