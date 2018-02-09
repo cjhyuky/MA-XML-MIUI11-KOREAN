@@ -1286,7 +1286,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="app_special_disable_dlg_title">데이터를 삭제하고 앱을 사용 중지하시겠습니까?</string>
     <string name="app_special_disable_dlg_text">내장 앱을 사용 중지할 경우, 다른 앱에 오류가 발생할 수 있으며 데이터도 삭제될 수 있습니다.</string>
     <string name="app_disable_notifications_dlg_title">알림을 사용 중지하시겠습니까?</string>
-    <string name="app_disable_notifications_dlg_text">이 앱에서 알림을 사용하도록 설정하지 않으면 중요한 알리미와 업데이트를 놓칠 수 있습니다.</string>
+    <string name="app_disable_notifications_dlg_text">이 앱에서 알림을 사용하도록 설정하지 않으면 중요한 알림과 업데이트를 놓칠 수 있습니다.</string>
     <string name="app_ops_settings">앱 운영</string>
     <string name="app_ops_running">실행 중</string>
     <string name="app_ops_never_used">(사용 안 함)</string>
