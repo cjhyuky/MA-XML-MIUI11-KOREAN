@@ -41,8 +41,8 @@
     <string name="enable_emergency_alerts_summary">비상사태 경고 브로드캐스트 표시</string>
     <string name="alert_sound_duration_title">경고음 지속 시간</string>
     <string name="alert_reminder_interval_title">경고 알림</string>
-    <string name="enable_alert_speech_title">경고 메시지를 음성 언어로 표시</string>
-    <string name="enable_alert_speech_summary">비상사태 경고 메시지를 TTX 기능을 사용하여 음성 언어로 알림</string>
+    <string name="enable_alert_speech_title">경고 메시지를 음성으로 알림</string>
+    <string name="enable_alert_speech_summary">비상사태 경고 메시지를 TTS 기능을 사용하여 음성으로 알림</string>
     <string name="category_etws_settings_title">ETWS 설정</string>
     <string name="enable_etws_test_alerts_title">ETWS 테스트 브로드캐스트 표시</string>
     <string name="enable_etws_test_alerts_summary">지진 해일 경보 시스템용 테스트 브로드캐스트 표시</string>
@@ -55,7 +55,7 @@
     <string name="enable_cmas_test_alerts_title">CMAS 테스트 브로드캐스트 표시</string>
     <string name="enable_cmas_test_alerts_summary">모바일 경보 시스템(CMAS)에 대한 테스트 브로드캐스트 표시</string>
     <string name="enable_alert_vibrate_title">진동</string>
-    <string name="enable_alert_vibrate_summary">알리미 받을 때 진동</string>
+    <string name="enable_alert_vibrate_summary">알림을 받을 때 진동</string>
     <string name="category_brazil_settings_title">브라질에 대한 설정</string>
     <string name="enable_channel_50_alerts_title">채널 50 브로드캐스트 표시</string>
     <string name="enable_channel_50_alerts_summary">지역 업데이트 정보용으로 브라질에서 사용되는 채널 50</string>
