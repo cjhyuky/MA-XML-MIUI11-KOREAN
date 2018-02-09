@@ -20,9 +20,9 @@
     <string name="pick_image">이미지 선택</string>
     <string name="pick_wallpaper">배경화면</string>
     <string name="crop_wallpaper">배경화면 잘라내기</string>
-    <string name="application_name">Launcher3</string>
+    <string name="application_name">런처3</string>
     <string name="home">홈</string>
-    <string name="uid_name">Android 핵심 앱</string>
+    <string name="uid_name">안드로이드 핵심 앱</string>
     <string name="folder_name" />
     <string name="activity_not_found">앱이 설치되지 않았습니다.</string>
     <string name="activity_not_available">앱을 사용할 수 없음</string>
@@ -891,8 +891,8 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="reminder_notification_tts">Google Now 알림: %1$s</string>
     <string name="calendar_notification_tts">Google Now 캘린더 업데이트: %1$s 일정이 시작됩니다. 정시에 도착하려면 늦어도 %2$s에는 출발해야 합니다.</string>
     <string name="restaurant_time_to_leave_tts">Google Now 캘린더 업데이트: %1$s 예약 시간이 %2$s입니다. 정시에 도착하려면 늦어도 %3$s에는 출발해야 합니다.</string>
-    <string name="public_alert_notification_tts">Google Now 긴급 알리미: %1$s</string>
-    <string name="public_alert_notification_with_location_tts">%1$s에 대한 Google Now 긴급 알리미: %2$s</string>
+    <string name="public_alert_notification_tts">Google Now 긴급 알림: %1$s</string>
+    <string name="public_alert_notification_with_location_tts">%1$s에 대한 Google Now 긴급 알림: %2$s</string>
     <string name="movie_ticket_notification_tts">Google Now 캘린더 업데이트: %1$s 영화가 %3$s에서 %2$s에 시작할 예정입니다. 정시에 도착하려면 늦어도 %4$s에는 출발해야 합니다.</string>
     <string name="movie_ticket_notification_no_theater_tts">Google Now 캘린더 업데이트: %1$s 영화가 %2$s에 시작할 예정입니다. 정시에 도착하려면 늦어도 %3$s에는 출발해야 합니다.</string>
     <string name="flight_time_to_leave_tts">%1$s %2$s편에 대한 Google Now 캘린더 업데이트입니다. 출발 시간 %3$s 전에 공항에 도착하려면 늦어도 %4$s에는 출발해야 합니다.</string>
