@@ -30,7 +30,7 @@
     <string name="message_options">메시지 옵션</string>
     <string name="menu_view_details">세부정보 보기</string>
     <string name="menu_delete">브로드캐스트 삭제</string>
-    <string name="view_details_title">알리미 세부정보</string>
+    <string name="view_details_title">알림 세부정보</string>
     <string name="confirm_delete_broadcast">브로드캐스트를 삭제하시겠습니까?</string>
     <string name="confirm_delete_all_broadcasts">모든 경고 메시지가 삭제됩니다</string>
     <string name="button_delete">삭제</string>
@@ -67,12 +67,12 @@
     <string name="enable_cmas_test_alerts_title">CMAS 테스트 브로드캐스트 표시</string>
     <string name="enable_cmas_test_alerts_summary">모바일 경보 시스템(CMAS)에 대한 테스트 브로드캐스트 표시</string>
     <string name="enable_alert_vibrate_title">진동</string>
-    <string name="enable_alert_vibrate_summary">알리미 받을 때 진동</string>
+    <string name="enable_alert_vibrate_summary">알림 받을 때 진동</string>
     <string name="category_brazil_settings_title">브라질에 대한 설정</string>
     <string name="enable_channel_50_alerts_title">채널 50 브로드캐스트 표시</string>
     <string name="enable_channel_50_alerts_summary">지역 업데이트 정보용으로 브라질에서 사용되는 채널 50</string>
     <string name="category_dev_settings_title">개발자 옵션</string>
-    <string name="cmas_category_heading">알리미 카테고리:</string>
+    <string name="cmas_category_heading">알림 카테고리:</string>
     <string name="cmas_category_geo">지구 물리</string>
     <string name="cmas_category_met">기상</string>
     <string name="cmas_category_safety">안전</string>
