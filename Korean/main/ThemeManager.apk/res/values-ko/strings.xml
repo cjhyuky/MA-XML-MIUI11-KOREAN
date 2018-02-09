@@ -358,7 +358,7 @@
     <string name="gift_received_list_empty">선물을 받은 적이 없습니다.</string>
     <string name="gift_received_notification_title">%s님이 테마를 선물했습니다.</string>
     <string name="present_online_themes">더 많은 무료 테마 얻기</string>
-    <string name="present_local_themes">내 리소스</string>
+    <string name="present_local_themes">나의 테마</string>
     <string name="lockscreen_magazine_title">슬라이드형 배경화면</string>
     <string name="lockscreen_magazine_summary">카테고리</string>
     <string name="lockscreen_magazine_subscribe">%1$s 구독자</string>
