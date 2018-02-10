@@ -1341,4 +1341,6 @@
     <string name="quick_dial_setting_set_dialog_option_set">설정</string>
     <string name="quick_dial_setting_title">단축 번호</string>
     <string name="search_quick_dial_setting">연락처</string>
+    <string name="preference_contacts_moresetting">추가 설정</string>
+    <string name="preference_display_contact">디스플레이 옵션</string>
 </resources>
