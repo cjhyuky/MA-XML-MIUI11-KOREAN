@@ -88,4 +88,6 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="sim_card_detecting_check">"SIM카드를 찾을 수 없습니다. SIM카드가 제대로 설치되어 있고 잔액이 충분한지 확인하세요."</string>
     <string name="system_navigation_mode">시스템 탐색 모드</string>
     <string name="sim_card_detecting_confirm_turn_on_network">모바일 데이터 네트워크에 연결하는 것을 허용하시겠습니까? 허용하시면 삽입되어있는 SIM카드를 이용하여 모바일 네트워크에 접속할 것입니다.</string>
+    <string name="other_settings_ad_enable">추천된 광고</string>
+    <string name="other_settings_ad_enable_summary">빅데이터를 활용해 사용자에게 맞는 광고를 추천합니다.</string>
 </resources>
