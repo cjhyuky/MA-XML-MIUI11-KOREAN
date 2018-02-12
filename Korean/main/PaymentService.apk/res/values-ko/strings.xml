@@ -520,5 +520,8 @@
     <string name="passport_user_reg_region_warning">"계정 생성시 설정하신 국가/지역은 변경하실 수 없습니다."</string>
     <string name="passport_verifying_activator_phone">휴대전화 보안을 인증하는중…</string>
     <string name="passport_yes">네</string>
-    <string name="mibi_recharge_warn_text">"Mi크레딧을 사용하여 실제 물건을 구입하실 수는 없습니다."</string>
+    <string name="mibi_recharge_warn_text">"Mi 크레딧을 사용하여 실제 물건을 구입하실 수는 없습니다."</string>
+    <string name="mibi_all_license_message">"(주)샤오미에서 제공되는 Mi 크레딧 기능을 사용하려면 %1$s에 명시된 이용약관에 동의해야 합니다. 이용약관에 동의하시면 '네'를 누르세요. Mi Credit을 사용하기 위해서는 인터넷에 연결되어 있어야 합니다."</string>
+    <string name="mibi_normal_license_name">이용 약관</string>
+    <string name="mibi_privacy_license_name">개인 정보 보호 정책</string>
 </resources>
