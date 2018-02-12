@@ -148,4 +148,10 @@
     <string name="face_unlock_reenter_title">얼굴을 다시 인식해주세요.</string>
     <string name="fingerprint_not_identified_msg_lock">잘못된 지문인식 시도가 너무 많았습니다. 비밀번호를 입력하세요.</string>
     <string name="keyguard_left_view_lock_wallpaper">슬라이드형 배경화면</string>
+    <string name="change_to_ac_charging">무선 충전으로 전환됨</string>
+    <string name="reset_device_detail_tip">무선 충전 중, 충전속도를 높이시려면 휴대전화를 올바른 위치에 두세요.</string>
+    <string name="reset_device_tip">천천히 충전하세요, 휴대전화를 올바른 위치에 두세요</string>
+    <string name="wireless_charge_dialog_cancel">취소</string>
+    <string name="wireless_charge_dialog_title">위치를 벗어났습니다, 제자리에 놓으세요</string>
+    <string name="wireless_charge_stop">무선 충전이 중지되었습니다</string>
 </resources>
