@@ -384,7 +384,7 @@
     <string name="unlock_help_notice">"도움말:
 · 만약 비밀번호를 잊었다면 id.mi.com에서 재설정하십시오.
 · 만약 기기의 잠금을 해제할 수 없다면 i.mi.com에서 기기 찾기를 꺼주세요.
-· 다음의 언락 코드를 고객 서비스 센터에 알려주세요: %s"</string>
+· 언락 코드 : %s"</string>
     <string name="find_device_display_id">잠금 해제 코드: %s</string>
     <string name="login_find_device_bind">이 기기는 이미 존재하는 Mi 계정 ID(%s) 와 연결되어 있습니다. 이 기기를 인증하시려면 비밀번호를 입력하십시오.</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, 관련된 전화번호: %s</string>
