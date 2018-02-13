@@ -2140,7 +2140,7 @@ SMS 전송"</string>
     <string name="battery_history_days_no_seconds">%1$d일 %2$d시간 %3$d분</string>
     <string name="battery_history_hours_no_seconds">%1$d시간 %2$d분</string>
     <string name="battery_history_minutes_no_seconds">%1$d분</string>
-    <string name="brightness_auto_adjust_on">이용 가능한 조명에 맞춰 밝기 수준 최적화</string>
+    <string name="brightness_auto_adjust_on">주변 환경에 맞게 밝기 조절</string>
     <string name="brightness_auto_adjust_off">모든 환경에서 일정한 밝기 유지</string>
     <string name="power_mode_choose_summary_change">설정에서 무언가 변경되었습니다.</string>
     <string name="shutdown_time_day">전원 꺼짐: %2$s %1$dd</string>
