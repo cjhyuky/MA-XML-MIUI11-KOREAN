@@ -3,7 +3,7 @@
     <string name="passport_account_label">Mi 계정</string>
     <string name="passport_notification_title">%1$s 로그인 오류</string>
     <string name="passport_login_prompt">하나의 Mi 계정로 모든 Mi 서비스를 이용하십시오.</string>
-    <string name="passport_login_using_other_ways"><u>다른 방법으로 로그인</u></string>
+    <string name="passport_login_using_other_ways">다른 방법으로 로그인</string>
     <string name="passport_login_title">Mi 계정에 로그인</string>
     <string name="passport_login">로그인</string>
     <string name="passport_relogin">다시 로그인</string>
