@@ -480,9 +480,9 @@
     <string name="confirm_restore_message">선택한 메시지를 복원하시겠습니까?</string>
     <string name="pref_setting_title">페이지 설정</string>
     <string name="empty">항목 없음</string>
-    <string name="hint_device_water_mark">기기 워터마크는 자동으로 추가될 것입니다.</string>
+    <string name="hint_device_water_mark">사진 워터마크가 자동으로 추가됩니다.</string>
     <string name="multi_window_mode_not_supported">카메라는 분할 화면에서 작동하지 않습니다.</string>
-    <string name="pref_camera_device_watermark_title">기기 워터마크</string>
+    <string name="pref_camera_device_watermark_title">사진 워터마크</string>
     <string name="pref_camera_flashmode_title">플래시 모드</string>
     <string name="toast_burst_snap_finished_summary">연속 촬영 완료, %1$s개 사진 촬영됨</string>
     <string name="accessibility_intent_done_apply">완료</string>
@@ -498,10 +498,10 @@
     <string name="pref_camera_photostyle_default">표준</string>
     <string name="pref_camera_photostyle_entry_standard">표준</string>
     <string name="pref_camera_photostyle_entry_vivid">생생한</string>
-    <string name="camera_facedetection_sub_option_hint">베타 배포 옵션 사용 가능</string>
+    <string name="camera_facedetection_sub_option_hint">베타 옵션</string>
     <string name="front_camera_hint_text_place">"핸드폰을 가로로 돌려 셀카를 편하게 촬영하세요."</string>
     <string name="front_camera_hint_text_rotate">핸드폰 돌리기</string>
-    <string name="pref_camera_facedetection_auto_hidden_title">안면 인식 숨겨짐</string>
+    <string name="pref_camera_facedetection_auto_hidden_title">얼굴 인식 프레임 자동으로 숨기기</string>
     <string name="pref_camera_raw_title">RAW</string>
     <string name="simple_mode_button_text_mono">흑백 모드</string>
     <string name="simple_mode_button_text_raw">RAW 모드</string>
