@@ -63,7 +63,7 @@
     <string name="hint_cannot_view_hidden_note_content">숨겨진 메모의 내용을 표시할 수 없습니다.</string>
     <string name="alert_title_restore">메모 복구</string>
     <string name="alert_message_restore">이 메모를 열 수 없음. 내용을 수정하기 위해 복구하십시오.</string>
-    <string name="note_sort_way">어떻게 메모를 정렬할지 선택하십시오</string>
+    <string name="note_sort_way">메모 정렬방식 선택</string>
     <string name="trash_folder_reminder">삭제한 메모는 30일 후에 영구적으로 삭제됩니다.</string>
     <string name="cta_reminder">이 앱은 Mi 클라우드에 메모를 백업하기 위해 인터넷에 연결됩니다. 또한 통화 중 메모를 위해 연락처를 읽습니다.</string>
     <string name="menu_add_folder">폴더에 추가</string>
