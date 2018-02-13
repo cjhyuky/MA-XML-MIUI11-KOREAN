@@ -1986,8 +1986,8 @@
     <string name="etws_primary_default_message_test">긴급 메세지 테스트</string>
     <string name="etws_primary_default_message_tsunami">연안 지역과 강변에서 즉시 고지대 같은 안전한 장소로 대피하십시오.</string>
     <string name="fingerprint_error_lockout_permanent">시도 횟수가 너무 많습니다. 지문 센서가 비활성화되었습니다.</string>
-    <string name="foreground_service_app_in_background">%1$s 앱이 백그라운드에서 실행중입니다</string>
-    <string name="foreground_service_apps_in_background">%1$d개의 앱이 백그라운드에서 실행중입니다</string>
+    <string name="foreground_service_app_in_background">%1$s 앱이 배터리를 소모하고 있습니다.</string>
+    <string name="foreground_service_apps_in_background">%1$d개 앱이 배터리를 소모하고 있습니다.</string>
     <string name="foreground_service_tap_for_details">배터리와 데이터 사용에 관해 자세히 보시려면 탭하세요</string>
     <string name="leave_accessibility_shortcut_on">바로가기 사용</string>
     <string name="managed_profile_label_badge_2">2번째 작업 %1$s</string>
