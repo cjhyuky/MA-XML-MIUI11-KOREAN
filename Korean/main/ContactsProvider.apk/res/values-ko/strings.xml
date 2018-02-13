@@ -34,6 +34,6 @@
     <string name="group_name_friends">친구</string>
     <string name="unknown">알 수 없는 번호</string>
     <string name="update_accounts_changed">계정 변경됨</string>
-    <string name="sim_state_changed">전화 카드 변경됨</string>
+    <string name="sim_state_changed">SIM 카드 변경됨</string>
     <string name="voicemail_cleanup">음성 사서함 정리</string>
 </resources>
