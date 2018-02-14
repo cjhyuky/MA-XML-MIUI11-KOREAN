@@ -59,7 +59,7 @@
     <string name="input_password_after_boot_msg_must_enter_owner_space">기기 재시작 후에는 기본 공간으로 진입하셔야 합니다.</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">통화 중에는 공간 간의 전환을 할 수 없습니다.</string>
     <string name="input_password_handle_sdcard_fs">보조 공간 진입 전 \"모의 SD 카드 최적화\"를 종료해주십시오.</string>
-    <string name="accessibility_enter_lock_wallpaper">탭하여 슬라이드형 배경화면 열기</string>
+    <string name="accessibility_enter_lock_wallpaper">탭하여 음악 재생</string>
     <string name="lock_wallpaper_learn_more">더 보기</string>
     <string name="lock_wallpaper_enter">입력</string>
     <string name="custom_lock_wallpaper_enter">입력</string>
@@ -147,7 +147,7 @@
     <string name="face_unlock_reenter_content">안면 인식 알고리즘 업데이트 중입니다. 탭하여 다시 인식하세요.</string>
     <string name="face_unlock_reenter_title">얼굴을 다시 인식해주세요.</string>
     <string name="fingerprint_not_identified_msg_lock">잘못된 지문인식 시도가 너무 많았습니다. 비밀번호를 입력하세요.</string>
-    <string name="keyguard_left_view_lock_wallpaper">슬라이드형 배경화면</string>
+    <string name="keyguard_left_view_lock_wallpaper">음악</string>
     <string name="change_to_ac_charging">무선 충전으로 전환됨</string>
     <string name="reset_device_detail_tip">무선 충전 중, 충전속도를 높이시려면 휴대전화를 올바른 위치에 두세요.</string>
     <string name="reset_device_tip">천천히 충전하세요, 휴대전화를 올바른 위치에 두세요</string>
