@@ -1095,7 +1095,7 @@ SMS 전송"</string>
     <string name="auto_task_condition_time_text">%s에서</string>
     <string name="auto_task_condition_time_duration_text">%1$s에서 %2$s까지</string>
     <string name="auto_task_edit_abandon_change">변경 사항을 취소하시겠습니까?</string>
-    <string name="auto_task_edit_adandon_button_text">취소</string>
+    <string name="auto_task_edit_adandon_button_text">변경 취소</string>
     <string name="auto_task_dialog_button_close">완료</string>
     <string name="auto_task_manage_delete_prompt">선택된 작업을 삭제하시겠습니까?</string>
     <string name="auto_task_condition_restore_task_when_charged">충전 후 이전 모드로 전환하기</string>
