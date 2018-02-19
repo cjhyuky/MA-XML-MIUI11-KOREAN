@@ -80,7 +80,6 @@
     <string name="birthday_alarm_summary">생일날 기본 알람음 대신 \"Happy Birthday\" 재생</string>
     <string name="turn_off_a_repeat_alarm">반복알람 끄기</string>
     <string name="skip_alarm_once_hint">%s 한번만 끄기</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="turn_off_this_repeat_alarm">이 반복 알람을 끄기</string>
     <string name="today">오늘</string>
     <string name="tomorrow">내일</string>

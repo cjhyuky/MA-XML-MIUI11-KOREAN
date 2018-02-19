@@ -100,7 +100,6 @@
     <string name="ui_main_toast_operation_failed">%1$s 항목을 즐겨찾기 해제할 수 없음</string>
     <string name="rename_failed">%1$s의 이름을 변경할 수 없습니다.</string>
     <string name="error_open_file_failed_no_app_found">이 동작을 처리할 앱을 발견하지 못했습니다.</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="no_enough_storage_title">저장 공간 부족</string>
     <string name="no_enough_storage_indication">기기의 저장 공간이 꽉 찼습니다.</string>
     <string name="used">사용됨</string>
@@ -170,7 +169,6 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tab_local">로컬</string>
     <string name="sys_size_enable">" 사용 가능"</string>
     <string name="tools">도구</string>
@@ -430,7 +428,6 @@
     <string name="video_upload_btn_hint">MP4 비디오는 3초~10분의 길이여야 합니다.</string>
     <string name="video_upload_btn">다음</string>
     <string name="video_upload_title">비디오 선택</string>
-    <string name="video_upload_item_title">%1$s (%2$s)</string>
     <string name="video_comment_topic">\#토픽 추가 #</string>
     <string name="video_comment_hint">토픽 선택</string>
     <string name="video_comment_publish">등록</string>
@@ -504,7 +501,6 @@
     <string name="video_topic_hint">사람 또는 토픽 검색</string>
     <string name="comment_reply">답장 %1$s:</string>
     <string name="comment_hint">댓글 추가</string>
-    <string name="origin_name">%1$s: </string>
     <string name="hot_comments">인기 댓글</string>
     <string name="new_comments">새로운 댓글</string>
     <string name="copy_text">텍스트 복사</string>
@@ -570,14 +566,12 @@
     <string name="recommend">추천됨</string>
     <string name="topic_message">&lt;font color=#fc7050>%1$s: &lt;/font>%2$s</string>
     <string name="message_my_received_praise">내 좋아요</string>
-    <string name="message_my_received_praise_count">+%1$s</string>
     <string name="message_comment_prefix">"댓글: "</string>
     <string name="message_reply_prefix">답장</string>
     <string name="topic_followed">팔로잉</string>
     <string name="topic_follow">팔로우</string>
     <string name="reply_success">댓글 추가됨</string>
     <string name="operation_reply">댓글</string>
-    <string name="message_reply_suffix">": "</string>
     <string name="message_praise_video">" 이 비디오 좋아요함"</string>
     <string name="message_praise_comment">" 이 댓글 좋아요함"</string>
     <string name="get_user_info_err">이 사람에 대한 정보 가져올 수 없음</string>
@@ -763,7 +757,6 @@
     <string name="finish_str">완료</string>
     <string name="tab_msg">메시지</string>
     <string name="msg_page_video_default_title">동영상을 업로드했습니다. 확인해보세요!</string>
-    <string name="recommend_users">%1$s+</string>
     <string name="follow_success_tip">성공적으로 팔로우되었습니다</string>
     <string name="comment_fail">댓글을 게시할 수 없습니다. 재시도하십시오.</string>
     <string name="comment_fail_banned_temporary">부적절한 댓글을 게시하여 일시적으로 차단되었습니다</string>

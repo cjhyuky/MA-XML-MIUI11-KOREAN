@@ -123,7 +123,6 @@
     <string name="more_face">더 많은 비슷한 사람</string>
     <string name="face_confirm">동일 인물입니다.</string>
     <string name="face_recommend">추천</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="face_name_input">이름 입력</string>
     <string name="face_name_edit">편집</string>
     <string name="confirm_hidden_recommend_group">확인</string>
@@ -418,7 +417,6 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="tip_capture_time">촬영 날짜:</string>
     <string name="tip_file_info">파일 정보:</string>
     <string name="tip_capture_params">EXIF 데이터:</string>
@@ -603,7 +601,6 @@
     <string name="welcome_to_slim">로컬 저장소 최적화</string>
     <string name="slim_introduce">Mi 클라우드로 백업된 후 풀해상도 사진이 최적화 버전으로 교체됩니다. 풀해상도 사진은 Mi 클라우드에 남게될 것입니다.</string>
     <string name="slim_introduce_with_specific_size">Mi 클라우드로 백업된 후 풀해상도 파일이 최적화 버전으로 교체됩니다. 풀해상도 항목은 Mi 클라우드에 저장됩니다. 로컬 저장소의 %1$s만큼 절약할 수 있습니다. (Mi 계정 요구됨)</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">사진 및 동영상이 자동으로 백업됩니다. (Mi 계정 요구됨)</string>
     <string name="next">다음</string>
     <string name="login_and_enable_service">Mi 계정으로 로그인</string>
@@ -680,7 +677,6 @@
     <string name="cloud_storage_ok_append_desc">%s 사용 가능</string>
     <string name="cloud_storage_warn_title">Mi 클라우드 저장소에 충분한 공간이 없습니다</string>
     <string name="cloud_storage_warn_desc">추가 공간을 원하시면 클라우드 VIP를 구매하십시오</string>
-    <string name="percent_sign">%</string>
     <string name="cloud_storage_extend">클라우드 공간 확장</string>
     <string name="user_agreement2">서비스 약관</string>
     <string name="user_agreement4">개인 정보 보호 정책</string>
@@ -789,13 +785,10 @@
     <string name="search_setting_sub_title_open">적용되었습니다. 잠시만 기다려주세요.</string>
     <string name="search_request_open">테스트 팀에 가입</string>
     <string name="search_title_more">더 보기</string>
-    <string name="search_transition_element_input">검색</string>
-    <string name="search_transition_element_icon">검색</string>
     <string name="grant_permission_title">접근 허용</string>
     <string name="grant_permission_text">"갤러리는 정상작동을 위해
 %s
 권한이 필요합니다. \"설정\"을 탭하여 권한으로 이동하십시오."</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_go_and_set">설정</string>
     <string name="loading">잠시만 기다려주십시오</string>
     <string name="loading_dots">잠시만 기다려주십시오…</string>

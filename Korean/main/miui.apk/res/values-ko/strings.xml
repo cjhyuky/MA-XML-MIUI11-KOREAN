@@ -45,7 +45,6 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="date_time_done">완료</string>
     <string name="date_picker_dialog_title">날짜 설정</string>
     <string name="time_picker_dialog_title">시간 설정</string>

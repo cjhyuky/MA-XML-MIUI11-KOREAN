@@ -866,7 +866,6 @@
     <string name="check_security_tip_privacy_policy">개인 정보 보호 약관</string>
     <string name="check_security_tip_user_agreement">사용자 계약</string>
     <string name="cloud_tabs_sync_off">동기화 끄기</string>
-    <string name="color_picker_value">입력사항</string>
     <string name="comment_description">댓글</string>
     <string name="contextmenu_manually_block_ad">광고로 표시</string>
     <string name="contextmenu_openlink_in_browser">브라우저에서 열기</string>
@@ -902,16 +901,7 @@
     <string name="permissions_prompt_message">%s 이 다음을 원합니다 : </string>
     <string name="pref_advert_null">광고로 표시된 항목이 없습니다.</string>
     <string name="pref_cancel_screen">차단 해제</string>
-    <string name="pref_data_preload_value_always">항상</string>
-    <string name="pref_data_preload_value_never">항상 하지 않음</string>
-    <string name="pref_data_preload_value_wifi_only">Wi-Fi 만 사용</string>
     <string name="pref_label_advert_manager">관리 설정된 광고</string>
-    <string name="pref_link_prefetch_value_always">항상</string>
-    <string name="pref_link_prefetch_value_never">항상 하지 않음</string>
-    <string name="pref_link_prefetch_value_wifi_only">Wi-Fi만 사용</string>
-    <string name="pref_video_preload_value_always">항상</string>
-    <string name="pref_video_preload_value_never">항상 하지 않음</string>
-    <string name="pref_video_preload_value_wifi_only">Wi-Fi만 사용</string>
     <string name="pwa_app_name">웹 앱</string>
     <string name="qr_description">QR 코드 스캔</string>
     <string name="quicklink_folder_text">상위 앱</string>
@@ -1106,7 +1096,6 @@
     <string name="mw_color_picker_dialog_title">색상 선택</string>
     <string name="mw_color_picker_hue">색조</string>
     <string name="mw_color_picker_saturation">채도</string>
-    <string name="mw_color_picker_value">값</string>
     <string name="mw_common_google_play_services_enable_button">활성화</string>
     <string name="mw_common_google_play_services_enable_text">"구글 플레이 서비스를 활성화하지 않으면 %1$s 앱이 제대로 작동하지 않을 수 있습니다."</string>
     <string name="mw_common_google_play_services_enable_title">구글 플레이 서비스 활성화</string>

@@ -406,10 +406,6 @@
     <string name="mibi_recharge_other">다른 방법 보기</string>
     <string name="mibi_recharge_push_notification_prime_title">%1$d 님이 귀하의 계정에 %2$s Mi 크레딧을 추가했습니다.</string>
     <string name="mibi_recharge_push_notification_sub_title">충전 완료.</string>
-    <string name="mibi_recharge_value_money">위안화 %s 상당의 Mi 크레딧 구매</string>
-    <string name="mibi_recharge_value_money_special_unit">%1$s %2$s 상당의 Mi 크레딧 구매</string>
-    <string name="mibi_recharge_value_money_with_tip">"위안화 %s 상당의 Mi 크레딧 구매 &lt;font color=red>(Mi 크레딧은 Mi.com에서 사용할 수 없음)&lt;/font>"</string>
-    <string name="mibi_recharge_value_money_with_tip_special_unit">"%1$s %2$s 상당의 Mi 크레딧 구매 &lt;font color=red>(Mi 크레딧은 Mi.com에서 사용할 수 없음)&lt;/font>"</string>
     <string name="mibi_scan_prompt_number">%1$s 선불 카드번호 스캔</string>
     <string name="mibi_scan_prompt_password">%1$s 선불카드 비밀번호 스캔</string>
     <string name="mibi_scan_prompt_voucher">Mi 크레딧 비밀번호 스캔</string>
@@ -435,7 +431,6 @@
     <string name="mibi_title_password_threshold">일일한도 = ￥%1$s</string>
     <string name="mibi_title_sms_code">휴대전화 인증코드를 입력하세요</string>
     <string name="mibi_unit">Mi 크레딧</string>
-    <string name="mibi_unit_value">%1$s Mi 크레딧</string>
     <string name="mibi_voucher_card_text">코트를 긁어주세요</string>
     <string name="mibi_voucher_error_password">잘못된 코드.</string>
     <string name="mibi_voucher_input_password_prompt">코드 입력</string>
@@ -477,8 +472,6 @@
     <string name="mibi_pay_grid_error_denomination">총 수량은 Mi 크레딧 %1$s 에서 %2$s 사이여야 합니다.</string>
     <string name="mibi_pay_success_summary">"%1$s Mi 크레딧을 지불하였습니다"</string>
     <string name="mibi_pay_success_with_recharge_summary">%1$s Mi 크레딧 충전됨，%2$s Mi 크레딧으로 결제됨</string>
-    <string name="mibi_unit_value_redeemed">%1$s Mi 크레딧 사용함</string>
-    <string name="mibi_unit_value_remained">%1$s Mi 크레딧 남음</string>
     <string name="passport_account_set_password">비밀번호 설정</string>
     <string name="passport_account_set_password_prompt">다음번 로그인을 위해 비밀번호를 설정하세요.</string>
     <string name="passport_account_set_password_title">비밀번호 설정</string>

@@ -47,11 +47,9 @@
     <string name="notify_install_guide_forward_text">열기</string>
     <string name="dialog_data_limit_title">데이터 사용량 경고</string>
     <string name="dialog_data_limit_msg1">이 파일 다운로드에 %s의 모바일 데이터가 소모될 것입니다. 지금 다운로드 하시겠습니까?</string>
-    <string name="dialog_data_limit_msg2">@string/dialog_tip_limit</string>
     <string name="dialog_data_limit_msg3">제한 변경</string>
     <string name="dialog_data_limit_button1">Wi-Fi 대기</string>
     <string name="dialog_data_limit_button2">지금 다운로드</string>
-    <string name="dialog_data_limit_sel_title">@string/dialog_tip_limit</string>
     <string name="dialog_button_ok">확인</string>
     <string name="dialog_button_cancel">취소</string>
     <string name="dialog_tip_limit">파일의 크기가 %s 보다 클 때 경고</string>

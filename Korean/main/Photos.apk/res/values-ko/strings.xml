@@ -720,8 +720,6 @@
     <string name="photos_mediadetails_save_caption_error">자막 저장 오류</string>
     <string name="photos_mediadetails_exif_header">세부정보</string>
     <string name="photos_mediadetails_exif_location">위치</string>
-    <string name="photos_mediadetails_exif_pixels_value">%dMP</string>
-    <string name="photos_mediadetails_exif_focal_length_value">%.2fmm</string>
     <string name="photos_mediadetails_details_map_content_description">사진이 촬영된 위치의 지도</string>
     <string name="photos_share_create_link_complete">링크를 클립보드에 복사했습니다.</string>
     <string name="photos_share_error">공유하는 중에 오류가 발생했습니다.</string>
@@ -1244,9 +1242,7 @@
     <string name="cpe_a11y_save">동의</string>
     <string name="cpe_a11y_apply_filters">미리보기 이미지에 표시된 필터 적용</string>
     <string name="cpe_a11y_filter_slider">필터 슬라이더. 끌어서 조정.</string>
-    <string name="cpe_a11y_filter_slider_value">찾기 컨트롤 %1$d%%</string>
     <string name="cpe_a11y_controls_tilt">기울이기 컨트롤</string>
-    <string name="cpe_a11y_controls_tilt_value">%1$d도 기울이기</string>
     <string name="cpe_a11y_crop_auto">자동 자르기 및 직선화</string>
     <string name="cpe_a11y_crop_auto_done">자동으로 적용됨</string>
     <string name="cpe_a11y_crop_reset">자르기 및 회전 변경사항 재설정</string>

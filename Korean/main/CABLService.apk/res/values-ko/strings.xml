@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cabl_info_default">알 수 없음</string>
-    <string name="cabl_level_default">자동</string>
     <string name="app_name">지능형 백라이트 조절</string>
     <string name="cabl_enable_summary_off">백라이트가 재생되는 컨텐츠에 상관없이 켜집니다.</string>
     <string name="cabl_enable_summary_on">백라이트가 재생되는 컨텐츠에 따라 조절됩니다.</string>

@@ -33,11 +33,6 @@
         <item>DRM 컨텐츠만 체크하기</item>
         <item>항상 체크하기</item>
     </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>안함</item>
-        <item>DRM에 한해</item>
-        <item>항상</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>항상 HDCP 검사 사용하지 않기</item>
         <item>DRM 컨텐츠만 HDCP 검사 사용하기</item>
@@ -114,11 +109,6 @@
         <item>직사각형이 아닌 클립을 파란색 영역에 그려주세요.</item>
         <item>테스트 면을 녹색으로 칠해주세요.</item>
     </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>숨기기</item>
-        <item>지역</item>
-        <item>하이라이트</item>
-    </string-array>
     <string-array name="app_process_limit_entries">
         <item>기본 제한</item>
         <item>백그라운드 앱 없음</item>
@@ -134,14 +124,6 @@
         <item>RNDIS (USB 이더넷)</item>
         <item>오디오 소스</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="usb_configuration_values">
-        <item>없음</item>
-        <item>MTP (미디어 전송 프로트콜)</item>
-        <item>PTP (사진 전송 프로트콜)</item>
-        <item>RNDIS (USB 이더넷)</item>
-        <item>오디오 장치 입력</item>
-        <item>MIDI 장치</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>매우 느리게</item>
@@ -183,11 +165,5 @@
         <item>전체</item>
         <item>라디오를 제외한 전체</item>
         <item>커널만</item>
-    </string-array>
-    <string-array name="select_logpersist_values">
-        <item>끄기</item>
-        <item>전체</item>
-        <item>기본,보안,커널</item>
-        <item>커널</item>
     </string-array>
 </resources>

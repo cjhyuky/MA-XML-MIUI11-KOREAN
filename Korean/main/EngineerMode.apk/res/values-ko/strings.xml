@@ -344,7 +344,6 @@
     <string name="usb_mode_bypass_modem">데이터</string>
     <string name="usb_phy_submit">제출</string>
     <string name="User">사용자</string>
-    <string name="value_text">입력사항</string>
     <string name="vhdr_set_mode">모드</string>
     <string name="video_title">동영상</string>
     <string name="vilte_video_fps_set">확인</string>
@@ -401,7 +400,6 @@
     <string name="Audio_CTM4WAYLogger_Enable">활성화</string>
     <string name="Audio_CTM4WAYLogger_EnableText">CTM4WAY 로거 활성화</string>
     <string name="Audio_DebugInfo_ParameterText">파라미터를 선택하세요:</string>
-    <string name="Audio_DebugInfo_ValueText">유효한 값을 입력하세요:</string>
     <string name="Audio_Dump_SpeechDbgInfo">스피치 디버그 정보</string>
     <string name="Audio_EPLDebug_Enable">AP 스피치 로그 활성화</string>
     <string name="Audio_Enable_Down">다운샘플</string>
@@ -848,7 +846,6 @@
     <string name="TouchScreen_RateReport">RateReport</string>
     <string name="TouchScreen_Settings_TextSDcard">SD 카드 로그 활성화</string>
     <string name="TouchScreen_Settings_TextUart">Uart 로그 활성화</string>
-    <string name="TouchScreen_Settings_TextValue">값</string>
     <string name="TouchScreen_VerificationLine">LineVerification</string>
     <string name="TouchScreen_VerificationPoint">PointVerification</string>
     <string name="TouchScreen_VerificationShaking">ShakingVerification</string>

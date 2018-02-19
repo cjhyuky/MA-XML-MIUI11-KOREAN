@@ -86,9 +86,6 @@
     <string name="auto_update_label">앱 자동 업데이트</string>
     <string name="auto_update_migration_dialog_message_on_mobile">자동으로 앱을 업데이트하시겠습니까? 데이터 요금이 부과될 수 있습니다.</string>
     <string name="auto_update_migration_dialog_message_on_wifi">Wi-Fi에서만 자동으로 앱을 업데이트하시겠습니까?</string>
-    <string name="auto_update_value_disabled">앱 자동 업데이트 사용 안함</string>
-    <string name="auto_update_value_enabled">항상 자동 업데이트(데이터 요금이 부과될 수 있음)</string>
-    <string name="auto_update_value_wifi_only">Wi-Fi를 통해서만 앱 자동 업데이트</string>
     <string name="availability_restriction_carrier">이용 중인 이동통신사에서 사용할 수 없는 항목입니다.</string>
     <string name="availability_restriction_country">거주 국가에서 사용할 수 없는 항목입니다.</string>
     <string name="availability_restriction_country_or_carrier">거주 국가 또는 이용 중인 이동통신사에서 사용할 수 없는 항목입니다.</string>
@@ -735,9 +732,6 @@ Google 설정 앱에서 자세히 알아보세요."</string>
     <string name="purchase_auth_message_session">구매를 인증한 후 30분 동안 다시 인증하지 않고 Google Play를 통해 모든 형태의 디지털 콘텐츠를 구매(인앱 구매 포함)할 수 있습니다. 하지만 만 12세 이하를 대상으로 하는 앱 내에서는 Google Play를 통해 구매 시 항상 인증이 필요합니다. &lt;a href=%1$s>설정 변경&lt;/a> 또는 &lt;a href=%2$s>자세히 알아보기&lt;/a></string>
     <string name="purchase_auth_settings_label">구매 시 인증 필요</string>
     <string name="purchase_auth_underage_disclaimer">만 12세 이하를 대상으로 하는 앱 내에서는 Google Play를 통한 구매 시 항상 인증이 필요합니다.</string>
-    <string name="purchase_auth_value_always">이 기기에서 Google Play를 통해 구매할 때마다</string>
-    <string name="purchase_auth_value_never">입력 안함</string>
-    <string name="purchase_auth_value_session">30분마다</string>
     <string name="purchase_flow_start_description">%1$s, %2$s</string>
     <string name="purchase_or_rent_resolution">최저 %1$s</string>
     <string name="purchase_resolution">구매 %1$s</string>

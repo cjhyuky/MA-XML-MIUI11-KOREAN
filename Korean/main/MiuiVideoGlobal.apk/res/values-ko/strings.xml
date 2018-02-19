@@ -294,7 +294,6 @@
     <string name="screenrecord_slience">"현재 버전의 MIUI가 지원하지 않는 오디오 유형이라 오디오가 재생되지 않습니다."</string>
     <string name="screenrecord_success">녹화가 완료되었습니다. 이제 영상을 공유할 수 있습니다.</string>
     <string name="share_tips">스크린샷 캡쳐가 완료되었습니다. 탭하여 공유하세요.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_root_dir">"이미 루트 폴더에 있습니다."</string>
     <string name="subtitle_add_subtitle_failed">"자막을 추가할 수 없습니다."</string>
     <string name="subtitle_changed">새 자막</string>

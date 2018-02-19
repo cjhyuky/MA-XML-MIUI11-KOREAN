@@ -72,7 +72,6 @@
     <string name="content_desc_send_sms">메시지 전송</string>
     <string name="currency_character">RMB</string>
     <string name="app_recommendation_install">설치</string>
-    <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="menu_follow_yellow_page">팔로우</string>
     <string name="menu_unfollow_yellow_page">팔로우 취소</string>
     <string name="menu_add_to_favorite">즐겨찾기</string>
@@ -419,10 +418,6 @@
     <string name="data_error_w"> 발생</string>
     <string name="miuishare_qzone_title">Q존</string>
     <string name="navigation_search_default_hint">장소 검색</string>
-    <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
-    <string name="order_merchant_title_format">%1$s-%2$s</string>
-    <string name="recharge_charge_value">가격 : RMB %s</string>
-    <string name="recharge_phone_format">%1$s / %2$s</string>
     <string name="sim1">1번 심</string>
     <string name="sim2">2번 심</string>
     <string name="turn_on_online_antispam_enable">켜기</string>

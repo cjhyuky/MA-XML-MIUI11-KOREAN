@@ -244,7 +244,6 @@
     <string name="change_to_voice_tips_when_background">상대방이 음성 전화로 전환하였습니다.</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="accept_modify_call_request_prompt">전화 수정 요청을 받아드리시겠습니까?</string>
-    <string name="antispam_marked_title">%1$s</string>
     <string name="modify_call_failure_str">"전화 수정 실패됨"</string>
     <string name="modify_call_option_title">어떤 종류의 전화입니까?</string>
     <string name="modify_call_option_voice">음성만</string>

@@ -55,7 +55,6 @@
     <string name="share_title">날씨 공유</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_desc">\#MIUI 날씨#오늘 %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="hourly_forcast_now">지금</string>
     <string name="sunrise">일출</string>
     <string name="sunset">일몰</string>
@@ -149,11 +148,9 @@
     <string name="install">설치</string>
     <string name="open">열기</string>
     <string name="open_now">열기</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="daily_forecast_detail_date">M/d</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="aqi_publish_source">CNEMC로부터 %1$s에 업데이트됨</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="aqi_data_source">Colorful Clouds 제공</string>
     <string name="traffic_controls">차량운행 제한</string>
     <string name="traffic_control_today_numbers">오늘: %1$s</string>
@@ -170,7 +167,6 @@
     <string name="international_details_uv_index_title">자외선 지수</string>
     <string name="international_details_pressure_title">기압</string>
     <string name="pressure_connect">%1$s mb</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="weather_alert">날씨 경고</string>
     <string name="edit_alert_city_title">경고 관리</string>
     <string name="aqi_detail_unit">단위: µg/m³</string>

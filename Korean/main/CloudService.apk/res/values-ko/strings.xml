@@ -126,7 +126,6 @@
     <string name="find_device_error_server">서버 오류</string>
     <string name="find_device_success_title">기기 찾기</string>
     <string name="find_device_notice_p1">이동</string>
-    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"휴대전화 위치 찾기, 잠그기, 또는 복원.
  SIM 카드를 교체하면, 이 기능을 다시 활성화하기 위해서 또다른 SMS 메시지가 전송됩니다."</string>
     <string name="i_know">확인</string>
@@ -470,8 +469,6 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_find_device_opened">기기 찾기 켜짐</string>
     <string name="micloud_find_device_open_fail">기기 찾기를 켤 수 없습니다.</string>
     <string name="micloud_find_device_opened_content">%s에서 기기를 찾기</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-    <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
     <string name="micloud_find_device_verify_fail">기기 찾기 재활성화 실패</string>
     <string name="micloud_find_device_close_fail">기기 찾기를 끌수 없습니다.</string>
     <string name="micloud_find_device_finish">완료</string>
@@ -577,8 +574,6 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="ks_name_alipay">Alipay</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_soter">WeChat</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">연락처 백업,사진</string>
     <string name="micloud_main_head_menu_recycle_bin_title">휴지통</string>
     <string name="micloud_main_head_menu_state_close">꺼짐</string>

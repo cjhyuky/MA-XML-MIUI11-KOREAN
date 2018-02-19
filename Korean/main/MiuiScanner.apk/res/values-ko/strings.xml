@@ -191,20 +191,6 @@
     <string name="error_get_image">"이미지 로드 불가"</string>
     <string name="label_choose_picture">사진 선택</string>
     <string name="label_flash_light">플래시</string>
-    <string name="language_value_danish">덴마크어</string>
-    <string name="language_value_dutch">네덜란드어</string>
-    <string name="language_value_english">영어</string>      <string name="language_value_finnish">핀란드어</string>
-    <string name="language_value_french">프랑스어</string>
-    <string name="language_value_german">독일어</string>
-    <string name="language_value_hungarian">헝가리어</string>
-    <string name="language_value_italian">이탈리아어</string>
-    <string name="language_value_japanese">일본어</string>
-    <string name="language_value_korean">한국어</string>
-    <string name="language_value_norwegian">노르웨이어</string>
-    <string name="language_value_portuguese">포르투갈어</string>
-    <string name="language_value_russian">러시아어</string>
-    <string name="language_value_spanish">스페인어</string>
-    <string name="language_value_swedish">스웨덴어</string>
     <string name="low_version_tip">MIUI 버전이 너무 구버전입니다. 스캐너 기능을 사용하려면 업데이트하세요.</string>
     <string name="pref_camera_jpeg_quality_fine">좋음</string>
     <string name="pref_camera_jpeg_quality_normal">보통</string>

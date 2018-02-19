@@ -33,11 +33,6 @@
         <item>DRM 컨텐츠만 체크하기</item>
         <item>항상 체크하기</item>
     </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>안함</item>
-        <item>DRM에 한해</item>
-        <item>항상</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>항상 HDCP 검사 사용하지 않기</item>
         <item>DRM 컨텐츠만 HDCP 검사 사용하기</item>
@@ -57,14 +52,6 @@
         <item>256K</item>
         <item>1M</item>
     </string-array>
-    <string-array name="select_logd_size_values">
-        <item>32768</item>
-        <item>65536</item>
-        <item>262144</item>
-        <item>1048576</item>
-        <item>4194304</item>
-        <item>16777216</item>
-    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Off</item>
         <item>로그 버퍼당 64K</item>
@@ -72,12 +59,6 @@
         <item>로그 버퍼당 1M</item>
         <item>로그 버퍼당 4M</item>
         <item>로그 버퍼당 16M</item>
-    </string-array>
-    <string-array name="select_logpersist_values">
-        <item></item>
-        <item>전체</item>
-        <item>기본,보안,커널</item>
-        <item>커널</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>끄가</item>
@@ -100,15 +81,6 @@
         <item>애니메이션 스케일 5x</item>
         <item>애니메이션 스케일 10x</item>
     </string-array>
-    <string-array name="window_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>애니메이션 끄기</item>
         <item>애니메이션 스케일 .5x</item>
@@ -118,15 +90,6 @@
         <item>애니메이션 스케일 5x</item>
         <item>애니메이션 스케일 10x</item>
     </string-array>
-    <string-array name="transition_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>애니메이션 끄기</item>
         <item>애니메이션 스케일 .5x</item>
@@ -135,15 +98,6 @@
         <item>애니메이션 스케일 2x</item>
         <item>애니메이션 스케일 5x</item>
         <item>애니메이션 스케일 10x</item>
-    </string-array>
-    <string-array name="animator_duration_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>없음</item>
@@ -159,57 +113,23 @@
         <item>4K (보안처리됨, 업스케일됨)</item>
         <item>720p, 1080p (듀얼 스크린)</item>
     </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/142</item>
-        <item>720x480/142,보안</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213,보안</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320,보안</item>
-        <item>3840x2160/320</item>
-        <item>3840x2160/320,보안</item>
-        <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640,secure</item>
-        <item>1280x720/213;1920x1080/320</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>없음</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_values">
-        <item>0</item>
-        <item>1</item>
-        <item>오류</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Off</item>
         <item>직사각형이 아닌 클립을 파란색 영역에 그려주세요.</item>
         <item>테스트 면을 녹색으로 칠해주세요.</item>
     </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>숨기기</item>
-        <item>지역</item>
-        <item>하이라이트</item>
-    </string-array>
     <string-array name="track_frame_time_entries">
         <item>Off</item>
         <item>On screen as bars</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
-    <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>true</item>
-    </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Off</item>
         <item>Show overdraw areas</item>
         <item>Show areas for Deuteranomaly</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_values">
-        <item>false</item>
-        <item>show</item>
-        <item>show_deuteranomaly</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standard limit</item>
@@ -219,14 +139,6 @@
         <item>최대 3개 처리</item>
         <item>최대 4개 처리</item>
     </string-array>
-    <string-array name="app_process_limit_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
     <string-array name="usb_configuration_titles">
         <item>충전중</item>
         <item>MTP (미디어 전송 프로트콜)</item>
@@ -235,18 +147,6 @@
         <item>오디오 소스</item>
         <item>MIDI</item>
     </string-array>
-    <string-array name="simulate_color_space_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-        <item>3</item>
-    </string-array>
-    <integer-array name="color_mode_ids">
-        <item>0</item>
-        <item>-1</item>
-        <item>7</item>
-    </integer-array>
     <array name="config_hideWhenDisabled_packageNames" />
     <string-array name="tts_rate_entries">
         <item>매우 느리게</item>
@@ -258,17 +158,6 @@
         <item>매우 빠르게</item>     
         <item>극도로 빠르게</item>
         <item>제일 빠르게</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -300,13 +189,5 @@
         <item>0%</item>
         <item>50%</item>
         <item>100%</item>
-    </string-array>
-    <string-array name="usb_configuration_values">
-        <item>없음</item>
-        <item>MTP (미디어 전송 프로트콜)</item>
-        <item>PTP (사진 전송 프로트콜)</item>
-        <item>RNDIS (USB 이더넷)</item>
-        <item>오디오 장치 입력</item>
-        <item>MIDI 장치</item>
     </string-array>
 </resources>

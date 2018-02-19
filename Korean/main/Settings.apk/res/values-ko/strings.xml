@@ -1606,7 +1606,6 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="power_discharge_remaining">%1$s 남음</string>
     <string name="power_charge_remaining">%1$s 후 완충</string>
     <string name="power_discharging_duration">%1$d%% - 대략 %2$s 남음</string>
-    <string name="power_charging">%1$d%% - %2$s</string>
     <string name="power_charging_duration">%1$d%% - %2$s 후 충전 완료</string>
     <string name="power_charging_duration_ac">%1$d%% - %2$s 후 충전 완료(AC)</string>
     <string name="power_charging_duration_usb">%1$d%% - %2$s 후 충전 완료(USB)</string>
@@ -1795,7 +1794,6 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="gadget_title">전원 컨트롤</string>
     <string name="gadget_toggle_wifi">Wi-Fi 설정 업데이트 중</string>
     <string name="gadget_toggle_bluetooth">블루투스 설정 업데이트</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">켜짐</string>
     <string name="gadget_state_off">꺼짐</string>
     <string name="gadget_state_turning_on">켜는 중</string>
@@ -2319,7 +2317,6 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="regulatory_info_text" />
     <string name="sim_setup_wizard_title">SIM 카드</string>
     <string name="sim_settings_title">SIM 카드</string>
-    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_cards_changed_message">SIM 카드가 변경되었습니다.</string>
     <string name="sim_cards_changed_message_summary">터치하여 활동을 설정하세요.</string>
     <string name="sim_cellular_data_unavailable">셀룰러 데이터를 사용할 수 없습니다.</string>
@@ -2538,7 +2535,6 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="dndm_auto_setting_group">예약됨</string>
     <string name="dndm_auto_button_title">방해 금지 모드 시간 반복</string>
     <string name="dndm_auto_time_setting">시간 설정</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_on">시작 시간</string>
     <string name="dndm_auto_time_turn_on_title">방해 금지 모드 자동으로 켜기</string>
     <string name="dndm_auto_time_turn_off">종료 시간</string>
@@ -3923,7 +3919,6 @@ PIN 설정"</string>
     <string name="bootloader_locked_answer_1_warning">주의: 휴대전화를 언락한 후에는 \"기기 찾기\"를 이용할 수 없습니다.</string>
     <string name="bootloader_locked_question_2">위험성을 이해했습니다. 그러나 여전히 내 기기를 언락할 것입니다.</string>
     <string name="bootloader_locked_answer_2">Mi 계정과 이 기기를 연동하려면 아래 버튼을 누르세요. MIUI 웹사이트로 이동되며 언락 툴을 다운로드하고 컴퓨터에 설치합니다. 주소:</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bootloader_locked_check_status">계정/기기 추가</string>
     <string name="bootloader_device_bind_already">추가 완료. Mi 계정이 기기와 연동되었습니다.</string>
     <string name="bootloader_device_bind_no_account">먼저 Mi 계정에 로그인해 주십시오.</string>
@@ -3949,7 +3944,6 @@ PIN 설정"</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="security_encryption_progress_dialog_open">암호화 중…</string>
     <string name="miui_enable_service_title">서비스가 이러한 작업을 수행합니다:</string>
     <string name="resetting_second_space_passwd">보조 공간 비밀번호 재설정</string>
@@ -4750,7 +4744,6 @@ PIN 설정"</string>
     <string name="keywords_write_settings">시스템 설정 관리</string>
     <string name="label_global_roaming_settings">로밍 설정</string>
     <string name="later">나중에</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="link_speed_label">속도:</string>
     <string name="locale_not_translated">일부 앱에서 적용되지 않을 수 있습니다.</string>
     <string name="locale_remove_menu">삭제</string>
@@ -4843,7 +4836,6 @@ PIN 설정"</string>
     <string name="network_state_label">네트워크 상태:</string>
     <string name="networkid_label">네트워크 ID:</string>
     <string name="nfc_how_it_works_content">지불할 앱을 설정하고 바로 사용하세요.</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_how_it_works">사용 방법</string>
     <string name="no_account_found">"계정을 추가할 수 있는 앱을 찾을 수 없습니다."</string>
     <string name="no_battery_summary">최근 충전 후 배터리 소모 없음</string>
@@ -4885,21 +4877,15 @@ PIN 설정"</string>
     <string name="operator_warning">기기의 데이터 사용량 카운트와 통신사의 데이터 사용량 카운트가 상이할 수 있습니다.</string>
     <string name="ota_disable_automatic_update">자동 시스템 업데이트</string>
     <string name="overlay_settings">화면 위에 그리기</string>
-    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="passpoint_content">%1$s credentials</string>
     <string name="passpoint_label">에 의해 저장됨</string>
     <string name="payment_summary">%1$s 이 기본 앱으로 지정됨</string>
     <string name="permit_draw_overlay">앱 위에 그리기 허용</string>
     <string name="permit_usage_access">사용 권한 허용</string>
     <string name="permit_write_settings">시스템 설정 수정 허용</string>
-    <string name="physical_device_title">%1$s - %2$s</string>
     <string name="picture_color_mode">사진 색상 모드</string>
     <string name="picture_color_mode_desc">sRGB 사용</string>
     <string name="power_camera">카메라</string>
-    <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-    <string name="power_charging_duration_short">%1$s - %2$s</string>
-    <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
-    <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
     <string name="power_discharging_duration_short">%1$s - %2$s 남음</string>
     <string name="power_remaining_duration_only">약 %1$s 남음</string>
     <string name="power_remaining_duration_only_short">%1$s 남음</string>
@@ -4912,7 +4898,6 @@ PIN 설정"</string>
     <string name="preview_pager_content_description">미리보기</string>
     <string name="printer_info_desc">프린터 정보</string>
     <string name="process_dex2oat_label">앱 최적화</string>
-    <string name="process_format">%1$s (%2$d)</string>
     <string name="process_stats_bg_ram_use">RAM 사용량 (백그라운드)</string>
     <string name="process_stats_os_cache">캐시</string>
     <string name="process_stats_os_kernel">커널</string>
@@ -5138,7 +5123,6 @@ PIN 설정"</string>
     <string name="suw_back_button_label">뒤로</string>
     <string name="suw_more_button_label">더보기</string>
     <string name="suw_next_button_label">다음</string>
-    <string name="sync_item_title">%s</string>
     <string name="system_alert_window_access_title">앱 위에 그리기</string>
     <string name="system_alert_window_apps_title">앱</string>
     <string name="system_alert_window_off">아니오</string>
@@ -5298,11 +5282,9 @@ PIN 설정"</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">패스포인트</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI 증명</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_select_assistant_dialog_title">어시스턴트 선택</string>
     <string name="wifi_set_priority_settings_summary">엑세스포인트 중요도 선택</string>
     <string name="wifi_set_priority_settings_title">AP 중요도 설정</string>
@@ -5403,7 +5385,6 @@ PIN 설정"</string>
     <string name="zen_mode_summary_alarms_only_by_time">%1$s까지만 알람으로 변경하십시오.</string>
     <string name="zen_mode_summary_alarms_only_indefinite">알림 빈도를 무제한으로 변경합니다.</string>
     <string name="zen_mode_summary_always">항상 방해로 변경</string>
-    <string name="zen_mode_summary_combination">%1$s : %2$s</string>
     <string name="zen_mode_visual_interruptions_settings_title">시각 장애를 차단하십시오.</string>
     <string name="zen_schedule_rule_enabled_toast">자동 규칙은 지정된 시간 동안 방해 금지를 켭니다.</string>
     <string name="zen_schedule_rule_type_name">시간 규칙</string>
@@ -5566,12 +5547,9 @@ PIN 설정"</string>
     <string name="filter_notif_no_peeking">엿보기 비활성화</string>
     <string name="keywords_display_night_mode">어두운 테마;야간 모드;어두운 화면;밝기 조절</string>
     <string name="legacy_dhcp_client">레거시 DHCP 클라이언트 사용</string>
-    <string name="night_mode_summary">%s</string>
     <string name="night_mode_title">테마</string>
     <string name="notifications_no_peeking">엿보기 없음</string>
     <string name="notifications_sensitive">민감한 콘텐츠 감추기</string>
-    <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-    <string name="notifications_two_items">%1$s / %2$s</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_warning">주의 : 지문 잠금은 비밀번호나 PIN 번호보다 안전하지 않을 수 있습니다.</string>
     <string name="security_settings_fingerprint_enroll_onboard_message">지문을 사용하여 화면 잠금을 해제하거나 구매를 확인하려면 다음 절차를 따라야 합니다:</string>
     <string name="security_settings_fingerprint_enroll_onboard_message_1">백업 화면 잠금 설정</string>
@@ -5583,7 +5561,6 @@ PIN 설정"</string>
     <string name="volte_provisioned_flag_on">VoLTE 프로비저닝 활성화</string>
     <string name="wifi_alert_lockdown_by_device_owner">%1$s 이 기기를 관리하고 Wi-Fi 네트워크를 수정하거나 삭제할 수 없도록 설정합니다. 자세한 내용은 관리자에게 문의하세요.</string>
     <string name="you_wont_see_this">:)</string>
-    <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
     <string name="miracast_PC2THOR_streaming_on">컴퓨터가 이 기기에 스트리밍하고 있으므로 미라캐스트를 실행할 수 없습니다.</string>
     <string name="miracast_cancelconnect_dialog">연결 취소</string>
     <string name="miracast_connection_failed_generic">"화면 연결 불가능"</string>

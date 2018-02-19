@@ -311,7 +311,6 @@
     <string name="vcard_export_will_start_message">%s 카드를 즉시 내보냅니다.</string>
     <string name="vcard_export_request_rejected_message">vCard 내보내기 요청이 거부되었습니다. 나중에 다시 시도하십시오.</string>
     <string name="vcard_unknown_filename">연락처</string>
-    <string name="percentage">%s%%</string>
     <string name="confirm_export_title">연락처를 내보내시겠습니까?</string>
     <string name="confirm_export_message">연락처 목록을 %s 파일로 내보냅니다.</string>
     <string name="exporting_contact_failed_title">내보내기를 하지 못했습니다.</string>
@@ -456,7 +455,6 @@
     <string name="recent">최근</string>
     <string name="recent_updates">최근 업데이트</string>
     <string name="account_type_format">%1$s</string>
-    <string name="from_account_format">%1$s</string>
     <string name="use_photo_as_primary">이 사진 사용</string>
     <string name="contact_read_only">이 앱에서는 편집 불가</string>
     <string name="no_contact_details">이 연락처에 대한 추가 정보 없음</string>
@@ -524,7 +522,6 @@
     <string name="non_phone_add_to_contacts">기존 연락처에 추가</string>
     <string name="activity_title_confirm_add_detail">연락처에 추가</string>
     <string name="non_phone_close">닫기</string>
-    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="date_year_toggle">1년 제공</string>
     <string name="social_widget_label">연락처</string>
     <string name="social_widget_loading">불러오는 중…</string>
@@ -542,7 +539,6 @@
     <string name="toast_text_copied">텍스트 복사됨</string>
     <string name="cancel_confirmation_dialog_title">취소</string>
     <string name="cancel_confirmation_dialog_message">변경 사항을 버리시겠습니까?</string>
-    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="profile_display_name">내 프로필 설정</string>
     <string name="enter_contact_name">사람의 이름 입력</string>
     <string name="view_updates_from_group">업데이트 보기</string>
@@ -696,7 +692,6 @@
     <string name="miprofile_alertdialog_message">카드 교환 요청 시 연락처에 이 이름을 보이게 하십시오.</string>
     <string name="miprofile_alertdialog_edit">이름 입력</string>
     <string name="miprofile_switch_off_alertdialog_message">끄신 후에는 더이상 다른 사용자와 연락처 카드를 교환하실 수 없습니다.</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">전화번호 추가</string>
     <string name="miprofile_bind_account_alertdialog_message">이 기능을 사용하려면 귀하의 Mi 계정에 기기의 전화번호를 추가해야 합니다.</string>
     <string name="miprofile_bind_account_alertdialog_positive">번호 추가</string>
@@ -1016,7 +1011,6 @@
     <string name="preference_smart_group_location_summary">지역 코드로 그룹화</string>
     <string name="preference_smart_group_frequency_title">최근</string>
     <string name="preference_smart_group_frequency_summary">최신 기간으로 그룹화</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_label">스마트 그룹</string>
     <string name="smart_group_loading">잠시만 기다려주십시오…</string>
     <string name="smart_group_company_label">회사</string>
@@ -1071,7 +1065,6 @@
     <string name="device_import_local_account">로컬 계정</string>
     <string name="import_name">이름</string>
     <string name="import_percent">0%</string>
-    <string name="percent_sign">%</string>
     <string name="checkhint">목표 전화 확인</string>
     <string name="prepare_import">연락처 가져오기</string>
     <string name="device_import_message">가져오는 중</string>
@@ -1267,7 +1260,6 @@
     <string name="back_description">뒤로가기</string>
     <string name="calllog_call_note_menu">전화 노트</string>
     <string name="calllog_call_record_menu">녹음된 전화</string>
-    <string name="config_import_vcard_type">기본</string>
     <string name="contact_import_methods_dialog_bluetooth">블루투스</string>
     <string name="contact_import_methods_dialog_mi_mover">미 무버</string>
     <string name="contact_import_methods_dialog_title">불러올 방법을 선택하세요.</string>

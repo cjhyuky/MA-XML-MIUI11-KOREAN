@@ -215,7 +215,6 @@
     <string name="battery_saver">배터리 절약</string>
     <string name="battery_saver_keywords">배터리 절약;이메일 배터리</string>
     <string name="bcc">숨은 참조</string>
-    <string name="bcc_heading">"숨은 참조: "</string>
     <string name="bill_center_setting">결제 설정</string>
     <string name="bill_center_setting_head">이 계정에서 정보 가져오기</string>
     <string name="bill_cycle_text">결제 주기</string>
@@ -235,7 +234,6 @@
     <string name="cancel_action">취소</string>
     <string name="cant_move_or_change_labels">다중 계정에서 항목을 이동할 수 없습니다.</string>
     <string name="cc">참조</string>
-    <string name="cc_attribution">참조: %1$s&lt;br></string>
     <string name="cc_bcc">참조/숨은 참조</string>
     <string name="cc_heading">"참조: "</string>
     <string name="change_folders_selection_dialog_title">폴더 변경</string>
@@ -305,7 +303,6 @@
     <string name="contextmenu_send_mail">이메일 전송</string>
     <string name="contextmenu_sharelink">링크 공유</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="conversation_content_provider">대화 내용 제공</string>
     <string name="conversation_detail_hide">숨기기</string>
     <string name="conversation_detail_show">자세히</string>
     <string name="conversation_folder_moved">%1$s로 이동됨</string>
@@ -454,7 +451,6 @@
     <string name="gmail_web_login_go">확인</string>
     <string name="gmail_web_login_required_message">Gmail에 로그인</string>
     <string name="header_category_account">계정</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">피드백</string>
     <string name="header_label_general_preferences">일반</string>
     <string name="help_and_info">도움말</string>
@@ -476,7 +472,6 @@
     <string name="invalid_recipient">%s은 잘못된 주소입니다.</string>
     <string name="invalid_recipient_title">받는 사람 오류</string>
     <string name="kilobytes">%sKB</string>
-    <string name="label_notification_ticker" formatted="false">%s: %s</string>
     <string name="load_from_remote">서버의 사서함 검색</string>
     <string name="load_more">더 불러오기</string>
     <string name="loading_conversation">로드 중…</string>
@@ -798,10 +793,8 @@
     <string name="recognize_hotel_other_money">기타 비용 %1$s</string>
     <string name="recognize_hotel_reverse_date">%1$s:%2$s %3$s 전에 체크인</string>
     <string name="recognize_hotel_room_type">방</string>
-    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
     <string name="recognize_hotel_title">호텔 예약</string>
     <string name="recognize_hotel_user_names">게스트</string>
-    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
     <string name="recognize_setting_title">여행 설정</string>
     <string name="recognize_ticket_air_notification_content">안전한 비행되세요!</string>
     <string name="recognize_ticket_air_notification_title">비행기가 곧 %3$s (%1$s/%2$s) 이륙할 것입니다. 비행 정보를 확인하십시오.</string>
@@ -902,7 +895,6 @@
     <string name="silent_ringtone">무음 설정</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">발신 메일 서버의 비밀번호가 잘못되었습니다.</string>
     <string name="sort_attachment">정렬 기준</string>
     <string name="storage">저장소</string>
@@ -1034,7 +1026,6 @@
     <string name="file_default_save_path_title">첨부파일의 기본 위치</string>
     <string name="file_save_path_dialog_cancel">알겠습니다</string>
     <string name="file_save_path_dialog_ok">지금 변경</string>
-    <string name="forward_subject_label">답장:</string>
     <string name="help_config">자체 구성</string>
     <string name="hide_password">비밀번호 숨김</string>
     <string name="mail_description_content">메일은 이메일 앱으로서 동시에 여러 계정 관리와 이메일 발신 및 수신을 할 수 있으며 연락처와 캘린더의 정보를 동기화할 수 있습니다. 앱을 삭제하시기 전 이와 같은 기능들을 사용할 수 없게 된다는 사실을 염두에 두십시오. Exchange 연락처 및 캘린더 정보 또한 삭제될 것입니다.</string>
@@ -1058,10 +1049,6 @@
     <string name="quote_divider_6">---원본---</string>
     <string name="quote_divider_7">원본 메세지</string>
     <string name="recognize_ticket_air_state_transfer">환승</string>
-    <string name="report_rendering_improvement">좋아보임</string>
-    <string name="report_rendering_improvement_desc">이 메세지는 좋아보임.</string>
-    <string name="report_rendering_problem">나빠보임</string>
-    <string name="report_rendering_problem_desc">이 메세지는 나빠보임.</string>
     <string name="request_permission_activity">권한 요청</string>
     <string name="save_this_new_signature">새 서명을 저장하시겠습니까?</string>
     <string name="select_path">경로 선택</string>
@@ -1083,10 +1070,8 @@
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">캘린더와 연락처를 동기화하시려면 캘린더 및 연락처 동기화 활성화</string>
     <string name="toastbar_local_calendar_sync_switch_close">캘린더 알림을 수신하려면 캘린더 동기화 활성화</string>
     <string name="toastbar_local_contacts_sync_swtich_close">연락처를 추가하시려면 연락처 동기화 활성화</string>
-    <string name="wait_help_context">대기</string>
     <string name="accessibility_guide_first">다음 화면에서 \"서비스\"탭을 선택하여 139 사서함 자동화 설정을 활성화하세요</string>
     <string name="accessibility_guide_second">그런 다음 오른쪽 상단에있는 스위치를 클릭하고 \"확인\"을 클릭하여 계속하십시오.</string>
-    <string name="account_cache_provider">계정 캐시 공급자</string>
     <string name="auto_mail_describe">139 전자 메일 서비스 자동화를 사용하면 사서함에 로그인 정보를 자동으로 채울 수 있습니다. 이 기능을 사용 하시겠습니까?</string>
     <string name="auto_mail_disable_txt">비활성화</string>
     <string name="auto_mail_enable_txt">활성화</string>
@@ -1100,7 +1085,6 @@
     <string name="float_window_content">사서함을 사용하고 있음을 감지하면 확인을 클릭하여 전자 메일 계정과 암호를 자동으로 기억합니다.</string>
     <string name="float_window_info">"139 사서함을 구성 할 때, 구성이 실패할 수 있으니 전화를 작동하지 마십시오."</string>
     <string name="float_window_title">설정중………</string>
-    <string name="reply_subject_label">답장:</string>
     <string name="auto_login_fail">자동 로그인 실패</string>
     <string name="auto_login_fail_to_retry">자동 로그인에 실패하였습니다. 다시 로그인하세요.</string>
     <string name="qq_auto_login_failed_dialog_positive_label">인증 코드를 복사하세요.</string>

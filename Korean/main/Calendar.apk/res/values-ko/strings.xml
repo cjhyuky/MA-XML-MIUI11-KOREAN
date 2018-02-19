@@ -490,9 +490,6 @@
     <string name="install_email_finished">이메일 설치됨</string>
     <string name="installing_email">설치중...</string>
     <string name="new_event_description">새로운</string>
-    <string name="prefDefault_alerts_vibrateWhen">절대 안함</string>
-    <string name="prefDefault_alerts_vibrate_false">절대 안함</string>
-    <string name="prefDefault_alerts_vibrate_true">항상</string>
     <string name="email_subject_prefix">"답장: "</string>
     <string name="olympic_vs">대</string>
     <string name="action_bar_return">돌아가기</string>

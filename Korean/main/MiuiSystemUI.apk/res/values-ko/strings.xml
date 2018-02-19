@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_date_formatter">"%2$s
-%1$s"</string>
     <string name="app_label">시스템 UI</string>
     <string name="status_bar_no_recent_apps">최근 앱 없음</string>
     <string name="recent_task_lock_text">잠금</string>
@@ -194,7 +192,6 @@
     <string name="ext_media_mountable_notification_title">USB 저장 장치 연결됨</string>
     <string name="ext_media_mountable_notification_message">터치하여 탐색기 열기</string>
     <string name="ext_media_safe_remove">안전하게 제거</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="status_bar_network_flow_today">오늘: %1$s</string>
@@ -274,7 +271,6 @@
     <string name="notification_header_title">알림</string>
     <string name="weather_publish_time">%1$s 업데이트됨</string>
     <string name="no_weather_description">날씨 정보 가져오기 ></string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="screenshot_long_screenshot">스크롤</string>
     <string name="screenshot_edit">편집</string>
     <string name="screenshot_send">전송</string>

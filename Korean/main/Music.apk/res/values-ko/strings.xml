@@ -43,7 +43,6 @@
 
 %s 항목을 탭하여 나중에 Wi-Fi에 연결되었을때 다운로드를 시작할 수 있습니다."</string>
     <string name="download_no_application_title">파일 열기 실패</string>
-    <string name="download_percent">%d%%</string>
     <string name="notification_need_wifi_for_size">파일이 너무 큽니다. Wi-Fi 다운로드가 필요합니다.</string>
     <string name="download_unknown_title">&lt;제목 없음></string>
     <string name="root_downloads">다운로드</string>
@@ -535,7 +534,6 @@
     <string name="multichoice">선택</string>
     <string name="cp_info_first">"온라인 음악 스트리밍 서비스는
 Ultimate Inc. 에 의해 제공됩니다."</string>
-    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="male_artist">남자 아티스트</string>
     <string name="female_artist">여자 아티스트</string>
     <string name="group_artist">밴드</string>

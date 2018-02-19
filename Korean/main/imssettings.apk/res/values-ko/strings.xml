@@ -6,9 +6,6 @@
     <string name="ims_reg_settings_digest_account">계정</string>
     <string name="ims_reg_settings_digest_server">서버</string>
     <string name="ims_settings_name_title">IMS 설정</string>
-    <string name="ims_settings_no_default_value">아니요</string>
-    <string name="ims_settings_value_no">아니요</string>
-    <string name="ims_settings_value_yes">예</string>
     <string name="ims_settings">IMS 설정</string>
     <string name="ims_vt_call_quality_high">높음</string>
     <string name="ims_vt_call_quality_low">낮음</string>
@@ -40,14 +37,9 @@
     <string name="ims_apn_settings_input_apn">입력된 APN</string>
     <string name="ims_apn_settings_name">APN 설정</string>
     <string name="ims_apn_settings_ut_apn">UT APN 설정</string>
-    <string name="ims_apn_value_invalid">APN을 입력해주세요.</string>
     <string name="ims_band_settings_name">협대역 설정</string>
-    <string name="ims_band_settings_narrow_preferred_value">협대역 지원 우선 순위</string>
     <string name="ims_band_settings_narrow_rate">협대역 설정</string>
-    <string name="ims_band_settings_only_narrow_value">협대역만 지원함</string>
-    <string name="ims_band_settings_only_wide_value">광대역만 지원함</string>
     <string name="ims_band_settings_wide_narrow_rate">값</string>
-    <string name="ims_band_settings_wide_preferred_value">협대역/광대역 우선순위 설정</string>
     <string name="ims_band_settings_wide_rate">광대역 설정</string>
     <string name="ims_content_type_xcap_el_xml_name">xcap-el+xml를 사용할 시간 설정</string>
     <string name="ims_cp_ut_name">CP 프로그램 사용 여부</string>
@@ -75,7 +67,6 @@
     <string name="ims_sdp_AVPF_negotiation_name">SDP는 AVPF를 사용합니다.</string>
     <string name="ims_sdp_imageattr_parameter_name">"SDP to carry  imageattr par"</string>
     <string name="ims_sdp_negotiation_setting_name">SDP 협상 구성</string>
-    <string name="ims_settings_value_full_rate">최고값</string>
     <string name="ims_ut_settings_authentication_name">인증 사용자명</string>
     <string name="ims_ut_settings_authentication_name_dlg">인증 사용자명을 입력하세요.</string>
     <string name="ims_ut_settings_bsf_https">"BSF의 HTTPS 사용 여부"</string>

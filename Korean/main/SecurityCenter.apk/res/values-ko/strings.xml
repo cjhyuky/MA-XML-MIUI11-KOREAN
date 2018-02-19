@@ -380,7 +380,6 @@ SMS 전송"</string>
     <string name="detail_app_button">앱 정보</string>
     <string name="pref_about_traffic_title">데이터 사용량 설정</string>
     <string name="pref_traffic_manage_title">데이터 사용량</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">모바일 데이터 한도</string>
     <string name="pref_adjust_traffic_data">데이터 사용량 설정</string>
     <string name="pref_category_title_other">추가 설정</string>
@@ -868,7 +867,6 @@ SMS 전송"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"이 앱은 기기의 속도를
 감소시킵니다."</string>
-    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">%s의 설치를 제거하시겠습니까?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">이 앱을 제거하여 배터리 사용량 문제 수정</string>
     <string name="om_ill_proc_type_wakelock_title">이 앱이 절전 모드를 방해하여 배터리를 소모합니다.</string>
@@ -1263,7 +1261,6 @@ SMS 전송"</string>
     <string name="menu_text_networkassistants">데이터 사용량</string>
     <string name="menu_text_networkassistants_remain">%s 남음</string>
     <string name="menu_text_networkassistants_danger">%s 초과</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1623,7 +1620,6 @@ SMS 전송"</string>
     <string name="card_main_deepclean_wechat_action">정리</string>
     <string name="card_main_sectool_title">도구</string>
     <string name="card_main_monthreport_action">보기</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">네트워크 테스트</string>
     <string name="card_main_netcheck_summary">휴대전화 네트워크 문제 세부 진단</string>
     <string name="card_main_netcheck_action">테스트</string>

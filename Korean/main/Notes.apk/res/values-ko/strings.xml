@@ -6,7 +6,6 @@
     <string name="sina_token_expired_warning">Weibo 계정이 만료되었습니다. 계정을 다시 추가하십시오.</string>
     <string name="sina_token_invalid_warning">Weibo 계정이 잘못되었습니다. 계정을 다시 추가하십시오.</string>
     <string name="sina_share_fail_content_repeat">이 항목은 이미 공유되어 있습니다.</string>
-    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">노트;메모</string>
     <string name="search_path_notes">시스템 앱/메모</string>
     <string name="dlg_move_message">이동 중…</string>
@@ -118,7 +117,6 @@
     <string name="error_unsupport_content">이 메모는 지원되지 않는 콘텐츠를 포함하고 있습니다. 여기를 터치하여 업데이트하십시오.</string>
     <string name="error_contact_not_exist">연락처가 존재하지 않습니다.</string>
     <string name="sync_tips">탭하여 Mi 클라우드로 메모 동기화</string>
-    <string name="micloud_state_total_count">%1$s</string>
     <string name="pref_title_font_size">글꼴 크기</string>
     <string name="call_folder_name">통화 메모</string>
     <string name="trash_folder_name">휴지통</string>

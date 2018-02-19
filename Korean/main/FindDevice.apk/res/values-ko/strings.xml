@@ -22,7 +22,6 @@
     <string name="find_device_noise_title">기기 찾기 알람</string>
     <string name="find_device_success_title">기기 찾기</string>
     <string name="find_device_notice_p1">이동</string>
-    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"전화 위치 찾기, 잠그기, 또는 복원.
  SIM 카드를 교체하면, 이 기능을 다시 활성화하기 위해서 또 다른 SMS 메시지가 전송됩니다."</string>
     <string name="i_know">확인</string>

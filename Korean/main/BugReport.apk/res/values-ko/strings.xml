@@ -57,7 +57,6 @@
     <string name="save_pic_success">%s에 이미지 저장됨</string>
     <string name="save_pic_fail">이미지 저장 실패, SD 카드를 확인하십시오.</string>
     <string name="pic_not_exist">이 이미지는 존재하지 않습니다.</string>
-    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">제품 선택</string>
     <string name="michat_skillset_business_type_title">서비스 선택</string>
     <string name="michat_close_text">채팅 종료됨</string>

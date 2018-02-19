@@ -1480,7 +1480,6 @@
     <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB 디버깅에 대한 액세스를 취소 하시겠습니까?</string>
     <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 컴퓨터와 장치간에 데이터를 복사하고, 알림없이 장치에 응용 프로그램을 설치하고, 로그 데이터를 읽습니다.</string>
     <string name="adb_warning_title">USB 디버깅 허용 여부</string>
-    <string name="advanced_settings_container">고급 설정 컨테이너</string>
     <string name="all_empty_alert">새 SIP 계정의 세부 정보를 입력하십시오.</string>
     <string name="allow_mock_location">모의 위치 허용</string>
     <string name="allow_mock_location_summary">모의 위치 허용</string>
@@ -1740,7 +1739,6 @@
     <string name="picture_color_mode_desc">sRGB 사용</string>
     <string name="pointer_location">포인터 위치</string>
     <string name="pointer_location_summary"> 현재 터치 데이터를 보여주는 화면 오버레이</string>
-    <string name="port">포트</string>
     <string name="power_charging_duration">완전 충전까지 %1$s - %2$s</string>
     <string name="power_charging_duration_usb">USB 충전으로 완전 충전까지 %1$s - %2$s </string>
     <string name="power_charging_duration_wireless">무선 충전으로 완전 충전까지 %1$s - %2$s </string>
@@ -1818,7 +1816,6 @@
     <string name="title_convert_fbe">파일 기반 암호화로 변환</string>
     <string name="track_frame_time">프로필 GPU 렌더링</string>
     <string name="transition_animation_scale_title">전환 애니메이션 크기</string>
-    <string name="transport">프로토콜</string>
     <string name="tts_default_lang_summary">음성 텍스트의 언어 별 음성을 설정합니다.</string>
     <string name="tts_default_lang_title">언어</string>
     <string name="tts_default_pitch_summary">합성 된 음성의 톤에 영향을줍니다.</string>
@@ -1865,7 +1862,6 @@
     <string name="vm_change_pin_progress_message">잠시만 기다려주세요 ...</string>
     <string name="voice_number_setting_primary_user_only">음성 메일은 기본 사용자 만 변경할 수 있습니다.</string>
     <string name="voicemail_change_pin_dialog_title">PIN 변경</string>
-    <string name="voicemail_notification_vibrate_when_default">절대로</string>
     <string name="voicemail_set_pin_dialog_title">PIN 설정</string>
     <string name="volte_provision_notification_activate"> 활성화</string>
     <string name="volte_provision_text">VoLTE 통화는 일반 통화보다 우수한 품질을 제공합니다. 지금 활성화 하시겠습니까?</string>
@@ -1900,7 +1896,6 @@
     <string name="daltonizer_mode_monochromacy">전색맹</string>
     <string name="daltonizer_mode_protanomaly">적색약(적녹)</string>
     <string name="daltonizer_mode_tritanomaly">청색약(청황)</string>
-    <string name="password">비밀번호 입력</string>
     <string name="show_all_anrs_summary">백그라운드 앱을 위해 \"앱 응답 없음\" 창을 보여줍니다</string>
     <string name="legacy_dhcp_client_summary">안드로이드 롤리팝 버전의 DHCP 클라이언트를 사용합니다.</string>
     <string name="show_cpu_usage">CPU 사용량 표시</string>

@@ -20,7 +20,6 @@
     <string name="save_as_pdf">PDF로 저장</string>
     <string name="all_printers">모든 프린터…</string>
     <string name="print_dialog">인쇄 대화상자</string>
-    <string name="current_page_template">%1$d/%2$d</string>
     <string name="page_description_template">전체 %2$d페이지 중 현재 %1$d페이지</string>
     <string name="summary_template">요약, 매수 %1$s, 용지 크기 %2$s</string>
     <string name="expand_handle">펼치기 핸들</string>

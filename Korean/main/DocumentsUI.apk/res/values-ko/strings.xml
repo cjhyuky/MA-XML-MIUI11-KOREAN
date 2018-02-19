@@ -40,7 +40,6 @@
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="deny">거부</string>
     <string name="abc_searchview_description_search">검색</string>
     <string name="search_menu_title">검색</string>

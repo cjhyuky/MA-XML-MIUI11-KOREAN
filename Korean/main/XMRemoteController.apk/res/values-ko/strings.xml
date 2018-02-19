@@ -20,7 +20,6 @@
     <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="search_menu_title">검색</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ac_gree">Gree 에어컨</string>
     <string name="ac_mode_auto">자동</string>
     <string name="ac_mode_cold">냉방</string>
@@ -93,7 +92,6 @@
     <string name="bind_stb">셋톱박스 계속 연결</string>
     <string name="bind_stb_dlg">채널을 변경해서 셋톱박스 연결</string>
     <string name="bind_stb_dlg_agree">연결</string>
-    <string name="brand_device">%1$s %2$s</string>
     <string name="brand_search_box_hint">제조업체를 선택하십시오</string>
     <string name="brand_title_all">전체</string>
     <string name="brand_title_hot">인기있는</string>
@@ -287,7 +285,6 @@
     <string name="hot_videos">인기있는</string>
     <string name="hour">시간</string>
     <string name="humidity">습도:</string>
-    <string name="humidity_frame">%1$d%%</string>
     <string name="increase">위</string>
     <string name="input_complete">네</string>
     <string name="input_source">소스 입력</string>
@@ -343,7 +340,6 @@
     <string name="loading_ir_data">잠시 기다려 주십시오…</string>
     <string name="locate_current_place">현재 위치 찾기</string>
     <string name="location_select">기기 이름 바꾸기</string>
-    <string name="lock_screen_device_sum">%1$d</string>
     <string name="login">로그인</string>
     <string name="login_directly">로그인</string>
     <string name="login_done">로그인됨</string>
@@ -369,7 +365,6 @@
     <string name="match_data">연결 정보</string>
     <string name="match_data_error_tips">"정보를 가져올 수 없습니다
 돌아가서 계속하기"</string>
-    <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_direction_default">방향 버튼이 작동합니까?</string>
     <string name="match_dvd_intro_pause">DVD 재생이 일시 중지되면 손을 떼십시오</string>
     <string name="match_dvd_intro_play">DVD 재생이 시작되면 손을 떼십시오</string>
@@ -571,8 +566,6 @@
     <string name="scaning">검색 중…</string>
     <string name="scanning_milink">기기 검색 중…</string>
     <string name="scene_default">기본값</string>
-    <string name="scene_name_frame">%1$s %2$s%3$s</string>
-    <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">스크린샷</string>
     <string name="screenshot_failed">화면을 캡처할 수 없습니다.</string>
     <string name="screenshot_failed_and_check_connection">화면을 캡쳐할 수 없습니다. 연결된 기기를 확인하여 주십시오.</string>
@@ -670,7 +663,6 @@
     <string name="start_diagnosis">테스트</string>
     <string name="start_match">연결</string>
     <string name="stb">셋톱박스</string>
-    <string name="stb_detail_title_frame">%1$s-%2$d</string>
     <string name="stb_power">STB 켜기/끄기</string>
     <string name="steps">시도 #%d</string>
     <string name="stop_diagnosis">중지</string>

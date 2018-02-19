@@ -259,7 +259,6 @@
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">기능 코드가 완료되었습니다.</string>
   <string name="fcError">연결에 문제가 있거나 기능 코드가 잘못되었습니다.</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="find">찾기</string>
   <string name="find_on_page">페이지에서 찾기</string>
   <string name="fingerprints">지문:</string>
@@ -1121,7 +1120,6 @@
   <string name="ssl_certificate">보안 인증서</string>
   <string name="ssl_certificate_is_valid">유효한 인증서입니다.</string>
   <string name="status_bar_device_locked">기기가 잠겼습니다.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_internal">내부 저장소</string>
   <string name="storage_sd_card">SD 카드</string>
   <string name="storage_usb">USB 저장소</string>

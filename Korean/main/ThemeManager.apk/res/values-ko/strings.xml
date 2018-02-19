@@ -297,7 +297,6 @@
     <string name="theme_batch_update_dlg_content_single">%1$s 테마를 지금 업데이트하시겠습니까?</string>
     <string name="theme_current_using_has_update">테마 업데이트 사용 가능</string>
     <string name="theme_immediately_apply_tip">지금 테마 업데이트를 적용하시겠습니까?</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_fresh_man_notifaction">새 테마 사용 가능</string>
     <string name="selected_resource_file_invalid">선택한 리소스 파일을 사용할 수 없습니다.</string>
     <string name="apply_theme_with_ringtones">테마 벨소리 사용</string>
@@ -448,7 +447,6 @@
     <string name="online_precust_midnight">미드나잇</string>
     <string name="current_version_incompatible">이 테마를 적용할 수 없습니다.</string>
     <string name="find_more_theme">더 찾아보기</string>
-    <string name="gift_count_format">%1$s+</string>
     <string name="hide_free">무료 테마 숨기기</string>
     <string name="hide_incompatible">적용 불가능한 테마 숨기기</string>
     <string name="online_precust_abstract">추상</string>
