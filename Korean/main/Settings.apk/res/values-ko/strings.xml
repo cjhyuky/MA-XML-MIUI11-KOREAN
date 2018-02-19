@@ -1146,8 +1146,8 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="lockpattern_recording_inprogress">완료되면 손가락을 떼세요.</string>
     <string name="lockpattern_recording_incorrect_too_short">%d개 이상의 점을 연결해야 합니다. 다시 시도하세요.</string>
     <string name="lockpattern_pattern_entered_header">패턴 기록됨</string>
-    <string name="lockpattern_need_to_confirm">패턴을 다시 그려 승인:</string>
-    <string name="lockpattern_pattern_confirmed_header">새 잠금 해제 패턴:</string>
+    <string name="lockpattern_need_to_confirm">패턴을 다시 그려 승인</string>
+    <string name="lockpattern_pattern_confirmed_header">새 잠금 해제 패턴</string>
     <string name="lockpattern_confirm_button_text">승인</string>
     <string name="lockpattern_restart_button_text">다시 그리기</string>
     <string name="lockpattern_retry_button_text">지우기</string>
@@ -3982,12 +3982,12 @@ PIN 설정"</string>
     <string name="security_encryption_title">잠금화면 비밀번호로 기기 암호화</string>
     <string name="lockpassword_confirm_workspace_password">워크 스페이스 비밀번호 인증</string>
     <string name="turn_on_keyguard_password_alert_forget_title">비밀번호를 기억하세요</string>
-    <string name="turn_on_keyguard_password_alert_forget_content">잠금 화면 비밀번호를 기억하세요. 만약 잊어버리면, 기기의 사진과 연락처를 포함한 모든 데이터를 삭제하고 새 기기로 설정해야 합니다.</string>
+    <string name="turn_on_keyguard_password_alert_forget_content">잠금 화면 비밀번호를 기억하세요. 비밀번호를 잊어버리면 기기의 사진과 연락처를 포함한 모든 데이터를 삭제하고 새 기기로 설정해야 합니다.</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">지금 안함</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">알겠습니다</string>
-    <string name="turn_on_keyguard_password_alert_foget_ok_time">확인 (%ds)</string>
-    <string name="turn_on_keyguard_password_alert">비밀번호를 기억하세요. 만약 잊어버리면, 복구할 수 없습니다.</string>
-    <string name="turn_on_keyguard_password_alert_choose">비밀번호를 기억하세요. 만약 잊어버리면, 기기의 모든 데이터를 삭제하고 새 기기로 설정해야 합니다.</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok_time">확인 (%d초)</string>
+    <string name="turn_on_keyguard_password_alert">비밀번호를 기억하세요. 비밀번호를 잊어버리면 복구할 수 없습니다.</string>
+    <string name="turn_on_keyguard_password_alert_choose">비밀번호를 기억하세요. 비밀번호를 잊어버리면 기기의 모든 데이터를 삭제하고 새 기기로 설정해야 합니다.</string>
     <string name="add_facerecoginition_text">얼굴인식 추가</string>
     <string name="manage_facerecoginition_text">얼굴인식 관리</string>
     <string name="face_unlock_enable">얼굴인식 언락 켜기</string>
@@ -4045,7 +4045,7 @@ PIN 설정"</string>
     <string name="privacy_password_confirm_SecondSpace_Password">보조 공간 비밀번호 승인</string>
     <string name="privacy_password_transparent_tiltle" />
     <string name="smartcover_lock_or_unlock_screen_tittle">스마트 커버 모드</string>
-    <string name="smartcover_sensitive_summary">스마트 커버를 사용하여 자동으로 휴대전화를 잠그거나 잠금 해제하십시오</string>
+    <string name="smartcover_sensitive_summary">스마트 커버를 사용하여 기기를 자동으로 잠그거나 잠금해제하기</string>
     <string name="privacy_password_bind_account">Mi 계정 추가</string>
     <string name="privacy_password_remind_bind_notlogin_account">비밀번호를 잊었을 때 재설정할 수 있도록 Mi 계정을 추가하십시오</string>
     <string name="privacy_password_bind_account_immediate">추가</string>
@@ -4079,7 +4079,7 @@ PIN 설정"</string>
     <string name="password_turned_off_text">비밀번호 꺼짐</string>
     <string name="keyguard_advance_setting_title">고급 설정</string>
     <string name="lock_screen_signature_title">잠금화면 소유자 정보</string>
-    <string name="lock_screen_signature_summary">설정시 정보가 잠금화면에 표시됨</string>
+    <string name="lock_screen_signature_summary">소유자 정보를 잠금화면에 표시</string>
     <string name="fingerprint_manage_tittle">지문</string>
     <string name="fingerprint_apply_to_privacy_password">개인 정보 보호 비밀번호</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">개인 정보 보호 비밀번호가 귀하의 메시지, 사진, 파일, 메모, 기타 등을 보호합니다.</string>
