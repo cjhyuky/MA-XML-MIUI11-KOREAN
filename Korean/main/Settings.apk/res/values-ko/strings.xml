@@ -3007,7 +3007,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="no_nearby_wifi">네트워크 발견되지 않음</string>
     <string name="manually_add_network">네트워크 추가</string>
     <string name="network_detail">%s 네트워크 세부사항</string>
-    <string name="connected_wifi">연결됨</string>
+    <string name="connected_wifi">저장된 네트워크</string>
     <string name="lockpattern_recording_intro_header_second_space">보조 공간을 위한 잠금 해제 패턴 그리기:</string>
     <string name="storage_internal_title">비시스템 저장소</string>
     <string name="lockpattern_pattern_same_with_owner">기본 공간 비밀번호와 잠금 해제 비밀번호를 같게 설정하실 수 없습니다.</string>
