@@ -1335,4 +1335,6 @@
     <string name="search_quick_dial_setting">연락처</string>
     <string name="preference_contacts_moresetting">추가 설정</string>
     <string name="preference_display_contact">디스플레이 옵션</string>
+    <string name="contact_detail_entry_pay">지불</string>
+    <string name="contact_detail_entry_pay_dialog_title">전화번호 선택</string>
 </resources>
