@@ -6133,4 +6133,7 @@ PIN 설정"</string>
     <string name="privacy_authorize_title">권한 승인</string>
     <string name="use_personalized_ad_service_summary">광고 추천 기능을 해제해도 광고는 계속 표시되지만, 사용자에게 맞는 광고가 아닐 수 있습니다.</string>
     <string name="mi_upi_settings">Mi 페이 계정</string>
+    <string name="voice_assist">Xiao Ai</string>
+    <string name="tether_auto_disable_summary">Automatically close hotspot when no connected devices</string>
+    <string name="tether_auto_disable_title">Automatically close hotspot</string>
 </resources>
