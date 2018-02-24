@@ -115,5 +115,7 @@
     <string name="phone_get_text">%1$s 통신사에 동의하여 이 번호를 받으시겠습니까：%2$s</string>
     <string name="phone_get_processing">전화번호 받는중…</string>
     <string name="agree">동의</string>
-    <string name="activate_sms_postfix">이 SIM 카드가 미 서비스를 활성화하는데 사용됩니다.</string>
+    <string name="activate_sms_postfix">이 SIM 카드가 Mi 서비스를 활성화하는데 사용됩니다.</string>
+    <string name="privacy_revoke_failed_msg">약관 동의 안함，실행 불가</string>
+    <string name="privacy_revoke_tips">동의하지 않을 경우, 문자 메세지 동기화 기능을 사용할 수 없습니다.</string>
 </resources>
