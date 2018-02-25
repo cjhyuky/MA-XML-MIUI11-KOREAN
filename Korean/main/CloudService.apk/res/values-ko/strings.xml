@@ -585,4 +585,17 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_alert_dialog_negative">취소</string>
     <string name="micloud_alert_dialog_positive">확인</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">세컨드 스페이스에서는 기기 찾기 기능이 비활성화됩니다.</string>
+    <string name="find_device_gdpr_prompt">기기 찾기를 활성화하면 \"개인 정보 보호 약관\"에 자동으로 동의하기 됩니다. 이 약관에 동의하지 않는 경우 이 기능을 해제하십시오.</string>
+    <string name="find_device_gdpr_prompt_policy_doc_name">\"개인 정보 보호 약관\"</string>
+    <string name="micloud_notif_content_privacy_reopen_failed">자세히 보기</string>
+    <string name="micloud_notif_title_privacy_reopen_failed">"클라우드 서비스 실행 불가능"</string>
+    <string name="micloud_privacy_cloud_off">동기화 해제</string>
+    <string name="micloud_privacy_cloud_sync">활성화된 Mi 클라우드</string>
+    <string name="micloud_privacy_explanation">권한을 부여한 후 활성화하십시오.</string>
+    <string name="micloud_privacy_licence_agreed">Mi 클라우드 개인정보 보호 약관에 동의하십시오.</string>
+    <string name="micloud_privacy_licence_privacy_policy">개인 정보 보호 약관</string>
+    <string name="micloud_privacy_more">더보기</string>
+    <string name="micloud_privacy_warning_button">뒤로가기</string>
+    <string name="micloud_privacy_warning_content">"Mi 클라우드를 활성화할 수 없습니다. 나중에 다시 시도하세요."</string>
+    <string name="micloud_privacy_warning_title">힌트</string>
 </resources>
