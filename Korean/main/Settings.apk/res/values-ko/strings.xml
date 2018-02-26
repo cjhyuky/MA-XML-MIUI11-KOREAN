@@ -4298,7 +4298,6 @@ PIN 설정"</string>
     <string name="vip_mode_info">무음모드에서는 통화 또는 SMS의 연락처 VIP 목록에 링 알림이 계속 울립니다.</string>
     <string name="recommend_item_2">Mi 밴드</string>
     <string name="security_encryption_attention_title">중요</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="spellchecker_switch_title">맞춤법 검사기 사용</string>
     <string name="google_title">구글</string>
     <string name="crypt_keeper_encrypt_summary">휴대전화를 켤 때마다 휴대전화의 암호화를 해제할 비밀번호 요구</string>
