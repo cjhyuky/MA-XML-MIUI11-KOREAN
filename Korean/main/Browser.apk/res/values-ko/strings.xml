@@ -1395,5 +1395,6 @@
     <string name="translation_more">다른 번역</string>
     <string name="translation_query_error">의미 없음</string>
     <string name="translation_query_error_network">네트워크 연결을 확인하세요</string>
-    <string name="translation_result_copy">번역이 복사되었습니다</string>    
+    <string name="translation_result_copy">번역이 복사되었습니다</string>   
+    <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"파일을 읽을 수 없습니다. 접근 권한을 허용하세요."</string>
 </resources>
