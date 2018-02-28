@@ -669,5 +669,7 @@
     <string name="pref_title_mms_retrieval_during_national_roaming">국내 사용중 MMS 콘텐츠 다운로드</string>
     <string name="sms_report">스팸 메시지 신고</string>
     <string name="verification_code_icon_name">인</string>
-    <string name="yellowpage_recommend_msg">"MIUI의 메시지 기능을 살펴보세요"</string>   
+    <string name="yellowpage_recommend_msg">"MIUI의 메시지 기능을 살펴보세요"</string>
+    <string name="attach_transaction">돈 송금</string>
+    <string name="select_phone_number">전화 번호 선택</string>
 </resources>
