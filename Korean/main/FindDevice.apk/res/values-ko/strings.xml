@@ -83,4 +83,5 @@ i.mi.com에 로그인하셔서 기기 잠금 해제를 시도하십시오"</stri
     <string name="sys_notification_async_verify_content">보안 정책 업데이트로 인해 기기 찾기 기능의 재활성화가 요구됩니다.</string>
     <string name="sys_notification_async_open_failed_title">기기 찾기를 켤 수 없습니다.</string>
     <string name="sys_notification_async_open_failed_content">탭하여 다시 시도 또는 취소</string>
+    <string name="open_wifi_settings">Wi-Fi 설정 열기</string>
 </resources>
