@@ -817,4 +817,5 @@
     <string name="search_statistic_appname">출처</string>
     <string name="search_statistic_keyword">키워드</string>
     <string name="search_statistic_tag">태그</string>
+    <string name="transition_image">전환 이미지</string>
 </resources>
