@@ -471,4 +471,15 @@
     <string name="online_precust_cartoon">만화</string>
     <string name="online_precust_entertainment">엔터테인먼트</string>
     <string name="online_precust_starry_sky">푸른 하늘</string>
+    <string name="resource_current_using_title">현재 사용중인 테마</string>
+    <string name="resource_free_trial_15_days">15일 무료 체험</string>
+    <string name="resource_free_use_last_one_day">무료 체험 기간이 내일 만료됩니다.</string>
+    <string name="resource_local_picker">기기에 저장된 벨소리 선택</string>
+    <string name="resource_on_use">사용중인 파일 : %1$s</string>
+    <string name="resource_online_picker">온라인 벨소리 선택</string>
+    <string name="resource_select_ringtone_confirm">이 벨소리를 선택하시겠습니까?</string>
+    <string name="resource_trial_15_days_end_title">15일 무료 체험 만료</string>
+    <string name="resource_trial_15_days_immediately">15일 무료 체험을 지금 시작하세.</string>
+    <string name="resource_trial_end_change">변경</string>
+    <string name="title_system_audio_notification_resource">시스템 알림</string>
 </resources>
