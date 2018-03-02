@@ -6137,4 +6137,6 @@ PIN 설정"</string>
     <string name="tether_auto_disable_title">자동으로 핫스팟 끄기</string>
     <string name="night_light_color_tip">변경 사항은 독서 모드가 해제된 후에 적용됩니다.</string>
     <string name="night_light_tip">변경 사항은 독서 모드가 활성화된 후에 적용됩니다.</string>
+    <string name="secondspace_category">보조 공간</string>
+    <string name="secondspace_delete_space_title">보조 공간 삭제</string>
 </resources>
