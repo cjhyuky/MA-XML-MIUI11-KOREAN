@@ -39,7 +39,7 @@
         <item>소나기</item>
         <item>집중 호우</item>
         <item>비</item>
-        <item>이슬 비</item>
+        <item>이슬비</item>
         <item>진눈깨비</item>
         <item>눈보라</item>
         <item>눈</item>
@@ -109,7 +109,7 @@
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Off</item>
+        <item>끄기</item>
         <item>로그 버퍼당 64K</item>
         <item>로그 버퍼당 256K</item>
         <item>로그 버퍼당 1M</item>
