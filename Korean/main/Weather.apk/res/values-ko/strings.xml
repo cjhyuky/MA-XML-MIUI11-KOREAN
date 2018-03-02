@@ -274,4 +274,6 @@
     <string name="missing_required_permission">필요한 권한이 비활성화되어 있습니다.</string>
     <string name="information_settings_title">날씨 정보</string>
     <string name="other_settings">기타 설정</string>
+    <string name="china_version_first_start_network_msg">"이 앱을 사용하면 당신은 샤오미의 %1$s 및 %2$s에 동의하는 것으로 간주됩니다. 이 앱이 정상적으로 작동되기 위해서는 인터넷 연결이 필요합니다."</string>
+    <string name="international_version_first_start_network_msg">"이 앱을 사용하면 당신은 샤오미의 %1$s에 동의하는 것으로 간주됩니다. 정확한 날씨 데이터를 불러오기 위해 인터넷 연결이 필요합니다. 계속하려면 동의 버튼을 클릭하세요."</string>
 </resources>
