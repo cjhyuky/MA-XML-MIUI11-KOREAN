@@ -640,7 +640,7 @@
     <string name="wifi_menu_scan">검색</string>
     <string name="wifi_menu_advanced">고급</string>
     <string name="wifi_menu_connect">네트워크 연결</string>
-    <string name="wifi_menu_forget">네트워크 저장 안함</string>
+    <string name="wifi_menu_forget"></string>
     <string name="wifi_menu_modify">네트워크 수정</string>
     <string name="wifi_menu_write_to_nfc">NFC 태그에 기록</string>
     <string name="wifi_empty_list_wifi_off">사용 가능한 네트워크를 보려면 Wi-Fi를 켜십시오.</string>
