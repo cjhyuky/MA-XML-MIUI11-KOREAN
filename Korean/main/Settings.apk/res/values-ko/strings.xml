@@ -2998,7 +2998,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="security_privacy_settings_title">개인 정보 보호</string>
     <string name="nearby_wifi">사용 가능한 네트워크</string>
     <string name="delete_saved_network">저장된 네트워크 삭제</string>
-    <string name="batch_delete_saved_network">선택한 네트워크: %s를 삭제하시겠습니까?</string>
+    <string name="batch_delete_saved_network">이 네트워크를 삭제하시겠습니까?</string>
     <string name="batch_delete_saved_networks">선택한 모든 네트워크 삭제</string>
     <string name="unlock_set_enter_system">화면 잠금 건너뛰기</string>
     <string name="unlock_set_enter_system_summary">절전 모드 해제 시 홈 화면으로 바로 이동</string>
