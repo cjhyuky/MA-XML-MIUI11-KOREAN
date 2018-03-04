@@ -517,4 +517,5 @@
     <string name="notif_sending_transingsd">보내는중 %1$s (%2$s)…</string>
     <string name="notif_miasist_try_to_connect">Mi PC 슈트가 기기에 연결을 시도하고 있습니다.</string>
     <string name="trans_switching_5g">5GHz 와이파이로 전환 중…</string>
+    <string name="err_not_allow">지원되지 않음</string>
 </resources>
