@@ -199,4 +199,5 @@
     <string name="cloud_service_state_open_reminder">Mi 클라우드 동기화를 활성화하여 메모를 동기화 하세요.</string>
     <string name="refuse_to_open_as_pic_because_of_loading">메모가 불러진 후 다시 시도하세요.</string>
     <string name="toast_cancel_to_insert_image">이미지 추가 취소.</string>
+    <string name="dialog_privacy_revoke_tips">"권한을 거절하면 앱에서 데이터 수집이 중지되고 모든 관련 데이터가 서버에서 삭제됩니다. 이로 인해 앱을 사실상 사용할 수 없게 될 수도 있습니다. 승인을 취소하시겠습니까? 계정 보안을 유지하려면 Mi Cloud 서비스에 대한 승인을 취소하기 전에 i.mi.com에 로그인하십시오."</string>
 </resources>
