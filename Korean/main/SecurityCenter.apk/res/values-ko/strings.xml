@@ -2357,4 +2357,14 @@ SMS 전송"</string>
     <string name="ac_post_notification_contentTitle">앱 잠금 활성화</string>
     <string name="ac_pre_notification_contentText">개인 정보 보호</string>
     <string name="ac_pre_notification_contentTitle">앱 잠금을 시도해 보세요.</string>
+    <string name="data_usage_mobile_dialog_title">"이미 5GB 모바일 데이터를 사용하셨습니다. 모바일 데이터가 차단됩니다."</string>
+    <string name="data_usage_protected_dialog_message">"통신사의 추가 비용 과금을 방지 하기 위해 MIUI가 자체적으로 데이터를 차단하였습니다. 모바일 데이터를 다시 활성화할 경우 추가 비용이 발생할 수 있습니다."</string>
+    <string name="data_usage_protected_notify_message">통신사의 추가 비용 과금을 방지 하기 위해 MIUI가 자체적으로 데이터를 차단하였습니다.</string>
+    <string name="data_usage_protected_notify_title">"이미 5GB 모바일 데이터를 사용하셨습니다."</string>
+    <string name="dialog_restrict_all_mobile_summary">%s의 모바일 네트워크 연결 제한</string>
+    <string name="dialog_restrict_all_mobile_title">%s의 모바일 네트워크 연결 제한</string>
+    <string name="dialog_restrict_all_wlan_summary">모든 앱의 Wi-Fi 연결이 제한됩니다.</string>
+    <string name="dialog_restrict_all_wlan_title">Wi-Fi 연결 제한</string>
+    <string name="dialog_restrict_negative">제한</string>
+    <string name="dialog_restrict_positive">취소</string>
 </resources>
