@@ -1397,4 +1397,13 @@
     <string name="translation_query_error_network">네트워크 연결을 확인하세요</string>
     <string name="translation_result_copy">번역이 복사되었습니다</string>   
     <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"파일을 읽을 수 없습니다. 접근 권한을 허용하세요."</string>
+    <string name="action_menu_download">다운로드</string>
+    <string name="action_menu_text_readmode">독서 모드</string>
+    <string name="close">닫기</string>
+    <string name="enter_the_group_name">조직 이름을 입력하십시오.</string>
+    <string name="enter_the_password">비밀번호를 입력하십시오.</string>
+    <string name="enter_the_user_name">ID를 입력하십시오.</string>
+    <string name="save_to_bookmark">즐겨찾기에 저장</string>
+    <string name="storage_close">닫기</string>
+    <string name="storage_open">열기</string>
 </resources>
