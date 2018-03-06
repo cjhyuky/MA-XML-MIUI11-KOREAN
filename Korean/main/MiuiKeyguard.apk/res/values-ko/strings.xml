@@ -154,4 +154,5 @@
     <string name="wireless_charge_dialog_cancel">취소</string>
     <string name="wireless_charge_dialog_title">위치를 벗어났습니다, 제자리에 놓으세요</string>
     <string name="wireless_charge_stop">무선 충전이 중지되었습니다</string>
+    <string name="wireless_current_charge">현재 요금</string>
 </resources>
