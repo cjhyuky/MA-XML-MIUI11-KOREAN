@@ -250,7 +250,6 @@
     <string name="click_download_all_content">[탭하여 컨텐츠 다운로드]</string>
     <string name="click_to_reload">화면을 탭하여 새로고침</string>
     <string name="collapse_recipient_details">받는 사람 세부 정보 축소</string>
-    <string name="colon">:</string>
     <string name="compose">작성</string>
     <string name="compose_attachment_number_limit">10개 이상의 첨부 파일을 추가할 수 없습니다.</string>
     <string name="compose_paste_address_oob">너무 많은 문자입니다.</string>

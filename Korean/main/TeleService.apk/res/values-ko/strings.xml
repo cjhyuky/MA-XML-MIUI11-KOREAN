@@ -349,7 +349,6 @@
     <string name="sum_cfu_disabled">꺼짐</string>
     <string name="set_time_period">시간 간격 설정</string>
     <string name="all_day">하루 종일</string>
-    <string name="time_interval_char">:</string>
     <string name="time_start">에서</string>
     <string name="time_start_hour">시작 시간 (시)</string>
     <string name="time_start_minute">시작 시간 (분)</string>

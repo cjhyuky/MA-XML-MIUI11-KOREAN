@@ -17,7 +17,6 @@
     <string name="stopwatch_title">스톱워치</string>
     <string name="timer_title">타이머</string>
     <string name="timer_alarm_dot_matrix_label">타이머</string>
-    <string name="symbol_colon">:</string>
     <string name="menu_add_worldclock">시계 추가</string>
     <string name="menu_edit_timer_item">타이머 작업 수정</string>
     <string name="delete_timer_item_title">타이머 작업 삭제</string>
