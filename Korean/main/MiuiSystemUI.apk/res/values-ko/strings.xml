@@ -859,4 +859,5 @@
     <string name="please_slide_agian">다시 한번 슬라이드 하세요</string>
     <string name="how_to_use_drawer">앱 슬라이딩 기능 사용법</string>
     <string name="how_to_use_drawer_summary">왼쪽상단에서부터 스와이프하세요</string>
+    <string name="recent_cannot_dock">"세컨드 스페이스에서는 분할 화면을 이용할 수 없습니다."</string>
 </resources>
