@@ -276,4 +276,16 @@
     <string name="other_settings">기타 설정</string>
     <string name="china_version_first_start_network_msg">"이 앱을 사용하면 당신은 샤오미의 %1$s 및 %2$s에 동의하는 것으로 간주됩니다. 이 앱이 정상적으로 작동되기 위해서는 인터넷 연결이 필요합니다."</string>
     <string name="international_version_first_start_network_msg">"이 앱을 사용하면 당신은 샤오미의 %1$s에 동의하는 것으로 간주됩니다. 정확한 날씨 데이터를 불러오기 위해 인터넷 연결이 필요합니다. 계속하려면 동의 버튼을 클릭하세요."</string>
+    <string name="button_settings_cancel">취소</string>
+    <string name="button_settings_confirm">거절</string>
+    <string name="button_settings_confirm_to_revoke_msg">"약관 거부 후에는 날씨 앱을 이용할 수 없습니다."</string>
+    <string name="button_settings_confirm_to_revoke_title">약관을 거부하시겠습니까?</string>
+    <string name="eu_region_version_first_start_network_msg">"이 앱을 사용함으로써 샤오미는 귀하가 검색한 도시 및 당사의 개인 정보 보호 정책에 명시된 다른 유형의 데이터를 포함하여 귀하가 사용하는 개인 정보를 일부 수집할 수 있습니다. 자세한 내용은 개인 정보 보호 약관을 참조하십시오. \"동의\" 버튼을 탭하면 샤오미의 %1$s 및 %2$s에 동의하게 됩니다."</string>
+    <string name="policy_settings">이용 약관</string>
+    <string name="privacy_grant_failed">"권한을 승인할 수 없습니다. 몇분 후에 다시 시도하십시오."</string>
+    <string name="privacy_grant_or_revoke_settings">권한 승인 & 거절</string>
+    <string name="privacy_grant_success">권한 부여 완료</string>
+    <string name="privacy_revoke_failed">"거절할 수 없습니다. 몇분 후에 다시 시도하십시오."</string>
+    <string name="privacy_revoke_success">거절됨</string>
+    <string name="privacy_settings">개인 정보 보호 약관</string>
 </resources>
