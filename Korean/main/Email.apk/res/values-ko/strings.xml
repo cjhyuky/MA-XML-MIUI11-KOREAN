@@ -1091,4 +1091,6 @@
     <string name="unbind_dialog_text">"메일 앱은 계정을 삭제한 이후로 더 이상 이메일을 분석하지 않습니다. 계정을 삭제하시겠습니까?"</string>
     <string name="automatic_remind_text">자동 알림</string>
     <string name="special_text_sender_en">보낸사람</string>
+    <string name="see_more_content">더보기</string>
+    <string name="signature_black_shark">Blakshark 폰에서 전송</string>
 </resources>
