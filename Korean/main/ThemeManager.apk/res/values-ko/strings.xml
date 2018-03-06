@@ -482,4 +482,8 @@
     <string name="resource_trial_15_days_immediately">15일 무료 체험을 지금 시작하세.</string>
     <string name="resource_trial_end_change">변경</string>
     <string name="title_system_audio_notification_resource">시스템 알림</string>
+    <string name="online_precust_black_gold">로듐</string>
+    <string name="resource_is_off_shelf">사용 불가능</string>
+    <string name="up_to_the_end">"현재 사용 가능한 모든 테마입니다. 나중에 다시 확인하세요."</string>
+    <string name="wallpaper_detail_load_page_no_network">네트워크 연결을 확인하세요.</string>
 </resources>
