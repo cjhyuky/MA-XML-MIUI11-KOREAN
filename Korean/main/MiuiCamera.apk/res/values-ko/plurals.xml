@@ -12,4 +12,7 @@
     <plurals name="notification_group_overflow_description">
         <item quantity="other">%s개의 추가 알림이 있습니다.</item>
     </plurals>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">%d명 감지됨</item>
+    </plurals>
 </resources>
