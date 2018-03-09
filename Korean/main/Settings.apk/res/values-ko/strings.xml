@@ -6161,4 +6161,8 @@ PIN 설정"</string>
     <string name="wfd_status_dialog_disconnect">연결 해제</string>
     <string name="wfd_status_dialog_message">기기 화면이 무선 연결을 통해 다른 디스플레이에 표시되고 있습니다.</string>
     <string name="wfd_status_dialog_title">무선 디스플레이</string>
+    <string name="carrier_show_in_lock_screen">잠금 화면에만 표시</string>
+    <string name="carrier_show_none">다시는 통신사 이름 표시하지 않기</string>
+    <string name="memory_system_rom">시스템 저장소</string>
+    <string name="memory_system_space">시스템 저장소</string>
 </resources>
