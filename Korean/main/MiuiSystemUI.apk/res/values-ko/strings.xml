@@ -859,4 +859,7 @@
     <string name="how_to_use_drawer">앱 슬라이딩 기능 사용법</string>
     <string name="how_to_use_drawer_summary">왼쪽상단에서부터 스와이프하세요</string>
     <string name="recent_cannot_dock">"세컨드 스페이스에서는 분할 화면을 이용할 수 없습니다."</string>
+    <string name="low_temperature_button_ok">확인</string>
+    <string name="low_temperature_warning_message">온도가 너무 낮습니다. 기기가 언제든지 꺼질 수 있습니다. 작업중이던 데이터를 즉시 저장하세요.</string>
+    <string name="low_temperature_warning_title">전원꺼짐 경고</string>
 </resources>
