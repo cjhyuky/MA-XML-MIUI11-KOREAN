@@ -87,7 +87,6 @@
     <string name="no_network_btn">다시 시도</string>
     <string name="share">공유</string>
     <string name="open_browser">브라우저로 열기</string>
-    <string name="empty">" "</string>
     <string name="information_menu_title" />
     <string name="information_manager_wlan">Wi-Fi에 연결되었을 때 표시</string>
     <string name="information_manager_information">날씨 정보</string>

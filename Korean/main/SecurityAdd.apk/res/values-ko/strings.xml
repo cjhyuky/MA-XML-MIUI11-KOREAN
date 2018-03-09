@@ -31,7 +31,6 @@
     <string name="month_report_follow_service_positive">팔로우</string>
     <string name="month_report_follow_service_negative">사양하겠습니다.</string>
     <string name="app_not_installed_toast">앱이 기기에 설치되어 있지 않습니다.</string>
-    <string name="empty">" "</string>
     <string name="share">공유</string>
     <string name="open_browser">브라우저로 열기</string>
     <string name="title_share_link">URL 공유</string>

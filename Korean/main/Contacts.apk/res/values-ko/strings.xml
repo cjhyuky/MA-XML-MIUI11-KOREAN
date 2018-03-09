@@ -861,7 +861,6 @@
     <string name="label_no_duplicate_contacts">발견된 중복 연락처 없음</string>
     <string name="quit_dialog_confirm_title">연락처 합치기 취소</string>
     <string name="quit_dialog_confirm_message">합친 연락처가 없습니다.</string>
-    <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">가져오기/내보내기</string>
     <string name="preference_import_export_title">연락처 가져오기/내보내기</string>
     <string name="import_vcard_description">SD 카드에서 연락처 가져오기</string>
@@ -962,7 +961,6 @@
     <string name="menu_new_favorite_action_bar">즐겨찾기에 추가</string>
     <string name="click_close">탭하여 종료</string>
     <string name="phone_primary">1차</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="menu_bar_group_add">추가</string>
     <string name="menu_bar_group_sms">SMS</string>
     <string name="menu_bar_group_ringtone">벨소리</string>

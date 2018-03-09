@@ -478,7 +478,6 @@
     <string name="pref_fingerprint_capture_title">지문인식 셔터</string>
     <string name="confirm_restore_message">선택한 메시지를 복원하시겠습니까?</string>
     <string name="pref_setting_title">페이지 설정</string>
-    <string name="empty">항목 없음</string>
     <string name="hint_device_water_mark">사진 워터마크가 자동으로 추가됩니다.</string>
     <string name="multi_window_mode_not_supported">카메라는 분할 화면에서 작동하지 않습니다.</string>
     <string name="pref_camera_device_watermark_title">사진 워터마크</string>

@@ -1757,7 +1757,6 @@
     <string name="preferred_network_mode_tdscdma_gsm_summary">기본 네트워크 모드 : TDSCDMA / GSM</string>
     <string name="preferred_network_mode_tdscdma_gsm_wcdma_summary">기본 네트워크 모드 : TDSCDMA / GSM / WCDMA</string>
     <string name="preferred_network_mode_tdscdma_wcdma_summary">기본 네트워크 모드 : TDSCDMA / WCDMA</string>
-    <string name="process_kernel_label">안드로이드 OS</string>
     <string name="proximity_mode_title">근접 센서 켜기</string>
     <string name="proximity_off_summary">전화를 받으면 항상 화면이 켜집니다.</string>
     <string name="proximity_on_summary">전화를 받으면 절전을 위해 화면이 꺼집니다.</string>

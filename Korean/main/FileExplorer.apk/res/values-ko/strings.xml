@@ -564,7 +564,6 @@
     <string name="you_liao_goddess_desc">비디오를 정기적으로 업로드하고 팬 층을 늘리시면 숙녀 칭호를 얻게 됩니다.</string>
     <string name="default_user_desc">이 사용자는 아직 설명을 추가하지 않았습니다</string>
     <string name="recommend">추천됨</string>
-    <string name="topic_message">&lt;font color=#fc7050>%1$s: &lt;/font>%2$s</string>
     <string name="message_my_received_praise">내 좋아요</string>
     <string name="message_comment_prefix">"댓글: "</string>
     <string name="message_reply_prefix">답장</string>

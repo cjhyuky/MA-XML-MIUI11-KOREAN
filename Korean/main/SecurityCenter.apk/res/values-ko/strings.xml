@@ -924,7 +924,6 @@ SMS 전송"</string>
     <string name="usage_type_data_send">모바일 데이터 전송됨</string>
     <string name="usage_type_no_coverage">신호 없는 시간</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="process_kernel_label">안드로이드</string>
     <string name="process_mediaserver_label">미디어 서버</string>
     <string name="power_screen">화면</string>
     <string name="power_wifi">Wi-Fi</string>

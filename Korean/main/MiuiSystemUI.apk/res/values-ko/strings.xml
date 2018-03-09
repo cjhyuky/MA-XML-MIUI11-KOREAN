@@ -546,7 +546,6 @@
     <string name="power_discharging_duration_short">%1$s - %2$s 남음</string>
     <string name="power_remaining_duration_only">대략. %1$s 남음</string>
     <string name="power_remaining_duration_only_short">%1$s 남음</string>
-    <string name="process_kernel_label">안드로이드 운영체제</string>
     <string name="quick_settings_tiles">기본값</string>
     <string name="remaining_length_format">%1$s 남음</string>
     <string name="running_process_item_user_label">사용자: %1$s</string>

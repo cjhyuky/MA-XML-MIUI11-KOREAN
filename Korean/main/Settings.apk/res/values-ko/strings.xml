@@ -1688,7 +1688,6 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="menu_stats_last_unplugged">마지막으로 플러그를 뽑은 이후 %1$s 동안</string>
     <string name="menu_stats_total">총 사용량</string>
     <string name="menu_stats_refresh">새로고침</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">미디어 서버</string>
     <string name="battery_saver">배터리 세이버</string>
     <string name="battery_saver_turn_on_automatically_title">자동으로 사용 설정</string>
