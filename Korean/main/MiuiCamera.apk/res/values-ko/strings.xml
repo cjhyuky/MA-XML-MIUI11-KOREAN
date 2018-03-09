@@ -806,6 +806,5 @@
     <string name="pref_camera_mfnr_sat_enable_title">MFNR 활성화</string>
     <string name="pref_camera_optimized_flash_enable_title">맞춤 플래시</string>
     <string name="pref_video_hfr_title">비디오 HFR</string>
-    <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
-    <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
+    <string name="ai_scene_mode_use_hint_text">"Ai-장면인식 카메라를 사용해보세요. 장면을 자동으로 인식하여 최고의 결과물을 얻을 수 있도록 돕습니다."</string>
 </resources>
