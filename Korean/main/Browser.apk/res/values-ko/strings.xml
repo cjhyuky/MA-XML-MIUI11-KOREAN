@@ -1406,4 +1406,8 @@
     <string name="save_to_bookmark">즐겨찾기에 저장</string>
     <string name="storage_close">닫기</string>
     <string name="storage_open">열기</string>
+    <string name="green_kid_block_request">웹사이트가 부모님의 요청에 의해 접근이 거부 되었습니다.</string>
+    <string name="voice_open_permission_baidu">음성 인식을 위해 설정에서 음성 권한 설정을 켜십시오</string>
+    <string name="voice_open_permission_xiaoai">샤오미 음성 엔진을 사용하기 위해 설정에서 음성 권한 설정을 켜십시오</string>
+    <string name="voice_open_permission_xunfei">음성 설정을 위해 설정에서 음성 권한 설정을 켜십시오</string>
 </resources>
