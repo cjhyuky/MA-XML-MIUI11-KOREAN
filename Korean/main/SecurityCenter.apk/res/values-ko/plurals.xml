@@ -138,13 +138,13 @@
         <item quantity="other">마지막 확인으로부터 %d일</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">위협 %d개,</item>
+        <item quantity="other">위협 %d개, </item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">트로이 목마 %d개,</item>
+        <item quantity="other">트로이 목마 %d개, </item>
     </plurals>
     <plurals name="white_list_risk_app_header">
-        <item quantity="other">위험한 앱: %d</item>
+        <item quantity="other">위험한 앱: %d개</item>
     </plurals>
     <plurals name="white_list_trojan_header">
         <item quantity="other">트로이 목마: %d</item>
@@ -232,5 +232,8 @@
     </plurals>
     <plurals name="gb_ad_ten_thousand_people_play">
         <item quantity="other">%1$d명이 음악을 듣는 중입니다.</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">%d일 연속으로 체크인함</item>
     </plurals>
 </resources>
