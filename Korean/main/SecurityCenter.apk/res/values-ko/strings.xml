@@ -2377,4 +2377,24 @@ SMS 전송"</string>
     <string name="toast_update_nonetwork">"네트워크에 연결할 수 없습니다."</string>
     <string name="toast_update_notneed">최신</string>
     <string name="toast_update_success">업데이트 완료</string>
+    <string name="app_manager_uninstall">삭제</string>
+    <string name="gb_get_gift_right_now">지금 수령하기</string>
+    <string name="gb_have_signed">오늘 이미 수령함</string>
+    <string name="gb_network_status_bad">네트워크 연결이 끊어졌습니다.</string>
+    <string name="gb_sign_gift">리워드 받기</string>
+    <string name="gb_sign_gift_button_text">받기</string>
+    <string name="gb_sign_notification_summary">Xunyou 부스트에 접속해 리워드 획득하기</string>
+    <string name="gb_sign_notification_title">게임 실행을 위해 네트워크 부스트</string>
+    <string name="gb_signed_gift_loading_fail">"불러올 수 없음"</string>
+    <string name="gb_signed_gift_loading_summary">잠시만 기다려 주십시오…</string>
+    <string name="gb_signed_title">이번달에 이미 수령함</string>
+    <string name="gb_xunyou_gift_type_one">Xunyou 1일 부스트</string>
+    <string name="gb_xunyou_gift_type_three">Xunyou 3일 부스트</string>
+    <string name="gb_xunyou_gift_type_two">Xunyou 2일 부스트</string>
+    <string name="gs_open_game_booster_summary">게임 실행을 위해 네트워크 속도 향상</string>
+    <string name="gs_sign_notification">매일 오후 8시에 체크인하세요.</string>
+    <string name="signed_rule">규칙</string>
+    <string name="signed_rule_one">1. 10, 20, 28일 연속으로 Xunyou 부스트를 획득할 경우 1, 2, 3일 분량이 추가 증정됩니다.</string>
+    <string name="signed_rule_three">"3. 매달 보유한 부스트가 초기화됩니다. 획득한 부스트는 이월되지 않습니다."</string>
+    <string name="signed_rule_two">2. 1달에 Xunyou 부스트는 한 개만 획득 가능합니다.</string>
 </resources>
