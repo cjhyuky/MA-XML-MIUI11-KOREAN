@@ -862,4 +862,12 @@
     <string name="low_temperature_button_ok">확인</string>
     <string name="low_temperature_warning_message">온도가 너무 낮습니다. 기기가 언제든지 꺼질 수 있습니다. 작업중이던 데이터를 즉시 저장하세요.</string>
     <string name="low_temperature_warning_title">전원꺼짐 경고</string>
+    <string name="no_sim_card">SIM카드 없음</string>
+    <string name="notch_status_bar_date_format_12">MMMM d일 EEEE</string>
+    <string name="prompt_danger">위험</string>
+    <string name="prompt_detecting">감지중</string>
+    <string name="prompt_failure">실패함</string>
+    <string name="prompt_return_to_split">분할</string>
+    <string name="prompt_safe">안전함</string>
+    <string name="prompt_unknown">알 수 없음</string>
 </resources>
