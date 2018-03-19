@@ -6165,5 +6165,6 @@ PIN 설정"</string>
     <string name="carrier_show_none">다시는 통신사 이름 표시하지 않기</string>
     <string name="memory_system_rom">시스템 저장소</string>
     <string name="memory_system_space">시스템 저장소</string>
-    <string name="key_operation_diagram">동작 </string> 
+    <string name="key_operation_diagram">동작 </string>
+    <string name="provision_activation"></string>
 </resources>
