@@ -241,4 +241,7 @@
     <plurals name="zen_mode_settings_summary_on">
         <item quantity="other">%d개의 자동화 규칙이 켜짐</item>
     </plurals>
+    <plurals name="print_jobs_summary">
+        <item quantity="other">%1$d개 항목 인쇄</item>
+    </plurals>
 </resources>
