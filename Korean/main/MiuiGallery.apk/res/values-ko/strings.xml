@@ -1180,4 +1180,7 @@
     <string name="mark_operation_processing">처리중...</string>
     <string name="mark_operation_succeeded">추가 완료</string>
     <string name="mark_people_ignore_info_message">사진을 길게 눌러 사람을 추가하세요.</string>
+    <string name="storage_description_primary">내부 저장소</string>
+    <string name="storage_description_sdcard">SD카드</string>
+    <string name="storage_description_xspace">듀얼 앱 데이터</string>
 </resources>
