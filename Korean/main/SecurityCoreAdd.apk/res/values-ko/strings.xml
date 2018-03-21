@@ -369,4 +369,14 @@
     <string name="space_create_guide_title_1">사생활 보호</string>
     <string name="space_create_guide_title_2">언제나 생성 가능</string>
     <string name="space_create_guide_title_3">부담 없는 작업</string>
+    <string name="bind_device">기기 추가</string>
+    <string name="can_not_switch_when_green_kid_active">자녀 보호 기능에 의해 보조 공간 접근이 금지되어 있습니다.</string>
+    <string name="experience_more_features">기기를 추가하여 모든 기능 살펴보기</string>
+    <string name="green_guard">자녀 보호</string>
+    <string name="green_guard_des1">기기를 추가하여 원격으로 관리</string>
+    <string name="green_guard_des2">기기의 현재 위치 확인</string>
+    <string name="green_guard_des3">설치된 앱과 데이터 사용량 관리</string>
+    <string name="green_guard_title2">장소 정보 보기</string>
+    <string name="green_guard_title3">앱 관리</string>
+    <string name="need_network_when_bind">기기를 추가하기 전에 네트워크에 연결하세요.</string>
 </resources>
