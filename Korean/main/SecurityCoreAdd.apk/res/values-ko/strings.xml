@@ -379,4 +379,11 @@
     <string name="green_guard_title2">장소 정보 보기</string>
     <string name="green_guard_title3">앱 관리</string>
     <string name="need_network_when_bind">기기를 추가하기 전에 네트워크에 연결하세요.</string>
+    <string name="encrypt_space_delete_dialog_click_message">"*데이터 이동이 필요 없다면, %s"</string>
+    <string name="encrypt_space_delete_dialog_click_message_action">두 번째 공간을 삭제하고 생성하십시오..</string>
+    <string name="encrypt_space_delete_dialog_message">"안드로이드를 업데이트합니다. 업데이트 후 세컨드 스페이스에 접근할 수 없습니다. 이를 피하려면 모든 데이터를 메인 저장소로 이동하고 세컨드 스페이스를 삭제한 다음 다시 세컨드 스페이스를 생성하십시오."</string>
+    <string name="encrypt_space_delete_dialog_positive_text">데이터 이동</string>
+    <string name="encrypt_space_delete_dialog_title">주의</string>
+    <string name="encrypt_space_delete_notification_message">두 번째 공간을 삭제하고 새 공간을 만들어 장치를 업데이트하십시오.</string>
+    <string name="encrypt_space_delete_notification_title">세컨드 스페이스</string>
 </resources>
