@@ -870,4 +870,5 @@
     <string name="prompt_return_to_split">분할</string>
     <string name="prompt_safe">안전함</string>
     <string name="prompt_unknown">알 수 없음</string>
+    <string name="click_to_return_multi_window_of_notch">분할 화면으로 돌아가기</string>
 </resources>
