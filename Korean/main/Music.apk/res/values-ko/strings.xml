@@ -664,7 +664,7 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="download_complete_start_install">설치 중…</string>
     <string name="online_list_delete_message">이 재생 목록의 모든 다운로드된 노래들이 내부 저장소에서 삭제될 것입니다.</string>
     <string name="already_favorited">이미 즐겨찾기됨</string>
-    <string name="back_confirm">다시 탭하여 백그라운드 앱을 누르십시오.</string>
+    <string name="back_confirm">다시 탭하면 백그라운드에서 재생됩니다</string>
     <string name="song_offline">죄송하지만 이 노래는 더 이상 사용할 수 없습니다.</string>
     <string name="download_cloud_error_not_auth">Mi 계정에 로그인하시고 다시 시도해주십시오.</string>
     <string name="download_cloud_error_retryable">Mi 클라우드 서버에 오류가 있습니다, 나중에 다시 시도해주십시오.</string>
