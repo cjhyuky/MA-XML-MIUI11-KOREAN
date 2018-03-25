@@ -244,4 +244,13 @@
     <plurals name="print_jobs_summary">
         <item quantity="other">%1$d개 항목 인쇄</item>
     </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d개 앱이 네트워크에 연결할 수 없습니다.</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d개 앱이 네트워크에 연결할 수 없습니다."</item>
+    </plurals>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">%d개 앱에 제한적 접근</item>
+    </plurals>
 </resources>
