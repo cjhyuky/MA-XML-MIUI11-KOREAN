@@ -6167,4 +6167,27 @@ PIN 설정"</string>
     <string name="memory_system_space">시스템 저장소</string>
     <string name="key_operation_diagram">동작 </string>
     <string name="provision_activation"></string>
+    <string name="app_detail">정보</string>
+    <string name="app_mobile">모바일</string>
+    <string name="app_name_na">데이터 사용량</string>
+    <string name="app_version">버전</string>
+    <string name="app_wifi">Wi-Fi</string>
+    <string name="background_restrict_app_dialog_message">이 앱의 백그라운드 네트워크 액세스를 제한하면 앱이 정상적으로 작동하거나, 메시지를 받고, 콘텐츠를 다운로드하는 등의 작업이 불가능해질 수 있습니다. 계속하시겠습니까?</string>
+    <string name="background_traffic">백그라운드 %s</string>
+    <string name="btn_back">뒤로가기</string>
+    <string name="deleted_apps">삭제된 앱</string>
+    <string name="detail_app_button">앱 정보</string>
+    <string name="dialog_chose_item">표시할 아이템을 선택하세요.</string>
+    <string name="dialog_restrict_all_mobile_summary">%s의 데이터 연결이 제한됩니다.</string>
+    <string name="dialog_restrict_all_mobile_title">%s의 데이터 연결</string>
+    <string name="dialog_restrict_all_wlan_summary">모든 앱들의 Wi-Fi 연결이 제한됩니다.</string>
+    <string name="dialog_restrict_all_wlan_title">Wi-Fi 연결 제한</string>
+    <string name="dialog_restrict_negative">제한</string>
+    <string name="dialog_restrict_positive">취소</string>
+    <string name="firewall_allow_all">다음 방법을 사용하여 모든 앱 연결 허용</string>
+    <string name="firewall_allow_data">데이터 사용 허용</string>
+    <string name="firewall_allow_network">허용</string>
+    <string name="firewall_allow_wlan">Wi-Fi 사용 허용</string>
+    <string name="firewall_applist">앱</string>
+    <string name="firewall_mobile">모바일 데이터</string>
 </resources>
