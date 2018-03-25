@@ -600,4 +600,6 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_privacy_warning_title">힌트</string>
     <string name="micloud_privacy_progress_content">승인중…</string>
     <string name="micloud_web_discription_place_holder">%1$s 접속</string>
+    <string name="user_agreement_content">"이 서비스를 사용함으로써 %s에 동의하게 됩니다."</string>
+    <string name="user_agreement_link">"Mi 클라우드 서비스 약관"</string>
 </resources>
