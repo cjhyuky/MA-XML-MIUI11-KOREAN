@@ -253,4 +253,13 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">%d개 앱에 제한적 접근</item>
     </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d개의 앱이 네트워크에 연결 가능합니다</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d개의 앱이 네트워크에 연결 불가능합니다"</item>
+    </plurals>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">%s개의 앱이 연결 제한됨</item>
+    </plurals>    
 </resources>
