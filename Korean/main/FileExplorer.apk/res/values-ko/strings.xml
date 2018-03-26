@@ -360,7 +360,6 @@
     <string name="choose_report_reason">이 동영상 클립을 무슨 이유로 신고하시나요?</string>
     <string name="input_memo_hint">추가 이유 (선택사항) 입력</string>
     <string name="network_dialog_checkbox_tip">다시 보이지 않기</string>
-    <string name="video_tag">\# %s #</string>
     <string name="remote_video_report_success">귀하의 피드백 감사드립니다! 빠른 시간 안에 확인하겠습니다.</string>
     <string name="video_status_review">리뷰됨</string>
     <string name="video_status_reject">거부됨</string>
@@ -445,7 +444,6 @@
     <string name="video_publish_hint">좋은 설명은 다른 사람들이 비디오를 찾을 수 있도록 해줍니다.</string>
     <string name="video_publish_hint2">설명</string>
     <string name="video_comment_limit">%1$s 글자 남음</string>
-    <string name="video_tag_search_lead">\#</string>
     <string name="video_data_consumption_dialog_title">모바일 데이터 경고</string>
     <string name="video_data_consumption_dialog_message">업로드 작업에 %1$s의 모바일 데이터가 요구됩니다</string>
     <string name="video_data_consumption_confirm">확인</string>
@@ -575,7 +573,6 @@
     <string name="message_praise_comment">" 이 댓글 좋아요함"</string>
     <string name="get_user_info_err">이 사람에 대한 정보 가져올 수 없음</string>
     <string name="choose_report_comment_reason">이 댓글을 어떤 이유로 신고하십니까?</string>
-    <string name="add_one">+1</string>
     <string name="no_comment">댓글 없음</string>
     <string name="no_topic">토픽 없음</string>
     <string name="no_message">메시지 없음</string>
