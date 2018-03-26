@@ -1216,4 +1216,26 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>라디오를 제외한 전체</item>
         <item>커널만</item>
     </string-array>
+     <string-array name="date_of_app_all">
+         <item>오늘(데이터)</item>
+         <item>이번 달(데이터)</item>
+         <item>지난 달(데이터)</item>
+         <item>오늘 와이파이</item>
+         <item>이번 달 와이파이</item>
+         <item>지난 달 와이파이</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+         <item>"오늘 "</item>
+         <item>"이번 달 "</item>
+         <item>"지난 달 "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+         <item>"오늘: "</item>
+         <item>"이번 달: "</item>
+         <item>"지난 달: "</item>
+     </string-array>
+     <string-array name="traffic_type">
+         <item>"모바일데이터 사용량 "</item>
+         <item>"와이파이 사용량 "</item>
+     </string-array>
 </resources>
