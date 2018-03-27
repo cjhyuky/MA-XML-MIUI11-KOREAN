@@ -881,7 +881,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="status_prl_version">PRL 버전</string>
     <string name="status_network_type">이동통신망 유형</string>
     <string name="status_latest_area_info">통신사 정보</string>
-    <string name="status_data_state">이동통신망 상태</string>
+    <string name="status_data_state">모바일 데이터</string>
     <string name="status_service_state">서비스 상태</string>
     <string name="status_signal_strength">신호 강도</string>
     <string name="status_roaming">로밍</string>
