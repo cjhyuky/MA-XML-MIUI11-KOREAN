@@ -1410,4 +1410,16 @@
     <string name="voice_open_permission_baidu">음성 인식을 위해 설정에서 음성 권한 설정을 켜십시오</string>
     <string name="voice_open_permission_xiaoai">샤오미 음성 엔진을 사용하기 위해 설정에서 음성 권한 설정을 켜십시오</string>
     <string name="voice_open_permission_xunfei">음성 설정을 위해 설정에서 음성 권한 설정을 켜십시오</string>
+    <string name="comment_max_length">죄송합니다. 입력란이 가득 찼습니다.</string>
+    <string name="comment_num_description">댓글 수</string>
+    <string name="favorite">즐겨찾기</string>
+    <string name="suggestion_express_button_query_more">더 보기</string>
+    <string name="suggestion_express_button_text_query">조회</string>
+    <string name="suggestion_express_exception_net">네트워크가 비정상입니다. 네트워크 연결을 확인하십시오.</string>
+    <string name="suggestion_express_exception_number">번호가 잘못되었습니다. 관련 번호를 확인하십시오.</string>
+    <string name="suggestion_express_exception_server">비정상적인 서버입니다. 나중에 확인하십시오.</string>
+    <string name="suggestion_express_input_empty">운송장 번호는 비워 둘 수 없습니다.</string>
+    <string name="suggestion_express_input_hint_inside">운송장 번호를 입력하십시오.</string>
+    <string name="suggestion_express_input_hint_out">운송장 번호:</string>
+    <string name="suggestion_express_title">배송 조회</string>
 </resources>
