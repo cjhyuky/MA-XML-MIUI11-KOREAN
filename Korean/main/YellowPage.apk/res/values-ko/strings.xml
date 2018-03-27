@@ -480,4 +480,22 @@
     <string name="antispam_network_remind_title">데이터 사용량 경고</string>
     <string name="antispam_pull_newest">%d 버전으로 업데이트됨</string>
     <string name="antispam_update_version">업데이트 확인</string>
+    <string name="abc_action_bar_home_description">홈화면으로 이동</string>
+    <string name="abc_action_bar_up_description">위로 가기</string>
+    <string name="abc_action_menu_overflow_description">더 많은 옵션</string>
+    <string name="abc_action_mode_done">끝냄</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_search_hint">검색중…</string>
+    <string name="abc_searchview_description_clear">지우기</string>
+    <string name="abc_searchview_description_query">검색</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_shareactionprovider_share_with">공유</string>
+    <string name="abc_shareactionprovider_share_with_application">%s에 파일 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="mark_number_feedback_title_hint">이 번호는：</string>
+    <string name="unicom_app_name">페이지</string>
+    <string name="unicom_yellow_page_operator_provided">운영자가 제공</string>    
 </resources>
