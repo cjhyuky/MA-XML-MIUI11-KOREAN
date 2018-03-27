@@ -6241,4 +6241,6 @@ PIN 설정"</string>
     <string name="tether_over_limit_warning_notify_message">무선 핫스팟을 비활성화하십시오.</string>
     <string name="tether_over_limit_warning_notify_title">핫스팟 데이터 제한 도달</string>
     <string name="traffic_none">없음</string>
+    <string name="lockscreen_magazine_summary">고화질 슬라이드형 배경화면</string>
+    <string name="screen_paper_mode_hdr_toast">"HDR 동영상을 재생하는 동안 읽기 모드가 해제되며 재생이 끝난 후 자동으로 다시 켜집니다."</string>
 </resources>
