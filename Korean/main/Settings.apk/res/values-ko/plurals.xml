@@ -251,6 +251,6 @@
         <item quantity="other">"%d개 앱이 네트워크에 연결되지 않습니다."</item>
     </plurals>
     <plurals name="firewall_item_summary">
-        <item quantity="other">%d개 앱이 네트워크 제한됨</item>
+        <item quantity="other">%s개 앱이 네트워크 제한됨</item>
     </plurals>
 </resources>
