@@ -56,4 +56,5 @@
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="app_description_title">나침반 정보</string>
     <string name="app_description_content">나침반은 방향을 판별할 수 있는 기능입니다. 앱을 삭제하시면 이 기능을 사용할 수 없다는 사실을 아셔야 합니다.</string>
+    <string name="unit_degree">도</string>
 </resources>
