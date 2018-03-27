@@ -2201,4 +2201,5 @@
     <string name="close_volte">VoLTE 끄기</string>
     <string name="prefered_network_type_3g_promp">선호하는 네트워크에서 3G를 선택하시기 전에 먼저 VoLTE를 끄셔야 합니다. 바로 끄시겠습니까?</string>
     <string name="prompt_when_turnon_volte_on_3g_prefered">VoLTE를 켜기전에 선호하는 네트워크 유형을 LTE로 선택하세요.</string>
+    <string name="msim_cmcc_dds_switch_not_support">"이동 통신사 제한사항으로 인해 SIM 카드를 전환 할 수 없습니다."</string>
 </resources>
