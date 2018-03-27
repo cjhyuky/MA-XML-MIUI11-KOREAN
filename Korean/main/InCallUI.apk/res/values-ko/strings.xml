@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="inCallLabel">InCallUI</string>
+    <string name="inCallLabel">통화</string>
     <string name="unknown">알 수 없음</string>
     <string name="private_num">발신 번호 표시 제한 번호</string>
     <string name="payphone">공중전화</string>
@@ -251,4 +251,7 @@
     <string name="modify_call_prompt_no">아니오</string>
     <string name="modify_call_prompt_yes">예</string>
     <string name="video_crbt_title">%s 컬러링 음악</string>
+    <string name="crbt_second_hold_prompt">%s 님이 대기중입니다…</string>
+    <string name="crbt_second_hold_prompt_conference">회의중인 전화가 대기중입니다…</string>
+    <string name="crbt_second_hold_prompt_no_name">이전 전화가 대기중입니다…</string>
 </resources>
