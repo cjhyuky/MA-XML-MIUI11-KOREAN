@@ -287,4 +287,6 @@
     <string name="privacy_revoke_failed">"거절할 수 없습니다. 몇분 후에 다시 시도하십시오."</string>
     <string name="privacy_revoke_success">거절됨</string>
     <string name="privacy_settings">개인 정보 보호 약관</string>
+    <string name="clear_net_mock_success">네트워크 모크 삭제 완료</string>
+    <string name="receive_net_mock_success">네트워크 모크 수신 완료</string>
 </resources>
