@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="last_num_days">
-        <item quantity="other">지난 %d날들</item>
+        <item quantity="other">지난 %d일</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d개 중 %2$d개</item>
@@ -34,7 +34,7 @@
         <item quantity="other">%d초 후에 자동으로 새 페이지를 생성합니다.</item>
     </plurals>
     <plurals name="transfer_prompt">
-        <item quantity="other">%1$d 초 후에 영상 재생</item>
+        <item quantity="other">%1$d초 후에 영상 재생</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">%d일 전</item>
