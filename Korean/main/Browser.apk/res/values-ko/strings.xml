@@ -5,7 +5,7 @@
     <string name="abc_action_menu_overflow_description">더 보기</string>
     <string name="abc_action_mode_done">완료</string>
     <string name="abc_action_mode_select_all">전체 선택</string>
-    <string name="accept_cookies_confirm_message">이 기능을 끄는 것은 몇 몇 웹사이트가 오작동하게 만들 수 있습니다.</string>
+    <string name="accept_cookies_confirm_message">이 기능을 끄는 것은  웹사이트가 오작동하게 만들 수 있습니다.</string>
     <string name="accessibility_button_clear">입력 지우기</string>
     <string name="accessibility_date_picker_month">월</string>
     <string name="accessibility_date_picker_week">주</string>
@@ -1422,4 +1422,22 @@
     <string name="suggestion_express_input_hint_inside">운송장 번호를 입력하십시오.</string>
     <string name="suggestion_express_input_hint_out">운송장 번호:</string>
     <string name="suggestion_express_title">배송 조회</string>
+    <string name="ad_btn_default_text">설치</string>
+    <string name="card_setting_close_recommend">추천 받기</string>
+    <string name="common_google_play_services_unknown_issue">%1$s에 의해 구글 Play 앱과 오류가 발생합니다. 다시 시도하세요.</string>
+    <string name="fast_search_title">빠른 검색</string>
+    <string name="home_page_news_feed">뉴스 피드</string>
+    <string name="home_page_top_sites">추천 사이트</string>
+    <string name="load_more">더 보기</string>
+    <string name="no_weather_description">날씨 정보 업데이트</string>
+    <string name="open_private_folder">터치하여 숨겨진 폴더 보기</string>
+    <string name="pref_card_setting">추천 사이트 정렬 순서</string>
+    <string name="rlv_last_refreshing_time">%1$s 업데이트됨</string>
+    <string name="rlv_loading_more">잠시만 기다려 주십시오…</string>
+    <string name="rlv_pull_to_refresh">아래로 당겨 새로고침하기</string>
+    <string name="rlv_refreshing">새로고침중…</string>
+    <string name="rlv_release_to_refresh">손을 떼서 새로고침하기</string>
+    <string name="search_engine_title">기본 검색</string>
+    <string name="site_sort_des">재배치</string>
+    <string name="weather_publish_time">%1$s 업데이트됨</string>
 </resources>
