@@ -42,4 +42,28 @@
     <plurals name="mw_matches_found">
         <item quantity="other">%2$d 중 %1$d</item>
     </plurals>
+    <plurals name="adblock_notification">
+        <item quantity="other">%d개 광고 차단됨</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">%d개 항목을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="pref_adblock_counts">
+        <item quantity="other">%d개 항목 차단됨</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">%d개 음악</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d개 앨범</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">%d개 인기 음악</item>
+    </plurals>
+    <plurals name="video_push_multi_message">
+        <item quantity="other">%1$d개의 업데이트를 설치할 수 있습니다.</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">삭제</item>
+    </plurals>
 </resources>
