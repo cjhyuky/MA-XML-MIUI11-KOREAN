@@ -484,4 +484,15 @@
     <string name="speed_result_broadband_text2">밴드위치의 %s</string>
     <string name="common_google_play_services_unknown_issue">%1$s 앱이 구글 플레이 서비스와 충돌하고 있습니다. 다시 시도해 주세요.</string>
     <string name="action_back">뒤로가기</string>
+    <string name="average_speed">평균 속도</string>
+    <string name="everyone_test">모두가 테스트 중입니다</string>
+    <string name="fastest_speed">최고 속도</string>
+    <string name="flow_consume">트래픽</string>
+    <string name="speed_result_broadband_text3">브로드밴드</string>
+    <string name="test_speed">테스트</string>
+    <string name="test_speed_detail">자세히</string>
+    <string name="test_speed_please">스피드 테스트를 하려면 탭하세요...</string>
+    <string name="test_speed_result">테스트 결과</string>
+    <string name="time_consume">지속 시간</string>
+    <string name="try_download">다운로드</string>
 </resources>
