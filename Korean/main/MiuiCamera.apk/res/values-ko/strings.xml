@@ -837,4 +837,7 @@
     <string name="accessibility_protrait">인물 모드</string>
     <string name="accessibility_selected">선택된 사진</string>
     <string name="accessibility_setting">설정</string>
+    <string name="portait_effect_entry_movie">영화</string>
+    <string name="portait_effect_entry_riddle">수수께끼</string>
+    <string name="portait_effect_entry_story">스토리</string>
 </resources>
