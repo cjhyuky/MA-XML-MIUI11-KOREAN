@@ -6251,4 +6251,6 @@ PIN 설정"</string>
     <string name="oldman_installed_not_current_btn">기본 홈 화면으로 설정</string>
     <string name="oldman_installed_not_current_des">이 기기에 라이트 모드가 설치되어 있습니다. 기본 홈 화면으로 설정할 수 있습니다.</string>
     <string name="oldman_uninstalled_btn">설치</string>
-    <string name="oldman_uninstalled_des">라이트 모드는 복잡한 기능들을 없애고 홈 화면을 단순하고 심플하게 유지합니다.</string></resources>
+    <string name="oldman_uninstalled_des">라이트 모드는 복잡한 기능들을 없애고 홈 화면을 단순하고 심플하게 유지합니다.</string>
+    <string name="select_logd_level">로그 레벨 </string>
+</resources>
