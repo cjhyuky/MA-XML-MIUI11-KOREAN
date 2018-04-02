@@ -2397,4 +2397,18 @@ SMS 전송"</string>
     <string name="signed_rule_one">1. 10, 20, 28일 연속으로 Xunyou 부스트를 획득할 경우 1, 2, 3일 분량이 추가 증정됩니다.</string>
     <string name="signed_rule_three">"3. 매달 보유한 부스트가 초기화됩니다. 획득한 부스트는 이월되지 않습니다."</string>
     <string name="signed_rule_two">2. 1달에 Xunyou 부스트는 한 개만 획득 가능합니다.</string>
+    <string name="dialog_button_ignore">무시</string>
+    <string name="dialog_button_yes">확인</string>
+    <string name="summary_background_connection">이 앱의 백그라운드 연결을 제한했습니다. 수정하려면 탭하세요.</string>
+    <string name="summary_block_calls_from_cantacts">"블랙리스트를 사용중입니다. 수정하려면 탭하세요."</string>
+    <string name="summary_block_calls_from_strangers">연락처에 저장된 전화번호만 전화 연결을 허용합니다. 수정하여 탭하세요.</string>
+    <string name="summary_do_not_disturb">"방해 금지 모드를 사용중입니다. 수정하여 탭하세요."</string>
+    <string name="summary_eye_shield">"독서 모드를 사용중입니다. 수정하여 탭하세요."</string>
+    <string name="summary_restrict_data_usage">이 앱의 데이터 사용을 제한했습니다. 수정하려면 탭하세요.</string>
+    <string name="title_background_connection">"%s 앱을 백그라운드에서 사용할 수 없게 설정하시겠습니까?"</string>
+    <string name="title_block_calls_from_cantacts">연락처에 저장된 전화번호에서 걸려온 전화를 놓치시겠습니까?</string>
+    <string name="title_block_calls_from_strangers">중요한 전화를 놓치시겠습니까?</string>
+    <string name="title_do_not_disturb">"벨소리를 들을 수 없습니까?"</string>
+    <string name="title_eye_shield">"화면 색상이 올바르지 않습니까?"</string>
+    <string name="title_restrict_data_usage">"%s에서 인터넷에 연결할 수 없습니까?"</string>
 </resources>
