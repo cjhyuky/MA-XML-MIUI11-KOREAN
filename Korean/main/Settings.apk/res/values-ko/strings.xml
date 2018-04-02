@@ -3130,7 +3130,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="button_text_cancel">취소</string>
     <string name="master_clear_apply_title">주의</string>
     <string name="master_clear_apply_step_1"><b>“공장 초기화”는 Mi 폰에 있는 모든 데이터를 지웁니다</b>, 사진, 음악, 메모, 기타 개인 데이터가 포함됩니다. 반드시 중요한 항목을 컴퓨터에 백업하십시오.</string>
-    <string name="master_clear_apply_step_2">모든 중요한 항목이 컴퓨터에 백업되어있는지 확인해 주십시오. 초기화하시면 기기애 있는 모든 데이터가 지워질 것입니다. <b>항목 백업을 해두시지 않으셨다면 복원하실 수 없습니다.</b></string>
+    <string name="master_clear_apply_step_2">모든 중요한 항목이 컴퓨터에 백업되어있는지 확인해 주십시오. 초기화하시면 기기에 있는 모든 데이터가 지워질 것입니다. <b>항목 백업을 해두시지 않으셨다면 복원하실 수 없습니다.</b></string>
     <string name="master_clear_erase_application_progress">앱 삭제 중…</string>
     <string name="erase_internal_storage">저장된 콘텐츠 지우기</string>
     <string name="erase_internal_storage_description">음악, 사진, 동영상, 기타 사용자 데이터 지우기</string>
