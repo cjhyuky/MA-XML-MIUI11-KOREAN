@@ -1093,4 +1093,18 @@
     <string name="special_text_sender_en">보낸사람</string>
     <string name="see_more_content">더보기</string>
     <string name="signature_black_shark">Blakshark 폰에서 전송</string>
+    <string name="debug_mode_preferencecategory">LOG 출력 모드를 선택하세요.</string>
+    <string name="debug_mode_settings">디버그 모드</string>
+    <string name="file_save_term">파일 저장 주기</string>
+    <string name="forever">영원히</string>
+    <string name="log_save_path">LOG 저장 경로</string>
+    <string name="one_day">1일</string>
+    <string name="one_month">1달</string>
+    <string name="one_week">1주일</string>
+    <string name="output_all_log">모든 로그 출력</string>
+    <string name="output_db_summary">데이터베이스를 출력합니다.</string>
+    <string name="output_db_title">데이터베이스 출력</string>
+    <string name="output_to_disk">파일 로그 출력</string>
+    <string name="request_copy_db_to_disk">데이터베이스를 파일에 복사</string>
+    <string name="three_day">3일</string>
 </resources>
