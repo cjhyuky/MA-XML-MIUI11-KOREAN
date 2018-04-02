@@ -386,4 +386,9 @@
     <string name="encrypt_space_delete_dialog_title">주의</string>
     <string name="encrypt_space_delete_notification_message">두 번째 공간을 삭제하고 새 공간을 만들어 장치를 업데이트하십시오.</string>
     <string name="encrypt_space_delete_notification_title">세컨드 스페이스</string>
+    <string name="entrance_reopen_toast_msg">다른 암호 유형으로 인한 두 번째 공간 바로 가기 표시</string>
+    <string name="reset_password_dialog_message">"첫 번째 공간과 두 번째 공간에 다른 암호 유형을 사용하고 있습니다. 두 번째 공간은 첫 번째 공간과 동일한 암호 유형을 사용하여 바로 가기를 숨겨야합니다."</string>
+    <string name="reset_password_dialog_positve_btn_title">변경</string>
+    <string name="reset_password_dialog_title">"세컨드 스페이스 바로가기 숨김처리 불가능"</string>
+    <string name="xspace_install_completed_global">앱 서랍에 아이콘 추가됨</string>
 </resources>
