@@ -6243,4 +6243,12 @@ PIN 설정"</string>
     <string name="traffic_none">없음</string>
     <string name="lockscreen_magazine_summary">고화질 슬라이드형 배경화면</string>
     <string name="screen_paper_mode_hdr_toast">"HDR 동영상을 재생하는 동안 읽기 모드가 해제되며 재생이 끝난 후 자동으로 다시 켜집니다."</string>
-</resources>
+    <string name="default_launcher_title">기본 런쳐</string>
+    <string name="miui_userguide">사용자 가이드</string>
+    <string name="oldman_app_label">라이트 모드</string>
+    <string name="oldman_installed_current_btn">기존 홈 화면 복구</string>
+    <string name="oldman_installed_current_des">"라이트 모드를 기본 홈 화면으로 설정했습니다. 아래 버튼을 눌러 기존 홈 화면으로 다시 전환하십시오."</string>
+    <string name="oldman_installed_not_current_btn">기본 홈 화면으로 설정</string>
+    <string name="oldman_installed_not_current_des">이 기기에 라이트 모드가 설치되어 있습니다. 기본 홈 화면으로 설정할 수 있습니다.</string>
+    <string name="oldman_uninstalled_btn">설치</string>
+    <string name="oldman_uninstalled_des">라이트 모드는 복잡한 기능들을 없애고 홈 화면을 단순하고 심플하게 유지합니다.</string></resources>
