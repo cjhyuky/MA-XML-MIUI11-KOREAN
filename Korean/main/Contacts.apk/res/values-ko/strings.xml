@@ -1335,4 +1335,10 @@
     <string name="preference_display_contact">디스플레이 옵션</string>
     <string name="contact_detail_entry_pay">지불</string>
     <string name="contact_detail_entry_pay_dialog_title">전화번호 선택</string>
+    <string name="pref_key_sdn_manage">SDN 보기</string>
+    <string name="pref_key_sdn_manage1">SDN 1번 카드 보기</string>
+    <string name="pref_key_sdn_manage2">SDN 2번 카드 보기</string>
+    <string name="sdnContacts_empty">SDN 없음</string>
+    <string name="sdnContacts_emptyLoading">SDN 불러오는 중…</string>
+    <string name="special_code_security_exception">거부됨</string>
 </resources>
