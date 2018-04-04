@@ -215,4 +215,7 @@
     <string name="sleepmode_privacy_content">이 기능은 기기 정보 및 시스템 정보를 필요로 하지만, 서버에 데이터 전송을 하지는 않습니다.</string>
     <string name="sleepmode_privacy_link">보안 및 개인 정보 보호 더보기</string>
     <string name="sleepmode_privacy_title">잠자기 모드</string>
+    <string name="app_preload_policies_summary">ML 모델을 사용하여 사용할 앱을 예측하고 앱 퍼포먼스를 향상시킬 수 있습니다.</string>
+    <string name="app_preload_policies_title">AI 준비 완료</string>
+    <string name="pref_config_title">작업 최적화</string>
 </resources>
