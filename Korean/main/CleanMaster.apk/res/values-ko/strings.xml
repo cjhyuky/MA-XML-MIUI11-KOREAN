@@ -515,4 +515,17 @@
     <string name="auto_clean_time_seven_day">7일마다</string>
     <string name="auto_clean_time_three_day">3일마다</string>
     <string name="wechat_qq_activity_title">정밀 청소</string>
+    <string name="auto_clean_notification_content">%s 청소 완료!</string>
+    <string name="auto_clean_notification_title">최적화 알림 표시하기</string>
+    <string name="auto_clean_operation_clean_and_alert">알림 표시하고 최적화</string>
+    <string name="auto_clean_operation_dialog_title">최적화 방법</string>
+    <string name="auto_clean_operation_just_clean">최적화만</string>
+    <string name="auto_clean_trigger_dialog_title">최적화 저장소</string>
+    <string name="auto_clean_trigger_percent_eighty">전체 용량의 80%를 사용중일 때</string>
+    <string name="auto_clean_trigger_percent_ninety">전체 용량의 90%를 사용중일 때</string>
+    <string name="auto_clean_trigger_percent_sixty">전체 용량의 60%를 사용중일 때</string>
+    <string name="pref_category_title_auto_clean_config_settings">자동 최적화</string>
+    <string name="pref_title_auto_clean">자동 최적화</string>
+    <string name="pref_title_auto_clean_operation">최적화 방법</string>
+    <string name="pref_title_auto_clean_trigger">저장소 최적화</string>
 </resources>
