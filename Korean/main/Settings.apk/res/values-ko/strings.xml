@@ -6234,7 +6234,6 @@ PIN 설정"</string>
     <string name="root">루트 권한 접근</string>
     <string name="tether_custom_dialog_title">모바일 데이터 제한</string>
     <string name="tether_limit_dialog_title">모바일 데이터 제한</string>
-    <string name="tether_limit_value_custom">사용자 설정</string>
     <string name="tether_over_limit_dialog_cancle_btn">핫스팟 초기화</string>
     <string name="tether_over_limit_dialog_message">핫스팟 데이터 제한 용량에 도달하셨습니다.</string>
     <string name="tether_over_limit_dialog_title">데이터 사용량 경고</string>
