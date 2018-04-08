@@ -459,7 +459,7 @@
     <string name="contact_read_only">이 앱에서는 편집 불가</string>
     <string name="no_contact_details">이 연락처에 대한 추가 정보 없음</string>
     <string name="group_read_only">이 기기에서는 편집 불가</string>
-    <string name="display_options_sort_list_by">로 목록 정렬</string>
+    <string name="display_options_sort_list_by">정렬 기준</string>
     <string name="display_options_sort_by_given_name">이름</string>
     <string name="display_options_sort_by_family_name">성</string>
     <string name="display_options_view_names_as">다른 형식으로 연락처 이름 보기</string>
