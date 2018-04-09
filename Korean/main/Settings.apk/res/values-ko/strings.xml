@@ -6276,4 +6276,6 @@ PIN 설정"</string>
     <string name="input_hint_prefix">%1$s 입력</string>
     <string name="mi_pay">Mi 지갑</string>
     <string name="mi_pay_summary">버스 카드/미 페이/카드 에뮬레이터</string>
+    <string name="miui_touch_filtered_warning">앱이 권한 대화 상자를 차단하는 경우 겹치는 항목을 드래그하거나 앱을 닫습니다.</string>
+    <string name="wireless_connected">연결됨</string>
 </resources>
