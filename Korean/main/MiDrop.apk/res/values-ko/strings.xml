@@ -104,4 +104,6 @@
     <string name="HIPS_Perm_Location">위치 정보 얻기</string>
     <string name="btn_goto_grant">허용</string>
     <string name="description_content">미 드롭은 주변에 있는 사람들과의 파일 공유를 돕습니다. 앱을 삭제하기 전에 미 드롭을 사용하세요.</string>
+    <string name="HIPS_Perm_SystemAlert">팝업창 표시</string>
+    <string name="HIPS_Perm_show_when_locked">잠금화면에 표시</string>
 </resources>
