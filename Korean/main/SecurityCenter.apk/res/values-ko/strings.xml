@@ -2411,4 +2411,5 @@ SMS 전송"</string>
     <string name="title_do_not_disturb">"벨소리를 들을 수 없습니까?"</string>
     <string name="title_eye_shield">"화면 색상이 올바르지 않습니까?"</string>
     <string name="title_restrict_data_usage">"%s에서 인터넷에 연결할 수 없습니까?"</string>
+    <string name="gdpr_msg">&lt;Data>"보안의 기본 기능을 사용하려면 샤오미가 프로세스와 당신의 개인 데이터(예: 모바일 데이터 사용, 맬웨어에 대한 정보, 기기 기본정보 등)를 수집할 수 있다는 것에 동의하셔야 합니다. 기타 사항은 샤오미의 &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;개인정보 보호정책&lt;/a&gt;."&lt;/Data>을 확인하시기 바랍니다.</string>
 </resources>
