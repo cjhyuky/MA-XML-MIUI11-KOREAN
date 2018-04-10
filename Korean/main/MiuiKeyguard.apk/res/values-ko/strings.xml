@@ -156,4 +156,5 @@
     <string name="wireless_charge_stop">무선 충전이 중지되었습니다</string>
     <string name="wireless_current_charge">현재 요금</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"그린 가드가 활성화되어 있어 보조 공간을 이용할 수 없습니다."</string>
+    <string name="kg_password_pin_failed">SIM PIN 작업을 실패했습니다!</string>
 </resources>
