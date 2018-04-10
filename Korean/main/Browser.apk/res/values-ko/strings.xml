@@ -1440,4 +1440,22 @@
     <string name="search_engine_title">기본 검색</string>
     <string name="site_sort_des">재배치</string>
     <string name="weather_publish_time">%1$s 업데이트됨</string>
+    <string name="cast_video">비디오 방송</string>
+    <string name="collect_video">비디오 담기</string>
+    <string name="download_video">비디오 다운로드</string>
+    <string name="exit_fullscreen">전체화면 끄기</string>
+    <string name="mw_notification_category_browser">브라우저</string>
+    <string name="mw_notification_category_content_suggestions">컨텐츠 제안</string>
+    <string name="mw_notification_category_downloads">다운로드</string>
+    <string name="mw_notification_category_fullscreen_controls">전체화면 사이트 설정</string>
+    <string name="mw_notification_category_group_general">일반 설정</string>
+    <string name="mw_notification_category_incognito">시크릿 모드</string>
+    <string name="mw_notification_category_media">미디어</string>
+    <string name="mw_notification_category_screen_capture">화면 캡쳐</string>
+    <string name="mw_notification_category_sites">사이트</string>
+    <string name="mw_notification_hidden_text">숨겨진 컨텐츠</string>
+    <string name="play_pause_video">비디오 재생 또는 멈춤</string>
+    <string name="play_video">비디오 재생</string>
+    <string name="popup_video"비디오 팝업</string>
+    <string name="share_video">비디오 공유</string>
 </resources>
