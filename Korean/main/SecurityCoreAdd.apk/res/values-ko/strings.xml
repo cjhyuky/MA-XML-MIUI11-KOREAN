@@ -254,7 +254,7 @@
     <string name="scanner_fingerprint">지문 스캔 중…</string>
     <string name="scanner_fingerprint_enter_second">"보조 공간 지문을 스캔하여
 잠금화면에서 보조 공간 진입"</string>
-    <string name="xspace_guide_title">%s의 듀얼 앱 생성</string>
+    <string name="xspace_guide_title">듀얼 앱 생성</string>
     <string name="xspace_guide_des">전환 없이 2개의 계정을 사용하십시오.</string>
     <string name="xpsace_guide_button">생성</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
