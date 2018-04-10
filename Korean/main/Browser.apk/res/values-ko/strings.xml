@@ -1456,6 +1456,6 @@
     <string name="mw_notification_hidden_text">숨겨진 컨텐츠</string>
     <string name="play_pause_video">비디오 재생 또는 멈춤</string>
     <string name="play_video">비디오 재생</string>
-    <string name="popup_video"비디오 팝업</string>
+    <string name="popup_video">비디오 팝업</string>
     <string name="share_video">비디오 공유</string>
 </resources>
