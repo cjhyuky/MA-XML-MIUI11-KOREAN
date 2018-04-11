@@ -2421,4 +2421,11 @@ SMS 전송"</string>
     <string name="exit_dialog_scan_message">"귀하의 기기 성능점수가 75점 이하입니다. 지금 최적화 할까요?"</string>
     <string name="exit_dialog_scan_positive_button">최적화</string>
     <string name="exit_dialog_scan_title">성능 최적화</string>
+    <string name="exit_dialog_homepage_optimise_message">"이 기기의 퍼포먼스 점수가 낮습니다. 지금 최적화 하시겠습니까?"</string>
+    <string name="gb_msg_completely_shielded">메세지 숨기기</string>
+    <string name="gb_msg_completely_shielded_summary">숨기기</string>
+    <string name="gb_msg_quickly_answer">빠른 답장 허용</string>
+    <string name="gb_msg_quickly_answer_summary">빠른 답장</string>
+    <string name="gb_msg_transparent_dispaly">투명 배경화면에 알림 표시</string>
+    <string name="gb_msg_transparent_dispaly_summary">투명</string>
 </resources>
