@@ -1138,5 +1138,5 @@
   <string name="favorite_title_modify_success">성공적으로 수정됨</string>
   <string name="function_aiqiyi_title">iQiyi</string>
   <string name="function_zhihu_title">Zhihu</string>
-  <string name="express_install_cainiao_not_found">Mi마켓을 찾을 수 없음</string> 
+  <string name="express_install_cainiao_not_found">Mi 스토어를 찾을 수 없음</string> 
 </resources>
