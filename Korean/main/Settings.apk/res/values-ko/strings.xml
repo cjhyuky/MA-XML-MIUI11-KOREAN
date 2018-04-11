@@ -6277,4 +6277,10 @@ PIN 설정"</string>
     <string name="mi_pay_summary">버스 카드/미 페이/카드 에뮬레이터</string>
     <string name="miui_touch_filtered_warning">앱이 권한 대화 상자를 차단하는 경우 겹치는 항목을 드래그하거나 앱을 닫습니다.</string>
     <string name="wireless_connected">연결됨</string>
+    <string name="accessibility_wifi_security_type_none">공개 네트워크</string>
+    <string name="accessibility_wifi_security_type_secured">보안 네트워크</string>
+    <string name="confirm_frp_credential_message">이 기기가 공장 초기화 되었으나 이전 비밀번호를 사용해 잠금을 해제할 수 있습니다.</string>
+    <string name="confirm_frp_credential_skip_txt">구글 계정 대신 사용</string>
+    <string name="confirm_frp_credential_title">공장 초기화 잠금</string>
+    <string name="wifi_tether_enabled_summary">%1$s 활성화됨</string>
 </resources>
