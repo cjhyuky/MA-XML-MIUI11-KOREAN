@@ -6283,4 +6283,18 @@ PIN 설정"</string>
     <string name="confirm_frp_credential_skip_txt">구글 계정 대신 사용</string>
     <string name="confirm_frp_credential_title">공장 초기화 잠금</string>
     <string name="wifi_tether_enabled_summary">%1$s 활성화됨</string>
+    <string name="add_fingerprint_cancel_button_text">뒤로가기</string>
+    <string name="gxzw_add_fingerprint_continue">계속</string>
+    <string name="gxzw_add_fingerprint_edge_message">손가락을 옮겨 지문인식 센서가 모든 지문을 인식할 수 있도록 하십시오.</string>
+    <string name="gxzw_add_fingerprint_edge_title">손가락을 살짝 옮겨 주세요.</string>
+    <string name="gxzw_add_fingerprint_finish">마무리</string>
+    <string name="gxzw_add_fingerprint_indicate">세게 누르세요.</string>
+    <string name="gxzw_add_fingerprint_know">알겠습니다</string>
+    <string name="gxzw_add_fingerprint_message">화면과 손가락을 깨끗한 상태로 유지하세요.</string>
+    <string name="gxzw_add_fingerprint_move_indicate">손가락을 살짝 옮겨 주세요.</string>
+    <string name="gxzw_add_fingerprint_move_message">겹치는 부분이 너무 많습니다. 손가락을 살짝 옮겨 주세요.</string>
+    <string name="gxzw_add_fingerprint_move_title">손가락을 살짝 옮겨 주세요.</string>
+    <string name="gxzw_add_fingerprint_put_finger_message">세게 누르고, 진동이 오면 떼세요.</string>
+    <string name="gxzw_add_fingerprint_put_finger_title">세게 누르고, 진동이 오면 떼세요.</string>
+    <string name="gxzw_add_fingerprint_title">지문 추가</string>
 </resources>
