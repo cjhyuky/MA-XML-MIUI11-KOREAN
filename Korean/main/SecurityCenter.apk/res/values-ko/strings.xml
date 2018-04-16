@@ -2428,4 +2428,5 @@ SMS 전송"</string>
     <string name="gb_msg_quickly_answer_summary">빠른 답장</string>
     <string name="gb_msg_transparent_dispaly">투명 배경화면에 알림 표시</string>
     <string name="gb_msg_transparent_dispaly_summary">투명</string>
+    <string name="managed_user_title">모든 업무 앱</string>
 </resources>
