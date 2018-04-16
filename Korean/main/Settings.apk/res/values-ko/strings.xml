@@ -6297,4 +6297,9 @@ PIN 설정"</string>
     <string name="gxzw_add_fingerprint_put_finger_message">세게 누르고, 진동이 오면 떼세요.</string>
     <string name="gxzw_add_fingerprint_put_finger_title">세게 누르고, 진동이 오면 떼세요.</string>
     <string name="gxzw_add_fingerprint_title">지문 추가</string>
+    <string name="choose_a_card_to_reset">초기화할 SIM 카드를 선택하세요.</string>
+    <string name="reset_network_bluetooth">블루투스</string>
+    <string name="reset_network_category">다음 네트워크 설정 사항들을 초기화합니다 : </string>
+    <string name="reset_network_data">모바일 데이터</string>
+    <string name="reset_network_wifi">Wi-Fi</string>
 </resources>
