@@ -6302,4 +6302,8 @@ PIN 설정"</string>
     <string name="reset_network_category">다음 네트워크 설정 사항들을 초기화합니다 : </string>
     <string name="reset_network_data">모바일 데이터</string>
     <string name="reset_network_wifi">Wi-Fi</string>
+    <string name="accessibility_close_tab">현재 창 닫기</string>
+    <string name="accessibility_more_settings">추가 설정</string>
+    <string name="accessibility_vpn_settings_info">VPN 수정</string>
+    <string name="wifi_hide_password">비밀번호 숨기기</string>
 </resources>
