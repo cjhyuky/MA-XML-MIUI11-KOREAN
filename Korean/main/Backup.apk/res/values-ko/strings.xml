@@ -518,4 +518,16 @@
     <string name="notif_miasist_try_to_connect">Mi PC 슈트가 기기에 연결을 시도하고 있습니다.</string>
     <string name="trans_switching_5g">5GHz 와이파이로 전환 중…</string>
     <string name="err_not_allow">지원되지 않음</string>
+    <string name="button_clean_garbage">저장 공간을 확보하세요.</string>
+    <string name="button_got_it">네</string>
+    <string name="button_quit">나가기</string>
+    <string name="err_bakfile_not_exist">"백업 파일이 없습니다."</string>
+    <string name="err_binder_died">앱 강제 종료됨</string>
+    <string name="err_pkg_not_exist">"앱을 찾을 수 없습니다."</string>
+    <string name="err_user_abort">사용자가 취소했습니다.</string>
+    <string name="trans_failed_details_page_title">전송 실패</string>
+    <string name="trans_generate_qrcode_failed">"QR 코드를 생성할 수 없습니다. 다시 시도하세요."</string>
+    <string name="trans_generating_qrcode">QR 코드 생성중…</string>
+    <string name="trans_old_phone_low_space_msg">"Mi Mover를 이용하기 위한 저장 공간이 부족합니다. 저장 공간을 확보해주세요."</string>
+    <string name="trans_old_phone_low_space_title">저장 공간 부족</string>
 </resources>
