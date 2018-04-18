@@ -1195,7 +1195,6 @@
     <string name="correct_photo_time">사진 촬영일 및 시간이 일치합니다.</string>
     <string name="correct_time_success">수정 완료</string>
     <string name="correct_time_tip">수정중…</string>
-    <string name="debugging_info">디버깅 정보가 성공적으로 생성되었습니다. '네'를 탭하여 폴더에 접근하십시오.</string>
     <string name="expand_desc">더보기</string>
     <string name="fancy_color_desc">색상</string>
     <string name="filter_category_master">마스터</string>
