@@ -1341,4 +1341,5 @@
     <string name="sdnContacts_empty">SDN 없음</string>
     <string name="sdnContacts_emptyLoading">SDN 불러오는 중…</string>
     <string name="special_code_security_exception">거부됨</string>
+    <string name="import_from_other_device">다른 기기에서 불러오기</string>
 </resources>
