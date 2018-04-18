@@ -39,4 +39,10 @@
     <plurals name="custom_progress">
         <item quantity="other">%d 항목</item>
     </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">"%d개 항목을 전송하지 못했습니다. 탭하여 정보를 확인하십시오."</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">"%d개 항목 전송 불가"</item>
+    </plurals>
 </resources>
