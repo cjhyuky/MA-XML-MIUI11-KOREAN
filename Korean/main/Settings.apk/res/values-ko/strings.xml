@@ -6306,4 +6306,8 @@ PIN 설정"</string>
     <string name="accessibility_more_settings">추가 설정</string>
     <string name="accessibility_vpn_settings_info">VPN 수정</string>
     <string name="wifi_hide_password">비밀번호 숨기기</string>
+    <string name="close_optimization_message">텍스트 레이아웃, 계정과 같은 MIUI의 일부 기능이 제한됩니다.</string>
+    <string name="close_optimization_option">비활성화</string>
+    <string name="open_optimization_message">최적화를 활성화하여 빠르고 부드러운 UI를 사용하세요.</string>
+    <string name="open_optimization_option">활성화</string>
 </resources>
