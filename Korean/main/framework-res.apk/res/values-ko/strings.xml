@@ -2046,4 +2046,5 @@
     <string name="status_bar_speakerphone">스피커 폰</string>
     <string name="status_bar_volume">볼륨</string>
     <string name="status_bar_wifi">Wi-Fi</string>
+    <string name="move_button_text">전환</string>
 </resources>
