@@ -529,4 +529,13 @@
     <string name="pref_title_auto_clean_operation">최적화 방법</string>
     <string name="pref_title_auto_clean_trigger">저장소 최적화</string>
     <string name="desc_image">사진</string>
+    <string name="guide_secure_dialog_message">기기 최적화 점수가 80점 이하입니다. 지금 최적화 하시겠습니까?</string>
+    <string name="guide_secure_dialog_negative">취소</string>
+    <string name="guide_secure_dialog_positive">최적화</string>
+    <string name="guide_secure_dialog_title">성능 최적화</string>
+    <string name="guide_virus_dialog_message">앱 / 패키지 스캔은 기기를 바이러스와 멀웨어로부터 보호할 수 있습니다. 지금 스캔하시겠습니까?</string>
+    <string name="guide_virus_dialog_negative">취소</string>
+    <string name="guide_virus_dialog_positive">스캔</string>
+    <string name="guide_virus_dialog_title">바이러스 스캔</string>
+    <string name="mainbtn_text_no_trash">건너뛰기</string>
 </resources>
