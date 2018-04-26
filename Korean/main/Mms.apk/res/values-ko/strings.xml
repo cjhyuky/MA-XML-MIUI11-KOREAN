@@ -672,4 +672,18 @@
     <string name="yellowpage_recommend_msg">"MIUI의 메시지 기능을 살펴보세요"</string>
     <string name="attach_transaction">돈 송금</string>
     <string name="select_phone_number">전화 번호 선택</string>
+    <string name="button_emoji_creature">동물 이모티콘</string>
+    <string name="button_emoji_lifestyle">생활 이모티콘</string>
+    <string name="button_emoji_smiley">얼굴 이모티콘</string>
+    <string name="button_emoji_symbol">물건 이모티콘</string>
+    <string name="button_emoji_text">텍스트 이모티콘</string>
+    <string name="button_fold">접기</string>
+    <string name="button_next_slide">다음</string>
+    <string name="button_pre_slide">이전</string>
+    <string name="button_resend_message">다시 전송</string>
+    <string name="button_unfold">펼치기</string>
+    <string name="dialog_message_fake_cell_detect_error">이 메시지에 대한 정보를 수정하시겠습니까? MIUI는 전화번호 (%1$s), 메시지 내용 및 주변 위치 정보를 서버에 업로드하게 됩니다.</string>
+    <string name="dialog_title_fake_cell_detect_error">수정</string>
+    <string name="draft">초안</string>
+    <string name="fake_cell_alert_detect_error">"This wasn't sent from a fake base cell"</string>
 </resources>
