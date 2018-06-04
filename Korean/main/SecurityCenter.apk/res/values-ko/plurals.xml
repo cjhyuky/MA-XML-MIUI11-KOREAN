@@ -236,4 +236,10 @@
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%d일 연속으로 체크인함</item>
     </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d도</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%dmAh</item>
+    </plurals>    
 </resources>
