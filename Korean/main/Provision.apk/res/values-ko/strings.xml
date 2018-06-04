@@ -91,4 +91,6 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="other_settings_ad_enable">추천된 광고</string>
     <string name="other_settings_ad_enable_summary">빅데이터를 활용해 사용자에게 맞는 광고를 추천합니다.</string>
     <string name="other_settings_user_experience_summary_index"></string>
+    <string name="sim_card_detection_mobile_not_available">"SIM카드 네트워크 접속 실패"</string>
+    <string name="sim_scard_detecting_check_mobile_not_available">"귀하의 SIM카드로 네트워크에 접속할 수 없습니다. 확인하시고 다시 연결해주세요."</string>
 </resources>
