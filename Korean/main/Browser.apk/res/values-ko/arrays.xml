@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>세로방향 보기</item>
+        <item>가로방향 보기</item>
+    </string-array>
     <string-array name="menu_theme_setting">
         <item>화이트</item>
         <item>옐로우</item>
