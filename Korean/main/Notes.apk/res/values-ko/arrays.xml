@@ -75,4 +75,18 @@
         <item></item>
         <item></item>
     </string-array>
+    <string-array name="first_guide_contents">
+        <item>메모장에 오신걸 환영합니다!</item>
+        <item>메모를 작성하세요</item>
+        <item>메모에 텍스트, 이미지 및 음성 녹음을 사용할 수 있습니다. 스타일과 글꼴이 풍부한 라이브러리는 간단한 낙서가 멋지게 보일 것입니다.</item>
+        <item>체크리스트와 알림은 다음 여행을 계획하거나 식료품 목록을 작성하는 데 필요한 기본 도구가 필요할 때 도움이됩니다.</item>
+        <item>메모를 공유해보세요</item>
+        <item>메모장에서 스크롤 스크린 샷을 자동 생성하여 친구와 공유 할 수 있습니다.</item>
+        <item>폴더 생성 및 폴더 전환</item>
+        <item>새 폴더를 만들거나 기존 폴더간에 전환하려면 아래 화살표를 누르십시오.</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>음성 메모</item>
+        <item>내장 된 음성-텍스트 엔진을 사용하여 음성을 녹음하여 음성의 원본 녹음을 노트에 첨부하십시오.</item>
+    </string-array>
 </resources>
