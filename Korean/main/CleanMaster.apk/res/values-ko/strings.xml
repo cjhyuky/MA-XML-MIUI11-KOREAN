@@ -538,4 +538,6 @@
     <string name="guide_virus_dialog_positive">스캔</string>
     <string name="guide_virus_dialog_title">바이러스 스캔</string>
     <string name="mainbtn_text_no_trash">건너뛰기</string>
+    <string name="clean_long_msg">"%1$d개의 파일을 청소중입니다, %2$d개 완료됨. 
+초당 %3$d%%개의 항목을 처리중입니다, 남은시간:%4$s"</string>    
 </resources>
