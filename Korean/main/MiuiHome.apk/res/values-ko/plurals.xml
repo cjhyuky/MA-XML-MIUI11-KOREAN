@@ -21,4 +21,7 @@
     <plurals name="announce_for_drag">
         <item quantity="other">%1$d개 항목 드래그</item>
     </plurals>
+    <plurals name="announce_for_unread">
+        <item quantity="other">%1$s개 중 %2$s개 안읽음</item>
+    </plurals>
 </resources>
