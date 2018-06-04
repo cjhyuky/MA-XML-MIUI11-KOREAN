@@ -81,4 +81,310 @@
         <item>다시 알림</item>
         <item>무시</item>
     </string-array>
+    <string-array name="countries_names_miui">
+        <item>"코트디부아르"</item>
+        <item>가나</item>
+        <item>에티오피아</item>
+        <item>알제리</item>
+        <item>말라위</item>
+        <item>콩고 공화국</item>
+        <item>이집트</item>
+        <item>모로코</item>
+        <item>기니</item>
+        <item>세네갈</item>
+        <item>탄자니아</item>
+        <item>지부티 공화국</item>
+        <item>시에라 리온</item>
+        <item>보츠와나</item>
+        <item>짐바브웨</item>
+        <item>남아프리카 공화국</item>
+        <item>우간다</item>
+        <item>수단 공화국</item>
+        <item>르완다</item>
+        <item>콩고 민주 공화국</item>
+        <item>나이지리아</item>
+        <item>레소토</item>
+        <item>소말리아</item>
+        <item>케냐</item>
+        <item>상투 메 프린시페</item>
+        <item>말리</item>
+        <item>리비아</item>
+        <item>튀니지</item>
+        <item>미국</item>
+        <item>아르헨티나</item>
+        <item>아루바</item>
+        <item>파라과이</item>
+        <item>바베이도스</item>
+        <item>벨리즈</item>
+        <item>콜롬비아</item>
+        <item>아르헨티나</item>
+        <item>멕시코</item>
+        <item>베네수엘라</item>
+        <item>케이맨 제도</item>
+        <item>미국</item>
+        <item>코스타리카</item>
+        <item>쿠라차오</item>
+        <item>캐나다</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>도미니카 공화국</item>
+        <item>캐나다</item>
+        <item>엘살바도르</item>
+        <item>브라질</item>
+        <item>터크 스케이 커스 제도</item>
+        <item>그레나다</item>
+        <item>과테말라</item>
+        <item>가이아나</item>
+        <item>캐나다</item>
+        <item>쿠바</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>자메이카</item>
+        <item>볼리비아</item>
+        <item>페루</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>니카라과</item>
+        <item>마르티니크</item>
+        <item>미국</item>
+        <item>멕시코</item>
+        <item>미국</item>
+        <item>우루과이</item>
+        <item>캐나다</item>
+        <item>바하마</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>파나마</item>
+        <item>미국</item>
+        <item>트리니다드 토바고</item>
+        <item>아이티</item>
+        <item>푸에르토 리코</item>
+        <item>도미니카 공화국</item>
+        <item>브라질</item>
+        <item>캐나다</item>
+        <item>세인트 키츠 네비스</item>
+        <item>세인트 루시아</item>
+        <item>미국. 버진 아일랜드</item>
+        <item>멕시코</item>
+        <item>캐나다</item>
+        <item>캐나다</item>
+        <item>캐나다</item>
+        <item>남극 대륙</item>
+        <item>스발 바르와 얀 메이 엔</item>
+        <item>카자흐스탄</item>
+        <item>요르단</item>
+        <item>러시아</item>
+        <item>카자흐스탄</item>
+        <item>이라크</item>
+        <item>바레인</item>
+        <item>아제르바이잔</item>
+        <item>태국</item>
+        <item>레바논</item>
+        <item>인도</item>
+        <item>시리아</item>
+        <item>방글라데시</item>
+        <item>아랍 에미리트</item>
+        <item>팔레스타인</item>
+        <item>팔레스타인</item>
+        <item>베트남</item>
+        <item>중국</item>
+        <item>인도네시아</item>
+        <item>이스라엘</item>
+        <item>아프카니스탄</item>
+        <item>파키스탄</item>
+        <item>네팔</item>
+        <item>말레이시아</item>
+        <item>쿠웨이트</item>
+        <item>중국</item>
+        <item>필리핀</item>
+        <item>오만</item>
+        <item>캄보디아</item>
+        <item>북한</item>
+        <item>카타르</item>
+        <item>미얀마</item>
+        <item>사우디아라비아</item>
+        <item>중국</item>
+        <item>대한민국</item>
+        <item>중국</item>
+        <item>싱가포르</item>
+        <item>중국</item>
+        <item>이란</item>
+        <item>이스라엘</item>
+        <item>일본</item>
+        <item>몽콜</item>
+        <item>버뮤다</item>
+        <item>스페인</item>
+        <item>카보 베르데</item>
+        <item>아이슬란드</item>
+        <item>포클랜드 제도</item>
+        <item>호주</item>
+        <item>호주</item>
+        <item>호주</item>
+        <item>호주</item>
+        <item>호주</item>
+        <item>호주</item>
+        <item>호주</item>
+        <item>호주</item>
+        <item>호주</item>
+        <item>캐나다</item>
+        <item>캐나다</item>
+        <item>캐나다</item>
+        <item>칠레</item>
+        <item>네덜란드</item>
+        <item>안도라</item>
+        <item>그리스</item>
+        <item>영국</item>
+        <item>세르비아</item>
+        <item>독일</item>
+        <item>슬로바키아</item>
+        <item>벨기에</item>
+        <item>루마니아</item>
+        <item>헝가리</item>
+        <item>몰도바</item>
+        <item>덴마크</item>
+        <item>아일랜드</item>
+        <item>지브롤터</item>
+        <item>핀란드</item>
+        <item>맨 섬</item>
+        <item>터키</item>
+        <item>포르투갈</item>
+        <item>영국</item>
+        <item>룩셈부르크</item>
+        <item>스페인</item>
+        <item>몰타</item>
+        <item>벨라루스</item>
+        <item>모나코</item>
+        <item>러시아</item>
+        <item>노르웨이</item>
+        <item>프랑스</item>
+        <item>체코</item>
+        <item>라트비아</item>
+        <item>이탈리아</item>
+        <item>산 마리노</item>
+        <item>보스니아 헤르체고비나</item>
+        <item>우크라이나</item>
+        <item>마케도니아</item>
+        <item>불가리아</item>
+        <item>스웨덴</item>
+        <item>에스토니아</item>
+        <item>바티칸 시티</item>
+        <item>오스트리아</item>
+        <item>리투아니아</item>
+        <item>폴란드</item>
+        <item>크로아티아</item>
+        <item>스위스</item>
+        <item>마다가스카르</item>
+        <item>몰디브</item>
+        <item>모리셔스</item>
+        <item>뉴질랜드</item>
+        <item>피지</item>
+        <item>괌</item>
+        <item>미국</item>
+        <item>호주</item>
+        <item>뉴 칼레도니아</item>
+        <item>사모아</item>
+        <item>프랑스 령 폴리네시아</item>
+        <item>앤티가 바부 다</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>캐나다</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>캐나다</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>엘살바도르</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>카타르</item>
+        <item>중국</item>
+        <item>인도</item>
+        <item>인도</item>
+        <item>일본</item>
+        <item>파키스탄</item>
+        <item>인도</item>
+        <item>스페인</item>
+        <item>독일</item>
+        <item>이탈리아</item>
+        <item>독일</item>
+        <item>베트남</item>
+        <item>터키</item>
+        <item>인도</item>
+        <item>브라질</item>
+        <item>남아프리카</item>
+        <item>파키스탄</item>
+        <item>브라질</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>영국</item>
+        <item>미국</item>
+        <item>미국</item>
+        <item>중국</item>
+        <item>인도</item>
+        <item>미국</item>
+        <item>브라질</item>
+        <item>미국</item>
+        <item>라이베리아</item>
+        <item>스리랑카</item>
+        <item>멕시코</item>
+        <item>인도</item>
+        <item>영국</item>
+        <item>우크라이나</item>
+        <item>러시아</item>
+        <item>폴란드</item>
+        <item>폴란드</item>
+        <item>독일</item>
+        <item>핀란드</item>
+        <item>이스라엘</item>
+        <item>푸에르토 리코</item>
+        <item>온두라스</item>
+        <item>수리남</item>
+        <item>에콰도르</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>총 %1$s</item>
+        <item>총 %2$s</item>
+        <item>총 %1$s%2$s</item>
+        <item>총 %3$s</item>
+        <item>총 %1$s%3$s</item>
+        <item>총 %2$s%3$s</item>
+        <item>총 %1$s%2$s%3$s</item>
+    </string-array>    
 </resources>
