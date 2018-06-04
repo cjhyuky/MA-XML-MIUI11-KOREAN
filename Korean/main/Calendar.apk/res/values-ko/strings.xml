@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="action_bar_date_button_title">D-Day 계산</string>
+    <string name="anniversary_secondary_tag">기념일</string>
+    <string name="birthday_born">생년월일</string>
+    <string name="clear_net_mock_success">모의 네트워크 삭제 완료</string>
+    <string name="countdown_secondary_tag">카운트다운</string>
+    <string name="date_calculate_hint">며칠 후 어떤 날짜인지 알아보십시오</string>
+    <string name="date_jump_hint">특정 날짜로 바로 이동</string>
+    <string name="date_jump_title">특정일로 이동</string>
+    <string name="edit_event_birthday_reminder_3_days_before">3일전에 미리 알림</string>
+    <string name="guide_card_import">가져오기</string>
+    <string name="guide_card_primary_text">친구 생일 가져오기</string>
+    <string name="guide_card_second_text">일괄 가져오기, 친구의 생일이 누락되지 않습니다</string>
+    <string name="guide_card_title">생일 가져오기</string>
+    <string name="receive_net_mock_success">모의 네트워크 수신 완료</string>
+    <string name="tab_title_agenda">이벤트</string>
+    <string name="tab_title_day">일</string>
+    <string name="tab_title_month">월</string>
+    <string name="tab_title_week">주</string>
     <string name="accessibility_add_attendee">참석자 추가</string>
     <string name="accessibility_all_day">종일 일정</string>
     <string name="accessibility_pick_start_date">시작일</string>
