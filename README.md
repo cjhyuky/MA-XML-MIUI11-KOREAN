@@ -1,6 +1,6 @@
 ![Logo](https://s33.postimg.cc/o1o8eafxb/IMG_20180604_174521.png)
 
-# MIUIAndroid MIUI9 Korean Translations.
+# MIUIAndroid MIUI10 Korean Translations.
     This is repository for MIUIAndroid MultiRom project.
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
