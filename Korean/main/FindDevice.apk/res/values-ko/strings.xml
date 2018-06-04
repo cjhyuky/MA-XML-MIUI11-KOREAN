@@ -87,4 +87,5 @@ i.mi.com에 로그인하셔서 기기 잠금 해제를 시도하십시오"</stri
     <string name="emergency_call">긴급 통화</string>
     <string name="return_to_call">통화 화면으로 돌아가기</string>
     <string name="find_device_notice_sms_alert">다른 SIM 카드로 바꿀 경우 이 기능이 다시 활성화됩니다.</string>
+    <string name="find_device_notice">&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;으로 이동하여 귀하의 기기 위치를 확인하고, 잠그고, 복원하세요.</string>
 </resources>
