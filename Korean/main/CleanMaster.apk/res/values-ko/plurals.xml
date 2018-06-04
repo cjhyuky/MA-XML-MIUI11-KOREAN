@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="hour">
+        <item quantity="other">%1$d시간</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d분</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d초</item>
+    </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$d분 전</item>
     </plurals>
