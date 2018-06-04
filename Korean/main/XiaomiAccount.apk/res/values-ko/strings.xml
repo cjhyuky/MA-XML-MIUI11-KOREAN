@@ -463,4 +463,8 @@
     <string name="passport_input_voice_captcha_hint">확인 코드 입력</string>
     <string name="turning_off_find_device">내 기기 찾기 기능 비활성화중…</string>
     <string name="passport_extra_gdpr_license">Mi 계정을 만들면 샤오미가 인증 코드, 세컨드 스페이스 데이터 및 기타 개인 정보 보호 약관에 명시된 데이터를 수집할 수 있습니다. Google이 개인 정보를 처리하고 사용하는 방법을 알아 보려면 개인 정보 취급 방침을 참조하십시오.</string>
+    <string name="passport_talkback_image_captcha">이미지 인증 코드</string>
+    <string name="passport_talkback_switch_image_captcha">이미지 인증 코드로 전환</string>
+    <string name="passport_talkback_switch_voice_captcha">음성 인증 코드로 전환</string>
+    <string name="passport_talkback_voice_captcha">음성 인증 코드 듣기</string>
 </resources>
