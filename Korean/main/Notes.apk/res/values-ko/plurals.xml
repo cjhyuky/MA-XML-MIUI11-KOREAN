@@ -9,4 +9,10 @@
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$s 동기화되지 않았음</item>
     </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d초 남음</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%s자</item>
+    </plurals>
 </resources>
