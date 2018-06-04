@@ -330,4 +330,10 @@
     <string name="feedback_select_suggestion_select_desc">\"Suggestions\" 선택함</string>
     <string name="feedback_select_upload_log_not_select_desc">"\"Add logs\" 선택하지 않음"</string>
     <string name="feedback_select_upload_log_select_desc">\"Add logs\" 선택함</string>
+    <string name="feedback_status_collect_log_failed">"로그 생성 실패"</string>
+    <string name="feedback_status_get_and_save_bbs_info_failed">"첨부 파일 URL 가져오기 실패"</string>
+    <string name="feedback_status_save_log_info_failed">"첨부 파일 URL 번경 실패"</string>
+    <string name="feedback_status_submit_bbs_failed">"피드백 컨텐츠 전송 실패"</string>
+    <string name="feedback_status_submit_feedback_failed">"피드백 전송 실패"</string>
+    <string name="feedback_status_upload_log_failed">"첨부 파일 업로드 실패"</string>
 </resources>
