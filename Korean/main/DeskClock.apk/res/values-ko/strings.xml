@@ -209,5 +209,5 @@
     <string name="worldcolock_timezone_current">현재: %1$s</string>
     <string name="worldcolock_timezone_date">MMMM dd</string>
     <string name="worldcolock_timezone_gap">시간차</string>
-    <string name="worldcolock_timezone_local">로컬시간과 같음</string>
+    <string name="worldcolock_timezone_local">시간과 같음</string>
 </resources>
