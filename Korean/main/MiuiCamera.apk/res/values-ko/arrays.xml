@@ -1,0 +1,30 @@
+<resources>
+     <string-array name="ai_scene_names">
+        <item>없음</item>
+        <item>문서</item>
+        <item>꽃</item>
+        <item>음식</item>
+        <item>파워포인트</item>
+        <item>하늘</item>
+        <item>일출 일몰</item>
+        <item>고양이</item>
+        <item>강아지</item>
+        <item>녹색 식물</item>
+        <item>야경</item>
+        <item>설경</item>
+        <item>해변가</item>
+        <item>가을</item>
+        <item>촛불</item>
+        <item>자동</item>
+        <item>잔디</item>
+        <item>낙엽</item>
+        <item>고기</item>
+        <item>건물</item>
+        <item>도시</item>
+        <item>흐림</item>
+        <item>흐린날</item>
+        <item>역광 인물</item>
+        <item>실루엣</item>
+        <item>초상화</item>
+     </string-array>
+</resources>
