@@ -8,6 +8,7 @@
     <string-array name="date_of_traffic">
         <item>"어제 "</item>
         <item>"오늘 "</item>
+        <item>"지난 달 "</item>
         <item>"이번 달 "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
@@ -18,14 +19,17 @@
     <string-array name="date_of_traffic_prefix">
         <item>"어제: "</item>
         <item>"오늘: "</item>
+        <item>"지난 달: "</item>        
         <item>"이번 달: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>어제 (데이터)</item>
         <item>오늘 (데이터)</item>
+        <item>지난 달 (데이터)</item>
         <item>이번 달 (데이터)</item>
         <item>어제 Wi-Fi</item>
         <item>오늘 Wi-Fi</item>
+        <item>지난 달 Wi-Fi</item>
         <item>이번 달 Wi-Fi</item>
     </string-array>
     <string-array name="traffic_type">
@@ -75,6 +79,15 @@
     <string-array name="sms_report_type">
         <item>데이터 사용량</item>
         <item>휴대전화 잔액</item>
+    </string-array>
+    <string-array name="luckymoney_sound">
+        <item>무음</item>
+        <item>동전소리</item>
+        <item>빨간봉투</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>끄고 알려줌</item>
+        <item>알려주기만 함</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>한 번</item>
