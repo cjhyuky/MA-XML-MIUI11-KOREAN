@@ -104,4 +104,13 @@
     <string name="swoosh">스우시</string>
     <string name="techno">테크노</string>
     <string name="thinker">어반 라이프</string>
+    <string name="candy">캔디</string>
+    <string name="fairyland">동화</string>
+    <string name="fieldtrip">견학</string>
+    <string name="glee">글리</string>
+    <string name="kungfu">쿵푸</string>
+    <string name="mountainspring">온천</string>
+    <string name="notice_audition">자연의 소리</string>
+    <string name="spaceage">우주 시대</string>
+    <string name="vigor">비고르</string>
 </resources>
