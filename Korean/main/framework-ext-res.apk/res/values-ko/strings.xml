@@ -171,4 +171,8 @@
     <string name="switch_desc_tv">두개의 공간. 하나의 기기.</string>
     <string name="switch_brand_desc_tv">보안 서비스 제공 : Graphite</string>
     <string name="autofill">자동채우기</string>
+    <string name="miui_forbid_poweroff_when_device_locked">"전원을 끌 수 없으며 기기가 잠겨 있습니다."</string>
+    <string name="super_resolution_maintain_tips">"아직 슈퍼 해상도를 사용할 수 없습니다."</string>
+    <string name="wifi_assistant_wifi_no_internet">이 무선 네트워크는 인터넷에 접속할 수 없습니다</string>
+    <string name="wifi_assistant_wifi_no_internet_detail">탭하여 세부 정보보기</string>
 </resources>
