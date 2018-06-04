@@ -519,4 +519,9 @@
     <string name="mibi_privacy_license_name">개인 정보 보호 정책</string>
     <string name="mibi_camera_open_failed">카메라 열기 실패</string>
     <string name="mibi_progress_submit_pay">3분 후에 결제가 완료됩니다…</string>
+    <string name="mibi_error_mipay_no_installed">"Mi지갑이 기기에 설치되어 있지 않습니다."</string>
+    <string name="mibi_error_privacy_summary">승인을 취소했습니다.</string>
+    <string name="mibi_giftcard_in_available">사용 가능</string>
+    <string name="mibi_privacy_tip_message">"승인이 철회 된 후 Mi 크레딧을 사용할 수 없습니다."</string>
+    <string name="mibi_privacy_tip_title">승인 우선 처리</string>
 </resources>
