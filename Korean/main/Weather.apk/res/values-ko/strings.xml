@@ -289,4 +289,7 @@
     <string name="privacy_settings">개인 정보 보호 약관</string>
     <string name="clear_net_mock_success">네트워크 모크 삭제 완료</string>
     <string name="receive_net_mock_success">네트워크 모크 수신 완료</string>
+    <string name="daily_forecast_add_city_add">도시 추가</string>
+    <string name="daily_forecast_add_city_message">더 자세한 %1$s 의 날씨를 지속적으로 확인합니다.</string>
+    <string name="daily_forecast_add_city_title">%1$s 의 날씨 추가</string>
 </resources>
