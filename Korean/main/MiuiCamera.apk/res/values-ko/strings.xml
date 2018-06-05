@@ -840,7 +840,7 @@
     <string name="portait_effect_entry_movie">영화</string>
     <string name="portait_effect_entry_riddle">수수께끼</string>
     <string name="portait_effect_entry_story">스토리</string>
-    <string name="accessibility_ai_scene_off">AI카메라 끄기</string>
-    <string name="accessibility_ai_scene_on">AI카메라</string>
+    <string name="accessibility_ai_scene_off">AI카메라 꺼짐</string>
+    <string name="accessibility_ai_scene_on">AI카메라 켜짐</string>
     <string name="hint_ae_af_lock">오토 포커스 / 자동 노출이 잠깁니다</string>
 </resources>
