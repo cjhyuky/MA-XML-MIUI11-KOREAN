@@ -336,4 +336,5 @@
     <string name="feedback_status_submit_bbs_failed">"피드백 컨텐츠 전송 실패"</string>
     <string name="feedback_status_submit_feedback_failed">"피드백 전송 실패"</string>
     <string name="feedback_status_upload_log_failed">"첨부 파일 업로드 실패"</string>
+    <string name="toast_loading_app_id">정보를 가져오는 중…</string>
 </resources>
