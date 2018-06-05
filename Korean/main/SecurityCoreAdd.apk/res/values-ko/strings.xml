@@ -397,4 +397,5 @@
     <string name="stop_xspace_alert_title">듀얼앱 계정 삭제</string>
     <string name="msg_switch_file_second">데이터를 옮긴 후에 모든 파일들을 삭제하시겠습니까?</string>
     <string name="use_xiaoai_open">음성 어시스턴트를 이용해 기기 깨우기</string>
+    <string name="this_function_can_not_use_in_second_space">이 기능은 첫번째 공간에서만 사용할 수 있습니다</string>
 </resources>
