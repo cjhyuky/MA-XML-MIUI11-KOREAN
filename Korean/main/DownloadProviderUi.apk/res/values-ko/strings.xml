@@ -495,6 +495,4 @@
     <string name="test_speed_result">테스트 결과</string>
     <string name="time_consume">지속 시간</string>
     <string name="try_download">다운로드</string>
-    <string name="ad_install">설치하기</string>
-    <string name="common_google_play_services_unknown_issue">%1$s 앱이 구글 플레이 서비스와 충돌하고 있습니다. 다시 시도하세요.</string>
 </resources>
