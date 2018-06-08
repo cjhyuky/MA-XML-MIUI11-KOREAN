@@ -210,4 +210,6 @@
     <string name="worldcolock_timezone_date">MMMM dd</string>
     <string name="worldcolock_timezone_gap">시간차</string>
     <string name="worldcolock_timezone_local">시간과 같음</string>
+    <string name="open_keep_screen">화면 항상 켜기</string>
+    <string name="shut_down_keep_screen">"화면 항상 켜기 끄기"</string>
 </resources>
