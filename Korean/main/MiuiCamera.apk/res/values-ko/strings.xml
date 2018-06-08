@@ -850,7 +850,6 @@
     <string name="edit_risorius">리소리우스</string>
     <string name="edit_slim_nose">얇은코</string>
     <string name="edit_smile">스마일</string>
-    <string name="hibernate_hint">카메라를 켜시려면 화면을 탭하세요</string>
     <string name="popup_tip_3d_beauty_intro_text">3D 뷰티</string>
     <string name="pref_video_encoder_default">h264</string>
     <string name="pref_video_encoder_entry_h264">H.264 높은 호환성</string>
