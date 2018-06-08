@@ -203,7 +203,7 @@
     <string name="timer_running">타이머가 실행중입니다</string>
     <string name="timer_running_hint">계속하기</string>
     <string name="timer_start_timer">타이머 시작</string>
-    <string name="worldclock_input_hint_text">국가 또는 도시를 입력하세요</string>
+    <string name="worldclock_input_hint_text">도시를 입력하세요</string>
     <string name="worldclock_search_city">도시 선택</string>
     <string name="worldclock_world_time">타임존</string>
     <string name="worldcolock_timezone_current">현재: %1$s</string>
