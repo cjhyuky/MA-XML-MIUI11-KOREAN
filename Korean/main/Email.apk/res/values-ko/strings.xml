@@ -834,7 +834,7 @@
     <string name="saved">저장됨, %s</string>
     <string name="saving">저장 중...</string>
     <string name="sdcard_cannot_use">SD 카드를 사용할 수 없습니다.</string>
-    <string name="search_bar_text">메일, 발신자 검색</string>
+    <string name="search_bar_text">발신자나 연락처로 검색</string>
     <string name="search_hint">메일 검색</string>
     <string name="search_result">"결과 "</string>
     <string name="search_tabs_name_all">모두</string>
