@@ -1592,8 +1592,6 @@
     <string name="quick_settings_settings_label">설정</string>
     <string name="quick_settings_sync_label">동기화</string>
     <string name="quick_settings_tethering_label">테더링</string>
-    <string name="quick_settings_tiles_retail_mode">모바일데이터,배터리세이버,전원모드,손전증,화면회전,GPS</string>
-    <string name="quick_settings_tiles_stock">모바일데이터,와이파이,손전등,무음,스크린샷,블루투스,자동밝기,비행기모드,화면잠금,운전자모드,화면회전,편집,진동,핫스팟,필기모드,동기화,도서관모드,전원모드,화면버튼,배터리세이버,MI드롭</string>
     <string name="quick_settings_time_label">시간</string>
     <string name="quick_settings_user_label">나</string>
     <string name="quick_settings_user_new_user">새로운 사용자</string>
@@ -1756,7 +1754,6 @@
     <string name="user_remove_user_title">사용자를 지우시겠습니까?</string>
     <string name="v7_preference_off">꺼짐</string>
     <string name="v7_preference_on">켜짐</string>
-    <string name="velocity_tracker_impl">플랫폼</string>
     <string name="voice_assist_label">음성 도우미 열기</string>
     <string name="voice_hint">음성 도우미를 위한 아이콘 스와이프</string>
     <string name="volume_and_do_not_disturb">방해 금지</string>
