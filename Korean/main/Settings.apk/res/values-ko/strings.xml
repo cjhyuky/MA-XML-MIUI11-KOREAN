@@ -4300,7 +4300,7 @@ PIN 설정"</string>
     <string name="standard">무음</string>
     <string name="standard_info">통화 및 알림은 금지되어 있지만 알람, 음악은 여전히 울립니다.</string>
     <string name="total">방해 금지 모드</string>
-    <string name="total_info">%1$s 알람을 제외하고 모든 항목을 진동없이 무음처리합니다.</string>
+    <string name="total_info">알람을 제외하고 모든 항목을 진동없이 무음처리합니다.</string>
     <string name="total_info_sub">진동 끄기</string>   
     <string name="day_of_week">한 주의 시작일</string>
     <string name="silent_mode">무음 모드</string>
