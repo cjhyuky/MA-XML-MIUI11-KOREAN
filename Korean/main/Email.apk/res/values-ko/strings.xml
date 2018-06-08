@@ -1107,4 +1107,19 @@
     <string name="output_to_disk">파일 로그 출력</string>
     <string name="request_copy_db_to_disk">데이터베이스를 파일에 복사</string>
     <string name="three_day">3일</string>
+    <string name="account_setup_failed_auth_required">"서버에서 인증방법을 제공하지 않습니다."</string>
+    <string name="login_mail">메일 로그인</string>
+    <string name="need_get_qq_mail">QQ메일 필요함</string>
+    <string name="open_notification_kingagent">장례 공지사항 열기</string>
+    <string name="optimization_suggestion">최적화 제안</string>
+    <string name="others_mail">기타</string>
+    <string name="others_mail_des">(60,0000개 이상의 메일 변환)</string>
+    <string name="qq_authorization_help_get">도움을 받으세요</string>
+    <string name="qq_authorization_know">인증코드 인식</string>
+    <string name="qq_authorization_tips">더이상 시도되지 않습니다</string>
+    <string name="qq_verify_code">(QQ 인증 코드 필요함)</string>
+    <string name="title_activity_about">정보</string>
+    <string name="verify_code">인증 코드</string>
+    <string name="version_string">버전: %s</string>
+    <string name="wps_title">WPS메일</string>  
 </resources>
