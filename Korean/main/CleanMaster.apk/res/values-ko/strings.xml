@@ -540,4 +540,12 @@
     <string name="mainbtn_text_no_trash">건너뛰기</string>
     <string name="clean_long_msg">"%1$d개의 파일을 청소중입니다, %2$d개 완료됨. 
 초당 %3$d%%개의 항목을 처리중입니다, 남은시간:%4$s"</string>    
+    <string name="menu_open">Open</string>
+    <string name="tips_low_storage_dialog_cancel">취소</string>
+    <string name="tips_low_storage_dialog_msg_qq">QQ 캐시 크기가 3GB에 도달했습니다. 장치 속도가 느려질 수 있습니다. 지금 QQ 캐시 파일을 정리하시겠습니까?</string>
+    <string name="tips_low_storage_dialog_msg_storage">"저장소 용량의 90%를 사용하고 있습니다. 사용하지 않는 앱을 제거합니다."</string>
+    <string name="tips_low_storage_dialog_msg_wechat">위챗 캐시 크기가 3GB에 도달했습니다. 장치 속도가 느려질 수 있습니다. 지금 위챗 캐시 파일을 정리하시겠습니까?</string>
+    <string name="tips_low_storage_dialog_ok">정리</string>
+    <string name="tips_low_storage_dialog_ok_storage">사용 가능한 저장소 용량</string>
+    <string name="tips_low_storage_dialog_title">저장소 용량이 부족합니다.</string>
 </resources>

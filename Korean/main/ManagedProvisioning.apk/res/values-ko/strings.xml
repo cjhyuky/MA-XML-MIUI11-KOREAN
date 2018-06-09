@@ -167,4 +167,6 @@
     <string name="your_org_app_used">%1$s가 다음 앱을 사용하여 이 기기를 관리하고 모니터링합니다:</string>
     <string name="your_organization_beginning">귀하의 조직</string>
     <string name="your_organization_middle">귀하의 조직</string>
+    <string name="cant_replace_or_remove_work_profile">"작업 프로파일을 바꾸거나 제거할 수 없습니다."</string>
+    <string name="work_profile_cant_be_added_contact_admin">이 장치에 작업 프로파일을 추가할 수 없습니다. 질문이 있으면 관리자에게 문의하십시오.</string>
 </resources>

@@ -2047,4 +2047,18 @@
     <string name="status_bar_volume">볼륨</string>
     <string name="status_bar_wifi">Wi-Fi</string>
     <string name="move_button_text">전환</string>
+    <string name="EmergencyCallWarningSummary">긴급 통화는 이동 통신망이 필요합니다.</string>
+    <string name="EmergencyCallWarningTitle">Wi-Fi 통화가 활성화 됨</string>
+    <string name="notification_channel_mobile_data_status">모바일 데이터 상태</string>
+    <string name="notification_reply_button_accessibility">답장</string>
+    <string name="popup_window_default_title">팝업 윈도우</string>
+    <string name="usb_unsupported_audio_accessory_message">연결된 장치가 이 휴대폰과 호환되지 않습니다. 자세한 내용을 보려면 누르세요</string>
+    <string name="usb_unsupported_audio_accessory_title">아날로그 오디오 액세서리가 감지됨</string>
+    <string name="wifi_available_action_all_networks">모든 네트워크</string>
+    <string name="wifi_available_action_connect">연결</string>
+    <string name="wifi_available_content_failed_to_connect">모든 네트워크를 보려면 누르세요</string>
+    <string name="wifi_available_title">개방형 Wi-Fi에 연결</string>
+    <string name="wifi_available_title_connected">Wi-Fi에 연결됨</string>
+    <string name="wifi_available_title_connecting">개방형 Wi-Fi에 연결</string>
+    <string name="wifi_available_title_failed_to_connect">Wi-FI에 연결하지 못했습니다.</string>
 </resources>

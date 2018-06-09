@@ -323,4 +323,6 @@
     <string name="secondFunctionDesc">추가 기능으로 전환</string>
     <string name="switchDesc">전환</string>
     <string name="negDesc">온도가 0 ℃ 이상이거나 이하일때 전환하세요.</string>
+    <string name="error">오류</string>
+    <string name="error_fomrat">형식 오류</string>
 </resources>
