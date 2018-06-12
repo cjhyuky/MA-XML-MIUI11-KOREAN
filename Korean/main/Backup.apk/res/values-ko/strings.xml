@@ -275,7 +275,7 @@
     <string name="trans_sender_time_remained">"%s 남음. Wi-Fi를 끄지 마십시오. 기기를 가까이에 두십시오."</string>
     <string name="trans_receiver_time_remained">"%s 남음. Wi-Fi 핫스팟을 끄지 마십시오. 기기를 가까이에 두십시오."</string>
     <string name="trans_time_spent">"소요 시간: %s"</string>
-    <string name="trans_restoring_no_items">항목 동기화 중</string>
+    <string name="trans_restoring_no_items">정보를 가져오는 중…</string>
     <string name="trans_detail_category_sysdata">시스템 데이터</string>
     <string name="trans_detail_category_userdata">앱</string>
     <string name="trans_detail_category_account">계정과 연락처</string>
@@ -530,4 +530,66 @@
     <string name="trans_generating_qrcode">QR 코드 생성중…</string>
     <string name="trans_old_phone_low_space_msg">"Mi Mover를 이용하기 위한 저장 공간이 부족합니다. 저장 공간을 확보해주세요."</string>
     <string name="trans_old_phone_low_space_title">저장 공간 부족</string>
+    <string name="feature_title_contacts">연락처</string>
+    <string name="feature_title_sms">메세지</string>
+    <string name="flash_drive_backup_btn">USB저장소에 백업</string>
+    <string name="flash_drive_backup_note">"앱을 USB저장소에 백업합니다.
+시작하기전에 USB 저장소에 공간이 충분히 있는지 확인하세요."</string>
+    <string name="flash_drive_backup_restore">USB 백업</string>
+    <string name="flash_drive_connection_failed">USB 저장소 연결 실패</string>
+    <string name="flash_drive_restore_btn">USB 저장소에서 복원</string>
+    <string name="flash_drive_search_backup_files">"USB 백업을 찾는 중입니다…
+백업 파일의 이름을 변경하지 마세요."</string>
+    <string name="lack_perm_msg">Mi Mover는 아래의 권한들이 필요합니다: &lt;b&gt;%s&lt;/b&gt;.</string>
+    <string name="lack_perm_title">권한 요구됨</string>
+    <string name="perm_camera">카메라</string>
+    <string name="perm_location">GPS</string>
+    <string name="perm_read_call_log">통화기록 읽기</string>
+    <string name="perm_read_contacts">연락처 읽기</string>
+    <string name="perm_read_phone_state">"폰 상태 읽기"</string>
+    <string name="perm_read_sms">문자 메세지 읽기</string>
+    <string name="perm_storage">외부 저장소 읽고 쓰기</string>
+    <string name="platform_chooser_item_android_mi">샤오미폰</string>
+    <string name="platform_chooser_item_android_others">다른 브랜드</string>
+    <string name="storage_sd_card">SD카드</string>
+    <string name="storage_usb">USB저장소</string>
+    <string name="trans_calculating_app_sd_description">SD카드에 앱 데이터 저장</string>
+    <string name="trans_calculating_media_description">미디어 파일</string>
+    <string name="trans_calculating_tip">계산중 %s…</string>
+    <string name="trans_install_guide_button_start">시작</string>
+    <string name="trans_install_guide_page_title">Mi Mover를 이전 폰에 설치하세요</string>
+    <string name="trans_install_guide_scan_install_tip">"Mi Mover를 다운로드받고 설치하시려면
+이전 폰에서 이 QR 코드를 스캔하세요."</string>
+    <string name="trans_install_guide_step1_content">\"Mi Mover\를 다운로드 받고 설치하기 위해 이전 폰에서 이 QR코드를 스캔하세요".</string>
+    <string name="trans_install_guide_step1_title">스텝 1</string>
+    <string name="trans_install_guide_step2_content">설치 완료 후, \"시작\" 버튼을 탭하세요.</string>
+    <string name="trans_install_guide_step2_title">스텝 2</string>
+    <string name="trans_intro_desc_4_market">"Mi Mover는 데이터 송수신시 와이파이를 이용합니다. 파일 전송중에 인터넷이 되지 않는 이유는 이것때문입니다. 하지만 모바일 데이터는 여전히 사용하실 수 있습니다."</string>
+    <string name="trans_intro_desc_9_method_1_dec">홈화면 &gt; 툴 폴더안에 있는 &gt; 피드백으로 가세요.</string>
+    <string name="trans_intro_desc_9_method_1_title">1. \"피드백\" 앱을 사용하여 당신의 피드백을 공유해주세요.</string>
+    <string name="trans_intro_desc_9_method_2_dec">당신의 피드백을 miui-mover@xiaomi.com로 보내주세요.</string>
+    <string name="trans_intro_desc_9_method_2_title">2. 저희에게 이메일을 보내주세요</string>
+    <string name="trans_intro_desc_9_method_3_dec">"Mi Mover의 QQ 그룹채팅: 687338378"</string>
+    <string name="trans_intro_desc_9_method_3_title">3. QQ에서 이슈 레포트</string>
+    <string name="trans_intro_desc_old_market">\"시작\"을 탭하세요. 새로운 폰에서 QR코드를 스캔해주세요, 어떤 파일을 전송할지 고르는 화면이 나올떄까지 기다려주시고 \"보내기\를 눌러주세요".</string>
+    <string name="trans_intro_question_9_market">%d. 피드백.</string>
+    <string name="trans_open_camera_failed_message">기기를 재부팅시거나 Mi Mover가 &lt;b&gt;카메라&lt;/b&gt;사용 권한허용되었는지 확인해보세요.</string>
+    <string name="trans_open_camera_failed_title">"카메라에 접근 할 수 없습니다"</string>
+    <string name="trans_open_location_button">켜기</string>
+    <string name="trans_open_location_message">사용 가능한  와이파이 네트워크를 확인하려면 GPS 서비스를 켜세요.</string>
+    <string name="trans_open_location_title">GPS 서비스 켜기</string>
+    <string name="trans_operate_tip_for_other_android">Mi Mover를 이전 폰에서 여시고, tap \"시작\"을 탭하고 QR코드를 스캔하세요.</string>
+     <string name="trans_success_dialog_button_market_favourable_comment">Mi Mover 평가하기</string>
+    <string name="trans_success_dialog_market_comment_title">"이제 집에 돌아온것 처럼 익숙함을 느끼실 껍니다.
+Mi Mover가 마음에 드시나요?"</string>
+    <string name="usb_backup_select_data_too_large">"선택된 파일이 큽니다. USB저장소에 여유공간이 있는지 확인하세요.
+중요한 파일만 전송하세요."</string>
+    <string name="usb_restore_select_data_too_large">"백업 파일이 큽니다. 복원하는데 시간이 꽤 소요됩니다.
+중요한 항목만 복원하시면 훨씬 빠르게 복원하실 수 있습니다."</string>
+    <string name="usb_trans_native_no_space">"%s 항목만 귀하의 기기에서 사용가능합니다.
+여유공간을 늘리거나 파일을 나눠서 옮기세요."</string>
+    <string name="usb_trans_old_phone_low_space_msg">"백업을 패키지화하려면 추가 저장 공간이 필요합니다. 전송을 계속할 수있는 저장 공간이 충분하지 않습니다. 여유 공간을 늘리고 불필요한 파일을 삭제하거나 중요한 항목 만 전송 해보십시오."</string>
+    <string name="usb_trans_old_phone_low_space_title">저장 공간이 부족합니다</string>
+    <string name="usb_trans_select_data_no_space">"USB 저장소에서 %s 항목만 사용가능합니다.
+여유공간을 늘리거나 중요한 항목만 전송하세요."</string>
 </resources>
