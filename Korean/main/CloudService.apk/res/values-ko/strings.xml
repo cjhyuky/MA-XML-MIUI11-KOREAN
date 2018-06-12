@@ -248,7 +248,7 @@
     <string name="micloud_main_sync_pending">동기화 기다리는 중</string>
     <string name="micloud_main_sync_need_charge_or_sleep">충전기를 연결하시면 화면을 끄시면 동기화가 시작됩니다.</string>
     <string name="micloud_main_detail">세부사항 보기</string>
-    <string name="micloud_main_network_abnormal">네트워크에 연결할 수 없습니다.</string>
+    <string name="micloud_main_network_abnormal">네트워크 설정을 확인하세요.</string>
     <string name="micloud_main_sync_init">정보 업데이트</string>
     <string name="micloud_main_battery_low">동기화하기에 배터리가 충분하지 않습니다.</string>
     <string name="micloud_main_battery_message">동기화하시려면 충전기를 연결하여 주십시오.</string>
