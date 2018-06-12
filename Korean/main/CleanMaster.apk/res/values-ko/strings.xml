@@ -166,7 +166,7 @@
     <string name="hints_quick_scanning">스캔 중…</string>
     <string name="hints_quick_cleanuping">최적화 중…</string>
     <string name="hints_deepclean_scanning">%s 스캔 중</string>
-    <string name="cache_title_system_cache">시스템 캐시</string>
+    <string name="cache_title_system_cache"> 캐시</string>
     <string name="hints_storage_free">여유 공간</string>
     <string name="hints_storage_free_size">총 %1$s, 이용 가능 %2$s</string>
     <string name="apps_sort_type_title">정렬</string>
@@ -548,5 +548,4 @@
     <string name="tips_low_storage_dialog_ok">정리</string>
     <string name="tips_low_storage_dialog_ok_storage">사용 가능한 저장소 용량</string>
     <string name="tips_low_storage_dialog_title">저장소 용량이 부족합니다.</string>
-    <string name="cache_title_system_cache">데이터 캐시</string>
 </resources>
