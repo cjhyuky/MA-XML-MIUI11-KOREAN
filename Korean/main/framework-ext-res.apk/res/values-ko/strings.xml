@@ -175,4 +175,5 @@
     <string name="super_resolution_maintain_tips">"아직 슈퍼 해상도를 사용할 수 없습니다."</string>
     <string name="wifi_assistant_wifi_no_internet">이 무선 네트워크는 인터넷에 접속할 수 없습니다</string>
     <string name="wifi_assistant_wifi_no_internet_detail">탭하여 세부 정보보기</string>
+    <string name="resolver_app_recommend_flag">추천</string>
 </resources>
