@@ -548,4 +548,5 @@
     <string name="tips_low_storage_dialog_ok">정리</string>
     <string name="tips_low_storage_dialog_ok_storage">사용 가능한 저장소 용량</string>
     <string name="tips_low_storage_dialog_title">저장소 용량이 부족합니다.</string>
+    <string name="cache_title_system_cache">데이터 캐시</string>
 </resources>
