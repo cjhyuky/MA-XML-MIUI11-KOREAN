@@ -2217,4 +2217,10 @@
     <string name="voice_service_warning_dialog_ok">확인</string>
     <string name="voice_service_warning_dialog_ok_timer">확인(%d)</string>
     <string name="voice_service_warning_dialog_title">VoLTE 통화</string>
+    <string name="wfcmode_mobile_preferred">모바일 데이터 우선</string>
+    <string name="wfcmode_wifi_only">와이파이만</string>
+    <string name="wfcmode_wifi_preferred">와이파이 우선</string>
+    <string name="wifi_call_setting">와이파이 통화</string>
+    <string name="wificall_switch_summary">신호가 약하면 와이파이에서 VoLTE로 전환될 수 있습니다</string>
+    <string name="wificall_switch_title">와이파이를 이용한 통화</string>
 </resources>
