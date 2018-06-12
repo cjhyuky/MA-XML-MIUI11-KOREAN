@@ -6367,4 +6367,15 @@ PIN 설정"</string>
     <string name="wifi_traffic_priority_regular">일반 모드</string>
     <string name="wifi_traffic_priority_regular_summary">백그라운드 프로세스와 앱 간의 대역폭을 공유합니다</string>
     <string name="wifi_traffic_priority_summary">자동으로 연결 속도 우선 순위 지정</string>
+    <string name="bootloader_device_bind_exceed_sim_limit">"이 SIM카드에 더이상의 계정을 연결할 수 없습니다."</string>
+    <string name="bootloader_device_bind_no_sim">SIM카드를 삽입하고 재시도하세요.</string>
+    <string name="bootloader_device_bind_server_code">"추가 실패. 에러 코드:"</string>
+    <string name="bootloader_device_bind_sim_invalid">SIM카드가 잘못됨. 교체후 다시 시도하세요.</string>
+    <string name="bootloader_status_privacy_dialog_message">Mi언락은 당신의 Mi계정, CPU ID, IMEI, 정상적으로 작동하는 IMSI에 접근이 필요합니다. %s에 따라 데이터를 수집, 사용 및 처리합니다. 동의하시겠습니까?</string>
+    <string name="bootloader_status_privacy_dialog_no">취소</string>
+    <string name="bootloader_status_privacy_dialog_title">권한 요구됨</string>
+    <string name="bootloader_status_privacy_dialog_url_text">개인 정보 보호정책</string>
+    <string name="bootloader_status_privacy_dialog_yes">동의</string>
+    <string name="device_miui_version_for_POCO">MIUI 버전 (POCO를 위한)</string>
+    <string name="taplus_title">타플러스</string>
 </resources>
