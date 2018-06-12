@@ -854,5 +854,11 @@
     <string name="pref_video_encoder_default">h264</string>
     <string name="pref_video_encoder_entry_h264">H.264 높은 호환성</string>
     <string name="pref_video_encoder_entry_h265">H.265 높은 성능</string>
-    <string name="pref_video_encoder_title">비디오 인코더</string>    
+    <string name="pref_video_encoder_title">비디오 인코더</string>
+    <string name="beauty_fragment_tab_name_3d_beauty">미화</string>
+    <string name="beauty_fragment_tab_name_3d_remodeling">리모델링</string>
+    <string name="lens_dirty_detected_content">"카메라 렌즈가 더럽습니다,
+보다 나은 사진을 위해서 카메라 렌즈를 닦으세요."</string>
+    <string name="lens_dirty_detected_title_back">후면 카메라 오염</string>
+    <string name="lens_dirty_detected_title_front">전면 카메라 오염</string>
 </resources>
