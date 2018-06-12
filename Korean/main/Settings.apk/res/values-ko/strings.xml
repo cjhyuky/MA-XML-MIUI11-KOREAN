@@ -6331,7 +6331,7 @@ PIN 설정"</string>
     <string name="super_resolution_desc">인공 지능 알고리즘을 사용하여 이미지를 선명하게 만듭니다</string>
     <string name="super_resolution_maintain">"아직 슈퍼 해상도를 사용할 수 없습니다."</string>
     <string name="super_resolution_no_app_tips">위챗과 토우샤오를 먼저 다운로드하십시오.</string>
-    <string name="super_resolution_reboot_tips">앱을 다시 시작하면 이 기능을 사용할 수 있습니다.</string>
+    <string name="super_resolution_reboot_tips">이 기능은 위챗과 토우샤오 크리스퍼에서 사진을 흐리게 만드는걸 허용합니다. 이 기능을 켜시고 앱을 재시작하세요.</string>
     <string name="super_resolution_title">슈퍼 해상도</string>
     <string name="wifi_assistant">와이파이 도우미</string>
     <string name="wifi_assistant_auto_confirm_data_message">이 와이파이 네트워크는 인터넷에 연결할 수 없습니다. 기기가 대신 모바일 데이터를 사용합니다. 설정에서 와이파이 도우미를 끌 수 있습니다.</string>
