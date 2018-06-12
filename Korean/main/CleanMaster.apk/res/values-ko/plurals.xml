@@ -78,4 +78,10 @@
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">오랫동안 사용하지 않은 앱이 있습니다. 사용하지 않는 앱들은 저장공간 확보를 위해 삭제하십시오.</item>
     </plurals>
+    <plurals name="clean_long_msg_p1">
+        <item quantity="other">"%1$d개 파일 청소중,%2$d개 파일 완료"</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+            <item quantity="other">%1$d%%개 항목/초당, 남은 시간:%2$s</item>
+    </plurals>    
 </resources>
