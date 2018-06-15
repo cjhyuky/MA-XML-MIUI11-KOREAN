@@ -1393,7 +1393,6 @@
     <string name="ims_vt_call_quality_high">고품질</string>
     <string name="ims_vt_call_quality_unknown">알 수 없음</string>
     <string name="ims_vt_call_quality_set_failed">영상 품질 설정 실패</string>
-    <string name="wifi_call_setting">Wi-Fi 통화 설정</string>
     <string name="wifi_calling_title">Wi-Fi 통화</string>
     <string name="wifi_calling_summary">Wi-Fi 통화를 켜시고 회의의 Wi-Fi 네트워크를 선택하십시오.</string>
     <string name="wifi_calling_preference_title">Wi-Fi 전화 회의</string>

@@ -91,10 +91,6 @@
     <string name="screen_pinning_negative">아니오</string>
     <string name="accessibility_managed_profile">작업 프로필</string>
     <string name="managed_profile_foreground_toast">작업 프로필을 사용중입니다</string>
-    <string name="status_bar_safepay_scanning">결제 환경 확인 중…</string>
-    <string name="status_bar_safepay_safe">결제 위험 요소를 발견하지 못했습니다</string>
-    <string name="status_bar_safepay_risk">결제 위험 요소 발견</string>
-    <string name="status_bar_safepay_unknown">결제 환경을 확인할 수 없습니다</string>
     <string name="loading_desktop">잠시만 기다려주십시오…</string>
     <string name="status_bar_date_format">"M월 dd일 EEEE"</string>
     <string name="status_bar_recent_guide_all">"위로 슬라이드하여 닫기
@@ -662,7 +658,6 @@
     <string name="accessibility_desc_uncheck_block_notification">%1$s의 알림 선택 해제</string>
     <string name="accessibility_desc_weather_temperature">날씨 %1s도</string>
     <string name="accessibility_desc_block_notification">알림 </string>
-    <string name="accessibility_assistant">터치 도우미</string>
     <string name="keyboard_key_back">뒤로 가기</string>
     <string name="keyboard_key_backspace">백스페이스</string>
     <string name="keyboard_key_dpad_center">가운데 정렬</string>
@@ -1507,10 +1502,6 @@
     <string name="plugins">플러그인</string>
     <string name="power_notification_controls_description">알림 컨트롤을 사용하면 앱의 알림에 대해 0에서 5까지 중요도 수준을 설정할 수 있습니다. \n\n\"&lt;b&gt;레벨 5&lt;/b&gt;\" \n- 알림 목록 중 최상위에 표시 \n- 전체화면 알림 허용 \n- 항상 표시 \n\n\"&lt;b&gt;레벨 4&lt;/b&gt;\" \n- 전체화면 알림 방지 \n- 항상 표시 \n\n\"&lt;b&gt;레벨 3&lt;/b&gt;\" \n- 전체화면 알림 방지 \n- 표시하지 않음 \n\n\"&lt;b&gt;레벨 2&lt;/b&gt;\" \n- 전체화면 알림 방지 \n- 표시하지 않음 \n- 소리와 진동 없음 \n\n\"&lt;b&gt;레벨 1&lt;/b&gt;\" \n- 전체화면 알림 방지 \n- 표시하지 않음 \n- 소리와 진동 없음 \n- 잠금화면과 상태표시줄에서 숨김 \n- 알림 목록 하단에 표시 \n\n\"&lt;b&gt;레벨 0&lt;/b&gt;\" \n- 앱의 모든 알림 끔</string>
     <string name="profile_owned_footer">프로필이 모니터링될 수 있습니다</string>
-    <string name="prompt_danger">위험</string>
-    <string name="prompt_detecting">검출중</string>
-    <string name="prompt_safe">안전</string>
-    <string name="prompt_unknown">알수없음</string>  
     <string name="qs_customize">빠른 설정에서 오래누르기 사용자화 허용</string>
     <string name="qs_customize_info">정보</string>
     <string name="qs_customize_remove">지우기</string>
