@@ -44,7 +44,6 @@
     <string name="status_bar_settings_show_carrier">통신사 이름 표시</string>
     <string name="status_bar_settings_custom_carrier">통신사 이름 수정</string>
     <string name="status_bar_settings_no_carrier">없음</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_show_carrier_summary">이 기능이 꺼져 있어도 통신사 이름은 잠금화면 및 드롭 다운 메뉴에는계속 표시됨</string>
     <string name="status_bar_settings_show_wifi_name">Wi-Fi 표시</string>
     <string name="status_bar_settings_custom_wifi_name">Wi-Fi 이름 수정</string>

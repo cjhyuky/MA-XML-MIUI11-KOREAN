@@ -56,7 +56,6 @@
    <string name="btn_error">에러가 발생하였습니다. 다시 시도하시겠습니까?</string>
    <string name="btn_pause">중단</string>
    <string name="btn_stop">정지</string>
-   <string name="message">%1$s</string>
    <string name="message_checkbox">더 이상 EU롬 개발팀의 메시지 받지 않기</string>
    <string name="message_title">주의!</string>
 

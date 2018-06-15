@@ -146,7 +146,6 @@
     <string name="settings_toggle_position">토글 관리</string>
     <string name="settings_toggle_position_divider_list">이 바 위의 토글들이 활성화되어 있습니다.</string>
     <string name="settings_toggle_position_reset">토글 초기화</string>
-    <string name="list_delimeter">", "</string>
     <string name="camera_key_action_setting_title">Mi 버튼</string>
     <string name="camera_key_action_category_title">카메라 앱이 열리지 않을 때 사용</string>
     <string name="camera_key_action_none_title">동작 없음</string>
@@ -831,7 +830,6 @@
     <string name="monitoring_description_two_named_vpns">"이 기기는 이메일, 앱, 웹 사이트 등 네트워크 활동을 모니터링될 수 있는 %1$s와 %2$s에 연결되어 있습니다."</string>
     <string name="monitoring_description_vpn_settings">VPN 설정 열기</string>
 
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA 인증서</string>
     <string name="monitoring_subtitle_network_logging">네트워크 로깅</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1245,10 +1243,6 @@
     <string name="keyguard_charged">Charged</string>
     <string name="keyguard_charging_info_battery_used_time_text">사용시간</string>
     <string name="keyguard_charging_info_click_to_detail">세부사항 보기</string>
-    <string name="keyguard_charging_info_data_c">%s℃</string>
-    <string name="keyguard_charging_info_data_ma">%smA</string>
-    <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">전력 소모량</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">오늘 %s</string>
@@ -1275,7 +1269,6 @@
     <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
     <string name="keyguard_missing_sim_message">No SIM card in phone.</string>
     <string name="keyguard_missing_sim_message_short">No SIM card</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Network locked</string>
     <string name="keyguard_password_enter_password_code">잠금 해제하려면 비밀번호 입력</string>
     <string name="keyguard_password_enter_pin_code">PIN 코드 입력</string>
