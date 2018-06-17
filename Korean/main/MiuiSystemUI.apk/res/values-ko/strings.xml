@@ -1047,7 +1047,7 @@
     <string name="battery_detail_charging_summary">충전 중에는 배터리 절약 모드를 실행할 수 없습니다</string>
     <string name="battery_detail_switch_summary">성능 저하와 백그라운드 데이터 제어를 통한 배터리 절약</string>
     <string name="battery_detail_switch_title">배터리 절약 모드</string>
-    <string name="battery_low_percent_format_saver_started">%s%이 남았습니다. 배터리 절약 모드가 활성화됩니다.</string>
+    <string name="battery_low_percent_format_saver_started">%s 이 남았습니다. 배터리 절약 모드가 활성화됩니다.</string>
     <string name="battery_low_why">설정</string>
     <string name="battery_panel_title">배터리 사용량</string>
     <string name="battery_saver_confirmation_ok">활성화</string>
