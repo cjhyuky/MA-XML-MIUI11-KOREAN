@@ -893,7 +893,7 @@
     <string name="accessibility_assistant">터치 도우미</string>
     <string name="accessibility_battery_details">배터리 정보 열기</string>
     <string name="accessibility_battery_full">완전 충전됨</string>
-    <string name="accessibility_battery_level_charging">배터리 충전중 (%d% 충전완료)</string>
+    <string name="accessibility_battery_level_charging">배터리 충전중 (%d 충전완료)</string>
     <string name="accessibility_battery_one_bar">배터리 20% 남음</string>
     <string name="accessibility_battery_three_bars">배터리 60% 남음</string>
     <string name="accessibility_battery_two_bars">배터리 40% 남음</string>
