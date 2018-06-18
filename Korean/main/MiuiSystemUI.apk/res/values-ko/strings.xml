@@ -1451,6 +1451,7 @@
     <string name="notification_all_categories">모든 카테고리</string>
     <string name="notification_app_settings">사용자 정의: %1$s</string>
     <string name="notification_channel_alerts">경고</string>
+    <string name="notification_channel_battery">배터리</string>
     <string name="notification_channel_controls_closed_accessibility">%1$s 앱을 위한 알림 컨트롤이 닫힘</string>
     <string name="notification_channel_controls_opened_accessibility">%1$s 앱을 위한 알림 컨트롤이 열림</string>
     <string name="notification_channel_disabled">이 알림을 더이상 받지 않습니다.</string>
@@ -1460,6 +1461,7 @@
     <string name="notification_channel_storage">저장소</string>
     <string name="notification_channel_switch_accessibility">이 채널에 대한 알림 허용</string>
     <string name="notification_channel_tv_pip">사진 속 사진</string>
+    <string name="notification_channel_usb">USB</string>
     <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
     <string name="notification_default_channel_desc">이 앱은 알림 카테고리가 없습니다</string>
     <string name="notification_done">완료</string>
@@ -1545,6 +1547,7 @@
     <string name="quick_settings_dual_location_label">듀얼 GPS</string>
     <string name="quick_settings_edit_label">편집</string>
     <string name="quick_settings_flashlight_label">손전등</string>
+    <string name="quick_settings_gps_label">위치</string>
     <string name="quick_settings_hotspot_label">핫스팟</string>
     <string name="quick_settings_ime_label">입력 방법</string>
     <string name="quick_settings_inversion_label">색상 반전</string>
