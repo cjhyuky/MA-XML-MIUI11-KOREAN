@@ -6382,4 +6382,5 @@ PIN 설정"</string>
     <string name="miui_lab_ai_cloud_closed">"AI 사전로딩을 아직 사용하실 수 없습니다."</string>
     <string name="miui_lab_ai_preload_desc">AI 사전로딩은 앱 실행속도를 향상 시킵니다</string>
     <string name="miui_lab_ai_preload_title">AI 사전로딩</string>
+    <string name="wifi_click_login_wlan">로그인/권한 요구됨</string>
 </resources>
