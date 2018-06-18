@@ -861,4 +861,5 @@
 보다 나은 사진을 위해서 카메라 렌즈를 닦으세요."</string>
     <string name="lens_dirty_detected_title_back">후면 카메라 오염</string>
     <string name="lens_dirty_detected_title_front">전면 카메라 오염</string>
+    <string name="back_bokeh_use_hint">"사물이 1.5미터 보다 더 멀리있지 않은지 확인하세요."</string>
 </resources>
