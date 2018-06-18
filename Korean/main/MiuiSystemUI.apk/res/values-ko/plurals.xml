@@ -34,4 +34,7 @@
     <plurals name="notification_group_overflow_description">
         <item quantity="other">%s개의 추가 알림이 있습니다.</item>
     </plurals>
+    <plurals name="notification_num_channels">
+       <item quantity="other">%d개 알림 카테고리</item>
+    </plurals>    
 </resources>
