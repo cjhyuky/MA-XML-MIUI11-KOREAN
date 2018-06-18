@@ -180,7 +180,7 @@
     <string name="module_download_msg">"스마트 알람, 자연 소리 및 생일 알람을 사용하려면 시계가 인터넷에 연결되어 연락처에 액세스해야하며 추가 오디오를 다운로드해야합니다. 동의하시겠습니까?"</string>
     <string name="module_download_msg_golbal">스마트 알람 및 자연 소리를 사용하려면 Clock에서 추가 오디오를 다운로드해야합니다. 동의합니까?</string>
     <string name="module_download_no_network">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인한 후 다시 시도하십시오."</string>
-    <string name="module_download_ok">동의 및 다운로드</string>
+    <string name="module_download_ok">동의</string>
     <string name="module_download_success">추가 오디오 다운로드 완료</string>
     <string name="module_download_title">추가 오디오가 필요합니다</string>
     <string name="module_downloading">추가 오디오 다운로드중…</string>
