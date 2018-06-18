@@ -1289,4 +1289,16 @@
     <string name="video_editor_video_is_short">"이 영상을 편집할 수 없습니다."</string>
     <string name="video_editor_watermark">워터마크</string>
     <string name="voice_assistant">음성 입력</string>
+    <string name="checked">선택됨</string>
+    <string name="checked_something">%s 선택됨</string>
+    <string name="enter_choice_mode">입력된 공유 대화 상자</string>
+    <string name="exit_choice_mode">왼쪽 공유 대화 상자</string>
+    <string name="feature_guidance_photo_effects">사진 효과</string>
+    <string name="image_with_time">%s 촬영됨</string>
+    <string name="image_with_time_and_location">%1$s 촬영됨. 촬영위치: %2$s.</string>
+    <string name="storage_description_usb">USB 저장소</string>
+    <string name="unchecked">선택해제됨</string>
+    <string name="unchecked_something">%s 선택해제됨</string>
+    <string name="video_with_time">%s 영상 촬영됨</string>
+    <string name="video_with_time_and_location">%1$s 영상 촬영됨. 촬영위치: %2$s.</string>
 </resources>
