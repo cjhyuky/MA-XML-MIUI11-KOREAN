@@ -1344,4 +1344,5 @@
     <string name="import_from_other_device">다른 기기에서 불러오기</string>
     <string name="contact_detail_entry_pay_request">금전 요구</string>
     <string name="no_setting_menu">사용 가능한 메뉴 옵션 없음</string>
+    <string name="preference_show_firewall_calllog">통화기록에서 차단된 통화 표시</string>
 </resources>
