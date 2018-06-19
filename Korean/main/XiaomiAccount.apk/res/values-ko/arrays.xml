@@ -19,6 +19,6 @@
         <item>4001~6000</item>
         <item>6001~8000</item>
         <item>8001~12000</item>
-        <item>> 12000</item>
+        <item>"> 12000"</item>
     </string-array>
 </resources>
