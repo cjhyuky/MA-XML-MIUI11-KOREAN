@@ -5,7 +5,7 @@
     <string name="abc_action_menu_overflow_description">더 보기</string>
     <string name="abc_action_mode_done">완료</string>
     <string name="abc_action_mode_select_all">전체 선택</string>
-    <string name="accept_cookies_confirm_message">이 기능을 끄는 것은  웹사이트가 오작동하게 만들 수 있습니다.</string>
+    <string name="accept_cookies_confirm_message">이 기능을 끄면 웹사이트가 오작동 수 있습니다.</string>
     <string name="accessibility_button_clear">입력 지우기</string>
     <string name="accessibility_date_picker_month">월</string>
     <string name="accessibility_date_picker_week">주</string>
@@ -1486,4 +1486,20 @@
     <string name="suggestion_more_news">더 많은 뉴스</string>
     <string name="suggestion_more_news_start_title_text">관련 뉴스</string>
     <string name="suggestion_topic_subtitle_hyphen">포커스</string>
+    <string name="mw_autofill_cc_amex">아메리칸 익스프레스</string>
+    <string name="mw_autofill_cc_diners">다이너스 클럽</string>
+    <string name="mw_autofill_cc_discover">Discover</string>
+    <string name="mw_autofill_cc_elo">Elo</string>
+    <string name="mw_autofill_cc_jcb">JCB</string>
+    <string name="mw_autofill_cc_mastercard">마스터카드</string>
+    <string name="mw_autofill_cc_mir">Mir</string>
+    <string name="mw_autofill_cc_union_pay">중국 유니온페이</string>
+    <string name="mw_autofill_cc_visa">비자</string>
+    <string name="mw_color_picker_value">값</string>
+    <string name="pref_data_preload_value_always">항상</string>
+    <string name="pref_data_preload_value_never">절대 금지</string>
+    <string name="pref_link_prefetch_value_always">항상</string>
+    <string name="pref_link_prefetch_value_never">절대 금지</string>
+    <string name="pref_video_preload_value_always">항상</string>
+    <string name="pref_video_preload_value_never">절대 금지</string>
 </resources>

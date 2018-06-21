@@ -325,4 +325,6 @@
     <string name="negDesc">온도가 0 ℃ 이상이거나 이하일때 전환하세요.</string>
     <string name="error">오류</string>
     <string name="error_fomrat">형식 오류</string>
+    <string name="golbal_search_path_calculator_setting">시스템 앱/계산기/설정</string>
+    <string name="reciprocalDesc">분수</string>
 </resources>
