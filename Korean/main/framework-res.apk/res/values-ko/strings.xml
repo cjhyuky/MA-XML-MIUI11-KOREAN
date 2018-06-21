@@ -1457,7 +1457,6 @@
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"잠금해제 패턴을 %d회 잘못 그렸습니다. %d회 더 실패하면 이메일 계정을 사용하여 휴대전화를 잠금해제해야 합니다.
 
  %d초 후에 다시 시도해 주세요."</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_reordering_delete_drop_target_text">삭제</string>
     <string name="safe_media_volume_warning">"권장 수준 이상으로 볼륨을 높이시겠습니까?
 
