@@ -1471,4 +1471,19 @@
     <string name="short_video_tip">재밌는 영상을 감상하세요!</string>
     <string name="suggestion_clear_record_message">아무것도 입력하지 않고 저장하시길 원하십니까?</string>
     <string name="title_notice_push">알림 알리기</string>
+    <string name="action_imme_open">바로 열기</string>
+    <string name="bubble_guide_logined_text">행운의 그림으로 로그인</string>
+    <string name="bubble_guide_unlogined_text">로그인하여 권한을 누리세요</string>
+    <string name="custom_head_pull_down_text">정보창을 입력하세요</string>
+    <string name="data_traffic_continue">계속하기</string>
+    <string name="data_traffic_goto">무료 데이터 트래픽</string>
+    <string name="data_traffic_prompt_free_data">모바일 데이터를 사용하여 비디오를 시청하시면 많은 요금이 부과될 수 있습니다. 무료 데이터 트래픽을 사용하세요.</string>
+    <string name="data_traffic_stop">멈추기</string>
+    <string name="network_not_available_comment">인터넷 연결 없음, 댓글 작성 불가</string>
+    <string name="screenshot_loading_dialog_title">캡쳐중</string>
+    <string name="suggest_access_item_topic_mark">토픽</string>
+    <string name="suggestion_more_button_text">더 보기</string>
+    <string name="suggestion_more_news">더 많은 뉴스</string>
+    <string name="suggestion_more_news_start_title_text">관련 뉴스</string>
+    <string name="suggestion_topic_subtitle_hyphen">포커스</string>
 </resources>
