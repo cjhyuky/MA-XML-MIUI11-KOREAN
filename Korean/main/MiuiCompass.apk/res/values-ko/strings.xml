@@ -57,4 +57,8 @@
     <string name="app_description_title">나침반 정보</string>
     <string name="app_description_content">나침반은 방향을 판별할 수 있는 기능입니다. 앱을 삭제하시면 이 기능을 사용할 수 없다는 사실을 아셔야 합니다.</string>
     <string name="unit_degree">도</string>
+    <string name="allow">허용</string>
+    <string name="cancel">취소</string>
+    <string name="open_perm_msg">나침반은 위치 정보와 카메라에 액세스해야합니다. 좌표를 결정하고 실시간 미리보기를 제공하는 데 필요합니다. 허용 하시겠습니까?</string>
+    <string name="open_perm_title">권한 요구됨</string>
 </resources>

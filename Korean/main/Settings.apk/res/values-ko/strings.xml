@@ -6383,4 +6383,10 @@ PIN 설정"</string>
     <string name="miui_lab_ai_preload_desc">AI 사전로딩은 앱 실행속도를 향상 시킵니다</string>
     <string name="miui_lab_ai_preload_title">AI 사전로딩</string>
     <string name="wifi_click_login_wlan">로그인/권한 요구됨</string>
+    <string name="cancel_description">취소</string>
+    <string name="confirm_description">확인</string>
+    <string name="fallback_home_title">잠시만 기다려주세요…</string>
+    <string name="key_fsg_dialog_message">"탐색에 전체 화면 제스처를 사용하고 있습니다. 버튼 관련 기능을 지금 사용할 수 없습니다. 버튼으로 전환 하시겠습니까?"</string>
+    <string name="key_fsg_dialog_negative">취소</string>
+    <string name="key_fsg_dialog_positive">버튼으로 전환</string>
 </resources>

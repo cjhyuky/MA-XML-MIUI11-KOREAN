@@ -2222,4 +2222,10 @@
     <string name="wifi_call_setting">와이파이 통화</string>
     <string name="wificall_switch_summary">신호가 약하면 와이파이에서 VoLTE로 전환될 수 있습니다</string>
     <string name="wificall_switch_title">와이파이를 이용한 통화</string>
+    <string name="cloud_sim_enabled_dual_4g_summary">"Mi로밍 중에는 듀얼 4G를 끌 수 없습니다"</string>
+    <string name="cloud_sim_enabled_preferred_network_summary">"Mi로밍 사용중에는 네트워크 설정을 바꿀 수 없습니다"</string>
+    <string name="data_plan">모바일 데이터 플랜</string>
+    <string name="dc_alert_dialog_message">몇몇 앱이 모바일 데이터 연결을 필요로 합니다. 어떤 %s 정책이 가능한지 통신사에 문의하세요.</string>
+    <string name="dc_alert_dialog_title">데이터 사용량 경고</string>
+    <string name="do_not_show_again">"다시 보지 않기"</string>
 </resources>
