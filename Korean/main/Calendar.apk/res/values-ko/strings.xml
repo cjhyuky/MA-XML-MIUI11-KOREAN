@@ -601,7 +601,4 @@
     <string name="miuishare_wechat_timeline_title">WeChat 순간들</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="share_title">공유</string>
-    <string name="prefDefault_alerts_vibrateWhen">항상 차단</string>
-    <string name="prefDefault_alerts_vibrate_false">항상 차단</string>
-    <string name="prefDefault_alerts_vibrate_true">항상 허용</string>
 </resources>
