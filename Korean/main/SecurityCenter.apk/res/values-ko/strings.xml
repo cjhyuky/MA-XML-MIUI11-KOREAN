@@ -2438,4 +2438,7 @@ SMS 전송"</string>
     <string name="midrop_post_notification_contentTitle">파일을 보내야 하나요?</string>
     <string name="screenrecord_not_find">최신 버전의 화면 녹화기를 설치하고 다시 시도하십시오.</string>
     <string name="app_manager_details_title">앱 </string>
+    <string name="gamebox_type_close">"다시 보지 않기"</string>
+    <string name="gamebox_type_float">바로가기 고정</string>
+    <string name="gamebox_type_gesture">보려면 스와이프하세요</string>
 </resources>
