@@ -1463,14 +1463,14 @@
     <string name="enter_infoflow_guide">새 소식을 보려면 위로 슬라이드하세요</string>
     <string name="hot_words_item_ads_mark">광고</string>
     <string name="info_flow_description">정보 채널</string>
-    <string name="message_notice_push">새로운 소식을 놓치지 마세요!</string>
+    <string name="message_notice_push">나의 개인정보 기능을 경험해보세요</string>
     <string name="pref_navscreen_layoutstate_title">멀티 윈도우 관리</string>
     <string name="refresh_description">새로고침</string>
     <string name="save_file_suffix">파일</string>
     <string name="short_video_description">영상 채널</string>
     <string name="short_video_tip">재밌는 영상을 감상하세요!</string>
     <string name="suggestion_clear_record_message">아무것도 입력하지 않고 저장하시길 원하십니까?</string>
-    <string name="title_notice_push">알림 알리기</string>
+    <string name="title_notice_push">푸시 알림 켜기</string>
     <string name="action_imme_open">바로 열기</string>
     <string name="bubble_guide_logined_text">행운의 그림으로 로그인</string>
     <string name="bubble_guide_unlogined_text">로그인하여 권한을 누리세요</string>
