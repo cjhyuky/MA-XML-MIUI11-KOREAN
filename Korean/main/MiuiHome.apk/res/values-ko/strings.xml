@@ -316,11 +316,11 @@
     <string name="launcher_title">홈 화면 &amp; 최근</string>
     <string name="lock_screen_cells_title">홈 화면 레이아웃 잠금</string>
     <string name="miui_screen_config_title">홈 화면 설정</string>
-    <string name="open_personal_assistant_dialog_btn_cancel">퀵카드 취소</string>
-    <string name="open_personal_assistant_dialog_btn_confirm">퀵카드 끄기</string>
-    <string name="open_personal_assistant_dialog_desc">퀵카드를 사용할 수 없게 되고 업데이트를 받을 수 없습니다. 지금 끄시겠습니까?</string>
-    <string name="open_personal_assistant_dialog_title">퀵카드 끄기</string>
-    <string name="open_personal_assistant_title">퀵카드 켜기</string>
+    <string name="open_personal_assistant_dialog_btn_cancel">퀵 카드 취소</string>
+    <string name="open_personal_assistant_dialog_btn_confirm">퀵 카드 끄기</string>
+    <string name="open_personal_assistant_dialog_desc">퀵 카드를 사용할 수 없게 되고 업데이트를 받을 수 없습니다. 지금 끄시겠습니까?</string>
+    <string name="open_personal_assistant_dialog_title">퀵 카드 끄기</string>
+    <string name="open_personal_assistant_title">퀵 카드</string>
     <string name="preferred_app_settings_not_selected">선택되지 않음</string>
     <string name="recents_config_title">최근</string>
     <string name="screen_cells_config_title">홈 화면 레이아웃</string>
@@ -341,4 +341,6 @@
     <string name="reset_title">재설정</string>
     <string name="reset_description_first_time">2시간 이내에는 %1$s 상태로 복원할 수 있습니다</string>
     <string name="reset_description_others">%1$s 상태로 복원할 수 있습니다</string>
+    <string name="default_folder_title_services">서비스</string>
+    <string name="open_personal_assistant_dialog_desc_international">"퀵 카드 기능(주식, 바로가기 등)을 사용할 수 없고, 이 기능을 끄면 정보를 업데이트 받을 수 없습니다."</string>
 </resources>
