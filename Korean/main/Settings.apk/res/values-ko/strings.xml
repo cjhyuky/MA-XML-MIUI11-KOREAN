@@ -6414,7 +6414,6 @@ PIN 설정"</string>
     <string name="notch_force_black_title">노치 숨기기</string>
     <string name="open_demo_mode">Turn on</string>
     <string name="open_demo_mode_warning_message">When Demo mode is on, the clock in the status bar will stop, battery and signal icons will be displayed as full. You can turn Demo mode off or reboot the device to change this.</string>
-    <string name="process_kernel_label">안드로이드 OS</string>
     <string name="proxy_url_title">"PAC 주소 : "</string>
     <string name="security_status">기기 보안 상태</string>
     <string name="security_update">보안 업데이트</string>
