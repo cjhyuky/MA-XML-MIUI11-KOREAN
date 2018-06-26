@@ -2441,4 +2441,5 @@ SMS 전송"</string>
     <string name="gamebox_type_close">"다시 보지 않기"</string>
     <string name="gamebox_type_float">바로가기 고정</string>
     <string name="gamebox_type_gesture">보려면 스와이프하세요</string>
+    <string name="notify_channel_name_security">시스템 </string>  
 </resources>
