@@ -3374,10 +3374,12 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="private_gallery_reset_by_account">비밀번호를 재설정하려면 Mi 계정에 로그인하십시오.</string>
     <string name="private_gallery_recording_intro_header">잠금 해제 패턴 그리기:</string>
     <string name="lockpassword_pin_fixed_length">핀은 %d자여야 합니다.</string>
+    <string name="lockpassword_choose_your_pin_title">4자-16자를 입력하세요</string>
     <string name="lockpassword_confirm_for_second_user">보조 공간 비밀번호 승인</string>
     <string name="lockpassword_choose_for_second_user">보조 공간 비밀번호 설정</string>
-    <string name="lockpassword_choose_your_password_second_space">"보조 공간을 위한
-비밀번호 설정"</string>
+    <string name="lockpassword_choose_your_password_second_space">"보조 공간을 위한 비밀번호 설정
+이 비밀번호는 첫번째공간의 비밀번호와
+같은 자릿수여야 합니다."</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"보조 공간을 위한
 PIN 설정"</string>
     <string name="cancel_alert">변경 사항을 버리시겠습니까?</string>
