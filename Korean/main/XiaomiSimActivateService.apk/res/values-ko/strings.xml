@@ -118,4 +118,11 @@
     <string name="activate_sms_postfix">이 SIM 카드가 Mi 서비스를 활성화하는데 사용됩니다.</string>
     <string name="privacy_revoke_failed_msg">약관 동의 안함，실행 불가</string>
     <string name="privacy_revoke_tips">동의하지 않을 경우, 문자 메세지 동기화 기능을 사용할 수 없습니다.</string>
+    <string name="activate_feature_voip">Mi 메세지 음성</string>
+    <string name="checking_client">클라이언트 환경 체크중</string>
+    <string name="error_checking_client">클라이언트 환경 에러</string>
+    <string name="error_network_io">네트워크 에러</string>
+    <string name="error_no_send_sms_permission">문자 전송 권한 없음</string>
+    <string name="error_sim_not_in_service">SIM 카드 서비스안됨</string>
+    <string name="waiting_sim_in_service">SIM카드 서비스 기다리는중</string>
 </resources>
