@@ -592,4 +592,5 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="usb_trans_old_phone_low_space_title">저장 공간이 부족합니다</string>
     <string name="usb_trans_select_data_no_space">"USB 저장소에서 %s 항목만 사용가능합니다.
 여유공간을 늘리거나 중요한 항목만 전송하세요."</string>
+    <string name="err_acquire_system_service">"시스템 서비스 시작 실패"</string> 
 </resources>
