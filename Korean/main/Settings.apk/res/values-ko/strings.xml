@@ -6434,4 +6434,5 @@ PIN 설정"</string>
     <string name="wapi_psk_type">암호 유형</string>
     <string name="wapi_yes">네</string>
     <string name="warm_color">따뜻함</string>
+    <string name="sim_management_title_singlesim">SIM카드 &amp; 모바일 네트워크</string>
 </resources>
