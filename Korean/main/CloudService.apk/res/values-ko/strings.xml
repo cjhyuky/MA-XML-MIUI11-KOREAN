@@ -604,4 +604,19 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="user_agreement_link">"Mi 클라우드 서비스 약관"</string>
     <string name="micloud_find_device_sms_alert">이 서비스를 활성화하려면 SMS 메시지를 이용합니다. SIM 카드를 전환하면 이 기능을 다시 활성화하기 위해 메시지가 자동으로 전송될 수 있습니다.</string>
     <string name="micloud_main_see_unsynced_data">동기화할 데이터를 선택하세요</string>
+    <string name="hybrid_check_network">네트워크 설정</string>
+    <string name="hybrid_data_error">오류 발생</string>
+    <string name="hybrid_network_access_denied">네트워크 접근 거부됨 </string>
+    <string name="hybrid_network_unavaliable">"네트워크에 연결하지 못했습니다."</string>
+    <string name="hybrid_service_unavailiable">서비스 이용 불가</string>
+    <string name="hybrid_try_again">다시 시도</string>
+    <string name="micloud_dspt_provision_xms">Mi 클라우드를 사용하여 데이터 동기화</string>
+    <string name="micloud_main_cancel_sync_now">취소 중…</string>
+    <string name="micloud_main_last_synced">마지막 동기화: </string>
+    <string name="micloud_main_simple_last_sync_time">마지막 동기화 시간： %s</string>
+    <string name="micloud_main_simple_off">동기화 해제</string>
+    <string name="micloud_main_simple_pending">보류 중</string>
+    <string name="micloud_main_simple_synced">동기화됨</string>
+    <string name="micloud_main_simple_syncing">동기화 중</string>
+    <string name="micloud_main_waiting_for_sync">동기화 대기 중...</string>
 </resources>

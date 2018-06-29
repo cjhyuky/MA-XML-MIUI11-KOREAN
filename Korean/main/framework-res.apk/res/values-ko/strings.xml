@@ -2060,4 +2060,10 @@
     <string name="wifi_available_title_connected">Wi-Fi에 연결됨</string>
     <string name="wifi_available_title_connecting">개방형 Wi-Fi에 연결</string>
     <string name="wifi_available_title_failed_to_connect">Wi-FI에 연결하지 못했습니다.</string>
+    <string name="status_bar_airplane">비행기 모드</string>
+    <string name="status_bar_ethernet">이더넷</string>
+    <string name="status_bar_mobile">모바일</string>
+    <string name="China_Mobile">차이나 모바일</string>
+    <string name="China_Telecom">차이나 텔레콤</string>
+    <string name="China_Unicom">차이나 유니콤</string>
 </resources>

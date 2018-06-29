@@ -814,4 +814,6 @@
     <string name="search_statistic_keyword">키워드</string>
     <string name="search_statistic_tag">태그</string>
     <string name="transition_image">전환 이미지</string>
+    <string name="otg_file_security_confirm">휴대폰에 복사</string>
+    <string name="otg_file_security_details">휴대폰에 복사해주세요</string>
 </resources>

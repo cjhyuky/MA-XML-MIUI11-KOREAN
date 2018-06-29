@@ -1345,4 +1345,6 @@
     <string name="contact_detail_entry_pay_request">금전 요구</string>
     <string name="no_setting_menu">사용 가능한 메뉴 옵션 없음</string>
     <string name="preference_show_firewall_calllog">통화기록에서 차단된 통화 표시</string>
+    <string name="toast_call_no_SoundRecorder">녹음기 앱을 사용할 수 없음</string>
+    <string name="toast_call_no_notes">메모 앱을 사용할 수 없음</string>
 </resources>

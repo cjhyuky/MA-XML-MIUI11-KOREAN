@@ -593,4 +593,10 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="usb_trans_select_data_no_space">"USB 저장소에서 %s 항목만 사용가능합니다.
 여유공간을 늘리거나 중요한 항목만 전송하세요."</string>
     <string name="err_acquire_system_service">"시스템 서비스 시작 실패"</string> 
+    <string name="trans_button_exit">종료</string>
+    <string name="trans_button_stay">대기</string>
+    <string name="trans_cancel_selection_message">Mi Mover를 종료하면 진행 중인 전송이 중단됩니다. 전송이 완료될 때까지 기다려주세요.</string>
+    <string name="trans_cancel_selection_title">Mi Mover 대기</string>
+    <string name="trans_select_notification_message">탭하여 보기</string>
+    <string name="trans_select_notification_title">Mi Mover가 동작중입니다.</string>
 </resources>

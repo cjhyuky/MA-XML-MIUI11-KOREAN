@@ -213,4 +213,6 @@
     <string name="open_keep_screen">화면 항상 켜기</string>
     <string name="shut_down_keep_screen">"화면 항상 켜기 끄기"</string>
     <string name="dialog_message_not_remind">"다시 보지 않기"</string>
+    <string name="add_clock">시간 추가</string>
+    <string name="content_desc_keep_screen">\"화면 켜짐 유지\" 버튼</string>
 </resources>
