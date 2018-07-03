@@ -176,4 +176,10 @@
     <string name="wifi_assistant_wifi_no_internet">이 무선 네트워크는 인터넷에 접속할 수 없습니다</string>
     <string name="wifi_assistant_wifi_no_internet_detail">탭하여 세부 정보보기</string>
     <string name="resolver_app_recommend_flag">추천</string>
+    <string name="status_bar_toggle_drive_mode">저장소 모드</string>
+    <string name="voice_begin">무엇을 찾고 계십니까?</string>
+    <string name="voice_button_action_down">놓아서 검색</string>
+    <string name="voice_button_action_up">눌러서 말하기</string>
+    <string name="voice_input_error_network">"인터넷에 접속할 수 없습니다. 인터넷 설정을 확인하고 다시 시도해주세요."</string>
+    <string name="voice_input_error_other">오류 발생. 2분 정도 기다린 후 다시 시도하십시오.</string>
 </resources>

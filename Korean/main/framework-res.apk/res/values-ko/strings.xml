@@ -2066,4 +2066,6 @@
     <string name="China_Mobile">차이나 모바일</string>
     <string name="China_Telecom">차이나 텔레콤</string>
     <string name="China_Unicom">차이나 유니콤</string>
+    <string name="db_default_sync_mode">가득참</string>
+	<string name="db_wal_sync_mode">가득참</string>
 </resources>

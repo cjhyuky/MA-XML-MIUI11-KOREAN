@@ -548,4 +548,11 @@
     <string name="tips_low_storage_dialog_ok">정리</string>
     <string name="tips_low_storage_dialog_ok_storage">사용 가능한 저장소 용량</string>
     <string name="tips_low_storage_dialog_title">저장소 용량이 부족합니다.</string>
+    <string name="close_debug_mode">디버그 스위치를 끄려면 %1$d를 누르세요</string>
+    <string name="junk_tag_RF_EmptyFolders">비어 있는 폴더</string>
+    <string name="junk_tag_RF_ImageThumbnails">갤러리 썸네일</string>
+    <string name="open_debug_mode">디버그 스위치를 실행하려면 %1$d를 누르세요</string>
+    <string name="pref_about_version_summary">버전 %s</string>
+    <string name="pref_title_about">정보</string>
+    <string name="pref_title_about_server_environment">네트워크 환경</string>
 </resources>
