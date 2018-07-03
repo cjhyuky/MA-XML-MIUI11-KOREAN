@@ -28,4 +28,20 @@
     <string name="refocus_tip">사진을 탭하여 초점 잡기</string>
     <string name="save_dialog_message">변경 사항을 저장하시겠습니까?</string>
     <string name="saving_image_to_album">%1$s에 사진 저장중…</string>
+    <string name="refocus_discard_confirm_message">변경 사항을 저장하시겠습니까?</string>
+    <string name="refocus_discard_negative_btn">취소</string>
+    <string name="refocus_discard_positive_btn">저장</string>
+    <string name="refocus_photo_not_support">"이 사진에 흐림 효과를 줄 수 없습니다."</string>
+    <string name="refocus_save_cancel">취소</string>
+    <string name="refocus_save_title">포맷 선택</string>
+    <string name="refocus_save_to_photo">사진으로 저장</string>
+    <string name="refocus_save_to_video">영상으로 저장</string>
+    <string name="refocus_saving">저장 중…</string>
+    <string name="refocus_title">흐림 효과</string>
+    <string name="refocus_type_relighting">3차원 조명</string>
+    <string name="refocus_type_relighting_no_face">"얼굴을 인식할 수 없습니다."</string>
+    <string name="refocus_type_relighting_small_face">3D조명은 얼굴이 이 사진보다 더 많은 공간을 차지하는 사진에서 작동합니다.</string>
+    <string name="refocus_type_static">흐림 강도</string>
+    <string name="refocus_type_video">가벼운 효과</string>
+    <string name="refocus_relighting_toast">원을 이동하여 조명 각도 조정</string>
 </resources>

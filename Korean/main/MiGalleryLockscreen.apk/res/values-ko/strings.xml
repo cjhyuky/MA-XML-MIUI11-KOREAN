@@ -136,6 +136,7 @@
     <string name="idbct_opt_auto_select_desc_text">Wi-Fi를 이용하여 모바일 데이터 및 HD이미지를 다운로드</string>
     <string name="idbct_opt_auto_select_main_text">자동</string>
     <string name="idbct_opt_high_def_desc_text">항상 고화질 사진 다운로드</string>
+    <string name="idbct_opt_high_def_main_text">고화질</string>
     <string name="idbct_title">네트워크 유형</string>
     <string name="load_hdpicture_complete">로드된 원본 이미지</string>
     <string name="lock_screen_date">M월 d일 EEEE</string>
@@ -282,7 +283,6 @@
     <string name="passport_registered_phone_user_ID">사용자 ID: %s</string>
     <string name="passport_registered_phone_user_name">사용자 이름: %s</string>
     <string name="passport_reject_recycle_account">아니요</string>
-    <string name="passport_reject_recycle_account">없음</string>
     <string name="passport_relogin">다시 로그인하세요.</string>
     <string name="passport_remove_confirm">로그아웃</string>
     <string name="passport_remove_unactivated_account_notice">"계정이 인증되지 않았습니다."</string>

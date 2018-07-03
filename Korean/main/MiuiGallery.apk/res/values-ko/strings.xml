@@ -1301,4 +1301,9 @@
     <string name="unchecked_something">%s 선택해제됨</string>
     <string name="video_with_time">%s 영상 촬영됨</string>
     <string name="video_with_time_and_location">%1$s 영상 촬영됨. 촬영위치: %2$s.</string>
+    <string name="debugging_info">디버그 정보가 성공적으로 생성되었습니다. 확인을 눌러 폴더를 엽니다.</string>
+    <string name="feature_guidance_video_editor_smart_effects">새로운 효과 사용 가능</string>
+    <string name="picker_origin_request_progress_message">원본 파일 준비중... (%1$d/%2$d)…</string>
+    <string name="search_request_requesting">적용되었습니다. 잠시만 기다려주세요.</string>
+    <string name="secret_reason_video_not_support">"숨겨진 앨범에 비디오를 추가할 수 없습니다."</string>
 </resources>

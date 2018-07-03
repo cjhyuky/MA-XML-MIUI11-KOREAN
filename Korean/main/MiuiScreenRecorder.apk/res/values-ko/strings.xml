@@ -81,4 +81,8 @@
     <string name="storage_location">저장소</string>
     <string name="storage_location_summary">선호하는 저장 용량을 선택하십시오.</string>
     <string name="unchecked">선택되지 않음</string>
+    <string name="first_using_mic_dialog_message">화면 레코더에서 오디오를 녹음하려면 마이크에 액세스 해야 합니다. 허용하시겠습니까?</string>
+    <string name="first_using_mic_dialog_title">권한 요구됨</string>
+    <string name="using_record_confirm_cancel">제한</string>
+    <string name="using_record_confirm_ok">허용</string>
 </resources>
