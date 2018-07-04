@@ -64,6 +64,7 @@
     <string name="chord">코드음</string>
     <string name="clank"></string>
     <string name="country">컨츄리</string>
+    <string name="cowboy">카우보이</string>
     <string name="crystal">크리스탈</string>
     <string name="cuckooclock">부엉이 시계</string>
     <string name="echo">에코</string>
@@ -79,6 +80,7 @@
     <string name="future">퓨처</string>
     <string name="guitar">기타</string>
     <string name="harp">하프</string>
+    <string name="icelatte">아이스 라떼</string> 
     <string name="incomingmessage">새로운 메세지</string>
     <string name="leisure">레져</string>
     <string name="messagesent">메세지 전송됨</string>

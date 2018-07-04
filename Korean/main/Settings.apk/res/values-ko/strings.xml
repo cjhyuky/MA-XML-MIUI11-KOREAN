@@ -21,8 +21,9 @@
     <string name="status_bar_settings_notification_priority_summary">목록 상단에 알림 표시</string>
     <string name="status_bar_settings_show_home_message">앱 아이콘 배지</string>
     <string name="status_bar_settings_show_floating_notification">플로팅 알람</string>
-    <string name="status_bar_settings_show_floating_notification_summary">플로팅 알람은 화면 상단에 나타났다가 자동으로 사라짐</string>
+    <string name="status_bar_settings_show_floating_notification_summary">화면 상단에 중요한 알림 표시를 허용합니다</string>
     <string name="status_bar_settings_show_keyguard_notification">잠금화면 알림</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">잠금화면에 중요한 알림 표시를 허용합니다</string> 
     <string name="status_bar_settings_notification_sound">소리</string>
     <string name="status_bar_settings_notification_vibrate">진동</string>
     <string name="status_bar_settings_notification_led">알림 표시등</string>
@@ -3299,7 +3300,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="screen_color_and_optimize">색상 &amp; 대비</string>
     <string name="screen_color_and_optimize_disabled">시력보호 모드에서는 색온도를 조정할 수 없습니다.</string>
     <string name="screen_paper_mode_title">시력보호 모드</string>
-    <string name="screen_paper_mode_summary">화면의 블루라이트 방출 감소</string>
+    <string name="screen_paper_mode_summary">시력보호 모드는 디스플레이를 따뜻한 색감으로 바꾸어 여러분의 눈을 좀 더 편안하게 만들어줍니다.</string>
     <string name="screen_paper_mode_time_title">예약</string>
     <string name="screen_paper_mode_time_summary">예약 시간 시력보호 모드 시작/종료</string>
     <string name="paper_mode_auto_twilight_title">일출일몰 모드</string>

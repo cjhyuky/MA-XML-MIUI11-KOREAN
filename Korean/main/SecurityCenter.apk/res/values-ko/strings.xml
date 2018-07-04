@@ -2441,5 +2441,11 @@ SMS 전송"</string>
     <string name="gamebox_type_close">"다시 보지 않기"</string>
     <string name="gamebox_type_float">바로가기 고정</string>
     <string name="gamebox_type_gesture">보려면 스와이프하세요</string>
-    <string name="notify_channel_name_security">시스템 </string>  
+    <string name="notify_channel_name_security">시스템</string>
+    <string name="fod_authentication_shift_button">취소</string>
+    <string name="fod_button_finger">지문인식 사용</string>
+    <string name="fod_button_password">비밀번호 입력</string>
+    <string name="fod_finger_notice_title">화면에 손가락을 올려놓으세요</string>
+    <string name="fod_finger_windows_tips">귀하의 지문을 인식합니다</string>
+    <string name="fod_tips_split_screen_more_than_half">비밀번호 입력</string> 
 </resources>
