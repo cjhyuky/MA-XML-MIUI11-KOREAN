@@ -6438,4 +6438,6 @@ PIN 설정"</string>
     <string name="wapi_yes">네</string>
     <string name="warm_color">따뜻함</string>
     <string name="sim_management_title_singlesim">SIM카드 &amp; 모바일 네트워크</string>
+    <string name="flash_drive_backup_restore">USB를 사용하여 백업 또는 복원</string>
+    <string name="flash_drive_backup_restore_summary">USB드라이브에 연결</string>
 </resources>
