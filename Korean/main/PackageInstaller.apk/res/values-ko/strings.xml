@@ -703,4 +703,6 @@
     <string name="user_is_not_allowed_dlg_title">허용되지 않음</string>
     <string name="wear_app_channel">사용하지 않는 앱 설치/삭제중</string>
     <string name="wifi_disabled_by_recommendation_provider">네트워크 신호가 약해 연결되지 않았습니다.</string>
+    <string name="lb_control_display_fast_forward_multiplier">%1$d배속</string>
+    <string name="lb_control_display_rewind_multiplier">%1$d배속</string>
 </resources>

@@ -113,4 +113,8 @@
     <string name="notice_audition">자연의 소리</string>
     <string name="spaceage">우주 시대</string>
     <string name="vigor">비고르</string>
+    <string name="group_name_contacts">연락처</string>
+    <string name="group_name_coworkers">동료</string>
+    <string name="group_name_family">가족</string>
+    <string name="group_name_friends">친구</string>
 </resources>

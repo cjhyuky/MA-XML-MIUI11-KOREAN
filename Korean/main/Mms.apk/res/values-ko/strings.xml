@@ -691,4 +691,8 @@
     <string name="notification_copy">OTP 복사</string>
     <string name="toast_pending_hangup_msg">통화가 종료된 후 메세지가 전송될 것입니다</string>
     <string name="url_scan_again">다시 확인하세요</string>
+    <string name="add_contact">연락처</string>
+    <string name="prefDefault_vibrateWhen">사용 안함</string>
+    <string name="prefDefault_vibrate_false">사용 안함</string>
+    <string name="prefDefault_vibrate_true">항상</string>
 </resources>
