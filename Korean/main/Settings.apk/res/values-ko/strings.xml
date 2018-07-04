@@ -3299,7 +3299,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="screen_color_and_optimize">색상 &amp; 대비</string>
     <string name="screen_color_and_optimize_disabled">시력보호 모드에서는 색온도를 조정할 수 없습니다.</string>
     <string name="screen_paper_mode_title">시력보호 모드</string>
-    <string name="screen_paper_mode_summary">화면의 블루라이트 방출 감소</string>
+    <string name="screen_paper_mode_summary">시력보호 모드는 디스플레이를 따뜻한 색감으로 바꾸어 여러분의 눈을 좀 더 편안하게 만들어줍니다.</string>
     <string name="screen_paper_mode_time_title">예약</string>
     <string name="screen_paper_mode_time_summary">예약 시간 시력보호 모드 시작/종료</string>
     <string name="paper_mode_auto_twilight_title">일출일몰 모드</string>
