@@ -21,7 +21,7 @@
     <string name="status_bar_settings_notification_priority_summary">목록 상단에 알림 표시</string>
     <string name="status_bar_settings_show_home_message">앱 아이콘 배지</string>
     <string name="status_bar_settings_show_floating_notification">플로팅 알람</string>
-    <string name="status_bar_settings_show_floating_notification_summary">플로팅 알람은 화면 상단에 나타났다가 자동으로 사라짐</string>
+    <string name="status_bar_settings_show_floating_notification_summary">화면 상단에 중요한 알림 표시를 허용합니다</string>
     <string name="status_bar_settings_show_keyguard_notification">잠금화면 알림</string>
     <string name="status_bar_settings_show_keyguard_notification_summary">잠금화면에 중요한 알림 표시를 허용합니다</string> 
     <string name="status_bar_settings_notification_sound">소리</string>
