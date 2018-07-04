@@ -485,7 +485,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">귀하의 Alipay 데이터는 기기 분실시에도 안전하게 보호될 것입니다.</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ는 기기 찾기 활성화를 권장합니다.</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">귀하의 QQ 데이터는 기기 분실시에도 안전하게 보호될 것입니다.</string>
-    <string name="micloud_find_device_guide_alert_title">Mi 계정 ID 및 비밀번호를 기억하십시오.</string>
+    <string name="micloud_find_device_guide_alert_title">Mi 계정의 비밀번호를 기억하십시오.</string>
     <string name="micloud_find_device_guide_alert_content">기기 찾기는 Mi 계정과 연관되어 있습니다. 비밀번호를 설정하시거나 이미 설정하신 비밀번호를 입력이 필요하므로 Mi 계정 ID 및 비밀번호를 항상 잊어버리지 않도록 유념하십시오.</string>
     <string name="micloud_find_device_guide_alert_positive">확인</string>
     <string name="micloud_find_device_guide_alert_negtive">사양하겠습니다</string>
