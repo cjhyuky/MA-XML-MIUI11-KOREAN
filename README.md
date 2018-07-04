@@ -18,4 +18,4 @@ If you have any requests, then email me with screenshot cjhyuky@gmail.com
 요청사항이 있으시면 cjhyuky@gmail.com이나 카카오톡 오픈채팅방에 스크린샷과 함께 제보주세요~^^
     
 # XMLs parse check
-http://translators.xiaomi.eu/XML_MIUI9-Korean-ko.html    
+https://translators.xiaomi.eu/XML_MIUI10-Korean-ko.html    
