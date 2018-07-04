@@ -2255,7 +2255,6 @@
     <string name="abc_searchview_description_submit">검색</string>
     <string name="abc_searchview_description_voice">음성 검색</string>
     <string name="abc_shareactionprovider_share_with">공유하기</string>
-    <string name="abc_shareactionprovider_share_with">공유하세요</string>
     <string name="abc_shareactionprovider_share_with_application">%s님과 공유하기</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="accessibility_wifi_security_type_none">공개 네트워크</string>
