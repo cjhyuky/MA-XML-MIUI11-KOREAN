@@ -232,4 +232,8 @@
     <string name="actionbar_home_description">뒤로</string>
     <string name="menu_more_description">세부사항</string>
     <string name="toast_refuse_to_record_when_in_multi_window">"분할화면에서는 이 기능을 사용할 수 없습니다"</string>
+    <string name="date_time_picker_alarm_reminder">알람</string>
+    <string name="date_time_picker_dialog_title">날짜와 시간 설정</string>
+    <string name="date_time_picker_has_not_set_alarm">"알람이 설정되지 않았습니다"</string>
+    <string name="date_time_picker_has_set_alarm">알람 설정 완료</string>
 </resources>
