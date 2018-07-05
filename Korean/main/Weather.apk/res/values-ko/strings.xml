@@ -292,4 +292,10 @@
     <string name="daily_forecast_add_city_add">도시 추가</string>
     <string name="daily_forecast_add_city_message">더 자세한 %1$s 의 날씨를 지속적으로 확인합니다.</string>
     <string name="daily_forecast_add_city_title">%1$s 의 날씨 추가</string>
+    <string name="dislike_alert_dialog_title">왜 이 컨텐츠를 보는것을 원하지 않습니까?</string>
+    <string name="hourly_forecast_title_24_hours_desc">24시간 일기예보</string>
+    <string name="hourly_forecast_title_hourly_desc">매 시간 일기예보</string>
+    <string name="privacy_policy">개인 정보 보호 정책</string>
+    <string name="thanku_for_feedback">피드백 감사합니다. 설정 페이지에서 날씨 비디오를 다시 열 수 있습니다.</string>
+    <string name="user_agreement">사용약관</string>
 </resources>

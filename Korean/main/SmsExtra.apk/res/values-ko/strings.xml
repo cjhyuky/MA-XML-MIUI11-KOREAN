@@ -41,4 +41,6 @@
     <string name="smart_messages_network_allow_title">네트워크 연결 필수</string>
     <string name="text_message">문자 메세지</string>
     <string name="view_message_details">자세히 보기</string>
+    <string name="button_close">닫기</string>
+    <string name="imageview_ad">광고</string>
 </resources>
