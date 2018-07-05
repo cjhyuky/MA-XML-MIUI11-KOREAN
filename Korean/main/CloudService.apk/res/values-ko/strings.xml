@@ -621,6 +621,6 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_main_waiting_for_sync">동기화 대기 중...</string>
     <string name="member_menu_vipname_free">무료</string>
     <string name="member_menu_vipname_mega">메가</string>
-    <string name="member_menu_vipname_premium">프미엄</string>
+    <string name="member_menu_vipname_premium">프리미엄</string>
     <string name="member_menu_vipname_ultra">울트라</string>  
 </resources>
