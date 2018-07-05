@@ -1205,9 +1205,9 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="exo_track_surround_5_point_1">5.1 채널 서라운드 사운드</string>
     <string name="exo_track_surround_7_point_1">7.1 채널 서라운드 사운드</string>
     <string name="exo_track_unknown">알 수 없음</string>
-    <string name="headset_and_audio_effect_category">헤드폰 & 오디오 효과</string>
-    <string name="headset_and_audio_effect_summary">헤드폰 & 이퀄라이저  </string>
-    <string name="headset_and_audio_effect_title">헤드폰 & 오디오 효과</string>
+    <string name="headset_and_audio_effect_category">헤드폰 &amp; 오디오 효과</string>
+    <string name="headset_and_audio_effect_summary">헤드폰 &amp; 이퀄라이저  </string>
+    <string name="headset_and_audio_effect_title">헤드폰 &amp; 오디오 효과</string>
     <string name="is_latest_version">최신 음악입니다.</string>
     <string name="play_video_with_traffic">계속</string>
     <string name="play_video_with_traffic_toast">"모바일 데이터를 사용하고 있습니다."</string>
