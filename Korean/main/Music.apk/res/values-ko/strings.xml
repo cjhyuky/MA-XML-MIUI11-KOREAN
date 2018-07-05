@@ -1148,7 +1148,6 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="err_offline_on_playback">죄송합니다. 이 미디어를 재생하려면 온라인 상태여야 합니다.</string>
     <string name="facebook_not_installed">Facebook을 먼저 설치해주세요.</string>
     <string name="id_namespace">헝가마</string>
-    <string name="location_fetching_on">허가</string>
     <string name="long_press_to_select_lyric">로컬 가사 파일을 선택하려면 누르세요</string>
     <string name="message_timestamp">MM월 dd일</string>
     <string name="message_ws_response_error">요청 또는 서버 응답을 처리하는 데 문제가 있습니다.</string>

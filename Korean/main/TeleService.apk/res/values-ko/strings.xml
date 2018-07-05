@@ -2228,13 +2228,8 @@
     <string name="dc_alert_dialog_message">몇몇 앱이 모바일 데이터 연결을 필요로 합니다. 어떤 %s 정책이 가능한지 통신사에 문의하세요.</string>
     <string name="dc_alert_dialog_title">데이터 사용량 경고</string>
     <string name="do_not_show_again">"다시 보지 않기"</string>
-    <string name="advanced_settings_container">고급 설정 컨테이너</string>
     <string name="enable_dual_4g_if_dual_ct">2개의 차이나 텔레콤 SIM카드가 장착이 되어있는 경우, 2번째 SIM 카드로 VoLTE를 사용하기 위해서 4G 네트워크를 선호합니다.</string>
     <string name="enable_vice_volte_if_dual_ct">2개의 차이나 텔레콤 SIM카드가 장착이 되어있는 경우, 2번째 SIM 카드의 VoLTE가 켜집니다.</string>
-    <string name="password">비밀번호</string>
-    <string name="port">포트</string>
-    <string name="transport">프로토콜</string>
-    <string name="username">사용자명</string>
 
     <string name="PERSOSUBSTATE_SIM_IMPI_ENTRY">IMPI 해제 코드</string>
     <string name="PERSOSUBSTATE_SIM_IMPI_ERROR">IMPI 해제가 실패하였습니다.</string>
@@ -2319,5 +2314,4 @@
     <string name="strPasswordLengthIncorrect">4-16자리 숫자</string>
     <string name="unlock_chances_left">남은 횟수:</string>
     <string name="preferred_wificall_title">네트워크 환경 설정</string>
-    <string name="voicemail_notification_vibrate_when_default">사용 안함</string>
 </resources>
