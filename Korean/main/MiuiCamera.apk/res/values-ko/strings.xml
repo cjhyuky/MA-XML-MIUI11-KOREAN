@@ -859,4 +859,8 @@
     <string name="lens_dirty_detected_title_front">전면 카메라 오염</string>
     <string name="back_bokeh_use_hint">"사물이 1.5미터 보다 더 멀리있지 않은지 확인하세요."</string>
     <string name="pref_video_quality_summary">4K 비디오는 120FPS 모드를 사용할 수 없습니다</string>
+    <string name="portrait_bokeh_text">세로 모드</string>
+    <string name="portrait_bokeh_first_tips">"세로모드를 사용하여 사진의
+배경을 흐리게 만들어보세요"</string>
+    <string name="portrait_bokeh_tips">피사체를 1.5미터 이내에 두세요</string>
 </resources>
