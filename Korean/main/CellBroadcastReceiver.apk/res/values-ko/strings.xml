@@ -173,5 +173,13 @@
     <string name="cmas_required_monthly_test_english">월 정기 테스트 알림</string>
     <string name="pws_cmas_presidential_level_alert_english">대통령령 경보</string>
     <string name="pws_other_message_identifiers_english">긴급 경보</string>
+    <string name="tw_alert_message_level_language_summary">경고 메세지 (영문)</string>
+    <string name="tw_alert_message_level_summary">경고 메세지 (중문)</string>
+    <string name="tw_emergency_alert_level_language_summary">긴급 경보 (영문)</string>
+    <string name="tw_emergency_alert_level_summary">긴급 경보 (중문)</string>
+    <string name="tw_presidential_level_language_summary">대통령령 경보 (영문)</string>
+    <string name="tw_presidential_level_summary">대통령령 경보 (중문)</string>
+    <string name="tw_required_monthly_test_level_language_summary">월정기 테스트 (영문)</string>
+    <string name="tw_required_monthly_test_level_summary">월정기 테스트 (중문)</string>
 </resources>
 
