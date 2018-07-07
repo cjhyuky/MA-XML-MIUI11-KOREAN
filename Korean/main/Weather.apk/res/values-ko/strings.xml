@@ -249,6 +249,7 @@
     <string name="xiaomi_weather_description_content">날씨 기능으로 정확한 날씨 정보를 제공받으실 수 있습니다. 앱을 삭제하시면 상태표시줄, 홈 화면 날씨 위젯이 정상적으로 작동하지 않습니다. 앱 삭제 전에 이러한 점을 유의하십시오.</string>
     <string name="search_weather">날씨</string>
     <string name="search_weather_keywords">온도;일기 예보;날씨;공기질;공기 오염도;습도</string>
+
     <string name="updated_a_moment_ago">방금 업데이트됨</string>
     <string name="updating">업데이트중...</string>
     <string name="no_data">정보 없음</string>
@@ -298,4 +299,6 @@
     <string name="privacy_policy">개인 정보 보호 정책</string>
     <string name="thanku_for_feedback">피드백 감사합니다. 설정 페이지에서 날씨 비디오를 다시 열 수 있습니다.</string>
     <string name="user_agreement">사용약관</string>
+    <string name="aqi_settings_summary">AQI </string>
+    <string name="aqi_settings_title">AQI</string>
 </resources>
