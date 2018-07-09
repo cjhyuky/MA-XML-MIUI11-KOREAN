@@ -1788,4 +1788,11 @@
     <string name="miui_toast_zen_standard_to_off_when_shield_media">벨소리와 알림 및 미디어 소리가 재생됩니다.</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">알림 및 미디어 소리뿐만 아니라 전화도 음소거됩니다.</string>
     <string name="lockscreen_storage_locked">모든 기능 사용을 위해 잠금 해제</string>
+    <string name="wireless_change_to_ac_charging">유선 충전으로 전환됨</string>
+    <string name="wireless_charge_current">무선 충전중</string>
+    <string name="wireless_charge_dialog_cancel">알겠음</string>
+    <string name="wireless_charge_dialog_title">충전 스팟 한 가운데에 기기를 올려놓으세요</string>
+    <string name="wireless_charge_reset_device">충전이 느립니다. 기기를 다시 설정하세요.</string>
+    <string name="wireless_charge_reset_device_detail">기기를 충전 스팟에 제대로 놓았는지 위치를 확인해주세요</string>
+    <string name="wireless_charge_stop">무선 충전 중단됨</string>  
 </resources>
