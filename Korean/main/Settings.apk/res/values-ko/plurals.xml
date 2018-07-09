@@ -253,4 +253,7 @@
     <plurals name="firewall_item_summary">
         <item quantity="other">%s개 앱이 네트워크 제한됨</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">공장 초기화 %1$d 단계 완료</item>
+    </plurals>
 </resources>
