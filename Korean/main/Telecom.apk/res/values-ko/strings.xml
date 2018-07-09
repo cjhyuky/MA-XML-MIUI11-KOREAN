@@ -32,7 +32,7 @@
     <string name="incall_error_call_failed">전화를 걸지 못했습니다.</string>
     <string name="notification_missedCall_call_back_miui">전화걸기</string>
     <string name="notification_AllMissedCallTitle">모든 부재중 전화</string>
-    <string name="close">닫기</string>
+    <string name="close">끄기</string>
     <string name="callFailed_simError">SIM 카드 오류</string>
     <string name="incall_error_supp_service_unknown">이 서비스는 지원되지 않습니다.</string>
     <string name="incall_error_power_off">비행기 탑승 모드를 끄시고 전화를 거십시오.</string>
