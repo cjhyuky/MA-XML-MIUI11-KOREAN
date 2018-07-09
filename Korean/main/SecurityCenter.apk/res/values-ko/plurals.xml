@@ -241,5 +241,17 @@
     </plurals>
     <plurals name="power_center_battery_volume">
         <item quantity="other">%dmAh</item>
-    </plurals>    
+    </plurals>
+    <plurals name="menu_text_antivirus_2">
+        <item quantity="other">%d개 항목</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_3">
+        <item quantity="other">%d일</item>
+    </plurals>
+    <plurals name="menu_text_antispam_2">
+        <item quantity="other">%d개 항목</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_2">
+        <item quantity="other">%d개 앱</item>
+    </plurals>
 </resources>
