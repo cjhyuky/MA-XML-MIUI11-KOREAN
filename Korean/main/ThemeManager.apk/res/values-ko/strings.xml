@@ -4,7 +4,6 @@
     <string name="resource_delete">삭제</string>
     <string name="resource_price_free">무료</string>
     <string name="resource_price_unit"> Mi 크레딧</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_not_mounted_dialog_title">SD 카드 발견되지 않음</string>
     <string name="sdcard_not_mounted_dialog_message">"지금 SD 카드를 삽입하십시오."</string>
     <string name="resource_mute">없음</string>
@@ -433,7 +432,6 @@
     <string name="card_data_request_error">데이터 요청 오류. 나중에 다시 시도하십시오</string>
     <string name="card_retry">재시도</string>
     <string name="in_the_end">더 없음</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_color_ring">컬러링</string>
     <string name="item_resource_audio_optional_phone_ring">전화 벨소리</string>
     <string name="item_resource_audio_optional_alarm_ring">알람</string>
@@ -467,7 +465,6 @@
     <string name="present_official_themes">에디터 추천</string>
     <string name="region_not_support">" 해당 지역에서 테마가 지원되지 않습니다."</string>
     <string name="resource_comment_date">%1$02d-%2$02d</string>
-    <string name="resource_detail_vertical_divider">|</string>
     <string name="online_precust_cartoon">만화</string>
     <string name="online_precust_entertainment">엔터테인먼트</string>
     <string name="online_precust_starry_sky">푸른 하늘</string>

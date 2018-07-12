@@ -1263,9 +1263,7 @@ SMS 전송"</string>
     <string name="menu_text_antispam">차단 목록</string>
     <string name="menu_text_license_manager">권한</string>
     <string name="menu_text_garbage_cleanup">클리너</string>
-    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">배터리 사용량</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_text_power_percent_title_default">배터리</string>
     <string name="last_check_canceled">이전 스캔 취소됨</string>
     <string name="examination_score_100">모두 좋아 보입니다!</string>
