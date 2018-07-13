@@ -555,4 +555,26 @@
     <string name="pref_about_version_summary">버전 %s</string>
     <string name="pref_title_about">정보</string>
     <string name="pref_title_about_server_environment">네트워크 환경</string>
+    <string name="whatsapp_btn_quick_cleanup">%s개 청소</string>
+    <string name="whatsapp_clean_exit_confirm_cancel">취소</string>
+    <string name="whatsapp_clean_exit_confirm_msg">스캔 중지</string>
+    <string name="whatsapp_clean_exit_confirm_ok">확인</string>
+    <string name="whatsapp_clean_exit_confirm_title">WhatsApp 정리 중지</string>
+    <string name="whatsapp_content_empty">정리할 파일이 없습니다.</string>
+    <string name="whatsapp_delete_confirm_message">삭제하시겠습니까?</string>
+    <string name="whatsapp_delete_done">모든 작업이 끝났습니다!</string>
+    <string name="whatsapp_file_show_order">오늘</string>
+    <string name="whatsapp_function_summery">WhatsApp 쓰레기 파일 정리</string>
+    <string name="whatsapp_function_title">Whatsapp 파일 정리</string>
+    <string name="whatsapp_group_audio">오디오</string>
+    <string name="whatsapp_group_document">문서</string>
+    <string name="whatsapp_group_image">이미지</string>
+    <string name="whatsapp_group_video">동영상</string>
+    <string name="whatsapp_group_voice">음성</string>
+    <string name="whatsapp_group_wallpaper">배경화면</string>
+    <string name="whatsapp_title">Whatsapp 파일 정리</string>
+    <string name="whatsapp_type_document_recv">받은 파일들</string>
+    <string name="whatsapp_type_document_send">보낸 파일들</string>
+    <string name="whatsapp_type_image_recv">받은 이미지들</string>
+    <string name="whatsapp_type_image_send">보낸 이미지들</string>
 </resources>

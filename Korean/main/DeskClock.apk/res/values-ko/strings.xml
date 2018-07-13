@@ -215,4 +215,5 @@
     <string name="dialog_message_not_remind">"다시 보지 않기"</string>
     <string name="add_clock">시간 추가</string>
     <string name="content_desc_keep_screen">\"화면 켜짐 유지\" 버튼</string>
+    <string name="timer_cancel_hint">멈추기</string>
 </resources>
