@@ -6148,7 +6148,7 @@ PIN 설정"</string>
     <string name="privacy_authorize_revoke_failed">"인증 취소 실패"</string>
     <string name="privacy_authorize_revoke_success">인증을 취소했습니다</string>
     <string name="privacy_authorize_revoke_time">취소(%1$ds)</string>
-    <string name="privacy_authorize_revoke_title">권한 및 취소</string>
+    <string name="privacy_authorize_revoke_title">권한 허가 및 취소</string>
     <string name="privacy_authorize_revoking">인증 취소중…</string>
     <string name="privacy_authorize_success">승인 권한 부여</string>
     <string name="privacy_authorize_title">권한 승인</string>
