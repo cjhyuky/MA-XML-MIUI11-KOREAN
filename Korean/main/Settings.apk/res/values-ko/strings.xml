@@ -863,7 +863,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="device_info_settings">휴대전화 상태</string>
     <string name="system_update_settings_list_item_title">시스템 업데이트</string>
     <string name="firmware_version">안드로이드 버전</string>
-    <string name="security_patch">Android 보안 패치 레벨</string>
+    <string name="security_patch">적용된 Android 보안 패치 버전</string>
     <string name="model_number">모델 번호</string>
     <string name="fcc_equipment_id">장비 ID</string>
     <string name="baseband_version">기저대역 버전</string>
