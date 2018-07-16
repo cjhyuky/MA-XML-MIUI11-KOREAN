@@ -4869,7 +4869,7 @@ PIN 설정"</string>
     <string name="no_vr_listeners">VR 도우미 서비스를 요구한 앱이 없습니다.</string>
     <string name="not_battery_optimizing">배터리 최적화 꺼짐</string>
     <string name="notification_importance_blocked">이 앱에서 알림 보지 않기</string>
-    <string name="notification_importance_default">전체 화면 중단 없음</string>
+    <string name="notification_importance_default">소리 재생</string>
     <string name="notification_importance_high">항상 알림 표시. 전체 화면 중단 없음.</string>
     <string name="notification_importance_low">전체 화면 중단, 알림, 소리 또는 진동이 없습니다.</string>
     <string name="notification_importance_max">항상 전체 화면을 중단합니다. 알림 목록의 맨 위에 표시합니다.</string>
