@@ -643,7 +643,7 @@
     <string name="same_folder_name_warning">같은 이름을 가진 그룹이 이미 존재합니다.</string>
     <string name="save_button_text">저장</string>
     <string name="save_dialog_title">저장</string>
-    <string name="save_file">%s 파일 저장</string>
+    <string name="save_file">저장 : </string>
     <string name="save_file_already_exist_alert_message">이미 같은 이름을 가진 파일이 존재합니다. 덮어쓰시겠습니까?</string>
     <string name="save_file_already_exist_alert_title">파일을 덮어쓰시겠습니까?</string>
     <string name="save_form_data_confirm_message">이 기능을 끄는 것은 사용량에 영향을 줄 수 있습니다.</string>
