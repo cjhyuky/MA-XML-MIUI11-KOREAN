@@ -253,7 +253,7 @@
     <string name="download_filter_audio">음악</string>
     <string name="download_filter_image">사진</string>
     <string name="download_filter_others">기타</string>
-    <string name="download_filter_text">파일</string>
+    <string name="download_filter_text">문서</string>
     <string name="download_filter_video">동영상</string>
     <string name="download_filter_zip">Zip</string>
     <string name="download_in_process">다운로드 중…</string>
