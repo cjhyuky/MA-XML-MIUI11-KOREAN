@@ -9,5 +9,4 @@
     <string name="cabl_levels_title">품질</string>
     <string name="cabl_settings_title">CABL (지능형 백라이트 조절 기능)</string>
     <string name="cabl_version_title">CABL 버전</string>
-    <string name="cabl_level_default">자동</string>
 </resources>
