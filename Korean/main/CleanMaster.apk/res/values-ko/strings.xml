@@ -577,8 +577,6 @@
     <string name="whatsapp_type_document_send">보낸 파일들</string>
     <string name="whatsapp_type_image_recv">받은 이미지들</string>
     <string name="whatsapp_type_image_send">보낸 이미지들</string>
-    <string name="empty">" "</string>
-    <string name="hints_header_left">%d</string>
     <string name="main_total_garbage">전체 쓰레기</string>
     <string name="wechat_msg_time_long">년년년년-월월-일일</string>
     <string name="wechat_msg_time_short">월월-일일</string>

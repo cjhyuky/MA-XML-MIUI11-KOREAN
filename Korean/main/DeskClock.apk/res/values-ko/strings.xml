@@ -217,8 +217,6 @@
     <string name="content_desc_keep_screen">\"화면 켜짐 유지\" 버튼</string>
     <string name="timer_cancel_hint">멈추기</string>
     <string name="life_post_weather_description_third">%1$s, %2$s</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
-    <string name="symbol_colon">:</string>
     <string name="timer_end_time">타이머가 %s에 멈춥니다.</string>
     <string name="timer_end_time_format">HH:mm MMM dd</string>
     <string name="timer_end_time_format_today">HH:mm</string>
