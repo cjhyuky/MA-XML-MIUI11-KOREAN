@@ -359,7 +359,7 @@
     <string name="tax_credit_pretax_income">세금 전 수입 (CNY)</string>
     <string name="tax_income_annual_bonus_list">연말 보너스</string>
     <string name="tax_location">지역</string>
-    <string name="tax_total_insurance_provident_fund">보험 & 내 집 마련 대출</string>
+    <string name="tax_total_insurance_provident_fund">보험 &amp; 내 집 마련 대출</string>
     <string name="voiceDesc">음성 제어</string>
     <string name="word_figure_guide_text">길게 눌러 변환할 단위를 말하세요.</string>
 </resources>
