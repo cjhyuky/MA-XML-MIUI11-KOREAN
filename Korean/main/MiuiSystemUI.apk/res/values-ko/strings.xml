@@ -1329,7 +1329,6 @@
     <string name="menu_ime">키보드 변환기</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">블루투스 장치에 의해 잠금 해제됨</string>
     <string name="miui_ringer_count_down">카운트 다운</string>
-    <string name="miui_ringer_count_down_time">카운트 다운: %s</string>
     <string name="miui_ringer_standard">무음</string>
     <string name="miui_ringer_standard_description">수신전화와 알림을 무음벨소리로 알립니다</string>
     <string name="miui_ringer_total">방해금지</string>

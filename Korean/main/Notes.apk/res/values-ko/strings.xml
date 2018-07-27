@@ -77,7 +77,6 @@
     <string name="app_widget">메모</string>
     <string name="widget_havenot_content">탭하여 메모 생성, 위젯을 길게 눌러 사이즈 변경.</string>
     <string name="widget_content_loading">잠시만 기다려주십시오…</string>
-    <string name="notelist_string_info">...</string>
     <string name="note_alert_expired">만료됨</string>
     <string name="notealert_ok">무시</string>
     <string name="notealert_enter">메모 열기</string>
