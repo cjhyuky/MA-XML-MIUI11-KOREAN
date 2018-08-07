@@ -1245,11 +1245,6 @@
     <string name="keyguard_charging_info_tip_text4">충전 시 작업을 삼가하십시오. 기기가 과열될 수 있습니다.</string>
     <string name="keyguard_charging_info_tip_text5">배터리가 과열되면 충전 속도가 평소보다 느려집니다.</string>
     <string name="keyguard_charging_info_tip_text6">화면을 꺼두시거나 기기를 시원한 곳에 잠시 두십시오.</string>
-    <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
-    <string name="keyguard_indication_charging_time_fast">Charging rapidly (%s until full)</string>
-    <string name="keyguard_indication_charging_time_slowly">Charging slowly (%s until full)</string>
-    <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
-    <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
     <string name="keyguard_left_bankcard">계산기</string>
     <string name="keyguard_left_buscard">메모장</string>
     <string name="keyguard_left_remotecentral">캘린더</string>
@@ -1740,8 +1735,8 @@
     <string name="keyguard_permanent_disabled_sim_instructions">"SIM카드가 영구적으로 비활성화 되어있습니다. 통신사에 다른 SIM 카드를 요청하세요."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">사용할 수 없는 SIM 카드</string>
     <string name="keyguard_plugged_in">충전 중</string>
-    <string name="keyguard_plugged_in_charging_fast">저속 충전중</string>
-    <string name="keyguard_plugged_in_charging_slowly">고속 충전중</string>
+    <string name="keyguard_plugged_in_charging_fast">고속 충전중</string>
+    <string name="keyguard_plugged_in_charging_slowly">저속 충전중</string>
     <string name="keyguard_sim_locked_message">SIM 카드가 잠겨 있습니다.</string>
     <string name="keyguard_sim_puk_locked_message">SIM 카드가 PUK 잠김 상태입니다.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">SIM 카드 잠금 해제 중…</string>
