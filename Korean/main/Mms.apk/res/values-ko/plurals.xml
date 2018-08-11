@@ -43,7 +43,7 @@
         <item quantity="other">예약 메시지 %d개가 전송되지 않았습니다.</item>
     </plurals>
     <plurals name="timed_message_in_total">
-        <item quantity="other">(%d messages)</item>
+        <item quantity="other">(%d개 메시지)</item>
     </plurals>
     <plurals name="to_count">
         <item quantity="other">수신자 %d명</item>
