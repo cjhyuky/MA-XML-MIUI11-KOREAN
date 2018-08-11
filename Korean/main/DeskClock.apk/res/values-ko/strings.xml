@@ -156,7 +156,6 @@
     <string name="control_set_alarm">알람 설정</string>
     <string name="control_set_alarm_with_existing">알람 설정: %s</string>
     <string name="add_timezone_title">시간대 설정</string>
-    <string name="elapsed_time_format">+%s</string>
     <string name="go_back">뒤로가기</string>
     <string name="invalid_time">잘못된 시간: %3$s %1$d: %2$d</string>
     <string name="life_post_setting_close_title">아침 보고서 닫기</string>
