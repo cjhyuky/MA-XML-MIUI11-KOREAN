@@ -182,4 +182,7 @@
     <string name="voice_button_action_up">눌러서 말하기</string>
     <string name="voice_input_error_network">"인터넷에 접속할 수 없습니다. 인터넷 설정을 확인하고 다시 시도해주세요."</string>
     <string name="voice_input_error_other">오류 발생. 2분 정도 기다린 후 다시 시도하십시오.</string>
+    <string name="miui_warning_button_cancel">취소</string>
+    <string name="miui_warning_button_ok">확인</string>
+    <string name="miui_warning_tip_info">%1$s 앱에서 에러가 발생했습니다. 이 앱을 닫으시겠습니까?</string>
 </resources>
