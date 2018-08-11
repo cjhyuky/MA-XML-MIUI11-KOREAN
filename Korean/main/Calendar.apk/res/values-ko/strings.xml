@@ -598,7 +598,14 @@
     <string name="miuishare_share_editor_title">공유</string>
     <string name="miuishare_title_more">더보기</string>
     <string name="miuishare_title_share">공유</string>
-    <string name="miuishare_wechat_timeline_title">WeChat 순간들</string>
-    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuishare_wechat_timeline_title">위챗 모멘트</string>
+    <string name="miuishare_weibo_title">웨이보</string>
     <string name="share_title">공유</string>
+    <string name="close_alarm">알람 끄기</string>
+    <string name="guide_card_close">닫기</string>
+    <string name="login_failed_toast">"로그인 실패, 새로고침 후 재시도하세요"</string>
+    <string name="prefDefault_alerts_vibrateWhen">하지 않음</string>
+    <string name="prefDefault_alerts_vibrate_false">하지 않음</string>
+    <string name="prefDefault_alerts_vibrate_true">항상</string>
+    <string name="talk_back_setting">설정</string>
 </resources>
