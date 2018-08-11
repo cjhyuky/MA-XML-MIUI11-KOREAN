@@ -6466,7 +6466,6 @@ PIN 설정"</string>
     <string name="miui_lab_install_drive_mode_error">"설치 실패, 재시도 하세요."</string>
     <string name="miui_lab_install_drive_mode_summary">"자동차 모드는 시스템 앱입니다. 오프라인 상태로도 설치가 가능합니다."</string>
     <string name="miui_lab_install_drive_mode_title">자동차 모드 설치</string>
-    <string name="process_kernel_label">안드로이드 OS</string>
     <string name="rgb_manage_facerecoginition_text">2D 안면인식 데이터 관리</string>
     <string name="status_bar_settings_notification_led_custom">사용자 색상</string>
     <string name="status_bar_settings_notification_shade_shortcut">알림 음영 바로가기</string>
