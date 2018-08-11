@@ -1791,7 +1791,7 @@
     <string name="structure_face_unlock_model_dialog_notenable">괜찮습니다</string>
     <string name="structure_face_unlock_model_other">기타</string>
     <string name="structure_face_unlock_model_other_msg_2d">2D 인식</string>
-    <strinname="structure_face_unlock_model_other_msg_3d">3D 인식</string>
+    <string name="structure_face_unlock_model_other_msg_3d">3D 인식</string>
     <string name="structure_face_unlock_model_other_suggestion_2d">2D 안면 인식은 패턴, PIN, 비밀번호보다 보안에 취약합니다.</string>
     <string name="structure_face_unlock_model_other_suggestion_3d">"3D 안면 인식은 일반 안면 인식보다 비교적으로 안전합니다."</string>
     <string name="structure_face_unlock_model_other_title">안면 인식</string>
