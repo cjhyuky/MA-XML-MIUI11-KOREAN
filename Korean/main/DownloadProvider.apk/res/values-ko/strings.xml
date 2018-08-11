@@ -111,4 +111,8 @@
     <string name="toast_update_data_limit_fail">"설정할 수 없음"</string>
     <string name="menu_back">Xunlei 멤버쉽으로 돌아가기</string>
     <string name="common_google_play_services_unknown_issue">%1$s 앱이 구글 플레이 서비스와 충돌하고 있습니다. 다시 시도해 주세요.</string>
+    <string name="channel_active">다운로드 중</string>
+    <string name="channel_complete">다운로드 완료</string>
+    <string name="channel_insufficient_space">공간 부족</string>
+    <string name="channel_waiting">다운로드 대기중</string>
 </resources>
