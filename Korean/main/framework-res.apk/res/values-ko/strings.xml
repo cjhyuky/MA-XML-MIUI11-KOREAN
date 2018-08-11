@@ -2053,4 +2053,22 @@
     <string name="China_Mobile">차이나 모바일</string>
     <string name="China_Telecom">차이나 텔레콤</string>
     <string name="China_Unicom">차이나 유니콤</string>
+    <string name="status_bar_battery">배터리</string>
+    <string name="status_bar_bluetooth">블루투스</string>
+    <string name="status_bar_cast">방송하기</string>
+    <string name="status_bar_clock">시계</string>
+    <string name="status_bar_headset">헤드셋</string>
+    <string name="status_bar_hotspot">핫스팟</string>
+    <string name="status_bar_ime">ime</string>
+    <string name="status_bar_location">GPS</string>
+    <string name="status_bar_mute">무음</string>
+    <string name="status_bar_nfc">nfc</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_rotate">화면회전</string>
+    <string name="status_bar_secure">보안</string>
+    <string name="status_bar_speakerphone">스피커폰</string>
+    <string name="status_bar_tty">tty</string>
+    <string name="status_bar_volume">소리</string>
+    <string name="status_bar_wifi">와이파이</string>
+    <string name="status_bar_zen">방해금지</string>
 </resources>
