@@ -6468,7 +6468,7 @@ PIN 설정"</string>
     <string name="miui_lab_install_drive_mode_title">자동차 모드 설치</string>
     <string name="rgb_manage_facerecoginition_text">2D 안면인식 데이터 관리</string>
     <string name="status_bar_settings_notification_led_custom">사용자 색상</string>
-    <string name="status_bar_settings_notification_shade_shortcut">알림 음영 바로가기</string>
+    <string name="status_bar_settings_notification_shade_shortcut">알림창 바로가기</string>
     <string name="status_bar_settings_notification_sound_custom">사용자 소리</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">"배터리가 부족하여 이 기능을 사용할 수 없습니다"</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">배터리가 최소 5%이상 있어야 합니다.</string>
