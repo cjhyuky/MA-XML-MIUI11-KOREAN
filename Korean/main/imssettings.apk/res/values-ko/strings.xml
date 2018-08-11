@@ -95,4 +95,8 @@
     <string name="ims_settings_value_full_rate">풀 레이트</string>
     <string name="ims_settings_value_no">유</string>
     <string name="ims_settings_value_yes">무</string>
+    <string name="ims_band_settings_narrow_preferred_value">협대역 지원 우선</string>
+    <string name="ims_band_settings_only_narrow_value">협대역만 지원</string>
+    <string name="ims_band_settings_only_wide_value">광대역만 지원</string>
+    <string name="ims_band_settings_wide_preferred_value">광대역 지원 우선</string> 
 </resources>
