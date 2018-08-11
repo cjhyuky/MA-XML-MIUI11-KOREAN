@@ -1772,8 +1772,6 @@
     <string name="kg_prompt_reason_user_request">기기가 수동으로 잠겼습니다</string>
     <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" 이 비활성화 되어 있습니다. PUK 코드를 입력하여 계속 진행하시거나 이동통신사에 연락하여 조치를 취하십시오.</string>
     <string name="kg_sim_pin_instructions_multi">\"%1$s\"의 SIM PIN 번호를 입력하십시오.</string>
-    <string name="process_kernel_label">안드로이드 OS</string>
-    <string name="quick_settings_tiles">기본</string>
     <string name="rgb_face_data_introduction_title">2D 안면 인식 데이터</string>
     <string name="rgb_face_data_manage_delete_msg">2D 안면 인식 데이터 삭제</string>
     <string name="structure_face_data_input_timeout_msg">"기록할 수 없습니다. 다시 시도하십시오."</string>
