@@ -584,4 +584,14 @@
     <string name="whatsapp_delete_confirm_cancel">취소</string>
     <string name="whatsapp_delete_confirm_ok">확인</string>
     <string name="whatsapp_group_gif">GIF</string>
+    <string name="clean_summary">%1$s개 파일 청소됨</string>
+    <string name="memory_clean_icon_text">메모리 정리</string>
+    <string name="memory_clean_no_trash_tip">모든 상태가 좋습니다</string>
+    <string name="onekeyclean_boost_available">%s 가능함</string>
+    <string name="onekeyclean_boost_cleaned">%s 청소됨</string>
+    <string name="onekeyclean_boosted_title">청소 완료</string>
+    <string name="onekeyclean_boosting_title">스피드 부스트</string>
+    <string name="onekeyclean_card_btn">지금 청소</string>
+    <string name="onekeyclean_card_summery">공간 확보를 위해 휴지통 비우기</string>
+    <string name="pref_title_create_onekeyclean_shortcut">홈화면에 바로가기 표시</string>
 </resources>
