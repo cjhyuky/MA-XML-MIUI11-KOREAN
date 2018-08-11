@@ -1797,7 +1797,4 @@
     <string name="structure_face_unlock_model_other_title">안면 인식</string>
     <string name="structure_face_unlock_not_same_person">"다른 사람 얼굴이 인식되었습니다. 모든 단계를 본인이 진행해야 합니다."</string>
     <string name="structure_face_unlock_really_person">"사람 얼굴을 인식하십시오."</string>
-    <string name="process_kernel_label">안드로이드 OS</string>
-    <string name="quick_settings_tiles">기본값</string>
-    <string name="velocity_tracker_impl">플랫폼</string>
 </resources>
