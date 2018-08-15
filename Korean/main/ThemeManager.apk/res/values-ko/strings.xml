@@ -596,7 +596,7 @@
     <string name="common_google_play_services_wear_update_text">새로운 버전의 Google Play가 필요합니다. 자동으로 업데이트 됩니다.</string>
     <string name="common_open_on_phone">폰으로 열기</string>
     <string name="common_signin_button_text">로그인</string>
-    <string name="common_signin_button_text_long">Google 계정으로 로그인</string
+    <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
     <string name="s1">이미지 저장</string>
     <string name="s2">갤러리에 광고가 저장되는걸 허용하시겠습니까?</string>
     <string name="s3">허용</string>
