@@ -7,7 +7,7 @@
     <string name="recent_task_app_info_text">정보</string>
     <string name="recent_task_cleaning">앱 지우는 중…</string>
     <string name="battery_low_title">충전기 연결</string>
-    <string name="battery_low_percent_format">%d%% 남음</string>
+    <string name="battery_low_percent_format">%d&#37; 남음</string>
     <string name="invalid_charger">"USB 충전이 지원되지 않습니다.
 제공된 충전기를 사용하십시오."</string>
     <string name="status_bar_settings_airplane">비행기 탑승 모드</string>
@@ -65,7 +65,7 @@
     <string name="accessibility_data_connection_edge">Edge</string>
     <string name="accessibility_bluetooth_tether">블루투스 테더링</string>
     <string name="accessibility_airplane_mode">비행기 탑승 모드</string>
-    <string name="accessibility_battery_level">배터리 %d퍼센트</string>
+    <string name="accessibility_battery_level">배터리 %d&#37;</string>
     <string name="accessibility_remove_notification">알림 지우기</string>
     <string name="accessibility_tty_enabled">TTY 활성화됨.</string>
     <string name="accessibility_ringer_vibrate">벨소리 진동</string>
@@ -1742,7 +1742,7 @@
     <string name="keyguard_sim_unlock_progress_dialog_message">SIM 카드 잠금 해제 중…</string>
     <string name="keyguard_unlock">위로 밀어서 잠금해제</string>
     <string name="accessibility_quick_settings_alarm_on">알람 설정됨</string>
-    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">블루투스 장치 배터리 :%d percent.</string>
+    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">블루투스 장치 배터리 :%d&#37;.</string>
     <string name="face_data_input_structure_title">3D 안면 인식 데이터</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"부모 관리 모드에서는 세컨드 스페이스로의 이동이 불가합니다."</string>
     <string name="keyguard_indication_charging_time">충전중 (완전 충전까지 %s)</string>
