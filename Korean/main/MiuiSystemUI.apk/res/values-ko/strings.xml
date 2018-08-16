@@ -1742,7 +1742,7 @@
     <string name="keyguard_sim_unlock_progress_dialog_message">SIM 카드 잠금 해제 중…</string>
     <string name="keyguard_unlock">위로 밀어서 잠금해제</string>
     <string name="accessibility_quick_settings_alarm_on">알람 설정됨</string>
-    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">블루투스 장치 배터리 :%d%.</string>
+    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">블루투스 장치 배터리 :%d percent.</string>
     <string name="face_data_input_structure_title">3D 안면 인식 데이터</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"부모 관리 모드에서는 세컨드 스페이스로의 이동이 불가합니다."</string>
     <string name="keyguard_indication_charging_time">충전중 (완전 충전까지 %s)</string>
