@@ -171,7 +171,7 @@
     <string name="about">정보</string>
     <string name="version">버전 %s</string>
     <string name="new_add">새 다운로드</string>
-    <string name="pref_download_storage_path">다운로드하기 위해 새 폴더 생성</string>
+    <string name="pref_download_storage_path">다운로드 폴더 지정</string>
     <string name="pref_download_revert_default">기본값</string>
     <string name="file_picker">위치 선택</string>
     <string name="new_add_bt">토렌트 추가</string>
