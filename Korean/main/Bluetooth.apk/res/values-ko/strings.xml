@@ -211,4 +211,9 @@
     <string name="a2dp_sink_mbs_label">블루투스 오디오</string>
     <string name="opp_notification_group">블루투스 공유</string>
     <string name="pbap_notification_group">블루투스 연락처 공유</string>
+    <string name="bluetooth_advanced_feat_description">블루투스 고급 브라우징 기능</string>
+    <string name="bluetooth_opp_file_limit_exceeded">4GB 보다 큰 파일은 옮길 수 없습니다</string>
+    <string name="bluetooth_rc_feat_content">피어는 고급기능을 지원합니다</string>
+    <string name="bluetooth_rc_feat_subtext">피어에서 다시 페어링하여 사용하도록 설정하십시오</string>
+    <string name="bluetooth_rc_feat_title">블루투스 미디어 브라우징</string> 
 </resources>
