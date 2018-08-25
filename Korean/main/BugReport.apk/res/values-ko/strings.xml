@@ -339,4 +339,7 @@
     <string name="toast_loading_app_id">정보를 가져오는 중…</string>
     <string name="reply_option_log_hint">선택 사항</string>
     <string name="reply_select_log_hint">로그 파일 선택</string>
+    <string name="privacy_policy_title">개인정보 보호정책</string>
+    <string name="tab_title_preferences">설정</string>
+    <string name="privacy_category_title"></string>
 </resources>
