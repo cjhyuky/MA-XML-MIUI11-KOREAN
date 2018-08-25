@@ -1347,4 +1347,6 @@
     <string name="preference_show_firewall_calllog">통화기록에서 차단된 통화 표시</string>
     <string name="toast_call_no_SoundRecorder">녹음기 앱을 사용할 수 없음</string>
     <string name="toast_call_no_notes">메모 앱을 사용할 수 없음</string>
+    <string name="preference_privacy_policy_title">개인정보 보호정책</string>
+    <string name="rcs_app_name">미니 앱</string>    
 </resources>
