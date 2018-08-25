@@ -2114,9 +2114,9 @@
     <string name="permgroupdesc_calllog">전화 통화기록 읽기 및 쓰기</string>
     <string name="permgrouplab_calllog">통화기록</string>
     <string name="permgrouprequest_calendar"><b>%1$s</b> 앱이 귀하의 캘린더에 액세스하도록 허용 하시겠습니까?</string>
-    <string name="permgrouprequest_calllog"><b>% 1 $ s </b> 앱이 귀하의 전화 통화 로그에 액세스하도록 허용 하시겠습니까?</string>
+    <string name="permgrouprequest_calllog"><b>%1$s</b> 앱이 귀하의 전화 통화 로그에 액세스하도록 허용 하시겠습니까?</string>
     <string name="permgrouprequest_camera"><b>%1$s</b> 앱이 사진을 찍고 비디오를 녹화하도록 허용합니까?</string>
-    <string name="permgrouprequest_contacts"><b>%1$s</b> 님이 주소록에 액세스하도록 허용 하시겠습니까?</string>
+    <string name="permgrouprequest_contacts"><b>%1$s</b> 앱이 주소록에 액세스하도록 허용 하시겠습니까?</string>
     <string name="permgrouprequest_location">"<b>%1$s</b> 앱이 위치에 액세스하도록 허용 하시겠습니까?"</string>
     <string name="permgrouprequest_microphone"><b>%1$s</b> 앱의 오디오 녹음을 허용 하시겠습니까?</string>
     <string name="permgrouprequest_phone"><b>%1$s</b> 앱이 전화를 걸고 관리하도록 허용 하시겠습니까?</string>
