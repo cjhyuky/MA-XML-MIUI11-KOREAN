@@ -55,4 +55,5 @@
     <string name="wifi_ttls_config_text">"사용자명: %s"</string>
     <string name="wifi_sim_config_text">"SIM : %s"</string>
     <string name="wifi_trust_config_text">"신뢰할 수 있는 인증서 : %s"</string>
+    <string name="certificate_capabilities_warning">참고 : 이 인증서 발급자는 장치와 주고받은 모든 트래픽을 검사 할 수 있습니다.</string>
 </resources>
