@@ -816,4 +816,5 @@
     <string name="transition_image">전환 이미지</string>
     <string name="otg_file_security_confirm">휴대폰에 복사</string>
     <string name="otg_file_security_details">휴대폰에 복사해주세요</string>
+    <string name="operation_show_privacy_policy">개인정보 보호정책 보기</string>  
 </resources>
