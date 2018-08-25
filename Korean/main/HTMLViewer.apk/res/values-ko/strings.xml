@@ -25,4 +25,5 @@
     <string name="settings_ad_loading">잠시만 기다려주십시오…</string>
     <string name="settings_ad_loading_unavailable">정보를 불러오지 못했습니다.</string>
     <string name="autoconnect">자동연결</string>
+    <string name="open_wifi_connect_and_use_data_summary">탭 하여 와이파이로 전환하고 인증한 후 트래픽 이어서 사용</string>
 </resources>
