@@ -1149,4 +1149,7 @@
     <string name="report_rendering_problem">잘못된 메세지입니다.</string>
     <string name="report_rendering_problem_desc">잘못된 메세지입니다.</string>
     <string name="wait_help_context">잠시만 기다려 주십시오...</string>
+    <string name="account_cache_provider">계정 캐쉬 제공자</string>
+    <string name="conversation_content_provider">대화 컨텐츠 제공자</string>
+    <string name="privacy_policy">개인정보 보호정책</string>
 </resources>
