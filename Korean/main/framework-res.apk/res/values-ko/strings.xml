@@ -2053,7 +2053,7 @@
     <string name="China_Mobile">차이나 모바일</string>
     <string name="China_Telecom">차이나 텔레콤</string>
     <string name="China_Unicom">차이나 유니콤</string>
-        <string name="RestrictedStateContentMsimTemplate">SIM %d의 이동 통신사에서 일시적으로 사용 중지되었습니다.</string>
+    <string name="RestrictedStateContentMsimTemplate">SIM %d의 이동 통신사에서 일시적으로 사용 중지되었습니다.</string>
     <string name="add_calendar_event">일정</string>
     <string name="add_calendar_event_desc">선택한 시간 동안 일정 예약</string>
     <string name="add_contact">추가</string>
