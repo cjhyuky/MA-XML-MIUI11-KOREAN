@@ -183,9 +183,9 @@
     <string name="toast_backup_uninstall_success">백업 및 설치 제거 완료</string>
     <string name="activity_title_cache_data">앱 데이터</string>
     <string name="deepclean_cache_header_left">데이터 파일: %d</string>
-    <string name="notification_title_of_garbage_cleanup">쓰레기 청소</string>
+    <string name="notification_title_of_garbage_cleanup">%s 크기의 쓰레기 청소</string>
     <string name="notification_summary_of_garbage_cleanup">청소하지 않은 쓰레기가 있습니다</string>
-    <string name="notification_summary_after_auto_cleanup">쓰레기 청소 완료</string>
+    <string name="notification_summary_after_auto_cleanup">%s 청소 완료</string>
     <string name="toast_uninstall_success">설치 제거 완료</string>
     <string name="toast_app_no_residual_on_sdcard">앱은 SD 카드에 어떤 파일도 저장하지 않습니다.</string>
     <string name="last_check_canceled">이전 스캔이 취소되었습니다.</string>
@@ -454,7 +454,7 @@
     <string name="wechat_copy_video_failed_dialog_title">내보낼 수 없습니다.</string>
     <string name="wechat_copying_video_success">성공적으로 내보냄</string>
     <string name="wechat_copying_video_dialog_title">갤러리로 내보내기</string>
-    <string name="wechat_copying_video_dialog_msg">파일이 이 폴더에 저장됩니다: /DCIM/WeChat</string>
+    <string name="wechat_copying_video_dialog_msg">파일이 이 폴더에 저장됩니다: %s</string>
     <string name="wechat_copying_video_dialog_checkbox">내보낸 후 파일 삭제</string>
     <string name="wechat_copying_video_empty">내보낼 동영상이 없습니다</string>
     <string name="wechat_content_empty">내보낼 파일이 없습니다</string>

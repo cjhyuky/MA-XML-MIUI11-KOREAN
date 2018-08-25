@@ -794,7 +794,7 @@
     <string name="toast_finish_delete_selected_call_log">통화 기록 지워짐</string>
     <string name="delete_call_log_title">통화 기록 선택</string>
     <string name="delete_call_log_message">통화 기록을 지우시겠습니까?</string>
-    <string name="confirm_delete_contact_all_call_logs">통화 기록을 지우시겠습니까?</string>
+    <string name="confirm_delete_contact_all_call_logs">%s의 통화 기록을 지우시겠습니까?</string>
     <string name="confirm_delete_selected_all_call_logs">통화 기록을 지우시겠습니까?</string>
     <string name="calllog_menu_blacklist">차단</string>
     <string name="calllog_menu_edit_before_call">편집</string>

@@ -696,7 +696,14 @@
     <string name="sendstartpage">시작 페이지</string>
     <string name="share_page_text">【%1$s】| %2$s 이 페이지를 공유합니다.</string>
     <string name="show_check_security_url_check_tip_dialog_description">이 웹사이트의 URL은 안전을 확인하기 위해 Xiaomi 서버로 전송됩니다. 이 기능은 설정에서 언제든지 끌 수 있습니다.</string>
-    <string name="show_check_security_url_check_tip_dialog_description_international">이 웹사이트의 URL은 안전을 확인하기 위해 Xiaomi 서버로 전송됩니다. 이 기능은 설정에서 언제든지 끌 수 있습니다.</string>
+    <string name="show_check_security_url_check_tip_dialog_description_international">서비스를 이용하고자 하는 경우 귀하의 개인 정보를 수집하여 사용합니다.
+다음은 우리가 수집할 데이터입니다.
+1. 보안 URL: 인터넷을 사용하는 동안 사용자가 방문하는 웹 사이트의 URL을 수집합니다.
+2. 위치 정보: 위치 정보에 액세스할 수 있습니다.
+수집한 데이터를 사용하는 방법은 다음과 같습니다.
+1. 보안: 기기를 악성코드 및 기타 보안위협으로 부터 보호하기 위해서 사용합니다.
+2. 컨텐츠: 데이터는 관련 지역화된 뉴스 콘텐츠를 제공하는 데 도움이 됩니다.
+브라우저가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 브라우저를 사용하려면 %2$s 및 %1$s에 동의해야 합니다.​"</string>
     <string name="show_security_tip_dialog_title">이용 약관</string>
     <string name="show_weather_location_getter_tip_dialog_description">날씨 서비스가 날씨 정보 업데이트를 위해 당신의 위치 정보를 필요로 합니다. 설정에서 끌 수 있습니다.</string>
     <string name="sign_in_to" formatted="false">%s1%s2\"으로 로그인</string>
@@ -914,7 +921,7 @@
     <string name="snapshot">로컬</string>
     <string name="soft_toast_see_view">보기</string>
     <string name="ssl_bad_clock_date_settings">날짜 설정</string>
-    <string name="ssl_bad_clock_warning">"기기의 날짜와 시간이 실제 시간과 일치하지 않아 연결될 수 없습니다."</string>
+    <string name="ssl_bad_clock_warning">"기기의 날짜와 시간 (%s1) 이 실제 시간 (%s2) 과 일치하지 않아 연결될 수 없습니다."</string>
     <string name="ssl_date_error_warnings_header">"이 사이트의 보안 인증서가 만료되었거나 유효하지 않습니다. 이 페이지를 나가시는 걸 권장합니다."</string>
     <string name="storage_permission_request_toast">"다운로드는 기기 저장소 권한을 필요로 합니다."</string>
     <string name="suggest_access_item_app_mark">앱</string>
@@ -1161,7 +1168,7 @@
     <string name="mw_miuichromium_error_page_btn_close">닫기</string>
     <string name="mw_miuichromium_error_page_btn_refresh">새로고침</string>
     <string name="mw_miuichromium_error_page_btn_report_issue">피드백 전송</string>
-    <string name="mw_miuichromium_error_page_description_no_connection">"네트워크 신호가 약해 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
+    <string name="mw_miuichromium_error_page_description_no_connection">"네트워크 신호가 약해 연결할 수 없습니다. %s1네트워크 설정%s2을 확인하고 다시 시도하세요."</string>
     <string name="mw_miuichromium_error_page_diagnose">네트워크 진단</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">네트워크 진단</string>
     <string name="mw_miuichromium_error_page_diagnose_certificate">"네트워크 프로토콜을 확인할 수 없음"</string>
@@ -1182,33 +1189,33 @@
     <string name="mw_miuichromium_error_page_problem_cache_miss">"페이지가 로드될 수 없습니다."</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page">"이 페이지를 열 수 없습니다."</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">"이 페이지를 열 수 없습니다. %s0에 의해 차단되었습니다."</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">"이 페이지를 열 수 없습니다."</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">"이 페이지를 열 수 없습니다."</string>
+    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">"이 페이지를 열 수 없습니다. %s0 연결 중단되었습니다."</string>
+    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">"이 페이지를 열 수 없습니다. %s0 연결이 거부되었습니다."</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">"이 페이지를 열 수 없습니다."</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">"잘못된 URL입니다."</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">"이 페이지를 열 수 없습니다."</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">"이 페이지를 열 수 없습니다."</string>
+    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">"이 페이지를 열 수 없습니다. %s0에 접속할 수 없습니다."</string>
+    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">"이 페이지를 열 수 없습니다. %s0은 안전하지 않은 페이지로 이동하려고 합니다."</string>
     <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">"이 페이지를 열 수 없습니다."</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">"이 페이지를 열 수 없습니다."</string>
+    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">"이 페이지를 열 수 없습니다. %s0에 대한 DNS 주소를 찾을 수 없습니다."</string>
     <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">"이 페이지를 열 수 없습니다."</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">"이 페이지를 열 수 없습니다."</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">"이 페이지를 열 수 없습니다."</string>
+    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">"이 페이지를 열 수 없습니다. %s0이 응답하지 않습니다."</string>
+    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">"이 페이지를 열 수 없습니다. %s0이 안전하지 않은 포트번호를 사용하고 있습니다."</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">이 페이지를 열 수 없습니다.</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">네트워크 연결상태를 확인해 주세요.</string>
     <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">"이 페이지를 열 수 없습니다."</string>
     <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0의 응답까지 너무 오래 걸립니다.</string>
     <string name="mw_miuichromium_error_page_problem_network_access_denied">네트워크 연결이 제한되었습니다.</string>
     <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"인터넷에 연결할 수 없습니다."</string>
-    <string name="mw_miuichromium_error_page_problem_page_moved">이 페이지가 이동되었거나 삭제되었을 수 있습니다.</string>
-    <string name="mw_miuichromium_error_page_problem_page_not_found">"파일을 찾을 수 없습니다."</string>
-    <string name="mw_miuichromium_error_page_problem_page_not_working_reason_connection_closed">"이 페이지가 작동하지 않습니다."</string>
-    <string name="mw_miuichromium_error_page_problem_page_not_working_reason_empty_response">"이 페이지가 작동하지 않습니다.."</string>
-    <string name="mw_miuichromium_error_page_problem_page_not_working_reason_invalid_response">"이 페이지가 작동하지 않습니다."</string>
-    <string name="mw_miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">"이 페이지가 작동하지 않습니다."</string>
+    <string name="mw_miuichromium_error_page_problem_page_moved">%0s 페이지가 이동되었거나 삭제되었을 수 있습니다.</string>
+    <string name="mw_miuichromium_error_page_problem_page_not_found">"%0s 파일을 찾을 수 없습니다."</string>
+    <string name="mw_miuichromium_error_page_problem_page_not_working_reason_connection_closed">"이 페이지가 작동하지 않습니다. %0s에 연결 중단되었습니다."</string>
+    <string name="mw_miuichromium_error_page_problem_page_not_working_reason_empty_response">"%0s에서 데이터를 보내지 않습니다."</string>
+    <string name="mw_miuichromium_error_page_problem_page_not_working_reason_invalid_response">"%0s에서 올바르지 않은 응답을 보냅니다."</string>
+    <string name="mw_miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">"%0s에 너무 많은 리다이렉션이 있습니다."</string>
     <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_client_cert">"%s0가 보안 인증서를 받지 못했으므로 보안 연결을 진행할 수 없습니다."</string>
     <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_server_cert">"%s0이 안전 기준을 충족하지 못했으므로 보안 연결을 할 수 없습니다.."</string>
     <string name="mw_miuichromium_error_page_problem_security_error_reason_invalid_response">"%s0이 올바르지 못한 응답을 보냈으므로 보안 연결을 할 수 없습니다."</string>
-    <string name="mw_miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"보안 연결을 할 수 없습니다."</string>
+    <string name="mw_miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"%0s이보안 연결을 할 수 없습니다."</string>
     <string name="mw_miuichromium_error_page_problem_server_fault">%s0에서 이 작업을 처리할 수 없습니다.</string>
     <string name="mw_miuichromium_error_page_reload">새로고침</string>
     <string name="mw_miuichromium_error_page_safe_network">안전 모드</string>

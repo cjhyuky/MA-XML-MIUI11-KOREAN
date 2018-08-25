@@ -318,14 +318,14 @@
     <string name="trans_intro_desc_new">"Tap \"I'm a recipient\".QR코드가 곧 생성될 예정입니다. 잠시만 기다려 주세요.."</string>
     <string name="trans_intro_desc_old">"Tap \"I'm a sender\". 새로운 핸드폰에서 QR코드를 스캔하시고, \"전송\" 버튼을 눌러주세요."</string>
     <string name="trans_intro_desc_private">"사진이 암호화되어 엑세스할수 없습니다. 이 사진들은 미 클라우드에서 확인하실 수 있습니다."</string>
-    <string name="trans_intro_question_1">1. 아이폰에서 데이터 전송은 어떻게 하나요?</string>
-    <string name="trans_intro_question_2">1. 타 안드로이드 기기들에서 데이터 전송을 어떻게 하나요?</string>
-    <string name="trans_intro_question_3">2. Mi Mover가 전송 도중 문제가 생겨 페어링이 끊기면 어떻게 해야 하나요?</string>
-    <string name="trans_intro_question_4">"3. 왜 파일 전송 도중 Wi-Fi를 사용할수 없나요?"</string>
-    <string name="trans_intro_question_5">"4. 왜 Mi Mover에서 '저장소 부족' 메세지가 표시되나요?"</string>
-    <string name="trans_intro_question_6">"5. 왜 일부 앱들은 이동되지 않나요?"</string>
-    <string name="trans_intro_question_7">"6. 왜 이전 디바이스의 앱들이 새로운 디바이스에서 실행되지 않나요?"</string>
-    <string name="trans_intro_question_8">"7. 왜 위챗 채팅 기록들이 자동으로 전송되지 않나요?"</string>
+    <string name="trans_intro_question_1">%d. 아이폰에서 데이터 전송은 어떻게 하나요?</string>
+    <string name="trans_intro_question_2">%d. 타 안드로이드 기기들에서 데이터 전송을 어떻게 하나요?</string>
+    <string name="trans_intro_question_3">%d. Mi Mover가 전송 도중 문제가 생겨 페어링이 끊기면 어떻게 해야 하나요?</string>
+    <string name="trans_intro_question_4">"%d. 왜 파일 전송 도중 Wi-Fi를 사용할수 없나요?"</string>
+    <string name="trans_intro_question_5">"%d. 왜 Mi Mover에서 '저장소 부족' 메세지가 표시되나요?"</string>
+    <string name="trans_intro_question_6">"%d. 왜 일부 앱들은 이동되지 않나요?"</string>
+    <string name="trans_intro_question_7">"%d. 왜 이전 디바이스의 앱들이 새로운 디바이스에서 실행되지 않나요?"</string>
+    <string name="trans_intro_question_8">"%d. 왜 위챗 채팅 기록들이 자동으로 전송되지 않나요?"</string>
     <string name="trans_intro_title">자주하는질문</string>
     <string name="trans_intro_title_account">계정 및 비밀번호:</string>
     <string name="trans_intro_title_multiapp">듀얼 앱 데이터:</string>
@@ -377,7 +377,7 @@
     <string name="trans_security_tips_message">일부 앱은 Mi Mover가 지원되지 않습니다.</string>
     <string name="login">로그인</string>
     <string name="logining">로그인 중…</string>
-    <string name="login_failed">로그인할 수 없습니다. %s.</string>
+    <string name="login_failed">로그인할 수 없습니다.</string>
     <string name="password">비밀번호 입력</string>
     <string name="error_permissions">스캐너가 정상적으로 동작하는 데 필요한 권한이 충분하지 않습니다. 계속하시려면 설정으로 가서 권한을 확인해 주십시오.</string>
     <string name="connect_wifi">이 네트워크에 연결</string>
@@ -405,7 +405,7 @@
     <string name="hsa_send_again_countdown">재전송 (%ds)</string>
     <string name="hsa_send_failed">"보안코드를 전송할 수 없습니다. 잠시 후에 다시 시도해주세요."</string>
     <string name="hsa_sending">전송중…</string>
-    <string name="hsa_tip_message">"1.%s 애플 ID에 연결된 이메일 주소로 보안 코드가 담긴 이메일이 전송됩니다.
+    <string name="hsa_tip_message">"1.애플 ID에 연결된 이메일 주소로 보안 코드가 담긴 이메일이 전송됩니다.
 2. 보안 코드가 도착하지 않은 경우 이중 보안 설정을 해제하세요."</string>
     <string name="hsa_tip_message_shutdown_hsa">이중 보안설정을 해제하는 방법</string>
     <string name="hsa_tip_message_with_device">"1.%s 애플 ID에 연결된 이메일 주소로 보안 코드가 담긴 이메일이 전송됩니다.
