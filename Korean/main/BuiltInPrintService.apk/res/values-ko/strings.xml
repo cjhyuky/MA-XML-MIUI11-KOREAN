@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
     <string name="add">추가</string>
     <string name="add_manual_printer">사용자 프린터 추가</string>
     <string name="app_name">기본 프린터 서비스</string>
@@ -19,3 +21,4 @@
     <string name="unreadable_input">문서를 읽을 수 없습니다</string>
     <string name="waiting_to_send">전송 대기중</string>
     <string name="wifi_not_connected">와이파이 연결되지 않음</string>
+</resources>
