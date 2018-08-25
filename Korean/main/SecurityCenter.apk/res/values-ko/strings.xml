@@ -588,7 +588,7 @@ SMS 전송"</string>
 보정시 MIUI 시스템은 보정 메시지 획득을 위해 통신사에 무료 메시지를 전송할 것입니다."</string>
     <string name="privacy_prompt_tc_sms_report_message">데이터 사용량 정보를 업데이트하기 위하여 전화번호와 통신사 세부사항가 암호화되어 Mi의 서버에 업로드됩니다.</string>
     <string name="international_roaming_setting">데이터 로밍</string>
-    <string name="domestic_roaming_setting">국내 로밍</string>
+    <string name="domestic_roaming_setting">해외로밍 차단</string>
     <string name="pref_roaming_setting_gategory">설정</string>
     <string name="pref_allow_connect_network_title">데이터 로밍</string>
     <string name="pref_whitelist_setting">예외 사항 설정</string>
