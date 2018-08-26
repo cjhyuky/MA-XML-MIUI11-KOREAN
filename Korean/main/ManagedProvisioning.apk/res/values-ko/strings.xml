@@ -169,4 +169,26 @@
     <string name="your_organization_middle">귀하의 조직</string>
     <string name="cant_replace_or_remove_work_profile">"작업 프로파일을 바꾸거나 제거할 수 없습니다."</string>
     <string name="work_profile_cant_be_added_contact_admin">이 장치에 작업 프로파일을 추가할 수 없습니다. 질문이 있으면 관리자에게 문의하십시오.</string>
+    <string name="abc_action_bar_home_description">홈화면으로 이동</string>
+    <string name="abc_action_bar_up_description">위로 탐색</string>
+    <string name="abc_action_menu_overflow_description">옵션 더보기</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>    
+    <string name="abc_capital_off">끔</string>
+    <string name="abc_capital_on">켜짐</string>
+    <string name="abc_search_hint">검색중…</string>
+    <string name="abc_searchview_description_clear">최근 검색 삭제</string>
+    <string name="abc_searchview_description_query">최근 검색</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색어</string>
+    <string name="abc_shareactionprovider_share_with">공유하기</string>
+    <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="device_owner_description">이 장치는 조직에서 안전하게 보호하고 관리합니다.</string>
+    <string name="progress_connect_to_mobile_network">모바일 네트워크에 연결중…</string>
+    <string name="search_menu_title">검색</string>
+    <string name="take_a_few_minutes">몇분정도 시간이 소요됩니다</string>
+    <string name="work_profile_description">업무용 앱은 이 프로필에 보관되며 조직에서 관리합니다.</string>
 </resources>
