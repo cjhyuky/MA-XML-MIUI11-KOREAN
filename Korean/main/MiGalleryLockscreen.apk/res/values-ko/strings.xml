@@ -364,7 +364,7 @@
     <string name="passport_click_email_to_valid">"계정을 활성화하기 위해 이메일 수신함으로 보낸 링크를 따라해보세요."</string>
     <string name="passport_confirm_login">계속하기</string>
     <string name="passport_confirm_recycle_account">확인</string>
-    <string name="passport_confirm_recycle_account_msg">"<font color=Red>주의</font> %s 이 번호는 통신사에 의해 이미 다른사람이 사용중이며, 다른 사람이 Mi계정을 이미 연동시켰습니다. 본인 소유의 번호이신가요?"</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;주의&lt;/font&gt; %s 이 번호는 통신사에 의해 이미 다른사람이 사용중이며, 다른 사람이 Mi계정을 이미 연동시켰습니다. 본인 소유의 번호이신가요?"</string>
     <string name="passport_continue">계속하기</string>
     <string name="passport_downlink_reg">전화 번호</string>
     <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
@@ -377,7 +377,7 @@
     <string name="passport_get_back_pwd">계정 비밀번호 찾기</string>
     <string name="passport_get_innetdate_agree">확인</string>
     <string name="passport_get_innetdate_disagree">취소</string>
-    <string name="passport_get_innetdate_msg"><font color=Red>주의</font> %s 이 번호는 통신사를 통해 다른사람이 이미 사용중이며 Mi계정이 이미 연결되어있습니다. 통신사를 통해 온라인으로 확인하시겠습니까?</string>
+    <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;주의&lt;/font&gt; %s 이 번호는 통신사를 통해 다른사람이 이미 사용중이며 Mi계정이 이미 연결되어있습니다. 통신사를 통해 온라인으로 확인하시겠습니까?</string>
     <string name="passport_get_innetdate_title">번호 사용 확인</string>
     <string name="passport_get_verify_code">코드 얻기</string>
     <string name="passport_getting_verify_code">가져오는 중</string>
