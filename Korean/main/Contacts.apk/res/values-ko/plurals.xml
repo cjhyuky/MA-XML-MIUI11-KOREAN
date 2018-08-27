@@ -126,4 +126,7 @@
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%1$d분 이내</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">%1$d개 연락처 불러옴</item>
+    </plurals>  
 </resources>
