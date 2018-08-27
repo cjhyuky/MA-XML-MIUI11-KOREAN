@@ -119,4 +119,6 @@
     <string name="group_name_coworkers">동료</string>
     <string name="group_name_family">가족</string>
     <string name="group_name_friends">친구</string>
+    <string name="device_poco_global">포코폰</string>
+    <string name="device_poco_india">POCO PHONE</string>
 </resources>
