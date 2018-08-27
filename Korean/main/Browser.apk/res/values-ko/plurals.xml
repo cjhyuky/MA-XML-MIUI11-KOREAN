@@ -66,4 +66,10 @@
     <plurals name="view_realtime_clear">
         <item quantity="other">삭제</item>
     </plurals>
+    <plurals name="articles_updated_amount">
+        <item quantity="other">%1$d개 기사가 업데이트 됨</item>
+    </plurals>
+    <plurals name="videos_updated_amount">
+        <item quantity="other">%1$d개 비디오 업데이트 됨</item>
+    </plurals>
 </resources>
