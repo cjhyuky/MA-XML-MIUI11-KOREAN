@@ -256,4 +256,79 @@
     <plurals name="show_reset_countdown">
         <item quantity="other">공장 초기화 %1$d 단계 완료</item>
     </plurals>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d 일 전</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d 분 전</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d 년 전</item>
+    </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item quantity="other">%1$d개 앱 백그라운드 제한됨</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">%1$d개 앱을 중단할까요?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item quantity="other">"이 앱들은 백그라운드에서 실행할 수 없습니다"</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item quantity="other">%2$d개 앱들 현재 백그라운드 제한됨</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item quantity="other">%2$d개 앱들이 백그라운드 배터리 사용이 높습니다</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item quantity="other">%1$d개 앱들 백그라운드 제한됨</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item quantity="other">%d 일 남음</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item quantity="other">%d개 카테고리</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item quantity="other">%d개 카테고리 꺼짐</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item quantity="other">%2$d개 앱 비정상적 실행중</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item quantity="other">앱들이 배터리를 소모중입니다</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item quantity="other">%1$d개 앱 배터리 사용 제한함</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item quantity="other">%1$d개 저장된 보청기</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item quantity="other">+%1$d개의 제안</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item quantity="other">%1$d개의 제안 </item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d개의 기기 연결됨</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item quantity="other">%d 시간 (자동으로 켜지지 않는 한)</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item quantity="other">규칙 %d개가 자동으로 켜질 수 있음</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item quantity="other">%d개 연락처</item>
+    </plurals>
+    <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">오디오 기록을 가져올 수 있기까지 %1$d단계 남았습니다</item>
+    </plurals>
+    <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">GPS 기록을 가져올 수 있기까지 %1$d단계 남았습니다</item>
+    </plurals>
+    <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">모뎀 기록을 가져올 수 있기까지 %1$d단계 남았습니다</item>
+    </plurals>
 </resources>
