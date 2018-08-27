@@ -83,5 +83,8 @@
     </plurals>
     <plurals name="clean_long_msg_p2">
             <item quantity="other">초당 %1$d개의 항목 | 남은 시간: %2$s</item>
-    </plurals>    
+    </plurals>
+    <plurals name="whatsapp_delete_files">
+        <item quantity="other">%1$d개 항목을 삭제하시겠습니까?</item>
+    </plurals>
 </resources>
