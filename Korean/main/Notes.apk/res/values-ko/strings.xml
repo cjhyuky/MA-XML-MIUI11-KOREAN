@@ -235,4 +235,8 @@
     <string name="date_time_picker_dialog_title">날짜와 시간 설정</string>
     <string name="date_time_picker_has_not_set_alarm">"알람이 설정되지 않았습니다"</string>
     <string name="date_time_picker_has_set_alarm">알람 설정 완료</string>
+    <string name="setting_other">기타 설정</string>
+    <string name="setting_privacy">개인정보 보호정책</string>
+    <string name="toast_notes_hidden_edit">이 메모는 성공적으로 숨겨졌습니다. 숨겨진 노트를 보려면 아래로 당기세요.</string>
+    <string name="toast_notes_hidden_home">이 메모는 성공적으로 숨겨졌습니다. 숨겨진 노트를 보려면 아래로 당기세요.</string>    
 </resources>
