@@ -1227,7 +1227,7 @@
     <string name="express_provider_cainiao">챠이냐오</string>
     <string name="express_provider_jingdong">징동</string>
     <string name="express_provider_shunfeng">슌펑</string>
-    <string name="express_state_abandoned">취소된</string>
+    <string name="express_state_abandoned">취소</string>
     <string name="express_state_accept">배송</string>
     <string name="express_state_agent_sign">픽업 대기 중</string>
     <string name="express_state_canceled">취소됨</string>
@@ -1236,7 +1236,7 @@
     <string name="express_state_failed">발견된 문제</string>
     <string name="express_state_reject">거부됨</string>
     <string name="express_state_shipped">배송 예정</string>
-    <string name="express_state_sign">서명 됨</string>
+    <string name="express_state_sign">서명됨</string>
     <string name="express_state_transport">배송중</string>
     <string name="express_state_unknown">아직 데이터가 없습니다.</string>
     <string name="express_update_provider_app_description">이 기능을 사용하려면 %s 앱을 업데이트하십시오.</string>
