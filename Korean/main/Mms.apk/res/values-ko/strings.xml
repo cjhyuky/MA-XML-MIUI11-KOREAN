@@ -685,7 +685,7 @@
     <string name="dialog_message_fake_cell_detect_error">이 메시지에 대한 정보를 수정하시겠습니까? MIUI는 전화번호 (%1$s), 메시지 내용 및 주변 위치 정보를 서버에 업로드하게 됩니다.</string>
     <string name="dialog_title_fake_cell_detect_error">수정</string>
     <string name="draft">초안</string>
-    <string name="fake_cell_alert_detect_error">"조작된 번호에서 온 화가 아닙니다"</string>
+    <string name="fake_cell_alert_detect_error">"조작된 번호에서 온 전화가 아닙니다"</string>
     <string name="notification_channel_description">메세지 알림</string>
     <string name="notification_channel_name">메세지</string>
     <string name="notification_copy">OTP 복사</string>
