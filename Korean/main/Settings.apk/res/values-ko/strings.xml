@@ -6218,7 +6218,7 @@ PIN 설정"</string>
     <string name="main_toolbar_statistic">데이터 사용 현황</string>
     <string name="mi_service_app_detail">데이터 사용 정보</string>
     <string name="network_changed_noti_summary">모바일 데이터 사용중</string>
-    <string name="network_changed_noti_title">DWi-Fi 연결 해제됨</string>
+    <string name="network_changed_noti_title">Wi-Fi 연결 해제됨</string>
     <string name="network_control">앱 설정 보기</string>
     <string name="network_speed_for_apps_close">강제 종료</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">이 앱을 강제 종료하시겠습니까?</string>
@@ -6643,9 +6643,9 @@ PIN 설정"</string>
     <string name="carrier_and_update_text">^1에 의해 ^2 전에 업데이트됨</string>
     <string name="carrier_provisioning">이동 통신사 프로비저닝 정보</string>
     <string name="cell_data_limit">^1 데이터 제한</string>
-    <string name="cell_data_warning">^1 데이터 경고 /string>
-    <string name="cell_data_warning_and_limit">^1 데이터 경고 / ^2 데이터 제한,/string>
-    <string name="change_wifi_state_app_detail_summary">A이 앱이 와이파이 설정을 제어하고 로컬 핫스팟을 시작할 수 있도록 허용합니다.</string>
+    <string name="cell_data_warning">^1 데이터 경고</string>
+    <string name="cell_data_warning_and_limit">^1 데이터 경고 / ^2 데이터 제한</string>
+    <string name="change_wifi_state_app_detail_summary">이 앱이 와이파이 설정을 제어하고 로컬 핫스팟을 시작할 수 있도록 허용합니다.</string>
     <string name="change_wifi_state_app_detail_switch">이 앱이 와이파이 설정을 제어할 수 있도록 허용</string>
     <string name="change_wifi_state_title">와이파이 제어</string>
     <string name="channel_group_notifications_off_desc">사용자의 요청에 따라 안드로이드가 이 기기에 다음 알림이 표시되지 않도록 합니다.</string>
@@ -7160,7 +7160,7 @@ PIN 설정"</string>
     <string name="zen_onboarding_dnd_visual_disturbances_description">"당신이 집중할 수 있도록 휴대전화가 도울 수 있습니다. 이렇게 설정해보세요:- 알림 완전 숨기기- 별표 표시한 연락처나 반복된 전화가 올때만 전화를 수신합니다"</string>
     <string name="zen_onboarding_dnd_visual_disturbances_header">방해금지모드 알림 설정을 변경하시겠습니까?</string>
     <string name="zen_onboarding_more_options">설정에서 이 내용을 추가로 사용자 맞춤 설정하실 수 있습니다.</string>
-    <string name="zen_onboarding_new_setting_summary">알림을 보거나들을 수 없습니다. 별표 표시된 연락처 및 반복 발신자의 전화만 허용됩니다.</string>
+    <string name="zen_onboarding_new_setting_summary">알림을 보거나, 들을 수 없습니다. 별표 표시된 연락처 및 반복 발신자의 전화만 허용됩니다.</string>
     <string name="zen_onboarding_new_setting_title">알림을 화면에 표시하지 않고 무음처리</string>
     <string name="zen_onboarding_ok">완료</string>
     <string name="zen_onboarding_screen_off_summary">"알림시 화면을 켜거나 깨우지 마십시오."</string>
@@ -7197,5 +7197,5 @@ PIN 설정"</string>
     <string name="stop_upload_modem_log">모뎀 기록 수집 끝내기</string>
     <string name="upload_audio_log">오디오 기록 수집 시작</string>
     <string name="upload_gps_log">GPS 기록 수집 시작</string>
-    <string name="upload_modem_log">모뎀 기록 수집 시작</string>    
+    <string name="upload_modem_log">모뎀 기록 수집 시작</string>
 </resources>
