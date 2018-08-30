@@ -1306,4 +1306,17 @@
     <string name="picker_origin_request_progress_message">원본 파일 준비중... (%1$d/%2$d)…</string>
     <string name="search_request_requesting">적용되었습니다. 잠시만 기다려주세요.</string>
     <string name="secret_reason_video_not_support">"숨겨진 앨범에 비디오를 추가할 수 없습니다."</string>
+    <string name="photomovie_audio_default">추억</string>
+    <string name="photomovie_audio_kawaii">로맨틱</string>
+    <string name="photomovie_audio_light">발라드</string>
+    <string name="photomovie_audio_linear">락</string>
+    <string name="photomovie_audio_soft">우크렐레</string>
+    <string name="photomovie_audio_sport">테크노</string>
+    <string name="photomovie_template_kawaii">차임벨</string>
+    <string name="photomovie_template_light">번쩍임</string>
+    <string name="photomovie_template_linear">로드트립</string>
+    <string name="photomovie_template_soft">젊음</string>
+    <string name="photomovie_template_sport">스포츠</string>
+    <string name="video_editor_video_loading">비디오 준비중… 잠시 후 다시 시도하세요.</string>
+    <string name="photo_editor_crop_auto">자동</string>
 </resources>
