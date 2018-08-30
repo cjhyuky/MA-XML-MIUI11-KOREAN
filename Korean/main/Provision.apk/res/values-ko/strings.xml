@@ -94,4 +94,16 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="sim_card_detection_mobile_not_available">"SIM카드 네트워크 접속 실패"</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"귀하의 SIM카드로 네트워크에 접속할 수 없습니다. 확인하시고 다시 연결해주세요."</string>
     <string name="start_up_slogan">가장 멋진 비율의 전체화면을 경험해보세요</string>
+    <string name="agree_terms_input_method_facemoji">"나는 Facemoji 개인 정보 보호 정책을 읽고 동의했습니다."</string>
+    <string name="agree_terms_input_method_kika">"나는 Kika 개인 정보 보호 정책을 읽고 동의했습니다."</string>
+    <string name="terms_of_use_label_systemhelper">, 자체 등록 서비스</string>
+    <string name="terms_of_use_lable_apps">MI 서비스, Mi SIM 활성화 서비스, Mi 클라우드, 장치 찾기, 홈 스크린, 게임 센터, MAB, MIUI 데몬 및 MSA 시스템 구성 요소,
+번역 서비스, 빠른 응용 프로그램, 퀵 카드, 통계, Mi 링크</string>
+    <string name="terms_of_use_lable_default_input_method_facemoji">"이 기능을 사용하기 전에 Facemoji 개인 정보 취급 방침에 동의해야합니다."</string>
+    <string name="terms_of_use_lable_default_input_method_kika">"이 기능을 사용하기 전에 Kika 개인 정보 취급 방침에 동의해야합니다."</string>
+    <string name="terms_of_use_lable_gms">, Google Play 서비스</string>
+    <string name="terms_of_use_lable_smart_cards">스마트 카드</string>
+    <string name="terms_privacy_policy_input_method_facemoji">Facemoji 개인 정보 보호 정책</string>
+    <string name="terms_privacy_policy_input_method_kika">키카 개인 정보 보호 정책</string>
+    <string name="voice_assist_desp_screen_light">화면이 켜지면 휴대 전화에 \"Mi AI\"라고 말합니다. Mi AI가 사용자의 음성을 인식하고 장치를 제어 할 수 있게 됩니다.</string>
 </resources>
