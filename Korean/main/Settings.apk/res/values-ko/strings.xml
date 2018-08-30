@@ -7198,4 +7198,8 @@ PIN 설정"</string>
     <string name="upload_audio_log">오디오 기록 수집 시작</string>
     <string name="upload_gps_log">GPS 기록 수집 시작</string>
     <string name="upload_modem_log">모뎀 기록 수집 시작</string>
+    <string name="close_aod">"이 기능은 \"항상 켜기 모드\"와 함께 사용할 수 없습니다. \"항상 켜기 모드\"를 먼저 끄십시오."</string>
+    <string name="close_fod">"화면이 꺼져있을 때 지문을 사용하여 장치를 잠금 해제 할 수 없습니다. 지문 잠금은 화면이 켜져있을 때만 작동합니다."</string>
+    <string name="close_fod_aod">"화면이 꺼져있을 때는 지문을 사용하여 장치를 잠금 해제 할 수 없습니다. \"항상 켜기 모드\"는 사용할 수 없으며 지문 잠금 해제는 화면이 켜져 있습니다."</string>
+    <string name="to_close">끄기</string>
 </resources>
