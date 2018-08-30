@@ -1220,4 +1220,20 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="video_replay_btn">다시 재생</string>
     <string name="video_retry_btn">다시 시도</string>
     <string name="view_album">앨범 보기</string>
+    <string name="auto_update">자동 업데이트</string>
+    <string name="auto_update_tip">모바일 데이터를 사용하여 시스템 앱을 업데이트할 수 있습니다. 데이터 요금이 발생합니다.</string>
+    <string name="hungama_category_playlist">재생목록</string>
+    <string name="hungama_category_radio">라디오</string>
+    <string name="hungama_category_video">비디오</string>
+    <string name="language_page_confirm">확인</string>
+    <string name="language_preference">언어 설정</string>
+    <string name="language_preference_desc">더 적합한 추천을 받으려면 원하는 언어를 선택하십시오.</string>
+    <string name="languages">언어</string>
+    <string name="mv_metered_play_summary">"데이터 사용량 경고 표시하지 않기​"</string>
+    <string name="mv_metered_play_title">모바일 데이터로 온라인 비디오 재생</string>
+    <string name="select">선택</string>
+    <string name="select_desc_sub">최대 3가지 언어를 선택할 수 있습니다</string>
+    <string name="select_one_language">적어도 한가지 이상 언어를 선택하세요</string>
+    <string name="select_three_languages">최대 3가지 언어를 선택할 수 있습니다</string>
+    <string name="test_mode">테스트 모드</string>
 </resources>
