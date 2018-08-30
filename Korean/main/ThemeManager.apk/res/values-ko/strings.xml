@@ -436,10 +436,6 @@
     <string name="item_resource_audio_optional_phone_ring">전화 벨소리</string>
     <string name="item_resource_audio_optional_alarm_ring">알람</string>
     <string name="item_resource_audio_optional_notification_ring">알림 알람</string>
-    <string name="resource_ring_ranking_list_divider">-</string>
-    <string name="resource_ring_ranking_list_rank_1">1</string>
-    <string name="resource_ring_ranking_list_rank_2">2</string>
-    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="ringtone_set_success">설정 성공</string>
     <string name="online_precust_dreams">드림</string>
     <string name="online_precust_midnight">미드나잇</string>
