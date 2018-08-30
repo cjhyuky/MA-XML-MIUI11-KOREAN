@@ -61,4 +61,6 @@
     <string name="cancel">취소</string>
     <string name="open_perm_msg">나침반은 위치 정보와 카메라에 액세스해야합니다. 좌표를 결정하고 실시간 미리보기를 제공하는 데 필요합니다. 허용 하시겠습니까?</string>
     <string name="open_perm_title">권한 요구됨</string>
+    <string name="preference_other">기타 설정</string>
+    <string name="preference_privacy_title">개인정보 보호정책</string>
 </resources>
