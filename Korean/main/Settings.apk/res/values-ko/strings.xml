@@ -211,9 +211,9 @@
     <string name="bluetooth_show_received_files">받은 파일 보기</string>
     <string name="device_picker">블루투스 기기 선택</string>
     <string name="bluetooth_permission_request">블루투스 권한 요청</string>
-    <string name="bluetooth_ask_enablement">앱에서 블루투스를 사용하도록 설정하려고 합니다.</string>
-    <string name="bluetooth_ask_discovery">앱에서 %1$d초 동안 다른 블루투스 기기에 사용자의 휴대전화가 표시되도록 설정하려고 합니다.</string>
-    <string name="bluetooth_ask_lasting_discovery">앱에서 다른 블루투스 기기에 사용자의 휴대전화가 표시되도록 설정하려고 합니다. 나중에 블루투스 설정에서 변경할 수 있습니다.</string>
+    <string name="bluetooth_ask_enablement">%1$s 앱에서 블루투스를 사용하도록 설정하려고 합니다.</string>
+    <string name="bluetooth_ask_discovery">%1$s 앱에서 %2$d초 동안 다른 블루투스 기기에 사용자의 휴대전화가 표시되도록 설정하려고 합니다.</string>
+    <string name="bluetooth_ask_lasting_discovery">%1$s 앱에서 다른 블루투스 기기에 사용자의 휴대전화가 표시되도록 설정하려고 합니다. 나중에 블루투스 설정에서 변경할 수 있습니다.</string>
     <string name="bluetooth_ask_start_broadcast">%1$s에서 블루투스 브로드캐스팅을 사용하여 주변의 기기와 커뮤니케이션하려고 합니다. 나중에 블루투스 설정에서 변경할 수 있습니다.</string>
     <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s에서 블루투스와 블루투스 브로드캐스팅을 사용하여 주변의 기기와 커뮤니케이션하려고 합니다. 나중에 블루투스 설정에서 변경할 수 있습니다.</string>
     <string name="bluetooth_broadcasting_explaination">"이 기능을 사용하면 휴대전화가 주변의 기기와 커뮤니케이션할 수 있습니다.
@@ -481,7 +481,7 @@
     <string name="bluetooth_settings">블루투스</string>
     <string name="bluetooth_settings_title">블루투스</string>
     <string name="bluetooth_settings_summary">연결 관리, 장치 이름 및 검색 가능 여부 설정</string>
-    <string name="bluetooth_pairing_request">블루투스 페어링 요청</string>
+    <string name="bluetooth_pairing_request">%1$s 기기와 페어링하시겠습니까?</string>
     <string name="bluetooth_enter_pin_msg">기기</string>
     <string name="bluetooth_pairing_key_msg">페어링 코드</string>
     <string name="bluetooth_enter_passkey_msg">페어링 코드를 입력하고 Return 또는 Enter 키를 누르세요.</string>
@@ -1605,8 +1605,8 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="power_usage_level_and_status">%1$s - %2$s</string>
     <string name="power_discharge_remaining">%1$s 남음</string>
     <string name="power_charge_remaining">%1$s 후 완충</string>
-    <string name="power_discharging_duration">%1$d%% - 대략 %2$s 남음</string>
-    <string name="power_charging_duration">%1$d%% - %2$s 후 충전 완료</string>
+    <string name="power_discharging_duration">%1$s%% - 대략 %2$s 남음</string>
+    <string name="power_charging_duration">%1$s%% - %2$s 후 충전 완료</string>
     <string name="power_charging_duration_ac">%1$d%% - %2$s 후 충전 완료(AC)</string>
     <string name="power_charging_duration_usb">%1$d%% - %2$s 후 충전 완료(USB)</string>
     <string name="power_charging_duration_wireless">%1$d%% - %2$s 후 충전 완료(무선)</string>
@@ -1692,11 +1692,11 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="battery_saver">배터리 세이버</string>
     <string name="battery_saver_turn_on_automatically_title">자동으로 사용 설정</string>
     <string name="battery_saver_turn_on_automatically_never">사용 안함</string>
-    <string name="battery_saver_turn_on_automatically_pct">배터리가 %1$d%%일 때</string>
+    <string name="battery_saver_turn_on_automatically_pct">배터리가 %1$s%%일 때</string>
     <string name="process_stats_summary_title">프로세스 통계</string>
     <string name="process_stats_summary">프로세스 실행에 관한 통계</string>
     <string name="app_memory_use">메모리 사용량</string>
-    <string name="process_stats_total_duration">%2$s 사용량을 초과하는 %1$s 앱</string>
+    <string name="process_stats_total_duration">지난 %3$s 동안 %2$s 사용량을 초과하는 %1$s 앱</string>
     <string name="process_stats_type_background">백그라운드</string>
     <string name="process_stats_type_foreground">포그라운드</string>
     <string name="process_stats_type_cached">캐시된 프로세스</string>
@@ -1773,7 +1773,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="tts_engine_name_is_enabled_summary">%s 사용</string>
     <string name="tts_engine_name_is_disabled_summary">%s 사용 안함</string>
     <string name="tts_engine_settings_section">엔진 설정</string>
-    <string name="tts_engine_settings_title">%s에 대한 설정</string>
+    <string name="tts_engine_settings_title">음성 엔진 설정</string>
     <string name="pico_languages_and_voices">언어 및 음성</string>
     <string name="pico_installed">설치됨</string>
     <string name="pico_not_installed">설치되지 않음</string>
@@ -1784,12 +1784,10 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="tts_engine_settings_button">엔진 설정 실행</string>
     <string name="tts_engine_preference_section_title">기본 엔진</string>
     <string name="tts_general_section_title">기본설정</string>
-    
-      <string name="tts_reset_speech_pitch_summary">말하는 피치를 기본값으로 변경합니다.</string>
-  <string name="tts_reset_speech_pitch_title">말하는 피치 초기화</string>
-  <string name="tts_reset_speech_rate_summary">말하는 속도를 기본값으로 변경합니다.</string>
-  <string name="tts_reset_speech_rate_title">말하는 속도 초기화</string>
-    
+    <string name="tts_reset_speech_pitch_summary">말하는 피치를 기본값으로 변경합니다.</string>
+    <string name="tts_reset_speech_pitch_title">말하는 피치 초기화</string>
+    <string name="tts_reset_speech_rate_summary">말하는 속도를 기본값으로 변경합니다.</string>
+    <string name="tts_reset_speech_rate_title">말하는 속도 초기화</string>
     <string name="gadget_title">전원 컨트롤</string>
     <string name="gadget_toggle_wifi">Wi-Fi 설정 업데이트 중</string>
     <string name="gadget_toggle_bluetooth">블루투스 설정 업데이트</string>
@@ -2325,7 +2323,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="sim_card_number_title">SIM %1$d</string>
     <string name="sim_slot_empty">SIM 카드 비어있음</string>
     <string name="sim_editor_name">SIM 이름</string>
-    <string name="sim_editor_title">SIM 카드</string>
+    <string name="sim_editor_title">SIM 슬롯 %1$d</string>
     <string name="sim_editor_carrier">이동통신사</string>
     <string name="sim_editor_number">번호</string>
     <string name="sim_editor_color">SIM 색상</string>
@@ -3016,7 +3014,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="navigation_type_settings">시스템 조작 방법 설정</string>
     <string name="nearby_wifi">사용 가능한 네트워크</string>
     <string name="delete_saved_network">저장된 네트워크 삭제</string>
-    <string name="batch_delete_saved_network">이 네트워크를 삭제하시겠습니까?</string>
+    <string name="batch_delete_saved_network">%s 네트워크를 삭제하시겠습니까?</string>
     <string name="batch_delete_saved_networks">선택한 모든 네트워크 삭제</string>
     <string name="unlock_set_enter_system">화면 잠금 건너뛰기</string>
     <string name="unlock_set_enter_system_summary">절전 모드 해제 시 홈 화면으로 바로 이동</string>
@@ -3046,7 +3044,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="led_pulse_summary">새 알림이 수신됐을 때 알림 표시등 반복 점등</string>
     <string name="show_rounded_corners">둥근 모서리 표시</string>
     <string name="pref_button_light">버튼 표시등</string>
-    <string name="pref_button_light_summary">메뉴, 홈, 뒤로 버튼 점등</string>
+    <string name="pref_button_light_summary">메뉴, %1$s, 뒤로 버튼 점등</string>
     <string name="button_light_timeout">버튼 LED점등 유지 시간 설정</string>
     <string name="battery_light_title">충전 중에 LED 점등</string>
     <string name="sim_change_failed_enable_sim_lock">지금 SIM 잠금 켜기</string>
@@ -3423,7 +3421,7 @@ PIN 설정"</string>
     <string name="android_beam_tips">두 기기를 접촉시킨 후 보내실 콘텐츠를 터치하십시오.</string>
     <string name="bt_trace_log">블루투스 추적 로그</string>
     <string name="bt_trace_log_summary">블루투스 추적 로그</string>
-    <string name="bluetooth_ask_enablement_detected">" 블루투스를 키려고 합니다."</string>
+    <string name="bluetooth_ask_enablement_detected">"%s 앱에서 블루투스를 키려고 합니다."</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" 블루투스를 켜서 %1$d초 동안 휴대전화를 다른 기기에 표시되게 하려 합니다."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" 블루투스를 켜서 휴대전화를 다른 기기에 표시되게 하려 합니다. 이는 나중에 블루투스 설정에서 변경할 수 있습니다."</string>
     <string name="wifi_share">Wi-Fi 공유</string>
@@ -4424,7 +4422,7 @@ PIN 설정"</string>
     <string name="launch_by_default">기본으로 열기</string>
     <string name="launch_defaults_none">기본설정 없음</string>
     <string name="launch_defaults_some">기본설정 많음</string>
-    <string name="battery_summary">마지막 완충 후 %1$d%% 사용함</string>
+    <string name="battery_summary">마지막 완충 후 %1$s%% 사용함</string>
     <string name="memory_settings_title">메모리</string>
     <string name="memory_usage">메모리 사용</string>
     <string name="memory_usage_apps">앱에 사용된 메모리</string>
@@ -4512,7 +4510,7 @@ PIN 설정"</string>
     <string name="app_overlay_permission_preference">앱 그리기 허용</string>
     <string name="app_permissions">앱 권한</string>
     <string name="app_permissions_group_summary" formatted="false">%d 앱의 %d 허용됨</string>
-    <string name="app_permissions_summary" formatted="false">%d 앱의 %d 허용됨</string>
+    <string name="app_permissions_summary" formatted="false">%1$s 권한을 사용하는 앱</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">이 앱은 당신의 계정에 접근할 수 있습니다. %1$s에서 제어함.</string>
     <string name="app_usage_preference">앱 사용량 설정</string>
     <string name="apps_storage">앱 저장소</string>
@@ -4528,7 +4526,7 @@ PIN 설정"</string>
     <string name="assistant_security_warning_agree">동의</string>
     <string name="assistant_security_warning_disagree">거부</string>
     <string name="assistant_security_warning_title">당신의 어시스턴트를 %s로 설정하시겠습니까?</string>
-    <string name="available_via_passpoint">사용 가능</string>
+    <string name="available_via_passpoint">%s 사용 가능</string>
     <string name="available_virtual_keyboard_category">가상 키보드 사용 가능</string>
     <string name="average_memory_use">평균 메모리 사용량</string>
     <string name="average_used">평균 사용량 (%)</string>
@@ -4553,7 +4551,7 @@ PIN 설정"</string>
     <string name="bluetooth_disabled">꺼짐</string>
     <string name="bluetooth_dun_profile_summary_connected">DUN 서버에 연결됨</string>
     <string name="bluetooth_dun_profile_summary_use_for">Dial-up 네트워크 연결에 사용</string>
-    <string name="bluetooth_pairing_shares_phonebook">%1$s를 연락처와 전화 기록에 추가 허용</string>
+    <string name="bluetooth_pairing_shares_phonebook">연락처와 전화 기록에 추가 허용</string>
     <string name="bluetooth_pin_values_hint_16_digits">16자리여야 합니다.</string>
     <string name="bluetooth_profile_dun">Dial-up 네트워크 연결에 사용됨</string>
     <string name="bluetooth_profile_sap">SIM 연결에 사용딤</string>
@@ -4574,13 +4572,13 @@ PIN 설정"</string>
     <string name="camera_double_tap_power_gesture_title">전원 버튼을 두번 눌러 카메라 실행</string>
     <string name="camera_gesture_desc">손목을 두번 흔들어 카메라 실행</string>
     <string name="camera_gesture_title">두번 비틀어 카메라 실행</string>
-    <string name="cell_data_template">%1$s 모바일 데이터</string>
+    <string name="cell_data_template">모바일 데이터</string>
     <string name="cell_warning_and_limit">%1$s 데이터 경고 / %2$s 데이터 한도</string>
     <string name="cell_warning_only">%1$s 데이터 경고</string>
     <string name="cellular_data_usage">모바일 데이터 사용량</string>
     <string name="change">변경</string>
     <string name="change_storage">저장소 변경</string>
-    <string name="charge_length_format">%1$초 전</string>
+    <string name="charge_length_format">%1$s초 전</string>
     <string name="checking_decryption">체크중…</string>
     <string name="choose_assist_title">어시스트 앱 변경</string>
     <string name="choose_profile">프로필 선택</string>
@@ -4690,7 +4688,7 @@ PIN 설정"</string>
     <string name="encryption_interstitial_message_pattern_for_fingerprint">"지문을 사용하여 장치의 잠금을 해제하는 것 외에도  패턴을 요구하여 이 장치를 보호할 수 있습니다. 장치가 시작될 때까지 전화, 메시지 또는 알림을 수신 할 수 없습니다.”</string>
     <string name="encryption_interstitial_message_pin_for_fingerprint">" 지문을 사용하여 장치를 잠금 해제하는 것 외에도 PIN을 요구하여 이 장치를 보호 할 수 있습니다. 장치가 시작될 때까지는 통화, 메시지 또는 알림을 수신 할 수 없습니다.”</string>
     <string name="ethernet">인터넷</string>
-    <string name="ethernet_data_template">%1$s 데이터</string>
+    <string name="ethernet_data_template">모바일 데이터</string>
     <string name="ethernet_data_usage">데이터 사용량</string>
     <string name="filter_all_apps">모든 앱</string>
     <string name="filter_enabled_apps">활성화됨</string>
@@ -5139,7 +5137,7 @@ PIN 설정"</string>
     <string name="suggestion_additional_fingerprints">다른 지문 추가</string>
     <string name="suggestion_additional_fingerprints_summary">다른 지문으로 잠금 해제</string>
     <string name="suggestion_remove">삭제</string>
-    <string name="suggestions_title">권장 사항 (%1$d)</string>
+    <string name="suggestions_title">권장 사항</string>
     <string name="summary_range_verbal_combination">%1$s 에서 %2$s</string>
     <string name="supplicant_state_label">요청자 상태:</string>
     <string name="suw_back_button_label">뒤로</string>
@@ -5270,7 +5268,7 @@ PIN 설정"</string>
     <string name="wifi_config_info">Wi-Fi 구성</string>
     <string name="wifi_configure_titlebar">Wi-Fi 구성</string>
     <string name="wifi_connected_no_internet">연결되었으나 인터넷 사용이 불가능합니다.</string>
-    <string name="wifi_data_template">%1$s 와이파이 데이터</string>
+    <string name="wifi_data_template">와이파이 데이터</string>
     <string name="wifi_data_usage">와이파이 데이터 사용량</string>
     <string name="wifi_disabled_wifi_failure">"Wi-Fi를 사용할 수 없습니다."</string>
     <string name="wifi_display_autonomous_go">자율 이동 활성화</string>
@@ -5387,7 +5385,6 @@ PIN 설정"</string>
     <string name="zen_mode_rule_name_warning">이미 사용중인 규칙 이름</string>
     <string name="zen_mode_rule_not_found_text">규칙을 찾을 수 없습니다.</string>
     <string name="zen_mode_rule_summary_enabled_combination">설정 / %1$s</string>
-    <string name="zen_mode_rule_summary_provider_combination">"%1$s”</string>
     <string name="zen_mode_rule_type">규칙 유형</string>
     <string name="zen_mode_rule_type_unknown">알 수 없음</string>
     <string name="zen_mode_schedule_alarm_summary">종료 시간 또는 다음 알람에서 중지 (둘 중 빠른 날짜 적용)</string>
@@ -5617,8 +5614,8 @@ PIN 설정"</string>
     <string name="battery_details_title">배터리 사용량</string>
     <string name="battery_detail_power_usage">배터리 사용량</string>
     <string name="battery_info_status_charging_lower">충전중</string>
-    <string name="bluetooth_ask_discovery_no_name">앱에서 %1$d초 동안 다른 블루투스 기기에 사용자의 휴대전화가 표시되도록 설정하려고 합니다.</string>
-    <string name="bluetooth_ask_enablement_and_discovery_no_name">앱에서 블루투스를 사용하고 %1$d초 동안 다른 기기에 사용자의 휴대전화가 표시되도록 설정하려고 합니다.</string>
+    <string name="bluetooth_ask_discovery_no_name">%1$s 앱에서 %2$d초 동안 다른 블루투스 기기에 사용자의 휴대전화가 표시되도록 설정하려고 합니다.</string>
+    <string name="bluetooth_ask_enablement_and_discovery_no_name">%1$s 앱에서 블루투스를 사용하고 %2$d초 동안 다른 기기에 사용자의 휴대전화가 표시되도록 설정하려고 합니다.</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">앱에서 블루투스를 사용하고 다른 기기에 사용자의 휴대전화가 표시되도록 설정하려고 합니다. 나중에 블루투스 설정에서 변경할 수 있습니다.</string>
     <string name="bluetooth_ask_lasting_discovery_no_name">앱에서 다른 블루투스 기기에 사용자의 휴대전화가 표시되도록 설정하려고 합니다. 나중에 블루투스 설정에서 변경할 수 있습니다.</string>
     <string name="bluetooth_connected_summary">%1$s에 연결됨</string>
@@ -5778,7 +5775,9 @@ PIN 설정"</string>
     <string name="automatic_storage_manager_activation_warning">파일 매니저에 의해 파일이 관리됩니다.</string>
     <string name="automatic_storage_manager_days_title">&amp; 파일 삭제</string>
     <string name="automatic_storage_manager_deactivation_warning">파일 관리자를 해제하시겠습니까?</string>
-    <string name="automatic_storage_manager_freed_bytes">"%1$s 사용 가능"</string>
+    <string name="automatic_storage_manager_freed_bytes">"%1$s 사용 가능
+
+마지막 실행 시간 : %2$s"</string>
     <string name="automatic_storage_manager_preference_title">파일 관리자</string>
     <string name="automatic_storage_manager_settings">저장소 관리</string>
     <string name="automatic_storage_manager_text">저장소 확보를 위해 파일 관리자가 미 클라우드에 백업된 사진과 영상이 삭제됩니다.</string>
@@ -6139,7 +6138,7 @@ PIN 설정"</string>
     <string name="enabled_authorised_apps_title">승인된 권한</string>
     <string name="privacy_authorize_dialog_agree">동의</string>
     <string name="privacy_authorize_dialog_exit">나가기</string>
-    <string name="privacy_authorize_dialog_message">%2$s 사항을 읽고 동의하는 것을 %1$s 앱이 요구하고 있습니다. 정상적인 네트워크 연결이 필요합니다. 동의하십니까?</string>
+    <string name="privacy_authorize_dialog_message">&lt;Data&gt;"이 서비스의 기본 기능을 사용하려면, Xiaomi가 개인 데이터를 수집, 처리 및 사용하는데 동의를 해야합니다.  \"동의\" 버튼을 누르는것은 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;사용자 동의amp;lt;/a&amp;gt; 를 읽고 동의를 하였다는것을 의미합니다..&amp;#8203;"&lt;/Data&gt;</string>
     <string name="privacy_authorize_network_error">네트워크에 연결하고 다시 시도하십시오.</string>
     <string name="privacy_authorize_privacy_policy">개인정보 보호정책</string>
     <string name="privacy_authorize_revoke">취소</string>
@@ -6194,7 +6193,7 @@ PIN 설정"</string>
     <string name="firewall_allow_wlan">Wi-Fi 사용 허용</string>
     <string name="firewall_applist">앱</string>
     <string name="firewall_mobile">모바일 데이터</string>
-    <string name="firewall_network_allow">%1$s 네트워크가 2$s 연결을 사용할 수 있도록 허용함</string>
+    <string name="firewall_network_allow">%1$s 네트워크가 %2$s 연결을 사용할 수 있도록 허용함</string>
     <string name="firewall_network_restrict_notify_message">탭하여 설정 변경</string>
     <string name="firewall_network_restrict_notify_mobile">모바일 데이터</string>
     <string name="firewall_partial">다음 방법을 사용해 연결하는 모든 앱 허용​</string>
@@ -6207,7 +6206,7 @@ PIN 설정"</string>
     <string name="firewall_restrict_wlan">Wi-Fi 연결을 사용해 제한</string>
     <string name="firewall_set_bg_firewall_default_dialog_summary">"백그라운드 연결을 제한하면 새 앱을 설치 한 후에 백그라운드에서 인터넷에 연결할 수 없습니다. 이 후에는 메시지를 수신하거나 콘텐츠를 다운로드 할 수 없습니다. 계속하시겠습니까?"</string>
     <string name="firewall_set_bg_firewall_default_dialog_title">새 앱의 네트워크 연결 제한</string>
-    <string name="firewall_temp_rule_reason">%2$s에 의해 1$s의 네트워크 제한됨</string>
+    <string name="firewall_temp_rule_reason">%2$s에 의해 %1$s의 네트워크 제한됨</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"이 스위치가 꺼져있을 때 설치된 앱은 Wi-Fi를 사용하여 인터넷에 연결할 수 없습니다."</string>
     <string name="foreground_traffic">%s 메인 화면</string>

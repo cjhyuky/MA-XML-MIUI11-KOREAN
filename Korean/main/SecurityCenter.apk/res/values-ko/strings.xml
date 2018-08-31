@@ -384,7 +384,7 @@ SMS 전송"</string>
     <string name="pref_title_traffic_speed_state">네트워크 속도 보이기</string>
     <string name="pref_title_declaration">중요 면책 조항</string>
     <string name="pref_new_installed_preconfig_title">새 앱의 기본 설정</string>
-    <string name="pref_mi_sim_settings">Mi SIM 설정</string>
+    <string name="pref_mi_sim_settings">%s 어플 설정</string>
     <string name="pref_title_upload_data_usage">데이터 사용량 통계 보고</string>
     <string name="pref_summary_upload_data_usage">MIUI를 개선하기 위해 사용자 오류를 서버로 자동 전송합니다. </string>
     <string name="pref_manual_adjust">데이터 사용량 통계 수동으로 설정</string>
@@ -1949,7 +1949,7 @@ SMS 전송"</string>
     <string name="more_game">더 많은 게임</string>
     <string name="sys_title_gamebooster_unit_gb">G</string>
     <string name="sys_title_gamebooster_unit_mb">M</string>
-    <string name="google_base_app_install_choice">\"%s\" 앱이 정상작동하려면 구글 서비스 프레임워크가 설치되어야 합니다. 다운로드하여 설치하시겠습니까?</string>
+    <string name="google_base_app_install_choice">앱이 정상작동하려면 구글 서비스 프레임워크가 설치되어야 합니다. 다운로드하여 설치하시겠습니까?</string>
     <string name="application_item_disable">제한됨</string>
     <string name="application_item_already_permission">허용됨</string>
     <string name="man_add_application">수동으로 자동 시작 앱 추가</string>
@@ -2148,7 +2148,7 @@ SMS 전송"</string>
     <string name="net_booster_expire_notification_tip">네트워크 스피드 부스트 %d 남음. 문제가 생기면 새로고침하세요.</string>
     <string name="status_bar_network_flow_content">오늘: %1$s 남음: %2$s</string> 
     <string name="status_bar_network_flow_content_not_setting">오늘: %1$s 이번달: %2$s</string> 
-    <string name="status_bar_network_flow_exceed_content">오늘: %1$s 이번달 남음: %2$s</string> 
+    <string name="status_bar_network_flow_exceed_content">오늘: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;이번달 남음: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
     <string name="status_bar_network_flow_phone_balance">" 잔액:%1$s "</string> 
     <string name="status_bar_network_flow_purchase">"구매 &gt;"</string> 
     <string name="status_bar_network_flow_setup_data_plan">"데이터 플랜 설정 &gt;"</string> 
