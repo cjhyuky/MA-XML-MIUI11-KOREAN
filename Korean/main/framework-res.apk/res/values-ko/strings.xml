@@ -1667,7 +1667,7 @@
     <string name="deny_button">거절</string>
     <string name="dump_heap_notification">%1$s 한도 초과</string>
     <string name="dump_heap_notification_detail">탭하여 공유하기</string>
-    <string name="dump_heap_text">%1$s 앱이 메모리 한도를 초과화였습니다. 헤드 범프 기능을 사용할 수 있습니다.</string>
+    <string name="dump_heap_text">%1$s 앱이 메모리 한도를 %2$s 초과화였습니다. 헤드 범프 기능을 사용할 수 있습니다.</string>
     <string name="dump_heap_title">공유하시겠습니까?</string>
     <string name="expand_action_accessibility">펼치기</string>
     <string name="expand_button_content_description">버튼 펼치기</string>
