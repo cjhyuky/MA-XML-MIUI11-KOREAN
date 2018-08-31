@@ -1192,14 +1192,14 @@
     <string name="ext_media_unmounting_notification_title">아직 %s 미디어를 꺼내는 중...</string>
     <string name="ext_media_unsupported_notification_message">이 기기는 이 %s 미디어를 지원하지 않습니다. 탭하여 지원되는 형식으로 포맷하세요.</string>
     <string name="ext_media_unsupported_notification_title">%s 지원되지 않음</string>
-    <string name="ext_media_checking_notification_title">SD 카드 준비 중</string>
+    <string name="ext_media_checking_notification_title">%s 준비 중</string>
     <string name="ext_media_checking_notification_message">오류 확인 중입니다.</string>
     <string name="ext_media_nofs_notification_title">빈 SD 카드</string>
     <string name="ext_media_nofs_notification_message">SD 카드가 비어 있거나 지원되지 않는 파일 시스템을 사용합니다.</string>
     <string name="ext_media_unmountable_notification_title">손상된 SD 카드</string>
     <string name="ext_media_unmountable_notification_message">SD 카드가 손상되었습니다. 다시 포맷하시기 바랍니다.</string>
     <string name="ext_media_badremoval_notification_title">SD 카드가 예상치 않게 제거되었습니다.</string>
-    <string name="ext_media_badremoval_notification_message">데이터 손실을 피하려면 SD 카드를 제거하기 전에 마운트 해제합니다.</string>
+    <string name="ext_media_badremoval_notification_message">데이터 손실을 피하려면 %s 제거 전에 마운트 해제 해야합니다.</string>
     <string name="ext_media_safe_unmount_notification_title">SD 카드 제거 가능</string>
     <string name="ext_media_safe_unmount_notification_message">안전하게 SD 카드를 제거할 수 있습니다.</string>
     <string name="ext_media_nomedia_notification_title">SD 카드 없음</string>
