@@ -153,7 +153,7 @@
     <string name="button_convert_fbe">삭제하고 변환하기…</string>
     <string name="category_personal">개인</string>
     <string name="category_work">업무</string>
-    <string name="charge_length_format">%1$초 전</string>
+    <string name="charge_length_format">%1$s초 전</string>
     <string name="choose_profile">프로필 선택</string>
     <string name="clear_adb_keys">USB 디버깅 권한 취소</string>
     <string name="confirm_enable_oem_unlock_text">주의 : 이 기능이 켜져 있을 때에는 기기 보호 기능이 해제됩니다.</string>

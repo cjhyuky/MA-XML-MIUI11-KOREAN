@@ -36,7 +36,7 @@
     <string name="opensource_preference_title">오픈소스 프로젝트</string>
     <string name="terms_preference_title">사용약관</string>
     <string name="privacy_preference_title">개인정보 보호 정책</string>
-    <string name="check_code">%1$에 대한 올바른 키 값이 있는지 확인하려면 여기에 있는 값이 서버에서 제공하는 무결성 검사 값과 일치하는지 확인하십시오.</string>
+    <string name="check_code">%1$s에 대한 올바른 키 값이 있는지 확인하려면 여기에 있는 값이 서버에서 제공하는 무결성 검사 값과 일치하는지 확인하십시오.</string>
     <string name="general_security_exception">일반적인 보안 예외</string>
     <string name="decoding_exception">디코딩 예외</string>
     <string name="submit">저장</string>

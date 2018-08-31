@@ -441,8 +441,8 @@
     <string name="online_precust_midnight">미드나잇</string>
     <string name="current_version_incompatible">이 테마를 적용할 수 없습니다.</string>
     <string name="find_more_theme">더 찾아보기</string>
-    <string name="hide_free">무료 테마 숨기기</string>
-    <string name="hide_incompatible">적용 불가능한 테마 숨기기</string>
+    <string name="hide_free">%1$s 무료 테마 숨기기</string>
+    <string name="hide_incompatible">적용 불가능한 %1$s 테마 숨기기</string>
     <string name="online_precust_abstract">추상</string>
     <string name="online_precust_animal">동물</string>
     <string name="online_precust_asphalt">아스팔트</string>

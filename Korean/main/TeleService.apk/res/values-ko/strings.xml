@@ -1822,7 +1822,7 @@
     <string name="tts_default_sample_string">음성 합성의 예입니다.</string>
     <string name="tts_engine_network_required">이 언어는 TTS (text-to-speech) 출력을 위해 작동하는 네트워크 연결이 필요합니다.</string>
     <string name="tts_engine_preference_section_title">선호하는 엔진</string>
-    <string name="tts_engine_security_warning">이 음성 엔진은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 포함하여 모든 음성 텍스트를 수집할 수 있습니다. 이 음성 엔진을 사용하도록 설정하시겠습니까?</string>
+    <string name="tts_engine_security_warning">이 음성 엔진은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 포함하여 모든 음성 텍스트를 수집할 수 있습니다. 이 데이터는 %s 음성 엔진이 수집합니다. 이 음성 엔진을 사용하도록 설정하시겠습니까?</string>
     <string name="tts_engine_settings_button">엔진 실행 설정</string>
     <string name="tts_engine_settings_title">%s 설정</string>
     <string name="tts_general_section_title">일반</string>
