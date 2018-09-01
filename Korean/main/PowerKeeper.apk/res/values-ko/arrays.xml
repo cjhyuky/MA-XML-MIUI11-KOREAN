@@ -91,4 +91,20 @@
         <item>퍼포먼스 모드</item>
         <item>균형 모드</item>
     </string-array>
+    <string-array name="pc_manage_active_app_items">
+        <item>슬립모드로 전환</item>
+        <item>전원 절약</item>
+    </string-array>
+    <string-array name="hmode_app_classify1">
+        <item>사용자 설정</item>
+        <item>배터리 세이버</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>사용중인 앱</item>
+        <item>슬립 상태</item>
+    </string-array>
+    <string-array name="emode_app_groups">
+        <item>시스템 앱</item>
+        <item>기타 앱</item>
+    </string-array>
 </resources>

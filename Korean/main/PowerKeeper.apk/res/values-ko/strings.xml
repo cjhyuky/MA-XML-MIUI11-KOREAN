@@ -218,4 +218,11 @@
     <string name="app_preload_policies_summary">ML 모델을 사용하여 사용할 앱을 예측하고 앱 퍼포먼스를 향상시킬 수 있습니다.</string>
     <string name="app_preload_policies_title">AI 준비 완료</string>
     <string name="pref_config_title">작업 최적화</string>
+    <string name="active_classify">작업 상태로 정렬</string>
+    <string name="appconfig_active_app_dialog_title">사용중인 앱 관리</string>
+    <string name="config_classify">앱 설정에 따라 정렬</string>
+    <string name="about_extreme_mode">극단적인 배터리 세이버</string>
+    <string name="extreme_mode_max_item_alert">극단적인 배터리 세이버 모드에서는 4개의 앱만 백그라운드에서 실행가능합니다.</string>
+    <string name="message_i_know">인지함</string>
+    <string name="privacy">개인정보 보호정책</string>
 </resources>
