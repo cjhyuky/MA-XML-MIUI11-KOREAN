@@ -746,7 +746,7 @@
     <string name="rcs_summary_auto_resend_sms">"원본 메시지를 보낼 수 없는 경우 차이나 모바일 문자 메시지를 SMS로 변환하십시오. 이동 통신사에서 이 메시지에 대해 요금을 청구합니다."</string>
     <string name="rcs_summary_silence_message">데스크탑에서 접속중일때는 무음으로 알립니다</string>
     <string name="rcs_wait_for_retry_text">기다리는 중…</string>
-    <string name="recommend_bar_cancel">무사하기</string>
+    <string name="recommend_bar_cancel">무시하기</string>
     <string name="recommend_bar_message_mx">Mi 메시지를 사용하면 요금을 지불하지 않고도 다른 MIUI 장치로 메시지를 보낼 수 있습니다.</string>
     <string name="recommend_bar_message_mx_rcs">Mi 메시지를 사용하면 요금을 지불하지 않고도 다른 MIUI 기기 및 차이나 모바일 사용자에게 메시지를 보낼 수 있습니다.</string>
     <string name="recommend_bar_message_rcs">차이나 모바일 메시징을 사용하면 요금없이 다른 사용자에게 메시지를 보낼 수 있습니다.</string>
