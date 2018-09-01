@@ -3682,9 +3682,9 @@ PIN 설정"</string>
     <string name="whetstone_level_title">메모리 최적화</string>
     <string name="whetstone_level_reboot">이 설정은 기기를 재시작한 후 적용됩니다.</string>
     <string name="whetstone_level_reboot_OK">재시작</string>
-    <string name="alpha_build">" | 알파"</string>
-    <string name="developer_build">" | 개발자롬"</string>
-    <string name="stable_build">" | 안정화롬"</string>
+    <string name="alpha_build">" 알파"</string>
+    <string name="developer_build">" 개발자롬"</string>
+    <string name="stable_build">" 안정화롬"</string>
     <string name="location_agps_params_settings_title">AGPS 설정</string>
     <string name="location_agps_supl_settings">SUPL 설정</string>
     <string name="location_agps_supl_server_addr">서버 주소</string>
