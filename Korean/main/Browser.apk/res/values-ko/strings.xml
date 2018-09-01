@@ -1476,7 +1476,7 @@
     <string name="save_file_suffix">파일</string>
     <string name="short_video_description">영상 채널</string>
     <string name="short_video_tip">재밌는 영상을 감상하세요!</string>
-    <string name="suggestion_clear_record_message">아무것도 입력하지 않고 저장하시길 원하십니까?</string>
+    <string name="suggestion_clear_record_message">아무것도 입력된 것이 없습니다</string>
     <string name="title_notice_push">푸시 알림 켜기</string>
     <string name="action_imme_open">바로 열기</string>
     <string name="bubble_guide_logined_text">행운의 그림으로 로그인</string>
