@@ -2894,6 +2894,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="handy_mode">한 손 조작 모드</string>
     <string name="handy_mode_enable">한 손 조작 모드</string>
     <string name="handy_mode_tips">홈버튼에서 왼쪽이나 오른쪽으로 스와이프하여 화면을 한쪽으로 가깝게 당기십시오.</string>
+    <string name="handy_mode_tips_full_screen">" 전체화면 제스처를 사용하는 경우 터치도우미를 사용하여 한 손 모드를 켤 수 있으며, 전체 화면 제스처를 끄고 이전처럼 버튼을 스와이프하여 사용할 수도 있습니다."</string>
     <string name="handy_mode_size">화면 크기</string>
     <string name="touch_assistant">터치 도우미</string>
     <string name="screenshot">스크린샷</string>
@@ -2995,7 +2996,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="security_privacy_settings_title">개인 정보 보호</string>
     <string name="navigation_guide_app_summary">화면 상단부분을 왼쪽이나 오른쪽으로 스와이프하세요</string>
     <string name="navigation_guide_app_title">"앱 실행 동작"</string>
-    <string name="navigation_guide_back_anim_summary">"화면을 스위핑하는 동안 애니메이션 표시"</string>
+    <string name="navigation_guide_back_anim_summary">"화면을 스와이프하는 동안 애니메이션 표시"</string>
     <string name="navigation_guide_back_anim_title">뒤로가기 제스쳐 애니메이션</string>
     <string name="navigation_guide_back_summary">화면을 왼쪽 또는 오른쪽으로 밀기</string>
     <string name="navigation_guide_back_title">뒤로가기</string>
@@ -5443,9 +5444,9 @@ PIN 설정"</string>
     <string name="wifi_assistant_setting_summary">구글 Wi-Fi 어시스턴트</string>
     <string name="wifi_assistant_setting_title">Wi-Fi 어시스턴트</string>
     <string name="wifi_assistant_vpn_message">데이터 보호를 위해 구글 Wi-Fi 어시스턴트가 보안 VPN 연결을 통해 데이터를 전송합니다.</string>
-    <string name="infinity_display_settings">풀 스크린 화면</string>
+    <string name="infinity_display_settings">전체 화면</string>
     <string name="infinity_display_slogan">새로운 기술의 발명.</string>
-    <string name="infinity_display_title">풀 스크린 화면</string>
+    <string name="infinity_display_title">전체 화면</string>
     <string name="model_name">모델명</string>
     <string name="music_dirac_mode_reduction_noise">노이즈 Type-C 감소</string>
     <string name="settings_notify_need_backup">미 클라우드에 데이터를 백업하세요.</string>
@@ -6322,6 +6323,9 @@ PIN 설정"</string>
     <string name="miui_lab_drive_mode_title">자동차 모드</string>
     <string name="miui_lab_super_resolution_desc">이미지를 선명하게 만듭니다</string>
     <string name="miui_lab_super_resolution_title">슈퍼 해상도</string>
+    <string name="navigation_guide_appswitch_anim_summary">가장자리에서부터 화면을 스와이프하여 이전 앱으로 돌아가십시오</string>
+    <string name="navigation_guide_appswitch_anim_title">이전 앱으로 전환</string>
+    <string name="navigation_guide_appswitch_click">\"이전 앱으로 돌아가기\"를 먼저 켜세요</string>	
     <string name="navigation_guide_appswitch_summary">화면 가장자리에서 왼쪽 또는 오른쪽으로 스와이프하시고 잠시 기다리십시오.</string>
     <string name="navigation_guide_appswitch_title">이전 앱으로 전환</string>
     <string name="paper_mode_side_effect_hint">강도가 높으면 내용 표시에 영향을 줄 수 있습니다.</string>
