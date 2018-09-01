@@ -5,10 +5,13 @@
     <string name="battery_islow_desc">파일을 안전하게 설치하기 위해 충전기를 연결하고 나중에 다시 시도하십시오!</string>
     <string name="btn_changelog">변경사항</string>
     <string name="btn_download">다운로드 (%1$s)</string>
+    <string name="btn_error">에러 발생, 다시 시도하시겠습니까?</string>
     <string name="btn_install">설치</string>
     <string name="btn_no">취소</string>
     <string name="btn_ok">확인</string>
+    <string name="btn_pause">일시정지</string>
     <string name="btn_share">공유</string>
+    <string name="btn_stop">중단</string>
     <string name="btn_yes">확인</string>
     <string name="check_new_version">업데이트 확인</string>
     <string name="dialog_3g_desc">모바일 데이터를 사용하여 롬을 다운로드하면 패킷의 상당한 할당량이 사용될 수 있습니다.</string>
@@ -28,6 +31,8 @@
     <string name="menu_title_current_version_log">새 소식</string>
     <string name="menu_title_pick_rom_file">업데이트 패키지 선택</string>
     <string name="menu_title_recovery">복구 모드로 재시작</string>
+    <string name="message_checkbox">Xiaomi.eu팀으로부터 메시지 앞으로 숨기기</string>
+    <string name="message_title">경고!</string>
     <string name="new_version">새로운 버전이 발견되었습니다!</string>
    <string name="no_info">정보가 없습니다.</string>
    <string name="no_network">네트워크에 연결할 수 없습니다.</string>
@@ -58,5 +63,4 @@
    <string name="btn_stop">정지</string>
    <string name="message_checkbox">더 이상 EU롬 개발팀의 메시지 받지 않기</string>
    <string name="message_title">주의!</string>
-
 </resources>
