@@ -1214,7 +1214,17 @@
     <string name="ball_football_total_rank_worldcup">일정</string>
     <string name="ball_football_world_cup">월드컵</string>
     <string name="setting_ball_recent">최근에 추가됨</string>
+    <string name="app_setting">설정</string>
+    <string name="app_setting_add_header_bg">커버 이미지</string>
+    <string name="app_setting_datetime">날짜 표시</string>
+    <string name="app_setting_dialog_cancel">취소</string>
+    <string name="app_setting_has_not_setted">설정되지 않음</string>
+    <string name="app_setting_has_setted">설정됨</string>
+    <string name="app_setting_more_setting">추가 설정</string>
+    <string name="app_setting_on_off_setting">메인 설정</string>
     <string name="app_setting_privacy_policy">개인정보 보호정책</string>
+    <string name="app_setting_search">검색 바 표시</string>
+    <string name="app_setting_xiaoai">샤오미팬클럽</string>
     <string name="express_app_store_not_found">​​Mi마켓을 찾지 못했습니다</string>
     <string name="express_detail_order_number_prefix">숫자 : %s</string>
     <string name="express_inquiry_all_logistics">전체</string>
