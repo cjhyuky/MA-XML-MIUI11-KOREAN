@@ -92,4 +92,33 @@
         <item>프로젝트 미디어</item>
         <item>VPN 활성화</item>
     </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>재시도하세요</item>
+        <item></item>
+        <item></item>
+        <item>지문 센서를 완전히 덮고 압력을 가하십시오</item>
+        <item></item>
+        <item>지문 센서를 완전히 덮고 압력을 가하십시오</item>
+        <item>지문 센서를 완전히 덮고 압력을 가하십시오</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>지문 센서를 완전히 덮고 압력을 가하십시오</item>
+        <item>지문 센서를 완전히 덮고 압력을 가하십시오</item>
+        <item>"너무 빠릅니다! 지문을 인식할 수 없습니다"</item>
+        <item>손가락을 약간 움직여 다시 시도하십시오</item>
+        <item>손가락을 들어 센서에 다시 올려 놓습니다</item>
+        <item>조금 더 오랫동안 센서에 손가락을 올려 놓으십시오</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>손가락을 살짝 움직이십시오</item>
+        <item>이 지문이 추가되어 있습니다. 다른 지문을 사용하십시오</item>
+    </string-array>
 </resources>
