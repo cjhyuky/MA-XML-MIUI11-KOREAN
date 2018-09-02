@@ -964,8 +964,8 @@
     <string name="turnover_mute_summary">휴대전화를 뒤집으면 벨소리가 음소거됩니다</string>
     <string name="handon_ringer_summary">전화 수신 시 휴대전화를 들면 벨소리 볼륨을 낮춥니다.</string>
     <string name="handon_ringer_title">기기를 들면 벨소리 점점 줄이기</string>
-    <string name="flash_when_ring_summary">수신 통화 시 알림 표시등 깜박임</string>
-    <string name="flash_when_ring_title">벨소리 울리면 깜박임</string>
+    <string name="flash_when_ring_summary">전화 수신시 플래시라이트를 점멸시킵니다</string>
+    <string name="flash_when_ring_title">전화 수신시 플래시 깜빡임</string>
     <string name="enable_proximity_summary">통화 중 화면 끄기</string>
     <string name="enable_proximity_title">근접 센서</string>
     <string name="antispam_notification_title">알 수 없는 번호</string>
