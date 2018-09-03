@@ -1893,4 +1893,14 @@
     <string name="enable_extreme_power_save_mode">배터리 세이버</string>
     <string name="open_extreme_power_save_mode_title">배터리 세이버 켜기</string>
     <string name="quick_settings_extreme_batterysaver_label">배터리 세이버</string>
+    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">블루투스 장치 배터리 %d 퍼센트.</string>
+    <string name="battery_low_percent_format">%d%% 남음</string>
+    <string name="keyguard_accessibility_next_alarm">다음 알람 : %1$s</string>
+    <string name="keyguard_accessibility_pin_area">PIN 영역</string>
+    <string name="keyguard_accessibility_sim_pin_area">SIM PIN 영역</string>
+    <string name="keyguard_accessibility_sim_puk_area">SIM PUK 영역</string>
+    <string name="keyguard_carrier_default">서비스 안됨</string>
+    <string name="keyguard_charged">충전됨</string>
+    <string name="keyguard_charging_back_to_lockscreen">잠금화면으로 돌아가기</string>
+    <string name="keyguard_left_torch">손전등</string>
 </resources>
