@@ -31,7 +31,7 @@
     <string name="pref_front_mirror_title">전면 거울 카메라</string>
     <string name="pref_groupshot_with_primitive_title">편집된 사진과 원본 사진을 함께 저장하기</string>
     <string name="pref_video_quality_title">동영상 품질</string>
-    <string name="pref_video_time_lapse_frame_interval_title">저속 촬영 간격</string>
+    <string name="pref_video_time_lapse_frame_interval_title">타임 랩스 촬영 간격</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">0.06초 간격(X2)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">0.12초 간격(X4)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">0.3초 간격(X10)</string>
@@ -208,12 +208,12 @@
     <string name="toast_burst_snap_finished_start">버스트 샷</string>
     <string name="toast_burst_snap_finished_end">사진</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">오디오 캡쳐가 켜져 있으면 버스트 샷을 사용할 수 없습니다.</string>
-    <string name="time_lapse_error">이 비디오 크기에서는 저속 촬영 녹화를 할 수 없습니다.</string>
+    <string name="time_lapse_error">이 비디오 크기에서는 타임 랩스 녹화를 할 수 없습니다.</string>
     <string name="pref_camera_movie_solid_title">이미지 흔들림 방지</string>
     <string name="simple_mode_button_text_hand_night">HHT 끄기</string>
     <string name="simple_mode_button_text_panorama">파노라마 끄기</string>
     <string name="simple_mode_button_text_color_effect">필터 끄기</string>
-    <string name="simple_mode_button_text_slow_video">저속 촬영 끄기</string>
+    <string name="simple_mode_button_text_slow_video">타임 랩스 끄기</string>
     <string name="simple_mode_button_text_fast_video">슬로우 모션 끄기</string>
     <string name="pref_video_captrue_ability_title">녹화 중 이미지 캡쳐</string>
     <string name="see_qrcode_detals">QR 코드 세부사항 보기</string>
@@ -269,7 +269,7 @@
     <string name="pref_priority_storage_title">SD 카드에 저장</string>
     <string name="pref_camera_tilt_shift_entry_circle">원</string>
     <string name="pref_camera_tilt_shift_entry_parallel">평행</string>
-    <string name="pref_video_speed_fast_title">저속 촬영</string>
+    <string name="pref_video_speed_fast_title">타임 랩스</string>
     <string name="pref_video_speed_slow_title">슬로우 모션</string>
     <string name="pref_camera_manual_mode_title">수동</string>
     <string name="pref_camera_settings">기기</string>
@@ -794,7 +794,7 @@
     <string name="config_name_super_resolution">최고 해상도</string>
     <string name="pref_ai_detect">AI 인식</string>
     <string name="pref_camera_ai_scene_title">AI 장면</string>
-    <string name="pref_camera_beauty">Beautify</string>
+    <string name="pref_camera_beauty">미화 기능</string>
     <string name="pref_camera_dual_enable_title">듀얼 카메라 활성화</string>
     <string name="pref_camera_dual_sat_enable_title">듀얼 SAT 카메라 활성화</string>
     <string name="pref_camera_front_ai_scene_entry_off">AI 장면 꺼짐</string>
