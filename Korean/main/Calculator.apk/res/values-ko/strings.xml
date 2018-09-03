@@ -347,13 +347,13 @@
     <string name="sqrt">√</string>
     <string name="tab_title_calculator">계산기</string>
     <string name="tab_title_convert">변환기</string>
-    <string name="tab_title_tax_mortgage">모기지</string>
-    <string name="tab_title_tax_mortgage_global">모기지</string>
+    <string name="tab_title_tax_mortgage">대출</string>
+    <string name="tab_title_tax_mortgage_global">대출</string>
     <string name="tan_mathematical_value">탄젠트</string>
     <string name="tax_bonus_error">올바른 보너스 금액을 입력하십시오.</string>
     <string name="tax_credit_input_your_pretax_bonuse">세금 전 보너스 금액을 입력하십시오.</string>
     <string name="tax_credit_monthly_salary">월급</string>
-    <string name="tax_credit_mortgage">모기지</string>
+    <string name="tax_credit_mortgage">대출</string>
     <string name="tax_credit_personal_income_tax">재산세</string>
     <string name="tax_credit_pretax_income">세금 전 수입 (CNY)</string>
     <string name="tax_income_annual_bonus_list">연말 보너스</string>
