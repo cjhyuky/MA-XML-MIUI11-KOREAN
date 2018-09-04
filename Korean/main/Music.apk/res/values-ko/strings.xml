@@ -507,7 +507,6 @@
     <string name="upgrade_waringing">오프라인으로 저장된 음악만 들을 수 있게 됩니다.</string>
     <string name="upgrade_immediate">지금 업데이트</string>
     <string name="i_know_it">확인</string>
-    <string name="atmd_music">Ultimate</string>
     <string name="select_all">전체 선택</string>
     <string name="select_none">모든 선택 해제</string>
     <string name="please_select_song">먼저 음악을 고르십시오</string>
@@ -653,7 +652,6 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="miuishare_account_need_login">공유하는 Mi 계정에 Weibo 계정을 추가 합니다. 지금 로그인하시고 공유 하시겠습니까?</string>
     <string name="miuishare_account_need_activate">공유하는 Mi 계정에 Weibo 계정을 추가 합니다. Mi 계정이 활성화 되어있지 않은 것 같습니다. 지금 활성화 하시겠습니까?</string>
     <string name="miuishare_wechat_timeline_title">WeChat 모멘트</string>
-    <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuishare_publish">보내기</string>
     <string name="miuishare_share_done">성공적으로 공유 되었습니다.</string>
     <string name="miuishare_share_editor_title">공유</string>
@@ -713,7 +711,6 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="more_settings">고급 설정</string>
     <string name="more_settings_summary">다운로드 설정, 수면 타이머, 모바일 데이터 관리, 파일 필터, 기타 등등.</string>
     <string name="service_and_settings">서비스와 설정</string>
-    <string name="radar">ACRCloud</string>
     <string name="radar_support_by">ACRCloud 제공</string>
     <string name="radar_listening_state">인식 중…</string>
     <string name="radar_searching_state">검색 중/u2026</string>
@@ -738,7 +735,6 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="othor_song_in_album">이 앨범의 다른 노래</string>
     <string name="ad_extension">홍보</string>
     <string name="ad_close">닫기</string>
-    <string name="ad_mark">AD</string>
     <string name="download_traffic_dialog_msg">모바일 데이터를 사용하여 노래를 다운로드하면 데이터 사용량 청구액이 늘어날 수 있습니다.</string>
     <string name="download_traffic_dialog_position_button">아직 다운로드 중</string>
     <string name="download_traffic_dialog_negative_button">Wi-Fi를 기다리는중</string>
@@ -774,7 +770,6 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="online_favor">추천됨</string>
     <string name="online_bill">차트</string>
     <string name="online_recommend">재생 목록</string>
-    <string name="online_fm">FM</string>
     <string name="online_special">스페셜</string>
     <string name="billboard_song_subtitle">— %s</string>
     <string name="comment_format" formatted="false">%s: %s</string>

@@ -411,7 +411,7 @@
     <string name="ent_agency_code_invalid">입력한 회사 코드 유효하지 않습니다.</string>
     <string name="ent_agree_privacy_policy">"개인 정보 취급 방침을 읽었으며 이에 동의했습니다"</string>
     <string name="ent_app_verified">장치에 엔터프라이즈 응용 프로그램이 설치되어있는 것 같습니다. 엔터프라이즈 모드 활성화?</string>
-    <string name="ent_confirm_dialog_content">"엔터프라이즈 모드를 활성화 한 후에는 시스템의 현재 상태로 돌아갈 수 없지만 모든 데이터는 여전히이 모드에 저장됩니다. "</ string>
+    <string name="ent_confirm_dialog_content">"엔터프라이즈 모드를 활성화 한 후에는 시스템의 현재 상태로 돌아갈 수 없지만 모든 데이터는 여전히이 모드에 저장됩니다. "</string>
     <string name ="ent_disallow_running">앱을 실행할 수 없습니다.</string>
     <string name ="ent_downloading_message">다운로드 중입니다. %d%%</string>
     <string name="ent_download_install_dialog_content">엔터프라이즈 모드를 활성화하려면 기업용 앱을 설치해야합니다. 지금 설치 하시겠습니까?</string>
@@ -428,6 +428,6 @@
     <string name="ent_next_step">다음</string>
     <string name="ent_privacy_policy_notice">*이 모드의 개인 데이터는 정책에 따라 수집됩니다. 귀하의 법인이 설립했습니다. 샤오미는 이 모드에서 개인 정보를 수집하지 않습니다.</string>
     <string name="install">설치</string>
-    <string name="install_error">"다시 설치할 수 없습니다."</ string>
+    <string name="install_error">"다시 설치할 수 없습니다."</string>
     <string name="menu_item_about_privacy_title">개인 정보 보호 정책</string>
 </resources>
