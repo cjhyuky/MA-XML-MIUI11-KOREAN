@@ -11,7 +11,7 @@
     <string name="eq_preset_jazz">재즈</string>
     <string name="eq_preset_pop">팝</string>
     <string name="eq_preset_rock">록</string>
-    <string name="app_name">MusicFX</string>
+    <string name="app_name">음향FX효과</string>
     <string name="no_effects">효과를 사용할 수 없습니다.</string>
     <string name="main_toggle_effects_title">오디오 효과</string>
     <string name="eq_dialog_title">이퀄라이저</string>
