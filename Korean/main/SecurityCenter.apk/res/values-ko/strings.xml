@@ -5,7 +5,6 @@
     <string name="fw_blocked_join">" 및 "</string>
     <string name="tab_title">차단 목록</string>
     <string name="tab_blacklist">차단 목록</string>
-    <string name="tab_sms">SMS</string>
     <string name="tab_call">통화</string>
     <string name="bl_no_block_call">차단된 통화 없음</string>
     <string name="bl_no_block_sms">차단된 메시지 없음</string>
@@ -364,7 +363,6 @@ SMS 전송"</string>
     <string name="app_detail">세부사항</string>
     <string name="app_version">버전</string>
     <string name="app_mobile">모바일</string>
-    <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">없음</string>
     <string name="sorted_dialog_title">정렬</string>
     <string name="cancel_button">취소</string>
@@ -532,9 +530,6 @@ SMS 전송"</string>
     <string name="traffic_alert_auto_modify_notification_titile">데이터 플랜 업데이트됨</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">월간 플랜이 %s로 변경되었습니다.</string>
     <string name="traffic_alert_auto_modify_package_summary">통신사의 정보를 바탕으로 데이터 패키지를 자동으로 조정합니다.</string>
-    <string name="operator_name_cmcc">China Mobile</string>
-    <string name="operator_name_unicom">China Unicom</string>
-    <string name="operator_name_telcom">China Telecom</string>
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_unicom">10010</string>
     <string name="operator_number_telcom">10000</string>
@@ -641,11 +636,9 @@ SMS 전송"</string>
     <string name="btn_stop_diagnostic">중지</string>
     <string name="btn_finish_diagnostic">확인</string>
     <string name="main_toolbar_internet_by_pc_brige">USB 인터넷</string>
-    <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
     <string name="main_toolbar_internet_by_mobiledata">모바일 데이터</string>
     <string name="connect_internet_by_usbshare">USB로 공유된 인터넷</string>
     <string name="connect_internet_by_mobiledata">모바일 데이터 연결</string>
-    <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="unable_connect_internet">인터넷 연결 없음</string>
     <string name="enable_network">먼저 네트워크 켜기</string>
     <string name="disable_air_mode">먼저 비행기 탑승 모드 끄기</string>
@@ -922,7 +915,6 @@ SMS 전송"</string>
     <string name="usage_type_gps">GPS</string>
     <string name="process_mediaserver_label">미디어 서버</string>
     <string name="power_screen">화면</string>
-    <string name="power_wifi">Wi-Fi</string>
     <string name="power_bluetooth">블루투스</string>
     <string name="power_cell">전화 대기</string>
     <string name="power_phone">음성 통화</string>
@@ -957,7 +949,6 @@ SMS 전송"</string>
     <string name="battery_stats_charging_label">충전 중</string>
     <string name="battery_stats_screen_on_label">화면 켜져있음</string>
     <string name="battery_stats_gps_on_label">GPS 켜짐</string>
-    <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
     <string name="battery_stats_wake_lock_label">깨우기</string>
     <string name="battery_stats_phone_signal_label">모바일 네트워크 신호</string>
     <string name="power_btn_analyze">배터리 사용량 분석</string>
@@ -1062,7 +1053,6 @@ SMS 전송"</string>
     <string name="auto_task_operation_airplane_mode">비행기 탑승 모드</string>
     <string name="auto_task_operation_memory_clean_lockscreen">메모리 정리</string>
     <string name="auto_task_operation_mobile_data">모바일 데이터</string>
-    <string name="auto_task_operation_wifi">Wi-Fi</string>
     <string name="auto_task_operation_mute">무음 모드</string>
     <string name="auto_task_operation_vibration">진동</string>
     <string name="auto_task_operation_bluetooth">블루투스</string>
@@ -1123,7 +1113,6 @@ SMS 전송"</string>
     <string name="button_text_update_now">업데이트</string>
     <string name="button_text_fix_now">수정</string>
     <string name="button_text_open_now">열기</string>
-    <string name="button_text_forbid_now">Forbid</string>
     <string name="button_text_disconnect_now">연결 해제</string>
     <string name="apps_item_sms_reset_button_text">기본값 복원</string>
     <string name="apps_item_sms_title">기본 메시지 설정</string>
@@ -1177,8 +1166,6 @@ SMS 전송"</string>
     <string name="sp_scan_item_url_antispam">악성 URL로부터 보호</string>
     <string name="handle_bar_summary_wifi_unknown">알 수 없음</string>
     <string name="sp_settings_group_title_check_item">다중 항목</string>
-    <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
-    <string name="sp_settings_check_item_title_root">Root</string>
     <string name="sp_settings_check_item_title_update">시스템 업데이트</string>
     <string name="sp_settings_check_item_title_virus_exception">바이러스 예외항목</string>
     <string name="sp_settings_check_item_title_sign_exception">서명 예외항목</string>
@@ -1347,7 +1334,6 @@ SMS 전송"</string>
     <string name="hints_virus_lib_update_default_summary">마지막 업데이트 시간 알 수 없음</string>
     <string name="menu_item_virus_lib_auto_update_summary">%s에 업데이트</string>
     <string name="hints_virus_app_list_item_summary">앱</string>
-    <string name="hints_virus_apk_list_item_summary">apk</string>
     <string name="hints_loading_text">로딩 중…</string>
     <string name="activity_title_auto_start_manager">자동 시작</string>
     <string name="activity_title_permission_manager">권한</string>
@@ -1550,8 +1536,8 @@ SMS 전송"</string>
     <string name="virus_auto_update_engine">자동 업데이트：%s</string>
     <string name="hints_scan_danger_result">위험이 발견되었습니다. 지금 수정하세요.</string>
     <string name="ss_activity_main_support_text">%s 제공</string>
-    <string name="hints_virus_app_summary">%s (app)</string>
-    <string name="hints_virus_apk_summary">%s (apk)</string>
+    <string name="hints_virus_app_summary formatted=false">%s (app)</string>
+    <string name="hints_virus_apk_summary formatted=false">%s (apk)</string>
     <string name="hints_risk_name_title">위험:</string>
     <string name="hints_risk_descx_title">설명:</string>
     <string name="button_text_clear">삭제</string>
@@ -1725,7 +1711,6 @@ SMS 전송"</string>
     <string name="downloading">다운로드중</string>
     <string name="installing">설치 중</string>
     <string name="connecting">연결하는 중…</string>
-    <string name="promotion">Ad</string>
     <string name="section_title_system">시스템 보안</string>
     <string name="section_title_clear_acc">캐시 삭제</string>
     <string name="section_title_security_defend">보안</string>
@@ -1764,7 +1749,6 @@ SMS 전송"</string>
     <string name="optimize_result_toast_system_no_item_selected">선택한 항목 없음</string>
     <string name="optimize_result_title_sucurity_risk">보안 위험 발견됨</string>
     <string name="optimize_result_summary_sucurity_risk">몇몇 보안 기능이 꺼져있습니다. 이 기능들을 켜시고 기기를 안전하게 보호하십시오:</string>
-    <string name="optimize_result_ads_close_text">Ad</string>
     <string name="information_setting">추천</string>
     <string name="load_only_under_wlan">Wi-Fi만 사용하여 불러오기</string>
     <string name="recommend_news">추천 항목 수신</string>
@@ -1859,7 +1843,6 @@ SMS 전송"</string>
     <string name="app_manager_app_power">"배터리 사용량: "</string>
     <string name="app_manager_net_control_title">데이터 사용량 제한</string>
     <string name="app_manager_net_mobile">데이터</string>
-    <string name="app_manager_net_wifi">Wi-Fi</string>
     <string name="app_manger_des_separator">", "</string>
     <string name="app_manager_disable">허용하지 않음</string>
     <string name="app_manager_disabled_by_admin">관리자에 의해 허용되지 않음</string>
@@ -1881,7 +1864,6 @@ SMS 전송"</string>
     <string name="app_manager_app_info_pkg">APK 이름</string>
     <string name="app_manager_show_all_apps">모든 앱 표시</string>
     <string name="app_manager_hide_system_server">시스템 서비스 숨기기</string>
-    <string name="app_manager_back">Back</string>
     <string name="app_manager_advanced_setting">고급 설정</string>
     <string name="app_manager_allow"></string>
     <string name="ad_btn_default_text">더 알아보기</string>
@@ -1911,7 +1893,6 @@ SMS 전송"</string>
     <string name="gs_dialog_confirm_close_title">비활성화</string>
     <string name="gs_dialog_confirm_close_msg">홈 화면에서 바로가기가 제거됩니다. 보안 > 설정에서 복원할 수 있습니다.</string>
     <string name="gs_game_performance">성능</string>
-    <string name="gs_game_duration">Time</string>
     <string name="gs_game_disturb_msg">방해 금지 모드</string>
     <string name="add_game">게임 추가</string>
     <string name="add_whitelist">예외목록에 추가</string>
@@ -2599,9 +2580,9 @@ SMS 전송"</string>
     <string name="handle_title_details">배터리 세부 사용량</string>
     <string name="handle_title_system">시스템 배터리 사용량</string>
     <string name="hide_mode_result_summary_text">개별앱의 배터리 세이버 사용자 맞춤 설정</string>
-    <string name="hints_virus_apk_list_item_summary">앱 패키지</string>
-    <string name="hints_virus_apk_summary">%s (앱 패키지)</string>
-    <string name="hints_virus_app_summary">%s (앱)</string>
+    <string name="hints_virus_apk_list_item_summary" format="false">앱 패키지</string>
+    <string name="hints_virus_apk_summary" format="false">%s (앱 패키지)</string>
+    <string name="hints_virus_app_summary" format="false">%s (앱)</string>
     <string name="main_toolbar_internet_by_wifi">와이파이</string>
     <string name="manage_hybrid_permissions">"앱 권한 관리"</string>
     <string name="menu_item_about_privacy_title">개인정보 보호정책</string>

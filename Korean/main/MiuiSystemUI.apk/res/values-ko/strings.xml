@@ -1225,12 +1225,6 @@
     <string name="invalid_sim_puk_hint">PUK는 최소 8자리 이상의 숫자여야 합니다.</string>
     <string name="keyboardview_keycode_delete">Delete 키</string>
     <string name="keyboardview_keycode_enter">Enter 키</string>
-    <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
-    <string name="keyguard_accessibility_pin_area">PIN area</string>
-    <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
-    <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
-    <string name="keyguard_carrier_default">No service.</string>
-    <string name="keyguard_charged">Charged</string>
     <string name="keyguard_charging_info_battery_used_time_text">사용시간</string>
     <string name="keyguard_charging_info_click_to_detail">세부사항 보기</string>
     <string name="keyguard_charging_info_drained_power_percent_text">전력 소모량</string>

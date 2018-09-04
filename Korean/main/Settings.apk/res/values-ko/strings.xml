@@ -4355,7 +4355,6 @@ PIN 설정"</string>
     <string name="dolby_roomsize_high">실외</string>
     <string name="dolby_eq_enter_alert_title">Dolby music 켜기</string>
     <string name="dolby_eq_enter_alert_msg">EQ를 사용하는 Dolby music 모드를 켜시겠습니까?</string>
-    <string name="equalizer">EQ</string>
     <string name="advanced_text_layout">고급 문자 레이아웃 사용 가능</string>
     <string name="device_security_settings_title">보안</string>
     <string name="enable_crypt_keeper_encrypt">암호화 사용 가능</string>
