@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sms_exclude_category">
+        <item>상환</item>
+    </string-array>
+    <string-array name="map_keyword">
+        <item>혼잡</item>
+        <item>정체</item>
+        <item>km 느린</item>
+        <item>도로 건설</item>
+    </string-array>
+    <string-array name="map_title">
+        <item> 잘못된 피크 트립 </item>
+         <item>의 혼잡이 심함 </item>
+         <item> 원활한 트래픽 </item>
+         <item> 분명한 혼잡 없음 </item>
+         <item> 비정상적인 트래픽 </item>
+    </string-array>
+    <string-array name="keyword_recommend_unit">
+         <item>필요</item>
+         <item>만큼 </item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>밤</item>
+        <item>이른 아침</item>
+        <item>아침</item>
+        <item>정오</item>
+        <item>오후</item>
+        <item>늦은 오후</item>
+        <item>저녁</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>공기%1$s</item>
+        <item>공기%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s오염</item>
+        <item>%1$s오염</item>
+        <item>%1$s오염</item>
+        <item>%1$s오염</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>1단계(깔끔)</item>
+        <item>2단계(경미)</item>
+        <item>3단계(보통)</item>
+        <item>4단계(심각)</item>
+        <item>5단계(조금심각)</item>
+        <item>6단계(매우심각)</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>소</item>
+        <item>중</item>
+        <item>대</item>
+    </string-array>
+    <string-array name="express_status_detail">
+        <item>배송중</item>
+        <item>배송준비</item>
+    </string-array>
+    <string-array name="express_status_detail_flag">
+        <item>0</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="express_status_flag_all">
+        <item>0</item>
+        <item>5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>6</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="express_status_all">
+        <item>배달출발</item>
+        <item>배송준비</item>
+        <item>배달완료</item>
+        <item>미확인</item>
+        <item>수령됨</item>
+        <item>거부됨</item>
+        <item>반송됨</item>
+        <item>미확인</item>
+    </string-array>
+    <string-array name="payment_chooser">
+        <item>SMS 지불（메모리카드, 신용 카드 지출）</item>
+        <item>WeChat 지불</item>
+        <item>Alipay 지불</item>
+    </string-array>
+    <string-array name="express_watched_app_filter">
+        <item>택배사:</item>
+        <item>운송장 번호:</item>
+        <item>보내시는 분：</item>
+        <item>물류 정보：</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Red - up, green - down</item>
+        <item>Green - up, red - down</item>
+    </string-array>
+</resources>
