@@ -1274,7 +1274,6 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="hungama_pro">헝가마 프로</string>
     <string name="impunity_declaration_content_agreement">사용자 계약</string>
     <string name="impunity_declaration_content_policy">개인 정보 보호 정책</string>
-    <string name="include_sensitive_extra">false</string>
     <string name="individuation_card_login_button">로그인</string>
     <string name="individuation_card_login_message">"더 많은 노래를 찾으려면 로그인하십시오."</string>
     <string name="individuation_card_title">당신을 위해</string>
@@ -1282,7 +1281,6 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="like_comment_failed">"댓글을 쓸 수 없습니다"</string>
     <string name="like_comment_success">좋아하는</string>
     <string name="load_success">새로 고침</string>
-    <string name="location_fetching_on">켜기</string>
     <string name="login">로그인</string>
     <string name="login_tips">관련 추천을 얻으려면 로그인하십시오.</string>
     <string name="market_version_too_low">앱 스토어를 먼저 업데이트하십시오.</string>
