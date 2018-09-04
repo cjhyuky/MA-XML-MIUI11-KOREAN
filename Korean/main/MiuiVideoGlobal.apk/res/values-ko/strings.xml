@@ -99,7 +99,6 @@
     <string name="video_info_audio_null">없음</string>
     <string name="video_info_frame_rate_label">프레임률:</string>
     <string name="airkan_control_device_des">재생을 제어하려면 아래쪽의 바를 탭하십시오.</string>
-    <string name="airkan_device_xiaomi_phone">Mi</string>
     <string name="toast_back_key_pressed_notice">종료하시려면 \"뒤로\"를 한번 더 탭</string>
     <string name="adjust_position_prev_media_notice">최근</string>
     <string name="adjust_position_next_media_notice">다음</string>
@@ -307,7 +306,6 @@
     <string name="subtitle_offset_normal">"자막을 움직이지 마세요."</string>
     <string name="subtitle_offset_sub_1s">-1초</string>
     <string name="subtitle_offset_sub_dot5s">-0.5초</string>
-    <string name="subtitle_onlinesub_language">Language: %s</string>
     <string name="subtitle_onlinesub_loading">자막 로딩중…</string>
     <string name="subtitle_onlinesub_loading_wait">자막을 불러오는 중…</string>
     <string name="subtitle_onlinesub_right_declare_content">&lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>에서 자막을 불러오세요. &lt;br/>&lt;br/> 모든 온라인 자막은&lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>에서 제공되었습니다.</string>
@@ -351,6 +349,6 @@
     <string name="vp_device_list_seaching">캐스트할 장치 없음</string>
     <string name="com_permission_desc">"Mi 비디오가 기기의 저장소에 접근할 수 없습니다. 설정에서 접근을 허용하세요."</string>
     <string name="com_permission_title">권한 필요함</string>
-    <string name="airkan_device_xiaomi_phone">내 휴대전화</string>
-    <string name="subtitle_onlinesub_language">언어: %s</string>   
+    <string name="airkan_device_xiaomi_phone" formatted="false">내 휴대전화</string>
+    <string name="subtitle_onlinesub_language" formatted="false">언어: %s</string>   
 </resources>
