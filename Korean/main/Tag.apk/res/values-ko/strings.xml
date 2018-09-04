@@ -13,4 +13,5 @@
     <string name="title_scanned_tag">새로운 태그 수집됨</string>
     <string name="vcard_title">^1의 연락처</string>
     <string name="call_phone_permission_denied">이 응용 프로그램은 전화 통화를 하려면 전화 사용 권한이 있어야 합니다. 설정에서 사용 권한을 관리할 수 있습니다.</string>
+    <string name="external_storage_permission_denied">이 응용 프로그램은 파일에 액세스하기 위해 외부 저장소 권한에 액세스해야합니다. 설정에서 태그 권한을 관리할 수 있습니다.</string>
 </resources>
