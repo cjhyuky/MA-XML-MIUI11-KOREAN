@@ -43,4 +43,13 @@
     <string name="view_message_details">자세히 보기</string>
     <string name="button_close">닫기</string>
     <string name="imageview_ad">광고</string>
+    <string name="cm_privacy_dialog_allow">허용</string>
+    <string name="cm_privacy_dialog_cancel">취소</string>
+    <string name="cm_privacy_dialog_spannable_tips">이동통신사 개인 정보 보호 정책</string>
+    <string name="cm_privacy_dialog_tips">스마트 SMS 서비스는 이동통신사에 의해 결정됩니다. %1s 사항을 읽고 동의하시면 열기를 누르셔서, 사용 중인 서비스를 연결하고 찾으십시오. 동의하십니까?</string>
+    <string name="cm_privacy_dialog_title">주의</string>
+    <string name="more">더보기</string>
+    <string name="net_sms_unsubscribe">구독 취소 완료</string>
+    <string name="summary_pref_cm_smart_sms">카드 템플릿 제공, 문자 서비스 번호, 등.</string>
+    <string name="title_pref_cm_smart_sms">차이나 모바일 스마트 SMS</string>
 </resources>
