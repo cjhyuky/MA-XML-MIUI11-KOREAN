@@ -876,4 +876,5 @@
     <string name="lighting_pattern_rainbow">무지개</string>
     <string name="lighting_pattern_shutter">블라인드</string>
     <string name="lighting_pattern_stage">무대</string>
+    <string name="view_privacy_policy">개인정보 보호정책 보기</string>
 </resources>
