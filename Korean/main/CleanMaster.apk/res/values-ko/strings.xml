@@ -595,4 +595,6 @@
     <string name="onekeyclean_card_summery">공간 확보를 위해 휴지통 비우기</string>
     <string name="pref_title_create_onekeyclean_shortcut">홈화면에 바로가기 표시</string>
     <string name="pref_about_privacy_title">개인정보 보호정책</string>
+    <string name="menu_open">열기</string>
+    <string name="promotion">광고</string>
 </resources>
