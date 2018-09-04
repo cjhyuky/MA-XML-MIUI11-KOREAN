@@ -351,4 +351,6 @@
     <string name="vp_device_list_seaching">캐스트할 장치 없음</string>
     <string name="com_permission_desc">"Mi 비디오가 기기의 저장소에 접근할 수 없습니다. 설정에서 접근을 허용하세요."</string>
     <string name="com_permission_title">권한 필요함</string>
+    <string name="airkan_device_xiaomi_phone">내 휴대전화</string>
+    <string name="subtitle_onlinesub_language">언어: %s</string>   
 </resources>
