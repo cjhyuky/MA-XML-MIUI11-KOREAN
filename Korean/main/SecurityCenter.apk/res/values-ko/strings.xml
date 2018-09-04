@@ -2580,9 +2580,9 @@ SMS 전송"</string>
     <string name="handle_title_details">배터리 세부 사용량</string>
     <string name="handle_title_system">시스템 배터리 사용량</string>
     <string name="hide_mode_result_summary_text">개별앱의 배터리 세이버 사용자 맞춤 설정</string>
-    <string name="hints_virus_apk_list_item_summary" format="false">앱 패키지</string>
-    <string name="hints_virus_apk_summary" format="false">%s (앱 패키지)</string>
-    <string name="hints_virus_app_summary" format="false">%s (앱)</string>
+    <string name="hints_virus_apk_list_item_summary" formatted="false">앱 패키지</string>
+    <string name="hints_virus_apk_summary" formatted="false">%s (앱 패키지)</string>
+    <string name="hints_virus_app_summary" formatted="false">%s (앱)</string>
     <string name="main_toolbar_internet_by_wifi">와이파이</string>
     <string name="manage_hybrid_permissions">"앱 권한 관리"</string>
     <string name="menu_item_about_privacy_title">개인정보 보호정책</string>
