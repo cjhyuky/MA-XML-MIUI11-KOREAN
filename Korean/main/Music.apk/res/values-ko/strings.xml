@@ -778,7 +778,6 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="playlist_type_artist">음악가</string>
     <string name="playlist_type_album">앨범</string>
     <string name="playlist_type_billboard">차트</string>
-    <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_recommend">추천 재생목록</string>
     <string name="playlist_type_my">내 재생목록</string>
     <string name="local_page_song_download">로컬 노래</string>
