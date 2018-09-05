@@ -185,4 +185,7 @@
     <plurals name="autofill_picker_some_suggestions">
         <item quantity="other">%1$s개의 자동채우기 추천</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">%d초 후에 재시도하세요.</item>
+    </plurals>
 </resources>
