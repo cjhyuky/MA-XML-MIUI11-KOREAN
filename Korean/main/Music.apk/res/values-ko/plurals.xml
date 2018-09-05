@@ -129,4 +129,28 @@
     <plurals name="notification_download_success_more">
         <item quantity="other">%1$d개 다운로드</item>
     </plurals>
+    <plurals name="comment_input_length_invalid">
+        <item quantity="other">최대 %1$d자까지 입력 할 수 있습니다.</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"%d개 항목을 지울까요? 참고: 파일이 기기에서도 함께 지워집니다."</item>
+    </plurals>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"%d일내에 구독이 만료됩니다. 갱신하시겠습니까?"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">%1$d개의 무료음악을 다운로드 할 수 있습니다. %2$s 항목을 지금 다운로드 하시겠습니까?</item>
+    </plurals>
+    <plurals name="Nnowplaying_songs">
+        <item quantity="other">(%d곡)</item>
+    </plurals>
+    <plurals name="Nsleep_quit_warning">
+        <item quantity="other">%d분 남음</item>
+    </plurals>
+    <plurals name="swipe_to_load_head_complete_success">
+        <item quantity="other">%1$d개의 업데이트가 있습니다:</item>
+    </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">조회수 %1$s</item>
+    </plurals>
 </resources>
