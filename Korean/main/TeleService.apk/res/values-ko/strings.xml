@@ -2256,9 +2256,9 @@
     <string name="accessibility_wifi_security_type_secured">보안 네트워크</string>
     <string name="advanced_options_title">고급</string>
     <string name="available_via_carrier">%1$s 사용가능</string>
-    <string name="bluetooth_connected_battery_level">연결됨, 배터리 : %1$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">연결됨 (미디어 없음), 배터리 : %1$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">연결됨 (통화 불가), 배터리 : %1$s</string>
+    <string name="bluetooth_connected_battery_level">연결됨, 배터리 : %1$s%2$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">연결됨 (미디어 없음), 배터리 : %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">연결됨 (통화 불가), 배터리 : %1$s%2$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">연결됨 (미디어 없음 또는 통화 불가), 배터리 : %1$s</string>
     <string name="bluetooth_show_devices_without_names">이름이 없는 블루투스 장치 표시</string>
     <string name="bluetooth_show_devices_without_names_summary">이름이 없는 블루투스 장치(MAC주소만 해당)가 표시됩니다.</string>
@@ -2418,8 +2418,8 @@
     <string name="clh_callFailed_user_not_member_of_CUG_txt">사용자가 CUG의 구성원이 아님</string>
     <string name="clh_card_title_call_ended_txt">통화 종료</string>
     <string name="clh_incall_error_out_of_service_txt">모바일 네트워크를 사용할 수 없음</string>
-    <string name="dds_switch_warning_message_data_off">"SIM %1$s 찾기 실패. SIM %2$s is set as your default mobile data card now. Mobile data is now turned off."</string>
-    <string name="dds_switch_warning_message_data_on">"SIM %1$s 찾기 실패. SIM %2$s is set as your default mobile data card now. Mobile data is turned off to avoid unnecessary carrier fees."</string>
+    <string name="dds_switch_warning_message_data_off">"SIM %1$s 찾기 실패. SIM %2$s번이 기본 모바일 데이터 카드로 설정되었습니다. 이제 모바일 데이터가 꺼집니다."</string>
+    <string name="dds_switch_warning_message_data_on">"SIM %1$s 찾기 실패. SIM %2$s번이 기본 모바일 데이터 카드로 설정되었습니다. 불필요한 이동 통신사 요금을 피하기 위해 모바일 데이터가 꺼집니다."</string>
     <string name="dial_emergency_calling_not_available">긴급 통화 불가</string>
     <string name="enable_gpu_debug_layers">GPU 디버그 레이어 활성화</string>
     <string name="enable_gpu_debug_layers_summary">앱 디버깅을 위해 GPU 디버그 레이어를 로딩하는걸 허용합니다</string>
