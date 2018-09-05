@@ -27,4 +27,7 @@
     <plurals name="pin_attempts">
         <item quantity="other">"%d번의 시도 남음."</item>
     </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d개 기기 연결됨</item>
+    </plurals>
 </resources>
