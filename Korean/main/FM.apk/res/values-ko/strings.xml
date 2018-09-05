@@ -57,7 +57,6 @@
     <string name="fm_has_turned_off">FM 라디오 꺼짐</string>
     <string name="msg_fm_starting">시작 중…</string>
     <string name="txt_sleep_mode">수면 모드</string>
-    <string name="txt_divider">" | "</string>
     <string name="group_favor">미리 알림</string>
     <string name="group_other">기타</string>
     <string name="using_recorder_dialog_title">권한 요구됨</string>
