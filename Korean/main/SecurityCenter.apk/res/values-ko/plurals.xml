@@ -254,4 +254,25 @@
     <plurals name="menu_text_app_manager_2">
         <item quantity="other">%d개 앱</item>
     </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d개 부분이 최적화가 필요함</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d자 이상</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">%d분 추가</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">항목</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d개 앱 숨겨짐</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d개 앱 숨길수 있음</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">공장 초기화(%ds)</item>
+    </plurals>
 </resources>
