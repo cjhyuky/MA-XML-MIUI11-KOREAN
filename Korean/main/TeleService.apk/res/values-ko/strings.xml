@@ -2257,8 +2257,8 @@
     <string name="advanced_options_title">고급</string>
     <string name="available_via_carrier">%1$s 사용가능</string>
     <string name="bluetooth_connected_battery_level">연결됨, 배터리 : %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">연결됨 (미디어 없음), 배터리 : %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">연결됨 (통화 불가), 배터리 : %1$s%2$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">연결됨 (미디어 없음), 배터리 : %1$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">연결됨 (통화 불가), 배터리 : %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">연결됨 (미디어 없음 또는 통화 불가), 배터리 : %1$s</string>
     <string name="bluetooth_show_devices_without_names">이름이 없는 블루투스 장치 표시</string>
     <string name="bluetooth_show_devices_without_names_summary">이름이 없는 블루투스 장치(MAC주소만 해당)가 표시됩니다.</string>
