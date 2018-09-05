@@ -2316,12 +2316,10 @@
     <string name="preferred_wificall_title">네트워크 환경 설정</string>
     <string name="accessibility_manual_zen_less_time">이하.</string>
     <string name="accessibility_manual_zen_more_time">이상.</string>
-    <string name="advanced_settings_container">고급 설정 제공자</string>
     <string name="alarm_template">%1$s에서</string>
     <string name="alarm_template_far">%1$s에</string>
     <string name="already_auto">이미 자동으로 선택됨.</string>
     <string name="apn_settings">엑세스 포인트 이름</string>
-    <string name="auth_username">사용자 이름</string>
     <string name="bluetooth_active_battery_level">켜짐, %1$s 배터리</string>
     <string name="bluetooth_active_no_battery_level">켜짐</string>
     <string name="bluetooth_battery_level">%1$s 배터리</string>    
@@ -2433,8 +2431,6 @@
     <string name="dds_switch_warning_message_data_off">"SIM %1$s 찾기 실패. SIM %2$s is set as your default mobile data card now. Mobile data is now turned off."</string>
     <string name="dds_switch_warning_message_data_on">"SIM %1$s 찾기 실패. SIM %2$s is set as your default mobile data card now. Mobile data is turned off to avoid unnecessary carrier fees."</string>
     <string name="dial_emergency_calling_not_available">긴급 통화 불가</string>
-    <string name="display_name">디스플레이명</string>
-    <string name="domain_address">Sip도메인</string>
     <string name="enable_gpu_debug_layers">GPU 디버그 레이어 활성화</string>
     <string name="enable_gpu_debug_layers_summary">앱 디버깅을 위해 GPU 디버그 레이어를 로딩하는걸 허용합니다</string>
     <string name="expand_button_title">고급설정</string>
@@ -2450,10 +2446,8 @@
     <string name="okay">확인</string>
     <string name="opened_dual_4g_confirm_prompt">4G만 사용가능한 SIM카드를 사용하시는 걸로 보입니다. 듀얼 4G 기능이 자동으로 켜졌습니다.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s은 4G만 제공합니다. SIM카드가 정상 작동시키기 위해 듀얼 4G 기능이 켜졌습니다.</string>
-    <string name="password">비밀번호</string>
     <string name="path_auto_retry_mode_title">시스템 앱/전화/고급 설정/자동 응답</string>
     <string name="path_crescendo_ringer_title">시스템 앱/전화/수신전화 설정/수신전화 벨소리 볼륨증가</string>
-    <string name="port">포트</string>
     <string name="power_discharge_by">약 %1$s (%2$s) 사용가능</string>
     <string name="power_discharge_by_enhanced">%2$s 사용으로 약 %1$s 사용가능</string>
     <string name="power_discharge_by_only">약 %1$s 사용가능</string>
