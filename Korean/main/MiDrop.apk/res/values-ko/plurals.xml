@@ -42,4 +42,31 @@
     <plurals name="notif_receive_success">
         <item quantity="other">%1$s개 파일 전송됨</item>
     </plurals>
+    <plurals name="a">
+        <item quantity="other">선택된 %d개 파일을 삭제할까요?</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">%1$s님이 전송을 취소하셨습니다</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">%1$s개 파일 전송중…</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">%1$s님으로부터 수신 완료</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">%1$s님으로부터 %2$d개 파일</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">%d개 항목 선택됨</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">%1$d개 항목</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">%1$d개 파일 받기(%2$s)</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">%1$d개 파일 보내기(%2$s)</item>
+    </plurals>
 </resources>
