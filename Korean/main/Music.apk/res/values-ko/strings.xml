@@ -1254,7 +1254,6 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="dialog_renew_failure">죄송합니다. 작업이 실패했습니다.</string>
     <string name="dialog_renew_positive_text">예, 저는 프로와 같은 락을 원합니다</string>
     <string name="dialog_renew_success">확인해 주셔서 감사합니다.</string>
-    <string name="dislike_comment_success"></string>과 같이 삭제되었습니다.
     <string name="download_dialog_fail">"다운로드 할 수 없습니다"</string>
     <string name="download_dialog_success">성공적으로 다운로드되었습니다.</string>
     <string name="download_fee_alert_title">유료 음악 다운로드</string>
