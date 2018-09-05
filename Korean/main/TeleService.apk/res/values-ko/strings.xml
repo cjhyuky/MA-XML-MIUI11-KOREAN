@@ -2268,12 +2268,10 @@
     <string name="data_usage_disable_mobile">모바일 데이터 사용을 중지하시겠습니까?</string>
     <string name="data_usage_template">%2$s 중 %1$s 사용됨</string>
     <string name="data_usage_title">데이터 사용량</string>
-
     <string name="dialFailed_low_battery">배터리 부족으로 인해 영상통화를 걸 수 없습니다.</string>
     <string name="forbidden_network">(금지됨)</string>
     <string name="mobile_data_activate_button">데이터 추가</string>
     <string name="mobile_data_activate_cancel_button">취소</string>
-
     <string name="mobile_data_activate_diag_message">%s 통신사를 통해 데이터를 추가해야 할 수 있습니다.</string>
     <string name="mobile_data_activate_diag_title">데이터를 추가하시겠습니까?</string>
     <string name="mobile_data_activate_footer">%s 통신사를 통해 모바일 데이터 용량 또는 로밍 계획을 추가할 수 있습니다.</string>
@@ -2319,14 +2317,9 @@
     <string name="alarm_template">%1$s에서</string>
     <string name="alarm_template_far">%1$s에</string>
     <string name="already_auto">이미 자동으로 선택됨.</string>
-    <string name="apn_settings">엑세스 포인트 이름</string>
     <string name="bluetooth_active_battery_level">켜짐, %1$s 배터리</string>
     <string name="bluetooth_active_no_battery_level">켜짐</string>
-    <string name="bluetooth_battery_level">%1$s 배터리</string>    
-    <string name="bluetooth_connected_battery_level">연결됨, 배터리 %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">연결됨 (미디어 안됨), 배터리 %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">연결됨 (전화 안됨), 배터리 %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">연결됨 (미디어 없음 또는 통화 불가), 배터리 : %1$s</string>
+    <string name="bluetooth_battery_level">%1$s 배터리</string>
     <string name="bluetooth_hearingaid_left_battery_level">왼쪽 - %1$s 배터리</string>
     <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 페어링중…</string>
     <string name="bluetooth_hearingaid_right_battery_level">오른쪽 - %1$s 배터리</string>
@@ -2334,8 +2327,6 @@
     <string name="bluetooth_hearing_aid_profile_summary_connected">보청기에 연결됨</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">보청기로 사용</string>    
     <string name="bluetooth_profile_hearing_aid">보청기</string>
-    <string name="bluetooth_show_devices_without_names">블루투스 이름없이 표시</string>
-    <string name="bluetooth_show_devices_without_names_summary">블루투스 이름없이 MAC 주소로만 표시합니다</string>
     <string name="bluetooth_talkback_bluetooth">블루투스</string>
     <string name="bluetooth_talkback_computer">컴퓨터</string>
     <string name="bluetooth_talkback_headphone">이어폰</string>
@@ -2403,7 +2394,6 @@
     <string name="clh_callFailed_no_route_to_destination_txt">대상 경로가 없습니다.</string>
     <string name="clh_callFailed_no_user_responding_txt">사용자가 응답하지 않습니다.</string>
     <string name="clh_callFailed_number_changed_txt">변경된 번호</string>
-    <string name="clh_callFailed_number_changed_txt">변경된 번호</string>
     <string name="clh_callFailed_only_restricted_digital_information_bearer_capability_is_available_txt">제한된 디지털 정보 전달자 기능 만 사용할 수 있습니다.</string>
     <string name="clh_callFailed_operator_determined_barring_txt">운영자에 의해 금지됨</string>
     <string name="clh_callFailed_powerOff_txt">라디오 꺼짐</string>
@@ -2496,8 +2486,6 @@
     <string name="supp_service_notification_call_waiting">통화 대기중입니다.</string>
     <string name="supp_service_outgoing_calls_barred">발신전화가 금지되었습니다.</string>
     <string name="time_unit_just_now">방금</string>
-    <string name="wifi_connected_mac_randomization">MAC 랜덤화에 연결됨</string>
-    <string name="wifi_connected_mac_randomization_summary">와이파이 연결시 MAC주소를 랜덤화합니다</string>
     <string name="wifi_connected_mac_randomization">MAC 랜덤화에 연결됨</string>
     <string name="wifi_connected_mac_randomization_summary">와이파이 연결시 MAC주소를 랜덤화합니다</string>
     <string name="wifi_coverage_extend">와이파이 접속거리 확장기능 활성화</string>
