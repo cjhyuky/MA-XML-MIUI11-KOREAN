@@ -7215,4 +7215,7 @@ PIN 설정"</string>
     <string name="status_bar_settings_user_fold_description3">"중요하다고 생각하는 알림이 여전히 알림 폴더에 들어가면 그러한 문제를 Google에 보고해야 합니다. 피드백을 보내 주시면 감사하겠습니다."</string>
     <string name="status_bar_settings_user_fold_disable">꺼짐</string>
     <string name="status_bar_settings_user_fold_enable">켜짐</string>
+    <string name="aod_close_color_inversion">"이 기능은 색상 반전과 함께 사용할 수 없습니다. 먼저 색상 반전을 끄십시오."</string>
+    <string name="aod_got_it">알겠음</string>
+    <string name="aod_to_close">끄기</string>
 </resources>
