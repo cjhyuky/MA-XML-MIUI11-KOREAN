@@ -1319,4 +1319,15 @@
     <string name="photomovie_template_sport">스포츠</string>
     <string name="video_editor_video_loading">비디오 준비중… 잠시 후 다시 시도하세요.</string>
     <string name="photo_editor_crop_auto">자동</string>
+    <string name="privacy_permission_request_message">갤러리가 %3$s에 접근이 필요합니다. 수집한 정보는 %1$s 과 %2$s에 따라 사용됩니다. 허용하시겠습니까?</string>
+    <string name="privacy_permission_request_negative">제한</string>
+    <string name="privacy_permission_request_positive">허용</string>
+    <string name="privacy_permission_request_title">권한 요구됨</string>
+    <string name="video_editor_cancel_download">취소</string>
+    <string name="video_editor_download">다운로드</string>
+    <string name="video_editor_download_failed_for_notwork">"다운로드 할 수 없습니다. 네트워크에 연결하고 다시 시도하십시오."</string>
+    <string name="video_editor_download_without_wifi_msg">"모바일 데이터 연결을 사용하여 파일을 다운로드하면 데이터 사용량이 증가합니다. 데이터 한도를 초과하면 이동 통신사에서 추가 요금을 청구 할 수 있습니다."</string>
+    <string name="video_editor_download_without_wifi_title">데이터 사용량 경고</string>
+    <string name="video_editor_return">뒤로</string>
+    <string name="video_editor_save">저장</string>
 </resources>
