@@ -658,8 +658,8 @@
     <string name="card_title_redialing">다시 시도 중</string>
     <string name="card_title_conf_call">전화 회의</string>
     <string name="card_title_incoming_call">수신 통화</string>
-    <string name="card_title_call_ended">통화 종료됨</string>
-    <string name="card_title_on_hold">통화 대기 중</string>
+    <string name="card_title_call_ended">"통화 종료됨"</string>
+    <string name="card_title_on_hold">"통화 대기 중"</string>
     <string name="card_title_hanging_up">전화끊는 중</string>
     <string name="card_title_in_call">통화 중</string>
     <string name="card_title_unconditionalCF">무조건 통화 착신 켜짐</string>
