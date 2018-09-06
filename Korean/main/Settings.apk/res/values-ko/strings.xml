@@ -7208,4 +7208,11 @@ PIN 설정"</string>
     <string name="equalizer">이퀄라이저</string>
     <string name="failed_to_erase_text">1217 작업을 수행하기 전에 화면 잠금 비밀번호를 끄십시오.</string>
     <string name="failed_to_erase_title">금지된 작업</string>
+    <string name="status_bar_settings_customer_feedback">피드백</string>
+    <string name="status_bar_settings_function_description">이 기능에 관하여</string>
+    <string name="status_bar_settings_user_fold_description1">알림 폴더는 MIUI 9에 도입되었습니다. 이 기능은 중요하지 않은 알림을 필터링하여 별도의 폴더에 저장합니다.</string>
+    <string name="status_bar_settings_user_fold_description2">MIUI는 탭한 알림을 기억하고 여러 기준을 사용하여 중요 여부를 판단합니다.</string>
+    <string name="status_bar_settings_user_fold_description3">"중요하다고 생각하는 알림이 여전히 알림 폴더에 들어가면 그러한 문제를 Google에 보고해야 합니다. 피드백을 보내 주시면 감사하겠습니다."</string>
+    <string name="status_bar_settings_user_fold_disable">꺼짐</string>
+    <string name="status_bar_settings_user_fold_enable">켜짐</string>
 </resources>
