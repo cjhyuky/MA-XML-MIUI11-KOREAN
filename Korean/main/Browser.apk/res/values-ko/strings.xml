@@ -213,7 +213,7 @@
     <string name="delete_download">삭제</string>
     <string name="dialog_cannot_resume">다운로드가 중단됨</string>
     <string name="dialog_confirm_delete_checkbox_message">내부 메모리에서 파일 삭제</string>
-    <string name="dialog_confirm_delete_downloads_message">%s개 작업을 삭제하시겠습니까?</string>
+    <string name="dialog_confirm_delete_downloads_message">%s개 파일을 삭제하시겠습니까?</string>
     <string name="dialog_confirm_delete_the_download_item_message">이 작업을 지우시겠습니까?</string>
     <string name="dialog_failed_body">나중에 다시 시도하시거나 이 파일을 다운로드 항목에서 삭제하시겠습니까?</string>
     <string name="dialog_file_already_exists">이 파일은 이미 다운로드하셨습니다.</string>
