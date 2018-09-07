@@ -37,7 +37,7 @@
     <string name="storage_internal">내부 저장소</string>
     <string name="storage_sd_card">SD 카드</string>
     <string name="storage_usb">USB 저장소</string>
-    <string name="dialog_confirm_delete_downloads_message">%d개 작업을 삭제하시겠습니까?</string>
+    <string name="dialog_confirm_delete_downloads_message">%d개 파일을 삭제하시겠습니까?</string>
     <string name="dialog_confirm_delete_the_download_item_message">이 파일을 삭제하시겠습니까?</string>
     <string name="dialog_confirm_delete_checkbox_message">로컬 파일도 함께 삭제하기</string>
     <string name="download_when_network_connected">데이터 연결을 사용하여 다운로드</string>
