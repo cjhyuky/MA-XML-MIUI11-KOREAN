@@ -1285,7 +1285,6 @@
     <string name="ball_football_tab_hot">인기있는</string>
     <string name="ball_football_third_place_playoff">3위 결정전</string>
     <string name="ball_football_word_cup">월드컵</string>
-    <string name="ball_football_your_teams">팔로우 할 팀을 선택해주세요(%d/%d)</string>
     <string name="Clock_main">알람</string>
     <string name="Clock_parent">시계</string>
     <string name="common_google_play_services_enable_button">활성화</string>
