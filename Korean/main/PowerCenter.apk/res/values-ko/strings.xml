@@ -61,4 +61,19 @@
     <string name="power_wifi">Wi-Fi</string>
     <string name="usage_type_gps">GPS</string>
     <string name="power_bluetooth">블루투스</string>
+    <string name="auto_back_booster">부스트 중지</string>
+    <string name="auto_booster_suc">성공적으로 증폭 됨</string>
+    <string name="battery_stats_wifi_running_label">와이파이</string>
+    <string name="cpu_usage_android_system">안드로이드 시스템</string>
+    <string name="enter_gamemode_tip">게임 열기…</string>
+    <string name="firewall_network_allow">%1$s이 %2$s 연결을 사용하는것을 허용</string>
+    <string name="firewall_network_restrict_notify_mobile">모바일 데이터</string>
+    <string name="firewall_temp_rule_reason">%1$s로 인해 %2$s 제한된 인터넷 연결</string>
+    <string name="firewall_wifi">와이파이</string>
+    <string name="game_booster">게임 속도 부스터</string>
+    <string name="gb_antimsg_summary">방해 </string>
+    <string name="gb_description_image_button_answer">답변</string>
+    <string name="gb_description_image_button_reject">거절</string>
+    <string name="gb_net_summary">최적화된 연결</string>
+    <string name="gb_preformance_summary">더 나은 퍼포먼스</string>
 </resources>
