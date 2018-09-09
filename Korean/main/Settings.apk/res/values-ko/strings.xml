@@ -3417,7 +3417,7 @@ PIN 설정"</string>
     <string name="android_beam_tips">두 기기를 접촉시킨 후 보내실 콘텐츠를 터치하십시오.</string>
     <string name="bt_trace_log">블루투스 추적 로그</string>
     <string name="bt_trace_log_summary">블루투스 추적 로그</string>
-    <string name="bluetooth_ask_enablement_detected">"%s 앱에서 블루투스를 키려고 합니다."</string>
+    <string name="bluetooth_ask_enablement_detected">"앱에서 블루투스를 키려고 합니다."</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" 블루투스를 켜서 %1$d초 동안 휴대전화를 다른 기기에 표시되게 하려 합니다."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" 블루투스를 켜서 휴대전화를 다른 기기에 표시되게 하려 합니다. 이는 나중에 블루투스 설정에서 변경할 수 있습니다."</string>
     <string name="wifi_share">Wi-Fi 공유</string>
