@@ -7449,7 +7449,6 @@ PIN 설정"</string>
     <string name="multi_user_mode_dialog_title">"다중 사용자 모드입니다."</string>
     <string name="name_password_not_consistent">ID 또는 비밀번호가 틀렸습니다.</string>
     <string name="new_backup">백업</string>
-    <string name="night_mode_summary">%s Wi-Fi 통화</string>
     <string name="note_title">메모</string>
     <string name="nothing_searched">결과 없음</string>
     <string name="notif_backup_complete_title">백업에 성공했습니다.</string>
@@ -7517,7 +7516,6 @@ PIN 설정"</string>
     <string name="pm_auto_start_proc_is_running">실행 중</string>
     <string name="print_feature_state_off">꺼짐</string>
     <string name="print_feature_state_on">켜짐</string>
-    <string name="process_kernel_label">안드로이드 OS</string>
     <string name="progress_backup_hint">백업중…</string>
     <string name="progress_restore_hint">복원중…</string>
     <string name="prompt_all">모두 묻기</string>
