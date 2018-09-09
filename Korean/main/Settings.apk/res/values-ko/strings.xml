@@ -1618,7 +1618,6 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="battery_stats_charging_label">충전 중</string>
     <string name="battery_stats_screen_on_label">화면 켜짐</string>
     <string name="battery_stats_gps_on_label">GPS 사용</string>
-    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">켜짐</string>
     <string name="battery_stats_phone_signal_label">이동통신망 신호</string>
     <string name="awake">장치 무중단 가동 시간</string>
@@ -6174,7 +6173,6 @@ PIN 설정"</string>
     <string name="app_mobile">모바일</string>
     <string name="app_name_na">데이터 사용량</string>
     <string name="app_version">버전</string>
-    <string name="app_wifi">Wi-Fi</string>
     <string name="background_restrict_app_dialog_message">이 앱의 백그라운드 네트워크 액세스를 제한하면 앱이 정상적으로 작동하거나, 메시지를 받고, 콘텐츠를 다운로드하는 등의 작업이 불가능해질 수 있습니다. 계속하시겠습니까?</string>
     <string name="background_traffic">백그라운드 %s</string>
     <string name="btn_back">뒤로가기</string>
@@ -7280,7 +7278,6 @@ PIN 설정"</string>
     <string name="button_cancel">취소</string>
     <string name="button_clean_garbage">사용 가능한 저장소 용량</string>
     <string name="button_continue">계속</string>
-    <string name="button_finish">끝내기</string>
     <string name="button_finish">확인</string>
     <string name="button_import">가져오기</string>
     <string name="button_next">다음</string>
@@ -7331,7 +7328,6 @@ PIN 설정"</string>
     <string name="data_detail_description">세부정보</string>
     <string name="data_item_desc">데이터</string>
     <string name="data_no_enough_space_message">"내부 저장 공간이 부족합니다."</string>
-    <string name="data_usage_tab_wifi">와이파이</string>
     <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="delete_backup_process">삭제중…</string>
     <string name="delete_backup_title">백업 삭제</string>
@@ -7382,13 +7378,11 @@ PIN 설정"</string>
     <string name="file_uploading">업로드 중...</string>
     <string name="findlost_contact">연락처 복원</string>
     <string name="findlost_contact_online">Mi 클라우드에 저장된 주소록 복원</string>
-    <string name="firewall_wifi">와이파이</string>
     <string name="flash_drive_backup_btn">USB저장소에 백업</string>
     <string name="flash_drive_backup_note">"앱을 USB저장소에 백업합니다. 시작하기전에 USB 저장소에 공간이 충분히 있는지 확인하세요."</string>
     <string name="flash_drive_connection_failed">USB 저장소 연결 실패</string>
     <string name="flash_drive_restore_btn">USB 저장소에서 복원</string>
     <string name="flash_drive_search_backup_files">"USB 백업을 검색하는 중... 백업 파일을 변경하거나 이름을 변경하지 마십시오."</string>
-    <string name="gadget_wifi">와이파이</string>
     <string name="game_mode_cta_dialog_agree">동의</string>
     <string name="game_mode_cta_dialog_cancel">취소</string>
     <string name="game_mode_cta_dialog_message">게임 모드가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 동의하시겠습니까?</string>
@@ -7429,9 +7423,8 @@ PIN 설정"</string>
     <string name="import_again">다시 불러오기</string>
     <string name="import_data_from_icloud">iCloud에서 데이터 불러오기</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Mi Talk 앱을 다운로드한 후 로그인하십시오.\u0009http://www.miliao.com2.\u0009Mi Talk 설정으로 이동하여 ”Mi 계정에 연락처 백업”을 선택하십시오."</string>
-    <string name="import_from_xiaomi_account_hint2">백업이 이미 있는 경우, '다음'을 터치하십시오.</string>
+    <string name="import_from_xiaomi_account_hint2">백업이 이미 있는 경우, &apos;다음&apos;을 터치하십시오.</string>
     <string name="import_from_xiaomi_account_hint_title">다른 기기에서 연락처를 백업하려면 Mi Talk를 사용하십시오.</string>
     <string name="import_tip_summary">호환성 문제로 인하여 iOS 기기 데이터의 일부만 불러올 수 있습니다. 데이터 이동 전에 백업을 실행해 데이터 손실을 방지하세요.</string>
     <string name="info_and_call">전화와 메시지</string>
-    <string name="join_two_items">%1$s과 %2$s</string>
 </resources>

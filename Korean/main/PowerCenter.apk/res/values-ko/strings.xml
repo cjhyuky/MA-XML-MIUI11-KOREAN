@@ -68,6 +68,7 @@
     <string name="firewall_network_allow">%1$s이 %2$s 연결을 사용하는것을 허용</string>
     <string name="firewall_network_restrict_notify_mobile">모바일 데이터</string>
     <string name="firewall_temp_rule_reason">%1$s로 인해 %2$s 제한된 인터넷 연결</string>
+    <string name="firewall_wifi">Wi-Fi</string>
     <string name="game_booster">게임 속도 부스터</string>
     <string name="gb_antimsg_summary">방해 </string>
     <string name="gb_description_image_button_answer">답변</string>
