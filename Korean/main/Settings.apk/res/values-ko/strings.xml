@@ -473,7 +473,6 @@
     <string name="device_admin_title">기기 관리</string>
     <string name="manage_device_admin">기기 관리자</string>
     <string name="manage_device_admin_summary">기기 관리자 보기 또는 비활성화</string>
-    <string name="manage_trust_agents">Trust Agent</string>
     <string name="disabled_because_no_backup_security">이 기능을 사용하려면 먼저 화면 잠금을 설정하세요.</string>
     <string name="manage_trust_agents_summary">Trust Agent 조회 또는 비활성화</string>
     <string name="bluetooth_quick_toggle_title">블루투스</string>
@@ -1300,7 +1299,6 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="service_started_by_app">앱에서 시작했습니다.</string>
     <string name="service_background_processes">%1$s 남음</string>
     <string name="service_foreground_processes">%1$s 사용됨</string>
-    <string name="memory">RAM</string>
     <string name="running_process_item_user_label">사용자: %1$s</string>
     <string name="running_process_item_removed_user_label">삭제된 사용자</string>
     <string name="running_processes_item_description_s_s">프로세스 %1$d개 및 서비스 %2$d개</string>
@@ -1580,8 +1578,6 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="print_no_printers_found">프린터 없음</string>
     <string name="print_menu_item_settings">설정</string>
     <string name="print_menu_item_add_printers">프린터 추가</string>
-    <string name="print_feature_state_on">ON</string>
-    <string name="print_feature_state_off">OFF</string>
     <string name="print_menu_item_add_service">서비스 추가</string>
     <string name="print_menu_item_add_printer">프린터 추가</string>
     <string name="print_menu_item_search">검색</string>
@@ -3673,8 +3669,6 @@ PIN 설정"</string>
     <string name="wifi_type_approval_title">형식 승인</string>
     <string name="wifi_type_approval_dialog_title">규제</string>
     <string name="status_sim">SIM 카드 상태</string>
-    <string name="status_sim_1">SIM 1</string>
-    <string name="status_sim_2">SIM 2</string>
     <string name="status_summary">탭하여 세부사항 보기</string>
     <string name="wifi_subnet_mask">서브넷 마스크</string>
     <string name="wireless_on">켜짐</string>
@@ -3770,7 +3764,6 @@ PIN 설정"</string>
     <string name="page_layout_page2_godzilla_summary">최대</string>
     <string name="smartcover_sensitive_title">스마트 커버</string>
     <string name="page_layout_32">플레이 스토어</string>
-    <string name="page_layout_33">Google</string>
     <string name="zen_mode_option_miui_silent">무음 모드</string>
     <string name="zen_mode_option_miui_vibrate">방해 금지 모드</string>
     <string name="zen_mode_miui_silent_category">허용</string>
@@ -4896,7 +4889,6 @@ PIN 설정"</string>
     <string name="operator_warning">기기의 데이터 사용량 카운트와 통신사의 데이터 사용량 카운트가 상이할 수 있습니다.</string>
     <string name="ota_disable_automatic_update">자동 시스템 업데이트</string>
     <string name="overlay_settings">화면 위에 그리기</string>
-    <string name="passpoint_content">%1$s credentials</string>
     <string name="passpoint_label">에 의해 저장됨</string>
     <string name="payment_summary">%1$s 이 기본 앱으로 지정됨</string>
     <string name="permit_draw_overlay">앱 위에 그리기 허용</string>
@@ -6415,7 +6407,6 @@ PIN 설정"</string>
     <string name="night_light_summary">야간 모드를 활성화하려면 어두운 공간에서 화면 밝기를 최소로 낮추십시오.</string>
     <string name="notch_force_black_desc">이 기능을 활성화하면 상단 노치의 좌우 부분을 가립니다.</string>
     <string name="notch_force_black_title">노치 숨기기</string>
-    <string name="open_demo_mode">Turn on</string>
     <string name="open_demo_mode_warning_message">데모 모드가 켜져 있으면 상태 표시줄의 시계가 중지되고 배터리 및 신호 아이콘이 가득 찬 것으로 표시됩니다. 데모 모드를 끄거나 장치를 재부팅하여 이 설정을 변경할 수 있습니다.</string>
     <string name="proxy_url_title">"PAC 주소 : "</string>
     <string name="security_status">기기 보안 상태</string>
@@ -7451,7 +7442,6 @@ PIN 설정"</string>
     <string name="memory">메모리</string>
     <string name="miliao_account_guide">Mi 계정으로 어디서나 Mi 클라우드와 MIUI 테마 스토어, 다른 Mi 서비스에 로그인하십시오.</string>
     <string name="miliao_account_login">Mi Talk으로 로그인</string>
-    <string name="misc_files_selected_count_bytes">%1$s 중 %2$s</string>
     <string name="mms_title">멀티미디어 메세지</string>
     <string name="multi_select_title">%1$s 선택됨</string>
     <string name="multi_user_mode_backup_message">"다중 사용자 모드에서 백업을 사용할 수 없습니다. 계속하려면 다중 사용자 모드를 해제하십시오."</string>
