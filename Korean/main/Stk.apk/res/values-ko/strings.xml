@@ -32,5 +32,5 @@
     <string name="stk_intent_permission">권한이 필요합니다.</string>
     <string name="app_name2">SIM 툴킷 2</string>
     <string name="app_name3">SIM 툴킷 3</string>
-    <string name="stk_channel_name">모바일 서비스 메세지</string>
+    <string name="stk_channel_name">모바일 서비스 메시지</string>
 </resources>

@@ -64,7 +64,7 @@
   <string name="audio_device_speaker">스피커</string>
   <string name="audio_device_wired_headset">무선 헤드셋</string>
   <string name="audio_is_mute">음소거</string>
-  <string name="audio_message">음성 메세지</string>
+  <string name="audio_message">음성 메시지</string>
   <string name="audio_mode">음성 모드</string>
   <string name="audio_muted_tip">음소거</string>
   <string name="audio_record_max">최대 음성 녹음 시간</string>
@@ -422,7 +422,7 @@
   <string name="me">나</string>
   <string name="menu_call_log_delete">통화기록 삭제</string>
   <string name="menu_dial">전화</string>
-  <string name="message">메세지</string>
+  <string name="message">메시지</string>
   <string name="message_camera_permission">카메라 권한이 잠겨있습니다, 시스템설정을 열어서 설정하세요. 지금하시겠습니까?</string>
   <string name="message_check_audio_message">음성 메시지 녹음을 하려면 %s 권한이 필요합니다, 시스템설정에서 활성화하세요</string>
   <string name="message_check_permission_camera">카메라 접속</string>
@@ -442,14 +442,14 @@
   <string name="miliao_user">밀리아오 유저</string>
   <string name="minute">분</string>
   <string name="miss_call">부재중 전화 %d개</string>
-  <string name="miss_message">새로운 메세지 %d개</string>
+  <string name="miss_message">새로운 메시지 %d개</string>
   <string name="modify_group_card_color_fail">그룹 카드 색상 수정 실패</string>
   <string name="modify_group_card_color_suc">그룹 카드 색상 수정 완료</string>
   <string name="modify_group_name">그룹명 수정</string>
   <string name="modify_group_name_fail">그룹명 수정 실패</string>
   <string name="modify_group_name_suc">그룹명 수정 완료</string>
   <string name="move_and_scale">이동 및 크기조절</string>
-  <string name="msg_has_been_send_out">인증 메세지를 %s에게 보냈습니다</string>
+  <string name="msg_has_been_send_out">인증 메시지를 %s에게 보냈습니다</string>
   <string name="msg_popup_item_cancel">취소</string>
   <string name="msg_popup_item_copy">복사</string>
   <string name="msg_text_size_limit">문자 입력 수를 초과하였습니다</string>
@@ -632,7 +632,7 @@
   <string name="report_quick_feedback">빠른 피드백</string>
   <string name="resend">다시보내기</string>
   <string name="resend_image">이미지 전송 실패, 다시 보낼까요?</string>
-  <string name="resend_message">메세지 전송 실패, 다시 보낼까요?</string>
+  <string name="resend_message">메시지 전송 실패, 다시 보낼까요?</string>
   <string name="resend_verify_code">인증코드 다시보내기</string>
   <string name="reset_password">암호 재설정</string>
   <string name="rotate">회전</string>
@@ -669,8 +669,8 @@
   <string name="send">전송</string>
   <string name="send_feedback_log">피드백 로그 보내기</string>
   <string name="send_invite">전화거는중</string>
-  <string name="send_message_failed_title">메세지 전송 실패</string>
-  <string name="send_sms_over_limited">메세지를 너무 자주 보냈습니다</string>
+  <string name="send_message_failed_title">메시지 전송 실패</string>
+  <string name="send_sms_over_limited">메시지를 너무 자주 보냈습니다</string>
   <string name="service_token_expire">"사용안한지 너무 오래되었습니다, 다시 로그인하세요"</string>
   <string name="service_token_expired">귀하의 계정이 %s에 사용되었습니다，직접 하신게 아니라면, 계정 도난이 의심됩니다</string>
   <string name="session_delete">이 채팅 삭제</string>
@@ -738,9 +738,9 @@
   <string name="smiley_click_to_download">다운로드</string>
   <string name="smiley_nopackage_click_to_download">"(아직 Mi 모션페키지를 받지 않으셨습니다 (약 1M), 다운로드해주세요.)"</string>
   <string name="sms_message">"제가 사용하고 있는 Mi 영상통화를 당신에게 추천합니다. 설치하시면 무료로 영상통화를 할 수 있습니다 : call.mi.com"</string>
-  <string name="sms_message_cannot_send">"이 기기는 문자메세지를 보낼수 없습니다"</string>
+  <string name="sms_message_cannot_send">"이 기기는 문자메시지를 보낼수 없습니다"</string>
   <string name="sns_unknown_error">알수없는 에러</string>
-  <string name="source_message">메세지</string>
+  <string name="source_message">메시지</string>
   <string name="speaker">스피커</string>
   <string name="speaker_is_occupied">스피커가 사용중이라 이용할 수 없습니다</string>
   <string name="speaking">통화중 %s</string>

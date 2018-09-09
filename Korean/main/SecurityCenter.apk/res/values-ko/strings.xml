@@ -24,9 +24,9 @@
     <string name="dlg_white_address_antispam_message">이 위치를 예외에 추가하시겠습니까?</string>
     <string name="dlg_white_antispam_hint">예외사항</string>
     <string name="dlg_black_antispam_hint">차단 목록</string>
-    <string name="dlg_clear_all_sms">차단된 메세지를 삭제하시겠습니까?</string>
+    <string name="dlg_clear_all_sms">차단된 메시지를 삭제하시겠습니까?</string>
     <string name="dlg_clear_all_call">차단된 통화를 지우시겠습니까?</string>
-    <string name="dlg_clear_current_sms">이 번호로 오는 모든 차단된 메세지를 삭제하시겠습니까?</string>
+    <string name="dlg_clear_current_sms">이 번호로 오는 모든 차단된 메시지를 삭제하시겠습니까?</string>
     <string name="dlg_clear_current_call">이 번호에서 걸려 오는 모든 차단된 통화를 삭제하시겠습니까?</string>
     <string name="dlg_clear_all_ok">모두 지우기</string>
     <string name="dlg_clear_current_ok">지우기</string>
@@ -57,7 +57,7 @@
     <string name="dlg_antispam_using_mode_delete_message">지금 사용 중인 규칙을 삭제하고 차단 목록의 기본 규칙으로 되돌리시겠습니까?</string>
     <string name="dlg_antispam_using_mode_international_delete_message">지금 사용 중인 규칙을 삭제하고 차단 목록의 기본 규칙으로 되돌리시겠습니까?</string>
     <string name="menu_call">다이얼</string>
-    <string name="menu_sms">메세지 전송</string>
+    <string name="menu_sms">메시지 전송</string>
     <string name="menu_bl_call_log">차단된 통화 보기</string>
     <string name="menu_bl_sms_log">차단된 SMS 보기</string>
     <string name="menu_bl_remove">차단 해제</string>
@@ -1188,7 +1188,7 @@ SMS 전송"</string>
     <string name="sp_background_risk_type_sign">비공식 앱이 실행중 입니다</string>
     <string name="sp_background_risk_type_root">시스템이 루팅되었습니다</string>
     <string name="resource_securitycenter_settings">보안</string>
-    <string name="keywords_securitycenter_settings">배터리 사용량;자동 시작 관리;USB로 설치;앱 권한;모바일 데이터 구매;차단 목록;데이터 사용량;데이터 요금제 조정;네트워크 테스트;배터리 절약;과열;켜기;끄기;배터리;소모;배터리 문제;에너지;배터리 세이버;에너지 세이버;에너지 절약;배터리 절약;자동 시작;권한;자동 시작;MIUI 자동 시작; 앱 자동 시작; 앱 자동 시작;연결 시작;연결된 시작;트리거된 시작;USB 설치;컴퓨터에서 설치;ADB 설치;위치;연락처 접근;데이터;모바일 데이터;데이터 구매;데이터 충전;데이터 요금제;차단;블랙 리스트;스마트 차단 목록;사기;판매;에이전트;통화 차단 목록;메세지 차단 목록;메세지 차단 목록;SMS 차단 목록;블랙리스트;블랙 리스트;차단목록;차단 목록;사기;연락처 차단;연락처 차단;트래픽;조정;연결;인터넷;테스트;배터리 사용</string>
+    <string name="keywords_securitycenter_settings">배터리 사용량;자동 시작 관리;USB로 설치;앱 권한;모바일 데이터 구매;차단 목록;데이터 사용량;데이터 요금제 조정;네트워크 테스트;배터리 절약;과열;켜기;끄기;배터리;소모;배터리 문제;에너지;배터리 세이버;에너지 세이버;에너지 절약;배터리 절약;자동 시작;권한;자동 시작;MIUI 자동 시작; 앱 자동 시작; 앱 자동 시작;연결 시작;연결된 시작;트리거된 시작;USB 설치;컴퓨터에서 설치;ADB 설치;위치;연락처 접근;데이터;모바일 데이터;데이터 구매;데이터 충전;데이터 요금제;차단;블랙 리스트;스마트 차단 목록;사기;판매;에이전트;통화 차단 목록;메시지 차단 목록;메시지 차단 목록;SMS 차단 목록;블랙리스트;블랙 리스트;차단목록;차단 목록;사기;연락처 차단;연락처 차단;트래픽;조정;연결;인터넷;테스트;배터리 사용</string>
     <string name="path_securitycenter_settings">시스템 앱/보안</string>
     <string name="resource_securitycenter">보안</string>
     <string name="keywords_securitycenter">보안;확인;스캔</string>
@@ -1215,7 +1215,7 @@ SMS 전송"</string>
     <string name="keywords_buy_flow">데이터;모바일 데이터;데이터 구매;모바일 데이터 구매;데이터 충전;데이터 요금제</string>
     <string name="path_buy_flow">시스템 앱/보안/데이터 사용량/모바일 데이터 구매</string>
     <string name="resource_antispam">차단 목록</string>
-    <string name="keywords_antispam">차단 목록;차단;블랙 리스트;스마트 차단 목록;사기;판매;에이전크;전화 차단 목록;메세지 차단 목록;메세지 차단 목록;SMS 차단 목록;블랙리스트;블랙 리스트;차단목록;차단 목록;사기;연락처 차단;연락처 차단</string>
+    <string name="keywords_antispam">차단 목록;차단;블랙 리스트;스마트 차단 목록;사기;판매;에이전크;전화 차단 목록;메시지 차단 목록;메시지 차단 목록;SMS 차단 목록;블랙리스트;블랙 리스트;차단목록;차단 목록;사기;연락처 차단;연락처 차단</string>
     <string name="path_antispam">시스템 앱/보안/차단목록</string>
     <string name="resource_networkassistant_1">데이터 사용량</string>
     <string name="keywords_networkassistant_1">데이터;트래픽</string>
@@ -2151,7 +2151,7 @@ SMS 전송"</string>
     <string name="app_manager_enable_text">활성화</string>
     <string name="app_manager_enabled">활성화됨</string>
     <string name="app_manager_globel_other_perm_title">기타 항목 활성화</string>
-    <string name="app_manager_globel_perm_summary">저장소, GPS, 디바이스, 메세지, 연락처 등 권한 관리</string>
+    <string name="app_manager_globel_perm_summary">저장소, GPS, 디바이스, 메시지, 연락처 등 권한 관리</string>
     <string name="app_manager_globel_perm_title">앱 권한</string>
     <string name="app_manager_has_not_data">데이터 없음</string>
     <string name="app_manager_reset_app_preferences">앱 환경설정 초기화</string>
@@ -2396,7 +2396,7 @@ SMS 전송"</string>
     <string name="exit_dialog_scan_positive_button">최적화</string>
     <string name="exit_dialog_scan_title">성능 최적화</string>
     <string name="exit_dialog_homepage_optimise_message">"이 기기의 퍼포먼스 점수가 낮습니다. 지금 최적화 하시겠습니까?"</string>
-    <string name="gb_msg_completely_shielded">메세지 숨기기</string>
+    <string name="gb_msg_completely_shielded">메시지 숨기기</string>
     <string name="gb_msg_completely_shielded_summary">숨기기</string>
     <string name="gb_msg_quickly_answer">빠른 답장 허용</string>
     <string name="gb_msg_quickly_answer_summary">빠른 답장</string>
@@ -2435,8 +2435,8 @@ SMS 전송"</string>
     <string name="tc_web_correct_error">"보정할 수 없음"</string>
     <string name="ask_create_shortcut">홈 스크린 바로 가기를 만드시겠습니까?</string>
     <string name="card_main_gamebooster_summary">게임을 위한 네트워크 연결 안정성 향상</string>
-    <string name="menu_summary_antispam">전화와 메세지 차단</string>
-    <string name="menu_summary_antispam_2">차단된 전화와 메세지</string>
+    <string name="menu_summary_antispam">전화와 메시지 차단</string>
+    <string name="menu_summary_antispam_2">차단된 전화와 메시지</string>
     <string name="menu_summary_antivirus">기기에서 바이러스 검사</string>
     <string name="menu_summary_antivirus_2">치명적인 결함 발견</string>
     <string name="menu_summary_antivirus_3">"검색된 위혐요소 없음"</string>

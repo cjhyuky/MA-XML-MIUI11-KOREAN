@@ -80,5 +80,5 @@
     <string name="app_name2">SIM 툴킷 2</string>
     <string name="default_tone_dialog_msg">재생중…</string>
     <string name="sim_switch">이 서비스는 차이나 유니콤 SIM에서만 사용할 수 있습니다.[%s]을 기본 데이터 SIM으로 설정하시겠습니까?</string>
-    <string name="stk_channel_name">모바일 서비스 메세지</string>
+    <string name="stk_channel_name">모바일 서비스 메시지</string>
 </resources>

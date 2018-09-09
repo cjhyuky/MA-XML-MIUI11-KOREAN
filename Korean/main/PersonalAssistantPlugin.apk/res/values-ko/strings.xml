@@ -1054,7 +1054,7 @@
   <string name="payment_dialog_chooser_toast">하나 이상의 출처 선택</string>
   <string name="payment_dialog_notice_ok">확인</string>
   <string name="payment_dialog_notice_title">주의</string>
-  <string name="payment_guide_hint">문자 메세지와 기타 앱에서 결제 정보를 수집합니다.</string>
+  <string name="payment_guide_hint">문자 메시지와 기타 앱에서 결제 정보를 수집합니다.</string>
   <string name="payment_guide_hint_link">보안 &amp; 개인정보보호</string>
   <string name="payment_method_alipay">알리페이</string>
   <string name="payment_method_bank">직불카드</string>

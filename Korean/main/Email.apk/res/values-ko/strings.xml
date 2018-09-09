@@ -1046,7 +1046,7 @@
     <string name="overlays_title">팝업 창 권한 열기</string>
     <string name="permission_tip">구성 실패합니다. 구성 권한 중에 전화 및 문자 메시지를 허용하십시오.</string>
     <string name="quote_divider_6">---원본---</string>
-    <string name="quote_divider_7">원본 메세지</string>
+    <string name="quote_divider_7">원본 메시지</string>
     <string name="recognize_ticket_air_state_transfer">환승</string>
     <string name="request_permission_activity">권한 요청</string>
     <string name="save_this_new_signature">새 서명을 저장하시겠습니까?</string>
@@ -1131,13 +1131,13 @@
     <string name="folder_junk_name_en3">스팸 이메일</string>
     <string name="folder_junk_name_en4">스팸 이메일</string>
     <string name="folder_sent_name_en0">보냄</string>
-    <string name="folder_sent_name_en1">보낸 메세지</string>
-    <string name="folder_sent_name_en2">보낸 메세지</string>
+    <string name="folder_sent_name_en1">보낸 메시지</string>
+    <string name="folder_sent_name_en2">보낸 메시지</string>
     <string name="folder_sent_name_en3">보낸 아이템</string>
     <string name="folder_sent_name_en4">[Gmail]/보낸 이메일</string>
     <string name="folder_trash_name_en0">휴지통</string>
-    <string name="folder_trash_name_en1">삭제된 메세지</string>
-    <string name="folder_trash_name_en2">삭제된 메세지</string>
+    <string name="folder_trash_name_en1">삭제된 메시지</string>
+    <string name="folder_trash_name_en2">삭제된 메시지</string>
     <string name="folder_trash_name_en3">[Gmail]/휴지통</string>
     <string name="qq_auto_login_failed_cpy_pass_success">성공적으로 복사했습니다. 로그인 페이지로 돌아가 비밀번호를 붙여넣으십시오.</string>
     <string name="qq_auto_login_failed_dialog_message">인증 코드를 복사했습니다. 로그인 페이지로 돌아가 비밀번호를 붙여넣으십시오.</string>
@@ -1146,8 +1146,8 @@
     <string name="quote_divider_qq_en">------------------ 원본 이메일 ------------------</string>
     <string name="report_rendering_improvement">좋습니다.</string>
     <string name="report_rendering_improvement_desc">좋습니다.</string>
-    <string name="report_rendering_problem">잘못된 메세지입니다.</string>
-    <string name="report_rendering_problem_desc">잘못된 메세지입니다.</string>
+    <string name="report_rendering_problem">잘못된 메시지입니다.</string>
+    <string name="report_rendering_problem_desc">잘못된 메시지입니다.</string>
     <string name="wait_help_context">잠시만 기다려 주십시오...</string>
     <string name="privacy_policy">개인정보 보호정책</string>
 </resources>

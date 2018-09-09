@@ -1251,7 +1251,7 @@
     <string name="call_settings_primary_user_only">오직 주사용자만이 통화 설정을 바꿀 수 있습니다.</string>
     <string name="t9_search_empty_create_contact">새 연락처</string>
     <string name="t9_search_empty_video_call">영상 통화</string>
-    <string name="t9_search_empty_send_sms">메세지 전송</string>
+    <string name="t9_search_empty_send_sms">메시지 전송</string>
     <string name="t9_search_empty_edit_contact">연락처에 추가</string>
     <string name="add_field_toast">추가할 공간이 없습니다</string>
     <string name="add_miui_contact">미 카드</string>

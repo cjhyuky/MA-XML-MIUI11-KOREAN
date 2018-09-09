@@ -81,9 +81,9 @@
     <string name="guitar">기타</string>
     <string name="harp">하프</string>
     <string name="icelatte">아이스 라떼</string> 
-    <string name="incomingmessage">새로운 메세지</string>
+    <string name="incomingmessage">새로운 메시지</string>
     <string name="leisure">레져</string>
-    <string name="messagesent">메세지 전송됨</string>
+    <string name="messagesent">메시지 전송됨</string>
     <string name="mi">Mi (기본음)</string>
     <string name="miglass">Mi (유리)</string>
     <string name="miremix">Mi (리믹스)</string>

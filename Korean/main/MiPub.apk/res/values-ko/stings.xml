@@ -97,7 +97,7 @@
     <string name="resent_message">재전송</string>
     <string name="nosend_message">전송 안함</string>
     <string name="context_menu_call">전화</string>
-    <string name="context_menu_send_sms">메세지 전송</string>
+    <string name="context_menu_send_sms">메시지 전송</string>
     <string name="context_menu_browse_web">검색</string>
     <string name="context_menu_send_mail">이메일 전송</string>
     <string name="context_menu_copy">복사</string>
@@ -115,7 +115,7 @@
     <string name="pref_title_notification_body_enabled">잠금 화면에 메시지 보이기</string>
     <string name="pref_summary_notification_body_enabled">잠금 화면과 드롭 다운 메뉴에 메시지 보이기</string>
     <string name="pref_title_delivery_reports">전송 상태</string>
-    <string name="pref_summary_delivery_reports">전송된 메세지의 전송 상태를 보여드립니다.</string>
+    <string name="pref_summary_delivery_reports">전송된 메시지의 전송 상태를 보여드립니다.</string>
     <string name="pref_title_ringtone_repeat">알림음 횟수</string>
     <string name="pref_other_title">추가 설정</string>
     <string name="pref_system_title">시스템</string>

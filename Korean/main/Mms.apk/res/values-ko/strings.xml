@@ -37,7 +37,7 @@
     <string name="audio_message_expired">음성메시지 보관기간이 지났습니다.</string>
     <string name="audio_message_mx_offline">오디오 다운로드 실패. Mi 메시지가 오프라인이거나 사용불가입니다.</string>
     <string name="audio_playing_seconds">%d\"</string>
-    <string name="audio_sim_card_mismatching">네트워크 연결불가 또는 잘못된 SIM카드가 설치되었습니다. 메세지가 전송된 통신사의 SIM 카드를 삽입후 네트워크에 연결하십시오.</string>
+    <string name="audio_sim_card_mismatching">네트워크 연결불가 또는 잘못된 SIM카드가 설치되었습니다. 메시지가 전송된 통신사의 SIM 카드를 삽입후 네트워크에 연결하십시오.</string>
     <string name="back_to_message_list">메시지 목록으로 돌아가기</string>
     <string name="batch_adding_progress_message">추가 중…</string>
     <string name="batch_deleting_message_progress_message">삭제 중…</string>
@@ -331,8 +331,8 @@
     <string name="mx_type_guide">Mi 메시지로 다른 MIUI 사용자에게 메시지를 무료로 보낼 수 있습니다.</string>
     <string name="need_download">동기화 중…</string>
     <string name="networking_allow_continue">허용</string>
-    <string name="networking_allow_desc">Mi 메시지는 정상적으로 동작하려면 인터넷 연결이 필요합니다. 무료 메세지 및 음성 서비스를 제공하려면, 알 수 없는 숫자를 인식하고, 스팸 메일을 필터링하고, 기타 기능을 사용하도록 설정하려면 연락처가 필요합니다. 인터넷에 연결하고, 위치 정보를 얻고, 연락처 접근을 허용하시겠습니까?</string>
-    <string name="networking_allow_desc_without_mx">Mi 메세지는 정상적으로 동작하려면 인터넷 연결이 필요합니다. 무료 메세지 서비스를 제공하려면, 알 수 없는 숫자를 인식하고, 스팸 메일을 필터링하고, 기타 기능을 사용하도록 설정하려면 연락처가 필요합니다. 인터넷에 연결하고, 위치 정보를 얻고, 연락처 접근을 허용하시겠습니까?</string>
+    <string name="networking_allow_desc">Mi 메시지는 정상적으로 동작하려면 인터넷 연결이 필요합니다. 무료 메시지 및 음성 서비스를 제공하려면, 알 수 없는 숫자를 인식하고, 스팸 메일을 필터링하고, 기타 기능을 사용하도록 설정하려면 연락처가 필요합니다. 인터넷에 연결하고, 위치 정보를 얻고, 연락처 접근을 허용하시겠습니까?</string>
+    <string name="networking_allow_desc_without_mx">Mi 메시지는 정상적으로 동작하려면 인터넷 연결이 필요합니다. 무료 메시지 서비스를 제공하려면, 알 수 없는 숫자를 인식하고, 스팸 메일을 필터링하고, 기타 기능을 사용하도록 설정하려면 연락처가 필요합니다. 인터넷에 연결하고, 위치 정보를 얻고, 연락처 접근을 허용하시겠습니까?</string>
     <string name="networking_allow_title">주의</string>
     <string name="new_message">작성</string>
     <string name="new_message_arrived">새 메시지가 있습니다.</string>
@@ -686,10 +686,10 @@
     <string name="dialog_title_fake_cell_detect_error">수정</string>
     <string name="draft">초안</string>
     <string name="fake_cell_alert_detect_error">"조작된 번호에서 온 전화가 아닙니다"</string>
-    <string name="notification_channel_description">메세지 알림</string>
-    <string name="notification_channel_name">메세지</string>
+    <string name="notification_channel_description">메시지 알림</string>
+    <string name="notification_channel_name">메시지</string>
     <string name="notification_copy">OTP 복사</string>
-    <string name="toast_pending_hangup_msg">통화가 종료된 후 메세지가 전송될 것입니다</string>
+    <string name="toast_pending_hangup_msg">통화가 종료된 후 메시지가 전송될 것입니다</string>
     <string name="url_scan_again">다시 확인하세요</string>
     <string name="add_contact">연락처</string>
     <string name="notification_channel_msg_description">메시지 알림</string>
@@ -729,7 +729,7 @@
     <string name="rcs_forward_faild">"전달 실패"</string>
     <string name="rcs_forward_successful">전달 완료</string>
     <string name="rcs_message">차이나 모바일 메시징</string>
-    <string name="rcs_message_disable">"이 메세지는 보조공간에서는 볼 수 없습니다"</string>
+    <string name="rcs_message_disable">"이 메시지는 보조공간에서는 볼 수 없습니다"</string>
     <string name="rcs_msg">차이나 모바일 메시징</string>
     <string name="rcs_not_online">"차이나 모바일 메시징 사용 불가. 네트워크 설정을 확인 후 다시 시도하세요."</string>
     <string name="rcs_offline_hint">"차이나 모바일 메시징이 오프라인 상태입니다. 이 메시지 전달할 수 없습니다."</string>

@@ -6316,7 +6316,7 @@ PIN 설정"</string>
     <string name="aod_mode_time_title">스케쥴</string>
     <string name="aod_mode_turn_off">끄기</string>
     <string name="aod_mode_turn_on">켜기</string>
-    <string name="miui_lab_drive_mode_desc">음성 컨트롤 사용&amp;위챗 메세지 듣기</string>
+    <string name="miui_lab_drive_mode_desc">음성 컨트롤 사용&amp;위챗 메시지 듣기</string>
     <string name="miui_lab_drive_mode_title">자동차 모드</string>
     <string name="miui_lab_super_resolution_desc">이미지를 선명하게 만듭니다</string>
     <string name="miui_lab_super_resolution_title">슈퍼 해상도</string>

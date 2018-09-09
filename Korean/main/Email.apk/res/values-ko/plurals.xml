@@ -76,19 +76,19 @@
         <item quantity="other">+%1$d명</item>
     </plurals>
     <plurals name="actionbar_large_unread_count">
-        <item quantity="other">%1$d+개의 읽지 않은 메세지</item>
+        <item quantity="other">%1$d+개의 읽지 않은 메시지</item>
     </plurals>
     <plurals name="hide_atts_remaining">
         <item quantity="other">%1$d개의 항목 숨김처리됨</item>
     </plurals>
     <plurals name="local_search_result">
-        <item quantity="other">동기화된 메세지의 %s개 항목</item>
+        <item quantity="other">동기화된 메시지의 %s개 항목</item>
     </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">%1$d개 남음</item>
     </plurals>
     <plurals name="new_messages">
-        <item quantity="other">%1$d개의 새로운 메세지</item>
+        <item quantity="other">%1$d개의 새로운 메시지</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">%1$d명에게 답장</item>

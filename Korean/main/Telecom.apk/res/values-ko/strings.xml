@@ -104,7 +104,7 @@
     <string name="bluetooth_connected_no_a2dp">연결됨 (미디어 없음)</string>
     <string name="bluetooth_connected_no_headset">연결됨 (기기 없음)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">연결됨 (기기 또는 미디어 없음)</string>
-    <string name="bluetooth_connected_no_map">연결됨 (메세지 권한 없음)</string>
+    <string name="bluetooth_connected_no_map">연결됨 (메시지 권한 없음)</string>
     <string name="bluetooth_connecting">연결중…</string>
     <string name="bluetooth_disable_absolute_volume">볼륨 설정 권한 비활서오하</string>
     <string name="bluetooth_disable_absolute_volume_summary">큰 음량이거나 원격 장치의 볼륨 문제가 발생할 경우 Bluetooth의 볼륨 제어 기능을 비활성화합니다.</string>
@@ -137,7 +137,7 @@
     <string name="bluetooth_profile_dun">Dial-up 네트워크 접근 권한</string>
     <string name="bluetooth_profile_headset">기기 오디오</string>
     <string name="bluetooth_profile_hid">입력 기기</string>
-    <string name="bluetooth_profile_map">메세지 엑세스</string>
+    <string name="bluetooth_profile_map">메시지 엑세스</string>
     <string name="bluetooth_profile_opp">파일 전송</string>
     <string name="bluetooth_profile_pan">인터넷 연결</string>
     <string name="bluetooth_profile_pan_nap">인터넷 연결 공유</string>
