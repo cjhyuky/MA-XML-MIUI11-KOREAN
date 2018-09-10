@@ -87,6 +87,10 @@
     </string-array>
     <string-array name="second_guide_contents">
         <item>음성 메모</item>
-        <item>내장 된 음성-텍스트 엔진을 사용하여 음성을 녹음하여 음성의 원본 녹음을 노트에 첨부하십시오.</item>
+        <item>내장된 TTS엔진을 사용하여 음성을 녹음하여 텍스트를 입력하고 음성의 원본 녹음을 노트에 첨부할 수 있습니다.</item>
+    </string-array>
+     <string-array name="second_guide_contents_pad_or_inter">
+        <item>음성 메모</item>
+        <item>지금 바로 음성 메모를 만들 수 있습니다. 아이콘을 탭하고 음성을 녹음한 다음 오디오 파일을 메모에 저장해보세요.</item>
     </string-array>
 </resources>
