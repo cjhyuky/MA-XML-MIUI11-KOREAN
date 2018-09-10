@@ -64,7 +64,7 @@
     <string name="alert_message_restore">이 메모를 열 수 없음. 내용을 수정하기 위해 복구하십시오.</string>
     <string name="note_sort_way">메모 정렬방식 선택</string>
     <string name="trash_folder_reminder">삭제한 메모는 30일 후에 영구적으로 삭제됩니다.</string>
-    <string name="cta_reminder">이 앱은 Mi 클라우드에 메모를 백업하기 위해 인터넷에 연결됩니다. 또한 통화 중 메모를 위해 연락처를 읽습니다.</string>
+    <string name="cta_reminder">메모장이 정상적으로 작동하기 위해서는 인터넷 연결, 오디오 녹음, 연락처 접근 등의 권한이 필요합니다. 허용하시겠습니까?</string>
     <string name="menu_add_folder">폴더에 추가</string>
     <string name="dialog_share_title">메모 공유</string>
     <string name="dialog_share_as_text">메모를 텍스트로 공유</string>
