@@ -4725,7 +4725,8 @@ PIN 설정"</string>
     <string name="high_power_prompt_title">배터리 최적화를 무시하시겠습니까?</string>
     <string name="high_power_system">배터리 최적화 사용 불가능</string>
     <string name="home">홈 설정</string>
-    <string name="home_app">홈 앱</string>
+    <string name="home_app">런쳐</string>
+    <string name="following_us_title">팔로우하기</string>
     <string name="ignore_optimizations_off">최적화</string>
     <string name="ignore_optimizations_off_desc">배터리 수명을 위한 권장사항</string>
     <string name="ignore_optimizations_on">최적화하지 않음</string>
