@@ -1897,5 +1897,6 @@
     <string name="keyguard_charged">충전됨</string>
     <string name="keyguard_charging_back_to_lockscreen">잠금화면으로 돌아가기</string>
     <string name="keyguard_left_torch">손전등</string>
-    <string name="miui_screen_rotation_freeze_message">자동 회전 </string> 
+    <string name="miui_screen_rotation_freeze_message">자동 회전</string>
+    <string name="face_unlock_sc_status">화면을 눌러서 카메라를 켜세요</string>
 </resources>
