@@ -2550,7 +2550,7 @@ SMS 전송"</string>
     <string name="first_aid_item4_content">배터리</string>
     <string name="first_aid_item5_content">기타 이슈</string>
     <string name="first_aid_result_feedback_button">보내기</string>
-    <string name="first_aid_result_feedback_summary">"기기에서 이 현상을 해결할 수 없습니다."</string>
+    <string name="first_aid_result_feedback_summary">"긴급 치료 스캔 결과 아무런 문제가 없었지만 일부 개선되야할 부분을 발견했습니다."</string>
     <string name="first_aid_result_feedback_title">피드백</string>
     <string name="first_aid_result_summary_normal">모든 상태가 좋습니다!</string>
     <string name="first_aid_scanning_item1">퍼포먼스 문제 체크중…</string>
@@ -2646,4 +2646,5 @@ SMS 전송"</string>
 기기의 모든 데이터가 지워지고 화면 잠금 비밀번호가 재설정 될 수 있습니다."</string>
     <string name="device_manager_apply_step_3">계속하기 전에 가능한 모든 위험을 이해했는지 확인하십시오. 지금이 앱의 기기 관리자를 활성화 하시겠습니까?</string>
     <string name="power_save_started_summary_text">"배터리 절약 기능이 켜져 있습니다. 앱의 백그라운드 활동을 줄이고 동기화를 중지하며 시스템 애니메이션을 최소화합니다."</string>
+    <string name="first_aid_result_summary_not_finished">"스캔이 완료되지 않았습니다. 일부 위험은 감지되지 않을 수 있습니다."</string>
 </resources>
