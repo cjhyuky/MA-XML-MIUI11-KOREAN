@@ -26,4 +26,5 @@
     <string name="settings_ad_loading_unavailable">정보를 불러오지 못했습니다.</string>
     <string name="autoconnect">자동연결</string>
     <string name="open_wifi_connect_and_use_data_summary">모바일 데이터 사용중. 탭하여 Wi-Fi로 전환하십시오.</string>
+    <string name="poco_privacy_policy">포코 런쳐 개인정보 보호 정책 &amp; 포코 런쳐 사용자 동의</string>
 </resources>
