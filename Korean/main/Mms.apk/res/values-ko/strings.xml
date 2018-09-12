@@ -765,4 +765,5 @@
     <string name="send_rms_editor_hints">차이나 모바일 메시징</string>
     <string name="send_rms_editor_hints_omit">Mi 메시지</string>
     <string name="user_agreement">사용자 동의</string>
+    <string name="cmcc_privacy">차이나 모바일 이동통신사 개인정보 보호정책 동의</string>
 </resources>
