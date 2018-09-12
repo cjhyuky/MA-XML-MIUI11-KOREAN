@@ -477,4 +477,5 @@
     <string name="passport_new_user_register">계정 생성</string>
     <string name="passport_register_using_other_ways">다른 방법으로 등록</string>
     <string name="passport_wrong_voice">입력하신 코드가 맞지 않습니다</string>
+    <string name="account_invalid_user_avatar">이 사진은 유효하지 않습니다. 다른 사진으로 시도해보십시오.</string>
 </resources>
