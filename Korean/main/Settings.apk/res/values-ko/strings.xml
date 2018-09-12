@@ -6314,7 +6314,7 @@ PIN 설정"</string>
     <string name="miui_lab_super_resolution_desc">이미지를 선명하게 만듭니다</string>
     <string name="miui_lab_super_resolution_title">슈퍼 해상도</string>
     <string name="navigation_guide_appswitch_anim_summary">가장자리에서부터 화면을 스와이프하여 이전 앱으로 돌아가십시오</string>
-    <string name="navigation_guide_appswitch_anim_title">이전 앱으로 전환</string>
+    <string name="navigation_guide_appswitch_anim_title">이전 앱으로 돌아가기</string>
     <string name="navigation_guide_appswitch_click">\"이전 앱으로 돌아가기\"를 먼저 켜세요</string>	
     <string name="navigation_guide_appswitch_summary">화면 가장자리에서 왼쪽 또는 오른쪽으로 스와이프하시고 잠시 기다리십시오.</string>
     <string name="navigation_guide_appswitch_title">이전 앱으로 전환</string>
