@@ -77,8 +77,8 @@
     <string name="recent_filter_functions">기능끄기</string>
     <string name="update_title">업데이트 가능</string>
     <string name="updated_title">MIUI 업데이트</string>
-    <string name="update_version_alpha">알파</string>
-    <string name="update_version_dev">베타</string>
+    <string name="update_version_alpha">알파롬</string>
+    <string name="update_version_dev">개발자롬</string>
     <string name="update_version_stable">안정화롬</string>
     <string name="update_right_now">업데이트</string>
     <string name="update_check">업데이트 확인</string>
