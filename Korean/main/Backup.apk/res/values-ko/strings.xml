@@ -599,4 +599,11 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="trans_cancel_selection_title">Mi Mover 대기</string>
     <string name="trans_select_notification_message">탭하여 보기</string>
     <string name="trans_select_notification_title">Mi Mover가 동작중입니다.</string>
+    <string name="trans_cancel_dialog_survey_title">전송을 중단하신 이유가 무엇입니까?</string>
+    <string name="trans_dialog_survey_finish">보내기</string>
+    <string name="trans_success_dialog_button_market_comment">댓글</string>
+    <string name="trans_success_dialog_button_survey">설문 조사</string>
+    <string name="trans_success_dialog_market_comment_and_survey_title">"사용할 준비가 되었습니다. Mi Mover에 대해 어떻게 생각하는지 말해주십시오."</string>
+    <string name="trans_success_dialog_survey_title">의견을 보내주셔서 감사합니다.</string>
+    <string name="trans_success_survey_hint">먼저 모든 입력란을 채워주세요.</string>
 </resources>
