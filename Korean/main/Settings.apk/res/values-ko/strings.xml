@@ -7196,8 +7196,8 @@ PIN 설정"</string>
     <string name="to_close">끄기</string>
     <string name="check_importance_dialog_cancel">취소</string>
     <string name="equalizer">이퀄라이저</string>
-    <string name="failed_to_erase_text">1217 작업을 수행하기 전에 화면 잠금 비밀번호를 끄십시오.</string>
-    <string name="failed_to_erase_title">금지된 작업</string>
+    <string name="failed_to_erase_text">\"1217\" 코드로 진입하기 전에 잠금화면 비밀번호를 끄세요.</string>
+    <string name="failed_to_erase_title">이 동작을 완료할 수 없습니다</string>
     <string name="status_bar_settings_customer_feedback">피드백</string>
     <string name="status_bar_settings_function_description">이 기능에 관하여</string>
     <string name="status_bar_settings_user_fold_description1">알림 폴더는 MIUI 9에 도입되었습니다. 이 기능은 중요하지 않은 알림을 필터링하여 별도의 폴더에 저장합니다.</string>
@@ -7589,4 +7589,7 @@ PIN 설정"</string>
     <string name="succeed">완료</string>
     <string name="succ_description">성공적으로 끝났습니다.</string>
     <string name="summary_err_backup_encrypting">Mi 계정에 로그인</string>
+    <string name="bootloader_device_bind_no_data_network">Wi-Fi를 끄고 모바일 데이터를 사용하여 계정과 장치를 추가하십시오.</string>
+    <string name="bootloader_device_bind_server_token_expired_1">"확인할 수 없습니다. 계정과 장치를 다시 추가하십시오."</string>
+    <string name="bootloader_device_bind_server_token_expired_2">"확인할 수 없습니다. 계정에 다시 로그인하여 다시 시작하십시오."</string>
 </resources>
