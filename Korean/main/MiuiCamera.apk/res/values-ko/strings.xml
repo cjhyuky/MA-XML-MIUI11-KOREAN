@@ -898,5 +898,7 @@
     <string name="hint_eye_light">플래시가 켜지면 아이 라이트가 좋아집니다.</string>
     <string name="makeup_reset_toast">메이크업 효과 제가</string>
     <string name="module_name_new_slow_motion">슬로우 모션</string>
-    <string name="pref_new_slow_motion_video_quality_240_720only">240FPS의 720P 비디오만 녹화 할 수 있습니다.</string>   
+    <string name="pref_new_slow_motion_video_quality_240_720only">240FPS의 720P 비디오만 녹화할 수 있습니다.</string>
+    <string name="portrait_mode_use_hint_for_bokeh">"세로모드를 사용해보세요.
+배경을 흐릿하게하면서 피사체를 선명하게 유지하십시오."</string>
 </resources>
