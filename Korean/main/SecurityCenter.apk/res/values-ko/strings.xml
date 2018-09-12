@@ -2601,7 +2601,7 @@ SMS 전송"</string>
     <string name="power_center_list_item_deep_save_title">고급 설정</string>
     <string name="power_center_list_item_set_lockscreen_time">30초간 사용하지 않으면 화면을 끕니다</string>
     <string name="power_center_scan_item_title_abnormal">배터리 문제</string>
-    <string name="power_center_scan_item_title_abnormal_apps">비정상적인 배터리 소모 앱</string>
+    <string name="power_center_scan_item_title_abnormal_apps">배터리 소모가 많은 앱</string>
     <string name="power_center_scan_item_title_auto_invoke">체인 시작</string>
     <string name="power_center_scan_item_title_auto_start">자동시작</string>
     <string name="power_center_scan_item_title_battery_details">배터리 사용 세부내용</string>
@@ -2641,4 +2641,8 @@ SMS 전송"</string>
     <string name="title_reply">댓글</string>
     <string name="two_address_choose_hint">%1$s와 %2$s</string>
     <string name="video_repeat">반복 재생</string>
+    <string name="device_manager_apply_step_1">이 앱의 기기 관리자를 활성화 하시겠습니까?</string>
+    <string name="device_manager_apply_step_2">"이 앱의 기기 관리자를 활성화하면 개인 정보가 노출 될 수 있습니다.
+기기의 모든 데이터가 지워지고 화면 잠금 비밀번호가 재설정 될 수 있습니다."</string>
+    <string name="device_manager_apply_step_3">계속하기 전에 가능한 모든 위험을 이해했는지 확인하십시오. 지금이 앱의 기기 관리자를 활성화 하시겠습니까?</string>
 </resources>
