@@ -877,4 +877,26 @@
     <string name="lighting_pattern_shutter">블라인드</string>
     <string name="lighting_pattern_stage">무대</string>
     <string name="view_privacy_policy">개인정보 보호정책 보기</string>
+    <string name="beauty_fragment_tab_name_3d_makeup">메이크업</string>
+    <string name="beauty_mode_reset_toast">뷰티효과 초기화</string>
+    <string name="beauty_reset">재설정</string>
+    <string name="capture_back_pressed_hint">다시 탭하여 나가기</string>
+    <string name="edit_blusher">연지</string>
+    <string name="edit_eyebrow_dye">눈썹 염색</string>
+    <string name="edit_jelly_lips">젤리 입술</string>
+    <string name="edit_pupil_line">눈 라인</string>
+    <string name="eye_light">아이 라이트</string>
+    <string name="eye_light_angel">천사 조명</string>
+    <string name="eye_light_comic">코믹 조명</string>
+    <string name="eye_light_crescent">초승달 조명</string>
+    <string name="eye_light_nature">자연광</string>
+    <string name="eye_light_off">없음</string>
+    <string name="eye_light_rainbow">무지개 조명</string>
+    <string name="eye_light_star">별빛 조명</string>
+    <string name="eye_light_window">창문 조명</string>
+    <string name="fps960_toast">슬로우 모션 캡처는 타이머가 흰색 점에 도달하면 시작됩니다.</string>
+    <string name="hint_eye_light">플래시가 켜지면 아이 라이트가 좋아집니다.</string>
+    <string name="makeup_reset_toast">메이크업 효과 제가</string>
+    <string name="module_name_new_slow_motion">슬로우 모션</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">240FPS의 720P 비디오만 녹화 할 수 있습니다.</string>   
 </resources>
