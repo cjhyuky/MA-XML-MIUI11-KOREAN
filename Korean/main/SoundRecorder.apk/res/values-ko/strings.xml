@@ -157,4 +157,5 @@
     <string name="dialog_privacy_revoke_tips">"약관을 철회하면 앱에서 데이터 수집이 중지되고 모든 관련 데이터가 서버에서 삭제됩니다. 거절하게 되면 앱을 사용할 수 없게 될 수도 있습니다. Mi Cloud 서비스 약관을 철회하기 전에 i.mi.com에 로그인하십시오."</string>
     <string name="privacy_policy_title">개인 정보 보호 약관</string>
     <string name="record_format_preference_title">녹음 포맷</string>
+    <string name="alert_message_delete_local_record">이 녹음을 지우시겠습니까?</string>
 </resources>
