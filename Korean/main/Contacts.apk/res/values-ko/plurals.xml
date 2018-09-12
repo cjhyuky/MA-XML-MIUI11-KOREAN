@@ -128,5 +128,20 @@
     </plurals>
     <plurals name="device_import_progress_toast_plurals">
         <item quantity="other">%1$d개 연락처 불러옴</item>
-    </plurals>  
+    </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">%d개 이상의 연락처를 찾았습니다.</item>
+    </plurals>
+	<plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+    </plurals>
+	<plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d개의 부분적으로 같은 연락처</item>
+    </plurals>
+	<plurals name="select_all_exceed_plurals">
+        <item quantity="other">"%1$d개 이상 선택불가, 모두 선택 실패"</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">%1$d개 이상 선택불가</item>
+    </plurals>
 </resources>
