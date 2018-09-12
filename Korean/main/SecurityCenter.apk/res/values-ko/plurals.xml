@@ -275,4 +275,7 @@
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">공장 초기화(%ds)</item>
     </plurals>
+    <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d개의 앱이 잘못 표시될 수 있습니다. 플로팅 알림을 제한하십시오.</item>
+    </plurals>
 </resources>
