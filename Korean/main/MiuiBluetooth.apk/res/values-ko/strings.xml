@@ -45,4 +45,27 @@
     <string name="unbind_device_alert_cancel">취소</string>
     <string name="ok_button">확인</string>
     <string name="bluetooth_device_context_unpair">연결 해제</string>
+    <string name="fast_connect_device_box">박스</string>
+    <string name="fast_connect_device_box_name">%1$s 박스</string>
+    <string name="fast_connect_device_box_use_time">%1$s시간 사용가능</string>
+    <string name="fast_connect_device_connect_cancel">취소</string>
+    <string name="fast_connect_device_connect_ok">연결</string>
+    <string name="fast_connect_device_connect_retry">재시도</string>
+    <string name="fast_connect_device_connect_setup">설정</string>
+    <string name="fast_connect_device_connect_success">완료</string>
+    <string name="fast_connect_device_headset_l">L E</string>
+    <string name="fast_connect_device_headset_l_not_connect">L 연결되지 않음</string>
+    <string name="fast_connect_device_headset_l_use_time">L %1$s시간</string>
+    <string name="fast_connect_device_headset_name">%1$s 헤드셋</string>
+    <string name="fast_connect_device_headset_r">R E</string>
+    <string name="fast_connect_device_headset_r_not_connect">R 연결되지 않음</string>
+    <string name="fast_connect_device_headset_r_use_time">R %1$s시간</string>
+    <string name="fast_connect_device_headset_reset">박스의 리셋 버튼을 길게 누르세요</string>
+    <string name="fast_connect_device_title_connect_fail">헤드셋 연결 실패</string>
+    <string name="fast_connect_device_title_connecting">연결중...</string>
+    <string name="fast_connect_device_title_find_headset">%1$s 헤드셋 찾기</string>
+    <string name="fast_connect_device_title_find_headset_others">다른 %1$s 헤드셋 찾기</string>
+    <string name="notify_fast_connect_device_group">헤드셋 자동 연결</string>
+    <string name="notify_fast_connect_device_text">화면을 잠금 해제 하시고 연결을 시도하세요</string>
+    <string name="notify_fast_connect_device_title">%1$s 헤드셋 찾기</string>
 </resources>
