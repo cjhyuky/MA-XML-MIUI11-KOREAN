@@ -430,4 +430,6 @@
     <string name="install">설치</string>
     <string name="install_error">"다시 설치할 수 없습니다."</string>
     <string name="menu_item_about_privacy_title">개인 정보 보호 정책</string>
+    <string name="confirm_close_password_desc">"비밀번호를 끈 후에는 잠금 화면에서 두 번째 공간으로 바로 진입할 수 없습니다. 그래도 끄시겠습니까?"</string>
+    <string name="confirm_close_password_title">비밀번호 끄기</string>
 </resources>
