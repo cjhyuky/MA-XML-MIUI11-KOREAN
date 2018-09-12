@@ -1151,7 +1151,7 @@
     <string name="face_unlock_offset_top">휴대전화를 살짝 올려주십시오</string>
     <string name="face_unlock_open_eye">눈을 좀 더 크게 떠주십시오</string>
     <string name="face_unlock_passwork">비밀번호 사용</string>
-    <string name="face_unlock_passwork_and_fingerprint">비밀번호 또는 안면 인식 사용</string>
+    <string name="face_unlock_passwork_and_fingerprint">비밀번호 또는 지문 인식 사용</string>
     <string name="face_unlock_quality">얼굴이 정확히 보이지 않습니다</string>
     <string name="face_unlock_reenter_content">안면 인식 알고리즘 업데이트 중입니다. 탭하여 다시 인식하세요.</string>
     <string name="face_unlock_reenter_title">얼굴을 다시 인식해주세요.</string>
@@ -1736,7 +1736,7 @@
     <string name="keyguard_unlock">위로 밀어서 잠금해제</string>
     <string name="accessibility_quick_settings_alarm_on">알람 설정됨</string>
     <string name="face_data_input_structure_title">3D 안면 인식 데이터</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"부모 관리 모드에서는 세컨드 스페이스로의 이동이 불가합니다."</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"자녀보호 모드에서는 세컨드 스페이스로의 이동이 불가합니다."</string>
     <string name="keyguard_indication_charging_time">충전중 (완전 충전까지 %s)</string>
     <string name="keyguard_indication_charging_time_fast">고속 충전중 (완전 충전까지 %s)</string>
     <string name="keyguard_indication_charging_time_slowly">저속 충전중 (완전 충전까지 %s)</string>
