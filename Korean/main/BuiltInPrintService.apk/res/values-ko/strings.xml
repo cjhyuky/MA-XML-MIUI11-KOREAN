@@ -20,7 +20,7 @@
     <string name="title_activity_add_printer">개별적으로 추가된 프린터</string>
     <string name="unreadable_input">문서를 읽을 수 없습니다</string>
     <string name="waiting_to_send">전송 대기중</string>
-    <string name="wifi_not_connected">Wi-Fi 연결되지 않음</string>
+    <string name="wifi_not_connected">Wi-Fi가 연결되지 않음</string>
     <string name="add_named">%1$s 추가</string>
     <string name="add_printer_by_ip">IP 주소로 프린터 추가</string>
     <string name="connecting_to">%1$s 연결중</string>

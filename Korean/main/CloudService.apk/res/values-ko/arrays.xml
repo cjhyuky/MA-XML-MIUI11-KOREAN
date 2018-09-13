@@ -3,7 +3,7 @@
     <string-array name="micloud_entrance_subtitleArray">
          <item>연락처, 메시지, 메모, 캘린더, 등 동기화</item>
          <item>앱, 홈화면 구성, 배경화면을 백업</item>
-         <item>Wi-Fi 디스플레이 같은 중요한 설정을 백업</item>
+         <item>Wi-Fi와 디스플레이 같은 중요한 설정을 백업</item>
          <item>"기기를 분실했다면 원격으로 기기 잠그기"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
