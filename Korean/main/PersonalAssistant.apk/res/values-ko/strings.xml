@@ -1203,7 +1203,7 @@
     <string name="upgrade_find">업데이트 가능</string>
     <string name="upgrade_later">나중에 실행</string>
     <string name="upgrade_log_default">"1. 성능 향상.2. 버그 수정."</string>
-    <string name="upgrade_log_subtitle">(와이파이를 이용하여 다운로드 됨)</string>
+    <string name="upgrade_log_subtitle">(Wi-Fi를 이용하여 다운로드 됨)</string>
     <string name="upgrade_log_title">vault 업데이트</string>
     <string name="upgrade_now">지금 설치</string>
     <string name="upgrade_now_bottom">지금 설치</string>

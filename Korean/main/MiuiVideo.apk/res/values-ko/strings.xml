@@ -285,7 +285,7 @@
     <string name="replay">다시보기</string>
     <string name="score">평점</string>
     <string name="search_hint">영화, 배우, 카테고리 검색…</string>
-    <string name="search_settings">비디오;비디오 설정;모바일 데이터;푸시;푸시 알림;알림;사용자 경험;사용자 경험;와이파이;와이파이</string>
+    <string name="search_settings">비디오;비디오 설정;모바일 데이터;푸시;푸시 알림;알림;사용자 경험;사용자 경험;Wi-Fi;Wi-Fi</string>
     <string name="server_summary">서버 선택 (베타 테스터용)</string>
     <string name="server_switch">서버</string>
     <string name="setting">설정</string>

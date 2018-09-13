@@ -2323,7 +2323,7 @@ SMS 전송"</string>
     <string name="lockpattern_tutorial_continue_label_confirm">확인을 누르세요</string>
     <string name="lockpattern_tutorial_continue_label_next">다음을 누르세요</string>
     <string name="network_changed_noti_summary">모바일데이터 사용</string>
-    <string name="network_changed_noti_title">와이파이 연결 끊어짐</string>
+    <string name="network_changed_noti_title">Wi-Fi 연결 끊어짐</string>
     <string name="ac_notification_contentText">탭하여 활성화하기</string>
     <string name="ac_notification_contentTitle">앱 잠금을 이용해 사생활을 보호하세요.</string>
     <string name="ac_post_notification_contentText">시스템 레벨 보호 활성화</string>
@@ -2459,11 +2459,11 @@ SMS 전송"</string>
     <string name="extreme_power_save_mode_summary">배터리 세이버는 백그라운드 작업을 제한하고 동기화를 중지합니다.</string>
     <string name="adjust_sms_cmd"><u>보정 SMS 템플릿 조정</u></string>
     <string name="app_manager_back">뒤로가기</string>
-    <string name="app_manager_net_wifi">와이파이</string>
-    <string name="app_wifi">와이파이</string>
-    <string name="auto_task_operation_wifi">와이파이</string>
+    <string name="app_manager_net_wifi">Wi-Fi</string>
+    <string name="app_wifi">Wi-Fi</string>
+    <string name="auto_task_operation_wifi">Wi-Fi</string>
     <string name="auto_task_result_summary_text">배터리 절약을 위한 자동 작업 설정</string>
-    <string name="battery_stats_wifi_running_label">와이파이</string>
+    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="button_background_connection">허용</string>
     <string name="button_block_calls_from_cantacts">차단 해제</string>
     <string name="button_block_calls_from_strangers">차단 해제</string>
@@ -2472,7 +2472,7 @@ SMS 전송"</string>
     <string name="button_first_aid_kit">지금 수리</string>
     <string name="button_restrict_data_usage">허용</string>
     <string name="button_text_forbid_now">금지</string>
-    <string name="connect_internet_by_wifi">와이파이</string>
+    <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="exo_controls_fastforward_description">빨리 감기</string>
     <string name="exo_controls_fullscreen_description">전체 화면 모드</string>
     <string name="exo_controls_next_description">다음 곡</string>
@@ -2506,7 +2506,7 @@ SMS 전송"</string>
     <string name="extreme_power_save_description"><li>"배터리 세이버는 앱을 나가고 홈 화면으로 돌아간 후 앱의 백그라운드 활동을 모두 중지합니다.이 앱은 알림이나 업데이트를 보내지 않습니다."</li>""<li>앱을 백그라운드에서 실행하려면 최근 실행 앱에서 앱을 잠그거나 아래의 백그라운드 예외에 앱을 추가하십시오. 배터리 세이버가 켜져있을 때 백그라운드에서 최대 4 개의 앱을 실행할 수 있습니다.</li>""<li>배터리 세이버는 기본적으로 NFC를 끕니다. 설정에서 변경할 수 있습니다.</li>""<li>기기의 모든 기능을 정상적으로 사용할 수 있도록 하기 위해 배터리가 30% 충전되면 자동으로 배터리 절약 기능이 꺼집니다.</li></string>
     <string name="extreme_power_save_mode_card_summary">배터리가 부족할 때 절전 모드를 켜십시오.</string>
     <string name="extreme_power_save_mode_title">배터리 세이버</string>
-    <string name="firewall_wifi">와이파이</string>
+    <string name="firewall_wifi">Wi-Fi</string>
     <string name="first_aid_activity_title">응급 처치</string>
     <string name="first_aid_card_airplane_button">끄기</string>
     <string name="first_aid_card_airplane_summary">전화를 걸고 네트워크에 연결할 수 있도록 비행기 모드를 끕니다</string>
@@ -2540,7 +2540,7 @@ SMS 전송"</string>
     <string name="first_aid_card_unable_install_summary">%s 공간만 사용가능합니다. 여유 공간을 확보해야 앱을 설치할 수 있습니다.</string>
     <string name="first_aid_card_unable_install_title">"앱 설치 실패"</string>
     <string name="first_aid_card_wifi_or_flow_button">연결하기</string>
-    <string name="first_aid_card_wifi_or_flow_summary">와이파이나 모바일 데이터를 켜세요</string>
+    <string name="first_aid_card_wifi_or_flow_summary">Wi-Fi나 모바일 데이터를 켜세요</string>
     <string name="first_aid_card_wifi_or_flow_title">"인터넷 연결 실패"</string>
     <string name="first_aid_dialog_msg_stop_scan">지금 스캐닝을 멈출까요?</string>
     <string name="first_aid_dialog_title_stop_scan">스캐닝 중단</string>
@@ -2582,7 +2582,7 @@ SMS 전송"</string>
     <string name="hints_virus_apk_list_item_summary" formatted="false">앱 패키지</string>
     <string name="hints_virus_apk_summary" formatted="false">%s (앱 패키지)</string>
     <string name="hints_virus_app_summary" formatted="false">%s (앱)</string>
-    <string name="main_toolbar_internet_by_wifi">와이파이</string>
+    <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
     <string name="manage_hybrid_permissions">"앱 권한 관리"</string>
     <string name="menu_item_about_privacy_title">개인정보 보호정책</string>
     <string name="notification_exit_extreme_mode_text">배터리가 %s 이상 충전됨</string>
@@ -2613,7 +2613,7 @@ SMS 전송"</string>
     <string name="power_center_scan_item_title_running_app">백그라운드에서 실행중인 앱</string>
     <string name="power_center_scan_result_safe">발견된 배터리 문제가 없습니다</string>
     <string name="power_center_stop_scan_title">스캐닝 중단</string>
-    <string name="power_wifi">와이파이</string>
+    <string name="power_wifi">Wi-Fi</string>
     <string name="privacy_apps">숨겨진 앱</string>
     <string name="privacy_apps_category_title">숨겨진 앱</string>
     <string name="privacy_apps_checkbox_remind_choice">"다시 보지 않기"</string>
@@ -2633,7 +2633,7 @@ SMS 전송"</string>
     <string name="reset_data_title">"비밀번호 복원 실패"</string>
     <string name="see_more_content">더 많은 하이라이트를 보려면 게임 센터를 업데이트하십시오.</string>
     <string name="sp_settings_check_item_title_root">루트</string>
-    <string name="sp_settings_check_item_title_wifi">와이파이</string>
+    <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="summary_first_aid_kit">우리의 긴급 처치 앱을 사용하여 오류를 고치세요</string>
     <string name="tab_sms">문자</string>
     <string name="title_first_aid_kit">응급 처치</string>
