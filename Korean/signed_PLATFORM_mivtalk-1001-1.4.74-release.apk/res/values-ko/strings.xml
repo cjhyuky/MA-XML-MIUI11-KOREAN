@@ -393,7 +393,7 @@
   <string name="is_group_talking">그룹 대화중</string>
   <string name="is_speaking">대화중</string>
   <string name="is_upgrading">업데이트중</string>
-  <string name="is_upload_log">와이파이로 로그 보내기</string>
+  <string name="is_upload_log">Wi-Fi로 로그 보내기</string>
   <string name="join">참여하기</string>
   <string name="join_group_tip">%s 그룹 참여</string>
   <string name="join_room_error">방에 들어가기 실패</string>
@@ -831,11 +831,11 @@
   <string name="update_toast_1">시스템이 최신입니다</string>
   <string name="update_toast_2">MIUI버젼을 %1$s 이상으로 업데이트하세요</string>
   <string name="update_toast_3">이 기능을 사용하려면, 나중에 MIUI %1$s 이상으로 업데이트하세요</string>
-  <string name="update_toast_4">업데이트를 다운로드하기 위해 와이파이 인터넷에 연결</string>
+  <string name="update_toast_4">업데이트를 다운로드하기 위해 Wi-Fi 인터넷에 연결</string>
   <string name="update_toast_5">"업데이트를 다운로드 할 수 없습니다"</string>
   <string name="update_toast_6">"업데이트를 설치할 수 없습니다"</string>
   <string name="update_toast_7">"사용중인 MIUI버젼은 아직이 기능을 지원하지 않습니다"</string>
-  <string name="update_toast_8">업데이트 하기위해 와이파이 연결</string>
+  <string name="update_toast_8">업데이트 하기위해 Wi-Fi 연결</string>
   <string name="upgrade_description">업그레이드 설명: %s</string>
   <string name="upload_failed_info">업로드 실패, 다시 저장하십시오</string>
   <string name="upload_log">업로드 로그</string>
@@ -905,7 +905,7 @@
   <string name="voip_connecting_break">접속 휴식</string>
   <string name="voip_connecting_timeout">접속 시간초과</string>
   <string name="voip_connection_lost">인터넷에 연결되어 있지 않음</string>
-  <string name="voip_dialog_no_wifi">와이파이가 없으면 추가 데이터요금이 발생합니다, 채팅 품질도 떨어질수 있습니다, 계속하시겠습니까?</string>
+  <string name="voip_dialog_no_wifi">Wi-Fi가 없으면 추가 데이터요금이 발생합니다, 채팅 품질도 떨어질수 있습니다, 계속하시겠습니까?</string>
   <string name="voip_drop_call_active">통화 종료</string>
   <string name="voip_drop_call_deny">통화 거절</string>
   <string name="voip_drop_call_positive">통화 종료</string>
@@ -932,12 +932,12 @@
   <string name="voip_network_not_online">접속 실패</string>
   <string name="voip_network_offline_warning">인터넷에 연결되어 있지 않음</string>
   <string name="voip_network_operators">%1$sG 네트워크에 연결되어 있습니다，데이터 요금이 발생합니다</string>
-  <string name="voip_network_wifi">와이파이 네트워크에 연결되어 있습니다，완전 무료입니다</string>
+  <string name="voip_network_wifi">Wi-Fi 네트워크에 연결되어 있습니다，완전 무료입니다</string>
   <string name="voip_network_wranning">네트워크 신호 약함</string>
   <string name="voip_no_network_use">응답 없음</string>
   <string name="voip_no_people_answer">응답 없음</string>
   <string name="voip_no_wifi_tip_one">이 통화는 모바일 데이터를 소모합니다</string>
-  <string name="voip_no_wifi_tip_three">당신은 이번달 데이터사용량에 주의를 기울여야 합니다. 와이파이 사용을 권장합니다.</string>
+  <string name="voip_no_wifi_tip_three">당신은 이번달 데이터사용량에 주의를 기울여야 합니다. Wi-Fi 사용을 권장합니다.</string>
   <string name="voip_no_wifi_tip_two">총 데이터 소모량</string>
   <string name="voip_not_online">"인터넷에 연결할 수 없습니다"</string>
   <string name="voip_offline">응답 없음</string>

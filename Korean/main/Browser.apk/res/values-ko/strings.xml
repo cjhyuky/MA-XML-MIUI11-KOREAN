@@ -1642,6 +1642,6 @@
     <string name="v7_preference_on">켜기</string>
     <string name="pref_privacy_policy">개인 정보 보호 정책</string>
     <string name="data_traffic_download_cancel">취소</string>
-    <string name="data_traffic_download_prompt">현재 재생중인 영상은 와이파이 환경에서만 다운로드 가능합니다</string>
+    <string name="data_traffic_download_prompt">현재 재생중인 영상은 Wi-Fi 환경에서만 다운로드 가능합니다</string>
     <string name="data_traffic_download_setting">설정</string>
 </resources>

@@ -15,7 +15,7 @@
     <string name="cloud_app_dont_restore">새 기기로 설정</string>
     <string name="cloud_app_restore_wifi_prompt">Mi 클라우드 백업에서 복원하려면 Wi-Fi 네트워크에 연결해야 합니다.</string>
     <string name="cloud_backup_detail_state">자동 백업</string>
-    <string name="cloud_backup_detail_state_summary">와이파이 연결시 자동으로 Mi 클라우드 백업을 생성합니다</string>
+    <string name="cloud_backup_detail_state_summary">Wi-Fi 연결시 자동으로 Mi 클라우드 백업을 생성합니다</string>
     <string name="cloud_backup_detail_frequence">일정 백업</string>
     <string name="cloud_back_up_interval_long">일주일</string>
     <string name="cloud_back_up_interval_short">일</string>
@@ -173,8 +173,8 @@
     <string name="cloud_backup_derail_size_summary">크기 : %s</string>
     <string name="dialog_btn_next">다음</string>
     <string name="dialog_btn_restore_skip">나중에 복원</string>
-    <string name="dialog_msg_restore_require_wlan">백업 파일 복원은 와이파이 연결이 필요합니다.</string>
-    <string name="dialog_title_require_wlan">와이파이 연결요망</string>
+    <string name="dialog_msg_restore_require_wlan">백업 파일 복원은 Wi-Fi 연결이 필요합니다.</string>
+    <string name="dialog_title_require_wlan">Wi-Fi 연결요망</string>
     <string name="get_device_id_error">기기 ID 복원 실패</string>
     <string name="home_hint_global_launcher">데스크탑 포코</string>
     <string name="home_restore_error">홈 화면 복원 실패</string>

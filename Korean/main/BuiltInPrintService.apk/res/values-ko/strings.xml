@@ -20,19 +20,19 @@
     <string name="title_activity_add_printer">개별적으로 추가된 프린터</string>
     <string name="unreadable_input">문서를 읽을 수 없습니다</string>
     <string name="waiting_to_send">전송 대기중</string>
-    <string name="wifi_not_connected">와이파이 연결되지 않음</string>
+    <string name="wifi_not_connected">Wi-Fi 연결되지 않음</string>
     <string name="add_named">%1$s 추가</string>
     <string name="add_printer_by_ip">IP 주소로 프린터 추가</string>
     <string name="connecting_to">%1$s 연결중</string>
     <string name="connects_via_network">현재 네트워크 %1$s 연결</string>
-    <string name="connects_via_wifi_direct">와이파이 다이렉트로 연결</string>
+    <string name="connects_via_wifi_direct">Wi-Fi 다이렉트로 연결</string>
     <string name="connect_hint_text">"프린터 전면창에서 이 연결을 승인해주세요"</string>
     <string name="failed_connection">%1$s 연결 실패</string>
     <string name="failed_printer_connection">프린터에 연결할 수 없습니다</string>
-    <string name="find_wifi_direct">와이파이 다이렉트 프린터 찾기</string>
+    <string name="find_wifi_direct">Wi-Fi 다이렉트 프린터 찾기</string>
     <string name="forget">삭제</string>
     <string name="saved_printers">저장된 프린터</string>
     <string name="searching">검색중…</string>
-    <string name="wifi_direct">와이파이 다이렉트</string>
-    <string name="wifi_direct_printers">와이파이 다이렉트 프린터</string>
+    <string name="wifi_direct">Wi-Fi 다이렉트</string>
+    <string name="wifi_direct_printers">Wi-Fi 다이렉트 프린터</string>
 </resources>
