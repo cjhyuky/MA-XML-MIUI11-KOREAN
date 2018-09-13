@@ -560,7 +560,7 @@
     <string name="update_title">새로운 업데이트가 있습니다</string>
     <string name="using_theme_has_update_tips">이 테마의 업데이트가 있습니다.</string>
     <string name="using_theme_next_automatic_update">자동 업데이트</string>
-    <string name="using_theme_next_automatic_update_summary">화면이 꺼져있어도 다운받은 테마 와이파이를 통해 업데이트</string>
+    <string name="using_theme_next_automatic_update_summary">화면이 꺼져있어도 다운받은 테마 Wi-Fi를 통해 업데이트</string>
     <string name="using_theme_show_ad">광고 표시</string>
     <string name="video_audio_apply_success">영상과 함께 소리재생 설정 완료</string>
     <string name="video_data_tips_message">모바일 데이투 사용은 추가요금이 발생할 수 있습니다. 계속하시겠습니까?</string>

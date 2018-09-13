@@ -516,7 +516,7 @@
     <string name="notif_receiving_transingsd">받는중 %1$s (%2$s)…</string>
     <string name="notif_sending_transingsd">보내는중 %1$s (%2$s)…</string>
     <string name="notif_miasist_try_to_connect">Mi PC 슈트가 기기에 연결을 시도하고 있습니다.</string>
-    <string name="trans_switching_5g">5GHz 와이파이로 전환 중…</string>
+    <string name="trans_switching_5g">5GHz Wi-Fi로 전환 중…</string>
     <string name="err_not_allow">지원되지 않음</string>
     <string name="button_clean_garbage">저장 공간을 확보하세요.</string>
     <string name="button_got_it">네</string>
@@ -564,7 +564,7 @@
     <string name="trans_install_guide_step1_title">스텝 1</string>
     <string name="trans_install_guide_step2_content">설치 완료 후, \"시작\" 버튼을 탭하세요.</string>
     <string name="trans_install_guide_step2_title">스텝 2</string>
-    <string name="trans_intro_desc_4_market">"Mi Mover는 데이터 송수신시 와이파이를 이용합니다. 파일 전송중에 인터넷이 되지 않는 이유는 이것때문입니다. 하지만 모바일 데이터는 여전히 사용하실 수 있습니다."</string>
+    <string name="trans_intro_desc_4_market">"Mi Mover는 데이터 송수신시 Wi-Fi를 이용합니다. 파일 전송중에 인터넷이 되지 않는 이유는 이것때문입니다. 하지만 모바일 데이터는 여전히 사용하실 수 있습니다."</string>
     <string name="trans_intro_desc_9_method_1_dec">홈화면 &gt; 툴 폴더안에 있는 &gt; 피드백으로 가세요.</string>
     <string name="trans_intro_desc_9_method_1_title">1. \"피드백\" 앱을 사용하여 당신의 피드백을 공유해주세요.</string>
     <string name="trans_intro_desc_9_method_2_dec">당신의 피드백을 miui-mover@xiaomi.com로 보내주세요.</string>
@@ -576,7 +576,7 @@
     <string name="trans_open_camera_failed_message">기기를 재부팅시거나 Mi Mover가 &lt;b&gt;카메라&lt;/b&gt;사용 권한허용되었는지 확인해보세요.</string>
     <string name="trans_open_camera_failed_title">"카메라에 접근 할 수 없습니다"</string>
     <string name="trans_open_location_button">켜기</string>
-    <string name="trans_open_location_message">사용 가능한  와이파이 네트워크를 확인하려면 GPS 서비스를 켜세요.</string>
+    <string name="trans_open_location_message">사용 가능한 Wi-Fi를 확인하려면 GPS 서비스를 켜세요.</string>
     <string name="trans_open_location_title">GPS 서비스 켜기</string>
     <string name="trans_operate_tip_for_other_android">Mi Mover를 이전 폰에서 여시고, tap \"시작\"을 탭하고 QR코드를 스캔하세요.</string>
      <string name="trans_success_dialog_button_market_favourable_comment">Mi Mover 평가하기</string>

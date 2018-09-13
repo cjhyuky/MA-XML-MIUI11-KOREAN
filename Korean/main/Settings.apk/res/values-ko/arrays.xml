@@ -1220,9 +1220,9 @@ Note: Only for Ubuntu 8.04!"</item>
          <item>오늘(데이터)</item>
          <item>이번 달(데이터)</item>
          <item>지난 달(데이터)</item>
-         <item>오늘 와이파이</item>
-         <item>이번 달 와이파이</item>
-         <item>지난 달 와이파이</item>
+         <item>오늘 Wi-Fi</item>
+         <item>이번 달 Wi-Fi</item>
+         <item>지난 달 Wi-Fi</item>
      </string-array>
      <string-array name="date_of_traffic">
          <item>"오늘 "</item>
@@ -1236,7 +1236,7 @@ Note: Only for Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="traffic_type">
          <item>"모바일데이터 사용량 "</item>
-         <item>"와이파이 사용량 "</item>
+         <item>"Wi-Fi 사용량 "</item>
      </string-array>
      <string-array name="status_bar_settings_notification_shade_shortcut_entries">
          <item>검색</item>
