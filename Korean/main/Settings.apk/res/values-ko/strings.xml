@@ -7592,8 +7592,6 @@ PIN 설정"</string>
     <string name="bootloader_device_bind_no_data_network">Wi-Fi를 끄고 모바일 데이터를 사용하여 계정과 장치를 추가하십시오.</string>
     <string name="bootloader_device_bind_server_token_expired_1">"확인할 수 없습니다. 계정과 장치를 다시 추가하십시오."</string>
     <string name="bootloader_device_bind_server_token_expired_2">"확인할 수 없습니다. 계정에 다시 로그인하여 다시 시작하십시오."</string>
-    <string name="setup_choose_unlock_password">핀</string>
-    <string name="sync_gmail">지메일</string>
     <string name="system_backup">백업</string>
     <string name="system_backup_info">시스템 설정 및 홈 화면 레이아웃</string>
     <string name="task_backup_cancel_progress">중지하는 중…</string>
