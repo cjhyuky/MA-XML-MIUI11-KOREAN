@@ -1042,7 +1042,7 @@
     <string name="open_external_storage_and_contacts_permission">설정에서 메일의 저장소 및 연락처 정보 접근 허용</string>
     <string name="overlays_fail_tip">사서함이 성공적으로 구성되지 않았다면 유감스럽게 생각합니다. 팝업 창 표시 사용 권한을 열고 다시 시도하십시오.</string>
     <string name="overlays_ok">권한 열기</string>
-    <string name="overlays_tip">팝업 창 권한을 열고 즉시 자동으로 극단적인 환경을 구성하는 139 사서함을 즐기십시오.</string>
+    <string name="overlays_tip">전화 설정 - 응용 프로그램 - 응용 프로그램 세부 정보 - 권한 관리자에서 플로팅 알림 권한을 열고 허용해주세요.</string>
     <string name="overlays_title">팝업 창 권한 열기</string>
     <string name="permission_tip">구성 실패합니다. 구성 권한 중에 전화 및 문자 메시지를 허용하십시오.</string>
     <string name="quote_divider_6">---원본---</string>
