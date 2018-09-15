@@ -427,4 +427,6 @@
     <string name="unit_data_display_currency_vnd">베트남어 đồng</string>
     <string name="unit_data_display_currency_zar">남아프리카 랜드</string>
     <string name="unit_data_display_currency_zmw">잠비아 콰차</string>
+    <string name="tax_thershold_native_new">%s (신규)</string>
+    <string name="tax_thershold_native_new_description">세금은 2018년 10월 1일부터 새로운 세법에 따라 계산됩니다.</string>
 </resources>
