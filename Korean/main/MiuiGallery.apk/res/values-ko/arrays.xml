@@ -29,4 +29,89 @@
         <item>친구</item>
         <item>그룹 해제됨</item>
     </string-array>
+    <string-array name="card_last_week_day">
+        <item>지난주 월요일</item>
+        <item>지난주 화요일</item>
+        <item>지난주 수요일</item>
+        <item>지난주 목요일</item>
+        <item>지난주 금요일</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>"작년 구정 전날"</item>
+        <item>작년 구정</item>
+        <item>작년 원소절</item>
+        <item>작년 단오절</item>
+        <item>작년 칠석</item>
+        <item>작년 추석</item>
+  </string-array>
+  <string-array name="chinese_holiday_past_year">
+        <item>"지난 구정 전날"</item>
+        <item>지난 구정</item>
+        <item>지난 원소절</item>
+        <item>지난 단오절</item>
+        <item>지난 칠석</item>
+        <item>지난 추석</item>
+  </string-array>
+  <string-array name="holiday_last_year">
+        <item>"작년 신정"</item>
+        <item>"작년 발렌타인데이"</item>
+        <item>작년 노동절</item>
+        <item>"작년 어린이날"</item>
+        <item>작년 국경일</item>
+        <item>작년 크리스마스</item>
+  </string-array>
+  <string-array name="holiday_past_year">
+        <item>"지난 신정"</item>
+        <item>"지난 발렌타인데이"</item>
+        <item>지난 노동절</item>
+        <item>"지난 어린이날"</item>
+        <item>지난 국경일</item>
+        <item>지난 크리스마스</item>
+  </string-array>
+  <string-array name="month_last_year">
+        <item>작년 1월</item>
+        <item>작년 2월</item>
+        <item>작년 3월</item>
+        <item>작년 4월</item>
+        <item>작년 5월</item>
+        <item>작년 6월</item>
+        <item>작년 7월</item>
+        <item>작년 8월</item>
+        <item>작년 9월</item>
+        <item>작년 10월</item>
+        <item>작년 11월</item>
+        <item>작년 12월</item>
+  </string-array>
+  <string-array name="month_past_year">
+        <item>1월 추억</item>
+        <item>2월 추억</item>
+        <item>3월 추억</item>
+        <item>4월 추억</item>
+        <item>5월 추억</item>
+        <item>6월 추억</item>
+        <item>7월 추억</item>
+        <item>8월 추억</item>
+        <item>9월 추억</item>
+        <item>10월 추억</item>
+        <item>11월 추억</item>
+        <item>12월 추억</item>
+  </string-array>
+  <string-array name="season_last_year">
+        <item>작년 봄</item>
+        <item>작년 여름</item>
+        <item>작년 가을</item>
+        <item>작년 겨울</item>
+  </string-array>
+  <string-array name="season_past_year">
+        <item>봄 추억</item>
+        <item>여름 추억</item>
+        <item>가을 추억</item>
+        <item>겨울 추억</item>
+  </string-array>
+  <string-array name="season_recap">
+        <item>봄 요약</item>
+        <item>여름 요약</item>
+        <item>가을 요약</item>
+        <item>겨울 요약</item>
+  </string-array> 
 </resources>
