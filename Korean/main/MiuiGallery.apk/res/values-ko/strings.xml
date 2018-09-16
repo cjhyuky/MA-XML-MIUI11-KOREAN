@@ -1060,7 +1060,7 @@
     <string name="sync_not_allow_cta_title">"네트워크에 접속할 수 없습니다."</string>
     <string name="title_tip">힌트</string>
     <string name="try_again_later">나중에 다시 시도하세요.</string>
-    <string name="assistant_page_label">어시스턴트</string>
+    <string name="assistant_page_label">스토리</string>
     <string name="auto_download_media_title">Mi 클라우드에서 사진 자동으로 저장</string>
     <string name="cancel_download_btn_text">정지</string>
     <string name="download_error_tip">다운로드가 중지되었습니다.</string>
