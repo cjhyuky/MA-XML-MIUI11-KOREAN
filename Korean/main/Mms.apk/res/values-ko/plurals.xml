@@ -48,4 +48,7 @@
     <plurals name="to_count">
         <item quantity="other">수신자 %d명</item>
     </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">%1$d명의 사람들에 의해 %2$s로 표시됨</item>
+    </plurals>
 </resources>
