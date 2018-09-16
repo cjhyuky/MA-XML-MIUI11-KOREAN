@@ -1150,7 +1150,6 @@
     <string name="report_rendering_problem_desc">잘못된 메시지입니다.</string>
     <string name="wait_help_context">잠시만 기다려 주십시오...</string>
     <string name="privacy_policy">개인정보 보호정책</string>
-    <string name="account_settings_preference_add_account">이메일 계정 추가</string>
     <string name="chinese">중국어</string>
     <string name="notify_channel_new_mail">새로운 메시지 알림</string>
     <string name="notify_channel_permission_notice">허가 통지 알림</string>
