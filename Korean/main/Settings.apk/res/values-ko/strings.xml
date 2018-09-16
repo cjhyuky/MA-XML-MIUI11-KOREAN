@@ -2970,7 +2970,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="battery_settings">배터리</string>
     <string name="battery_settings_title">배터리</string>
     <string name="power_center">전원</string>
-    <string name="power_hide_mode_title">앱 배터리 사용량 관리</string>
+    <string name="power_hide_mode_title">배터리 &amp; 성능</string>
     <string name="power_hide_mode_summary">개별 앱의 백그라운드 프로세스, Wi-Fi, 모바일 데이터 연결, GPS를 제한하여 배터리 절약</string>
     <string name="battery_indicator_style">배터리 표시기</string>
     <string name="power_usage_history">배터리 사용</string>
