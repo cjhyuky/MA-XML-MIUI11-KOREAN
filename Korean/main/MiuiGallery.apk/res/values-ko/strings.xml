@@ -1369,7 +1369,6 @@
     <string name="card_title_period_three_month">지난 3개월</string>
     <string name="card_title_recent_place">%1$s 최근</string>
     <string name="card_title_someone">우정</string>
-    <string name="card_title_somewhere">%1$s</string>
     <string name="empty_title_no_cards">귀하의 스토리가 여기에 표시됩니다.</string>
     <string name="more">더보기</string>
     <string name="operation_favorites">즐겨찾기</string>
@@ -1395,7 +1394,6 @@
     <string name="card_title_period_three_month">지난 3개월</string>
     <string name="card_title_recent_place">%1$s 최근</string>
     <string name="card_title_someone">우정</string>
-    <string name="card_title_somewhere">%1$s</string>
     <string name="empty_title_no_cards">귀하의 스토리가 여기에 표시됩니다.</string>
     <string name="more">더보기</string>
     <string name="operation_favorites">즐겨찾기</string>
@@ -1414,7 +1412,6 @@
     <string name="card_title_period_three_month">지난 3개월</string>
     <string name="card_title_recent_place">%1$s 최근</string>
     <string name="card_title_someone">우정</string>
-    <string name="card_title_somewhere">%1$s</string>
     <string name="empty_title_no_cards">귀하의 스토리가 여기에 표시됩니다.</string>
     <string name="more">더보기</string>
     <string name="operation_favorites">즐겨찾기</string>
