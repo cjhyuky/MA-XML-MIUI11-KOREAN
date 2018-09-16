@@ -118,4 +118,5 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="ai_button_single_press">누르기</string>
     <string name="ai_button_single_press_desc">Mi AI 켜기</string>
     <string name="ai_button_title">AI 버튼에 관하여</string>
+    <string name="poco_agree_terms_other">(포코 런쳐 개인정보 보호정책과 사용자 약관 포함)</string>
 </resources>
