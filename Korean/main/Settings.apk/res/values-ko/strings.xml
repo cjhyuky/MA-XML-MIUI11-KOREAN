@@ -7732,4 +7732,6 @@ PIN 설정"</string>
     <string name="trans_open_location_title">위치 서비스 켜기</string>
     <string name="trans_operate_func_one">방법 A</string>
     <string name="trans_operate_func_two">방법 B</string>
+    <string name="accessibility_summary_source">%s에서 제공</string>
+    <string name="credentials_title_verification">인증</string>
 </resources>
