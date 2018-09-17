@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">홈 탐색</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">위로 탐색</string>
     <string name="abc_action_menu_overflow_description">옵션 더보기</string>
     <string name="abc_action_mode_done">완료</string>
@@ -15,15 +13,15 @@
     <string name="abc_searchview_description_submit">검색어 보내기</string>
     <string name="abc_searchview_description_voice">음성 검색</string>
     <string name="abc_shareactionprovider_share_with">공유 대상</string>
-    <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
+    <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="catalyst_debugjs">JS 분</string>
     <string name="catalyst_element_inspector">요소 검사</string>
-    <string name="catalyst_jsload_error">Unable to download JS bundle</string>
-    <string name="catalyst_jsload_message">Fetching JS bundle</string>
+    <string name="catalyst_jsload_error">JS 번들 다운로드 불가</string>
+    <string name="catalyst_jsload_message">번들 페칭중</string>
     <string name="catalyst_jsload_title">기다려주세요...</string>
     <string name="catalyst_reloadjs">JS 재로</string>
     <string name="catalyst_settings">Dev 셋</string>
-    <string name="catalyst_settings_title">Catalyst Dev Settings</string>
+    <string name="catalyst_settings_title">Dev 설정 카탈리스트</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
