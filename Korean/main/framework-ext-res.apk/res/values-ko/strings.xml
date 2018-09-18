@@ -185,4 +185,6 @@
     <string name="miui_warning_button_cancel">취소</string>
     <string name="miui_warning_button_ok">확인</string>
     <string name="miui_warning_tip_info">%1$s 앱에서 에러가 발생했습니다. 이 앱을 닫으시겠습니까?</string>
+    <string name="talk_back_water_mark_string1">TalkBack 켜짐</string>
+    <string name="talk_back_water_mark_string2">\"볼륨+\" 와 \"볼륨-\"를 3초동안 동시에 누르면 꺼집니다</string>
 </resources>
