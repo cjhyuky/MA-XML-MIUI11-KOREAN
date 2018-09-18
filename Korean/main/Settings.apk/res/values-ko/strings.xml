@@ -7752,9 +7752,9 @@ PIN 설정"</string>
     <string name="miui_sos_contacts_category">긴급 연락처</string>
     <string name="miui_sos_emergency_contacts">긴급 연락처</string>
     <string name="miui_sos_emergency_contacts_quantity">할인 된 금액</string>
-    <string name="miui_sos_emergency_delivered_sms" formatted= "false">%1s(%2s)님이 이미 수락했습니다.</string>
+    <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s)님이 이미 수락했습니다.</string>
     <string name="miui_sos_emergency_delivered_sms_noname">%1s님이 이미 수락했습니다.</string>
-    <string name="miui_sos_emergency_failed_sms" formatted = "false">%1s(%2s)님에게 SOS 메시지 전송 실패</string>
+    <string name="miui_sos_emergency_failed_sms" formatted="false">%1s(%2s)님에게 SOS 메시지 전송 실패</string>
     <string name="miui_sos_emergency_failed_sms_noname">%1s님에게 SOS 메시지 전송 실패.</string>
     <string name="miui_sos_enable_switch_summary">신속하게 전원 버튼을 5번 눌러 해당 지역의 SOS 문자 메시지를 긴급 연락처로 보내십시오.</string>
     <string name="miui_sos_enable_switch_title">긴급 SOS</string>
