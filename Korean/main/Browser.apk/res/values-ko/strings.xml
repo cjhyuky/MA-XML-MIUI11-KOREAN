@@ -1644,4 +1644,13 @@
     <string name="data_traffic_download_cancel">취소</string>
     <string name="data_traffic_download_prompt">현재 재생중인 영상은 Wi-Fi 환경에서만 다운로드 가능합니다</string>
     <string name="data_traffic_download_setting">설정</string>
+    <string name="bubble_guide_bottom_message_text">%d개의 읽지않은 메시지가 있습니다</string>
+    <string name="bubble_guide_portrait_message_text">클릭하여 보기</string>
+    <string name="dialog_recovery_tabs_disc">오프라인 페이지를 검색하려면 전체 복구가 필요합니다.</string>
+    <string name="dialog_recovery_tabs_title">복구 전에 페이지 열기</string>
+    <string name="exit_browser_confirmation">데스크톱으로 돌아가려면 다시 누르세요</string>
+    <string name="pref_checkbox_tab_restore">이 옵션 기억하기(수정하려면 고급 설정으로 이동하세요)</string>
+    <string name="pref_slide_back_forward">앞으로 또는 뒤로 슬라이드 하세요</string>
+    <string name="pref_tab_restore">시작시 마지막으로 열린 페이지 복구</string>
+    <string name="slide_guide">돌아가려면 슬라이드하세요</string>
 </resources>
