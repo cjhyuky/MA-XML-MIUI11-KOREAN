@@ -492,6 +492,7 @@
   <string name="mini_to_open_error">지문 수집 소프트웨어 시작 오류가 있는지 확인하십시오.</string>
   <string name="mini_weakpassword_error_same">같은 번호를 사용하지 마십시오.</string>
   <string name="mini_weakpassword_error_serial">연속 번호를 사용하지 마십시오.</string>
+  <string name="miot_device_click_show_detail">스마트 홈에 대해 알아보려면 클릭하세요</string>
   <string name="miuishare_account_activate_confirmation">계정 활성화 필요 </string>
   <string name="miuishare_account_activate_ok">계정 활성화</string>
   <string name="miuishare_account_login_cancel">취소</string>
