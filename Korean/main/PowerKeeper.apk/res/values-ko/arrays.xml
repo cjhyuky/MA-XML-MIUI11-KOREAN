@@ -106,5 +106,6 @@
     <string-array name="emode_app_groups">
         <item>시스템 앱</item>
         <item>기타 앱</item>
+        <item>선택된 앱</item>
     </string-array>
 </resources>
