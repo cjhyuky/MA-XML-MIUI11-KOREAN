@@ -153,4 +153,9 @@
         <item>아지랑이</item>
         <item>얼음비</item> 
     </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>항상 묻기</item>
+        <item>열기</item>
+        <item>닫기</item>
+    </string-array>   
 </resources>
