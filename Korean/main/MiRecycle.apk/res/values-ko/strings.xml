@@ -16,6 +16,7 @@
     <string name="abc_searchview_description_voice">음성 검색어</string>
     <string name="abc_shareactionprovider_share_with">공유하기</string>
     <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
     <string name="accepted_tick_for_order_exchange">주문 교환을 위해 수락된 틱</string>
     <string name="add">추가</string>
     <string name="app_name">Mi 휴지통</string>
