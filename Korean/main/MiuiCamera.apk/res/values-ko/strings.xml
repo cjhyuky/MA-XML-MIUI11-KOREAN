@@ -894,7 +894,7 @@
     <string name="eye_light_rainbow">무지개 조명</string>
     <string name="eye_light_star">별빛 조명</string>
     <string name="eye_light_window">창문 조명</string>
-    <string name="fps960_toast">슬로우 모션 캡처는 타이머가 흰색 점에 도달하면 시작됩니다.</string>
+    <string name="fps960_toast">슬로우 모션 캡처는 영상의 마지막 1/4에서 시작됩니다.</string>
     <string name="hint_eye_light">플래시가 켜지면 아이 라이트가 좋아집니다.</string>
     <string name="makeup_reset_toast">메이크업 효과 제가</string>
     <string name="module_name_new_slow_motion">슬로우 모션</string>
