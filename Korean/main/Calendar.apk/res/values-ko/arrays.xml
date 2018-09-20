@@ -422,4 +422,11 @@
         <item>매월 넷째 토요일</item>
         <item>매월 마지막 토요일</item>
     </string-array>
+    <string-array name="edit_event_dislike">
+        <item>만들려는 이벤트 유형 없음</item>
+        <item>추가 설정</item>
+        <item>일부 설정을 설정할 수 없음</item>
+        <item>둘러보기</item>
+        <item>"알리지 않기"</item>
+    </string-array>
 </resources>
