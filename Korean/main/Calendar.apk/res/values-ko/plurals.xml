@@ -124,4 +124,7 @@
     <plurals name="recurrence_end_count">
         <item quantity="other">%d 이벤트를 위해</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">%d개까지 미리 알림을 설정할 수 있음</item>
+    </plurals>
 </resources>
