@@ -622,4 +622,5 @@
     <string name="abc_shareactionprovider_share_with">공유하기</string>
     <string name="abc_shareactionprovider_share_with_application">%s 님과 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="edit_event_dislike_title">취소하신 이유가 무엇인가요?</string>
 </resources>
