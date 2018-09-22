@@ -899,7 +899,7 @@
     <string name="auto_record_yellowpage">디렉토리</string>
     <string name="call_record_auto_title">자동으로 통화 녹음</string>
     <string name="call_record_auto_summary">녹음 파일은 기기 내부 저장소의 MIUI/sound_recorder/call_rec 폴더에 저장됩니다.</string>
-    <string name="call_record_auto_scenario_title">통화 녹음 위치</string>
+    <string name="call_record_auto_scenario_title">통화 녹음 번호 설정</string>
     <string name="call_record_whitelist_custom">선택된 번호</string>
     <string name="call_record_auto_whitelist_summary_for_one">1개 번호</string>
     <string name="call_record_auto_whitelist_summary">%d개의 번호</string>
