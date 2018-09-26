@@ -107,7 +107,7 @@
     <string name="mode_settings">설정</string>
     <string name="hide_mode_desc">앱이 백그라운드에서 실행 중일때, 배터리 사용량을 줄이기 위해 활동이 모니터링 될 것입니다.</string>
     <string name="hide_mode_ultimate_desc">울티메이트 모드가 켜졌습니다. 백그라운드에서 앱이 중지될 것입니다. 배터리 절약을 끄시면 울티메이트 모드가 종료됩니다.</string>
-    <string name="power_hide_mode_title">앱 배터리 사용량 관리</string>
+    <string name="power_hide_mode_title">전원 및 절약모드</string>
     <string name="power_hide_mode_summary">개별 앱의 백그라운드 프로세스, Wi-Fi, 모바일 데이터 연결, GPS를 제한하여 배터리 절약</string>
     <string name="power_config_apps">MIUI 배터리 절약</string>
     <string name="app_list_title">앱 선택</string>
