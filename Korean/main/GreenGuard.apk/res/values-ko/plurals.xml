@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="notification_today_steps_start">
-        <item quantity="other">오늘 %d걸음을 걸었습니다.</item>
-    </plurals>
-</resources>
