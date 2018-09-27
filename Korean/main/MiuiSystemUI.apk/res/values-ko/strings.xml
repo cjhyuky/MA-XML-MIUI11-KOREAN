@@ -326,7 +326,7 @@
     <string name="recents_launch_disabled_message">%s 앱이 안전모드에서 중지되었습니다</string>
     <string name="recents_stack_action_button_label">모두제거</string>
     <string name="recents_incompatible_app_message">"이 앱은 분할화면을 지원하지 않습니다"</string>
-    <string name="recents_drag_hint_message">여기로 드래그하세요</string>
+    <string name="recents_drag_hint_message">앱을 길게 누른 다음 여기로 드래그하십시오</string>
     <string name="recents_multistack_add_stack_dialog_split_horizontal">가로로 분할</string>
     <string name="recents_multistack_add_stack_dialog_split_vertical">세로로 분할</string>
     <string name="recents_multistack_add_stack_dialog_split_custom">사용자화</string>
@@ -1096,7 +1096,7 @@
     <string name="do_disclosure_with_name">이 기기는 %s에 의해 관리됩니다.</string>
     <string name="do_not_silence">무음 모드 해제</string>
     <string name="do_not_silence_block">무음 모드나 차단 해제</string>
-    <string name="drag_to_add_tiles">드래그하여 타일 추가</string>
+    <string name="drag_to_add_tiles">길게 눌러 항목을 추가하거나 재정렬하십시오</string>
     <string name="drag_to_remove_tiles">드래그하여 삭제</string>
     <string name="drive_mode_tip_idle">탭하여 운전 모드 나가기</string>
     <string name="drive_mode_tip_idle_notch">운전 모드 해제</string>
@@ -1899,4 +1899,5 @@
     <string name="keyguard_left_torch">손전등</string>
     <string name="miui_screen_rotation_freeze_message">자동 회전</string>
     <string name="face_unlock_sc_status">화면을 눌러서 카메라를 켜세요</string>
+    <string name="quick_settings_toast_drag_to_enable_custom_tile">항목을 추가하려면 항목을 길게 누른 다음 패널의 위쪽으로 끕니다.</string>
 </resources>
