@@ -257,4 +257,5 @@
     <string name="prompt_no_volte_when_failed">"VoLTE 서비스를 이용할 수 없습니다."</string>
     <string name="conference_call_recorder_title">회의 전화</string>
     <string name="description_message_list_title">빠른 답장 목록</string>
+    <string name="volume_boost_text">볼륨 증폭 완료</string>
 </resources>
