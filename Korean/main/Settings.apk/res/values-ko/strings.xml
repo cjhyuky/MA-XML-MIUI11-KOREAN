@@ -434,7 +434,7 @@
     <string name="unlock_set_unlock_pattern_title">패턴</string>
     <string name="unlock_set_unlock_pattern_summary">손가락으로 단순한 패턴 그려 기기 잠금 해제</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
-    <string name="unlock_set_unlock_pin_summary">4자리 숫자를 입력하여 기기 잠금 해제</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">기기를 사용하시려면 %d-%d 자릿수를 입력하세요</string>
     <string name="unlock_set_unlock_password_title">비밀번호</string>
     <string name="unlock_set_unlock_password_summary">4개 이상 문자나 숫자 입력하여 기기 잠금 해제</string>
     <string name="unlock_set_unlock_disabled_summary">관리자, 암호화 정책 또는 자격증명 저장소로 인해 사용 중지됨</string>
@@ -3369,7 +3369,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="private_gallery_reset_by_account">비밀번호를 재설정하려면 Mi 계정에 로그인하십시오.</string>
     <string name="private_gallery_recording_intro_header">잠금 해제 패턴 그리기:</string>
     <string name="lockpassword_pin_fixed_length">핀은 %d자여야 합니다.</string>
-    <string name="lockpassword_choose_your_pin_title">4자-16자를 입력하세요</string>
+    <string name="lockpassword_choose_your_pin_title" formatted="false">%d-%d 자리수를 입력하세요</string>
     <string name="lockpassword_confirm_for_second_user">보조 공간 비밀번호 승인</string>
     <string name="lockpassword_choose_for_second_user">보조 공간 비밀번호 설정</string>
     <string name="lockpassword_choose_your_password_second_space">"보조 공간을 위한 비밀번호 설정
@@ -7791,4 +7791,10 @@ PIN 설정"</string>
 SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모바일 네트워크를 사용하고 주소록을 읽어야합니다. "</string>
     <string name="sos_privacy_dialog_title">이용 약관</string>
     <string name="talkback_watermark_enable">TalkBack 워터 마크</string>
+    <string name="fingerprint_others_title">기타</string>
+    <string name="gxzw_anim_light">네온</string>
+    <string name="gxzw_anim_metal">메탈</string>
+    <string name="gxzw_anim_pulse">맥박</string>
+    <string name="gxzw_anim_rhythm">리듬</string>
+    <string name="gxzw_anim_title">지문 애니메이션</string>
 </resources>
