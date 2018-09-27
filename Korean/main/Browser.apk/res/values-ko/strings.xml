@@ -1670,8 +1670,6 @@
     <string name="bookmark_deleted">북마크 삭제</string>
     <string name="bookmark_not_deleted">"북마크를 삭제할 수 없습니다"</string>
     <string name="bookmark_url_not_exisit">"이미 이 URL을 삭제했습니다"</string>
-    <string name="common_use_phrase_bottom_bar_text_next">다음</string>
-    <string name="common_use_phrase_bottom_bar_text_previous">이전</string>
     <string name="guide_fiction_text">허구</string>
     <string name="guide_flash_type_main_title">번개보다 빠른</string>
     <string name="guide_flash_type_subtitle">놀라운 속도와 부드러운 UI</string>
