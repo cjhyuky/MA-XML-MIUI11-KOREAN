@@ -1037,7 +1037,7 @@
     <string name="speech_engine_not_install">TTS엔진이 설치되지 않았습니다</string>
     <string name="context_menu_add_to_desk_id">홈 화면에 추가</string>
     <string name="context_menu_orientation_portrait_swap_id">V/H 스크린</string>
-    <string name="data_monitor">데이터 모니터</string>
+    <string name="data_monitor">데이터 사용량 모니터링 알림</string>
     <string name="data_monitor_dialog_message">무언가가 모바일데이터를 소진하고있는 것처럼 보입니다. 시작페이지를 열어 이 작업을 중지하십시오.</string>
     <string name="mw_abc_action_bar_home_description">홈화면으로 이동</string>
     <string name="mw_abc_action_bar_up_description">위로 이동</string>
@@ -1614,6 +1614,8 @@
     <string name="expand_button_title">고급</string>
     <string name="guide_chosen_type_main_title">좋아하는 것을 알려주십시오.</string>
     <string name="guide_chosen_type_subtitle">관련 추천을 얻으려면 관심사를 태그하세요.</string>
+    <string name="guide_know_type_main_title">당신을 이해하는 브라우져</string>
+    <string name="guide_know_type_subtitle">멋진 추천항목을 받으세요</string> 
     <string name="guide_entertainment_text">오락</string>
     <string name="guide_fashion_text">패션</string>
     <string name="guide_finance_text">금융</string>
