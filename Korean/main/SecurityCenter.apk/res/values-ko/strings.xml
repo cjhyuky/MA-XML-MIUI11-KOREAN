@@ -2408,7 +2408,7 @@ SMS 전송"</string>
     <string name="gb_msg_not_shielded_summary">보기</string>
     <string name="gs_gamebox">게임 내 단축키</string>
     <string name="gs_gamebox_detail">게임 내 바로 가기 패널 표시</string>
-    <string name="midrop_post_notification_contentText">"Mi드롭 앱을 사용해보세요. 광고도 없고 빠릅니다."</string>
+    <string name="midrop_post_notification_contentText">"50M/s 전송 속도가 가능한 Mi 드롭을 사용해보세요."</string>
     <string name="midrop_post_notification_contentTitle">파일을 보내야 하나요?</string>
     <string name="screenrecord_not_find">최신 버전의 화면 녹화기를 설치하고 다시 시도하십시오.</string>
     <string name="app_manager_details_title">앱 </string>
