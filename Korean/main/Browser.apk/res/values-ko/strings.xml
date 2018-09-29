@@ -902,9 +902,7 @@
     <string name="nav_screen_incognito_message">"시크릿 모드를 실행하면 검색 기록이 남지 않습니다. 하지만, 북마크와 다운로드된 파일은 계속 남아있습니다."</string>
     <string name="nav_screen_incognito_title">시크릿 모드</string>
     <string name="open_voice_permission">마이크가 인터넷에 연결될 수 있게 허용</string>
-    <string name="permission_alert_window">이 기능을 사용할 수 있도록 팝업창 허용</string>
     <string name="permission_notification">알림 전송.</string>
-    <string name="permission_unknown">확인되지 않은 액션</string>
     <string name="permissions_prompt_message">%s 이 다음을 원합니다 : </string>
     <string name="pref_advert_null">광고로 표시된 항목이 없습니다.</string>
     <string name="pref_cancel_screen">차단 해제</string>
