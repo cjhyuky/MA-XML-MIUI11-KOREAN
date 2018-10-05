@@ -606,9 +606,4 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="trans_success_dialog_market_comment_and_survey_title">"사용할 준비가 되었습니다. Mi Mover에 대해 어떻게 생각하는지 말해주십시오."</string>
     <string name="trans_success_dialog_survey_title">의견을 보내주셔서 감사합니다.</string>
     <string name="trans_success_survey_hint">먼저 모든 입력란을 채워주세요.</string>
-    <string name="auto_backup_user_data">앱</string>
-    <string name="button_got_it">확인</string>
-    <string name="local_select_userapp">앱</string>
-    <string name="perm_location">위치</string>
-    <string name="trans_detail_category_userdata">앱</string>   
 </resources>
