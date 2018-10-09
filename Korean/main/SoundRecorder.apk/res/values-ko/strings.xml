@@ -146,7 +146,7 @@
     <string name="choose_call_records_count">%d개 항목</string>
     <string name="network_tip_dialog_title">인터넷 연결이 요구됨</string>
     <string name="network_tip_dialog_content">레코더가 정상적으로 작동하려면 인터넷에 연결해야합니다. 동의하십니까?</string>
-    <string name="network_tip_dialog_ok">허용</string>
+    <string name="network_tip_dialog_ok">동의함</string>
     <string name="network_tip_dialog_cancel">동의하지 않음</string>
     <string name="head_set_tip_dialog_title">내장 마이크 사용</string>
     <string name="head_set_tip_dialog_msg">상세 설정으로 소리를 녹음하려면 이어폰 연결을 해제하십시오. (e.g., 음악, 목소리).</string>
