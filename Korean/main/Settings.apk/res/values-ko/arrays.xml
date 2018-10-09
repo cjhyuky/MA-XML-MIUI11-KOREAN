@@ -1272,4 +1272,13 @@ Note: Only for Ubuntu 8.04!"</item>
          <item>연결됐던 것으로 취급</item>
          <item>연결되지 않았던 것으로 취급</item>
     </string-array>
+    <string-array name="ai_key_item_name">
+        <item>구글 어시스턴트 켜기</item>
+        <item>후면 카메라 켜기</item>
+        <item>전면 카메라 켜기</item>
+        <item>이전 앱 열기</item>
+        <item>손전등 켜기</item>
+        <item>야간 모드 켜기</item>
+        <item>없음</item>
+    </string-array>
 </resources>
