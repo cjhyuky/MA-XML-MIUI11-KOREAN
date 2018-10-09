@@ -7797,4 +7797,14 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="gxzw_anim_pulse">맥박</string>
     <string name="gxzw_anim_rhythm">리듬</string>
     <string name="gxzw_anim_title">지문 애니메이션</string>
+    <string name="ai_settings_double_click_category">AI 버튼을 두 번 누르기</string>
+    <string name="ai_settings_double_click_title">두번 누르기</string>
+    <string name="ai_settings_long_press_des">AI 버튼을 길게 누르고 구글 어시스턴트와 대화하며 답을 얻어보세요.</string>
+    <string name="ai_settings_single_click_category">AI 버튼 누르기</string>
+    <string name="ai_settings_single_click_title">누르기</string>
+    <string name="long_press_AI_button">AI 버튼 누르고 있기</string>
+    <string name="gxzw_dialog_message">"화면 보호기를 사용하지 않으면 화면내의 지문인식 기능을 사용할 수 있습니다. 화면 보호기가 필요하다고 생각되면 승인된 호환 옵션 중에서 선택하십시오."</string>
+    <string name="gxzw_dialog_not_show_again">"다시 표시하지 않음"</string>
+    <string name="gxzw_dialog_ok">확인</string>
+    <string name="gxzw_dialog_title">화면내의 지문인식 센서 정보</string>
 </resources>
