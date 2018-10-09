@@ -2159,4 +2159,7 @@
     <string name="zen_upgrade_notification_title">방해 금지 모드가 변경되었습니다.</string>
     <string name="zen_upgrade_notification_visd_content">탭하여 확인 후 변경하십시오.</string>
     <string name="zen_upgrade_notification_visd_title">새로운 기능 : 방해 금지 알림 숨기기</string>
+    <string name="notification_description">음성 통화 상태</string>
+    <string name="status_communication_speaker_summary">핸즈프리 통화중. 이어폰이 연결되어도 계속 스피커폰 상태를 유지합니다.</string>
+    <string name="status_communication_summary">통화 진행중. 이제 볼륨조절만 가능합니다.</string>
 </resources>
