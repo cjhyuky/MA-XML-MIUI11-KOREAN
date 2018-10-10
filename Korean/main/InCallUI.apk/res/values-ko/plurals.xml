@@ -6,4 +6,13 @@
     <plurals name="livetalk_left_minute">
         <item quantity="other">%d분 남음</item>
     </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d 초</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d 분</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d 시간</item>
+    </plurals>
 </resources>
