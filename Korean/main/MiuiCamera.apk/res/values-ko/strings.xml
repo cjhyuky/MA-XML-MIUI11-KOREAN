@@ -902,4 +902,7 @@
 배경을 흐릿하게하면서 피사체를 선명하게 유지하십시오."</string>
     <string name="close_back_flash_toast">"기기가 과열되었습니다. 현재 후면 플래쉬 사용이 불가능합니다."</string>
     <string name="close_front_flash_toast">"기기가 과열되었습니다. 현재 전면 플래쉬 사용이 불가능합니다."</string>
+    <string name="accessibility_camera_lighting_close_panel">조명 메뉴 닫음</string>
+    <string name="accessibility_camera_lighting_open_panel">조명 메뉴 열림</string>
+    <string name="lighting_pattern_null">없음</string>
 </resources>
