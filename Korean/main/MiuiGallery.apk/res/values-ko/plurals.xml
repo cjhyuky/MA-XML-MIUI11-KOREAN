@@ -204,4 +204,7 @@
     <plurals name="slim_remain_photo_count">
         <item quantity="other">%d개 남음</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">%d개까지 사진 선택</item>
+    </plurals>
 </resources>
