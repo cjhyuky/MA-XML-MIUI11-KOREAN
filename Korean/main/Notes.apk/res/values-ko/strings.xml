@@ -239,4 +239,8 @@
     <string name="setting_privacy">개인정보 보호정책</string>
     <string name="toast_notes_hidden_edit">이 메모는 성공적으로 숨겨졌습니다. 숨겨진 노트를 보려면 아래로 당기세요.</string>
     <string name="toast_notes_hidden_home">이 메모는 성공적으로 숨겨졌습니다. 숨겨진 노트를 보려면 아래로 당기세요.</string>    
+    <string name="cta_confirm_cancel">"허용하지 않기"</string>
+    <string name="cta_confirm_ok">허용</string>
+    <string name="cta_dialog_message">메모장이 정상적으로 작동하려면 인터넷 연결, 오디오 녹음, 연락처 접근 권한이 필요합니다. 허용하시겠습니까?</string>
+    <string name="cta_dialog_title">권한이 필요함</string>
 </resources>
