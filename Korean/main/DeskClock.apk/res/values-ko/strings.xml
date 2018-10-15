@@ -226,4 +226,8 @@
     <string name="other_category_title">기타</string>
     <string name="privacy_policy">개인정보 보호정책</string>
     <string name="timer_created">타이머 생성됨</string>
+    <string name="timer_alert_mute_off">타이머가 멈추면 알람 소리가 납니다</string>
+    <string name="timer_alert_mute_on">"타이머가 멈추면 알람이 울리지 않습니다"</string>
+    <string name="timer_alert_mute_remind">알람소리를 끄려면 탭하세요</string>
+    <string name="timer_alert_mute_switch">타이머 알람을 무음으로 전환</string> 
 </resources>
