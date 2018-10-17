@@ -905,4 +905,5 @@
     <string name="accessibility_camera_lighting_close_panel">조명 메뉴 닫음</string>
     <string name="accessibility_camera_lighting_open_panel">조명 메뉴 열림</string>
     <string name="lighting_pattern_null">없음</string>
+    <string name="ultra_wide_mode">슈퍼 와이드 앵글</string>
 </resources>
