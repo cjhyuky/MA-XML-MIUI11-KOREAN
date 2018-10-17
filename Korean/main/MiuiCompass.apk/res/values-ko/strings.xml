@@ -49,7 +49,7 @@
     <string name="calibrate_rotate_again">다시 시도</string>
     <string name="error_camera_unavailable_title">카메라 사용 불가</string>
     <string name="error_camera_unavailable">현재 다른 앱이 카메라를 사용 중인지 확인하십시오.</string>
-    <string name="altitude_uncalibrate_tip">고도를 측정할 수 없습니다.</string>
+    <string name="altitude_uncalibrate_tip">측정할 수 없는 데이터</string>
     <string name="altitude_uncalibrate_msg">GPS 또는 모바일 데이터 연결 없이는 고도를 정확하게 측정할 수 없습니다.</string>
     <string name="altitude_uncalibrate_refresh">다시 시도</string>
     <string name="altitude_uncalibrate_cancel">취소</string>
