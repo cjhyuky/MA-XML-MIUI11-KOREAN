@@ -1254,4 +1254,6 @@
     <string name="express_update_provider_app_ok">업데이트</string>
     <string name="express_update_provider_app_title">%s 버전이 너무 오래되었습니다.</string>
     <string name="shopping_setting_mishop">Mi 스토어</string>
+    <string name="card_banner_close_never">다시 알리지 않기</string>
+    <string name="card_banner_close_tomorrow">내일 다시 알리기</string>
 </resources>
