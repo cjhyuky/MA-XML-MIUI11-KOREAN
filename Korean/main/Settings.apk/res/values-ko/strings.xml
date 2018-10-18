@@ -7824,8 +7824,13 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="slider_global_title">슬라이드 자동 기능</string>
     <string name="slider_high_grade_summary">특정 상황시 사용자 지정 기능 시작</string>
     <string name="slider_high_grade_title">슬라이더 고급 기능</string>
-    <string name="slider_selfie">셀카</string>
+    <string name="slider_selfie">셀카 촬영</string>
     <string name="slider_title">슬라이더 설정</string>
+    <string name="slider_title_jianghu">전사</string>
+    <string name="slider_title_jixie">역학</string>
+    <string name="slider_title_keji">하이테크</string>
+    <string name="slider_title_lingdong">지력</string>
+    <string name="slider_title_zippo">지포</string>
     <string name="slider_tool_drawer">그리기 도구</string>
     <string name="slider_tool_none">없음</string>
     <string name="slider_video_tool_summary">비디오를 볼 때 슬라이더는 도구 상자를 불러내어 빠른 화면 캡처와 같은 일반적인 작업을 지원합니다.</string>
