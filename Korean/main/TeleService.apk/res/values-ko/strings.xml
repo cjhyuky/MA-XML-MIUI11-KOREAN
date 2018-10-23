@@ -961,7 +961,7 @@
     <string name="answer_state_setting_title">수신 통화 설정</string>
     <string name="answer_state_setting_summary">추가 수신 통화 옵션</string>
     <string name="turnover_mute_title">뒤집어서 벨소리 음소거</string>
-    <string name="turnover_mute_summary">휴대전화를 뒤집으면 벨소리가 음소거됩니다</string>
+    <string name="turnover_mute_summary">휴대전화를 뒤집어 놓으면 벨소리가 음소거되고 진동 및 깜빡이는 알림표시등을 끕니다</string>
     <string name="handon_ringer_summary">전화 수신 시 휴대전화를 들면 벨소리 볼륨을 낮춥니다.</string>
     <string name="handon_ringer_title">기기를 들면 벨소리 점점 줄이기</string>
     <string name="flash_when_ring_summary">전화 수신시 플래시라이트를 점멸시킵니다</string>
