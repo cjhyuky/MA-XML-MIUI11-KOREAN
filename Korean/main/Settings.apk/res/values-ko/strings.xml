@@ -5839,7 +5839,7 @@ PIN 설정"</string>
     <string name="device_screen_usage">완충 전 화면 사용</string>
     <string name="device_theme">기기 테마</string>
     <string name="device_usage_list_summary">완충 이후 기기 사용량</string>
-    <string name="direct_boot_unaware_dialog_message">"주의 : 기기 재부팅 후 이 앱이 화면 잠금 해제 전까지 실행되지 못합니다."</string>
+    <string name="direct_boot_unaware_dialog_message">"주의: 재부팅 후 휴대전화 잠금을 해제해야 이 앱을 시작할 수 있습니다."</string>
     <string name="disabled_by_policy_title_adjust_volume">"볼륨을 변경할 수 없습니다"</string>
     <string name="disabled_by_policy_title_camera">카메라 허용되지 않음</string>
     <string name="disabled_by_policy_title_outgoing_calls">전화 허용되지 않음</string>
@@ -7813,7 +7813,7 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="camera_front">전면 %s</string>
     <string name="camera_rear">후면 %s</string>
     <string name="device_camera">카메라</string>
-    <string name="slider_app_open">앱 열기</string>
+    <string name="slider_app_open">%1$s 앱 열기</string>
     <string name="slider_app_open_name">열기</string>
     <string name="slider_app_open_none">없음</string>
     <string name="slider_button_title">변경</string>
@@ -7843,4 +7843,8 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="slider_voice_summary">슬라이더 설정시 음향 효과</string>
     <string name="slider_voice_title">슬라이드 사운드</string>
     <string name="status_bar_settings_peek_notification_icon">새로운 알림시 아이콘 표시</string>
+    <string name="slider_global_summary_app">앱을 실행하기 위해 화면을 아래로 내립니다</string>
+    <string name="slider_global_summary_drawer">화면을 눌러 도구를 엽니다</string>
+    <string name="slider_global_summary_selfie">셀카 사진을 찍으려면 화면을 누르십시오</string>
+    <string name="slider_tool_none_summary">화면을 아래로 내리십시오. 응답 기능을 끕니다</string>
 </resources>
