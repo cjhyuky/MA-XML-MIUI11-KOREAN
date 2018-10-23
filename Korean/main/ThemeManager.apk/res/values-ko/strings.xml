@@ -548,7 +548,7 @@
     <string name="show_free">%1$s 무료 표시</string>
     <string name="show_incompatible">%1$s 호환되지 않음 표시</string>
     <string name="theme_apply_audio_dialog_item_color_ring_back_tone">사용자 설정 벨소리</string>
-    <string name="title_my_miwallpaper_video_file_resource">나의 비디오 배경화면</string>
+    <string name="title_my_miwallpaper_video_file_resource">나의 동영상 배경화면</string>
     <string name="update_btn">지금 업데이트</string>
     <string name="update_check">업데이트 확인</string>
     <string name="update_checking">업데이트 확인중…</string>
@@ -650,4 +650,8 @@
     <string name="resource_free_download">무료 다운로드</string>
     <string name="tag_ad">광고</string>
     <string name="tips_theme_gate_transfer_fail">"이 페이지를 열 수 없습니다. 잠시 후 다시 시도해보세요."</string>
+    <string name="component_title_settings_video_wallpaper">특별한 효과를 곁들인 배경화면</string>
+    <string name="theme_detail_tab_comment">댓글</string>
+    <string name="theme_detail_tab_recommend">추천</string>
+    <string name="theme_detail_tab_theme">테마</string>
 </resources>
