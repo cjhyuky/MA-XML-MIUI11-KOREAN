@@ -278,4 +278,10 @@
     <plurals name="first_aid_card_float_window_summary">
         <item quantity="other">%d개의 앱이 잘못 표시될 수 있습니다. 플로팅 알림을 제한하십시오.</item>
     </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+    </plurals>
 </resources>
