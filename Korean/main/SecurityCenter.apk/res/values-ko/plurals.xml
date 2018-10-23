@@ -284,4 +284,7 @@
     <plurals name="game_booster_incoming_call_duration_p2">
         <item quantity="other">%1$s</item>
     </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">지난 %1$d분동안 %2$d%% 배터리 소모됨</item>
+    </plurals>
 </resources>
