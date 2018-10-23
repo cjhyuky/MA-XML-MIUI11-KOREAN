@@ -51,4 +51,7 @@
     <plurals name="mark_number_dialog_subtitle">
         <item quantity="other">%1$d명의 사람들에 의해 %2$s로 표시됨</item>
     </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">%1$s님과 %2$d명의 사람들이 메세지 수신</item>
+    </plurals>
 </resources>
