@@ -7847,4 +7847,5 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="slider_global_summary_drawer">화면을 눌러 도구를 엽니다</string>
     <string name="slider_global_summary_selfie">셀카 사진을 찍으려면 화면을 누르십시오</string>
     <string name="slider_tool_none_summary">화면을 아래로 내리십시오. 응답 기능을 끕니다</string>
+    <string name="status_bar_settings_notification_style">알림 스타일</string>
 </resources>
