@@ -2652,7 +2652,4 @@ SMS 전송"</string>
     <string name="gamebox_app_not_find">앱을 먼저 설치하세요.</string>
     <string name="gs_gamebox_slip">화면을 내려서 여세요</string>
     <string name="ad_split_screen_title">잠금을 해제하려면 전체 화면 모드로 전환하십시오</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
 </resources>
