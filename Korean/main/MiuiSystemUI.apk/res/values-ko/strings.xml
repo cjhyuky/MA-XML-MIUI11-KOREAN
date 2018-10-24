@@ -1770,8 +1770,8 @@
     <string name="structure_face_data_input_timeout_title">다시 시도</string>
     <string name="structure_face_data_manage_delete_msg">3D 안면 데이터 삭제</string>
     <string name="structure_face_hardware_abnormal_btn">확인</string>
-    <string name="structure_face_hardware_abnormal_msg">"레이저 오류가 발생하여 안면 데이터를 인식할 수 없습니다. 고객 센터에 연락하여 수리를 받으십시오."</string>
-    <string name="structure_face_hardware_abnormal_title">레이저 오류</string>
+    <string name="structure_face_hardware_abnormal_msg">"하드웨어 오류 발생. 기기를 재부팅하세요. 그래도 안되시면 400–100–5678로 전화주세요."</string>
+    <string name="structure_face_hardware_abnormal_title">하드웨어 오류</string>
     <string name="structure_face_modules_abnormal_btn">재부팅</string>
     <string name="structure_face_modules_abnormal_msg">"광학 모듈 오류가 발생하여 안면 데이터를 인식할 수 없습니다. 기기를 재부팅하십시오."</string>
     <string name="structure_face_modules_abnormal_title">광학 모듈 오류</string>
