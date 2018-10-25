@@ -7856,4 +7856,16 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="restore_dialog_content">기기 식별 정보를 복원하면 맞춤 추천이 재설정됩니다.</string>
     <string name="restore_dialog_positive">복원</string>
     <string name="restore_dialog_title">알리미</string>
+    <string name="call_records_name_1">뎁비 스미스</string>
+    <string name="call_records_name_2">제이슨 리</string>
+    <string name="call_records_name_3">톰 포울리스</string>
+    <string name="call_records_summary_1">오전 9:35 | 26초 | 차이나 유니콤</string>
+    <string name="call_records_summary_2">8월 16일 | 1분 16초 | 차이나 모바일/string>
+    <string name="call_records_summary_3">8월 16일 | 2분 24초 | 차이나 유니콤</string>
+    <string name="launcher_icon">아이콘</string>
+    <string name="miui_optimization_disabled">MIUI 최적화 끄기</string>
+    <string name="page_layout_34">통화</string>
+    <string name="page_layout_35">메모장</string>
+    <string name="switch_access_service_on">엑세스 전환</string>
+    <string name="words_title">텍스트</string>
 </resources>
