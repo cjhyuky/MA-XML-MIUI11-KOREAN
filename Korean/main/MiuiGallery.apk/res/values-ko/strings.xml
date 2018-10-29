@@ -1370,4 +1370,8 @@
     <string name="photo_movie_select_image_range">클립은 3-6개 사진을 포함할 수 있습니다</string>
     <string name="select_image_operation">사진 추가</string>
     <string name="unsupport_video">"%s 영상은 지원되지 않습니다"</string>
+    <string name="operation_set_slide_wallpaper">슬라이드쇼 배경화면으로 지정</string>
+    <string name="picker_origin_request_progress_fail">"네트워크 오류로 인해 원본 이미지을 다운로드하지 못하였습니다."</string>
+    <string name="set_as_slide_wallpaper_description">이 이미지는 미리보기 파일입니다, 원본을 다운로드하시겠습니까?</string>
+    <string name="set_as_slide_wallpaper_title">슬라이드쇼 배경화면으로 지정</string>
 </resources>
