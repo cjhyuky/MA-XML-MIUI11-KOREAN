@@ -29,4 +29,8 @@
         <item>청소</item>
         <item>청소 후 알림</item>
     </string-array>
+    <string-array name="wechat_sort">
+      <item>날짜순</item>
+      <item>크기순</item>
+    </string-array>
 </resources>
