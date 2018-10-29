@@ -906,4 +906,10 @@
     <string name="accessibility_camera_lighting_open_panel">조명 메뉴 열림</string>
     <string name="lighting_pattern_null">없음</string>
     <string name="ultra_wide_mode">슈퍼 와이드 앵글</string>
+    <string name="beauty_body">체형</string>
+    <string name="beauty_body_body">슬림하게</string>
+    <string name="beauty_body_head">머리크기 줄이기</string>
+    <string name="beauty_body_legged">다리 늘리기</string>
+    <string name="beauty_body_reset_tip">체형 효과를 재설정합니다</string>
+    <string name="beauty_body_shoulder">어깨 줄이기</string>
 </resources>
