@@ -85,4 +85,5 @@
     <string name="first_using_mic_dialog_title">권한 요구됨</string>
     <string name="using_record_confirm_cancel">제한</string>
     <string name="using_record_confirm_ok">허용</string>
+    <string name="sound_source_summary_without_system_sounds">마이크 사용 또는 무음</string>
 </resources>
