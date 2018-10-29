@@ -1611,7 +1611,9 @@
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="expand_button_title">고급</string>
     <string name="guide_chosen_type_main_title">좋아하는 것을 알려주십시오.</string>
-    <string name="guide_chosen_type_subtitle">관련 추천을 얻으려면 관심사를 태그하세요.</string>
+    <string name="guide_chosen_type_main_title_behind">말씀해 주세요</string>
+    <string name="guide_chosen_type_main_title_front">당신이 무엇을 좋아하는지</string>
+    <string name="guide_chosen_type_subtitle">관련 추천을 얻으려면 관심사를 태그하세요.</string>
     <string name="guide_know_type_main_title">당신을 이해하는 브라우져</string>
     <string name="guide_know_type_subtitle">멋진 추천항목을 받으세요</string> 
     <string name="guide_entertainment_text">오락</string>
