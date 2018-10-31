@@ -1350,4 +1350,8 @@
     <string name="preference_privacy_policy_title">개인정보 보호정책</string>
     <string name="rcs_app_name">미니 앱</string>
     <string name="conference_call_disable_tip">"전화를 걸 수 없습니다. 기기가 VoLTE를 지원하는 4G네트워크에 연결되어 있는지 확인하십시오."</string>
+    <string name="scan_business_card">비지니스 카드 스캔</string>
+    <string name="scan_bussiness_card_merge_tip">중복 데이터가 대체되었습니다</string>
+    <string name="description_image_button_sim1_named_dial">SIM1 %s으로 통화</string>
+    <string name="description_image_button_sim2_named_dial">SIM2 %s으로 통화</string>
 </resources>
