@@ -287,4 +287,7 @@
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">지난 %1$d분동안 %2$d%% 배터리 소모됨</item>
     </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">잠긴 앱 %d개</item>
+    </plurals>
 </resources>
