@@ -189,4 +189,5 @@
     <string name="talk_back_water_mark_string2">\"볼륨+\" 와 \"볼륨-\"를 3초동안 동시에 누르면 꺼집니다</string>
     <string name="security_permission_network_failed_text">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하십시오."</string>
     <string name="security_permission_open_wifi_settings">Wi-Fi 설정 열기</string>
+    <string name="xspace_head">듀얼 앱</string>
 </resources>
