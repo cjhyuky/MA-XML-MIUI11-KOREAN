@@ -58,7 +58,7 @@
     <string name="timer_new_item">타이머 추가</string>
     <string name="timer_item_label_hint">타이머 이름</string>
     <string name="shutdown_alarm_title">꺼진 폰을 켜서 알람</string>
-    <string name="shutdown_alarm_enable_summary">전원이 꺼진 후 알람 울림</string>
+    <string name="shutdown_alarm_enable_summary">전원이 꺼진 후 5분 뒤부터 알람 울림</string>
     <string name="shutdown_alarm_disable_summary">전원이 꺼진 후 알람 울리지 않음</string>
     <string name="workday_alarm_clock">평일 알람</string>
     <string name="system_time_setting">설정</string>
