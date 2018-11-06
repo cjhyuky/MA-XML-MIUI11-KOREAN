@@ -393,7 +393,7 @@
     <string name="xspace_install_completed_global">앱 서랍에 아이콘 추가됨</string>
     <string name="remove_button">제거 후 재부팅</string>
     <string name="remove_button_time">제거 후 재부팅(%ds)</string>
-    <string name="stop_xspace_alert_content">"모든 듀얼앱을 삭제했으므로 듀얼앱 계정과 응용 프로그램 데이터도 삭제할까요? 나중에 듀얼앱을 다시 만들어야 합니다."</string>
+    <string name="stop_xspace_alert_content">"모든 듀얼 앱과 해당 데이터는 영구적으로 삭제됩니다. 이 변경사항을 적용하려면 기기를 재부팅 해야합니다. 지금 계정을 삭제하시겠습니까?"</string>
     <string name="stop_xspace_alert_title">듀얼앱 계정 삭제</string>
     <string name="msg_switch_file_second">데이터를 옮긴 후에 모든 파일들을 삭제하시겠습니까?</string>
     <string name="use_xiaoai_open">음성 어시스턴트를 이용해 기기 깨우기</string>
@@ -432,4 +432,5 @@
     <string name="menu_item_about_privacy_title">개인 정보 보호 정책</string>
     <string name="confirm_close_password_desc">"비밀번호를 끈 후에는 잠금 화면에서 두 번째 공간으로 바로 진입할 수 없습니다. 그래도 끄시겠습니까?"</string>
     <string name="confirm_close_password_title">비밀번호 끄기</string>
+    <string name="xspace_remove">"듀얼 앱 계정 삭제"</string>
 </resources>
