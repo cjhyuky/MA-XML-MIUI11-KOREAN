@@ -592,7 +592,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_privacy_cloud_off">동기화 해제</string>
     <string name="micloud_privacy_cloud_sync">활성화된 Mi 클라우드</string>
     <string name="micloud_privacy_explanation">권한을 부여한 후 활성화하십시오.</string>
-    <string name="micloud_privacy_licence_agreed">Mi 클라우드 개인정보 보호 약관에 동의하십시오.</string>
+    <string name="micloud_privacy_licence_agreed">Mi 클라우드 &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt;개인정보 보호정책&lt;/u&gt;&lt;/a&gt;에 동의하세요.</string>
     <string name="micloud_privacy_licence_privacy_policy">개인 정보 보호 약관</string>
     <string name="micloud_privacy_more">더보기</string>
     <string name="micloud_privacy_warning_button">뒤로가기</string>
