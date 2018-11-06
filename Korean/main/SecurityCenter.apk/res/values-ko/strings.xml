@@ -2170,7 +2170,7 @@ SMS 전송"</string>
     <string name="databooster_tips_title">주의</string>
     <string name="demo_number">241</string>
     <string name="dialog_no_longer_alert">"다시 보지 않기"</string>
-    <string name="forbid_autobright_summary">"게임중에는 화면 밝기가 원상태 그대로 유지됩니다."</string>
+    <string name="forbid_autobright_summary">"게임을 하는 동안 자동밝기가 꺼졌다가 게임을 종료하시면 다시 기능이 켜질 것입니다"</string>
     <string name="forbid_autobright_title">화면 밝기 변경</string>
     <string name="free_send_net_booster_busniess">무료 Xunlei 스피드 부스트 앱 받기</string>
     <string name="free_send_net_booster_busniess_tip">탭하여 받기</string>
@@ -2652,4 +2652,11 @@ SMS 전송"</string>
     <string name="gamebox_app_not_find">앱을 먼저 설치하세요.</string>
     <string name="gs_gamebox_slip">화면을 내려서 여세요</string>
     <string name="ad_split_screen_title">잠금을 해제하려면 전체 화면 모드로 전환하십시오</string>
+    <string name="gs_slip_gamebox_detail">슬라이더를 사용하여 바로 가기 패널을 표시합니다. 빠른 답장과 화면 녹화 옵션을 사용할 수 있습니다.</string>
+    <string name="om_locked_apps_summary">잠긴 앱은 속도 향상에 의해 무시됩니다.</string>
+    <string name="om_not_finish_speedboost">속도 향상이 필요합니다</string>
+    <string name="om_promotion">광고</string>
+    <string name="om_running_locked_apps">실행중인 잠긴 앱</string>
+    <string name="om_running_system_apps">실행중인 시스템 앱</string>
+    <string name="om_running_third_apps">실행중인 써드파티 앱</string>
 </resources>
