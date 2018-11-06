@@ -141,7 +141,10 @@
     <string name="power_config_ultimate_unlock_already">모든 항목 잠겨짐</string>
     <string name="extreme_power_config_mode_category">익스트림 배터리 세이버</string>
     <string name="extreme_power_config_mode_title">익스트림 배터리 세이버 모드</string>
-    <string name="extreme_power_config_mode_desc">이 기능을 사용하면 동기화, 블루투스, GPS, NFC, 두번 탭 잠금해제, 버튼 조명, 잠금화면에 알림 표시, LED 라이트로 알림 표시 등을 사용할 수 없으며 배터리 절약 모드는 최고절약모드로 진입됩니다.</string>
+    <string name="extreme_power_config_mode_desc">&lt;li&gt;"배터리 세이버는 앱을 끄고 홈 화면으로 돌아간 후 앱의 모든 백그라운드 활동을 중지합니다. 이 앱은 알림을 보내거나 업데이트를 받지 않습니다."&lt;/li&gt;"
+"&lt;li&gt;앱을 백그라운드에서 실행하려면 최근앱 목록에서 앱을 잠그거나 아래의 백그라운드 예외에 앱을 추가하십시오. 배터리 세이버가 켜져 있으면 최대 4개의 앱만을 백그라운드에서 실행할 수 있습니다.&lt;/li&gt;"
+"&lt;li&gt;배터리 세이버 기능은 기본적으로 NFC를 끕니다. 설정에서 변경할 수 있습니다.&lt;/li&gt;"
+"&lt;li&gt;배터리 30%이상 충전되면 자동으로 배터리 세이버 기능은 꺼지고 기기의 모든 기능을 정상적으로 사용할 수 있습니다.&lt;/li&gt;</string>
     <string name="empty_title_apps_container_list">앱 없음</string>
     <string name="hints_loading_text">잠시 기다려 주십시오.…</string>
     <string name="config_mode_title">백그라운드 설정</string>
@@ -227,4 +230,14 @@
     <string name="privacy">개인정보 보호정책</string>
     <string name="high_temp_state">과열</string>
     <string name="high_temp_state_message">과열 보호를 위해 데이터, Wi-Fi, GPS, 카메라 등도 제한됩니다.</string>
+    <string name="atrace_saved">저장 완료</string>
+    <string name="atrace_saving">추적 로그 저장중…</string>
+    <string name="atrace_start">추적 로그 기록중…</string>
+    <string name="extreme_add_white_list_summary">최대 4개까지 앱 추가</string>
+    <string name="extreme_add_white_list_title">백그라운드 예외</string>
+    <string name="extreme_power_config_mode_summary">배터리 세이버는 백그라운드 작업을 제한하고 동기화를 중지합니다.</string>
+    <string name="extreme_power_settings_title">설정</string>
+    <string name="notification_exit_extreme_mode_text">배터리가 %s 이상 충전 되었습니다</string>
+    <string name="notification_exit_extreme_mode_title">배터리 세이버 끄기</string>
+    <string name="notification_open_extreme_mode_text">배터리 세이버 켜기</string>
 </resources>
