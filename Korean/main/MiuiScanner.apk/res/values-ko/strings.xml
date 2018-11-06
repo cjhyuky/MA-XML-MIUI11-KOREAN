@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">스캐너</string>
-    <string name="impunity_declaration_title">이용 약관</string>
-    <string name="impunity_declaration_content">이 앱이 정상적으로 작동하려면 인터넷 연결이 필요합니다.</string>
+    <string name="impunity_declaration_title">개인정보 보호정책</string>
+    <string name="impunity_declaration_content">스캐너는 카메라에 액세스하고 사진을 만들 수있는 권한이 필요합니다. 정상적으로 작동하려면 인터넷에 연결해야합니다. 아래 "동의함"을 누르면 %1$s개인 정보 보호 정책 %2$s을 읽고 동의한 것으로 간주됩니다.</string>
     <string name="impunity_declaration_positive_text">허용</string>
     <string name="impunity_declaration_negative_text">나가기</string>
     <string name="accessibility_shutter_button">셔터</string>
@@ -191,11 +191,11 @@
     <string name="error_get_image">"이미지 로드 불가"</string>
     <string name="label_choose_picture">사진 선택</string>
     <string name="label_flash_light">플래시</string>
-    <string name="low_version_tip">MIUI 버전이 너무 구버전입니다. 스캐너 기능을 사용하려면 업데이트하세요.</string>
+    <string name="low_version_tip">스캐너를 사용하려면 MIUI를 최신 버전으로 업데이트하십시오.</string>
     <string name="pref_camera_jpeg_quality_fine">좋음</string>
     <string name="pref_camera_jpeg_quality_normal">보통</string>
     <string name="pref_camera_jpeg_quality_superfine">매우좋음</string>
-    <string name="weixin_code_tip">이 QR코드를 스캔하려면 위챗을 사용하세요</string>
+    <string name="weixin_code_tip">위챗을 사용하려면 이 QR코드를 스캔하세요</string>
     <string name="pref_camera_focusmode_default">연속 사진</string>
     <string name="language_value_danish">덴마크어</string>
     <string name="language_value_dutch">네덜란드어</string>
