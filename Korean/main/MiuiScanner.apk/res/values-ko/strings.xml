@@ -228,7 +228,6 @@
     <string name="fax">팩스</string>
     <string name="got_it">확인</string>
     <string name="gps">네비게이션</string>
-    <string name="impunity_declaration_positive_text">허용</string>
     <string name="miracast_connect">송출하기</string>
     <string name="miracast_connect_fail">"송출 불가, 다시 시도하세요"</string>
     <string name="miracast_connecting">송출중…</string>
