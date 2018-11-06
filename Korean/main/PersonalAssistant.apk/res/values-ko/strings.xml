@@ -1256,4 +1256,5 @@
     <string name="shopping_setting_mishop">Mi 스토어</string>
     <string name="card_banner_close_never">다시 알리지 않기</string>
     <string name="card_banner_close_tomorrow">내일 다시 알리기</string>
+    <string name="cta_dialog_miot_text_all">Mi홈이 정상적으로 작동하려면 네트워크, 위치, 블루투스 켜기, 셀룰러 네트워크, 마이크 사용 및 연락처 읽기 권한을 획득해야 합니다. 확인하시겠습니까?</string>
 </resources>
