@@ -912,4 +912,6 @@
     <string name="beauty_body_legged">다리 늘리기</string>
     <string name="beauty_body_reset_tip">체형 효과를 재설정합니다</string>
     <string name="beauty_body_shoulder">어깨 줄이기</string>
+    <string name="ultra_wide_close_tip">슈퍼 와이드 앵글 모드가 꺼져있습니다</string>
+    <string name="ultra_wide_open_tip">슈퍼 와이드 앵글 모드</string>
 </resources>
