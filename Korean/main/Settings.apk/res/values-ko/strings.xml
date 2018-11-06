@@ -7871,4 +7871,8 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="bootloader_tips">"Mi계정 추가 후, 로그아웃, 공장초기화, 시스템앱 데이터를 삭제하지 마세요. 그렇게 하면 계정을 다시 추가하거나 기기를 열 수 없을 수 있습니다."</string>
     <string name="bootloader_tips_ok">확인</string>
     <string name="keyguard_notification_status_title">알림</string>
+    <string name="others">기타 설정</string>
+    <string name="slider_vocie_online_theme">슬라이드 온라인 사운드</string>
+    <string name="sound_stereo_mode_summary">스피커로 재생시에만 가능함</string>
+    <string name="sound_stereo_mode_title">스테레오 사운드</string>
 </resources>
