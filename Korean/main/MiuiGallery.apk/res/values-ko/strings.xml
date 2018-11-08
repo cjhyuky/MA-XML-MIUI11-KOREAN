@@ -1374,4 +1374,21 @@
     <string name="picker_origin_request_progress_fail">"네트워크 오류로 인해 원본 이미지을 다운로드하지 못하였습니다."</string>
     <string name="set_as_slide_wallpaper_description">이 이미지는 미리보기 파일입니다, 원본을 다운로드하시겠습니까?</string>
     <string name="set_as_slide_wallpaper_title">슬라이드쇼 배경화면으로 지정</string>
+    <string name="document_provider_guide_step_1">1. \"더보기\"버튼을 누르세요.</string>
+    <string name="document_provider_guide_step_2">2. \"내부 저장소 표시\"를 탭하세요.</string>
+    <string name="document_provider_guide_step_3">3. 사이드 메뉴 버튼을 누르세요.</string>
+    <string name="document_provider_guide_step_4">4. \"SD카드\"를 선택하세요.</string>
+    <string name="document_provider_guide_step_5">5. \"선택\"을 누르세요.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">갤러리는 아이템을 내부 저장소에 저장합니다. 설정에서 변경 가능합니다. 설정 &gt; 저장소 &gt; 저장소 설정.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_title">"권한 부여 실패"</string>
+    <string name="ext_sdcard_guide_first_page_button_text">다음</string>
+    <string name="ext_sdcard_guide_last_page_button_text">사용 권한 부여</string>
+    <string name="ext_sdcard_guide_text">"갤러리에서 SD카드에 액세스할 수 있는 권한이 필요합니다. 수행할 수 있는 작업은 다음과 같습니다:"</string>
+    <string name="ext_sdcard_operation_failed_text">갤러리가 SD카드에 액세스할 수 있는 권한이 필요합니다.</string>
+    <string name="ext_sdcard_operation_failed_title">"이 동작을 완료할 수 없습니다"</string>
+    <string name="ext_sdcard_permission_request_button_text">확인</string>
+    <string name="ext_sdcard_permission_request_reason">갤러리는 SD카드에 액세스할 수 있는 권한이 필요합니다. SD카드에 저장된 사진 및 비디오를 삭제하고 편집할 수 있습니다.</string>
+    <string name="ext_sdcard_permission_request_title">갤러리의 SD카드 엑세스 권한 동의하기</string>
+    <string name="ext_sdcard_request_failed_button_text">확인</string>
+    <string name="ext_sdcard_request_succeed_toast_text">"즐길 준비가 되셨습니다!"</string>
 </resources>
