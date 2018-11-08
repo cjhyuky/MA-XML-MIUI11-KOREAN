@@ -1274,6 +1274,7 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="ai_key_item_name">
         <item>구글 어시스턴트 켜기</item>
+        <item>구글 검색 </item>        
         <item>후면 카메라 켜기</item>
         <item>전면 카메라 켜기</item>
         <item>이전 앱 열기</item>
