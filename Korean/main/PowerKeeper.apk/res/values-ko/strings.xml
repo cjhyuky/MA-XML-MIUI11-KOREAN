@@ -228,8 +228,8 @@
     <string name="extreme_mode_max_item_alert">익스트림 모드에서 백그라운드로 실행할 앱을 4개까지만 선택할 수 있습니다.</string>
     <string name="message_i_know">인지함</string>
     <string name="privacy">개인정보 보호정책</string>
-    <string name="high_temp_state">과열</string>
-    <string name="high_temp_state_message">과열 보호를 위해 데이터, Wi-Fi, GPS, 카메라 등도 제한됩니다.</string>
+    <string name="high_temp_state">과열 경고</string>
+    <string name="high_temp_state_message">기기가 과열되었습니다. 모바일 데이터, 개인용 핫스팟, GPS 및 카메라가 사용제한됩니다.</string>
     <string name="atrace_saved">저장 완료</string>
     <string name="atrace_saving">추적 로그 저장중…</string>
     <string name="atrace_start">추적 로그 기록중…</string>
