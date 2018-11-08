@@ -131,4 +131,9 @@
         <item>무음 설정 시 진동</item>
         <item>항상 진동</item>
     </string-array>
+    <string-array name="traffic_package_type">
+        <item>월단위 데이터 요금제</item>
+        <item>일단위 데이터 요금제</item>
+        <item>무제한 데이터 요금제</item>
+    </string-array>
 </resources>
