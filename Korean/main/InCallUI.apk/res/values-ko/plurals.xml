@@ -15,4 +15,13 @@
     <plurals name="duration_hours">
         <item quantity="other">%d 시간</item>
     </plurals>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s명</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">재발신 %d회</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">%d명의 MIUI 사용자가 신고함</item>
+    </plurals>
 </resources>
