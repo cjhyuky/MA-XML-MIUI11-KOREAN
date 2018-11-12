@@ -849,5 +849,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="hwversion_label">하드웨어 버전</string>
   <string name="cit_camera_fast_check_title">카메라 퀵 테스트</string>
   <string name="cit_tool_bluetooth_tx_m">블루투스 BR/EDR 2.441GHz Freq 테스트 모드 진입</string>
-  <string name="cit_headset_pull_finish_test">헤드폰 연결 끊김, 테스트 완료</string> 
+  <string name="cit_headset_pull_finish_test">헤드폰 연결 끊김, 테스트 완료</string>
+  <string name="cit_audio_cali_fast_test_title">스피커 증폭기 교정 속도 테스트</string>
+  <string name="cit_fast_screen_touch_check_title">빠른 터치 스크린 체크 테스트</string>
 </resources>
