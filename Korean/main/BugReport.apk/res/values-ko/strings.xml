@@ -207,7 +207,7 @@
     <string name="feedback_submit_succ_button">완료</string>
     <string name="feedback_title">제목</string>
     <string name="feedback_description">설명</string>
-    <string name="feedback_select_images">이미지 추가</string>
+    <string name="feedback_select_images">사진이나 짧은 영상 추가</string>
     <string name="feedback_select_upload_log">로그 추가</string>
     <string name="feedback_select_modem_log">모뎀 로그 추가</string>
     <string name="feedback_select_suggestion">제안</string>
@@ -295,7 +295,7 @@
     <string name="toast_post_deleted">이 토픽은 존재하지 않습니다. 삭제되었거나 수정되었습니다.</string>
     <string name="toast_log_not_exists">요청된 로그는 삭제되었거나 존재하지 않습니다</string>
     <string name="toast_pic_not_exists">캐시된 이미지가 삭제되었습니다</string>
-    <string name="toast_screenshot_too_large">"10MB보다 큰 파일은 업로드할 수 없습니다."</string>
+    <string name="toast_screenshot_too_large">"10MB보다 큰 사진이나 영상은 업로드할 수 없습니다."</string>
     <string name="title_bbs_feedback_main">Mi 휴대 전화에 대해 더 알아보기</string>
     <string name="title_customer_service">고객 서비스</string>
     <string name="bugreport_tool_log_dumping_desc">몇분정도 걸릴 수 있습니다.</string>
@@ -345,7 +345,7 @@
     <string name="catch_full_log_action_cancel">취소</string>
     <string name="catch_full_log_action_complete">완료 후 업로드</string>
     <string name="catch_full_log_action_start">로그 생성</string>
-    <string name="catch_full_log_add_original_photo">사진 추가</string>
+    <string name="catch_full_log_add_original_photo">사진이나 짧은 영상 추가</string>
     <string name="catch_full_log_add_photo">사진 추가</string>
     <string name="catch_full_log_add_photo_dialog_content">"보고 할 문제가 카메라의 이미지 품질과 관련이있는 경우 원본 샘플 사진(잘리지 않음)을 추가하여 문제를 찾을 수 있도록 도와주세요. 지금 사진을 추가 하시겠습니까?"</string>
     <string name="catch_full_log_dialog_confirm_text">홈 화면으로 이동</string>
@@ -371,4 +371,5 @@
     <string name="catch_full_log_submit_directly">보내기</string>
     <string name="title_catch_full_log">로그</string>
     <string name="toast_catch_full_log_catching">로그는 한번에 하나씩만 생성할 수 있습니다</string>
+    <string name="title_first_aid">응급처치</string>
 </resources>
