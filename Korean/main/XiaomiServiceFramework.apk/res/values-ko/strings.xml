@@ -11,4 +11,6 @@
     <string name="explain_send_sms_permission_title">전화번호 확인</string>
     <string name="explain_send_sms_permission_msg">%s 항목을 켜기 위해 Mi 서비스 프레임워크가 귀하의 전화번호 인증 SMS를 발송합니다. SMS 비용은 귀하가 사용하시는 통신사의 요금제에 의해 부과됩니다.</string>
     <string name="explain_send_sms_permission_button">인증</string>
+    <string name="pop_up_allow_notify_dialog">허용</string>
+    <string name="pop_up_deny_notify_dialog">거부</string>  
 </resources>
