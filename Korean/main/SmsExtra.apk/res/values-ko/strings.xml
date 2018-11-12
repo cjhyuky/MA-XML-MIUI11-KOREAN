@@ -52,4 +52,9 @@
     <string name="net_sms_unsubscribe">구독 취소 완료</string>
     <string name="summary_pref_cm_smart_sms">카드 템플릿 제공, 문자 서비스 번호, 등.</string>
     <string name="title_pref_cm_smart_sms">차이나 모바일 스마트 SMS</string>
+    <string name="allow_network_hint">\"정보 자동 업데이트\"를 켜거나 네트워크 연결을 확인하세요</string>
+    <string name="already_updated">최신버전입니다</string>
+    <string name="click_to_update">탭하여 업데이트 확인</string>
+    <string name="current_data_version">Mi 메시지 버전</string>
+    <string name="updating">업데이트 중…</string>
 </resources>
