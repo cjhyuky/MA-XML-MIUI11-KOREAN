@@ -481,4 +481,14 @@
     <string name="passport_input_phone_password">%s 휴대전화를 위한 비밀번호를 입력하세요</string>
     <string name="passport_international_register_by_email">이메일 주소로 계정 생성</string>
     <string name="passport_sms_verification_code_login_or_register">SMS를 이용하여 계정 생성 또는 로그인</string>
+    <string name="collect_diagnosis_log">진단 로그 수집</string>
+    <string name="diagnosis_log_send_failed">진단 로그 전송 실패.</string>
+    <string name="diagnosis_log_sent_format">"진단 로그가 전송되었습니다.
+ID:%s
+이 코드를 개발자에게 보내주세요."</string>
+    <string name="for_diagnosis_usage_only">진단 목적으로만 이 정보 사용.</string>
+    <string name="ok">확인</string>
+    <string name="send_diagnosis_log">Send diagnosis log</string>
+    <string name="sending">보내는 중...</string>
+    <string name="temporary_not_available">일시적으로 사용 불가</string> 
 </resources>
