@@ -1684,4 +1684,16 @@
     <string name="permission_unknown">알 수 없는 옵션</string>
     <string name="pref_download_setting">다운로드 설정</string>
     <string name="suggestion_sliding_ads_info_mark_text">ADS</string>
+    <string name="action_menu_toast_incognito_off">시크릿 모드 끄기</string>
+    <string name="action_menu_toast_incognito_on">시크릿 모드 켜기</string>
+    <string name="app_download_market_text">Mi 스토어를 이용해 다운로드하십시오. 빠르고 안전합니다.</string>
+    <string name="contextmenu_incognito">시크릿 모드</string>
+    <string name="document_download_immediate">급속 다운로드</string>
+    <string name="document_download_normal">일반 다운로드</string>
+    <string name="document_download_recommending">안전 다운로드 (권장됨)</string>
+    <string name="download_dialog_file_length_default_txt">잠시만 기다려 주십시오…</string>
+    <string name="novel_toast_hint">이 웹사이트가 북마크에 저장되었습니다.</string>
+    <string name="pref_fling_gesture">스와이프 제스쳐</string>
+    <string name="publish_to_topic">쓰레드 열기</string>
+    <string name="suggestion_sliding_item_more_text">더 보기</string>
 </resources>
