@@ -650,7 +650,7 @@
     <string name="wild_msg_title">동기화할 전화번호 선택</string>
     <string name="yes">확인</string>
     <string name="yesterday">어제</string>
-    <string name="add_miui_contact">연락하기</string>
+    <string name="add_miui_contact">연락처</string>
     <string name="conversation_listitem_avatar">아바타</string>
     <string name="conversation_style">말풍선</string>
     <string name="delete_verification_code_sms_message">모든 인증번호 문자를 삭제하시겠습니까?</string>
