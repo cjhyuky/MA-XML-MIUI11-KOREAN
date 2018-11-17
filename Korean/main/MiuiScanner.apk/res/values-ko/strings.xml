@@ -171,7 +171,7 @@
     <string name="recognition_error_download_data_msg">식별 엔진을 다운로드하여 카드를 스캔하십시오. 크기가 대략 15MB 입니다. 모바일 데이터를 사용하여 다운로드 하시겠습니까?</string>
     <string name="recognition_error_download_success">다운로드 성공</string>
     <string name="recognition_error_download_fail">식별 엔진을 다운로드할 수 없음</string>
-    <string name="app_description_content">스캐너는 당신이 QR코드, 문서, 명함등을 스캔할 수 있게 도와줍니다.</string>
+    <string name="app_description_content">스캐너는 당신이 QR코드, 문서, 명함 등을 스캔할 수 있게 도와줍니다.</string>
     <string name="app_description_title">스캐너 정보</string>
     <string name="back">뒤로 가기</string>
     <string name="com_taobao_tae_sdk_alert_message">시간이 너무 지났습니다. 다시 시도해주세요.</string>
@@ -216,11 +216,11 @@
     <string name="aliusersdk_api_unauthorized">인증되지 않은 API</string>
     <string name="amazon_assistant_shopping_title">아마존에서 검색</string>
     <string name="blog">웨이보</string>
-    <string name="business_card">사업 카드</string>
-    <string name="business_card_title">프레임 안쪽에 사업 카드 배치</string>
+    <string name="business_card">명함</string>
+    <string name="business_card_title">프레임 안쪽에 명함 배치</string>
     <string name="business_copy">복사</string>
     <string name="business_new_contacts">연락처 생성</string>
-    <string name="business_no_result">"사업 카드 인식 불가. 다시 시도하세요."</string>
+    <string name="business_no_result">"명함 인식 불가. 다시 시도하세요."</string>
     <string name="calender">캘린더</string>
     <string name="call_anyone">통화</string>
     <string name="confirm">확인</string>
@@ -235,7 +235,7 @@
     <string name="miracast_message">%s 장비로 송출하시겠습니까?</string>
     <string name="miracast_switch_off">무선 디스플레이가 꺼져있습니다</string>
     <string name="miracast_switch_tip">이 기능을 사용하기 위해 무선 디스플레이 기능 켜기</string>
-    <string name="module_title_business_card">사업 카드</string>
+    <string name="module_title_business_card">명함</string>
     <string name="new_schedule">이벤트 생성</string>
     <string name="open_url">URL 열기</string>
     <string name="payment_text">%s 방법으로 열기</string>
