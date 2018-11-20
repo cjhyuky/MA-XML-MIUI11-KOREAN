@@ -2505,4 +2505,6 @@
     <string name="zen_mode_enable_dialog_turn_on">켜기</string>
     <string name="zen_mode_settings_summary_off">하지 않음</string>
     <string name="zen_mode_settings_turn_on_dialog_title">방해 금지 모드 켜기</string>
+    <string name="sip_account_disable">"이 계정은 비활성화되어 있습니다. 전화를 받을 수 없습니다."</string>
+    <string name="sip_receive_call_disable">"전화 수신 불가. 전화 수신 권한을 먼저 허용하세요."</string>
 </resources>
