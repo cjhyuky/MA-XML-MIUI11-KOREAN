@@ -915,4 +915,8 @@
     <string name="ultra_wide_close_tip">슈퍼 와이드 앵글 모드가 꺼져있습니다</string>
     <string name="ultra_wide_open_tip">슈퍼 와이드 앵글 모드</string>
     <string name="super_night_toast">사진 촬영이 끝날때까지 움직이지 마세요</string>
+    <string name="accessibility_camera_liveshot_off">다이나믹 포토 모드 꺼짐</string>
+    <string name="accessibility_camera_liveshot_on">다이나믹 포토 모드 켜짐</string>
+    <string name="pref_camera_zoom_mode_entry_ultra">울트라</string>
+    <string name="ultra_wide_recommend_tip_hint">슈퍼 와이드 앵글을 사용하시는걸 추천드립니다</string>
 </resources>
