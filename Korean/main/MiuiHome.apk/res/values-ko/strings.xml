@@ -344,4 +344,10 @@
     <string name="default_folder_title_services">서비스</string>
     <string name="open_personal_assistant_dialog_desc_international">"퀵 카드 기능(주식, 바로가기 등)을 사용할 수 없고, 이 기능을 끄면 정보를 업데이트 받을 수 없습니다."</string>
     <string name="use_theme_screen_cells_title">테마가 화면 레이아웃을 덮어쓸 수 있게 허용</string>
+    <string name="announce_for_app_move_in_folder">%1$d 위치로 폴더 이동됨</string>
+    <string name="announce_for_create_folder_with_app">%1$s 이름으로 폴더 생성됨</string>
+    <string name="announce_for_widget_span">폭 %1$d, 높이 %2$d</string>
+    <string name="recommend_apps_no_data_toast">지금부터 추천기능을 사용하지 않습니다.</string>
+    <string name="recommend_refresh">새로고침</string>
+    <string name="recommend_xout">"다시 표시하지 않기"</string>
 </resources>
