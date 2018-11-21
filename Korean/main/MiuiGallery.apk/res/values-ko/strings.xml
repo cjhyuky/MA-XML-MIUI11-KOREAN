@@ -1391,4 +1391,5 @@
     <string name="ext_sdcard_permission_request_title">갤러리의 SD카드 엑세스 권한 동의하기</string>
     <string name="ext_sdcard_request_failed_button_text">확인</string>
     <string name="ext_sdcard_request_succeed_toast_text">"즐길 준비가 되셨습니다!"</string>
+    <string name="photo_editor_talkback_crop_screen">전체 화면 비율</string>
 </resources>
