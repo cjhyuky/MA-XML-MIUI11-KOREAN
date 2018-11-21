@@ -1128,7 +1128,7 @@
     <string name="respond_via_sms_canned_response_2">곧 다시 전화드리겠습니다.</string>
     <string name="respond_via_sms_canned_response_3">나중에 다시 전화드리겠습니다.</string>
     <string name="respond_via_sms_canned_response_4">지금은 통화할 수 없습니다. 무슨 일이십니까?</string>
-    <string name="respond_via_sms_cannot_empty">거부 메시지는 비워둘 수 없습니다.</string>
+    <string name="respond_via_sms_cannot_empty">메시지는 비워둘 수 없습니다.</string>
     <string name="respond_via_sms_setting_title">빠른 답장</string>
     <string name="respond_via_sms_setting_summary">미리 작성된 텍스트 응답 수정</string>
     <string name="respond_via_sms_edittext_dialog_title">빠른 답장</string>
@@ -2507,4 +2507,5 @@
     <string name="zen_mode_settings_turn_on_dialog_title">방해 금지 모드 켜기</string>
     <string name="sip_account_disable">"이 계정은 비활성화되어 있습니다. 전화를 받을 수 없습니다."</string>
     <string name="sip_receive_call_disable">"전화 수신 불가. 전화 수신 권한을 먼저 허용하세요."</string>
+    
 </resources>
