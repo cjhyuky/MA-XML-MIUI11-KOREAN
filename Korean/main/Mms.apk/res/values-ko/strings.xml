@@ -779,4 +779,14 @@
     <string name="complain_success">피드백 감사드립니다. 더 나은 서비스를 제공하기 위해 최선을 다하겠습니다!</string>
     <string name="complain_tips">"수신한 메세지의 정보가 Mi 서버로 전송됩니다."</string>
     <string name="complain_upload">불편 사항이 접수되었습니다.</string>
+    <string name="group_already_kicked_hint">"메세지를 전송할 수 없습니다. 해당 그룹 채팅방의 멤버가 아닙니다."</string>
+    <string name="group_rejoin_failed">"그룹 메세지 대화방에 참여할 수 없습니다."</string>
+    <string name="group_notify_message_title">그룹 메세지 알림</string>
+    <string name="group_not_exist_hint">"메세지를 전송할 수 없습니다. 존재하지 않는 채팅방입니다."</string>
+    <string name="group_view_settings_disolved">"컨텐츠를 표시할 수 없습니다. 존재하지 않는 채팅방입니다."</string>
+    <string name="group_view_settings_not_memeber">"컨텐츠를 표시할 수 없습니다. 해당 그룹 채팅방의 멤버가 아닙니다."</string>
+    <string name="msg_no_member_selected">최소한 1개의 연락처를 선택하십시오.</string>
+    <string name="rcs_create_new_group">그룹 채팅방 생성</string>
+    <string name="rcs_group_notification_invitation">그룹 채팅방에 초대</string>
+    <string name="rcs_recipient_type_group">그룹 채팅방으로 전달</string>
 </resources>
