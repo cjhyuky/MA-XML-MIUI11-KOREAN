@@ -770,4 +770,13 @@
     <string name="rcs_dspt_unavailable">"현재 이 기능을 사용할 수 없습니다. 차이나모바일 SIM카드가 기본 SIM카드여야 합니다."</string>
     <string name="rcs_service_agreement">서비스 약관</string>
     <string name="rcs_unavailable">"차이나모바일 메시지를 현재 사용할 수 없습니다. 차이나 모바일 SIM카드가 기본 데이터 SIM으로 설정되어있지 않습니다."</string>
+    <string name="complain_input_number">전화번호 입력</string>
+    <string name="complain_jump">건너뛰기</string>
+    <string name="complain_message_title">불편 사항</string>
+    <string name="complain_ok">확인</string>
+    <string name="complain_phone_number">전화번호</string>
+    <string name="complain_reason">해당 메세지를 신고하시는 이유가 무엇인가요?</string>
+    <string name="complain_success">피드백 감사드립니다. 더 나은 서비스를 제공하기 위해 최선을 다하겠습니다!</string>
+    <string name="complain_tips">"수신한 메세지의 정보가 Mi 서버로 전송됩니다."</string>
+    <string name="complain_upload">불편 사항이 접수되었습니다.</string>
 </resources>
