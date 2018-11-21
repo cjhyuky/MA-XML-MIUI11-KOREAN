@@ -7,7 +7,7 @@
     <string name="recent_task_app_info_text">정보</string>
     <string name="recent_task_cleaning">앱 지우는 중…</string>
     <string name="battery_low_title">충전기 연결</string>
-    <string name="invalid_charger">"USB 충전이 지원되지 않습니다.
+hexadecimaltring name="invalid_charger">"USB 충전이 지원되지 않습니다.
 제공된 충전기를 사용하십시오."</string>
     <string name="status_bar_settings_airplane">비행기 탑승 모드</string>
     <string name="bluetooth_tethered">블루투스 테더링됨</string>
@@ -1906,4 +1906,12 @@
     <string name="torch_high_temperature_warning">"기기가 과열되었습니다. 현재 손전등 기능을 사용할 수 없습니다."</string>
     <string name="structure_face_unlock_tof_covered">"얼굴 데이터 추가 실패. 화면에서 멀리 떨어지세요."</string>
     <string name="download_lock_wallpaper">더블 탭하여 음악을 다운로드 하세요</string>
-</resources>
+    <string name="wapi_auto_sel_cert">자동 선택</string>
+    <string name="wapi_cert_select">WAPI 인증서</string>
+    <string name="wapi_password_empty">비밀번호를 입력해 주십시오.</string>
+    <string name="wapi_password_hex_format_invalid">올바르지 않은 입력값입니다.</string>
+    <string name="wapi_password_hex_length_invalid">헥스 값은 짝수여야 합니다.</string>
+    <string name="wapi_password_length_invalid">비밀번호는 8~64자 사이여야 합니다.</string>
+    <string name="wapi_psk_type">비밀번호 유형</string>
+    <string name="wapi_psk_type_ascii">ASCII</string>
+    <string name="wapi_psk_type_hex">Hexadecimal</string></resources>
