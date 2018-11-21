@@ -2161,7 +2161,7 @@ SMS 전송"</string>
     <string name="app_manager_uninstall_protected_dlg_msg">시스템 앱을 삭제할 경우 MIUI의 일부 기능이 작동하지 않을 수 있습니다. 계속 진행하시겠습니까?</string>
     <string name="app_manager_uninstall_protected_dlg_title">시스템 앱 삭제중</string>
     <string name="back_app_name">앱 잠금으로 돌아가기</string>
-    <string name="back_modifypassword">돌아가서 비밀번호 변경</string>
+    <string name="back_modifypassword">돌아가서 암호 유형 변경</string>
     <string name="boost_stop">스피드 부스트 모드 해제</string>
     <string name="celcius_symbol">℃</string>
     <string name="data_booster_desc">원활한 네트워크 상태 유지를 위해 다른 SIM카드들을 비활성화합니다.</string>
@@ -2651,7 +2651,7 @@ SMS 전송"</string>
     <string name="card_main_hwtest_title">하드웨어 테스트</string>
     <string name="gamebox_app_not_find">앱을 먼저 설치하세요.</string>
     <string name="gs_gamebox_slip">화면을 내려서 여세요</string>
-    <string name="ad_split_screen_title">잠금을 해제하려면 전체 화면 모드로 전환하십시오</string>
+    <string name="ad_split_screen_title">분할 화면 모드를 종료해 잠금 해제</string>
     <string name="gs_slip_gamebox_detail">슬라이더를 사용하여 바로 가기 패널을 표시합니다. 빠른 답장과 화면 녹화 옵션을 사용할 수 있습니다.</string>
     <string name="om_locked_apps_summary">잠긴 앱은 속도 향상에 의해 무시됩니다.</string>
     <string name="om_not_finish_speedboost">속도 향상이 필요합니다</string>
@@ -2687,5 +2687,6 @@ SMS 전송"</string>
     <string name="traffic_setting_fragment_next">다음</string>
     <string name="traffic_setting_fragment_not_limited_summary">무제한 데이터 요금제 옵션</string>
     <string name="traffic_setting_fragment_not_limited_title">무제한 데이터 요금제</string>
-    <string name="traffic_setting_fragment_packege_type">데이터 요금제 설정</string>    
+    <string name="traffic_setting_fragment_packege_type">데이터 요금제 설정</string>
+    
 </resources>
