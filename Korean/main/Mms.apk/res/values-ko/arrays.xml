@@ -56,4 +56,11 @@
         <item>Mi 메시지</item>
         <item>CMCC 스마트 SMS</item>
     </string-array>
+      <string-array name="reason_type">
+        <item>사기</item>
+        <item>음란 등 불법 컨텐츠</item>
+        <item>스팸</item>
+        <item>기타</item>
+        <item>취소</item>
+    </string-array>
 </resources>
