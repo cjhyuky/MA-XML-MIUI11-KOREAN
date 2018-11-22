@@ -6093,7 +6093,6 @@ PIN 설정"</string>
     <string name="wifi_ask_enable">%s가 Wi-Fi를 활성화하려고 합니다.</string>
     <string name="wifi_badging_thresholds_default">10:3000,20:5000,30:25000</string>
     <string name="wifi_calling_roaming_mode_dialog_title">로밍 설정</string>
-    <string name="wifi_calling_roaming_mode_summary">%1$s</string>
     <string name="wifi_calling_roaming_mode_title">로밍 설정</string>
     <string name="wifi_cellular_data_fallback_summary">Wi-Fi가 인터넷에 연결할 수 없을 때 자동으로 모바일 네트워크로 전환합니다. 데이터 요금이 청구될 수 있습니다.</string>
     <string name="wifi_cellular_data_fallback_title">자동으로 모바일 데이터 전환</string>
@@ -6654,7 +6653,6 @@ PIN 설정"</string>
     <string name="condition_device_muted_title">기기가 음소거됨</string>
     <string name="condition_device_vibrate_summary">전화와 알림이 오면 진동합니다.</string>
     <string name="condition_device_vibrate_title">기기가 진동으로 설정됨</string>
-    <string name="condition_summary">%1$d</string>
     <string name="connected_device_add_device_summary">연결하기 위해 블루투스가 켜집니다.</string>
     <string name="connected_device_add_device_title">기기 추가</string>
     <string name="connected_device_available_call_title">사용 가능한 휴대폰</string>
@@ -6737,7 +6735,6 @@ PIN 설정"</string>
     <string name="fingerprint_delete_title">"'%1$s' 삭제"</string>
     <string name="fingerprint_gesture_screen_title">지문 인식</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">알림 빠르게 보기</string>
-    <string name="firmware_title">안드로이드</string>
     <string name="gesture_prevent_ringing_screen_title">알림 방지</string>
     <string name="gesture_prevent_ringing_sound_title">벨소리 방지 바로 가기</string>
     <string name="gesture_prevent_ringing_title">전원과 볼륨 상 버튼을 동시에 누르십시오.</string>
