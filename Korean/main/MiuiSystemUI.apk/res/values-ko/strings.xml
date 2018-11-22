@@ -1923,4 +1923,10 @@
     <string name="lock_screen_magazine_default_entry_title">바탕화면 세부사항</string>
     <string name="lock_screen_magazine_default_title">슬라이드형 바탕화면</string>
     <string name="open_lock_screen_magazine_hint_text">더 많은 옵션을 확인하시려면 오른쪽으로 스와이프하세요</string>
+    <string name="recents_title_app_manager">앱 편집</string>
+    <string name="recents_title_game">게임</string>
+    <string name="recents_title_garbage_cleanup">클리너</string>
+    <string name="recents_title_garbage_deepclean">정밀 청소</string>
+    <string name="recents_title_market">앱 찾기</string>
+    <string name="recents_title_security_scan">보안 스캔</string>
 </resources>

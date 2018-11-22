@@ -121,6 +121,6 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="poco_agree_terms_other">(포코 런쳐 개인정보 보호정책과 사용자 약관 포함)</string>
     <string name="zone_picker_title">타임존을 선택하세요</string>
     <string name="other_settings_enhanced_lockscreen">향상된 잠금화면을 사용해보세요</string>
-    <string name="other_settings_enhanced_lockscreen_summary">사진과 스토리를 잠금화면에서 사용해보세요. T&amp;C</string>
-    <string name="other_settings_enhanced_lockscreen_summary_index">T&amp;C</string>
+    <string name="other_settings_enhanced_lockscreen_summary">선별된 이미지와 스토리를 매일 잠금화면으로 가져옵니다. 이용 약관에 동의하세요</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">이용 약관</string>
 </resources>

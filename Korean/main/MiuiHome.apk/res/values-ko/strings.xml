@@ -350,4 +350,5 @@
     <string name="recommend_apps_no_data_toast">지금부터 추천기능을 사용하지 않습니다.</string>
     <string name="recommend_refresh">새로고침</string>
     <string name="recommend_xout">"다시 표시하지 않기"</string>
+    <string name="show_recents_recommend_title">제안 보기</string>
 </resources>
