@@ -1157,5 +1157,10 @@
     <string name="show_more_attachment">추가 첨부 파일</string>
     <string name="overlays_tip_23">플로팅 알림 권한을 열고 극한의 환경을 자동으로 구성하도록 사서함을 즉시 설정하세요.</string>
     <string name="mail_search_lab">검색</string>
-    <string name="add_file_exception">예외 추가. 다른 경로에서 추가하는걸 시도해보세요.</string>  
+    <string name="add_file_exception">예외 추가. 다른 경로에서 추가하는걸 시도해보세요.</string>
+    <string name="dialog_agree">동의함</string>
+    <string name="dialog_disagree">동의하지 않음</string>
+    <string name="list_empty_to_fresh">메일 없음, 아래로 당겨서 새로고침하세요.</string>
+    <string name="notify_channel_no_disterb">방해금지 모드</string>
+    <string name="privacy_des">로그 정보에는 이메일에서 수집한 디버깅 정보와 장치 정보가 들어있습니다. 샤오미￦의 %2$s 사항을 읽고 동의하시면 아래의 %1$s 내용을 선택하세요.</string>
 </resources>
