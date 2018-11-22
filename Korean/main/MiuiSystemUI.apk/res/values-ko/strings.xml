@@ -1914,4 +1914,13 @@
     <string name="wapi_password_length_invalid">비밀번호는 8~64자 사이여야 합니다.</string>
     <string name="wapi_psk_type">비밀번호 유형</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
-    <string name="wapi_psk_type_hex">Hexadecimal</string></resources>
+    <string name="wapi_psk_type_hex">Hexadecimal</string>
+    <string name="accessibility_left_control_center_button">바로가기</string>
+    <string name="accessibility_left_lock_screen_magazine_button">슬라이드형 바탕화면</string>
+    <string name="clock_city_name_local">로컬</string>
+    <string name="face_data_manage_unlock_slide_msg">슬라이더 바로가기를 얼굴인식 잠금해제로 대체</string>
+    <string name="lock_screen_magazine_default_content">매일 배달되는 새로운 이미지</string>
+    <string name="lock_screen_magazine_default_entry_title">바탕화면 세부사항</string>
+    <string name="lock_screen_magazine_default_title">슬라이드형 바탕화면</string>
+    <string name="open_lock_screen_magazine_hint_text">더 많은 옵션을 확인하시려면 오른쪽으로 스와이프하세요</string>
+</resources>
