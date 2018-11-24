@@ -7889,4 +7889,7 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="power_key_start_enjoy">알겠습니다, 이제 구글 어시스턴트에 대해 더 배워보죠</string>
     <string name="power_key_start_guide">전체 디스플레이 장치의 전원 버튼을 사용하여 구글 어시스턴트 사용하기</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">전체 화면 모드에서 음성 도우미를 사용하세요(가상 버튼 없음)</string>
+    <string name="summary_font_size_v2">텍스트, 이미지 및 아이콘의 크기 조정</string>
+    <string name="title_font_v2">텍스트 &amp; UI요소</string>
+    <string name="title_layout_v2">텍스트 크기 &amp; 스케일</string>
 </resources>
