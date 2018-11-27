@@ -372,4 +372,5 @@
     <string name="title_catch_full_log">로그</string>
     <string name="toast_catch_full_log_catching">로그는 한번에 하나씩만 생성할 수 있습니다</string>
     <string name="title_first_aid">응급처치</string>
+    <string name="feedback_status_commit_in_queue_title">피드백을 기다리는 중</string>
 </resources>
