@@ -1392,4 +1392,16 @@
     <string name="ext_sdcard_request_failed_button_text">확인</string>
     <string name="ext_sdcard_request_succeed_toast_text">"즐길 준비가 되셨습니다!"</string>
     <string name="photo_editor_talkback_crop_screen">전체 화면 비율</string>
+    <string name="card_description_annual_events">같이 보낸 소중한 시간</string>
+    <string name="card_description_annual_foods">"대식가의 일기"</string>
+    <string name="card_description_annual_pets">짜릿해! 늘 새로워! 귀여운 게 최고야!</string>
+    <string name="card_description_annual_travel">여행하면서 본 흥미로운 것들</string>
+    <string name="card_title_activities">행사</string>
+    <string name="card_title_annual_events">%1$s에서 즐긴 파티</string>
+    <string name="card_title_annual_foods">맛있는 %1$s</string>
+    <string name="card_title_annual_pets">%1$s와 함께한 추억</string>
+    <string name="card_title_annual_travel">%1$s에서 보낸 휴가</string>
+    <string name="card_title_monthly_foods">맛있어!</string>
+    <string name="card_title_monthly_pets">발자국</string>
+    <string name="card_title_party">파티</string>
 </resources>
