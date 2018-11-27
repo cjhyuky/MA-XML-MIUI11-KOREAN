@@ -33,4 +33,7 @@
     <plurals name="second">
         <item quantity="other">%d초</item>
     </plurals>
+   <plurals name="snooze_duration_summary">
+      <item quantity="other">알람이 %1$s분씩 %2$s번 반복됩니다.</item>
+   </plurals>
 </resources>
