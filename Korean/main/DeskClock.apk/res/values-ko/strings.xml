@@ -232,6 +232,5 @@
     <string name="timer_alert_mute_switch">타이머 알람을 무음으로 전환</string> 
     <string name="repeat_count">번</string>
     <string name="snooze_duration">잠자기</string>
-    <string name="snooze_duration_title">잠자기</string>
     <string name="snooze_duration_value">반복 (분)</string>
 </resources>
