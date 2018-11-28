@@ -855,4 +855,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="cit_diag_chaging_summary">충전 기록 파일 SD카드로 복사</string>
   <string name="cit_diag_chaging_title">충전 기록 읽기</string>
   <string name="cit_diag_chaging_wait">잠시만 기다려주세요... 파일 복사중</string>
+  <string name="sar_sensor_data_check_description">센서 데이터 수집</string>
+  <string name="sar_sensor_data_check_summary">"전화를 돌려 고정 장치에 놓습니다.
+고정장치를 전화기에서 가깝게 했다 멀리 했다 하며 제어하십시오"</string>
 </resources>
