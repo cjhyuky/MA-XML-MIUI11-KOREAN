@@ -437,4 +437,22 @@
     <string name="greenguard_child_des_title">친구와 가족의 도움이 필요합니다</string>
     <string name="greenguard_parent_des">"이 앱을 다운로드 하시고 다른 사람들의 기기를 추가하세요"</string>
     <string name="greenguard_parent_des_title">친구와 가족의 도움이 필요합니다</string>
+    <string name="button_text_next_step">다음</string>
+    <string name="button_text_next_step_timer">다음 단계 (%d)</string>
+    <string name="cta_declaration_agree_and_continue">동의</string>
+    <string name="cta_declaration_message_format" formatted="false">엔터프라이즈 모드를 사용하기 전에 먼저 약관을 읽고 동의하셔야 합니다. 엔터프라이즈 모드를 활성화하려면 인터넷 연결이 필요합니다. 동의하시나요?</string>
+    <string name="cta_declaration_title">이용 약관</string>
+    <string name="dialog_message_service_error">"인증을 취소하고 초기화를 수행할 수 없습니다. 다시 시도하십시오."</string>
+    <string name="dialog_tip_need_network">인증을 취소하려면 기기를 인터넷에 연결해야합니다.</string>
+    <string name="dialog_title_service_error">서버 오류</string>
+    <string name="dialog_undo_negative">"취소하지 않기"</string>
+    <string name="master_clear_apply_step_1">인증 취소는 기기에서 초기화를 수행해야합니다. 계정, 연락처, 사진 및 앱을 포함하여 모든 파일 및 데이터를 영구적으로 지웁니다. 권한을 취소하기 전에 모든 중요한 항목을 컴퓨터에 백업하십시오.</string>
+    <string name="master_clear_apply_step_2">모든 중요한 항목을 컴퓨터에 백업했는지 확인하십시오. \"OK\"를 탭하면 기기에서 초기화가 수행되어 계정, 주소록, 사진, 앱 등 모든 파일 및 데이터가 영구적으로 삭제됩니다.</string>
+    <string name="master_clear_apply_title">주의</string>
+    <string name="more_settings">더보기</string>
+    <string name="undo_activated_dialog_message">"엔터프라이즈 모드를 비활성화하고 장치에 대한 공장 초기화를 하면 관련된 모든 기능을 더 이상 사용할 수 없으며, 샤오미는 엔터프라이즈 모드(IMEI, 기기 ID, 시스템 버전, 지역 등)로 수집한 데이터를 관리하지 않습니다. 허가를 취소하고 공장 초기화를 진행하시겠습니까?"</string>
+    <string name="undo_activated_dialog_ok">취소</string>
+    <string name="undo_grant_dialog_message">샤오미는 인증 취소 후, 이 기능(IMEI, 기기 ID, 시스템 버전, 지역 등)에 필요한 정보를 수집하지 않습니다. 지금 해지할까요?</string>
+    <string name="undo_privacy_menu">취소 인증</string>
+    <string name="undo_success">취소 완료</string>
 </resources>
