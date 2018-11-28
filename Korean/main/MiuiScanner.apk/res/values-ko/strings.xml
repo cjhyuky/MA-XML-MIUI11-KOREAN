@@ -258,4 +258,10 @@
     <string name="translate_try_again">탭하여 재시도</string>
     <string name="translate_type_take_pic">사진</string>
     <string name="wifi_exist_fail">Wi-Fi 핫스팟 \"%1$s\" 이름이 이미 존재합니다. 지우고 다시 시도하세요.</string>
+    <string name="module_title_plant">식물</string>
+    <string name="plant_fail">"인식 불가"</string>
+    <string name="plant_loading">식별중…</string>
+    <string name="plant_reg_fail_2">"사물 인식 실패. 스캐너는 식물만 식별가능합니다."</string>
+    <string name="plant_support">"(기술 지원)"</string>
+    <string name="plant_title">식별하고 싶은 식물을 스캔하세요</string>
 </resources>
