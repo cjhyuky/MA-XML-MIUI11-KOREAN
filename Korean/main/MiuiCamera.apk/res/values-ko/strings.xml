@@ -938,4 +938,9 @@
     <string name="pref_userdefine_watermark_title">사용자 지정 카메라 워터마크</string>
     <string name="ultra_wide_bokeh_close_tip">광각 모드가 꺼져있습니다.</string>
     <string name="ultra_wide_bokeh_open_tip">광각 인물 모드</string>
+    <string name="accessibility_bokeh_adjust">흐림 효과 레벨 조정</string>
+    <string name="accessibility_bokeh_level">F%1$s 아웃포커스 레벨</string>
+    <string name="change_bgm">배경음악 변경</string>
+    <string name="hot_music">인기곡</string>
+    <string name="local_music">로컬 음악</string>
 </resources>
