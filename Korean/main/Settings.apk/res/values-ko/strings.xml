@@ -7892,4 +7892,5 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="summary_font_size_v2">텍스트, 이미지 및 아이콘의 크기 조정</string>
     <string name="title_font_v2">텍스트 &amp; UI요소</string>
     <string name="title_layout_v2">텍스트 크기 &amp; 스케일</string>
+    <string name="status_bar_settings_show_lte_for_4g">4G 대신 LTE로 표시</string>
 </resources>
