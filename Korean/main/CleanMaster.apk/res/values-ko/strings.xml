@@ -611,4 +611,6 @@
     <string name="facebook_group_gif">움직이는 GIF</string>
     <string name="facebook_group_image">이미지</string>
     <string name="facebook_group_video">비디오</string>
+    <string name="facebook_function_summery">페이스북 캐시를 정리합니다</string>
+    <string name="facebook_function_title">페이스북 클리너</string>
 </resources>
