@@ -8,4 +8,5 @@
     <string name="error_title">"동기화할 수 없음"</string>
     <string name="error_unauthorized">너무 많은 로그인 시도로 동기화가 비활성화 되었습니다.</string>
     <string name="micloud_send_message_desc">Mi메시지 전송중</string>
+    <string name="micloud_downloading_clipboard_message_from_web">클립보드로 텍스트 전송</string>
 </resources>
