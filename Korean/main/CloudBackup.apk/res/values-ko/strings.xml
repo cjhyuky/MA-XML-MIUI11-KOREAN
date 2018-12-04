@@ -196,9 +196,13 @@
     <string name="try_continue">계속하려면 탭하세요</string>
     <string name="second_space">보조 공간</string>
     <string name="self_device">"이 폰의 "</string>
-    <string name="backup_stopped_msg">계속 백업하면 클라우드의 기존 백업을 덮어쓰게 됩니다. 클릭하여 내용을 확인하세요.</string>
-    <string name="backup_stopped_title">클라우드 백업이 중단되었습니다</string>
+    <string name="backup_stopped_msg">현재 백업으로 이전 백업을 덮어씁니다. 세부사항을 보시려면 탭하세요.</string>
+    <string name="backup_stopped_title">백업이 중단됨</string>
     <string name="dialog_btn_cancel_backup">취소</string>
     <string name="dialog_btn_overwrite_backup">덮어쓰기</string>
-    <string name="dialog_msg_overwrite_backup">로컬 백업과 클라우드 백업의 차이는 크며, 계속백업하시면 기존자료는 덮어쓰여집니다.</string>
+    <string name="dialog_msg_overwrite_backup">로컬 백업은 미 클라우드의 백업과 다릅니다. 계속 진행하시면, 현재 백업으로 이전 백업을 덮어씁니다.</string>
+    <string name="other_device_main_space">메인 공간</string>
+    <string name="other_device_second_space">보조 공간</string>
+    <string name="self_device_main_space">"이 휴대전화의 메인 공간"</string>
+    <string name="self_device_second_space">"이 휴대전화의 보조 공간"</string>
 </resources>
