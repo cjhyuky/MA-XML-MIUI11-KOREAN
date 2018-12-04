@@ -356,8 +356,8 @@
     <string name="pref_camera_portrait_mode_entry_off">인물 모드 꺼짐</string>
     <string name="pref_camera_portrait_mode_entry_on">인물 모드 켜짐</string>
     <string name="portrait_mode_lowlight_hint">지금은 너무 어둡습니다.</string>
-    <string name="portrait_mode_too_close_hint">더 멀리 이동</string>
-    <string name="portrait_mode_too_far_hint">사물을 2.5미터이내에 두세요</string>
+    <string name="portrait_mode_too_close_hint">피사체로부터 멀어지세요</string>
+    <string name="portrait_mode_too_far_hint">사물을 2미터 이내에 두세요</string>
     <string name="portrait_mode_depth_effect_success_hint">심도 효과</string>
     <string name="portrait_with_facebeauty_hint">미화 기능은 인물 모드에서만 사용 가능합니다.</string>
     <string name="pref_camera_portrait_with_facebeauty_title">인물 모드 시 미화 기능</string>
@@ -863,7 +863,7 @@
     <string name="portrait_bokeh_first_tips">"세로모드를 사용하여 사진의
 배경을 흐리게 만들어보세요"</string>
     <string name="portrait_bokeh_tips">피사체를 1.5미터 이내에 두세요</string>
-    <string name="lighting_hint_needed">사물을 스팟안에 놓으세요</string>
+    <string name="lighting_hint_needed">피사체를 스포트라이트 안에 위치시키세요</string>
     <string name="lighting_hint_title">스튜디오 조명</string>
     <string name="lighting_hint_too_close">카메라를 더 멀리 두세요</string>
     <string name="lighting_hint_too_far">카메라를 더 가까이 두세요</string>
@@ -933,7 +933,7 @@
     <string name="custom_watermark_words_input_hint">단어 입력</string>
     <string name="custom_watermark_words_save_success">저장 완료</string>
     <string name="dualcamera_watermark_default">AI 듀얼 카메랴</string>
-    <string name="pref_camera_normal_wide_ldc_title">얼굴 보정</string>
+    <string name="pref_camera_normal_wide_ldc_title">그룹 얼굴 보정</string>
     <string name="pref_camera_ultra_wide_ldc_title">광각 왜곡 보정</string>
     <string name="pref_userdefine_watermark_title">사용자 지정 카메라 워터마크</string>
     <string name="ultra_wide_bokeh_close_tip">광각 모드가 꺼져있습니다.</string>
@@ -943,4 +943,24 @@
     <string name="change_bgm">배경음악 변경</string>
     <string name="hot_music">인기곡</string>
     <string name="local_music">로컬 음악</string>
+    <string name="accessibility_camera_record_start">녹화 시작</string>
+    <string name="accessibility_camera_record_stop">녹화 정지</string>
+    <string name="accessibility_record_button">녹화 버튼</string>
+    <string name="accessibility_ultra_pixel_photography_off">4800만 화소 꺼짐</string>
+    <string name="accessibility_ultra_pixel_photography_on">4800만 화소 켜짐</string>
+    <string name="accessibility_video_capture_button">비디오 녹화를 위한 사진 버튼</string>
+    <string name="accessibility_video_pause_button">녹화 멈춤</string>
+    <string name="accessibility_video_resume_button">녹화 재개</string>
+    <string name="ai_scene_top_moon_off">야간 모드</string>
+    <string name="live_speed_extreme_fast">가장 빠름</string>
+    <string name="live_speed_extreme_slow">가장 느림</string>
+    <string name="live_speed_fast">빠름</string>
+    <string name="live_speed_fragment_tab_name">속도</string>
+    <string name="live_speed_normal">보통</string>
+    <string name="live_speed_slow">느림</string>
+    <string name="module_name_professional">전문가</string>
+    <string name="pref_camera_normal_wide_ldc_description">사진 가장자리의 얼굴 왜곡을 수정</string>
+    <string name="pref_camera_ultra_wide_ldc_description">초광각 모드에서 왜곡된 영상 보정</string>
+    <string name="ultra_pixel_photography_close_tip">4800만 화소 기능이 꺼졌습니다</string>
+    <string name="ultra_pixel_photography_open_tip">4800만 화소 기능이 켜졌습니다</string>
 </resources>
