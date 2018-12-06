@@ -623,4 +623,26 @@
     <string name="abc_shareactionprovider_share_with_application">%s 님과 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="edit_event_dislike_title">취소하신 이유가 무엇인가요?</string>
+    <string name="event_action_arrive_station">도착 정거장</string>
+    <string name="event_info_title_anniversary">기념일</string>
+    <string name="event_info_title_birthday">생일</string>
+    <string name="event_info_title_countdown">D-데이</string>
+    <string name="ticket_activity_card_date_day">일</string>
+    <string name="ticket_activity_card_date_month">월</string>
+    <string name="train_event_add_arrive_station">도착지를 추가하려면 클릭하세요</string>
+    <string name="train_event_arrive">%1$s 도착</string>
+    <string name="train_event_arrive_station_saved">도착 정거장 저장됨</string>
+    <string name="train_event_choose_arrive_station">도착 정거장을 선택하세요</string>
+    <string name="train_event_depart">%1$s 출발</string>
+    <string name="train_event_disclaimer">면책 조항 : 데이터 및 서비스는 GaoTieGuanJia에서 제공합니다. 문제가 있으면 회사의 고객 서비스에 문의하십시오. 기차 정보는 참고용이며 공식정보를 참조하십시오.</string>
+    <string name="train_event_error_toast">죄송합니다, 로딩 실패!</string>
+    <string name="train_event_error_train_info">기차표 에러</string>
+    <string name="train_event_more_info">기차 정시도착 또는 지연, 기차 Wi-Fi서비스 등</string>
+    <string name="train_event_reminder">%1$s</string>
+    <string name="train_event_service">기차 서비스</string>
+    <string name="train_event_station_date_format">MM월 dd일</string>
+    <string name="train_event_station_header_arrive_time">도착시간</string>     <string name="train_event_station_header_depart_time">출발시간</string>
+    <string name="train_event_station_header_name">역 이름</string>
+    <string name="train_event_station_header_stay_time">숙박</string>
+    <string name="train_event_station_stay_time">%1$s분</string>
 </resources>
