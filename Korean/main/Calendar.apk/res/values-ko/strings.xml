@@ -638,7 +638,6 @@
     <string name="train_event_error_toast">죄송합니다, 로딩 실패!</string>
     <string name="train_event_error_train_info">기차표 에러</string>
     <string name="train_event_more_info">기차 정시도착 또는 지연, 기차 Wi-Fi서비스 등</string>
-    <string name="train_event_reminder">%1$s</string>
     <string name="train_event_service">기차 서비스</string>
     <string name="train_event_station_date_format">MM월 dd일</string>
     <string name="train_event_station_header_arrive_time">도착시간</string>     <string name="train_event_station_header_depart_time">출발시간</string>
