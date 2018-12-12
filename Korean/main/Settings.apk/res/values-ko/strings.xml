@@ -7901,4 +7901,11 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="dump_log_title">이 기능에 관하여</string>
     <string name="miui_ime_xiaoai_voice_hint">더 빠르게 더 편리하게 텍스트를 입력하는 방법</string>
     <string name="miui_ime_xiaoai_voice_title">Mi AI 음성 입력</string>
+    <string name="device_description_battery">배터리 용량</string>
+    <string name="device_description_camera">전면 카메라</string>
+    <string name="device_description_cpu">CPU</string>
+    <string name="device_description_ram">램</string>
+    <string name="device_description_resolution">해상도</string>
+    <string name="device_description_screen">화면 크기</string>
+    <string name="network_name_input_error">"SSID 저장 실패. 다시 시도하세요."</string>
 </resources>

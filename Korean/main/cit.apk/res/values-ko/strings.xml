@@ -858,4 +858,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="sar_sensor_data_check_description">센서 데이터 수집</string>
   <string name="sar_sensor_data_check_summary">"전화를 돌려 고정 장치에 놓습니다.
 고정장치를 전화기에서 가깝게 했다 멀리 했다 하며 제어하십시오"</string>
+  <string name="camera_flood">- 음식 -</string>
+  <string name="camera_projector">- 프로젝터 -</string>
+  <string name="fod_pressure_sensor_test_fail">테스트 실패, 실패 버튼을 클릭하세요</string>
 </resources>
