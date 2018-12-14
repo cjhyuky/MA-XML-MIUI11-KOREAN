@@ -967,4 +967,5 @@
     <string name="live_edit_exit_message">캡쳐를 중지하겠습니까?</string>
     <string name="beauty_reset_toast">미의 효과가 사라짐</string>
     <string name="live_sticker_updating">업데이트 중...</string>
+    <string name="live_edit_share_title">공유</string>
 </resources>
