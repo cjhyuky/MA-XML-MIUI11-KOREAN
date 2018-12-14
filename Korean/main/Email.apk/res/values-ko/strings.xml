@@ -67,9 +67,9 @@
     <string name="account_setup_address_label">이메일</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">사용자 이름, 비밀번호, 그리고 계정 설정이 올바른지 확인하십시오.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">계정을 설정하지 못했습니다.</string>
-    <string name="account_setup_basics_email_label">이메일 주소</string>
+    <string name="account_setup_basics_email_label">이메일 주소를 입력하세요</string>
     <string name="account_setup_basics_manual_setup_action">수동 설치</string>
-    <string name="account_setup_basics_password_label">비밀번호</string>
+    <string name="account_setup_basics_password_label">비밀번호를 입력하세요</string>
     <string name="account_setup_basics_title">계정 추가</string>
     <string name="account_setup_check_settings_check_incoming_msg">"    서버 설정 인증 중…"</string>
     <string name="account_setup_check_settings_check_outgoing_msg">"    smtp 설정 인증 중…"</string>
@@ -834,7 +834,7 @@
     <string name="saved">저장됨, %s</string>
     <string name="saving">저장 중...</string>
     <string name="sdcard_cannot_use">SD 카드를 사용할 수 없습니다.</string>
-    <string name="search_bar_text">발신자나 연락처로 검색</string>
+    <string name="search_bar_text">메시지나 연락처에서 검색</string>
     <string name="search_hint">메일 검색</string>
     <string name="search_result">"결과 "</string>
     <string name="search_tabs_name_all">모두</string>
@@ -950,7 +950,7 @@
     <string name="update_date_format_templete">MMMM dd aa HH:mm</string>
     <string name="update_to_wps_mail">더 좋은 기능을 원하시면, WPS-메일로 업그레이드 하세요</string>
     <string name="updated_at">%1$s에서 새로고침</string>
-    <string name="upload_log">기록 업로드</string>
+    <string name="upload_log">로그 업로드</string>
     <string name="upload_log_failed">로그를 전송할 수 없음</string>
     <string name="upload_log_no">취소</string>
     <string name="upload_log_success">전송 성공. 최대한 빨리 답장 드리겠습니다.</string>
@@ -1151,7 +1151,7 @@
     <string name="wait_help_context">잠시만 기다려 주십시오...</string>
     <string name="privacy_policy">개인정보 보호정책</string>
     <string name="chinese">중국어</string>
-    <string name="notify_channel_new_mail">새로운 메시지 알림</string>
+    <string name="notify_channel_new_mail">새 메시지 알림</string>
     <string name="notify_channel_permission_notice">허가 통지 알림</string>
     <string name="notify_channel_send_fail">전달 실패시 알림</string>
     <string name="show_more_attachment">추가 첨부 파일</string>
