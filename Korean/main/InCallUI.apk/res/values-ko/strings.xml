@@ -39,9 +39,9 @@
     <string name="onscreen_add_call_text">통화 추가</string>
     <string name="onscreen_audio_mode_bluetooth">블루투스</string>
     <string name="onscreen_audio_mode_conference">전화 회의</string>
-    <string name="onscreen_audio_mode_handset">핸즈프리</string>
-    <string name="onscreen_audio_mode_headset">헤드폰</string>
-    <string name="onscreen_audio_mode_speaker">스피커</string>
+    <string name="onscreen_audio_mode_handset">일반통화</string>
+    <string name="onscreen_audio_mode_headset">이어폰</string>
+    <string name="onscreen_audio_mode_speaker">스피커폰</string>
     <string name="onscreen_audio_switch_mode">오디오 번경</string>
     <string name="onscreen_call_record">녹음</string>
     <string name="sip_call_not_support_record">SIP 통화 녹음 실패</string>
