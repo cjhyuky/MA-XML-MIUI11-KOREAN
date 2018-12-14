@@ -6829,7 +6829,7 @@ PIN 설정"</string>
     <string name="notification_group_title">알림 카테고리 그룹</string>
     <string name="notification_importance_high_silent">팝업창 띄우기</string>
     <string name="notification_switch_label">알림 표시</string>
-    <string name="notifications_enabled_with_info">켜짐 / %1$s</string>
+    <string name="notifications_enabled_with_info">켜짐</string>
     <string name="notifications_sent_daily">~%1$s (하루)</string>
     <string name="notifications_sent_never">절대하지않음</string>
     <string name="notifications_sent_weekly">~%1$s (일주일)</string>
@@ -7810,7 +7810,7 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="camera_front">전면 %s</string>
     <string name="camera_rear">후면 %s</string>
     <string name="device_camera">카메라</string>
-    <string name="slider_app_open">%1$s 앱 열기</string>
+    <string name="slider_app_open">앱 열기</string>
     <string name="slider_app_open_name">열기</string>
     <string name="slider_app_open_none">없음</string>
     <string name="slider_button_title">변경</string>
