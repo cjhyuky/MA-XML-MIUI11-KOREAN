@@ -7132,9 +7132,9 @@ PIN 설정"</string>
     <string name="zen_mode_settings_dnd_manual_indefinite">수신 거부는 사용 중지 할 때까지 유지됩니다.</string>
     <string name="zen_mode_settings_turn_on_dialog_title">방해금지모드 켜기</string>
     <string name="zen_mode_sound_summary_off">꺼짐</string>
-    <string name="zen_mode_sound_summary_off_with_info">꺼짐 / %1$s</string>
+    <string name="zen_mode_sound_summary_off_with_info">꺼짐</string>
     <string name="zen_mode_sound_summary_on">켜짐</string>
-    <string name="zen_mode_sound_summary_on_with_info">켜짐 / %1$s</string>
+    <string name="zen_mode_sound_summary_on_with_info">켜짐</string>
     <string name="zen_mode_starred_callers">별표 표시 연락처</string>
     <string name="zen_mode_starred_contacts_title">별표 표시 연락처</string>
     <string name="zen_mode_system">터치음</string>
