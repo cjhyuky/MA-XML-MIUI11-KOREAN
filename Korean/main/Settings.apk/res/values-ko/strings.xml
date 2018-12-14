@@ -4764,7 +4764,7 @@ PIN 설정"</string>
     <string name="location_agps_def_reset_type">핫한</string>
     <string name="location_menu_scanning">스캔중</string>
     <string name="location_off_summary">꺼짐</string>
-    <string name="location_on_summary">켜짐 / %1$s</string>
+    <string name="location_on_summary">켜짐</string>
     <string name="location_scanning_bluetooth_always_scanning_description">시스템 앱 / 시스템 서비스에 블루투스 설정 권한을 허용하여 위치 서비스 정확도를 개선하세요.</string>
     <string name="location_scanning_bluetooth_always_scanning_title">블루투스 스캔중</string>
     <string name="location_scanning_screen_title">스캔중</string>
