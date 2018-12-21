@@ -2688,5 +2688,25 @@ SMS 전송"</string>
     <string name="traffic_setting_fragment_not_limited_summary">무제한 데이터 요금제 옵션</string>
     <string name="traffic_setting_fragment_not_limited_title">무제한 데이터 요금제</string>
     <string name="traffic_setting_fragment_packege_type">데이터 요금제 설정</string>
-    
+    <string name="applock_face_unlock_summary">안면인식으로 앱 잠금해제</string>
+    <string name="applock_face_unlock_title">안면인식 잠금해제</string>
+    <string name="applock_function_base_settings">앱 잠금</string>
+    <string name="applock_function_pwd_settings">비밀번호</string>
+    <string name="face_unlock_be_on_the_screen">기기를 얼굴 앞에 댑니다</string>
+    <string name="face_unlock_check_failed">"얼굴을 인식할 수 없습니다"</string>
+    <string name="face_unlock_face_auth_failed_title">"얼굴 인식 불가. 다른 잠금하제 방법으로 전환중…"</string>
+    <string name="face_unlock_face_start_title">얼굴 인식중…</string>
+    <string name="face_unlock_finger_or_password_switch">지문인식 또는 비밀번호를 사용하여 잠금해제하세요.</string>
+    <string name="face_unlock_guide_confirm">안면인식 잠금해제 사용</string>
+    <string name="face_unlock_guide_dialog_summary">얼굴 인식으로 기기를 잠금해제할 수 있습니다. 안면인식 잠금해제를 켜시겠습니까?</string>
+    <string name="face_unlock_not_found">"인식 불가"</string>
+    <string name="face_unlock_open_eye">눈을 조금 더 크게 떠보세요</string>
+    <string name="face_unlock_reveal_eye">눈 부분이 잘 보이게 해주세요</string>
+    <string name="face_unlock_reveal_mouth">입술 부분이 잘 보이게 해주세요</string>
+    <string name="face_unlock_toast_verity_failed">"얼굴 데이터 인식 불가. 앱 잠금 설정으로 가셔서 얼굴 인식 등록을 다시 진행해보세요."</string>
+    <string name="face_unlock_verity_dialog_summary">얼굴 데이터 인식</string>
+    <string name="face_unlock_verity_dialog_title_failed">"인식 불가"</string>
+    <string name="face_unlock_verity_dialog_title_succeed">인식 완료</string>
+    <string name="fingerprint_to_lock_summary">지문인식으로 앱 잠금해제</string>
+    <string name="unlock_failed">내부 에러</string>    
 </resources>
