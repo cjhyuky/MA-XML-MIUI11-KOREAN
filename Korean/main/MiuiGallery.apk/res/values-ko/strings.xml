@@ -1362,7 +1362,7 @@
     <string name="story_remove_confirm_title">사진 삭제</string>
     <string name="story_rename_invalid_char">"\"%s\" 이름을 스토리 제목으로 사용할 수 없습니다. 문자, 숫자, 한자로 작성하세요."</string>
     <string name="story_rename_invalid_prefix">"\".\" 또는 \"_\" 기호로 스토리 제목을 시작할 수 없습니다"</string>
-    <string name="collage_select_image_range">콜라주는 1-4개의 사진을 포함 할 수 있습니다.</string>
+    <string name="collage_select_image_range">콜라주로 1-6개의 사진을 하나로 만들 수 있습니다.</string>
     <string name="frame_not_support_image_ratio">"이 비율은 지원하지 않습니다"</string>
     <string name="operation_produce">독창성</string>
     <string name="photo_editor_crop_auto_tips">자동으로 자름</string>
