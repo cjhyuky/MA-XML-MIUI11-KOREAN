@@ -207,4 +207,10 @@
     <plurals name="creation_max_image">
         <item quantity="other">%d개까지 사진 선택</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d개의 항목이 백업하기에 너무 큽니다</item>
+    </plurals> 
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d개의 항목이 백업하기에 너무 큽니다</item>
+    </plurals>
 </resources>
