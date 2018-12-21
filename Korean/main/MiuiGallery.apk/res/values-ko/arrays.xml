@@ -148,4 +148,10 @@
       <item>11월</item>
       <item>12월</item>
   </string-array>
+    <string-array name="weekend_title">
+      <item>지난 주들</item>
+      <item>기억에 남을 날들</item>
+      <item>일일 이벤트</item>
+      <item>일상 &amp; 일상외</item>
+  </string-array>
 </resources>
