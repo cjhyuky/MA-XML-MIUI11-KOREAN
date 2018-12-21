@@ -1401,7 +1401,16 @@
     <string name="card_title_annual_foods">맛있는 %1$s</string>
     <string name="card_title_annual_pets">%1$s와 함께한 추억</string>
     <string name="card_title_annual_travel">%1$s에서 보낸 휴가</string>
-    <string name="card_title_monthly_foods">맛있어!</string>
+    <string name="card_title_monthly_foods">맛있어요!</string>
     <string name="card_title_monthly_pets">발자국</string>
     <string name="card_title_party">파티</string>
+    <string name="alert_selection_description">AI는 비슷한 이미지 중에서 스타가 있는 최고의 사진을 표시합니다.</string>
+    <string name="alert_selection_title">AI로 선택</string>
+    <string name="backup_file_over_size_desc">"%1$s보다 큰 사진과 %2$s보다 큰 영상은 백업할 수 없습니다."</string>  
+    <string name="collage_ratio_text">화면 비율</string> 
+    <string name="collage_title_stitching">필름 롤</string>
+    <string name="filter_people_bw">블랙&amp;화이트</string>
+    <string name="filter_people_lilt">가곡</string>
+    <string name="filter_people_sepia">세피아</string>
+    <string name="filter_people_tea">차</string>
 </resources>
