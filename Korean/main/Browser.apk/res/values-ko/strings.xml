@@ -1696,7 +1696,6 @@
     <string name="pref_fling_gesture">스와이프 제스쳐</string>
     <string name="publish_to_topic">쓰레드 열기</string>
     <string name="suggestion_sliding_item_more_text">더 보기</string>
-    <string name="app_name">인포스트림</string>
     <string name="bookmark_error_page_title">에러 발생됨</string>
     <string name="checking_now">체크중...</string>
     <string name="comment_publish_to_topic">댓글 동기화</string>
