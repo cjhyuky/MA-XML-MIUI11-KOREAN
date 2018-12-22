@@ -352,7 +352,4 @@
     <string name="recommend_xout">"다시 표시하지 않기"</string>
     <string name="show_recents_recommend_title">제안 보기</string>
     <string name="gadget_dual_clock_label">듀얼 시계</string>
-    <string name="recommend_apps_no_data_toast">현재 추천 없음</string>
-    <string name="recommend_refresh">새로고침</string>
-    <string name="recommend_xout">"다시보지않기"</string>
 </resources>
