@@ -861,4 +861,6 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="camera_flood">- 음식 -</string>
   <string name="camera_projector">- 프로젝터 -</string>
   <string name="fod_pressure_sensor_test_fail">테스트 실패, 실패 버튼을 클릭하세요</string>
+  <string name="cit_display_test_end">테스트 완료</string>
+  <string name="cit_display_test_next">다음</string>  
 </resources>
