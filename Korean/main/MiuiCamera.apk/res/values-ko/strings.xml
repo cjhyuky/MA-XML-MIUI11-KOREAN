@@ -982,4 +982,10 @@
     <string name="ultra_widem_mode_use_hint_text">"더 넓은 시야를 기록하려면 수퍼 광각 모드를 켭니다.
 보다 흥미 진진한 아름다움을 경험해보십시오.."</string>
     <string name="pref_menu_ultra_pixel_photography_48mp">48M 초 울트라 픽셀</string>
+    <string name="live_music_change_bgm">음악 변경</string>
+    <string name="live_music_downloading_tips">다운로드중...</string>
+    <string name="live_music_hot_title">인기 음악</string>
+    <string name="live_music_local_title">로컬 음악</string>
+    <string name="live_music_network_exception">네트워크 비정상</string>
+    <string name="live_music_network_exception_tips">네트워크 비정상, 클릭하여 재시도하세요</string>
 </resources>
