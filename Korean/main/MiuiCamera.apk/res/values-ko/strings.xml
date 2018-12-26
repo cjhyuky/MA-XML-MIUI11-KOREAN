@@ -981,4 +981,5 @@
     <string name="pref_camera_ultra_wide_mode_title">슈퍼 와이드 앵글 모드</string>
     <string name="ultra_widem_mode_use_hint_text">"더 넓은 시야를 기록하려면 수퍼 광각 모드를 켭니다.
 보다 흥미 진진한 아름다움을 경험해보십시오.."</string>
+    <string name="pref_menu_ultra_pixel_photography_48mp">48M 초 울트라 픽셀</string>
 </resources>
