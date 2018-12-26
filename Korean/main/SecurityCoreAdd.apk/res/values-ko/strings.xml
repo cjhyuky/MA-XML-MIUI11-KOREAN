@@ -455,4 +455,8 @@
     <string name="undo_grant_dialog_message">샤오미는 인증 취소 후, 이 기능(IMEI, 기기 ID, 시스템 버전, 지역 등)에 필요한 정보를 수집하지 않습니다. 지금 해지할까요?</string>
     <string name="undo_privacy_menu">취소 인증</string>
     <string name="undo_success">취소 완료</string>
+    <string name="button_input_password">비밀번호를 입력하세요</string>
+    <string name="button_touch">센서에 손가락을 대세요</string>
+    <string name="dialog_verify">지문을 인식시키세요</string>
+    <string name="dialog_verify_fingerprint_retry">"지문 인식 실패. 다시 시도하세요."</string>
 </resources>
