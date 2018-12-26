@@ -7910,4 +7910,9 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="device_description_screen">화면 크기</string>
     <string name="network_name_input_error">"SSID 저장 실패. 다시 시도하세요."</string>
     <string name="gxzw_anim_star">별빛</string>
+    <string name="set_jeejen_prompt_message">Jeejen이 기본 런처로 설정됩니다. 기본 런처 설정은 설정 &gt; 시스템 설정 &gt; 홈 화면 &amp; 최근 실행 앱 &gt; 기본 런처에서 변경하시면 됩니다.</string>
+    <string name="set_jeejen_prompt_title">변경 사항 저장</string>
+    <string name="work_sound_permission_dialog_button_text_known">확인</string>
+    <string name="work_sound_permission_dialog_message">"엔터프라이즈 모드에서는 테마를 사용할 수 없습니다. 관리자에게 문의하여 엑세스하세요."</string>
+    <string name="work_sound_permission_dialog_title">엔터프라이즈 모드 제한</string>
 </resources>
