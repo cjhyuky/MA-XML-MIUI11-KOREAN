@@ -234,4 +234,5 @@
     <string name="snooze_duration">잠자기</string>
     <string name="snooze_duration_value">반복 (분)</string>
     <string name="life_post_weather_no_network">날씨 정보를 업데이트하려면 네트워크에 연결하세요</string>
+    <string name="check_theme_app_install">기기에 테마앱이 설치되어있는지 확인하세요.</string>
 </resources>
