@@ -910,7 +910,7 @@
     <string name="beauty_body_body">슬림하게</string>
     <string name="beauty_body_head">머리크기 줄이기</string>
     <string name="beauty_body_legged">다리 늘리기</string>
-    <string name="beauty_body_reset_tip">체형 효과를 재설정합니다</string>
+    <string name="beauty_body_reset_tip">효과가 제거되었습니다</string>
     <string name="beauty_body_shoulder">어깨 줄이기</string>
     <string name="ultra_wide_close_tip">슈퍼 와이드 앵글 모드가 꺼져있습니다</string>
     <string name="ultra_wide_open_tip">슈퍼 와이드 앵글 모드</string>
@@ -968,4 +968,17 @@
     <string name="beauty_reset_toast">미의 효과가 사라짐</string>
     <string name="live_sticker_updating">업데이트 중...</string>
     <string name="live_edit_share_title">공유</string>
+    <string name="live_error_confirm">조정하기</string>
+    <string name="live_error_message">기능 에러</string>
+    <string name="live_error_title">기능 에러</string>
+    <string name="live_reverse_confirm">삭제</string>
+    <string name="live_reverse_message">마지막 작업을 삭제하시겠습니까?</string>
+    <string name="live_sticker_network_error_hint">네트워크 에러</string>
+    <string name="portait_effect_entry_dusk">황혼</string>
+    <string name="portait_effect_entry_lilt">릴트</string>
+    <string name="portait_effect_entry_sepia">세피아</string>
+    <string name="portait_effect_entry_tea">티</string>
+    <string name="pref_camera_ultra_wide_mode_title">슈퍼 와이드 앵글 모드</string>
+    <string name="ultra_widem_mode_use_hint_text">"더 넓은 시야를 기록하려면 수퍼 광각 모드를 켭니다.
+보다 흥미 진진한 아름다움을 경험해보십시오.."</string>
 </resources>
