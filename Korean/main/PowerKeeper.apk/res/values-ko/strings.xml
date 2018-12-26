@@ -240,4 +240,6 @@
     <string name="notification_exit_extreme_mode_text">배터리가 %s 이상 충전 되었습니다</string>
     <string name="notification_exit_extreme_mode_title">배터리 세이버 끄기</string>
     <string name="notification_open_extreme_mode_text">배터리 세이버 켜기</string>
+    <string name="adaptive_battery_summary">"자주 사용하지 않는 앱의 배터리 제한"</string>
+    <string name="adaptive_battery_title">적응형 배터리 사용</string>
 </resources>
