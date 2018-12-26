@@ -2711,4 +2711,6 @@ SMS 전송"</string>
     <string name="unlock_failed">내부 에러</string>
     <string name="notify_channel_mipush">보안관련 푸시 메시지</string>
     <string name="notify_channel_optimize">보안 알림</string>
+    <string name="app_manager_full_screen_summary">선택한 앱에서 전체화면 모드 허용하기</string>
+    <string name="app_manager_full_screen_title">전체화면 모드</string>
 </resources>
