@@ -2708,5 +2708,7 @@ SMS 전송"</string>
     <string name="face_unlock_verity_dialog_title_failed">"인식 불가"</string>
     <string name="face_unlock_verity_dialog_title_succeed">인식 완료</string>
     <string name="fingerprint_to_lock_summary">지문인식으로 앱 잠금해제</string>
-    <string name="unlock_failed">내부 에러</string>    
+    <string name="unlock_failed">내부 에러</string>
+    <string name="notify_channel_mipush">보안관련 푸시 메시지</string>
+    <string name="notify_channel_optimize">보안 알림</string>
 </resources>
