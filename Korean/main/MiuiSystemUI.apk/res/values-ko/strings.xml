@@ -1929,4 +1929,5 @@
     <string name="recents_title_garbage_deepclean">정밀 청소</string>
     <string name="recents_title_market">앱 찾기</string>
     <string name="recents_title_security_scan">보안 스캔</string>
+    <string name="lock_screen_magazine_global_button_text">더보기</string>
 </resources>
