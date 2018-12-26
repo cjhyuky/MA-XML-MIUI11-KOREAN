@@ -30,6 +30,6 @@
     <string-array name="screenrecorder_settings_sound">
         <item>무음</item>
         <item>마이크</item>
-        <item>스피커</item>
+        <item>시스템 사운드</item>
     </string-array>
 </resources>
