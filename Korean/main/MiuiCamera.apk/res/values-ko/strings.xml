@@ -881,10 +881,10 @@
     <string name="beauty_mode_reset_toast">뷰티효과 초기화</string>
     <string name="beauty_reset">재설정</string>
     <string name="capture_back_pressed_hint">다시 탭하여 나가기</string>
-    <string name="edit_blusher">연지</string>
-    <string name="edit_eyebrow_dye">눈썹 염색</string>
-    <string name="edit_jelly_lips">젤리 입술</string>
-    <string name="edit_pupil_line">눈 라인</string>
+    <string name="edit_blusher">볼터치</string>
+    <string name="edit_eyebrow_dye">눈썹</string>
+    <string name="edit_jelly_lips">립글로즈</string>
+    <string name="edit_pupil_line">아이 라이너</string>
     <string name="eye_light">아이 라이트</string>
     <string name="eye_light_angel">천사 조명</string>
     <string name="eye_light_comic">코믹 조명</string>
