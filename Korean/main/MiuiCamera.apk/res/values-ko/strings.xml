@@ -672,7 +672,7 @@
     <string name="group_by_time">시간</string>
     <string name="hand_night_exit_button_text">황혼의 손 모드 해제</string>
     <string name="hdr_exit_button_text">HDR 모드 해제</string>
-    <string name="height">세</string>
+    <string name="height">높이</string>
     <string name="import_complete">불러오기 성공</string>
     <string name="import_fail">불러오기 실패</string>
     <string name="iso">ISO</string>
@@ -1009,16 +1009,11 @@
     <string name="color_effect_live_none">보통</string>
     <string name="color_effect_live_solar">스카이 블루</string>
     <string name="color_effect_live_years">세피아</string>
-    <string name="config_name_tilt">틸트-쉬프트</string>
     <string name="dialog_ok_time">확인 (<g id="NUMBER">%d</g>s)</string>
-    <string name="edit_neck">목</string>
-    <string name="edit_nose">코</string>
-    <string name="height">높이</string>
     <string name="live_music_close_cancel_message">취소</string>
     <string name="live_music_close_message">현재 음악을 닫으시겠습니까?</string>
     <string name="live_music_close_sure_message">닫기</string>
     <string name="live_sticker_fragment_tab_name">마법</string>
-    <string name="portait_effect_entry_tea">차</string>
     <string name="portrait_india_effect_entry_memory">추억</string>
     <string name="portrait_india_effect_entry_mono">모노</string>
     <string name="portrait_india_effect_entry_pink">핑크</string>
@@ -1030,24 +1025,16 @@
     <string name="portrait_india_effect_entry_sweet">달콤한</string>
     <string name="portrait_india_effect_entry_warm">따뜻한</string>
     <string name="portrait_india_effect_entry_young">젊음</string>
-    <string name="pref_camera_auto_focus_title_entry_off">꺼짐</string>
-    <string name="pref_camera_beautify_entry_auto">꺼짐</string>
-    <string name="pref_camera_movie_solid_entry_off">꺼짐</string>
     <string name="pref_camera_scenemode_entry_flowers">꽃</string>
     <string name="pref_camera_scenemode_entry_snow">눈</string>
-    <string name="pref_camera_sound_entry_off">꺼짐</string>
     <string name="pref_camera_sr_enable_title">슈퍼 해상도 켜기</string>
     <string name="pref_camera_super_resolution_title">슈퍼 해상도 켜기</string>
-    <string name="pref_camera_tilt_shift_entry_circle">원형</string>
-    <string name="pref_camera_tilt_shift_title">틸트-쉬프트</string>
     <string name="pref_camera_video_bokeh_off">비디오 보케 꺼짐</string>
     <string name="pref_camera_video_bokeh_on">비디오 보케</string>
     <string name="pref_camera_volumekey_function_entry_timer">타이머</string>
-    <string name="pref_camera_volumekey_function_entry_zoom">줌</string>
     <string name="pref_google_lens">구글 렌즈</string>
     <string name="pref_hdr_indicator_entry_auto">자동</string>
     <string name="pref_hdr_indicator_entry_off">꺼짐</string>
     <string name="pref_hdr_indicator_entry_on">켜짐</string>
     <string name="pref_privacy_title">개인정보 보호정책</string>
-    <string name="video_effect_entry_forest">작은 숲</string>
 </resources>
