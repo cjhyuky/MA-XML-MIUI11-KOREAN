@@ -201,7 +201,8 @@
     <string name="pref_camera_volumekey_function_entry_shutter">셔터</string>
     <string name="pref_camera_volumekey_function_entry_zoom">줌</string>
     <string name="pref_camera_volumekey_function_entry_exposure">노출</string>
-    <string name="pref_camera_volumekey_function_title">볼륨 버튼 기능</string>
+    <string name="pref_camera_volumekey_function_title">볼륨 버튼 기능(사진 모드)</string>
+    <string name="pref_camera_volumekey_function2_title">볼륨 버튼 기능(동영상 모드)</string> 
     <string name="error_fail_to_start_audio_capture">오디오 캡쳐를 시작하지 못했습니다.</string>
     <string name="toast_start_audio_capture">사진 촬영시 셔터음 사용</string>
     <string name="record_back_pressed_hint">다시 터치하면 녹화 멈춤</string>
