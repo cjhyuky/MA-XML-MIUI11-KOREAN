@@ -1041,7 +1041,6 @@
     <string name="autozoom_disabled_hint">사물 추적 중단됨</string>
     <string name="autozoom_click_hint">추적을 시작하려면 사물을 누르세요. 최고의 효과를 내기 위해 최소 3미터 이상 떨어져있어야합니다.</string>
     <string name="beauty_body_slim_count_tip">체형 효과는 독사진에만 작동합니다</string>
-    <string name="beauty_body_legged">다리</string>
     <string name="camera_liveshot_on_tip">다이나믹 촬영 켜짐</string>
     <string name="camera_liveshot_off_tip">다이나믹 촬영 꺼짐</string>
     <string name="network_access_user_notice_title">인터넷 연결중</string>
