@@ -925,7 +925,7 @@
     <string name="accessibility_ultra_wide_off">광각 인물 모드 꺼짐</string>
     <string name="accessibility_ultra_wide_on">광각 인물 모드 켜짐</string>
     <string name="ai_scene_top_tip">달 모드</string>
-    <string name="beauty_tab_name_live_beauty">아름다움</string>
+    <string name="beauty_tab_name_live_beauty">뷰티효과</string>
     <string name="beauty_tab_name_live_filter">필터</string>
     <string name="custom_watermark_contains_senstive_words">%1$s 단어를 수정해주십시오.</string>
     <string name="custom_watermark_tips">이 텍스트는 카메라 워타마크 아래에 들어가는 문구입니다. 15자 내로 입력해 주십시오.</string>
