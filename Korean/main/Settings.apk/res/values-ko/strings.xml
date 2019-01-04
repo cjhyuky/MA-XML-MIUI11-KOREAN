@@ -1220,11 +1220,11 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="reset_app_preferences_title">앱 환경설정을 재설정하시겠습니까?</string>
     <string name="reset_app_preferences_desc">"이 작업을 수행하면
 
- "<li>사용 중지된 앱</li>"
- "<li>사용 중지된 앱 알림</li>"
- "<li>작업을 수행할 때 사용하는 기본 애플리케이션</li>"
- "<li>앱에 대한 백그라운드 데이터 제한</li>"
- "<li>그 밖의 권한 제한</li>"에 대한 모든 환경설정이 재설정됩니다.
+ "- 사용 중지된 앱"
+ "- 사용 중지된 앱 알림"
+ "- 작업을 수행할 때 사용하는 기본 애플리케이션"
+ "- 앱에 대한 백그라운드 데이터 제한"
+ "- 그 밖의 권한 제한에 대한 모든 환경설정이 재설정됩니다."
 
  앱 데이터는 손실되지 않습니다."</string>
     <string name="reset_app_preferences_button">앱 재설정</string>
