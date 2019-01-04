@@ -923,7 +923,7 @@
     <string name="accessibility_camera_ultra_wide_bokeh_off">광각 인물 모드 꺼짐</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">광각 인물 모드 켜짐</string>
     <string name="accessibility_ultra_wide_off">광각 인물 모드 꺼짐</string>
-    <string name="accessibility_ultra_wide_on">각 인물 모드 켜짐</string>
+    <string name="accessibility_ultra_wide_on">광각 인물 모드 켜짐</string>
     <string name="ai_scene_top_tip">달 모드</string>
     <string name="beauty_tab_name_live_beauty">아름다움</string>
     <string name="beauty_tab_name_live_filter">필터</string>
