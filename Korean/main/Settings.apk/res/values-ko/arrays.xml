@@ -1291,4 +1291,8 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>애니메이션 표시</item>
         <item>"화면 깨우지 않기"</item>
     </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>기본값</item>
+        <item>컴팩트</item>
+    </string-array>
 </resources>
