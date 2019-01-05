@@ -7178,7 +7178,8 @@ PIN 설정"</string>
     <string name="enterprise_mode">엔터프라이즈 모드</string>
     <string name="status_bar_settings_expand_top_notification">상단 알림창 확장</string>
     <string name="status_bar_settings_notification_use_app_icon">알림시 앱 아이콘 사용</string>
-    <string name="delete_sound_effect">\"삭제\" 효과음</string>
+    <string name="default_vol_stream_title">기본 볼륨조절 항목</string>
+    <string name="delete_sound_effect">삭제 효과음</string>
     <string name="keyguard_security_setting_others">기타 설정</string>
     <string name="keyguard_security_setting_privacy_policy">개인정보 보호정책</string>
     <string name="sccret_code_error">입력한 코드가 잘못되었습니다.</string>
