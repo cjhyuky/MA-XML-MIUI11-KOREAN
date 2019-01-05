@@ -7915,4 +7915,5 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="work_sound_permission_dialog_button_text_known">확인</string>
     <string name="work_sound_permission_dialog_message">"엔터프라이즈 모드에서는 테마를 사용할 수 없습니다. 관리자에게 문의하여 엑세스하세요."</string>
     <string name="work_sound_permission_dialog_title">엔터프라이즈 모드 제한</string>
+    <string name="status_bar_settings_qs_layout">빠른 설정 레이아웃</string>
 </resources>
