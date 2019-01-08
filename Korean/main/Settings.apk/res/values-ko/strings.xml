@@ -6926,7 +6926,7 @@ PIN 설정"</string>
     <string name="storage_wizard_init_v2_internal_title">외부 휴대폰 저장소 사용</string>
     <string name="storage_wizard_init_v2_later">나중에 설정</string>
     <string name="storage_wizard_init_v2_or">또는</string>
-    <string name="storage_wizard_init_v2_title">어떻게 ^1를 사용하시겠습니까?</string>
+    <string name="storage_wizard_init_v2_title">^1 사용방법</string>
     <string name="storage_wizard_migrate_progress_v2_title">컨텐츠 이동중…</string>
     <string name="storage_wizard_migrate_v2_body">"파일, 미디어 및 특정 앱을 이 ^1로 이동할 수 있습니다. 이 이동으로 휴대 전화의 저장 공간이 ^2 생겼으며 ^3 정도 걸립니다."</string>
     <string name="storage_wizard_migrate_v2_checklist">이동하는 동안:</string>
