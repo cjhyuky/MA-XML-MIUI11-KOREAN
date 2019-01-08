@@ -1052,7 +1052,6 @@
     <string name="accessibility_ultra_pixel_photography_48mp_on">48MP 켜짐</string>
     <string name="hand_gesture_open_tip">손바닥을 넓히고 카운트 다운을 시작하세요</string>
     <string name="hand_gesture_tip">제스쳐 포토</string>
-    <string name="network_access_user_notice_title">인터넷 연결중</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">720p 비디오를 960프레임으로 촬영할 수 있습니다</string>
     <string name="ultra_pixel_photography_32mp_close_tip">32MP 꺼짐</string>
     <string name="ultra_pixel_photography_32mp_open_tip">32MP 켜짐</string>
