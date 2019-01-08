@@ -7917,4 +7917,10 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="work_sound_permission_dialog_message">"엔터프라이즈 모드에서는 테마를 사용할 수 없습니다. 관리자에게 문의하여 엑세스하세요."</string>
     <string name="work_sound_permission_dialog_title">엔터프라이즈 모드 제한</string>
     <string name="status_bar_settings_qs_layout">빠른 설정 레이아웃</string>
+    <string name="eq_return">돌아가기</string>
+    <string name="page_layout_confirm_message_enlarge">텍스트, 이미지 및 아이콘이 확대됩니다. 일부 아이콘은 위치가 변경될 수 있습니다.</string>
+    <string name="page_layout_confirm_message_narrow">텍스트, 이미지 및 아이콘이 더 작아집니다. 일부 아이콘은 위치가 변경될 수 있습니다.</string>
+    <string name="page_layout_confirm_title_enlarge">더 큰 항목</string>
+    <string name="page_layout_confirm_title_narrow">더 작은 항목</string>
+    <string name="screen_optimize_disabled">"읽기 모드 사용시에는 대비를 조절할 수 없습니다"</string>
 </resources>
