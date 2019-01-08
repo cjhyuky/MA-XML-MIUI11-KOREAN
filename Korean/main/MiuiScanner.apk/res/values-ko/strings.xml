@@ -264,4 +264,17 @@
     <string name="plant_reg_fail_2">"사물 인식 실패. 스캐너는 식물만 식별가능합니다."</string>
     <string name="plant_support">"(기술 지원)"</string>
     <string name="plant_title">식별하고 싶은 식물을 스캔하세요</string>
+    <string name="about_title">정보</string>
+    <string name="business_card_result_title">사업카드</string>
+    <string name="choose_pay_title">지불 방법 선택</string>
+    <string name="no_support_to_translate_type">"이 언어는 지원되지 않습니다"</string>
+    <string name="scan_support_type">위챗, 알리페이, QR코드, 바코드</string>
+    <string name="setting_alipay">알리페이</string>
+    <string name="setting_choose_every_time">항상 묻기</string>
+    <string name="setting_default_function">기본 기능</string>
+    <string name="setting_preference_pay">선호하는 지불 방법</string>
+    <string name="setting_title">설정</string>
+    <string name="setting_use_last_choose">이전 선택 기억하기</string>
+    <string name="setting_wechat">위챗</string>
+    <string name="to_pay">결재 완료</string>
 </resources>
