@@ -870,4 +870,12 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="sar_sensor_collect_data_test_summary">"실시간 각도가 130도에서 140도 사이가되도록 전화기를 회전합니다.
 휴대 전화에서 다른 손을 멀리하십시오. 데이터 수집 시작 버튼을 클릭하십시오.
 성공을 보정 한 후에는 CS0i와 CS1의 절대 값이 200보다 작고 CS1의 값이 300보다 크다는 것을 관찰하십시오. 다섯 번 연속해서, 다른 손이 휴대 전화의 바닥에 가깝습니다. CS0의 값은 다음과 같습니다. 3000에서 30000사이의 3번 연속으로 버튼으로 강조 표시되면 통과 버튼이 강조 표시됩니다"</string>   
+  <string name="pop_camera">팝업 카메라</string>
+  <string name="pop_push_camera_test_summary">"팝업 카메라 버튼을 클릭하여 카메라가 나왔는지 확인하십시오
+카메라 푸시 버튼을 클릭하여 카메라를 불러오세요"</string>
+  <string name="pop_push_camera_test_title">팝업과 카메라 푸시 테스트</string>
+  <string name="push_camera">카메라 푸시</string>
+  <string name="sar_sensor_collect_test_summary">"전화를 돌려 고정 장치에 놓습니다.
+데이터 수집 시작 버튼을 클릭하십시오.
+사물을 전화기에서 가깝게 두고 컨트롤하십시오"</string>
 </resources>
