@@ -2720,4 +2720,8 @@ SMS 전송"</string>
     <string name="notify_channel_optimize">보안 알림</string>
     <string name="app_manager_full_screen_summary">선택한 앱에서 전체화면 모드 허용하기</string>
     <string name="app_manager_full_screen_title">전체화면 모드</string>
+    <string name="traffic_setting_fragment_title_guide">통신사와 데이터 요금제</string>
+    <string name="traffic_usage_warning_body">"이미 이번달에 %s 용량의 데이터를 사용하셨습니다."</string>
+    <string name="traffic_usage_warning_limit">데이터 사용량 경고</string>
+    <string name="traffic_usage_warning_title">데이터 사용 경고</string>
 </resources>
