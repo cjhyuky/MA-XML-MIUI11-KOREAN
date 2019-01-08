@@ -6920,7 +6920,7 @@ PIN 설정"</string>
     <string name="storage_wizard_format_confirm_v2_title">^1 포맷할까요?</string>
     <string name="storage_wizard_init_v2_external_action">휴대용 저장장치</string>
     <string name="storage_wizard_init_v2_external_summary">기기간 파일 및 미디어 전송용</string>
-    <string name="storage_wizard_init_v2_external_title">휴대옹 저장장치 사용</string>
+    <string name="storage_wizard_init_v2_external_title">휴대용 저장장치 사용</string>
     <string name="storage_wizard_init_v2_internal_action">내부 저장소</string>
     <string name="storage_wizard_init_v2_internal_summary">전화 내부에만 앱, 파일 미디어를 보관</string>
     <string name="storage_wizard_init_v2_internal_title">외부 휴대폰 저장소 사용</string>
