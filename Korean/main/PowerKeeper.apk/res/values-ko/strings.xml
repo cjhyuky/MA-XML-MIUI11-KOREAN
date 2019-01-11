@@ -242,4 +242,8 @@
     <string name="notification_open_extreme_mode_text">배터리 세이버 켜기</string>
     <string name="adaptive_battery_summary">"자주 사용하지 않는 앱의 배터리 제한"</string>
     <string name="adaptive_battery_title">적응형 배터리 사용</string>
+    <string name="dark_mode">다크 모드</string>
+    <string name="dark_mode_summary">어두운 컬러로 전환하여 배터리를 절약합니다</string>
+    <string name="open_dark_mode">다크 모드로 전환</string>
+    <string name="open_dark_mode_tip">다크 모드에서는 일부 기능의 표시 품질이 떨어질 수 있습니다. 다크 모드를 종료하면 정상으로 복원됩니다. 지금 다크 모드로 전환하시겠습니까?</string>
 </resources>
