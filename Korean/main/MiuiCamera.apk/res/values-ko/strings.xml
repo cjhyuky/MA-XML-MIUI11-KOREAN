@@ -956,7 +956,7 @@
     <string name="live_speed_extreme_fast">가장 빠름</string>
     <string name="live_speed_extreme_slow">가장 느림</string>
     <string name="live_speed_fast">빠름</string>
-    <string name="live_speed_fragment_tab_name">속도</string>
+    <string name="live_speed_fragment_tab_name">녹화 속도</string>
     <string name="live_speed_normal">보통</string>
     <string name="live_speed_slow">느림</string>
     <string name="module_name_professional">전문가</string>
@@ -1058,4 +1058,5 @@
     <string name="ultra_pixel_photography_48mp_close_tip">48MP 꺼짐</string>
     <string name="ultra_pixel_photography_48mp_open_tip">48MP 켜짐</string>
     <string name="zoom_no_support_tip_48M">48mp 슈퍼 클리어 모드에서는 줌 기능을 제공하지 않습니다</string>
+    <string name="accessibility_pull_down_to_open_camera">아래로 끌어내려 카메라 켜기</string>
 </resources>
