@@ -120,5 +120,6 @@
     <string name="group_name_family">가족</string>
     <string name="group_name_friends">친구</string>
     <string name="device_poco_global">포코폰</string>
-    <string name="device_poco_india">POCO PHONE</string>
+    <string name="device_poco_india">포코폰</string>
+    <string name="dewdrops">우물</string> 
 </resources>
