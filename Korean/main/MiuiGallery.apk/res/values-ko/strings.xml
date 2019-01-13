@@ -1414,8 +1414,6 @@
     <string name="filter_people_sepia">세피아</string>
     <string name="filter_people_tea">차</string>
     <string name="album_notes">메모장</string>
-    <string name="auto_upload_before_share_title">힌트</string>
-    <string name="by_sms">문자</string>
     <string name="card_title_pastyear_activities">작년 이벤트</string>
     <string name="card_title_pastyear_party">작년 파티</string>
     <string name="card_title_pastyear_sports">작년 운동</string>
@@ -1428,10 +1426,6 @@
     <string name="collage_drawable_normal_date_format">yyyy/MM/dd</string>
     <string name="collage_drawable_rect_date_month_day">MMM dd</string>
     <string name="collage_drawable_rect_date_year">yyyy</string>
-    <string name="collage_poster_global_dream_text">꿈</string>
-    <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Q존</string>
-    <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">웨이보</string>
-    <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">위챗</string>
     <string name="empty_description_conditions">중요한 이야기를 기억하세요</string>
     <string name="empty_description_no_cards">중요한 이야기를 기억하세요</string>
     <string name="filter_bi_bw">흑백</string>
@@ -1439,11 +1433,6 @@
     <string name="filter_bi_lilt">느슨함</string>
     <string name="filter_bi_sepia">세피아</string>
     <string name="filter_bi_tea">차</string>
-    <string name="filter_food_barbecue">바베큐</string>
-    <string name="filter_people_tea">차</string>
-    <string name="is">예</string>
-    <string name="mark_myself_default_name">나</string>
-    <string name="messagelist_sender_self">나</string>
     <string name="motion_photo_play">재생</string>
     <string name="movie_add_disable">최대 20개의 사진을 선택할 수 있습니다</string>
     <string name="movie_audio_custom">로컬</string>
@@ -1492,20 +1481,8 @@
     <string name="movie_template_xmas">크리스마스</string>
     <string name="movie_video_long">긴 비디오</string>
     <string name="movie_video_short">10초 비디오</string>
-    <string name="photomovie_audio_linear">락</string>
-    <string name="photo_editor_miui_beauty_menu_skin_white">톤</string>
-    <string name="photo_editor_talkback_crop_16_9">16:9</string>
-    <string name="photo_editor_talkback_crop_1_1">1:1</string>
-    <string name="photo_editor_talkback_crop_3_4">3:4</string>
-    <string name="photo_editor_talkback_crop_4_3">4:3</string>
-    <string name="photo_editor_talkback_crop_9_16">9:16</string>
-    <string name="photo_editor_talkback_doodle_circular">원</string>
-    <string name="photo_editor_talkback_doodle_line">선</string>
     <string name="photo_movie_module_finish">클립 로드 완료</string>
     <string name="photo_movie_module_loading">클립 로딩중…</string>
-    <string name="remover_edit_type_line">선</string>
-    <string name="search_mark_feedback_false_negative_title">확인</string>
-    <string name="sticker_spring">봄</string>
     <string name="story_back_stop_download">다운로드를 중단하시려면 다시 탭하세요</string>
     <string name="story_cancel_download">취소</string>
     <string name="story_download">다운로드</string>
@@ -1514,9 +1491,4 @@
     <string name="story_download_without_wifi_title">데이터 사용량 경고</string>
     <string name="story_option_menu_delete">스토리 삭제</string>
     <string name="story_photo_downloading">다운로드중…</string>
-    <string name="video_editor_audio_rock">락</string>
-    <string name="video_editor_filter_moon">달</string>
-    <string name="video_editor_filter_nuancha">티</string>
-    <string name="video_editor_template_sports">락</string>
-    <string name="yes">네</string>
 </resources>
