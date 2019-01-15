@@ -188,4 +188,14 @@
         <item>라디오 로그 버퍼를 제외한 전체</item>
         <item>커널 로그버퍼만</item>
     </string-array>
+    <string-array name="data_type_name_default">
+        <item></item>
+        <item>G</item>
+        <item>E</item>
+        <item>3G</item>
+        <item>H</item>
+        <item>H+</item>
+        <item>4G</item>
+        <item>4G+</item>
+    </string-array> 
 </resources>
