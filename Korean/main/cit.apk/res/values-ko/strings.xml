@@ -886,4 +886,6 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="sar_off">Sar 꺼짐</string>
   <string name="sar_on">Sar 켜짐</string>
   <string name="set_dsi_tips">DSI 설정</string>
+  <string name="cit_tof_sensor_check_summary">TOF값이 아래에 나타나야 합니다</string>
+  <string name="cit_tof_sensor_check_title">Tof센서</string>
 </resources>
