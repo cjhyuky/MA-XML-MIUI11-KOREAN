@@ -34,7 +34,7 @@
     <string name="buy_claim_ps">자세한 내용은 이 사항을 읽어주세요</string>
     <string name="buy_claim_terms">이용 약관 &amp; 조건 *</string>
     <string name="buy_confirm">동의 &amp; 보호 구입</string>
-    <string name="buy_insurance_desc">새 장치 만</string>
+    <string name="buy_insurance_desc">원어시스트 제공</string>
     <string name="buy_privacy_agree">계속</string>
     <string name="buy_privacy_title">면책 조항</string>
     <string name="buy_recycle_desc">Cashify가 제공하는</string>
@@ -116,7 +116,7 @@
     <string name="instant_bank_transfer">즉시 은행 송금</string>
     <string name="insurance_button">보험</string>
     <string name="insurance_description">보험에서 추가 수리를 제공합니다.</string>
-    <string name="insurance_entrance">Mi 프로텍트 - 핸드셋 보호</string>
+    <string name="insurance_entrance">새로운 기기를 위한 Mi프로텍트</string>
     <string name="item_name_battery">배터리</string>
     <string name="item_name_bluetooth">블루투스</string>
     <string name="item_name_frontcamera">전면 카메라</string>
@@ -153,11 +153,12 @@
     <string name="password_toggle_content_description">토글 비밀번호 표시</string>
     <string name="postal_code">우편 번호</string>
     <string name="powered_by_cashify">전원 공급 장치</string>
-    <string name="push_ht_content">보안을 열고 스크롤 다운하여 하드웨어를 테스트하십시오.</string>
-    <string name="push_ht_title">보안의 새로운 기능 확인</string>
+    <string name="push_ht_content">기기 상태에 대해 알아보기</string>
+    <string name="push_ht_title">하드웨어 테스트</string>
     <string name="push_oa_content">연장 보증을 사용하여 장치 보호</string>
     <string name="push_oa_title">Mi 프로텍트</string>
-    <string name="quote_upto_price">굉장합니다! 귀하의 장치는 여전히 양호한 상태이며 가치가 있습니다. Rs까지 나가세요. %s</string>
+    <string name="quote_upto_price">좋습니다! 기기가 여전히 좋은 컨디션을 유지하고 있습니다. Rs를 여세요. %s.
+기기 가격은 변경 될 수 있습니다. 최고의 값을 받을 수 있도록 휴대폰을 판매하십시오.</string>
     <string name="recycle_button">재활용</string>
     <string name="recycle_description">이전 전화를 재활용하여 가격을 높이십시오.</string>
     <string name="recycle_entrance">Cashify 재활용</string>
