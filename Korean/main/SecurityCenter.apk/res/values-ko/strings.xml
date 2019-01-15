@@ -996,8 +996,8 @@ SMS 전송"</string>
     <string name="battery_temperature_title">온도</string>
     <string name="battery_capacity_title">배터리 용량</string>
     <string name="battery_charge_full">충전됨</string>
-    <string name="battery_charge_estimating">계산 중…</string>
-    <string name="battery_charging_prompt">충전 중</string>
+    <string name="battery_charge_estimating">계산중</string>
+    <string name="battery_charging_prompt">충전중</string>
     <string name="deep_save_memory_clean_summary">앱의 전력 소모를 방지하기 위해 기기 잠금시 캐시 지우기</string>
     <string name="btn_text_open_now">켜기</string>
     <string name="btn_text_already_opened">켜짐</string>
@@ -2514,7 +2514,7 @@ SMS 전송"</string>
     <string name="extreme_power_save_mode_card_summary">배터리가 부족할 때 절전 모드를 켜십시오.</string>
     <string name="extreme_power_save_mode_title">배터리 세이버</string>
     <string name="firewall_wifi">Wi-Fi</string>
-    <string name="first_aid_activity_title">응급 처치</string>
+    <string name="first_aid_activity_title">문제 해결하기</string>
     <string name="first_aid_card_airplane_button">끄기</string>
     <string name="first_aid_card_airplane_summary">전화를 걸고 네트워크에 연결할 수 있도록 비행기 모드를 끕니다</string>
     <string name="first_aid_card_airplane_title">"전화를 걸거나 네트워크에 연결할 수 없습니다"</string>
@@ -2641,9 +2641,9 @@ SMS 전송"</string>
     <string name="see_more_content">더 많은 하이라이트를 보려면 게임 센터를 업데이트하십시오.</string>
     <string name="sp_settings_check_item_title_root">루트</string>
     <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
-    <string name="summary_first_aid_kit">우리의 긴급 처치 앱을 사용하여 오류를 고치세요</string>
+    <string name="summary_first_aid_kit">지금 기기의 문제를 해결하세요</string>
     <string name="tab_sms">문자</string>
-    <string name="title_first_aid_kit">응급 처치</string>
+    <string name="title_first_aid_kit">문제 해결하기</string>
     <string name="title_like">좋아요</string>
     <string name="title_reply">댓글</string>
     <string name="two_address_choose_hint">%1$s와 %2$s</string>
