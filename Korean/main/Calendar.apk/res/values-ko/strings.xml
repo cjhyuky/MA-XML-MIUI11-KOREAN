@@ -644,4 +644,10 @@
     <string name="train_event_station_header_name">역 이름</string>
     <string name="train_event_station_header_stay_time">숙박</string>
     <string name="train_event_station_stay_time">%1$s분</string>
+    <string name="city_limit_back_icon_tip">캘린더 홈페이지로 돌아가기</string>
+    <string name="city_limit_set_icon_tip">알리미 설정</string>
+    <string name="lottery_blue_ball_tip">파란공</string>
+    <string name="lottery_red_ball_tip">빨간공</string>
+    <string name="select_today_tip">오늘</string>
+    <string name="today_icon_voice_contentdescription">오늘로 돌아가기</string>
 </resources>
