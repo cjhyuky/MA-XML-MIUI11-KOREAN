@@ -878,4 +878,12 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="sar_sensor_collect_test_summary">"전화를 돌려 고정 장치에 놓습니다.
 데이터 수집 시작 버튼을 클릭하십시오.
 사물을 전화기에서 가깝게 두고 컨트롤하십시오"</string>
+  <string name="dsi_sar_on_off_tips">Dsi Sar 켜짐/꺼짐 스위치</string>
+  <string name="receiver_off">리시버 꺼짐</string>
+  <string name="receiver_on">리시버 켜짐</string>
+  <string name="receiver_on_off_tips">리시버 켜짐/꺼짐 스위치</string>
+  <string name="sar_authentation_test_title">Sar 인증 테스트</string>
+  <string name="sar_off">Sar 꺼짐</string>
+  <string name="sar_on">Sar 켜짐</string>
+  <string name="set_dsi_tips">DSI 설정</string>
 </resources>
