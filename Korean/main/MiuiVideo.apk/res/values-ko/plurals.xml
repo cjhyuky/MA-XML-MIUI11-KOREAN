@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="plurals" name="public_static_final_host_plurals1">패딩</item>
+    <plurals name="comment_count">
+        <item quantity="other">%d개 댓글</item>
+    </plurals>
+    <plurals name="comment_sub_count">
+        <item quantity="other">%d개 답글</item>
+    </plurals>
+    <plurals name="comment_view_all_comment">
+        <item quantity="other">%d개 댓글 모두 보기</item>
+    </plurals>
+    <plurals name="downloading_task_num">
+        <item quantity="other">%d개 파일</item>
+    </plurals>
+    <plurals name="favor_short_selected_counts">
+        <item quantity="other">%1$s개 항목 선택됨</item>
+    </plurals>
+    <plurals name="finish_item_all_counts">
+        <item quantity="other">%1$s개 비디오</item>
+    </plurals>
+    <plurals name="notification_sub_title">
+        <item quantity="other">%d개 파일 다운로드 완료</item>
+    </plurals>
+    <plurals name="offline_num">
+        <item quantity="other">%d개 파일</item>
+    </plurals>
+    <plurals name="offline_num_title">
+        <item quantity="other">(에피소드 %d)</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">%.1f 초전 자막이 이동되었습니다</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">자막이 %.1f초 정도 딜레이가 있습니다</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">사이즈: %.2fKB</item>
+    </plurals>
+    <plurals name="updated_already">
+        <item quantity="other">%d개 항목 업데이트 됨</item>
+    </plurals>
+    <plurals name="v_cache_videos">
+        <item quantity="other">%d개의 임시저장된 비디오</item>
+    </plurals>
+    <plurals name="v_coin_show">
+        <item quantity="other">%d 코인</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d개 비디오</item>
+    </plurals>
+    <plurals name="video_pre_play_tip">
+        <item quantity="other">%1$d-분 미리보기가 가능합니다. 풀버전을 보시려면, &lt;Data>&lt;font color=#ffa201>바로 구입하세요&lt;/font>&lt;/Data>.</item>
+    </plurals>
+</resources>
