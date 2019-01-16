@@ -4,16 +4,16 @@
         <item quantity="other">%d 에피소드</item>
     </plurals>
     <plurals name="update_to_count_ji">
-        <item quantity="other">Updated to Ep. %d</item>
+        <item quantity="other">에피소드. %d화로 업데이트됨</item>
     </plurals>
     <plurals name="count_qi">
-        <item quantity="other">Ep. %s</item>
+        <item quantity="other">에피소드. %s</item>
     </plurals>
     <plurals name="count_ge_media">
         <item quantity="other">%d개 동영상</item>
     </plurals>
     <plurals name="di_count_ji">
-        <item quantity="other">Ep. %d</item>
+        <item quantity="other">에피소드. %d</item>
     </plurals>
     <plurals name="addon_install_complete_disc">
         <item quantity="other">%s개의 애드온이 설치됨, /\"내 동영상\"/에서 확인 가능</item>
@@ -28,9 +28,9 @@
         <item quantity="other">%d개 항목</item>
     </plurals>
     <plurals name="episode_suffix">
-        <item quantity="other">\"Ep. %d \"</item>
+        <item quantity="other">\"에피소드. %d \"</item>
     </plurals>
     <plurals name="vp_offline_title_name">
-        <item quantity="other">Episode %d</item>
+        <item quantity="other">에피소드 %d</item>
     </plurals>
 </resources>
