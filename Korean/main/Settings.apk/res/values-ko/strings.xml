@@ -7923,4 +7923,6 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="page_layout_confirm_title_enlarge">더 큰 항목</string>
     <string name="page_layout_confirm_title_narrow">더 작은 항목</string>
     <string name="screen_optimize_disabled">"읽기 모드 사용시에는 대비를 조절할 수 없습니다"</string>
+    <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">블루투스 오디오 aptX 적용 모드</string>
+    <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"블루투스 오디오에 aptX-적용: 코덱 모드"</string>
 </resources>
