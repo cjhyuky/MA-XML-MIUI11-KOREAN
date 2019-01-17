@@ -1164,4 +1164,13 @@
     <string name="notify_channel_no_disterb">방해금지 모드</string>
     <string name="privacy_des">로그 정보에는 이메일에서 수집한 디버깅 정보와 장치 정보가 들어있습니다. 샤오미￦의 %2$s 사항을 읽고 동의하시면 아래의 %1$s 내용을 선택하세요.</string>
     <string name="notify_channel_service">백그라운드 동기화 알림</string>
+    <string name="appraise_des">우리는 귀하의 만족을 위해서 제품 개발을 열심히 하고 있습니다. 의견을 보내 주시길 바랍니다.</string>
+    <string name="appraise_good">칭찬과 격려</string>
+    <string name="appraise_ignore">임시 평가</string>
+    <string name="appraise_negative">부정적인 의견</string>
+    <string name="have_auth_code">코드로 로그인</string>
+    <string name="help_me_get_qq_auth">QQ 인증 코드를 얻도록 도와주십시오.</string>
+    <string name="open_androidp_warning">오픈 9.0 비공식 SDK 경고</string>
+    <string name="qq_login_notice">경고 팁 : 독립 암호를 설정한 경우 사서함에 대한 정보를 확인하기 위해 독립적인 암호를 입력해야합니다.</string>
+    <string name="qq_pwd_or_qq_auth_code">QQ 인증 코드 또는 사서함 암호</string>
 </resources>
