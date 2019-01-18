@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="already_registered">이미 등록되어있습니다, 무시하세요!</string>
+    <string name="check_error">체크 에러, 등록 실패!</string>
+    <string name="decode_error">디코딩 에러, 등록 실패!</string>
+    <string name="register_failed">등록 실패!</string>
+    <string name="register_success">등록 완료!</string>
+</resources>
