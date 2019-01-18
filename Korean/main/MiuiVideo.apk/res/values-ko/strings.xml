@@ -855,7 +855,6 @@
     <string name="operate_message_item_dialog_reply">답글</string>
     <string name="operate_message_item_dialog_video">\"%s\" 보기</string>
     <string name="passport_error_empty_captcha_code">여권의 Captcha코드를 입력하세요</string>
-    <string name="passport_user_agreement_p3"> 그리고 </string>
     <string name="pausedownload">멈춤</string>
     <string name="portrait_speed_title">재생 속도</string>
     <string name="portrait_speed_toast">%s배속으로 재생중…</string>
