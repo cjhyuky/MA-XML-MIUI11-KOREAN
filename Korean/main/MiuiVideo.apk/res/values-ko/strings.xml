@@ -736,12 +736,8 @@
     <string name="ai_music_save_success">저장 완료</string>
     <string name="ai_music_saved">저장 완료</string>
     <string name="airkan_device_my_phone">나의 휴대전화</string>
-    <string name="airkan_playing">%s 방송중</string>
-    <string name="alert_dialog_download_confirm">%1s 여시겠습니까?</string>
     <string name="alert_dialog_download_install_live_plugin_task">설치중</string>
     <string name="alert_dialog_download_live_plugin">플러그인 다운로드중:</string>
-    <string name="alert_dialog_download_prepare">%1s 여는 준비중…</string>
-    <string name="alert_dialog_download_progress">%1s 여는중:</string>
     <string name="all_content_nums">(%d 에피소드)</string>
     <string name="cannot_support_speed">이 영상은 재생속도를 변경할 수 없습니다</string>
     <string name="daily_tasks">일일 미션</string>
@@ -887,13 +883,11 @@
     <string name="t_name_empty">이름을 입력하세요</string>
     <string name="t_tel_wrong">전화 번호 형식이 잘못되었습니다</string>
     <string name="t_wx_uninstalled">위챗을 먼저 설치하세요</string>
-    <string name="toast_downloading">%1s 여는중…</string>
     <string name="toast_gprs_network">모바일 데이터를 사용하여 동영상을 스트리밍중…</string>
     <string name="toast_operate_message_delete_success">삭제 완료</string>
     <string name="toast_remind_clean_room">공간을 비우고 다시 시도하십시오</string>
     <string name="toast_remind_no_enough_room_and_stop_task">저장 공간이 충분하지 않습니다. 진행중인 다운로드를 일시 중지했습니다.</string>
     <string name="toast_remind_path_invalid">오류가 발생했습니다. 진행중인 다운로드를 삭제하고 다시 시도하십시오.</string>
-    <string name="toast_start_download">%1s 항목을 여는중…</string>
     <string name="unfinished_offline_all_start_text">모두 시작</string>
     <string name="unfinished_offline_all_stop_text">모두 멈춤</string>
     <string name="unfinished_offline_network_disable">네트워크에 연결하고 다시 시도하십시오.</string>
