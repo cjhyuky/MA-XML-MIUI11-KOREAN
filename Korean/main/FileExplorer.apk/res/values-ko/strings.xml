@@ -823,4 +823,5 @@
     <string name="not_support_documentui">"문서UI가 이 장치에서 지원되지 않습니다."</string>
     <string name="request_document_permission">SD 카드의 파일을 관리하려면 파일 관리자에 필요한 권한을 부여하십시오.</string>
     <string name="request_document_permission_title">권한이 필요함</string>
+    <string name="menu_set_wallpaper">배경화면으로 설정</string>
 </resources>
