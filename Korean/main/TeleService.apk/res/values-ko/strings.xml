@@ -2484,5 +2484,16 @@
     <string name="zen_mode_settings_turn_on_dialog_title">방해 금지 모드 켜기</string>
     <string name="sip_account_disable">"이 계정은 비활성화되어 있습니다. 전화를 받을 수 없습니다."</string>
     <string name="sip_receive_call_disable">"전화 수신 불가. 전화 수신 권한을 먼저 허용하세요."</string>
-    
+    <string name="vowifi_emergency_notification_channel">와이파이 콜 긴급 경고</string>
+    <string name="vowifi_emergency_notification_content">긴급전화는 휴대전화 사용가능지역에서만 사용할 수 있습니다.</string>
+    <string name="vowifi_emergency_notification_title">Vodafone 와이파이 통화</string>
+    <string name="vowifi_emergency_warning_check">"다시 보지 않기."</string>
+    <string name="vowifi_emergency_warning_message">"와이파이 통화로 긴급통화를 할 수 없습니다.
+
+장치는 자동으로 셀룰러 네트워크 (2G/3G)로 전환되어 비상전화를 걸 수 있습니다.
+
+긴급전화는 휴대 전화 서비스 지역에서만 가능합니다."</string>
+    <string name="vowifi_emergency_warning_title">와이파이콜로 ECC 콜 사용</string>
+    <string name="wifi_call_setting_vodafone_de">와이파이콜 연결중</string>
+    <string name="wifi_call_setting_vodafone_uk">와이파이콜</string>    
 </resources>
