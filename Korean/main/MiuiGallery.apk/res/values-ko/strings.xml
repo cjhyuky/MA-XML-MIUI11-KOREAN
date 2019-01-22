@@ -1404,8 +1404,8 @@
     <string name="card_title_monthly_foods">맛있어요!</string>
     <string name="card_title_monthly_pets">발자국</string>
     <string name="card_title_party">파티</string>
-    <string name="alert_selection_description">AI는 비슷한 이미지 중에서 스타가 있는 최고의 사진을 표시합니다.</string>
-    <string name="alert_selection_title">AI로 선택</string>
+    <string name="alert_selection_description">MIUI가 비슷한 사진들을 감지하여 베스트샷에 표시를 해드릴 것입니다.</string>
+    <string name="alert_selection_title">베스트샷 선택</string>
     <string name="backup_file_over_size_desc">"%1$s보다 큰 사진과 %2$s보다 큰 영상은 백업할 수 없습니다."</string>  
     <string name="collage_ratio_text">화면 비율</string> 
     <string name="collage_title_stitching">필름 롤</string>
@@ -1491,4 +1491,21 @@
     <string name="story_download_without_wifi_title">데이터 사용량 경고</string>
     <string name="story_option_menu_delete">스토리 삭제</string>
     <string name="story_photo_downloading">다운로드중…</string>
+    <string name="download_with_metered_network_msg">원본 파일을 다운로드하면 추가 이동 통신사 요금이 발생할 수 있습니다. 어쨌든 다운로드 하시겠습니까?</string>
+    <string name="download_with_metered_network_title">"유료 네트워크에 연결되었습니다"</string>
+    <string name="movie_download_with_metered_network_msg">원본 파일을 다운로드하면 추가 이동 통신사 요금이 발생할 수 있습니다. 어쨌든 다운로드 하시겠습니까?</string>
+    <string name="movie_download_with_metered_network_title">"유료 네트워크에 연결되었습니다"</string>
+    <string name="video_editor_download_with_metered_network_msg">원본 파일을 다운로드하면 추가 이동 통신사 요금이 발생할 수 있습니다. 어쨌든 다운로드 하시겠습니까?</string>
+    <string name="video_editor_download_with_metered_network_title">"유료 네트워크에 연결되었습니다"</string>
+    <string name="month_view_tip_button_text">확인</string>
+    <string name="month_view_tip_sub_title">월별 보기로 전환하려면 화면을 확대하세요</string>
+    <string name="month_view_tip_title">월별 보기</string>
+    <string name="photo_editor_font_default">Mi 랜팅(보통)</string>
+    <string name="photo_font_cancel_download">취소</string>
+    <string name="photo_font_download">다운로드</string>
+    <string name="photo_font_download_failed_for_notwork">"다운로드 실패. 네트워크 연결 후 다시 시도하세요."</string>
+    <string name="photo_font_download_without_wifi_msg">"모바일 데이터 연결을 사용하여 파일을 다운로드하면 데이터 사용량이 증가합니다. 계획의 데이터 한도를 초과하면 이동 통신사에서 추가 요금을 청구 할 수 있습니다."</string>
+    <string name="photo_font_download_without_wifi_title">데이터 사용량 경고</string>
+    <string name="text_tab_bubble">비누방울</string>
+    <string name="text_tab_watermark">워터마크</string>
 </resources>
