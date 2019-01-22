@@ -331,4 +331,7 @@
     <plurals name="show_modem_logcat_countdown">
         <item quantity="other">모뎀 기록을 가져올 수 있기까지 %1$d단계 남았습니다</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s 시간 %2$s"</item>
+    </plurals>
 </resources>
