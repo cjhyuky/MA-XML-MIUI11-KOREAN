@@ -1937,4 +1937,5 @@
     <string name="aspect_title">전체화면 모드</string>
     <string name="gxzw_long_press_tip"/>
     <string name="face_unlock_not_roi">프레임안에 얼굴을 두세요</string>
+    <string name="switch_system_user">메인 공간으로 돌아가기</string>
 </resources>
