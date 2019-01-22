@@ -7925,4 +7925,15 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="screen_optimize_disabled">"읽기 모드 사용시에는 대비를 조절할 수 없습니다"</string>
     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">블루투스 오디오 aptX 적용 모드</string>
     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"블루투스 오디오에 aptX-적용: 코덱 모드"</string>
+    <string name="aod_mode_bg">백그라운드</string>
+    <string name="aod_mode_clock">시계</string>
+    <string name="aod_mode_style">시계 스타일과 백그라운드</string>
+    <string name="aod_mode_summary">화면이 꺼지면 시간, 날짜 그리고 메시지를 표시합니다.</string>
+    <string name="aod_sample_date">5월 10일 화요일</string>
+    <string name="dark_color_mode">다크 모드</string>
+    <string name="dark_color_summary">시스템 백그라운드와 앱 호환성을 위해 더 어두운 색상조합을 사용합니다</string>
+    <string name="open_dark_mode_dialog_summary">"특정 디스플레이 설정은 다크 모드와 호환되지 않지만 다크 모드를 해제하면 복원됩니다. 다크 모드를 켜시겠습니까?"</string>
+    <string name="open_dark_mode_dialog_title">다크 모드 호환성</string>
+    <string name="screen_cancel">취소</string>
+    <string name="screen_confirm">켜기</string>
 </resources>
