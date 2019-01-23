@@ -4238,7 +4238,6 @@ PIN 설정"</string>
     <string name="login_account_dialog_message">Mi 계정으로 로그인하셔서 Mi 클라우드와 동기화하십시오.</string>
     <string name="login_action">로그인</string>
     <string name="aod_mode_title">항상 켜기 모드</string>
-    <string name="aod_mode_summary">화면이 꺼졌을 때 시간, 날짜, 메시지를 항상 보이기</string>
     <string name="single_key_use">단일 버튼</string>
     <string name="single_key_use_summary">다른 두 버튼을 대신하여 홈버튼 사용</string>
     <string name="open_sdcard_optimization_title">SD카드 최적화 열기</string>
