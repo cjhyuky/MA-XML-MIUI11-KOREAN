@@ -906,24 +906,24 @@
     <string name="accessibility_camera_lighting_close_panel">조명 메뉴 닫음</string>
     <string name="accessibility_camera_lighting_open_panel">조명 메뉴 열림</string>
     <string name="lighting_pattern_null">없음</string>
-    <string name="ultra_wide_mode">슈퍼 와이드 앵글</string>
+    <string name="ultra_wide_mode">울트라 와이드 앵글 모드</string>
     <string name="beauty_body">체형</string>
     <string name="beauty_body_body">슬림하게</string>
     <string name="beauty_body_head">머리크기 줄이기</string>
     <string name="beauty_body_legged">다리 늘리기</string>
     <string name="beauty_body_reset_tip">효과가 제거되었습니다</string>
     <string name="beauty_body_shoulder">어깨 줄이기</string>
-    <string name="ultra_wide_close_tip">슈퍼 와이드 앵글 모드가 꺼져있습니다</string>
-    <string name="ultra_wide_open_tip">슈퍼 와이드 앵글 모드</string>
+    <string name="ultra_wide_close_tip">울트라 와이드 앵글 모드가 꺼집니다</string>
+    <string name="ultra_wide_open_tip">울트라 와이드 앵글 모드</string>
     <string name="super_night_toast">사진 촬영이 끝날때까지 움직이지 마세요</string>
     <string name="accessibility_camera_liveshot_off">다이나믹 포토 모드 꺼짐</string>
     <string name="accessibility_camera_liveshot_on">다이나믹 포토 모드 켜짐</string>
-    <string name="pref_camera_zoom_mode_entry_ultra">슈퍼 와이드 앵글</string>
-    <string name="ultra_wide_recommend_tip_hint">슈퍼 와이드 앵글을 사용하시는걸 추천드립니다</string>
+    <string name="pref_camera_zoom_mode_entry_ultra">울트라 와이드 앵글 모드</string>
+    <string name="ultra_wide_recommend_tip_hint">울트라 와이드 앵글 모드를 사용해보세요</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">광각 인물 모드 꺼짐</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">광각 인물 모드 켜짐</string>
-    <string name="accessibility_ultra_wide_off">광각 인물 모드 꺼짐</string>
-    <string name="accessibility_ultra_wide_on">광각 인물 모드 켜짐</string>
+    <string name="accessibility_ultra_wide_off">울트라 광각 모드 꺼짐</string>
+    <string name="accessibility_ultra_wide_on">울트라 광각 모드 켜짐</string>
     <string name="ai_scene_top_tip">달 모드</string>
     <string name="beauty_tab_name_live_beauty">뷰티효과</string>
     <string name="beauty_tab_name_live_filter">필터</string>
@@ -935,7 +935,7 @@
     <string name="custom_watermark_words_save_success">저장 완료</string>
     <string name="dualcamera_watermark_default">AI 듀얼 카메랴</string>
     <string name="pref_camera_normal_wide_ldc_title">그룹 얼굴 보정</string>
-    <string name="pref_camera_ultra_wide_ldc_title">광각 왜곡 보정</string>
+    <string name="pref_camera_ultra_wide_ldc_title">울트라 광각 왜곡 보정</string>
     <string name="pref_userdefine_watermark_title">사용자 지정 카메라 워터마크</string>
     <string name="ultra_wide_bokeh_close_tip">광각 모드가 꺼져있습니다.</string>
     <string name="ultra_wide_bokeh_open_tip">광각 인물 모드</string>
@@ -979,7 +979,7 @@
     <string name="portait_effect_entry_lilt">릴트</string>
     <string name="portait_effect_entry_sepia">세피아</string>
     <string name="portait_effect_entry_tea">티</string>
-    <string name="pref_camera_ultra_wide_mode_title">슈퍼 와이드 앵글 모드</string>
+    <string name="pref_camera_ultra_wide_mode_title">울트라 와이드 앵글 모드</string>
     <string name="ultra_widem_mode_use_hint_text">"더 넓은 시야를 기록하려면 수퍼 광각 모드를 켭니다.
 보다 흥미 진진한 아름다움을 경험해보십시오.."</string>
     <string name="pref_menu_ultra_pixel_photography_48mp">48M 초 울트라 픽셀</string>
@@ -1045,13 +1045,13 @@
     <string name="camera_liveshot_off_tip">다이나믹 촬영 꺼짐</string>
     <string name="network_access_user_notice_title">인터넷 연결중</string>
     <string name="ultra_wide_mode_use_hint_text">"이 모드를 사용하면 사진에 더 많은 장면을 포함시킬 수 있습니다.
-광각 모드는 멀리 이동할 수 없을 때 도움이됩니다."</string>
+울트라 와이드 앵글 모드는 멀리 이동할 수 없을 때 도움이됩니다."</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">32MP 꺼짐</string>
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP 켜짐</string>
     <string name="accessibility_ultra_pixel_photography_48mp_off">48MP 꺼짐</string>
     <string name="accessibility_ultra_pixel_photography_48mp_on">48MP 켜짐</string>
-    <string name="hand_gesture_open_tip">손바닥을 넓히고 카운트 다운을 시작하세요</string>
-    <string name="hand_gesture_tip">제스쳐 포토</string>
+    <string name="hand_gesture_open_tip">타이머를 시작하려면 손바닥을 보여주세요</string>
+    <string name="hand_gesture_tip">손바닥 셔터</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">720p 비디오를 960프레임으로 촬영할 수 있습니다</string>
     <string name="ultra_pixel_photography_32mp_close_tip">32MP 꺼짐</string>
     <string name="ultra_pixel_photography_32mp_open_tip">32MP 켜짐</string>
