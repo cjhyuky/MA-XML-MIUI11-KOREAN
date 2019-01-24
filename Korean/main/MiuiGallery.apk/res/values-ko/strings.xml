@@ -285,7 +285,7 @@
     <string name="video_err">동영상을 실행할 수 없습니다.</string>
     <string name="exit_video_play">종료</string>
     <string name="picker_title_selection_format">선택된 사진: %d</string>
-    <string name="picker_title_format">%1$d부터 %2$d까지 사진 선택</string>
+    <string name="picker_title_format">최대 %2$d개까지 사진 선택</string>
     <string name="picker_title_specify_format">%d개 사진 선택</string>
     <string name="picker_title_specify_format_one">%d개 사진 선택</string>
     <string name="picker_title_unlimit">사진 선택</string>
