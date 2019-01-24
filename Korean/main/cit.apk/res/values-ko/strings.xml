@@ -888,4 +888,6 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="set_dsi_tips">DSI 설정</string>
   <string name="cit_tof_sensor_check_summary">TOF값이 아래에 나타나야 합니다</string>
   <string name="cit_tof_sensor_check_title">Tof센서</string>
+  <string name="cit_proximity_data_check_summary">근접 센서(수신기 근처에있는 휴대 전화의 상단에 위치)를 손으로 덮은 다음 손을 멀리 움직입니다. 손을 멀리 떨어 뜨리면 값이 0.0에서 증가합니다 장치.
+초음파 근접 센서 인 경우 테스트 도중 전화를받는 동작을 시뮬레이션하십시오.</string> 
 </resources>
