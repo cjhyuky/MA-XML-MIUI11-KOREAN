@@ -427,7 +427,7 @@
     <string name="user_notice_button_exit">종료</string>
     <string name="user_notice_button_ok">확인</string>
     <string name="user_notice_declaration_ignore">다시 표시하지 않기</string>
-    <string name="user_notice_message">이 제품을 사용함으로서 Xiaomi의 %1$s와 %2$s에 동의하시는 것입니다. 몇몇 기능의 정상적인 작동을 위해서 인터넷 연결과 위치 서비스, 연락처, SMS의 접근이 요구됩니다.</string>
+    <string name="user_notice_message">당신은 캘린더를 사용하기 전에 우리의 %1$s와 %2$s에 동의해야합니다. 지방 공공 휴일, 생일, 신용 카드 상환하고, 계획된 여행에 정확한 데이터를 제공하기 위해, 일정 위치, 연락처, 메시지에 액세스 할뿐만 아니라, 인터넷에 연결해야합니다. 동의하십니까?</string>
     <string name="user_notice_title">주의</string>
     <string name="user_notification">알림</string>
     <string name="user_notification_descrip">캘린더 열 때마다 알림 보여주기</string>
@@ -650,4 +650,5 @@
     <string name="lottery_red_ball_tip">빨간공</string>
     <string name="select_today_tip">오늘</string>
     <string name="today_icon_voice_contentdescription">오늘로 돌아가기</string>
+    <string name="setting_title_limit_card_desc">캘린더의 홈페이지에 있는 한도카드로 네트워킹이 필요합니다.</string>
 </resources>
