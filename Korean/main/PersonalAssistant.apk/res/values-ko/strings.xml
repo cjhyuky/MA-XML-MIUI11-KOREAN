@@ -492,7 +492,7 @@
     <string name="mini_to_open_error">지문 수집 소프트웨어 시작 오류가 있는지 확인하십시오.</string>
     <string name="mini_weakpassword_error_same">같은 번호를 사용하지 마십시오.</string>
     <string name="mini_weakpassword_error_serial">연속 번호를 사용하지 마십시오.</string>
-    <string name="miot_device_click_show_detail">스마트 홈에 대해 알아보려면 클릭하세요</string> 
+    <string name="miot_device_click_show_detail">.(스마트 가전 기기에 대해 알아보시려면 탭하세요)</string>
     <string name="miuishare_account_activate_confirmation">계정 활성화 필요 </string>
     <string name="miuishare_account_activate_ok">계정 활성화</string>
     <string name="miuishare_account_login_cancel">취소</string>
@@ -754,7 +754,7 @@
     <string name="stock_web_bottom_btn">열기</string>
     <string name="study_parent">업무</string>
     <string name="system_favorite_dialog_link">보안 &amp; 개인정보 보호</string>
-    <string name="system_favorite_dialog_message"> 다른 앱들을 즐겨 찾기에 추가하십시오. </string>
+    <string name="system_favorite_dialog_message">여러 앱 및 서비스의 즐겨 찾기가 퀵카드에 추가됩니다. 허용하시겠습니까?</string>
     <string name="system_favorite_dialog_negative">취소</string>
     <string name="system_favorite_dialog_positive">허용</string>
     <string name="take_off">이륙</string>
@@ -1259,4 +1259,14 @@
     <string name="cta_dialog_miot_text_all">Mi홈이 정상적으로 작동하려면 네트워크, 위치, 블루투스 켜기, 셀룰러 네트워크, 마이크 사용 및 연락처 읽기 권한을 획득해야 합니다. 확인하시겠습니까?</string>
     <string name="notification_channel_card">카드</string>
     <string name="notification_channel_default">기본값</string>
+    <string name="book_arr_station">목적지 추가</string>
+    <string name="taked_off">이륙</string>
+    <string name="favorite_title_modify_failed">"제목을 바꿀 수 없습니다"</string>
+    <string name="miot_device_personal_assistant_eula">사용자 계약</string>
+    <string name="miot_device_personal_assistant_eula_priv">" 그리고 퀵카드의 "</string>
+    <string name="miot_device_personal_assistant_priv">개인정보 보호정책</string>
+    <string name="notification_channel_default_description">기타 알림들</string>
+    <string name="notification_channel_favorite_description">다른앱의 즐겨찾기에 추가된 항목에 대한 알림</string>
+    <string name="notification_channel_payment_description">결재 관련 알림</string>
+    <string name="notification_channel_shopping_description">즐겨찾기 또는 장바구니에 추가된 제품에 대한 알림</string>
 </resources>
