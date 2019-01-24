@@ -1369,4 +1369,7 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="xiaoai_update_message">Mi AI 음성 엔진이 너무 구버전입니다. 지금 업데이트 하세요.</string>
     <string name="xiaoai_update_title">Mi AI 업데이트</string>
     <string name="expand_button_title">고급 설정</string>
+    <string name="fcm_fallback_notification_channel_label">기타</string>
+    <string name="gcm_fallback_notification_channel_label">기타</string>
+    <string name="ready_to_play">다음곡</string>
 </resources>
