@@ -2446,7 +2446,7 @@ SMS 전송"</string>
     <string name="menu_summary_antispam_2">차단된 전화와 메시지</string>
     <string name="menu_summary_antivirus">기기에서 바이러스 검사</string>
     <string name="menu_summary_antivirus_2">치명적인 결함 발견</string>
-    <string name="menu_summary_antivirus_3">"검색된 위혐요소 없음"</string>
+    <string name="menu_summary_antivirus_3">"검색된 기기 없음"</string>
     <string name="menu_summary_app_manager">업데이트와 앱 삭제</string>
     <string name="menu_summary_app_manager_2">업데이트 가능함</string>
     <string name="menu_summary_garbage_cleanup">발견된 쓰레기 없음</string>
