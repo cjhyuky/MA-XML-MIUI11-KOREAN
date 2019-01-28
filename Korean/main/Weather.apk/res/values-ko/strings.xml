@@ -302,4 +302,5 @@
     <string name="aqi_settings_summary">AQI </string>
     <string name="aqi_settings_title">AQI</string>
     <string name="settings">설정</string>
+    <string name="activity_find_city_dialog_message_location_service">날씨 정보를 얻으려면 날씨앱이 사용자의 위치에 액세스하도록 허용하십시오.</string>
 </resources>
