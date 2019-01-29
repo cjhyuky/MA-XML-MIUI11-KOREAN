@@ -2161,7 +2161,7 @@
     <string name="labelCFNRc_cdma">임시 전달</string>
     <string name="vice_slot_volte_data_switch_prompt">VoLTE 통화중에 보조SIM을 사용하여 기기가 모바일 데이터 네트워크에 연결됩니다. 이로 인해 추가 데이터 수수료가 발생할 수 있습니다. 데이터 요금제에 대한 자세한 내용은 가입하신 이동 통신사에 문의하십시오.</string>
     <string name="vice_slot_volte_data_switch_summary">VoLTE 통화중에 기기가 보조SIM을 사용하여 모바일 데이터 네트워크에 연결됩니다</string>
-    <string name="vice_slot_volte_data_switch_title">보조SIM에서 VoLTE 통화 중에 모바일 데이터 사용</string>
+    <string name="vice_slot_volte_data_switch_title">VoLTE 통화중에 보조SIM의 모바일 데이터 사용</string>
     <string name="cfnry_time_fifteen_sec">15초</string>
     <string name="cfnry_time_five_sec">5초</string>
     <string name="cfnry_time_setting_title">대기 시간 설정</string>
