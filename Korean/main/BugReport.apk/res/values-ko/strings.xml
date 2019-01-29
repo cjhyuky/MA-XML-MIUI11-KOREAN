@@ -178,7 +178,7 @@
     <string name="modem_tool_log_start_toast">%s로 부터의 Modem log 저장 중</string>
     <string name="modem_tool_log_stop_toast">%s로 부터의 Modem log 저장 중지됨</string>
     <string name="bugreport_dialog_not_show_again">다시 표시하지 않기</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data&gt; "지금 이 기기에 소프트웨어 로그를 저장하고 있습니다. 로그에는 개인 정보와 위치 데이터가 포함될 수 있습니다. 이 정보가 노출되지 않도록 하려면 다른 사람과 로그를 공유하지 마십시오. \"동의\" 하는것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인 정보 보호 정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;사용자 동의&amp;lt;/a&amp;gt;를 읽고 동의하는것을 의미합니다."&lt;/Data&gt;</string>
+    <string name="bugreport_dialog_submit_content">"지금 이 기기에 소프트웨어 로그를 저장하고 있습니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다. 이 정보가 노출되지 않도록 하려면 다른사람과 로그를 공유하지 마십시오. \"동의\" 하는것은 우리의 개인정보 보호정책과 사용자 동의를 읽고 동의하는것을 의미합니다."</string>
     <string name="bugreport_dump_start_notification_title">버그 보고서 작성 중…</string>
     <string name="bugreport_dump_start_notification_summary">이 작업은 몇 분 소요됩니다</string>
     <string name="bugreport_dump_complete_notification_title">버그 보고서 작성됨</string>
