@@ -1240,6 +1240,11 @@
     <string name="keyguard_charging_info_tip_text6">화면을 꺼두시거나 기기를 시원한 곳에 잠시 두십시오.</string>
     <string name="keyguard_left_bankcard">계산기</string>
     <string name="keyguard_left_buscard">메모장</string>
+    <string name="keyguard_left_calculator">계산기</string>
+    <string name="keyguard_left_calendar">캘린더</string>
+    <string name="keyguard_left_contacts">연락처</string>
+    <string name="keyguard_left_music">음악</string>
+    <string name="keyguard_left_notes">메모장</string>
     <string name="keyguard_left_remotecentral">캘린더</string>
     <string name="keyguard_left_smarthome">연락처</string>
     <string name="keyguard_left_view_lock_wallpaper">음악</string>
