@@ -81,10 +81,6 @@
         <item>이 일정과 이후의 일정</item>
         <item>모든 일정</item>
     </string-array>
-    <string-array name="english_premium_league">
-        <item>4</item>
-        <item>@string/english_premium_league</item>
-    </string-array>
     <string-array name="gemini_info">
         <item>쌍둥이자리</item>
         <item>쌍둥이자리</item>
