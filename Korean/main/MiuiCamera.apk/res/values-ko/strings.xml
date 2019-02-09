@@ -933,7 +933,7 @@
     <string name="custom_watermark_words">카메라 워터마크 </string>
     <string name="custom_watermark_words_input_hint">단어 입력</string>
     <string name="custom_watermark_words_save_success">저장 완료</string>
-    <string name="dualcamera_watermark_default">AI 듀얼 카메랴</string>
+    <string name="dualcamera_watermark_default">AI 듀얼 카메라</string>
     <string name="pref_camera_normal_wide_ldc_title">그룹 얼굴 보정</string>
     <string name="pref_camera_ultra_wide_ldc_title">울트라 광각 왜곡 보정</string>
     <string name="pref_userdefine_watermark_title">사용자 지정 카메라 워터마크</string>
