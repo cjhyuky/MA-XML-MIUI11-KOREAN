@@ -93,7 +93,6 @@
     <string name="download_queued">대기 중</string>
     <string name="download_running">진행 중</string>
     <string name="download_error">실패</string>
-    <string name="download_running_percent">%d%% 진행 중</string>
     <string name="byteShort">B</string>
     <string name="dialog_speed_msg">데이터 네트워크를 사용한 네트워크 테스트는 많은 양의 데이터를 소모합니다. 계속 진행하시겠습니까?</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
