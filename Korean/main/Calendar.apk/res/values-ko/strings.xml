@@ -645,4 +645,6 @@
     <string name="text_size_multiplier_outer">0.11</string>
     <string name="time_placeholder">--</string>
     <string name="time_separator">:</string>
+    <string name="talkback_festival_and">그리고</string>
+    <string name="talkback_festival_is">휴일은</string>  
 </resources>
