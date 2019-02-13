@@ -938,10 +938,10 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="vip_tomorrow_renew_message">"고음질의 오디오는 스트리밍 할 수 없지만 일부 노래는 정상적인 품질로 제공됩니다."</string>
     <string name="action_item_as_ring">벨소리로 지정</string>
     <string name="action_item_modify_info">정보 수정</string>
-    <string name="action_item_play_next">나중에 재생</string>
+    <string name="action_item_play_next">재생목록에 추가</string>
     <string name="action_item_show_album">앨범 : %s</string>
     <string name="action_item_show_artist">아티스트 : %s</string>
-    <string name="added_next_play">가 다음 재생곡으로 지정되었습니다.</string>
+    <string name="added_next_play">다음 재생곡으로 추가되었습니다.</string>
     <string name="album_label">앨범</string>
     <string name="audio_recognition_setting_summary">"저장된 음악 재생 시 자동으로 음악 정보를 불러옵니다."</string>
     <string name="audio_recognition_setting_title">앨범 및 가사 수정</string>
