@@ -7935,4 +7935,7 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="open_dark_mode_dialog_title">다크 모드 호환성</string>
     <string name="screen_cancel">취소</string>
     <string name="screen_confirm">켜기</string>
+    <string name="incall_show">전화 발신시 프로필 영상 전송</string>
+    <string name="more_dangerous_option_hint">고위험기능인 \"%1$s\" 기능이 켜져있습니다. 설정을 변경하려면 탭하세요.</string>
+    <string name="mute_voiceassist_stream">음성어시스턴트 음소거</string>
 </resources>
