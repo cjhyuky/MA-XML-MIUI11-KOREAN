@@ -21,4 +21,5 @@
     <string name="debug_tool_email_sender_picker">파일을 보낼 앱을 선택하십시오</string>
     <string name="debug_tool_email_subject">캘린더 디버깅 툴 첨부됨</string>
     <string name="debug_tool_email_body">약속과 개인 정보가 포함된 캘린더 데이터베이스가 첨부되었습니다. 조심하십시오.</string>
+    <string name="cta_notice">캘린더를 열고 인터넷 연결을 먼저 허용하세요.</string>
 </resources>
