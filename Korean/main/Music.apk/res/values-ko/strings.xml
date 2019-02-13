@@ -1372,4 +1372,16 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="fcm_fallback_notification_channel_label">기타</string>
     <string name="gcm_fallback_notification_channel_label">기타</string>
     <string name="ready_to_play">다음곡</string>
+    <string name="agreement_desc">사용자 동의(필수)</string>
+    <string name="app_permission_confirm">확인</string>
+    <string name="app_permission_optional">권한(선택적)</string>
+    <string name="app_permission_require">권한(필수)</string>
+    <string name="app_permission_use_desc">권한</string>
+    <string name="app_permission_use_group_account">계정</string>
+    <string name="app_permission_use_group_account_desc">Mi 계정 정보 수집 권한</string> <string name="app_permission_use_group_phone">통화 권한</string>
+    <string name="app_permission_use_group_phone_desc">구글 푸시 서비스 권한</string>
+    <string name="app_permission_use_group_storage">저장소 접근 권한</string>
+    <string name="app_permission_use_group_storage_desc">기기에 저장된 노래를 찾고 재생하기 위한 권한</string>
+    <string name="data_use_desc">법적 서류</string>
+    <string name="privacy_desc">개인정보 보호정책(필수)</string>
 </resources>
