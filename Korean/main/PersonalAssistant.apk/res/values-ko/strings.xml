@@ -1269,4 +1269,5 @@
     <string name="notification_channel_favorite_description">다른앱의 즐겨찾기에 추가된 항목에 대한 알림</string>
     <string name="notification_channel_payment_description">결재 관련 알림</string>
     <string name="notification_channel_shopping_description">즐겨찾기 또는 장바구니에 추가된 제품에 대한 알림</string>
+    <string name="card_expand_note_add_checkbox">체크박스 추가</string>
 </resources>
