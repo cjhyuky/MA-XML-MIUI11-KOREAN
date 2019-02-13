@@ -54,4 +54,13 @@
         <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d개 앱이 퀵 카드 활성화 시도함</item>
     </plurals>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">동기화 멈춤. %d분 후 동기화 재개</item>
+    </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">" 분 전"</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">" 시간 전"</item>
+    </plurals>
 </resources>
