@@ -244,4 +244,8 @@
     <string name="cta_dialog_message">메모장이 정상적으로 작동하려면 인터넷 연결, 오디오 녹음, 연락처 접근 권한이 필요합니다. 허용하시겠습니까?</string>
     <string name="cta_dialog_title">권한이 필요함</string>
     <string name="unclassfied_folder_name">분류되지 않음</string>
+    <string name="permission_intro_contact">통화중 메모 작성</string>
+    <string name="permission_intro_microphone">음성 메모 녹음</string>
+    <string name="permission_intro_phone">통화중 메모 작성</string>
+    <string name="permission_intro_storage">메모와 첨부파일 저장</string>
 </resources>
