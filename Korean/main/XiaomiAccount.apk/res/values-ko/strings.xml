@@ -488,7 +488,15 @@ ID:%s
 이 코드를 개발자에게 보내주세요."</string>
     <string name="for_diagnosis_usage_only">진단 목적으로만 이 정보 사용.</string>
     <string name="ok">확인</string>
-    <string name="send_diagnosis_log">Send diagnosis log</string>
+    <string name="send_diagnosis_log">분석 로그자료 전송</string>
     <string name="sending">보내는 중...</string>
-    <string name="temporary_not_available">일시적으로 사용 불가</string> 
+    <string name="temporary_not_available">일시적으로 사용 불가</string>
+    <string name="confirm_new_pwd">새로운 패스워드를 다시입력해주세요</string>
+    <string name="inconsistent_pwd">"패스워드가 같지 않습니다"</string>
+    <string name="input_new_pwd">새로운 패스워드를 입력하세요</string>
+    <string name="mi_finance">나의 잔고</string>
+    <string name="mi_finance_info">신규 사용자를 위한 보너스</string>
+    <string name="same_new_and_old_pwd">"현재 비밀번호와 같아서는 안됩니다"</string>
+    <string name="sim_card">SIM카드</string>
+    <string name="used_cloud_storage_info">사용된 저장공간 %s</string>
 </resources>
