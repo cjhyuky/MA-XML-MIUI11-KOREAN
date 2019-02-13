@@ -519,7 +519,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="cloud_storage_full">클라우드 저장소가 가득 찼습니다.</string>
     <string name="micloud_sync_off">Mi 클라우드 동기화 꺼짐</string>
     <string name="open_micloud_sync">Mi 클라우드 동기화 켜짐</string>
-    <string name="sync_item_title">항목 동기화 중</string>
+    <string name="sync_item_title">앱 데이터 동기화 중</string>
     <string name="member_due_date">%s까지 유효</string>
     <string name="due_date_format">yyyy-MM-dd</string>
     <string name="all_sync_item_open">모든 항목이 켜짐</string>
@@ -640,8 +640,8 @@ Mi 클라우드를 다시 활성화하십시오."</string>
   <string name="member_entrance_title_ultra_low_case_a">갱신</string>
   <string name="member_entrance_title_ultra_low_case_b">갱신</string>
   <string name="micloud_main_manual_sync">수동 동기화</string>
-  <string name="micloud_main_sync_mode_summary">일부 항목은 화면이 꺼지고 배터리가 충전됩니다.</string>
-  <string name="micloud_main_sync_mode_title">절전 모드</string>
+  <string name="micloud_main_sync_mode_summary">충전기가 연결되어 있고 화면이 꺼져있을 때 대부분의 항목이 동기화됩니다.</string>
+  <string name="micloud_main_sync_mode_title">절전 모드로 동기화</string>
   <string name="micloud_manaul_sync_success_button_text">상세 보기</string>
   <string name="micloud_manaul_sync_success_title">동기화 완료</string>
   <string name="micloud_manual_activating">활성화중…</string>
