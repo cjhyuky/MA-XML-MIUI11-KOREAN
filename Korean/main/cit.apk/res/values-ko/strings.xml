@@ -889,5 +889,26 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="cit_tof_sensor_check_summary">TOF값이 아래에 나타나야 합니다</string>
   <string name="cit_tof_sensor_check_title">Tof센서</string>
   <string name="cit_proximity_data_check_summary">근접 센서(수신기 근처에있는 휴대 전화의 상단에 위치)를 손으로 덮은 다음 손을 멀리 움직입니다. 손을 멀리 떨어 뜨리면 값이 0.0에서 증가합니다 장치.
-초음파 근접 센서 인 경우 테스트 도중 전화를받는 동작을 시뮬레이션하십시오.</string> 
+초음파 근접 센서 인 경우 테스트 도중 전화를받는 동작을 시뮬레이션하십시오.</string>
+  <string name="cit_tool_check_opt">확실하신가요?</string>
+  <string name="cit_tool_check_opt_with_reboot">재부팅 됩니다, 확실하신가요?</string>
+  <string name="cit_tool_current_modem_test_mode">네트워크 테스트 모드:</string>
+  <string name="cit_tool_modem_rf_ant_test">모뎀 rf ant 테스트 설정</string>
+  <string name="cit_tool_modem_test_clr">gpio 테스트 닫기</string>
+  <string name="cit_tool_modem_test_get">업데이트</string>
+  <string name="cit_tool_modem_test_mode">모뎀 테스트 모드 설정</string>
+  <string name="cit_tool_modem_test_mode_closed">테스트 모드 닫힘</string>
+  <string name="cit_tool_modem_test_mode_mismatch">테스트 모드 맞지않음</string>
+  <string name="cit_tool_modem_test_mode_opened">테스트 모드 열려있음</string>
+  <string name="cit_tool_modem_test_mode_select">테스트 모드 선택:</string>
+  <string name="cit_tool_modem_test_mode_set">유효성 설정</string>
+  <string name="cit_tool_modem_test_set">유효성</string>
+  <string name="cit_tool_no_repeat">반복 없음!</string>
+  <string name="cit_tool_not_support">지원되지 않음</string>
+  <string name="cit_tool_select_all">모두 선택</string>
+  <string name="cit_tool_select_none">선택 해제</string>
+  <string name="cit_tool_select_opposite">반대로 선택</string>
+  <string name="cit_tool_setting_expired">설정이 만료됨, 다시 시도하세요!</string>
+  <string name="cit_tool_setting_wait">설정중! 5초만 기다려주세요</string>
+  <string name="cit_tool_to_fetching">가져오기</string>
 </resources>
