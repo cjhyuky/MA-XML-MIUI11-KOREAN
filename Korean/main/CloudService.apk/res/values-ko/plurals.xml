@@ -61,6 +61,6 @@
         <item quantity="other">"%s 분 전"</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
-        <item quantity="other">"% 시간 전"</item>
+        <item quantity="other">"%s 시간 전"</item>
     </plurals>
 </resources>
