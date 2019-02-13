@@ -1059,4 +1059,8 @@
     <string name="ultra_pixel_photography_48mp_open_tip">48MP 켜짐</string>
     <string name="zoom_no_support_tip_48M">48mp 슈퍼 클리어 모드에서는 줌 기능을 제공하지 않습니다</string>
     <string name="accessibility_pull_down_to_open_camera">아래로 끌어내려 카메라 켜기</string>
+    <string name="autozoom_landscape_hint">가로모드 사용을 추천</string>
+    <string name="lighting_pattern_holi">홀리</string>
+    <string name="pref_camera_quick_shot_anim_enable_title">퀵샷 애니메이션 켜기</string>
+    <string name="pref_camera_quick_shot_enable_title">퀵샷 켜기</string>
 </resources>
