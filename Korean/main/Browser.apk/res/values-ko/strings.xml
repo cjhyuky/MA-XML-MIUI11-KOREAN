@@ -1748,7 +1748,6 @@
     <string name="navigate_feedback_dislike_tips">이런 류의 비디오 추천이 줄어들 것입니다</string>
     <string name="navigate_feedback_input_report_label">다른 이유</string>
     <string name="navigate_feedback_report">제보하기</string>
-    <string name="navigate_feedback_report_input_length">%1$d자/100자</string>
     <string name="navigate_feedback_report_input_tips">질문을 남겨주세요, 가능한 빨리 처리해 드리겠습니다</string>
     <string name="navigate_feedback_report_success">제보 완료</string>
     <string name="navigate_feedback_report_title">제보 이유</string>
