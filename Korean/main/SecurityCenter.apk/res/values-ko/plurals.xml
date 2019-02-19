@@ -290,4 +290,7 @@
     <plurals name="om_locked_apps_title">
         <item quantity="other">잠긴 앱 %d개</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d개 위험요소 발견, 지금 치료하세요.</item>
+    </plurals>
 </resources>
