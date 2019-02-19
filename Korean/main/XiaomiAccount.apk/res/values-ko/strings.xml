@@ -499,4 +499,21 @@ ID:%s
     <string name="same_new_and_old_pwd">"현재 비밀번호와 같아서는 안됩니다"</string>
     <string name="sim_card">SIM카드</string>
     <string name="used_cloud_storage_info">사용된 저장공간 %s</string>
+    <string name="exit">나가기</string>
+    <string name="i_agree">확인</string>
+    <string name="i_agree_continue">계속하기</string>
+    <string name="kr_license_desc">Mi계정과 Mi클라우드 서비스를 사용하시려면 사용자 동의와 개인정보 보호정책에 동의하셔야 합니다.</string>
+    <string name="kr_permission_contacts_desc">연락처 정보 읽기를 위한 권한</string>
+    <string name="kr_permission_desc">아래 보이는 필수 권한을 확인하세요</string>
+    <string name="kr_permission_phone_desc">계정 보호 를 위한 권한</string>
+    <string name="kr_permission_sms_desc">보안 코드 자동 채우기를 위한 권한</string>
+    <string name="kr_permission_storage_desc">분석 정보 저장을 위한 권한</string>
+    <string name="optional_permissions">선택적인 권한</string>
+    <string name="passport_privacy_policy_required">개인정보 보호정책(필수)</string>
+    <string name="passport_user_agreement_required">사용자 동의(필수)</string>
+    <string name="permission_group_contacts">연락처</string>
+    <string name="permission_group_phone">통화</string>
+    <string name="permission_group_sms">메세지</string>
+    <string name="permission_group_storage">저장공간</string>
+    <string name="select_all">전부선택</string>
 </resources>
