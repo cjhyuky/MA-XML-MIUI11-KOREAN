@@ -12,4 +12,18 @@
          <item>시스템 설정 백업</item>
          <item>기기 찾기</item>
     </string-array>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>항목 동기화 권한</item>
+        <item>메세지 동기화 권한</item>
+        <item>연락처 동기화 권한</item>
+        <item>캘린더 일정 동기화 권한</item>
+        <item>저장공간 항목 동기화 권한</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>통화</item>
+        <item>메세지</item>
+        <item>연락처</item>
+        <item>캘린더</item>
+        <item>저장공간</item>
+    </string-array>
 </resources>
