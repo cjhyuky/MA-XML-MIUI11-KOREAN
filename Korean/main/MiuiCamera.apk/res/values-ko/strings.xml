@@ -1063,4 +1063,5 @@
     <string name="lighting_pattern_holi">홀리</string>
     <string name="pref_camera_quick_shot_anim_enable_title">퀵샷 애니메이션 켜기</string>
     <string name="pref_camera_quick_shot_enable_title">퀵샷 켜기</string>
+    <string name="hint_ae_lock">자동 노출이 잠겨있습니다</string>
 </resources>
