@@ -87,4 +87,6 @@
     <string name="using_record_confirm_ok">허용</string>
     <string name="sound_source_summary_without_system_sounds">마이크 사용 또는 무음</string>
     <string name="warning_recording_when_a2dp_connect">"블루투스 헤드셋을 사용하는 동안 장치가 시스템 사운드 녹음을 지원하지 않습니다."</string>
+    <string name="permission_intro_microphone">마이크 녹음 권한</string>
+    <string name="permission_intro_storage">화면 녹화 저장 권한</string>
 </resources>
