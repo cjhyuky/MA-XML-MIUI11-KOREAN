@@ -248,4 +248,12 @@
     <string name="permission_intro_microphone">음성 메모 녹음</string>
     <string name="permission_intro_phone">통화중 메모 작성</string>
     <string name="permission_intro_storage">메모와 첨부파일 저장</string>
+    <string name="toast_refuse_to_use_contact">"연락처 권한이 제한됩니다.
+메모장이 연락처를 읽고 기기에서 계정을 찾을 수 있도록 허용하십시오."</string>
+    <string name="toast_refuse_to_use_external_storage">"저장 권한이 제한됩니다.
+메모장이 SD 카드의 내용을 읽을 수 있도록 허용하십시오."</string>
+    <string name="toast_refuse_to_use_phone_state">"전화 사용 권한이 제한됩니다.
+메모장이 전화 상태 및 ID를 읽을 수 있도록 허용하십시오."</string>
+    <string name="toast_refuse_to_use_record_audio">"마이크 권한이 제한됩니다.
+메모장이 오디오를 녹음하도록 허용하십시오."</string>
 </resources>
