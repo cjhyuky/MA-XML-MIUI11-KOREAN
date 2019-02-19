@@ -152,10 +152,16 @@
     <string name="head_set_tip_dialog_msg">상세 설정으로 소리를 녹음하려면 이어폰 연결을 해제하십시오. (e.g., 음악, 목소리).</string>
     <string name="head_set_tip_dialog_ok">알겠습니다</string>
     <string name="rename_fail_tip">이름 변경 실패, 같은 이름을 가진 항목이 있습니다.</string>
-    <string name="cloud_service_state_open_reminder">Mi Cloud 동기화를 켜서 녹음 파일을 동기화하세요.</string>
+    <string name="cloud_service_state_open_reminder">Mi클라우드 동기화를 켜서 녹음 파일을 동기화하세요.</string>
     <string name="menu">메뉴</string>
     <string name="dialog_privacy_revoke_tips">"약관을 철회하면 앱에서 데이터 수집이 중지되고 모든 관련 데이터가 서버에서 삭제됩니다. 거절하게 되면 앱을 사용할 수 없게 될 수도 있습니다. Mi Cloud 서비스 약관을 철회하기 전에 i.mi.com에 로그인하십시오."</string>
     <string name="privacy_policy_title">개인 정보 보호 약관</string>
     <string name="record_format_preference_title">녹음 포맷</string>
     <string name="alert_message_delete_local_record">이 녹음을 지우시겠습니까?</string>
+    <string name="korea_permission_phone">통화</string>
+    <string name="korea_permission_phone_resc">기기 상태 접근 권한과 통화중 녹음기능 권한</string>
+    <string name="korea_permission_record">마이크 권한</string>
+    <string name="korea_permission_record_resc">음성 녹음</string>
+    <string name="korea_permission_storage">저장공간</string>
+    <string name="korea_permission_storage_desc">녹음 저장 권한</string> 
 </resources>
