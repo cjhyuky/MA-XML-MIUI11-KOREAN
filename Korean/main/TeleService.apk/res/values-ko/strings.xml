@@ -2493,7 +2493,7 @@
 장치는 자동으로 셀룰러 네트워크 (2G/3G)로 전환되어 비상전화를 걸 수 있습니다.
 
 긴급전화는 휴대 전화 서비스 지역에서만 가능합니다."</string>
-    <string name="vowifi_emergency_warning_title">와이파이콜로 긴급전화 사용</string>
+    <string name="vowifi_emergency_warning_title">와이파이콜로 긴급전화</string>
     <string name="wifi_call_setting_vodafone_de">와이파이콜 연결중</string>
     <string name="wifi_call_setting_vodafone_uk">와이파이콜</string>    
 </resources>
