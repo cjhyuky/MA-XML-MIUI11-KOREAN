@@ -188,4 +188,17 @@
         <item>라디오 로그 버퍼를 제외한 전체</item>
         <item>커널 로그버퍼만</item>
     </string-array>
+    <string-array name="miui_volume_timer_segments_title">
+        <item>꺼짐</item>
+        <item>30분</item>
+        <item>1시간</item>
+        <item>2시간</item>
+        <item>8시간</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>클립보드</item>
+        <item>키 코드</item>
+        <item>키보드 스위쳐</item>
+        <item>없음</item>
+    </string-array>
 </resources>
