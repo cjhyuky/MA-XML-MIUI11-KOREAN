@@ -2724,4 +2724,25 @@ SMS 전송"</string>
     <string name="traffic_usage_warning_body">"이미 이번달에 %s 용량의 데이터를 사용하셨습니다."</string>
     <string name="traffic_usage_warning_limit">데이터 사용량 경고</string>
     <string name="traffic_usage_warning_title">데이터 사용 경고</string>
+    <string name="app_permission_use_group_calendar">캘린더</string>
+    <string name="app_permission_use_group_calendar_des">캘린더 정보 읽기와 추가</string>
+    <string name="app_permission_use_group_camera">카메라</string>
+    <string name="app_permission_use_group_camera_des">카메라 사용</string>
+    <string name="app_permission_use_group_contact">연락처</string>
+    <string name="app_permission_use_group_contact_des">연락처 읽기와 추가</string>
+    <string name="app_permission_use_group_location">위치 정보</string>
+    <string name="app_permission_use_group_location_des">정확한 위치</string>
+    <string name="app_permission_use_group_mic">마이크</string>
+    <string name="app_permission_use_group_mic_des">음성 녹음</string>
+    <string name="app_permission_use_group_phone">통화</string>
+    <string name="app_permission_use_group_phone_des">통화 내역을 읽고 추가하고 전화를 걸고 통화 상태에 액세스합니다</string>
+    <string name="app_permission_use_group_sensor">바디 센서</string>
+    <string name="app_permission_use_group_sensor_des">바디 센서가 생성 한 데이터를 읽습니다</string>
+    <string name="app_permission_use_group_sms">메시지</string>
+    <string name="app_permission_use_group_sms_des">메시지를 보내고 받고 읽습니다</string>
+    <string name="app_permission_use_group_storage">저장소</string>
+    <string name="app_permission_use_group_storage_des">저장소에 액세스하여 항목 저장</string>
+    <string name="app_permission_use_neccesary">필수 권한</string>
+    <string name="app_permission_use_no_neccesary">기타 권한</string>
+    <string name="app_permission_use_title">권한</string>
 </resources>
