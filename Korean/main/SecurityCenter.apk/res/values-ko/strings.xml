@@ -277,7 +277,7 @@
     <string name="st_confirm_dialog_summary_stranger_call">모르는 사람으로부터의 모든 통화는 차단될 것입니다.</string>
     <string name="st_confirm_dialog_summary_contact_call">연락처로부터의 모든 통화는 차단될 것입니다.</string>
     <string name="cta_dialog_title">인터넷 연결</string>
-    <string name="cta_dialog_msg">보안 앱은 업데이트를 가져오기 위해 인터넷 연결이 필요합니다. 정상적인 동작을 위해 위치 정보에 접근합니다.</string>
+    <string name="cta_dialog_msg">보안을 사용하기 전에 개인정보 보호정책에 동의해야합니다. 또한 보안은 정상적으로 작동하려면 인터넷 연결이 필요하며 바이러스 백신을 최신 상태로 유지하기 위해 사용자 위치에 액세스해야합니다. 동의하시겠습니까?</string>
     <string name="cta_settings">인터넷 연결 허용</string>
     <string name="app_name_na">데이터 사용량</string>
     <string name="list_empty_text">비어있음</string>
@@ -2745,4 +2745,6 @@ SMS 전송"</string>
     <string name="app_permission_use_neccesary">필수 권한</string>
     <string name="app_permission_use_no_neccesary">기타 권한</string>
     <string name="app_permission_use_title">권한</string>
+    <string name="cta_dialog_negative">나가기</string>
+    <string name="cta_dialog_positive">동의</string>
 </resources>
