@@ -290,7 +290,7 @@
     <string name="abc_searchview_description_query">최근 검색어 찾기</string>
     <string name="abc_searchview_description_search">검색하기</string>
     <string name="abc_searchview_description_submit">최근 검색어 제출</string>
-    <string name="abc_searchview_description_voice"_>음성 검색</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
     <string name="abc_shareactionprovider_share_with">공유하기</string>
     <string name="abc_shareactionprovider_share_with_application">공유하기 : %s</string>
     <string name="abc_toolbar_collapse_description">접기</string>
