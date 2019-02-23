@@ -194,7 +194,7 @@
     <string name="resolver_checkbox_always">항상</string>
     <string name="resolver_checkbox_once">한번만</string>
     <string name="resolver_mi_browser">Mi 브라우저</string>
-    <string name="resolver_offical_recommend">공식적</string>
+    <string name="resolver_offical_recommend">기본앱</string>
     <string name="resolver_other_method">기타 옵션</string>
     <string name="resolver_recommend_options_tag">추천 옵션</string>
 </resources>
