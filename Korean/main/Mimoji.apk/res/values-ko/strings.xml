@@ -22,7 +22,7 @@
   <string name="app_name">Mi모지</string>
   <string name="AR_IMG_SHARE">Mi모지</string>
   <string name="BLOG_APP_NO_INSTALL">앱이 설치되지 않음</string>
-  <string name="cta_message">네트워크 연결과 카메라 촬영을 허용하시겠습니까？</string>
+  <string name="cta_message">개인정보 보호정책에 동의하고，네트워크 연결과 녹화와 카메라를 허용하시겠습니까？</string>
   <string name="cta_privacy_url">http://www.miui.com/res/doc/privacy/ko.html</string>
   <string name="error_tip_out_range">기기를 얼굴 앞에 두세요</string>
   <string name="error_tip_sleep">계속하려면 누르세요</string>
@@ -46,6 +46,7 @@
   <string name="text_10">공유</string>
   <string name="text_11">더보기</string>
   <string name="text_12">취소</string>
+  <string name="text_13">카메라 접근을 허용하시겠습니까?</string>
   <string name="webo_version_too_low">앱 업데이트가 필요합니다</string>
   <string name="WICHART_APP_NO_INSTALL">앱이 설치되지 않음</string>
 </resources>
