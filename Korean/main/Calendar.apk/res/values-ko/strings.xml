@@ -646,5 +646,9 @@
     <string name="time_placeholder">--</string>
     <string name="time_separator">:</string>
     <string name="talkback_festival_and">그리고</string>
-    <string name="talkback_festival_is">휴일은</string>  
+    <string name="talkback_festival_is">휴일은</string>
+  <string name="notification_open_setting_button_exit">나가기</string>
+  <string name="notification_open_setting_button_ok">허용</string>
+  <string name="notification_open_setting_message">"캘린더에서 알림을 보내지 않으면 이벤트에 대한 알림을 받을 수 없습니다."</string>
+  <string name="notification_open_setting_title">캘린더 알림을 허용하시겠습니까?</string>
 </resources>
