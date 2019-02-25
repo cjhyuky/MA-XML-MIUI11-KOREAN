@@ -1888,7 +1888,7 @@ SMS 전송"</string>
     <string name="gs_game_net_priority">연결 우선 순위</string>
     <string name="gs_game_net_priority_detail">게임중 충분한 대역폭 확보를 위해 다운로드 속도를 제한합니다.</string>
     <string name="gs_performance_mode">성능 모드</string>
-    <string name="gs_performance_mode_detail">원할한 성능을 유지하기 위해 CPU 사용량 증가</string>
+    <string name="gs_performance_mode_detail">게임용 시스템 성능 최적화</string>
     <string name="gs_open_game_booster">스피드 부스트</string>
     <string name="gs_dialog_confirm_close_title">비활성화</string>
     <string name="gs_dialog_confirm_close_msg">홈 화면에서 바로가기가 제거됩니다. 보안 > 설정에서 복원할 수 있습니다.</string>
@@ -1935,7 +1935,7 @@ SMS 전송"</string>
     <string name="application_item_already_permission">허용됨</string>
     <string name="man_add_application">수동으로 자동 시작 앱 추가</string>
     <string name="power_autorun_apps_empty">자동 시작 앱 없음</string>
-    <string name="shield_keyboard_title">버튼 끄기</string>
+    <string name="shield_keyboard_title">버튼과 제스쳐 무시하기</string>
     <string name="shield_keyboard_detail">버튼을 더블 탭하여 다시 켜기</string>
     <string name="anti_disturb_msg_title">방해 금지 모드</string>
     <string name="anti_disturb_msg_detail">전화 수신 알림을 제외한 모든 알림 끄기</string>
@@ -2414,7 +2414,7 @@ SMS 전송"</string>
     <string name="gamebox_wechat_not_find">위챗을 설치하시고 재시도해주세요.</string>
     <string name="gb_msg_not_shielded_summary">보기</string>
     <string name="gs_gamebox">게임 내 단축키</string>
-    <string name="gs_gamebox_detail">게임 내 바로 가기 패널 표시</string>
+    <string name="gs_gamebox_detail">화면 상단 가장자리에서 스와이프하여 보기</string>
     <string name="midrop_post_notification_contentText">"50M/s 전송 속도가 가능한 Mi 드롭을 사용해보세요."</string>
     <string name="midrop_post_notification_contentTitle">파일을 보내야 하나요?</string>
     <string name="screenrecord_not_find">최신 버전의 화면 녹화기를 설치하고 다시 시도하십시오.</string>
@@ -2747,4 +2747,7 @@ SMS 전송"</string>
     <string name="app_permission_use_title">권한</string>
     <string name="cta_dialog_negative">나가기</string>
     <string name="cta_dialog_positive">동의</string>
+  <string name="forground_network_optimization_summary">현재 실행중인 게임에 더 많은 대역폭 제공</string>
+  <string name="forground_network_optimization_title">대역폭 우선 순위</string>
+  <string name="function_shield_summary_m">자동 밝기 및 스크린샷 제스쳐 무시하기</string>
 </resources>
