@@ -1188,7 +1188,7 @@ SMS 전송"</string>
     <string name="sp_background_risk_type_sign">비공식 앱이 실행중 입니다</string>
     <string name="sp_background_risk_type_root">시스템이 루팅되었습니다</string>
     <string name="resource_securitycenter_settings">보안</string>
-    <string name="keywords_securitycenter_settings">배터리 사용량;자동 시작 관리;USB로 설치;앱 권한;모바일 데이터 구매;차단 목록;데이터 사용량;데이터 요금제 조정;네트워크 테스트;배터리 절약;과열;켜기;끄기;배터리;소모;배터리 문제;에너지;배터리 세이버;에너지 세이버;에너지 절약;배터리 절약;자동 시작;권한;자동 시작;MIUI 자동 시작; 앱 자동 시작; 앱 자동 시작;연결 시작;연결된 시작;트리거된 시작;USB 설치;컴퓨터에서 설치;ADB 설치;위치;연락처 접근;데이터;모바일 데이터;데이터 구매;데이터 충전;데이터 요금제;차단;블랙 리스트;스마트 차단 목록;사기;판매;에이전트;통화 차단 목록;메시지 차단 목록;메시지 차단 목록;SMS 차단 목록;블랙리스트;블랙 리스트;차단목록;차단 목록;사기;연락처 차단;연락처 차단;트래픽;조정;연결;인터넷;테스트;배터리 사용</string>
+    <string name="keywords_securitycenter_settings">배터리 사용량;자동 시작 관리;USB로 설치;앱 권한;모바일 데이터 구매;차단 목록;데이터 사용량;데이터 요금제 조정;네트워크 테스트;배터리 절약;과열;켜기;끄기;배터리;소모;배터리 문제;에너지;배터리 세이버;에너지 세이버;에너지 절약;배터리 절약;자동 시작;권한;자동 시작;MIUI 자동 시작;앱 자동 시작;자동 시작 앱;연결 시작;연결된 시작;트리거된 시작;USB 설치;컴퓨터에서 설치;ADB 설치;위치;연락처 접근;데이터;모바일 데이터;데이터 구매;데이터 충전;데이터 요금제;차단;블랙 리스트;스마트 차단 목록;사기;판매;에이전트;통화 차단 목록;메시지 차단 목록;메시지 차단 목록;SMS 차단 목록;블랙리스트;블랙 리스트;차단목록;차단 목록;사기;연락처 차단;연락처 차단;트래픽;조정;연결;인터넷;테스트;배터리 사용;배터리 최적화;전원 사용량;게임;속도 부스터;영광의 왕;퍼포먼스 모드;방해금지모드</string>
     <string name="path_securitycenter_settings">시스템 앱/보안</string>
     <string name="resource_securitycenter">보안</string>
     <string name="keywords_securitycenter">보안;확인;스캔</string>
