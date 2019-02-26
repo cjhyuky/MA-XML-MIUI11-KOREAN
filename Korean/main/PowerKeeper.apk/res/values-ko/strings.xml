@@ -109,13 +109,13 @@
     <string name="hide_mode_ultimate_desc">울티메이트 모드가 켜졌습니다. 백그라운드에서 앱이 중지될 것입니다. 배터리 절약을 끄시면 울티메이트 모드가 종료됩니다.</string>
     <string name="power_hide_mode_title">전원 및 절약모드</string>
     <string name="power_hide_mode_summary">개별 앱의 백그라운드 프로세스, Wi-Fi, 모바일 데이터 연결, GPS를 제한하여 배터리 절약</string>
-    <string name="power_config_apps">MIUI 배터리 절약</string>
+    <string name="power_config_apps">앱 배터리 절약모드</string>
     <string name="app_list_title">앱 선택</string>
     <string name="power_hide_mode_app_list_summary">백그라운드에서 절전 모드</string>
-    <string name="enable_hide_mode">MIUI 배터리 절약 활성화</string>
-    <string name="disable_hide_mode">MIUI 배터리 절약 비활성화</string>
-    <string name="about_hide_mode">MIUI 배터리 절약 정보</string>
-    <string name="disable_hide_mode_warning">MIUI 배터리 절약을 비활성화 하시면 전력 소모가 증가할 것입니다.</string>
+    <string name="enable_hide_mode">앱 배터리 절약 활성화</string>
+    <string name="disable_hide_mode">앱 배터리 절약 비활성화</string>
+    <string name="about_hide_mode">앱 배터리 절약모드 정보</string>
+    <string name="disable_hide_mode_warning">앱 배터리 절약을 비활성화 하시면 전력 소모가 증가할 것입니다.</string>
     <string name="show_system_app">시스템 앱 표시</string>
     <string name="hide_system_app">시스템 앱 숨기기</string>
     <string name="scenario_policies_title">시나리오 전력 절약 방법</string>
@@ -139,8 +139,8 @@
     <string name="power_config_ultimate_on_already">울티메이트 모드 켜짐</string>
     <string name="power_config_ultimate_off_already">울티메이트 모드 꺼짐</string>
     <string name="power_config_ultimate_unlock_already">모든 항목 잠겨짐</string>
-    <string name="extreme_power_config_mode_category">익스트림 배터리 세이버</string>
-    <string name="extreme_power_config_mode_title">익스트림 배터리 세이버 모드</string>
+    <string name="extreme_power_config_mode_category">최대 절약 모드</string>
+    <string name="extreme_power_config_mode_title">최대 절약 모드</string>
     <string name="extreme_power_config_mode_desc">&lt;li&gt;"배터리 세이버는 앱을 끄고 홈 화면으로 돌아간 후 앱의 모든 백그라운드 활동을 중지합니다. 이 앱은 알림을 보내거나 업데이트를 받지 않습니다."&lt;/li&gt;"
 "&lt;li&gt;앱을 백그라운드에서 실행하려면 최근앱 목록에서 앱을 잠그거나 아래의 백그라운드 예외에 앱을 추가하십시오. 배터리 세이버가 켜져 있으면 최대 4개의 앱만을 백그라운드에서 실행할 수 있습니다.&lt;/li&gt;"
 "&lt;li&gt;배터리 세이버 기능은 기본적으로 NFC를 끕니다. 설정에서 변경할 수 있습니다.&lt;/li&gt;"
@@ -204,7 +204,7 @@
     <string name="base_info">기본 정보</string>
     <string name="nonui_mode_config_description">"MIUI는 당신이 기기를 사용하지 않는다는 걸 감지할 경우 화면을 포함한 모든 기능을 비활성화시킵니다."</string>
     <string name="nonui_mode_config_title">방해금지 모드</string>
-    <string name="power_center">배터리 세이버</string>
+    <string name="power_center">배터리 최적화</string>
     <string name="sleep_config_enhance_description">사용자 수면 시간 예측, 수면 시간 내에 일부 백그라운드 앱 삭제, NFC, KeyGuard 알림, 동기화, 블루투스, GPS, 모바일 및 Wi-Fi 데이터 사용 제한 등이 자동으로 진행될 수 있습니다.</string>
     <string name="performance_category">퍼포먼스</string>
     <string name="power_mode">배터리 설정</string>
@@ -224,7 +224,7 @@
     <string name="active_classify">작업 상태로 정렬</string>
     <string name="appconfig_active_app_dialog_title">사용중인 앱 관리</string>
     <string name="config_classify">앱 설정에 따라 정렬</string>
-    <string name="about_extreme_mode">익스트림 모드</string>
+    <string name="about_extreme_mode">최대 절약 모드</string>
     <string name="extreme_mode_max_item_alert">익스트림 모드에서 백그라운드로 실행할 앱을 4개까지만 선택할 수 있습니다.</string>
     <string name="message_i_know">인지함</string>
     <string name="privacy">개인정보 보호정책</string>
