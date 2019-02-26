@@ -154,4 +154,23 @@
       <item>일일 이벤트</item>
       <item>일상 &amp; 일상외</item>
   </string-array>
+    <string-array name="activities_title">
+        <item>스폐셜 데이</item>
+        <item>기억해야할 날</item>
+        <item>활기찬 순간</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>나의 주말</item>
+        <item>삶의 순간들</item>
+        <item>주말의 추억</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>다함께</item>
+        <item>좋은 시간</item>
+        <item>다같이</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>앞으로 전진</item>
+        <item>넘치는 에너지</item>
+    </string-array>
 </resources>
