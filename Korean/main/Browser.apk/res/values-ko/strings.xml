@@ -1758,4 +1758,10 @@
     <string name="small_video_ad_app_text_open">열기</string>
     <string name="small_video_ad_app_text_resume">이어받기</string>
     <string name="small_video_ad_web_text">열기</string>
+  <string name="ad_app_download_notification_content">설치 완료후, 데모를 열어보세요</string>
+  <string name="ad_app_download_site_new">새로운</string>
+  <string name="ad_exit_dialog_exit_btn_name">나가기</string>
+  <string name="ad_exit_dialog_message">설치가 완료되었습니다! 지금 열기를 원하십니까?</string>
+  <string name="ad_exit_dialog_open_btn_name">열기</string>
+  <string name="ad_exit_dialog_title_name">새로운 앱 열기 확정</string>
 </resources>
