@@ -99,7 +99,6 @@
         <item>짐바브웨</item>
         <item>남아프리카 공화국</item>
         <item>우간다</item>
-        <item>수단 공화국</item>
         <item>르완다</item>
         <item>콩고 민주 공화국</item>
         <item>나이지리아</item>
@@ -112,7 +111,6 @@
         <item>튀니지</item>
         <item>미국</item>
         <item>아르헨티나</item>
-        <item>아루바</item>
         <item>파라과이</item>
         <item>바베이도스</item>
         <item>벨리즈</item>
@@ -131,7 +129,6 @@
         <item>캐나다</item>
         <item>엘살바도르</item>
         <item>브라질</item>
-        <item>터크 스케이 커스 제도</item>
         <item>그레나다</item>
         <item>과테말라</item>
         <item>가이아나</item>
@@ -166,8 +163,6 @@
         <item>미국</item>
         <item>트리니다드 토바고</item>
         <item>아이티</item>
-        <item>푸에르토 리코</item>
-        <item>도미니카 공화국</item>
         <item>브라질</item>
         <item>캐나다</item>
         <item>세인트 키츠 네비스</item>
@@ -177,7 +172,6 @@
         <item>캐나다</item>
         <item>캐나다</item>
         <item>캐나다</item>
-        <item>남극 대륙</item>
         <item>스발 바르와 얀 메이 엔</item>
         <item>카자흐스탄</item>
         <item>요르단</item>
@@ -197,7 +191,7 @@
         <item>베트남</item>
         <item>중국</item>
         <item>인도네시아</item>
-        <item>이스라엘</item>
+        <item></item>
         <item>아프카니스탄</item>
         <item>파키스탄</item>
         <item>네팔</item>
@@ -211,7 +205,6 @@
         <item>카타르</item>
         <item>미얀마</item>
         <item>사우디아라비아</item>
-        <item>중국</item>
         <item>대한민국</item>
         <item>중국</item>
         <item>싱가포르</item>
@@ -268,14 +261,14 @@
         <item>체코</item>
         <item>라트비아</item>
         <item>이탈리아</item>
-        <item>산 마리노</item>
+        <item></item>
         <item>보스니아 헤르체고비나</item>
-        <item>우크라이나</item>
+        <item></item>
         <item>마케도니아</item>
         <item>불가리아</item>
         <item>스웨덴</item>
         <item>에스토니아</item>
-        <item>바티칸 시티</item>
+        <item></item>
         <item>오스트리아</item>
         <item>리투아니아</item>
         <item>폴란드</item>
@@ -288,11 +281,8 @@
         <item>피지</item>
         <item>괌</item>
         <item>미국</item>
-        <item>호주</item>
         <item>뉴 칼레도니아</item>
-        <item>사모아</item>
         <item>프랑스 령 폴리네시아</item>
-        <item>앤티가 바부 다</item>
         <item>미국</item>
         <item>미국</item>
         <item>캐나다</item>
@@ -337,6 +327,7 @@
         <item>중국</item>
         <item>인도</item>
         <item>인도</item>
+        <item>인도</item>
         <item>일본</item>
         <item>파키스탄</item>
         <item>인도</item>
@@ -377,14 +368,5 @@
         <item>온두라스</item>
         <item>수리남</item>
         <item>에콰도르</item>
-    </string-array>
-    <string-array name="timer_duration">
-        <item>총 %1$s</item>
-        <item>총 %2$s</item>
-        <item>총 %1$s%2$s</item>
-        <item>총 %3$s</item>
-        <item>총 %1$s%3$s</item>
-        <item>총 %2$s%3$s</item>
-        <item>총 %1$s%2$s%3$s</item>
     </string-array>    
 </resources>
