@@ -2969,7 +2969,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="common_settings">빠른 설정</string>
     <string name="battery_settings">배터리</string>
     <string name="battery_settings_title">배터리</string>
-    <string name="power_center">전원</string>
+    <string name="power_center">배터리 최적화</string>
     <string name="power_hide_mode_title">배터리 &amp; 성능</string>
     <string name="power_hide_mode_summary">개별 앱의 백그라운드 프로세스, Wi-Fi, 모바일 데이터 연결, GPS를 제한하여 배터리 절약</string>
     <string name="battery_indicator_style">배터리 표시기</string>
@@ -3652,7 +3652,7 @@ PIN 설정"</string>
     <string name="network_assistant">데이터 사용량</string>
     <string name="anti_spam">차단 목록</string>
     <string name="cleaner">클리너</string>
-    <string name="power_mgr">배터리</string>
+    <string name="power_mgr">배터리 최적화</string>
     <string name="symbols_not_allowed_for_password">비밀번호에 기호가 포함되어선 안 됩니다.</string>
     <string name="reset_legacy_password_settings_preface_text">잠금화면 비밀번호를 재설정해야 합니다.</string>
     <string name="priority_storage_title">저장소 설정</string>
