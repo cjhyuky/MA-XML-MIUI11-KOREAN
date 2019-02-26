@@ -871,7 +871,7 @@ SMS 전송"</string>
     <string name="om_ill_proc_type_radio_title">앱이 네트워크 연결을 반복하여 배터리를 소모합니다.</string>
     <string name="om_ill_proc_type_radio_detail">네트워크 연결 문제 수정</string>
     <string name="om_ill_proc_activity_title">문제</string>
-    <string name="power_center_title">전원</string>
+    <string name="power_center_title">배터리 최적화</string>
     <string name="power_center_auto_shutdown">전원 켜짐/꺼짐 예약</string>
     <string name="power_center_ontime_boot">예약 켜짐 시간</string>
     <string name="power_center_time_to_boot">전원 켜진 시간</string>
@@ -883,7 +883,7 @@ SMS 전송"</string>
     <string name="power_center_charge_time">완전 충전까지 %1$s</string>
     <string name="power_dialog_cancel">취소</string>
     <string name="power_dialog_ok">확인</string>
-    <string name="power_consume_rank_title">배터리 사용</string>
+    <string name="power_consume_rank_title">전원 사용량</string>
     <string name="power_consume_rank_software">앱</string>
     <string name="power_consume_rank_hardware">하드웨어</string>
     <string name="power_consume_software_total_format">앱: %s</string>
@@ -1199,9 +1199,9 @@ SMS 전송"</string>
     <string name="resource_antivirus">바이러스 스캔</string>
     <string name="keywords_antivirus">바이러스;위험;안티바이러스;스캔;결제 보안 확인;결제 보안;보안결제;보안 결제;결제 보호;보호 결제;보호된 결제;보안 구역;결제 구역</string>
     <string name="path_antivirus">시스템 앱/보안/바이러스 스캔</string>
-    <string name="resource_powercenter">배터리 사용량</string>
+    <string name="resource_powercenter">배터리 최적화</string>
     <string name="keywords_powercenter">배터리 절약;과열;켜기;끄기;배터리;소모;배터리;배터리 문제;에너지;소모;과열;배터리 절약;에너지 절약;에너지절약;배터리절약</string>
-    <string name="path_powercenter">시스템 앱/보안/배터리 사용량</string>
+    <string name="path_powercenter">시스템 앱/보안/배터리 최적화</string>
     <string name="resource_auto_restart">자동 시작 관리</string>
     <string name="keywords_auto_restart">자동시작; 권한;자동 시작;자동시작; 자동시작 관리; MIUI 자동시작; 앱 자동시작; 앱 자동시작;시작;연결 시작;연결된 시작;유발된 시작</string>
     <string name="path_auto_restart">시스템 앱/보안/권한/자동시작</string>
@@ -1227,7 +1227,7 @@ SMS 전송"</string>
     <string name="keywords_networkassistant_4">연결;인터넷;테스트</string>
     <string name="path_networkassistant_4">시스템 앱/보안/데이터 사용량/네트워크 검사</string>
     <string name="resource_powercenter_powerrank">배터리 &amp; 성능</string>
-    <string name="keywords_powercenter_powerrank">배터리 사용</string>
+    <string name="keywords_powercenter_powerrank">전원 사용량</string>
     <string name="path_powercenter_powerrank">배터리 &amp; 성능/배터리 사용</string>
     <string name="app_name_securitycenter">보안</string>
     <string name="ok">확인</string>
@@ -1250,7 +1250,7 @@ SMS 전송"</string>
     <string name="menu_text_antispam">차단 목록</string>
     <string name="menu_text_license_manager">권한</string>
     <string name="menu_text_garbage_cleanup">클리너</string>
-    <string name="menu_text_power_manager">배터리 사용량</string>
+    <string name="menu_text_power_manager">배터리 최적화</string>
     <string name="menu_text_power_percent_title_default">배터리</string>
     <string name="last_check_canceled">이전 스캔 취소됨</string>
     <string name="examination_score_100">모두 좋아 보입니다!</string>
@@ -1316,7 +1316,7 @@ SMS 전송"</string>
     <string name="activity_title_create_shortcut">바로가기 관리</string>
     <string name="menu_item_notification_title">드롭다운 메뉴에 표시</string>
     <string name="menu_item_notification_garbage_text">%s</string>
-    <string name="menu_item_notification_power_text">전원</string>
+    <string name="menu_item_notification_power_text">배터리 최적화</string>
     <string name="menu_item_notification_antispam_text_normal">차단 목록</string>
     <string name="menu_item_notification_antispam_text_avail">차단 목록</string>
     <string name="pref_category_title_securitycenter_settings">기본</string>
@@ -1324,7 +1324,7 @@ SMS 전송"</string>
     <string name="Settings_title_garbage_cleanup">클리너 설정</string>
     <string name="Settings_title_network_assistants">데이터 사용량 설정</string>
     <string name="Settings_title_anti_spam">차단 목록 설정</string>
-    <string name="Settings_title_power_center">배터리 설정</string>
+    <string name="Settings_title_power_center">배터리 최적화 설정</string>
     <string name="Settings_title_anti_virus">보안 스캔 설정</string>
     <string name="menu_item_virus_cloud_scan_title">온라인 정의</string>
     <string name="menu_item_virus_cloud_scan_summary">앱 이름과 세부사항을 업로드하여 온라인 바이러스 정의로 스캔</string>
@@ -1485,7 +1485,7 @@ SMS 전송"</string>
     <string name="call_and_contact">전화와 연락처</string>
     <string name="permission_with_call_and_contact">전화 통화, 연락처 정보, 통화 기록과 연관된 권한</string>
     <string name="title_flow_rank">모바일 데이터 사용량</string>
-    <string name="title_consume_power_rank">배터리 사용량</string>
+    <string name="title_consume_power_rank">앱 전원 사용량</string>
     <string name="title_payment_protection">결제 환경이 안전합니다.</string>
     <string name="title_payment_risk">결제 문제 발견</string>
     <string name="summary_payment_risk">결제 환경이 안전하지 않습니다.</string>
@@ -2511,7 +2511,7 @@ SMS 전송"</string>
     <string name="extreme_add_white_list_summary">4개 앱 이상 추가</string>
     <string name="extreme_add_white_list_title">백그라운드 예외</string>
     <string name="extreme_power_save_description"><li>"배터리 세이버는 앱을 나가고 홈 화면으로 돌아간 후 앱의 백그라운드 활동을 모두 중지합니다.이 앱은 알림이나 업데이트를 보내지 않습니다."</li>""<li>앱을 백그라운드에서 실행하려면 최근 실행 앱에서 앱을 잠그거나 아래의 백그라운드 예외에 앱을 추가하십시오. 배터리 세이버가 켜져있을 때 백그라운드에서 최대 4 개의 앱을 실행할 수 있습니다.</li>""<li>배터리 세이버는 기본적으로 NFC를 끕니다. 설정에서 변경할 수 있습니다.</li>""<li>기기의 모든 기능을 정상적으로 사용할 수 있도록 하기 위해 배터리가 30% 충전되면 자동으로 배터리 절약 기능이 꺼집니다.</li></string>
-    <string name="extreme_power_save_mode_card_summary">배터리가 부족할 때 절전 모드를 켜십시오.</string>
+    <string name="extreme_power_save_mode_card_summary">배터리가 부족할 때 최대 절약모드를 켜보세요.</string>
     <string name="extreme_power_save_mode_title">배터리 세이버</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="first_aid_activity_title">문제 해결하기</string>
@@ -2600,7 +2600,7 @@ SMS 전송"</string>
     <string name="operator_name_unicom">차이나 유니콤</string>
     <string name="optimize_result_ads_close_text">광고</string>
     <string name="pc_main_activity_back">뒤로가기</string>
-    <string name="pc_settings_title">배터리 사용 설정</string>
+    <string name="pc_settings_title">배터리 최적화 설정</string>
     <string name="power_center_hints_scan_danger_result">배터리 문제를 바로 해결할 수 있습니다</string>
     <string name="power_center_list_item_auto_brightness">화면 밝기 자동 조정</string>
     <string name="power_center_list_item_battery_status_time">시간</string>
