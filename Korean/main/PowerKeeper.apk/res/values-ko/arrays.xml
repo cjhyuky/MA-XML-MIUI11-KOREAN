@@ -84,8 +84,9 @@
         <item>성능 모드</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>현재 기본 모드</item>
-        <item>현재 성능 모드</item>
+        <item>온도조절 우선</item>
+        <item>성능 우선</item>
+        <item>최대 절약모드 미지원</item>
     </string-array>
         <string-array name="power_mode_entries">
         <item>퍼포먼스 모드</item>
@@ -97,7 +98,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>사용자 설정</item>
-        <item>배터리 세이버</item>
+        <item>MIUI 배터리 세이버</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>사용중인 앱</item>
