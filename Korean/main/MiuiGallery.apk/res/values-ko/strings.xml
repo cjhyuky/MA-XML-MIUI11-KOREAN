@@ -1521,4 +1521,13 @@
     <string name="permission_storage_name">Storage</string>
     <string name="permission_use_desc">권한</string>
     <string name="select_all">전부 선택</string>
+  <string name="generate_story_summary">MIUI는 사진을 분석하고 스토리 앨범을 만듭니다. 스토리 앨범 만들기를 중지하려면 이 기능을 해제하십시오.</string>
+  <string name="generate_story_title">스토리 앨범</string>
+  <string name="image_selection_summary">MIUI는 유사한 사진을 분석하고 가장 적합한 사진을 표시합니다. 사진에서 표시를 제거하려면 이 기능을 끄십시오.</string>
+  <string name="image_selection_title">최상의 사진 선택</string>
+  <string name="operation_set_video_wallpaper">비디오 배경화면 설정</string>
+  <string name="recommend_category_title">"갤러리 추천"</string>
+  <string name="set_as_video_wallpaper_description">이 항목을 다운로드하여 비디오 배경화면으로 사용 하시겠습니까?</string>
+  <string name="set_as_video_wallpaper_title">비디오 배경화면 설정</string>
+  <string name="set_video_wallpaper_failed">"이 항목을 비디오 배경 화면으로 사용할 수 없습니다"</string>
 </resources>
