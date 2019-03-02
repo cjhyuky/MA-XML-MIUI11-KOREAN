@@ -50,32 +50,6 @@
         <item>브라우저에서 온 메시지</item>
         <item>Mi와 함께하는 올림픽 관람</item>
     </string-array>
-    <string-array name="naver">
-        <item>naver</item>
-        <item>naver.com</item>
-        <item>http://www.naver.com/favicon.ico</item>
-        <item>http://search.naver.com/search.naver?where=nexsearch&amp;query={searchTerms}</item>
-        <item>euc-kr</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
-    </string-array>
-    <string-array name="naver_in_list">
-        <item>search_naver</item>
-        <item>ic_search_engine_naver</item>
-        <item>naver</item>
-    </string-array>
-    <string-array name="daum">
-        <item>daum</item>
-        <item>daum.net</item>
-        <item>http://www.daum.net/favicon.ico</item>
-        <item>http://search.daum.net/search?w=tot&amp;q={searchTerms}</item>
-        <item>euc-kr</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
-    </string-array>
-    <string-array name="daum_in_list">
-        <item>search_daum</item>
-        <item>ic_search_engine_daum</item>
-        <item>daum</item>
-    </string-array>
     <string-array name="suggestion_topic_tips">
         <item>포커스 보기</item>
         <item>주요 이슈</item>
