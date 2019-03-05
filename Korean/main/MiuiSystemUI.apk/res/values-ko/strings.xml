@@ -1943,4 +1943,8 @@
     <string name="gxzw_long_press_tip"/>
     <string name="face_unlock_not_roi">프레임안에 얼굴을 두세요</string>
     <string name="switch_system_user">메인 공간으로 돌아가기</string>
+    <string name="face_unlock_fail">"얼굴 인식 실패"</string>
+    <string name="face_unlock_fail_retry">"얼굴 인식 실패. 재시도 하려면 아이콘을 탭하세요."</string>
+    <string name="face_unlock_success_stay_screen_msg">얼굴이 인식된 후에도 잠금화면을 유지합니다. 위로 와이프하여 홈화면을 여세요.</string>
+    <string name="face_unlock_success_stay_screen_title">잠금 해제 후 잠금화면 유지</string>
 </resources>
