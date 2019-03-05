@@ -115,8 +115,8 @@
     <string name="input_wallet_information">휴대 전화 번호 입력</string>
     <string name="instant_bank_transfer">즉시 은행 송금</string>
     <string name="insurance_button">보험</string>
-    <string name="insurance_description">보험에서 추가 수리를 제공합니다.</string>
-    <string name="insurance_entrance">새로운 기기를 위한 Mi프로텍트</string>
+    <string name="insurance_description">OneAssist보험은 추가 수리서비스를 제공합니다.</string>
+    <string name="insurance_entrance">귀하의 새로운 기기를 보호하세요</string>
     <string name="item_name_battery">배터리</string>
     <string name="item_name_bluetooth">블루투스</string>
     <string name="item_name_frontcamera">전면 카메라</string>
@@ -161,7 +161,7 @@
 기기 가격은 변경 될 수 있습니다. 최고의 값을 받을 수 있도록 휴대폰을 판매하십시오.</string>
     <string name="recycle_button">재활용</string>
     <string name="recycle_description">이전 전화를 재활용하여 가격을 높이십시오.</string>
-    <string name="recycle_entrance">Cashify 재활용</string>
+    <string name="recycle_entrance">Cashify-귀하의 휴대전화를 판매하세요</string>
     <string name="reschedule">일정 변경</string>
     <string name="result_no_fail">모든 것이 훌륭합니다.</string>
     <string name="search_menu_title">검색</string>
@@ -216,4 +216,5 @@
     <string name="title_quote_page">전체 테스트</string>
     <string name="toast_not_support">현재 지역에서는 지원되지 않습니다.</string>
     <string name="touch_calibration_sub_title">탭 &amp; 드래그하여 지우기</string>
+    <string name="main_entrance">휴대전화를 판매하세요</string>
 </resources>
