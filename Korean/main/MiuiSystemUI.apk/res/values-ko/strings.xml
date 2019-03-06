@@ -1947,4 +1947,9 @@
     <string name="face_unlock_fail_retry">"얼굴 인식 실패. 재시도 하려면 아이콘을 탭하세요."</string>
     <string name="face_unlock_success_stay_screen_msg">얼굴이 인식된 후에도 잠금화면을 유지합니다. 위로 와이프하여 홈화면을 여세요.</string>
     <string name="face_unlock_success_stay_screen_title">잠금 해제 후 잠금화면 유지</string>
+  <string name="usb_port_short_circuit_dialog_content">기기 충전이 제한되었습니다. 충전기를 분리하고 충전 포트를 닦아서 모든 액체를 제거하여 충전 기능을 복원하십시오.</string>
+  <string name="usb_port_short_circuit_notification_content">충전기를 분리하고 충전 포트를 닦아서 모든 액체를 제거하십시오.</string>
+  <string name="usb_port_short_circuit_recovered_content">충전하거나 다른 장치에 연결할 때 사용할 수 있습니다.</string>
+  <string name="usb_port_short_circuit_recovered_title">충전 포트가 정상적으로 작동합니다.</string>
+  <string name="usb_port_short_circuit_title">"충전포트에 물기가 있습니다"</string>
 </resources>
