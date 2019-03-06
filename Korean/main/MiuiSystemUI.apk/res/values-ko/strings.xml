@@ -1940,7 +1940,7 @@
     <string name="aspect_message">이 앱은 전체 화면 모드로 다시 시작됩니다. 문제가 발생하는 경우 설정 &gt; 전체화면 디스플레이 &gt; 전체화면 모드 에서 이 앱의 전체화면 모드를 사용중지 할 수 있습니다. </string>
     <string name="aspect_ok">확인</string>
     <string name="aspect_title">전체화면 모드</string>
-    <string name="gxzw_long_press_tip"/>
+    <string name="gxzw_long_press_tip">"사용가능한 바로가기를 보려면 장치를 잠금해제한 후 손가락을 떼지 마십시오"</string>
     <string name="face_unlock_not_roi">프레임안에 얼굴을 두세요</string>
     <string name="switch_system_user">메인 공간으로 돌아가기</string>
     <string name="face_unlock_fail">"얼굴 인식 실패"</string>
