@@ -7941,4 +7941,5 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="settings_notify_new_version">업데이트가 있습니다. 자세한 사항을 보시려면 탭하세요.</string>
     <string name="crypt_keeper_switch_to_pattern">패턴 사용</string>
     <string name="crypt_keeper_switch_to_pin">PIN 사용</string>
+    <string name="dangerous_option_switch_title">높은 위험이 따르는 기능 알림</string>
 </resources>
