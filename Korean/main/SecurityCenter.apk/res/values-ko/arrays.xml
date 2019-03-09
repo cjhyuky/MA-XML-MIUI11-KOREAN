@@ -60,7 +60,6 @@
         <item>사용 빈도</item>
         <item>사용 중인 용량</item>
         <item>설치된 순서</item>
-        <item>사용하지 않는 앱 삭제</item>
     </string-array>
     <string-array name="sort_title">
         <item>상태로 정렬</item>
@@ -68,7 +67,6 @@
         <item>사용 빈도로 정렬</item>
         <item>사용 중인 용량으로 정렬</item>
         <item>설치된 순서로 정렬</item>
-        <item>사용하지 않는 앱 보기</item>
     </string-array>
     <string-array name="title_app_info">
         <item>설치 출처</item>
