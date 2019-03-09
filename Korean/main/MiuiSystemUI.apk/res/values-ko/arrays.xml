@@ -143,7 +143,7 @@
         <item>없음</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>끄기</item>
         <item>직사각형이 아닌 클립을 파란색 영역에 그려주세요.</item>
         <item>테스트 면을 녹색으로 칠해주세요.</item>
     </string-array>
@@ -151,7 +151,7 @@
         <item>매우 느리게</item>
         <item>느리게</item>
         <item>보통</item>
-        <item>Fast</item>
+        <item>빠르게</item>
         <item>아주 조금 빠르게</item>
         <item>아주 조금 빠르게</item>
         <item>매우 빠르게</item>
