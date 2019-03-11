@@ -662,8 +662,6 @@
     <string name="wallpaper_personal_dialog_content">이 기능을 사용하여 관심 분야에 맞게 개인화된 배경화면을 선택할 수 있습니다. 설정에서 이 기능을 켜고 끌 수 있습니다. 배경 화면을 맞춤설정 하시겠습니까?</string>
     <string name="wallpaper_personal_dialog_disagree">아니요</string>
     <string name="wallpaper_personal_dialog_title">배경화면 맞춤 설정</string>
-    <string name="ad_begin_to_install_tip">설치 중...</string>
-    <string name="ad_download_download_now">다운로드</string>
     <string name="dynamic_video_wallpaper">24시간 배경 화면</string>
     <string name="find_more_font">더 찾기</string>
     <string name="float_wallpaper_is_here">투명한 배경 화면</string>
