@@ -651,13 +651,6 @@
   <string name="notification_open_setting_button_ok">허용</string>
   <string name="notification_open_setting_message">"캘린더에서 알림을 보내지 않으면 이벤트에 대한 알림을 받을 수 없습니다."</string>
   <string name="notification_open_setting_title">캘린더 알림을 허용하시겠습니까?</string>
-  <string name="accessbility_suggestion_dropdown_closed">연락처 제안 꺼짐</string>
-  <string name="accessbility_suggestion_dropdown_opened">연락처 제안 켜짐</string>
-  <string name="action_label">돌아가기</string>
-  <string name="chips_action_cancel">취소</string>
-  <string name="chips_action_copy">복사</string>
-  <string name="chips_permission_text">연락처 제안 허용하기</string>
-  <string name="dropdown_delete_button_desc">수신인에서 %s 삭제</string>
   <string name="feed_list_load_more">더 보기</string>
    <string name="address">주소</string>
    <string name="credit_detail_sms_content">SMS메시지</string>
