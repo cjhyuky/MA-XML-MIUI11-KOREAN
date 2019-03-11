@@ -702,5 +702,6 @@
     <string name="transparent_wallpaper_white_wallpaper_success">배경색은 흰색입니다.</string>
     <string name="transparent_wallpaper_white_wallpaper_tip">흰색 바탕에 투명 벽지가 가장 잘 나타납니다.</string>
     <string name="video_wallpaper_import">탭하여 항목 추가</string>
-    <string name="wallpaper_set_as_float_wallpaper">투명 배경화면 (베타)</string>
+    <string name="wallpaper_set_as_float_wallpaper">투명 배경화면(베타)</string>
+    <string name="desktop_effects">홈화면 효과</string>
 </resources>
