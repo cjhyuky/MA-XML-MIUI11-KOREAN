@@ -1066,4 +1066,9 @@
     <string name="hint_ae_lock">자동 노출이 잠겨있습니다</string>
     <string name="config_name_ratio">비율</string>
     <string name="module_name_pixel_48M">4800만화소</string>
+  <string name="pref_camera_long_press_viewfinder_title">뷰파인더 누르고 기다리기</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">구글 렌즈</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">자동 노출 &amp; 오토 포커스 잠금</string>
+  <string name="pref_google_lens_summary">QR코드, 이메일, 숫자 및 텍스트 자동 인식</string>
+  <string name="pref_google_lens_title">스마트 제안</string>
 </resources>
