@@ -81,4 +81,10 @@
     <plurals name="work_days">
         <item quantity="other">평일 %d 일</item>
     </plurals>
+    <plurals name="repeat_custom_prompt">
+        <item quantity="other">%2$s의 모든 %1$s</item>
+    </plurals>
+    <plurals name="travel_eta_advice">
+        <item quantity="other">%1$s로 %2$s분 드라이브</item>
+    </plurals>
 </resources>
