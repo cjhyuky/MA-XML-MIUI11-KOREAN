@@ -106,7 +106,6 @@
     <string name="date_interval_text_to">%1$s 부터</string>
     <string name="date_jump_hint">특정 날짜로 바로 이동</string>
     <string name="date_jump_title">특정일로 이동</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (오늘)"</string>
     <string name="day_view_new_event_hint">새 일정</string>
     <string name="default_reminder_mode">미리 알림</string>
