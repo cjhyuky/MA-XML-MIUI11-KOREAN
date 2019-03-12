@@ -260,4 +260,5 @@
     <string name="volume_boost_text">볼륨 증폭 완료</string>
     <string name="supp_service_notification_call_waiting">상대방이 통화중입니다. 잠시만 기다려 주십시오.</string>
     <string name="call_not_support_high_frequency_click">"이 버튼을 너무 자주 탭하지 마세요"</string>
+    <string name="volte_call">VoLTE 통화</string>
 </resources>
