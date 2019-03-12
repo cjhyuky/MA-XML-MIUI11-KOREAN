@@ -62,13 +62,10 @@
         <item>매우 만족</item>
     </string-array>
     <string-array name="trans_cancel_survey_title">
-        <item>전송 시간이 오래 걸림</item>
-        <item>연결이 중단되었습니다.</item>
-        <item>전송할 항목을 잘못 선택했습니다.</item>
-        <item>단계가 너무 많습니다</item>
-        <item>"휴대 전화 배터리가 부족합니다."</item>
-        <item>전송 된 항목이 손상되었습니다.</item>
-        <item>실수로 전송을 시작했습니다.</item>
-        <item>기타</item>
+        <item>전반적인 경험</item>
+        <item>복사 시간</item>
+        <item>심플한 프로세스</item>
+        <item>명확한 지시</item>
+        <item>이 기능은 유용합니다</item>
     </string-array>
 </resources>
