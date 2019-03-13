@@ -1278,4 +1278,6 @@
   <string name="midrop_send">보내기</string>
   <string name="whatsapp_parent">왓츠앱</string>
   <string name="whatsapp_photos">사진</string>
+    <string name="disclaimer_content">이 기능은 %1$s 회사 제공입니다. %1$s 회사는 이 서비스를 제공하는데에 대한 모든 책임이 있습니다. 궁금한 사항이 있으시면 %1$s 회사에 문의하세요.</string>
+    <string name="disclaimer_title">포기 성명</string>
 </resources>
