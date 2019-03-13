@@ -1070,11 +1070,13 @@
   <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">구글 렌즈</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">자동 노출 &amp; 오토 포커스 잠금</string>
   <string name="pref_google_lens_summary">QR코드, 이메일, 숫자 및 텍스트 자동 인식</string>
-  <string name="pref_google_lens_title">스마트 제안</string>
+  <string name="pref_google_lens_title">스마트 렌즈</string>
   <string name="wideselfie_press_shoot_key_to_start">셔터 버튼을 누르세요</string>
   <string name="wideselfie_rotate_slowly">천천히 전화를 회전시키세요</string>
   <string name="wideselfie_rotate_to_back">장치를 뒤쪽으로 기울이세요</string>
   <string name="wideselfie_rotate_to_front">장치를 앞으로 기울이세요</string>
   <string name="wideselfie_rotate_to_left_slowly">전화를 천천히 왼쪽으로 돌리세요</string>
   <string name="wideselfie_rotate_to_right_slowly">전화를 천천히 오른쪽으로 돌리세요</string>
+    <string name="macro_mode">근접 모드</string>
+    <string name="macro_mode_tip">사물을 10cm안에 두세요</string>
 </resources>
