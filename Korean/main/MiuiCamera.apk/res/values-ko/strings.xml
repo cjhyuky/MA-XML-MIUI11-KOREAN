@@ -1077,4 +1077,6 @@
   <string name="wideselfie_rotate_to_front">장치를 앞으로 기울이세요</string>
   <string name="wideselfie_rotate_to_left_slowly">전화를 천천히 왼쪽으로 돌리세요</string>
   <string name="wideselfie_rotate_to_right_slowly">전화를 천천히 오른쪽으로 돌리세요</string>
+    <string name="macro_mode">근접 모드</string>
+    <string name="macro_mode_tip">사물을 10cm안에 두세요</string>
 </resources>
