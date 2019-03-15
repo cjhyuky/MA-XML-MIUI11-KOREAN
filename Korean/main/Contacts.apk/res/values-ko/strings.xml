@@ -1355,6 +1355,6 @@
     <string name="description_image_button_sim1_named_dial">SIM1 %s으로 통화</string>
     <string name="description_image_button_sim2_named_dial">SIM2 %s으로 통화</string>
   <string name="account_dual_sim">SIM카드 %s</string>
-  <string name="confirm_call_log_dial_summary">실수로 전화를 걸지 않도록 통화 기록에서 전화를 걸기 전에 확인을 요청하십시오.</string>
-  <string name="confirm_call_log_dial_title">통화 기록에서 다이얼 확인</string>
+  <string name="confirm_call_log_dial_summary">실수로 전화를 걸지 않도록 통화 기록에서 전화를 걸기 전에 확인을 요청합니다.</string>
+  <string name="confirm_call_log_dial_title">통화기록에서 바로 통화연결 확인</string>
 </resources>
