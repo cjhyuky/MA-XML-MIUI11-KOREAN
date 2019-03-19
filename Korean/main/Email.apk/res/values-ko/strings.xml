@@ -1173,4 +1173,8 @@
     <string name="open_androidp_warning">오픈 9.0 비공식 SDK 경고</string>
     <string name="qq_login_notice">경고 팁 : 독립 암호를 설정한 경우 사서함에 대한 정보를 확인하기 위해 독립적인 암호를 입력해야합니다.</string>
     <string name="qq_pwd_or_qq_auth_code">QQ 인증 코드 또는 사서함 암호</string>
+    <string name="folder_empty_to_fresh">"메일이 동기화되지 않았습니다. 동기화하려면 아래로 당기세요."</string>
+    <string name="folder_no_mails">이 폴더에는 이메일이 없습니다</string>
+    <string name="toast_bar_sync_failed_mi_authority">동기화에 실패했습니다. 나중에 다시 시도하십시오. 새 장치에 로그인하려면 계정센터 나 SMS를 통해 장치를 인증하셔야합니다.</string>
+    <string name="wipe_account_fail_description_remind">데이터 사용 권한으로 인해 계정을 삭제한 후 캘린더와 주소록에 데이터가 남아있을 수 있으므로 수동으로 삭제하십시오.</string>
 </resources>
