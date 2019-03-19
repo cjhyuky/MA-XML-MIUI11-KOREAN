@@ -8162,4 +8162,23 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="yes">네</string>
     <string name="zen_mode_event_rule_reply_yes">네</string>
     <string name="zen_mode_schedule_rule_days">일</string>
+  <string name="auto_dual_clock_summary">현재 시간이 두번째 시간과 다른경우 듀얼시계를 표시합니다</string>
+  <string name="auto_dual_clock_title">듀얼 시계</string>
+  <string name="cutout_type_desc">부드러운 노치 커브 켜기</string>
+  <string name="cutout_type_title">노치 모양 선택</string>
+  <string name="dual_clock">듀얼 시계</string>
+  <string name="dual_clock_aod_hint">"\"듀얼 시계\"는 다음과 같은 기능을 제공합니다: 1. 화면이 꺼져있는 경우 설정 - 디스플레이에서 항목표시 허용 2. 잠금 화면에서 다음 중 하나를 사용하고 있는지 확인하십시오. 설정 - 테마의 기본 테마 또는 클래식 테마 3. 홈 스크린의 경우 기본 시스템 시계 위젯을 사용하고 있는지 확인하십시오."</string>
+  <string name="dual_clock_hint">"\"Dual Clock\" "\"듀얼 시계\"는 다음 기능을 사용합니다 : 1. 잠금 화면에서 설정> 테마> 기본 또는 클래식 테마를 사용하고 있는지 확인하십시오 2. 홈 화면 기본 시스템 시계 위젯을 사용하고 있는지 확인하십시오."</string>
+  <string name="dual_clock_ok">확인</string>
+  <string name="dual_clock_open_message">잠금화면, 홈화면, 그리고 화면이 꺼진 상태에서도 듀얼 시계가 표시됩니다.</string>
+  <string name="more_installed_services_title">더 많은 다운로드된 서비스</string>
+  <string name="otg_button">OTG</string>
+  <string name="otg_closed">꺼짐</string>
+  <string name="otg_opened">켜짐</string>
+  <string name="otg_settings">OTG</string>
+  <string name="otg_tip">"USB On-The-Go는 USB 드라이브와 휴대용 키보드를 모바일 장치에 연결하고 데이터를 교환할 수 있게 합니다.
+
+OTG는 10분 동안 사용하지 않으면 자동으로 꺼집니다."</string>
+  <string name="resident_timezone_summary">두번째 시계</string>
+  <string name="toast_sta_ap_works_wifi_display_disable">"Wi-Fi 연결이 되어 있거나 핫스팟이 켜져 있으면 전송할 수 없습니다."</string>
 </resources>
