@@ -2659,7 +2659,7 @@ SMS 전송"</string>
     <string name="gamebox_app_not_find">앱을 먼저 설치하세요.</string>
     <string name="gs_gamebox_slip">화면을 내려서 여세요</string>
     <string name="ad_split_screen_title">분할 화면 모드를 종료해 잠금 해제</string>
-    <string name="gs_slip_gamebox_detail">슬라이더를 사용하여 바로 가기 패널을 표시합니다. 빠른 답장과 화면 녹화 옵션을 사용할 수 있습니다.</string>
+    <string name="gs_slip_gamebox_detail">화면의 상단 가장자리에서 슬라이더를 사용하거나 스와이프하여 바로 가기 패널을 표시합니다</string>
     <string name="om_locked_apps_summary">잠긴 앱은 속도 향상에 의해 무시됩니다.</string>
     <string name="om_not_finish_speedboost">속도 향상이 필요합니다</string>
     <string name="om_promotion">광고</string>
