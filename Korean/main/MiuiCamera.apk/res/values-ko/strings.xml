@@ -1039,7 +1039,7 @@
     <string name="accessibility_lighting_panel_off">스튜디오 조명 바 표시안함</string>
     <string name="autozoom_hint">사물 추적</string>
     <string name="autozoom_disabled_hint">사물 추적 중단됨</string>
-    <string name="autozoom_click_hint">추적을 시작하려면 사물을 누르세요. 최고의 효과를 내기 위해 최소 3미터 이상 떨어져있어야합니다.</string>
+    <string name="autozoom_click_hint">움직이는동안 초점을 유지하려면 사물을 탭하십시오. 최상의 효과를 내기 위해서는 최소한 3미터 이상 떨어져 있어야합니다.</string>
     <string name="beauty_body_slim_count_tip">체형 효과는 독사진에만 작동합니다</string>
     <string name="camera_liveshot_on_tip">다이나믹 촬영 켜짐</string>
     <string name="camera_liveshot_off_tip">다이나믹 촬영 꺼짐</string>
