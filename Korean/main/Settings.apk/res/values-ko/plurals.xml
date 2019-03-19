@@ -334,4 +334,61 @@
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s 시간 %2$s"</item>
     </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d개 앱 데이터 파일</item>
+    </plurals>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d개 시스템 데이터 파일</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d개 항목</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d개 권한</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"%d개 앱 자동시작 불가"</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d개 앱 자동시작 가능</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d개 앱</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d개 게임 추가됨</item>
+    </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d명 추가됨</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"%d개 항목 불러옴"</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">%d개 항목 다시 부르기.</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">%d개 항목 로딩 후 복원됨</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">%d개 항목 복원됨</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">항목</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d 항목</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d 개 항목,</item>
+    </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">"%d개 항목 전송 실패 . 세부사항을 보려면 탭하세요."</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">"%d개 항목 전송 실패."</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">"%d개 게임 추가 실패"</item>
+    </plurals>
 </resources>
