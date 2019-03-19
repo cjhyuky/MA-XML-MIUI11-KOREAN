@@ -1764,4 +1764,7 @@
   <string name="ad_exit_dialog_message">설치가 완료되었습니다! 지금 열기를 원하십니까?</string>
   <string name="ad_exit_dialog_open_btn_name">열기</string>
   <string name="ad_exit_dialog_title_name">새로운 앱 열기 확정</string>
+  <string name="data_traffic_download_confirm">모바일 데이터 연결 사용</string>
+  <string name="data_traffic_download_ok">확인</string>
+  <string name="load_error_tip">로딩 에러, 클릭하여 재시도하세요</string>
 </resources>
