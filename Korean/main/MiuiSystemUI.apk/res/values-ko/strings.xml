@@ -1952,4 +1952,6 @@
   <string name="usb_port_short_circuit_recovered_content">충전하거나 다른 장치에 연결할 때 사용할 수 있습니다.</string>
   <string name="usb_port_short_circuit_recovered_title">충전 포트가 정상적으로 작동합니다.</string>
   <string name="usb_port_short_circuit_title">"충전포트에 물기가 있습니다"</string>
+      <string name="face_unlock_success">얼굴 데이터 인증 완료</string>
+  <string name="rapid_charge_mode_tip">빠른 충전 모드</string>
 </resources>
