@@ -923,4 +923,6 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="cit_tool_modem_mbn_config_load_and_active">MBN 설정 로딩 및 활성화 툴</string>
   <string name="cit_tool_opt_fail_info_notify">옵션이 실패했습니다. 다시 시도하려면 전화를 다시 시작하십시오.</string>
   <string name="motor_calibration">모터 캘리브레이션</string>
+  <string name="cit_splash_check_summary">검은 색 화면 현상이 5초 이상 있는지 확인하십시오.</string>
+  <string name="cit_tool_splash_test_title">스플래시 테스트</string>
 </resources>
