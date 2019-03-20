@@ -1530,4 +1530,18 @@
   <string name="set_as_video_wallpaper_description">이 항목을 다운로드하여 비디오 배경화면으로 사용 하시겠습니까?</string>
   <string name="set_as_video_wallpaper_title">비디오 배경화면 설정</string>
   <string name="set_video_wallpaper_failed">"이 항목을 비디오 배경 화면으로 사용할 수 없습니다"</string>
+  <string name="cleaner_similar_action">바로 삭제</string>
+  <string name="cleaner_similar_description">복제된 사진 삭제</string>
+  <string name="cleaner_similar_title">사진 복제</string>
+  <string name="cleaner_video_action">바로 삭제</string>
+  <string name="cleaner_video_description">저장공간을 차지하고 있는 비디오 삭제</string>
+  <string name="cleaner_video_pick_delete_selected">선택된 비디오 삭제</string>
+  <string name="cleaner_video_title">비디오 삭제</string>
+  <string name="print_log">인쇄 기록</string>
+  <string name="screen_doodle_talkback_size">낙서 라인 두께</string>
+  <string name="screen_editor_finish">완료</string>
+  <string name="screen_save_dialog_btn_cancel">취소</string>
+  <string name="screen_save_dialog_btn_delete">스크린샷 삭제</string>
+  <string name="screen_save_dialog_btn_save">갤러리에 저장</string>
+  <string name="similar_keep_clear">최고의 샷을 남기세요</string>
 </resources>
