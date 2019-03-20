@@ -102,4 +102,6 @@
     <string name="current_permission_template">%2$s의 %1$s</string>
     <string name="never_ask_again">다시 묻지 않기</string>
     <string name="permission_warning_template_ask">%1$s 앱에 아래의 권한을 허용하시겠습니까？</string>
+    <string name="HIPS_Perm_UDevice_ID">장치 정보의 일부를 게임 개발자와 공유하여 게임 경험을 향상 시키십시오. 동의하십니까?</string>
+    <string name="HIPS_Perm_UDevice_ID_DESC">게임 개발자와 장치 정보의 일부를 공유하여 게임 경험을 향상시킵니다. 동의하십니까?</string>
 </resources>
