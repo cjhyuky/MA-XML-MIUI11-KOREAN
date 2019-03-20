@@ -213,4 +213,10 @@
     <plurals name="sync_oversized_count">
         <item quantity="other">%d개의 항목이 백업하기에 너무 큽니다</item>
     </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">총 %1$d개 항목</item>
+    </plurals>
+	 <plurals name="video_count_format">
+        <item quantity="other">%1$d개 파일</item>
+    </plurals>
 </resources>
