@@ -1483,7 +1483,7 @@
     <string name="quick_settings_nfc_on">NFC 켜짐</string>
     <string name="quick_settings_night_display_label">야간 모드</string>
     <string name="quick_settings_notifications_label">알림</string>
-    <string name="quick_settings_papermode_label">독서모드</string>
+    <string name="quick_settings_papermode_label">독서 모드</string>
     <string name="quick_settings_powermode_label">성능향상모드</string>
     <string name="quick_settings_quietmode_label">방해금지모드</string>
     <string name="quick_settings_reset_confirmation_button">숨기기</string>
