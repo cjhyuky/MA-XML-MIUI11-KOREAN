@@ -20,7 +20,7 @@
     <string name="power_mode_view_event_title">일정</string>
     <string name="power_event_view_event_title">트리거</string>
     <string name="normal">기본 모드</string>
-    <string name="reading">시력보호 모드</string>
+    <string name="reading">독서모드</string>
     <string name="media">미디어 모드</string>
     <string name="action_bar_delete">삭제</string>
     <string name="operation_create_group">이름</string>
