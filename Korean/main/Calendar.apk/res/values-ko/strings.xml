@@ -675,4 +675,12 @@
    <string name="reminder_overdue">만료기한</string>
    <string name="train_detail_title">기차 일정</string>
    <string name="train_event_delete_successfully">기차 일정 삭제 완료</string>
+  <string name="feed_tips_got_it">확인</string>
+  <string name="feed_tips_primary_text">캘린더 구독 채널 갱신 버전</string>
+  <string name="feed_tips_secondary_text">풍부한 정보와 효율적인 서비스의 완벽한 통합</string>
+  <string name="feed_tips_see_details">상세 보기</string>
+  <string name="feed_tips_subscribe_more">더 많은 채널 구독하기</string>
+  <string name="weather_huangli_card_no_data_hint">날씨 정보를 보려면 클릭하십시오</string>
+  <string name="yiji_app_download_card_lebal">해야 할 일</string>
+  <string name="setting_title_weather_card_desc">음력 카드 오른쪽에 날씨 정보</string>    
 </resources>
