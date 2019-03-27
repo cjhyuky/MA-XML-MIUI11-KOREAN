@@ -2755,4 +2755,5 @@ SMS 전송"</string>
     <string name="third_desktop_dialog_title">에러</string>
     <string name="gamecenter_install_fail">"설치 실패"</string>
     <string name="gamecenter_install_sucessfull">설치 완료</string>
+    <string name="gb_shortcut_pref_title">홈 화면 바로가기</string>
 </resources>
