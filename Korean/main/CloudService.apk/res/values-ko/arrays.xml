@@ -26,4 +26,104 @@
         <item>캘린더</item>
         <item>저장공간</item>
     </string-array>
+  <string-array name="settings_search_contacts">
+        <item>Mi 클라우드 연락처 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>연락처;통화 내역;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Mi 클라우드 메시지 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>메시지;SMS;MMS;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Mi 클라우드 갤러리 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>갤러리;사진;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Mi 클라우드 통화내역 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>통화내역;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Mi 클라우드 음성 녹음 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>음성 녹음;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Mi 클라우드 음악 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>음악;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Mi 클라우드 메모장 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>메모장;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Mi 클라우드 Wi-Fi 설정 동기화</item>
+        <item>동기화 켜기</item>
+        <item>WLAN;wifi;WLAN;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Mi 클라우드 캘린더 동기화</item>
+        <item>동기화 켜기</item>
+        <item>캘린더;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Mi 클라우드 브라우저 동기화</item>
+        <item>동기화 켜기</item>
+        <item>브라우저;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Mi 클라우드 보안 동기화</item>
+        <item>동기화 켜기</item>
+        <item>보안;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Mi 클라우드 퀵 카드 동기화</item>
+        <item>동기화 켜기</item>
+        <item>퀵 카드;카드;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Mi 클라우드. 모든 Mi 서비스를 한곳에서.</item>
+        <item>어디서나 사진, 연락처, 메시지 및 장치에 접근하십시오.</item>
+        <item>저장 용량 부족;멤버쉽;저장 공간;저장 공간;클라우드;동기화;클라우드 서비스;Mi 클라우드;휴지통;삭제된 항목;보안</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>기기 찾기</item>
+        <item>"분실시 기기 잠금 및 데이터 삭제"</item>
+        <item>기기 찾기;분실;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>기기 찾기</item>
+        <item>"분실시 기기 잠금 및 데이터 삭제"</item>
+        <item>기기 찾기;분실;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+	</string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Mi 클라우드에서 삭제된 항목</item>
+        <item>연락처, 사진, 메시지 등을 복원하십시오</item>
+        <item>휴지통;삭제된 항목;휴지통;복원;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Mi 클라우드 멤버쉽</item>
+        <item>멤버쉽을 업그레이드하고 더 많은 저장 공간을 확보하여 데이터를 보호하십시오</item>
+        <item>저장 용량 부족;멤버쉽;저장 공간;저장 공간;클라우드;동기화;클라우드 서비스;Mi 클라우드;메가;울트라;VIP;백업;백업;복원;휴지통;삭제된 항목;휴지통</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Mi 클라우드에 홈 화면 백업</item>
+        <item>홈 화면의 레이아웃, 설치된 앱 목록 및 시스템 설정 백업</item>
+        <item>클라우드;백업;백업;클라우드 서비스;Mi 클라우드;홈 화면;레이아웃;앱;설정;백업 주기;백업 관리;복원</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>백업</item>
+        <item>백업된 항목</item>
+        <item>클라우드;백업;백업;클라우드 서비스;Mi 클라우드;홈 화면;레이아웃;앱;백업 관리;복원</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Mi 클라우드에서 항목 복원</item>
+        <item>백업된 항목을 기기에 다운로드</item>
+        <item>클라우드;백업;백업;복원;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
 </resources>
