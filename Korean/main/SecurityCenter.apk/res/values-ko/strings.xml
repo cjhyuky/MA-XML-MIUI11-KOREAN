@@ -67,8 +67,7 @@
     <string name="menu_remove">삭제</string>
     <string name="st_settings_name">차단 목록 설정</string>
     <string name="st_filter_keywords_setting_summary1">이 목록에 있는 단어를 포함한 알 수 없는 번호에서 온 메시지는 차단됩니다.</string>
-    <string name="st_filter_keywords_setting_summary2">"
-(쉼표를 사용하여 여러 키워드 구분)"</string>
+    <string name="st_filter_keywords_setting_summary2">(여러 개의 키워드를 구분하려면 쉼표를 사용하세요)</string>
     <string name="label_callwait">통화 대기 알림</string>
     <string name="open_callwait">켜짐</string>
     <string name="close_callwait">꺼짐</string>
@@ -2747,11 +2746,13 @@ SMS 전송"</string>
     <string name="app_permission_use_title">권한</string>
     <string name="cta_dialog_negative">나가기</string>
     <string name="cta_dialog_positive">동의</string>
-  <string name="forground_network_optimization_summary">현재 실행중인 게임에 더 많은 대역폭 제공</string>
-  <string name="forground_network_optimization_title">대역폭 우선 순위</string>
-  <string name="function_shield_summary_m">자동 밝기 및 스크린샷 제스쳐 무시하기</string>
+    <string name="forground_network_optimization_summary">현재 실행중인 게임에 더 많은 대역폭 제공</string>
+    <string name="forground_network_optimization_title">대역폭 우선 순위</string>
+    <string name="function_shield_summary_m">자동 밝기 및 스크린샷 제스쳐 무시하기</string>
     <string name="security_center_slogan">보안. 언제나 이상 무.</string>
-  <string name="third_desktop_dialog_content">타사의 런처 앱은 데이터 유출, 비정상적인 배터리 소모 및 지연 등과 같은 문제를 일으킬 수 있으므로 MIUI에서 확인한 애플리케이션만 기본런처로 설정할 수 있습니다.</string>
-  <string name="third_desktop_dialog_ok">확인</string>
-  <string name="third_desktop_dialog_title">에러</string>
+    <string name="third_desktop_dialog_content">타사의 런처 앱은 데이터 유출, 비정상적인 배터리 소모 및 지연 등과 같은 문제를 일으킬 수 있으므로 MIUI에서 확인한 애플리케이션만 기본런처로 설정할 수 있습니다.</string>
+    <string name="third_desktop_dialog_ok">확인</string>
+    <string name="third_desktop_dialog_title">에러</string>
+    <string name="gamecenter_install_fail">"설치 실패"</string>
+    <string name="gamecenter_install_sucessfull">설치 완료</string>
 </resources>
