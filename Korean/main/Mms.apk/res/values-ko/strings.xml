@@ -828,4 +828,19 @@
     <string name="menu_traffic_destination">목적지</string>
     <string name="number_recognition_partner">발신번호 확인 서비스 제공자</string>
     <string name="train_edit_destination">추가</string>
+  <string name="application_list_title">미니 앱</string>
+  <string name="attach_group_chat">그룹 채팅</string>
+  <string name="attach_video_call">영상 통화</string>
+  <string name="can_not_view_group_chat_stranger">"세부 정보를 볼 수 없습니다."</string>
+  <string name="contact_not_exists">"이 사람은 연락처에 없는 사람입니다."</string>
+  <string name="groupchat_list_title">그룹 채팅</string>
+  <string name="menu_make_call">통화</string>
+  <string name="menu_view_group_info">그룹 정보</string>
+  <string name="no_network_description">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하십시오."</string>
+  <string name="rcs_auto_resend_as_sms_remind_change">설정 변경</string>
+  <string name="rcs_auto_resend_as_sms_remind_desp">"네트워크 신호가 약할 때 최대 900B의 메시지를 변환하여 SMS로 보낼 수 있습니다. 메시지를 SMS로 변환하지 않으려면 \"설정 변경\"을 누르십시오."</string>
+  <string name="rcs_auto_resend_as_sms_remind_title">SMS로 변환</string>
+  <string name="rcs_hello_from_pc">컴퓨터에서 Fetion에 로그인하여 파일을 전송하십시오.</string>
+  <string name="rcs_offline">UC에 로그인하지 않았습니다. 잠시후 다시 시도하십시오.</string>
+  <string name="select_copy_text">복사할 텍스트를 선택하세요</string>
 </resources>
