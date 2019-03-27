@@ -925,4 +925,10 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="motor_calibration">모터 캘리브레이션</string>
   <string name="cit_splash_check_summary">검은 색 화면 현상이 5초 이상 있는지 확인하십시오.</string>
   <string name="cit_tool_splash_test_title">스플래시 테스트</string>
+  <string name="cit_tool_dc_backlight_toast_off">DC 백라이트 끄기</string>
+  <string name="cit_tool_dc_backlight_toast_on">DC 백라이트 켜기</string>
+  <string name="dc_backlight_title">낮은 밝기를 위한 DC 백라이트 모드</string>
+  <string name="open_dc_backlight_summary">"특정 디스플레이 설정은 DC 백라이트 모드와 호환되지 않지만이 모드를 해제하면 복원됩니다."DC 백라이트 모드를 켜시겠습니까?"</string>
+  <string name="screen_cancel">끄기</string>
+  <string name="screen_confirm">켜기</string>
 </resources>
