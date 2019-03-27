@@ -656,5 +656,10 @@
         <item>온두라스</item>
         <item>수리남</item>
         <item>에콰도르</item>
-    </string-array>    
+    </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>흰색</item>
+        <item>검정색</item>
+        <item>자동</item>
+    </string-array>
 </resources>
