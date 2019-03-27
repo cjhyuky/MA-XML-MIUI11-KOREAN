@@ -1384,13 +1384,14 @@ Ultimate Inc. 에 의해 제공됩니다."</string>
     <string name="app_permission_use_group_storage_desc">기기에 저장된 노래를 찾고 재생하기 위한 권한</string>
     <string name="data_use_desc">법적 서류</string>
     <string name="privacy_desc">개인정보 보호정책(필수)</string>
-  <string name="all_albums">모든 앨범</string>
-  <string name="all_artists">모든 아티스트</string>
-  <string name="all_playlists">모든 재생목록</string>
-  <string name="all_songs">모든 노래</string>
-  <string name="all_videos">모든 비디오</string>
-  <string name="search_hint_local">기기 내의 노래 검색</string>
-  <string name="search_hint_online">온라인에서 아티스트, 앨범, 노래, 재생목록 검색</string>
-  <string name="tab_playlist">재생목록</string>
-  <string name="tab_video">비디오</string>
+    <string name="all_albums">모든 앨범</string>
+    <string name="all_artists">모든 아티스트</string>
+    <string name="all_playlists">모든 재생목록</string>
+    <string name="all_songs">모든 노래</string>
+    <string name="all_videos">모든 비디오</string>
+    <string name="search_hint_local">기기 내의 노래 검색</string>
+    <string name="search_hint_online">온라인에서 아티스트, 앨범, 노래, 재생목록 검색</string>
+    <string name="tab_playlist">재생목록</string>
+    <string name="tab_video">비디오</string>
+    <string name="voice_search_first_hint">음성 검색을 사용해보세요!</string>
 </resources>
