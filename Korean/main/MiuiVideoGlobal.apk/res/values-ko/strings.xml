@@ -351,7 +351,6 @@
     <string name="com_permission_title">권한 필요함</string>
     <string name="airkan_device_xiaomi_phone" formatted="false">내 휴대전화</string>
     <string name="subtitle_onlinesub_language" formatted="false">언어: %s</string>
-    <string name="abc_capital_off">사용 안함</string>
     <string name="add_to_trust_device">이것은 신뢰할 수있는 장치입니다</string>
     <string name="agree">동의함</string>
     <string name="ai_animation_music_text">AI 사운드 트랙</string>
@@ -417,7 +416,7 @@
     <string name="click_to_reload_more">탭하여 더 많은 정보 로드</string>
     <string name="click_to_retry">다시 시도하십시오</string>
     <string name="common_google_play_services_enable_button">사용</string>
-    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정하지 않으면 '%1$s' 앱이 작동하지 않습니다.</string>
+    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정하지 않으면 %1$s 앱이 작동하지 않습니다.</string>
     <string name="common_google_play_services_enable_title">Google Play 서비스 사용</string>
     <string name="common_google_play_services_install_button">설치</string>
     <string name="common_google_play_services_install_text">"%1$s 앱은 기기에서 누락된 Google Play 서비스 없이는 실행되지 않습니다."</string>
