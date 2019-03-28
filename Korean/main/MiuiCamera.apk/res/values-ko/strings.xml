@@ -1079,9 +1079,6 @@
     <string name="wideselfie_rotate_to_right_slowly">전화를 천천히 오른쪽으로 돌리세요</string>
     <string name="macro_mode">근접 모드</string>
     <string name="macro_mode_tip">사물을 10cm안에 두세요</string>
-    <string name="accessibility_bokeh_normal">전면 카메라 배경 흐림 효과가 꺼져 있습니다</string>
-    <string name="accessibility_bokeh_on">전면 카메라 배경 흐림 효과가 켜져 있습니다</string>
-    <string name="bokeh_use_hint">깊이 효과</string>
     <string name="mimoji_back">뒤로</string>
     <string name="mimoji_cancle">취소</string>
     <string name="mimoji_confirm">확인</string>
@@ -1106,8 +1103,6 @@
     <string name="recapture_dialog_message">재촬영 하시겠습니까？</string>
     <string name="recapture_dialog_title">재촬영을 하면 현재 사진은 지워집니다</string>
     <string name="wideselfie_result_image_lossless">파노라마 사진 저장 실패</string>
-    <string name="pref_camera_front_bokeh_entry_off">꺼짐</string>
-    <string name="pref_camera_front_bokeh_entry_on">켜짐</string>
     <string name="dialog_google_lens_option_0">구글 렌즈(추천)</string>
     <string name="pref_camera_long_press_viewfinder_google_lens">구글 렌즈</string>
     <string name="pref_camera_long_press_viewfinder_lock_ae_af">자동노출/오토포커스 잠금</string>
