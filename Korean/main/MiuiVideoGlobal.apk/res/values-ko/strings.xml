@@ -22,9 +22,9 @@
     <string name="file_error">파일 오류</string>
     <string name="connect_error">연결 오류</string>
     <string name="source_error">소스 불러오기 실패</string>
-    <string name="download_error">Download error</string>
+    <string name="download_error">다운로드 에러</string>
     <string name="download_file_fail">로컬 파일에 접근할 수 없음, 저장소 공간이 충분한지 확인하십시오.</string>
-    <string name="offline_max_promote">Waiting, only 2 tasks can run at the same time.</string>
+    <string name="offline_max_promote">대기중, 한번에 2개의 작업까지만 실행가능합니다.</string>
     <string name="addon">" 플러그인"</string>
     <string name="addon_category">애드온</string>
     <string name="add_more_addons">더 많은 애드온 추가</string>
