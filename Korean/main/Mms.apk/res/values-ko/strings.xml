@@ -842,5 +842,4 @@
   <string name="rcs_auto_resend_as_sms_remind_title">SMS로 변환</string>
   <string name="rcs_hello_from_pc">컴퓨터에서 Fetion에 로그인하여 파일을 전송하십시오.</string>
   <string name="rcs_offline">UC에 로그인하지 않았습니다. 잠시후 다시 시도하십시오.</string>
-  <string name="select_copy_text">복사할 텍스트를 선택하세요</string>
 </resources>
