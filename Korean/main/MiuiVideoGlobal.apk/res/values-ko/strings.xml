@@ -597,7 +597,7 @@
     <string name="lv_subtitle_onlinesub_loading">자막 로드중...</string>
     <string name="lv_subtitle_onlinesub_loading_wait">자막 로드중...</string>
     <string name="lv_subtitle_onlinesub_right_declare">면책 조항</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content"><br/><br/><a href=http://www.opensubtitles.org>opensubtitles.org</a>의 자막 가져 오기. <br/><br/> 전체 온라인 자막은 <a href=http://www.opensubtitles.org>opensubtitles.org</a>에서 제공합니다.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content"><a href=http://www.opensubtitles.org>opensubtitles.org</a>의 자막 가져 오기. 전체 온라인자막은 <a href=http://www.opensubtitles.org>opensubtitles.org</a>에서 제공합니다.</string>
     <string name="lv_subtitle_onlinesub_save_failed">"자막을 추가할 수 없습니다"</string>
     <string name="lv_subtitle_onlinesub_save_success">부제가 성공적으로 추가되었습니다.</string>
     <string name="lv_subtitle_onlinesub_search_keyword">검색할 키워드 입력</string>
