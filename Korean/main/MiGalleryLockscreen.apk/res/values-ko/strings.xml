@@ -419,7 +419,6 @@
     <string name="carousel_declaration_des_new">맞춤 추천을 받고 매일 새로운 화면과 이야기를 잠금화면으로 가져옵니다.</string>
     <string name="carousel_declaration_title_new">매일 신선한 배경화면</string>
     <string name="cat_19">만화</string>
-    <string name="cat_5">팝</string>
     <string name="choose_to_signin">예</string>
     <string name="choose_to_signup">"회원가입"</string>
     <string name="clear_search_edittext">삭제</string>
@@ -518,10 +517,8 @@
     <string name="passport_empty_password">"비밀번호는 비워둘 수 없습니다."</string>
     <string name="passport_empty_user_name">"사용자 이름은 비워둘 수 없습니다."</string>
     <string name="passport_international_phone_password_login_tip">(중국 이외의 사용자의 경우 + 국가코드 휴대전화 번호, 예 : +91 817282982)형식으로 휴대 전화 번호를 입력하십시오.</string>
-    <string name="passport_login_recycle_account_yes">예</string>
     <string name="passport_log_detail">로그 세부 정보보기</string>
     <string name="passport_next_step">다음</string>
-    <string name="passport_reg_recycle_account_yes">예</string>
     <string name="passport_reload_ph_ticket">다시 보내기</string>
     <string name="passport_send_too_many_sms">이 번호로 전송된 인증 코드가 너무 많습니다. 24시간을 기다렸다가 다시 시도하십시오.</string>
     <string name="passport_set_password">암호 설정</string>
@@ -536,7 +533,6 @@
     <string name="passport_user_id_intro">%1$s에 로그인하십시오.</string>
     <string name="passport_v_code_error">인증 코드가 잘못되었습니다.</string>
     <string name="passport_wechat_not_install">위챗이 설치되지 않았습니다.</string>
-    <string name="passport_yes">예</string>
     <string name="password_toggle_content_description">비밀번호 보이게 전환</string>
     <string name="phone_bind_too_many">이 휴대 전화는 단기간에 여러개의 Mi 계정과 연결되어 있습니다. 다른 전화번호를 사용해보십시오.</string>
     <string name="phone_hint">전화번호</string>
