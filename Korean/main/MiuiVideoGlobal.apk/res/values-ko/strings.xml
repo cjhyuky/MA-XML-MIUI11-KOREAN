@@ -839,7 +839,6 @@
     <string name="slide_save_message">동영상 생성 중...</string>
     <string name="slid_fail_message">"저장할 수 없습니다"</string>
     <string name="sns_sign_in">로그인하는 다른 방법</string>
-    <string name="status_bar_notification_info_overflow">999 +</string>
     <string name="storage_permission_denied">스토리지 액세스 권한이 거부되었습니다.</string>
     <string name="sure_to_logout">지금 로그 아웃 하시겠습니까?</string>
     <string name="switch_ratio_pause">재생 속도가 불안정합니다. 기본 속도로 다시 전환하는 중...</string>
