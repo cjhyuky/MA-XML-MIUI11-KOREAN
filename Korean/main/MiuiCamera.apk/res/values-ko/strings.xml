@@ -348,8 +348,8 @@
     <string name="dual_camera_too_close_toast">카메라가 물체에 너무 가까이 있습니다.</string>
     <string name="dual_camera_lowlight_toast">너무 어두운 것 같습니다.</string>
     <string name="dual_camera_lens_covered_toast">렌즈가 닫혀 있습니다.</string>
-    <string name="dual_camera_use_hint">"듀얼 카메라 모드는 배경 블러 효과를 사용할 수 있습니다.
-물체와 거리를 2m 이상으로 초과하지 마십시오."</string>
+    <string name="dual_camera_use_hint">"배경 흐림 효과를 사용하려면
+물체와 거리를 2m이상 떨어지지 마십시오"</string>
     <string name="pref_camera_zoom_mode_title">렌즈</string>
     <string name="pref_camera_zoom_mode_entry_wide">와이드</string>
     <string name="pref_camera_zoom_mode_entry_tele">장초점</string>
