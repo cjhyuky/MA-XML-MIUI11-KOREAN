@@ -7985,7 +7985,7 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="gxzw_quick_open_title">바로가기</string>
     <string name="keyguard_double_tap_to_sleep_title">더블탭하여 재우기</string>
     <string name="login_account_summary">계정, 클라우드 서비스, 지불 등을 관리하십시오.</string>
-    <string name="miui_more_special_feature">새로운 기능을 살펴보세요</string>
+    <string name="miui_more_special_feature">새로운 기능</string>
     <string name="miui_special_feature">특별한 기능</string>
     <string name="mi_pay_indonesia">Mi페이 계정</string>
     <string name="mi_service">Mi서비스</string>
