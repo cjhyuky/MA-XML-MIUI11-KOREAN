@@ -201,4 +201,10 @@
         <item>키보드 스위쳐</item>
         <item>없음</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | 켜짐"</item>
+        <item>" | 켜짐 (미디어)"</item>
+        <item>" | 켜짐 (통화)"</item>
+    </string-array>
 </resources>
