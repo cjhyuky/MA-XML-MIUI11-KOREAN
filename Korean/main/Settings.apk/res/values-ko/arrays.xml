@@ -1313,4 +1313,15 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>24시간 모드 - 13:00</item>
         <item>자동(시스템 설정 언어에 따라)</item>
     </string-array>
+    <string-array name="automatic_storage_management_days">
+        <item>30일 이상</item>
+        <item>60일 이상</item>
+        <item>90일 이상</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | 켜짐"</item>
+        <item>" | 켜짐 (미디어)"</item>
+        <item>" | 켜짐 (통화)"</item>
+    </string-array>
 </resources>
