@@ -2831,4 +2831,10 @@ SMS 전송"</string>
     <string name="title_rcs_switch">차이나 모바일 메시지 켬</string>
     <string name="wlan_optimization_summary">Wi-Fi 네트워크 지연을 줄입니다.</string>
     <string name="wlan_optimization_title">Wi-Fi 최적화</string>
+    <string name="app_manager_find_apps">앱 찾기</string>
+    <string name="securityadd_install_fail">"플러그인을 업데이트 할 수 없습니다. 다시 시도하십시오."</string>
+    <string name="securityadd_update_tips_cancle">지금은 아닙니다.</string>
+    <string name="securityadd_update_tips_message">최신 게임 기능에 액세스하려면 보안 서비스 플러그인을 업데이트하십시오. % 1 $ dMB가 다운로드됩니다.</string>
+    <string name="securityadd_update_tips_now">업데이트</string>
+    <string name="securityadd_update_tips_title">업데이트</string>
 </resources>
