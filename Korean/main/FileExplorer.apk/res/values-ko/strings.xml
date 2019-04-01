@@ -824,4 +824,7 @@
     <string name="request_document_permission">SD 카드의 파일을 관리하려면 파일 관리자에 필요한 권한을 부여하십시오.</string>
     <string name="request_document_permission_title">권한이 필요함</string>
     <string name="menu_set_wallpaper">배경화면으로 설정</string>
+    <string name="ftp_anonymous_warning_msg">익명화 기능으로 인해 보안 위험이 발생할 수 있습니다. 어쨌든 이 기능을 사용하시겠습니까?</string>
+    <string name="ftp_anonymous_warning_title">주의</string>
+    <string name="home_action_up">뒤로</string>
 </resources>
