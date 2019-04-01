@@ -357,4 +357,5 @@
     <string name="edit_mode_top_menu_finish">완료</string>
     <string name="menu_finish">완료</string>
     <string name="widgets_preview_title">위젯 추가</string>
+    <string name="launcher_sliding_up_gesture">홈 화면에서 위로 스와이프하여 검색을 엽니다.</string>
 </resources>
