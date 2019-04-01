@@ -3,4 +3,10 @@
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d년 (%2$d개월)</item>
     </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">세부 상환액 (%d 년)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">세부 상환액 (%d 년), CNY</item>
+    </plurals>
 </resources>
