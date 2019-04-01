@@ -6715,7 +6715,7 @@ PIN 설정"</string>
     <string name="display_cutout_emulation_none">없음</string>
     <string name="double_tap_power_for_camera_suggestion_title">카메라 빠르게 실행</string>
     <string name="double_twist_for_camera_suggestion_title">셀카 빠르게 촬영</string>
-    <string name="doze_always_on_summary">시간, 알림 아이콘을 표시합니다. 배터리 사용이 증가합니다.</string>
+    <string name="doze_always_on_summary">이 기능은 시스템 전력소비를 증가시킵니다. 기기가 어두운 곳에서 오랫동안 계속 켜져있거나 배터리절약기 제한이 적용되면 전원이 꺼집니다.</string>
     <string name="doze_always_on_title">항상 켜짐</string>
     <string name="eab_provisioned_switch_string">EAB / 현재 상태가 프로비저닝됨</string>
     <string name="enable_gnss_raw_meas_full_tracking">GNSS 측정 강제</string>
@@ -7927,7 +7927,7 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="aod_mode_bg">백그라운드</string>
     <string name="aod_mode_clock">시계</string>
     <string name="aod_mode_style">시계 스타일과 백그라운드</string>
-    <string name="aod_mode_summary">화면이 꺼지면 시간, 날짜 그리고 메시지를 표시합니다.</string>
+    <string name="aod_mode_summary">이 기능은 시스템 전력 소비를 증가시킵니다. 기기가 어두운 곳에서 오랫동안 계속 켜져있거나 배터리절약기 제한이 적용되면 전원이 꺼집니다.</string>
     <string name="aod_sample_date">5월 10일 화요일</string>
     <string name="dark_color_mode">다크 모드</string>
     <string name="dark_color_summary">시스템 백그라운드와 앱 호환성을 위해 더 어두운 색상조합을 사용합니다</string>
@@ -8109,7 +8109,7 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
   <string name="dual_clock_aod_hint">"\"듀얼 시계\"는 다음과 같은 기능을 제공합니다: 1. 화면이 꺼져있는 경우 설정 - 디스플레이에서 항목표시 허용 2. 잠금 화면에서 다음 중 하나를 사용하고 있는지 확인하십시오. 설정 - 테마의 기본 테마 또는 클래식 테마 3. 홈 스크린의 경우 기본 시스템 시계 위젯을 사용하고 있는지 확인하십시오."</string>
   <string name="dual_clock_hint">"\"듀얼 시계\"는 다음 기능을 사용합니다 : 1. 잠금 화면에서 설정> 테마> 기본 또는 클래식 테마를 사용하고 있는지 확인하십시오 2. 홈 화면 기본 시스템 시계 위젯을 사용하고 있는지 확인하십시오."</string>
   <string name="dual_clock_ok">확인</string>
-  <string name="dual_clock_open_message">잠금화면, 홈화면, 그리고 화면이 꺼진 상태에서도 듀얼 시계가 표시됩니다.</string>
+  <string name="dual_clock_open_message">듀얼 시계는 잠금 화면과 홈 화면에 표시됩니다.</string>
   <string name="more_installed_services_title">더 많은 다운로드된 서비스</string>
   <string name="otg_button">OTG</string>
   <string name="otg_settings">OTG</string>
@@ -8185,4 +8185,10 @@ OTG는 10분 동안 사용하지 않으면 자동으로 꺼집니다."</string>
   <string name="toggle_collapse_after_clicked_title">터치 후 접기</string>
   <string name="vibrate_title">진동</string>
   <string name="visibility_override_title">잠금화면에</string>
+    <string name="auto_dual_clock_aod_summary">현재 시간이 두 번째 시계와 다른 경우 듀얼 시계 표시</string>
+    <string name="dual_clock_aod_open_message">듀얼 시계는 잠금 화면, 홈 화면 및 꺼진 화면에 표시됩니다.</string>
+    <string name="gxzw_enroll_again">손가락을 들어 지문 스캐너를 다시 누르십시오.</string>
+    <string name="layout_exhuge_font_take_effect_tips">XXL 텍스트 크기는 통화, 메시지 및 연락처에서만 작동합니다.</string>
+    <string name="layout_exhuge_font_tips">추가 옵션은 %1$s에서 사용할 수 있습니다.</string>
+    <string name="layout_exhuge_font_tips_reg">접근성>디스플레이 크기</string>
 </resources>
