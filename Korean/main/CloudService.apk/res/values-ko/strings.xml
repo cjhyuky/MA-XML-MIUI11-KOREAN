@@ -701,5 +701,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
   <string name="warning_bar_title_master_sync_off">자동 동기화 꺼짐</string>
   <string name="warning_bar_title_network_unconnected">"네트워크 연결 실패"</string>
   <string name="warning_bar_title_short_cut">Mi클라우드를 홈화면에 추가하시겠습니까?</string>
-  <string name="warning_bar_title_sync_off">Mi클라우드 동기화 꺼짐</string>    
+  <string name="warning_bar_title_sync_off">Mi클라우드 동기화 꺼짐</string>
+    <string name="enable_sync_setting_title">클라우드 서비스 구성중...</string>
+    <string name="provision_sync_items_loading">항목 동기화 준비중</string>
 </resources>
