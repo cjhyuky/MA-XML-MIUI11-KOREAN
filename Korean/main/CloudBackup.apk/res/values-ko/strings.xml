@@ -107,7 +107,7 @@
     <string name="query_restore_description">이 백업을 사용하여 홈 화면 앱과 설정을 복구합니다. 이미 기기에 설치되어있는 중복된 어플을 덮어씌우게될 것입니다. 앱이 백업에 포함되어 있지 않다면 마지막 홈 화면으로 이동될 것입니다.</string>
     <string name="restore_from_this_device">이 백업을 사용하여 복원</string>
     <string name="confirm_restore_title">복원</string>
-    <string name="confirm_restore_summary">Wi-Fi에 연결되어있을 때 홈 화면이 재시작되고 앱이 자동으로 다운로드될 것입니다.</string>
+    <string name="confirm_restore_summary">홈 화면이 다시시작됩니다. 백업된 앱이 자동으로 다운로드됩니다.</string>
     <string name="confirm_restore">복원</string>
     <string name="cloud_backup_have_data">Mi 클라우드에서 백업 찾기</string>
     <string name="cloud_backup_select_recover">Mi 클라우드에서 백업 선택하기</string>
@@ -205,4 +205,28 @@
     <string name="other_device_second_space">보조 공간</string>
     <string name="self_device_main_space">"이 휴대전화의 메인 공간"</string>
     <string name="self_device_second_space">"이 휴대전화의 보조 공간"</string>
+    <string name="desktop_wait_network">대기중…</string>
+    <string name="doing_calc_backup_data_size">크기 계산중…</string>
+    <string name="btn_restore_wait">Wi-Fi 기다리는 중</string>
+    <string name="btn_restore_continue">어쨌든 복원</string>
+    <string name="msg_restore_with_metered_network_pattern">%s개 파일이 다운로드 됩니다."</string>
+    <string name="msg_restore_with_metered_network_hint">이 항목을 복원하면 모바일 데이터가 다운로드에 사용됩니다.</string>
+    <string name="msg_restore_start_with_metered_network">"홈 화면이 다시 시작됩니다. 백업 된 앱이 자동으로 다운로드됩니다. %s개 파일이 다운로드됩니다"</string>
+    <string name="title_restore_with_current_network">홈 화면이 다시 시작됩니다. 백업 된 앱이 자동으로 다운로드됩니다.</string>
+    <string name="restore_network_unconnect">%s (연결 대기중)</string>
+    <string name="restore_network_pause">%s (다시 시작하려면 누르세요)</string>
+    <string name="restore_detail_title">복원할 항목 선택</string>
+    <string name="restore_detail_category_settings">설정</string>
+    <string name="restore_detail_category_apps">홈화면 레이아웃 &amp; 앱</string>
+    <string name="restore_detail_more">더보기</string>
+    <string name="restore_app_order_title">복원된 항목의 우선 순위 지정</string>
+    <string name="restore_app_order_search_hint">우선 순위를 설정할 항목을 검색하십시오</string>
+    <string name="restore_app_order_search_prior">우선 순위가 높은 앱</string>
+    <string name="restore_app_order_search_normal">일반 우선 순위 앱</string>
+    <string name="restore_app_order_search_installed">이 기기의 앱</string>
+    <string name="restore_app_order_retry">다시 시도하세요</string>
+    <string name="restore_app_order_retry_desc">"네트워크 연결 실패.
+네트워크 설정 체크 후 다시 시도하세요."</string>
+    <string name="restore_app_order_loading">잠시만 기다려주세요…</string>
+    <string name="restore_app_order_finish">완료</string>
 </resources>
