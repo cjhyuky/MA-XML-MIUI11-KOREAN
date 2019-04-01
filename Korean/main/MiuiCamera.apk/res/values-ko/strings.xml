@@ -1063,7 +1063,7 @@
     <string name="lighting_pattern_holi">홀리</string>
     <string name="pref_camera_quick_shot_anim_enable_title">퀵샷 애니메이션 켜기</string>
     <string name="pref_camera_quick_shot_enable_title">퀵샷 켜기</string>
-    <string name="hint_ae_lock">자동 노출이 잠겨있습니다</string>
+    <string name="hint_ae_lock">자동노출 잠겨있음</string>
     <string name="config_name_ratio">비율</string>
     <string name="module_name_pixel_48M">4800만화소</string>
     <string name="pref_camera_long_press_viewfinder_title">뷰파인더 설정</string>
@@ -1071,10 +1071,10 @@
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">자동 노출 &amp; 오토 포커스 잠금</string>
     <string name="pref_google_lens_summary">QR코드, 이메일, 숫자 및 텍스트 자동 인식</string>
     <string name="pref_google_lens_title">스마트 렌즈</string>
-    <string name="wideselfie_press_shoot_key_to_start">셔터 버튼을 누르세요</string>
-    <string name="wideselfie_rotate_slowly">천천히 전화를 회전시키세요</string>
-    <string name="wideselfie_rotate_to_back">장치를 뒤쪽으로 기울이세요</string>
-    <string name="wideselfie_rotate_to_front">장치를 앞으로 기울이세요</string>
+    <string name="wideselfie_press_shoot_key_to_start">셔터를 누르세요</string>
+    <string name="wideselfie_rotate_slowly">전화를 천천히 회전시키세요</string>
+    <string name="wideselfie_rotate_to_back">전화를 뒤쪽으로 기울이세요</string>
+    <string name="wideselfie_rotate_to_front">전화를 앞으로 기울이세요</string>
     <string name="wideselfie_rotate_to_left_slowly">전화를 천천히 왼쪽으로 돌리세요</string>
     <string name="wideselfie_rotate_to_right_slowly">전화를 천천히 오른쪽으로 돌리세요</string>
     <string name="macro_mode">근접 모드</string>
@@ -1106,4 +1106,14 @@
     <string name="dialog_google_lens_option_0">구글 렌즈(추천)</string>
     <string name="pref_camera_long_press_viewfinder_google_lens">구글 렌즈</string>
     <string name="pref_camera_long_press_viewfinder_lock_ae_af">자동노출/오토포커스 잠금</string>
+    <string name="hint_ae_af_lock_extra">자동 초점/자동 노출이 잠겼습니다. 카메라 설정에서 구글 렌즈로 전환하십시오.</string>
+    <string name="mimoji_on_create">Mi모지 만들기</string>
+    <string name="mimoji_check_normal">카메라 버튼을 누르십시오</string>
+    <string name="mimoji_check_no_face">인식할 얼굴이 없습니다</string>
+    <string name="mimoji_check_low_light">얼굴을 쉽게 식별할 수 있는 밝은장소로 이동하십시오</string>
+    <string name="mimoji_check_face_occlusion">얼굴의 모든 요소가 다 보여야 합니다</string>
+    <string name="mimoji_check_face_too_far">얼굴이 너무 작습니다. 휴대 전화를 가까이 두십시오.</string>
+    <string name="mimoji_check_face_too_close">얼굴이 너무 큽니다. 휴대 전화를 멀리 두십시오.</string>
+    <string name="mimoji_check_multi_face">프레임 안에 한명의 얼굴만 인식시키십시오</string>
+    <string name="mimoji_check_beyond_20_degrees">안면기능을 활용하려면 화면을 주시해주세요</string>
 </resources>
