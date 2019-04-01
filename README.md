@@ -7,7 +7,7 @@
     cjhyuky - Builder of MIUI10 Korean translation
     bradly1 - Collaborator of MIUI10 Korean translation
     xiaomiqm - Collaborator of MIUI10 Korean translation
-    
+    klasses - Collaborator of MIUI10 Korean translation
     
 Thanks to Xiaomistory, ruinses, ginam kim, lecahel(for bug reports and translation suggestions).
 
