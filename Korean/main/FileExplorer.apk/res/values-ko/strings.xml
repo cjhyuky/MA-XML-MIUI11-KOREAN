@@ -126,7 +126,6 @@
     <string name="move_failed">잘라낼 수 없습니다.</string>
     <string name="copy_failed">복사 실패</string>
     <string name="toast_file_not_can_read">이 동작을 처리할 앱을 발견하지 못했습니다.</string>
-    
     <string name="exo_controls_fastforward_description">빨리감기</string>
     <string name="exo_controls_next_description">다음 곡</string>
     <string name="exo_controls_pause_description">일시정지</string>
@@ -135,7 +134,6 @@
     <string name="exo_controls_rewind_description">되감기</string>
     <string name="exo_controls_stop_description">정지</string>
     <string name="extended_storage_file_can_not_open">"이 파일을 열수 없습니다. 파일을 내장 저장소로 복사해주세요</string>
-    
     <string name="server_control_settings">설정</string>
     <string name="server_control_advanced_settings">FTP 설정</string>
     <string name="server_control_charset">인코딩 전송</string>
