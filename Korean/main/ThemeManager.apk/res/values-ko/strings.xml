@@ -737,7 +737,6 @@
     <string name="swipe_find_more">위로 스와이프하세요</string>
     <string name="theme_apply_audio_dialog_item_mms">메시징 벨소리</string>
     <string name="theme_component_title_homepage">홈</string>
-    <string name="theme_yes">예</string>
     <string name="title_my_miwallpaper_desktop_effects">홈 화면 효과</string>
     <string name="transparency_pref_summary">배경 화면의 투명도를 선택하십시오.</string>
     <string name="transparency_pref_title">불투명도 레벨</string>
