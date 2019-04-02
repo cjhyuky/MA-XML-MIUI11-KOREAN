@@ -49,7 +49,6 @@
     <string name="pref_camcorder_settings_category">카메라 설정</string>
     <string name="pref_camera_picturesize_title_simple_mode">카메라 프레임</string>
     <string name="pref_camera_picturesize_entry_standard">표준 4:3</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">풀스크린 16:9</string>
     <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
     <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
     <string name="pref_camera_picturesize_entry_3264x2448">8M(3264x2448)</string>
@@ -500,8 +499,8 @@
     <string name="pref_camera_raw_title">RAW</string>
     <string name="simple_mode_button_text_mono">흑백 모드</string>
     <string name="simple_mode_button_text_raw">RAW 모드</string>
-    <string name="accessibility_photo_style_button">PhotoStyleButton</string>
-    <string name="pref_camera_photostyle_title">사진 스타일</string>
+    <string name="accessibility_photo_style_button">포토 스타일 버튼</string>
+    <string name="pref_camera_photostyle_title">포토 스타일</string>
     <string name="simple_mode_button_text_fisheye">배불뚝이 모드</string>
     <string name="accessibility_camera_flash_closemode">플래시 없음</string>
     <string name="albums">앨범</string>
@@ -781,6 +780,7 @@
     <string name="pref_face_beauty_xxxhigh">i:6</string>
     <string name="pref_camera_picturesize_entry_16_9">16:9</string>
     <string name="pref_camera_picturesize_entry_18_9">18:9</string>
+    <string name="pref_camera_picturesize_entry_195_9">19.5:9</string>
     <string name="pref_camera_picturesize_entry_4_3">4:3</string>
     <string name="pref_camera_bokeh_title">초상화</string>
     <string name="pref_camera_front_bokeh_entry_off">꺼짐</string>
