@@ -1116,4 +1116,5 @@
     <string name="mimoji_check_face_too_close">얼굴이 너무 큽니다. 휴대 전화를 멀리 두십시오.</string>
     <string name="mimoji_check_multi_face">프레임 안에 한명의 얼굴만 인식시키십시오</string>
     <string name="mimoji_check_beyond_20_degrees">안면기능을 활용하려면 화면을 주시해주세요</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">전체화면</string>
 </resources>
