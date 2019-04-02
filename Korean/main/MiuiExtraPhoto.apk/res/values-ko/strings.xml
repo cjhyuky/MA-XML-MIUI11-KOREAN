@@ -44,4 +44,9 @@
     <string name="refocus_type_static">흐림 강도</string>
     <string name="refocus_type_video">가벼운 효과</string>
     <string name="refocus_relighting_toast">원을 이동하여 조명 각도 조정</string>
+    <string name="extra_photo_common_permission_name">보케 효과</string>
+    <string name="extra_photo_common_saving">저장중…</string>
+    <string name="motion_photo_re_pick_title">베스트 샷 선택</string>
+    <string name="motion_photo_toast_default">기본값</string>
+    <string name="motion_photo_toast_suggest">추천</string>
 </resources>
