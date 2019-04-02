@@ -8191,4 +8191,6 @@ OTG는 10분 동안 사용하지 않으면 자동으로 꺼집니다."</string>
     <string name="layout_exhuge_font_take_effect_tips">XXL 텍스트 크기는 통화, 메시지 및 연락처에서만 작동합니다.</string>
     <string name="layout_exhuge_font_tips">추가 옵션은 %1$s에서 사용할 수 있습니다.</string>
     <string name="layout_exhuge_font_tips_reg">접근성>디스플레이 크기</string>
+    <string name="notification_fold_footer_icon_summary">모든 중요하지 않은 알림들의 아이콘이 폴더 오른쪽에 표시됩니다</string>
+    <string name="notification_fold_footer_icon_title">아이콘 표시</string>
 </resources>
