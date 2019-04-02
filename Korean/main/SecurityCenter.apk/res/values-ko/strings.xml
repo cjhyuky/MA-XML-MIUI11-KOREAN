@@ -818,7 +818,7 @@ SMS 전송"</string>
     <string name="memory_clean_btn_click_text">스피드 부스트</string>
     <string name="optimize_result_header_view_summary">스피드 부스트</string>
     <string name="optimize_result_available_memory_info">사용 가능한 메모리</string>
-    <string name="optimize_result_title_uninstall_apps">앱</string>
+    <string name="optimize_result_title_uninstall_apps">앱 삭제</string>
     <string name="om_settings_title">최적화 설정</string>
     <string name="om_settings_lock_app_manage">앱 잠금</string>
     <string name="om_settings_lock_app">앱 잠금</string>
