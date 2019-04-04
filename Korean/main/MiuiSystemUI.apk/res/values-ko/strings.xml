@@ -1957,4 +1957,5 @@
     <string name="gxzw_area">지문 스캐너</string>
     <string name="aod_lock_screen_date">M월 d일 EEEE</string>
     <string name="aod_lock_screen_date_12">M월 d일 EEEE</string>
+    <string name="aod_dual_together_12">aa hh:mm</string>
 </resources>
