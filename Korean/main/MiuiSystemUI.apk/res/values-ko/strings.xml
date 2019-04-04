@@ -1955,4 +1955,6 @@
       <string name="face_unlock_success">얼굴 데이터 인증 완료</string>
   <string name="rapid_charge_mode_tip">빠른 충전 모드</string>
     <string name="gxzw_area">지문 스캐너</string>
+    <string name="aod_lock_screen_date">M월 d일 EEEE</string>
+    <string name="aod_lock_screen_date_12">M월 d일 EEEE</string>
 </resources>
