@@ -947,7 +947,7 @@
     <string name="unread_string">대화 읽지 않음</string>
     <string name="unsent_messages_in_outbox">%1$s개 %2$s에서 전송되지 않음</string>
     <string name="unzip_file_failed">파일의 압축을 풀지 못했습니다.</string>
-    <string name="update_date_format_templete">MMMM dd aa HH:mm</string>
+    <string name="update_date_format_templete">M월 d일 aa HH:mm</string>
     <string name="update_to_wps_mail">더 좋은 기능을 원하시면, WPS-메일로 업그레이드 하세요</string>
     <string name="updated_at">%1$s에서 새로고침</string>
     <string name="upload_log">로그 업로드</string>
