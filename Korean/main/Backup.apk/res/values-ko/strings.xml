@@ -474,7 +474,7 @@
     <string name="trans_wlan_tips_message">"데이터 전송중 Wi-Fi를 끄거나 변경하지 마세요. 미 무버가 정상적으로 작동하지 않을 수 있습니다."</string>
     <string name="trans_wlan_tips_title">"Wi-Fi를 끄지 마세요."</string>
     <string name="mms_title">멀티미디어 메시지</string>
-    <string name="trans_one_key_migrate">Mi </string>
+    <string name="trans_one_key_migrate">Mi 무버</string>
     <string name="trans_intro_question_9">"%d. 어떤 항목을 전송할 수 없나요?"</string>
     <string name="trans_intro_desc_2">중복 파일 문제입니다. 미 무버를 다시 시작해주세요.</string>
     <string name="list_footer_tip_title">팁:</string>
@@ -629,11 +629,4 @@ Mi Mover가 마음에 드시나요?"</string>
   <string name="wait_link">"이전 기기를 이 핫스팟에 연결하세요.
 연결이 완료될 때까지 이 페이지를 닫지 마십시오."</string>
   <string name="waiting">잠시만 기다려주세요…</string>
-    <string name="auto_backup_user_data">앱</string>
-    <string name="button_got_it">확인</string>
-    <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
-    <string name="local_select_userapp">앱</string>
-    <string name="perm_location">위치</string>
-    <string name="trans_detail_category_userdata">앱</string>
-    <string name="trans_one_key_migrate">Mi 무버</string>
 </resources>
