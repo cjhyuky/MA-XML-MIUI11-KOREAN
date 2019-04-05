@@ -629,4 +629,11 @@ Mi Mover가 마음에 드시나요?"</string>
   <string name="wait_link">"이전 기기를 이 핫스팟에 연결하세요.
 연결이 완료될 때까지 이 페이지를 닫지 마십시오."</string>
   <string name="waiting">잠시만 기다려주세요…</string>
+    <string name="auto_backup_user_data">앱</string>
+    <string name="button_got_it">확인</string>
+    <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="local_select_userapp">앱</string>
+    <string name="perm_location">위치</string>
+    <string name="trans_detail_category_userdata">앱</string>
+    <string name="trans_one_key_migrate">Mi 무버</string>
 </resources>
