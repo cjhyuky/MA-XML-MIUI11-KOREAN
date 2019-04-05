@@ -460,4 +460,6 @@
     <string name="dialog_verify">지문을 인식시키세요</string>
     <string name="dialog_verify_fingerprint_retry">"지문 인식 실패. 다시 시도하세요."</string>
     <string name="master_clear_not_available">귀하의 회사에서 공장 초기화를 차단하고 있습니다.</string>
+    <string name="ent_install_dialog_content">앱을 설치하고 기기를 바로 재부팅하시겠습니까?</string>
+    <string name="ent_licence_code_hint">라이센스 코드를 입력하세요</string>
 </resources>
