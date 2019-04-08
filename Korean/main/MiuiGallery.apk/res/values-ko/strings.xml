@@ -1544,4 +1544,6 @@
   <string name="screen_save_dialog_btn_delete">스크린샷 삭제</string>
   <string name="screen_save_dialog_btn_save">갤러리에 저장</string>
   <string name="similar_keep_clear">최고의 샷을 남기세요</string>
+  <string name="photo_editor_compare_tip">누르고 있으면 원본 이미지를 볼 수 있습니다.</string>
+  <string name="photo_editor_remove_watermark">워터 마크 제거</string>
 </resources>
