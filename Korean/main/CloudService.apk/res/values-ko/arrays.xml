@@ -126,4 +126,8 @@
         <item>백업된 항목을 기기에 다운로드</item>
         <item>클라우드;백업;백업;복원;클라우드 서비스;Mi 클라우드</item>
     </string-array>
+    <string-array name="user_detail_fixed_items">
+        <item>동기화된 항목 보기</item>
+        <item>저장소 세부사항</item>
+    </string-array>
 </resources>
