@@ -1,135 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="pref_navscreen_layoutstate_choices">
-        <item>세로방향 보기</item>
-        <item>가로방향 보기</item>
-    </string-array>
-    <string-array name="menu_theme_setting">
-        <item>화이트</item>
-        <item>옐로우</item>
-        <item>그레이</item>
-        <item>브라운</item>
-        <item>그린</item>
-        <item>블루</item>
-    </string-array>
-    <string-array name="pref_fling_on_border_gesture_entries">
-        <item>이전페이지로 이동</item>
-        <item>탭 전환</item>
-        <item>없음</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
-        <item>기본 시작 페이지</item>
-        <item>사용자 지정</item>
-    </string-array>
-    <string-array name="pref_nav_mode_summary">
-        <item>휴대전화</item>
-        <item>패드</item>
-    </string-array>
-    <string-array name="pref_text_zoom_choices">
-        <item>매우 작게</item>
-        <item>작게</item>
-        <item>보통</item>
-        <item>크게</item>
-        <item>매우 크게</item>
-    </string-array>
-    <string-array name="pref_ua_choices">
-        <item>안드로이드</item>
-        <item>데스크탑</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-    </string-array>
-    <string-array name="shortcut_dialog_delete">
-        <item>삭제</item>
-        <item>사양하겠습니다.</item>
-    </string-array>
-    <string-array name="shortcut_dialog_keep">
-        <item>확인</item>
-        <item>팔로우</item>
-    </string-array>
-    <string-array name="shortcut_dialog_title">
-        <item>브라우저에서 온 메시지</item>
-        <item>Mi와 함께하는 올림픽 관람</item>
-    </string-array>
-    <string-array name="suggestion_topic_tips">
-        <item>포커스 보기</item>
-        <item>주요 이슈</item>
-    </string-array>
-    <string-array name="suggestion_weather_condition_message">
-        <item>맑음</item>
-        <item>부분적으로 흐림</item>
-        <item>흐림</item>
-        <item>소나기</item>
-        <item>뇌우</item>
-        <item>우박</item>
-        <item>진눈깨비</item>
-        <item>약한 비</item>
-        <item>보통 비</item>
-        <item>폭우</item>
-        <item>폭풍우</item>
-        <item>폭우</item>
-        <item>매우심한 폭풍우</item>
-        <item>소낙눈</item>
-        <item>약한 눈</item>
-        <item>보통 눈</item>
-        <item>폭설</item>
-        <item>눈보라</item>
-        <item>안개</item>
-        <item>얼어붙는 비</item>
-        <item>모래 폭풍</item>
-        <item>약한 비→보통 비</item>
-        <item>보통 비→폭우</item>
-        <item>폭우→심한 폭우</item>
-        <item>심한 폭우→집중 호우</item>
-        <item>집중 호우→매우심한 폭풍우</item>
-        <item>약한 눈→보통 눈</item>
-        <item>보통 눈→폭설</item>
-        <item>폭설→눈보라</item>
-        <item>미세먼지 높음</item>
-        <item>모래먼지</item>
-        <item>모래폭풍</item>
-        <item>짙은 안개</item>
-        <item>강한 안개</item>
-        <item>안개</item>
-        <item>보통 안개</item>
-        <item>강한 안개</item>
-        <item>심한 안개</item>
-        <item>짙은 안개</item>
-        <item>강한 짙은 안개</item>
-        <item>없음</item>
-        <item>비</item>
-        <item>눈</item>
-    </string-array> 
-    <string-array name="weather_type">  
-        <item>맑음</item>
-        <item>흐림</item>
-        <item>흐림</item>
-        <item>안개</item>
-        <item>폭우</item>
-        <item>호우</item>
-        <item>폭풍우</item>
-        <item>뇌우</item>
-        <item>비</item>
-        <item>집중 호우</item>
-        <item>비</item>
-        <item>이슬비</item>
-        <item>진눈깨비</item>
-        <item>눈보라</item>
-        <item>눈</item>
-        <item>폭설</item>
-        <item>눈</item>
-        <item>약한 눈</item>
-        <item>강한 모래폭풍</item>
-        <item>모래폭풍</item>
-        <item>모래바람</item>
-        <item>바람</item>
-        <item>우박</item>
-        <item>먼지</item>
-        <item>아지랑이</item>
-        <item>얼음비</item> 
-    </string-array>
-    <string-array name="pref_tab_restore_array">
-        <item>항상 묻기</item>
-        <item>열기</item>
-        <item>닫기</item>
-    </string-array>   
+  <string-array name="pref_fling_gesture_entries">
+    <item>앞 페이지로 돌아가기</item>
+    <item>탭 전환</item>
+    <item>없음</item>
+  </string-array>
+  <string-array name="pref_homepage_choices">
+    <item>기본 시작 페이지</item>
+    <item>사용자 지정</item>
+  </string-array>
+  <string-array name="pref_nav_mode_summary">
+    <item>휴대전화</item>
+    <item>패드</item>
+  </string-array>
+  <string-array name="pref_navscreen_layoutstate_choices">
+    <item>세로방향 보기</item>
+    <item>가로방향 보기</item>
+  </string-array>
+  <string-array name="pref_tab_restore_array">
+    <item>항상 묻기</item>
+    <item>열기</item>
+    <item>닫기</item>
+  </string-array>
+  <string-array name="pref_text_zoom_choices">
+    <item>매우 작게</item>
+    <item>작게</item>
+    <item>보통</item>
+    <item>크게</item>
+    <item>매우 크게</item>
+  </string-array>
+  <string-array name="pref_ua_choices">
+    <item>안드로이드</item>
+    <item>데스크탑</item>
+    <item>iPhone</item>
+    <item>iPad</item>
+  </string-array>
+  <string-array name="shortcut_dialog_delete">
+    <item>삭제</item>
+    <item>사양하겠습니다.</item>
+  </string-array>
+  <string-array name="shortcut_dialog_keep">
+    <item>확인</item>
+    <item>팔로우</item>
+  </string-array>
+  <string-array name="shortcut_dialog_title">
+    <item>브라우저에서 온 메시지</item>
+    <item>Mi와 함께하는 올림픽 관람</item>
+  </string-array>
+  <string-array name="suggestion_topic_tips">
+    <item>포커스 보기</item>
+    <item>주요 이슈</item>
+  </string-array>
+  <string-array name="suggestion_weather_condition_message">
+    <item>맑음</item>
+    <item>부분적으로 흐림</item>
+    <item>흐림</item>
+    <item>소나기</item>
+    <item>뇌우</item>
+    <item>우박</item>
+    <item>진눈깨비</item>
+    <item>약한 비</item>
+    <item>보통 비</item>
+    <item>폭우</item>
+    <item>폭풍우</item>
+    <item>폭우</item>
+    <item>매우심한 폭풍우</item>
+    <item>소낙눈</item>
+    <item>약한 눈</item>
+    <item>보통 눈</item>
+    <item>폭설</item>
+    <item>눈보라</item>
+    <item>안개</item>
+    <item>얼어붙는 비</item>
+    <item>모래 폭풍</item>
+    <item>약한 비→보통 비</item>
+    <item>보통 비→폭우</item>
+    <item>폭우→심한 폭우</item>
+    <item>심한 폭우→집중 호우</item>
+    <item>집중 호우→매우심한 폭풍우</item>
+    <item>약한 눈→보통 눈</item>
+    <item>보통 눈→폭설</item>
+    <item>폭설→눈보라</item>
+    <item>미세먼지 높음</item>
+    <item>모래먼지</item>
+    <item>모래폭풍</item>
+    <item>짙은 안개</item>
+    <item>강한 안개</item>
+    <item>안개</item>
+    <item>보통 안개</item>
+    <item>강한 안개</item>
+    <item>심한 안개</item>
+    <item>짙은 안개</item>
+    <item>강한 짙은 안개</item>
+    <item>없음</item>
+    <item>비</item>
+    <item>눈</item>
+  </string-array>
 </resources>

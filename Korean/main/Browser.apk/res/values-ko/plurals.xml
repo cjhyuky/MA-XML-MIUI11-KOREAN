@@ -1,75 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="last_num_days">
-        <item quantity="other">지난 %d일</item>
-    </plurals>
-    <plurals name="matches_found">
-        <item quantity="other">%1$d개 중 %2$d개</item>
-    </plurals>
-    <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d개 선택됨</item>
-    </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">%1$d개의 동영상을 삭제 하시겠습니까?</item>
-    </plurals>
-    <plurals name="video_download_clear_info">
-        <item quantity="other">%1$d개의 동영상이 성공적으로 제거 되었습니다.</item>
-    </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">%d분 남음</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">%1$d개 항목을 기록에서 삭제 하시겠습니까?</item>
-    </plurals>
-    <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d개 항목이 기록에서 삭제 되었습니다.</item>
-    </plurals>
-    <plurals name="find_on_page_matches">
-        <item quantity="other">%d개 일치</item>
-    </plurals>
-    <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d개의 항목 차단됨</item>
-    </plurals>
-    <plurals name="nav_screen_incognito_time">
-        <item quantity="other">%d초 후에 자동으로 새 페이지를 생성합니다.</item>
-    </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">%1$d초 후에 영상 재생</item>
-    </plurals>
-    <plurals name="mw_last_num_days">
-        <item quantity="other">%d일 전</item>
-    </plurals>
-    <plurals name="mw_matches_found">
-        <item quantity="other">%2$d 중 %1$d</item>
-    </plurals>
-    <plurals name="adblock_notification">
-        <item quantity="other">%d개 광고 차단됨</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">%d개 항목을 삭제하시겠습니까?</item>
-    </plurals>
-    <plurals name="pref_adblock_counts">
-        <item quantity="other">%d개 항목 차단됨</item>
-    </plurals>
-    <plurals name="suggest_access_item_album_songs">
-        <item quantity="other">%d개 음악</item>
-    </plurals>
-    <plurals name="suggest_access_item_singer_albums">
-        <item quantity="other">%d개 앨범</item>
-    </plurals>
-    <plurals name="suggest_access_item_singer_pop">
-        <item quantity="other">%d개 인기음악</item>
-    </plurals>
-    <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d개의 업데이트를 설치할 수 있습니다.</item>
-    </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">삭제</item>
-    </plurals>
-    <plurals name="articles_updated_amount">
-        <item quantity="other">%1$d개 기사 업데이트 됨</item>
-    </plurals>
-    <plurals name="videos_updated_amount">
-        <item quantity="other">%1$d개 비디오 업데이트 됨</item>
-    </plurals>
+  <plurals name="adblock_rules_number_text">
+    <item quantity="other">%d개의 항목 차단됨</item>
+  </plurals>
+  <plurals name="find_on_page_matches">
+    <item quantity="other">%d개 일치</item>
+  </plurals>
+  <plurals name="mw_last_num_days">
+    <item quantity="other">%d일 전</item>
+  </plurals>
+  <plurals name="mw_matches_found">
+    <item quantity="other">%2$d 중 %1$d</item>
+    <item quantity="one">1개 일치됨</item>
+  </plurals>
+  <plurals name="nav_screen_incognito_time">
+    <item quantity="other">%d초 후에 자동으로 새 페이지를 생성합니다.</item>
+  </plurals>
+  <plurals name="transfer_prompt">
+    <item quantity="other">%1$d초 후에 영상 재생</item>
+  </plurals>
+  <plurals name="v5_edit_mode_title">
+    <item quantity="other">%1$d개 선택됨</item>
+  </plurals>
+  <plurals name="video_download_clear_info">
+    <item quantity="other">%1$d개의 동영상이 성공적으로 제거 되었습니다.</item>
+  </plurals>
+  <plurals name="video_download_clear_prompt">
+    <item quantity="other">%1$d개의 동영상을 삭제 하시겠습니까?</item>
+  </plurals>
+  <plurals name="video_history_clear_info">
+    <item quantity="other">%1$d개 항목이 기록에서 삭제 되었습니다.</item>
+  </plurals>
+  <plurals name="video_history_clear_prompt">
+    <item quantity="other">%1$d개 항목을 기록에서 삭제 하시겠습니까?</item>
+  </plurals>
+  <plurals name="video_subtitle_last_message">
+    <item quantity="other">%d분 남음</item>
+  </plurals>
 </resources>
