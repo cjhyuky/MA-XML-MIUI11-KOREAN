@@ -682,5 +682,8 @@
   <string name="feed_tips_subscribe_more">더 많은 채널 구독하기</string>
   <string name="weather_huangli_card_no_data_hint">날씨 정보를 보려면 클릭하십시오</string>
   <string name="yiji_app_download_card_lebal">해야 할 일</string>
-  <string name="setting_title_weather_card_desc">음력 카드 오른쪽에 날씨 정보</string>    
+  <string name="setting_title_weather_card_desc">음력 카드 오른쪽에 날씨 정보</string>
+  <string name="no_visiable_calendar_message_only_for_xiaomi_account">캘린더 계정을 추가해야합니다. 계속하려면 \"계정 추가\"를 누르십시오.</string>
+  <string name="share_not_install_wechat">위챗을 설치하십시오</string>
+  <string name="share_not_install_weibo">웨이보를 설치하십시오</string>
 </resources>
