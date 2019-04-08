@@ -15,4 +15,19 @@
     <plurals name="word_count">
         <item quantity="other">%s자</item>
     </plurals>
+    <plurals name="alert_message_delete">
+        <item quantity="other">%1$s개의 항목을 삭제 하시겠습니까?</item>
+    </plurals>
+	<plurals name="format_move_notes_out_folder">
+        <item quantity="other">폴더에서 %1$s개의 메모를 제거했습니다.</item>
+    </plurals>
+	 <plurals name="format_move_notes_to_folder">
+        <item quantity="other">%1$s개의 메모를 %2$s 폴더로 이동했습니다.</item>
+    </plurals>
+	<plurals name="toast_notes_hidden_count">
+        <item quantity="other">%1$s개의 메모를 숨겼습니다</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">%1$s개의 메모를 숨김 해제했습니다.</item>
+    </plurals>
 </resources>
