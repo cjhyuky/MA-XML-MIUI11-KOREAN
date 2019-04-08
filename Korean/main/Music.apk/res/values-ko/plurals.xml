@@ -1,156 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="download_finished">
-        <item quantity="other">&amp;lt;font color=\"red\">%d개 노래&amp;lt;/font> 다운로드됨</item>
-    </plurals>
-    <plurals name="download_running">
-        <item quantity="other">&amp;lt;font color=\"red\">%d개 노래&amp;lt;/font> 다운로드 중</item>
-    </plurals>
-    <plurals name="Ntracks_search_result">
-        <item quantity="other">%d곡 발견됨</item>
-    </plurals>
-    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">\"이번 달에 오직 %d개의 프리미엄 노래를 다운로드할 수 있습니다. 프리미엄 뮤직 패키지로 업그레이드하셔서 더 많이 다운로드하십시오. \"</item>
-    </plurals>
-    <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">\"이번 달에 오직 %d개의 프리미엄 노래를 다운로드할 수 있습니다. 선택된 노래들을 다운로드하시겠습니까?\"</item>
-    </plurals>
-    <plurals name="Nexpired_remind">
-        <item quantity="other">%d일 남음</item>
-    </plurals>
-    <plurals name="NTrackstoDownload">
-        <item quantity="other">%d곡 다운로드합니다.</item>
-    </plurals>
-    <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">재생목록 %d개를 삭제하겠습니까?</item>
-    </plurals>
-    <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d곡의 새 노래</item>
-    </plurals>
-    <plurals name="Ntracks_count">
-        <item quantity="other">%d곡의 노래</item>
-    </plurals>
-    <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d곡의 비슷한 노래</item>
-    </plurals>
-    <plurals name="Nartists_count">
-        <item quantity="other">%d명의 아티스트</item>
-    </plurals>
-    <plurals name="Ngroups_count">
-        <item quantity="other">%d개의 밴드</item>
-    </plurals>
-    <plurals name="dialog_delete_descript">
-        <item quantity="other">%d개의 음악을 삭제하겠습니까?</item>
-    </plurals>
-    <plurals name="dialog_remove_descript">
-        <item quantity="other">%d개의 음악을 제거하겠습니까?</item>
-    </plurals>
-    <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">재생 목록에 추가된 %d곡</item>
-    </plurals>
-    <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">재생 목록에서 제거된 %d곡</item>
-    </plurals>
-    <plurals name="artist_list_fragment_item_count_format">
-        <item quantity="other">%d곡</item>
-    </plurals>
-    <plurals name="Nquit_warning">
-        <item quantity="other">%d분 뒤 재생이 멈춥니다</item>
-    </plurals>
-    <plurals name="send_songs_toast">
-        <item quantity="other">%d곡이 전송됩니다.</item>
-    </plurals>
-    <plurals name="folder_songs_count">
-        <item quantity="other">%d곡</item>
-    </plurals>
-    <plurals name="Nnew_local_audios">
-        <item quantity="other">%d곡 추가됨</item>
-    </plurals>
-    <plurals name="multichoice_title">
-        <item quantity="other">%d개 선택됨</item>
-    </plurals>
-    <plurals name="song_already_favorite">
-        <item quantity="other">노래가 즐겨찾기에 추가 되었습니다.</item>
-    </plurals>
-    <plurals name="comment_count">
-        <item quantity="other">댓글 %d개</item>
-    </plurals>
-    <plurals name="reader_count">
-        <item quantity="other">팔로워 %d명</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">%d개 파일을 삭제하시겠습니까?</item>
-    </plurals>
-    <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%d개 파일 삭제됨</item>
-    </plurals>
-    <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Mi 클라우드에서 %d개 음악파일을 삭제하시겠습니까? 기기의 재생목록에서도 같이 삭제됩니다.</item>
-    </plurals>
-    <plurals name="songs_count">
-        <item quantity="other">%d개의 음악파일</item>
-    </plurals>
-    <plurals name="Nunbackup_audios">
-        <item quantity="other">"%1$d개 음악파일이 백업되지 않았습니다. (%2$.1fMB)"</item>
-    </plurals>
-    <plurals name="Nupload_song_button">
-        <item quantity="other">%1$d개 파일 백업하기 (%2$.1fMB)</item>
-    </plurals>
-    <plurals name="Nbackup_songs">
-        <item quantity="other">음악파일 백업중, %1$d개 파일 남음 (%2$.1fMB)</item>
-    </plurals>
-    <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">"%d개 음악파일이  Mi 클라우드에 백업되지 않았습니다. 지금 중단하시겠습니까?"</item>
-    </plurals>
-    <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">%1$s에 생성됨 | 총 %2$d개 음악</item>
-    </plurals>
-    <plurals name="Nalbum_total_songs">
-        <item quantity="other">총 %d개 음악</item>
-    </plurals>
-    <plurals name="skipped_online_songs_tips">
-        <item quantity="other">%d개 음악을 건너뛰었습니다. 설정에서 온라인 서비스를 켠 후에 정상적으로 들을 수 있습니다.</item>
-    </plurals>
-    <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">저장된 노래에 대한 앨범 표지 및 가사를 자동으로 찾지 않기로 선택했습니다. %d개 음악의 정보를 삭제하시겠습니까?</item>
-    </plurals>
-    <plurals name="Nassociate_songs">
-        <item quantity="other">앨범 표지 및 가사 검색중 (%1$d/%2$d)</item>
-    </plurals>
-    <plurals name="Ndownload_fee_alert_message">
-        <item quantity="other">원저작자의 요청으로 %d개의 음악은 무료 다운로드를 지원하지 않습니다.</item>
-    </plurals>
-    <plurals name="notif_title_multiple_downloading">
-        <item quantity="other">%1$d개 음악 다운로드중</item>
-    </plurals>
-    <plurals name="notification_download_failed_more">
-        <item quantity="other">"%1$d개 음악을 다운로드할 수 없습니다."</item>
-    </plurals>
-    <plurals name="notification_download_success_more">
-        <item quantity="other">%1$d개 다운로드</item>
-    </plurals>
-    <plurals name="comment_input_length_invalid">
-        <item quantity="other">최대 %1$d자까지 입력 할 수 있습니다.</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message_with_file">
-        <item quantity="other">"%d개 항목을 지울까요? 참고: 파일이 기기에서도 함께 지워집니다."</item>
-    </plurals>
-    <plurals name="Ndialog_renew_content">
-        <item quantity="other">"%d일내에 구독이 만료됩니다. 갱신하시겠습니까?"</item>
-    </plurals>
-    <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">%1$d개의 무료음악을 다운로드 할 수 있습니다. %2$s 항목을 지금 다운로드 하시겠습니까?</item>
-    </plurals>
-    <plurals name="Nnowplaying_songs">
-        <item quantity="other">(%d곡)</item>
-    </plurals>
-    <plurals name="Nsleep_quit_warning">
-        <item quantity="other">%d분 남음</item>
-    </plurals>
-    <plurals name="swipe_to_load_head_complete_success">
-        <item quantity="other">%1$d개의 업데이트가 있습니다:</item>
-    </plurals>
-    <plurals name="video_play_count">
-        <item quantity="other">조회수 %1$s</item>
-    </plurals>
+  <plurals name="comment_count">
+    <item quantity="other">댓글 %d개</item>
+  </plurals>
+  <plurals name="dialog_confirm_delete_downloads_message">
+    <item quantity="other">%d개 파일을 삭제하시겠습니까?</item>
+  </plurals>
+  <plurals name="dialog_confirm_delete_downloads_message_with_file">
+    <item quantity="other">%d개 항목을 지울까요? 참고: 파일이 기기에서도 함께 지워집니다.</item>
+  </plurals>
+  <plurals name="dialog_delete_descript">
+    <item quantity="other">%d개의 음악을 삭제하겠습니까?</item>
+  </plurals>
+  <plurals name="dialog_remove_descript">
+    <item quantity="other">%d개의 음악을 제거하겠습니까?</item>
+  </plurals>
+  <plurals name="download_finished">
+    <item quantity="other">&amp;lt;font color=\"red\"&gt;%d개 노래&amp;lt;/font&gt; 다운로드됨</item>
+  </plurals>
+  <plurals name="download_info_count_deleted_tasks">
+    <item quantity="other">%d개 파일 삭제됨</item>
+  </plurals>
+  <plurals name="download_running">
+    <item quantity="other">&amp;lt;font color=\"red\"&gt;%d개 노래&amp;lt;/font&gt; 다운로드 중</item>
+  </plurals>
+  <plurals name="multichoice_title">
+    <item quantity="other">%d개 선택됨</item>
+  </plurals>
+  <plurals name="Nalbum_total_songs">
+    <item quantity="other">총 %d개 음악</item>
+  </plurals>
+  <plurals name="Nassociate_songs">
+    <item quantity="other">앨범 표지 및 가사 검색중 (%1$d/%2$d)</item>
+  </plurals>
+  <plurals name="Ndialog_renew_content">
+    <item quantity="other">%d일내에 구독이 만료됩니다. 갱신하시겠습니까?</item>
+  </plurals>
+  <plurals name="Nhungama_free_download_summary">
+    <item quantity="other">%1$d개의 무료음악을 다운로드 할 수 있습니다. %2$s 항목을 지금 다운로드 하시겠습니까?</item>
+  </plurals>
+  <plurals name="notif_title_multiple_downloading">
+    <item quantity="other">%1$d개 음악 다운로드중</item>
+  </plurals>
+  <plurals name="notification_download_failed_more">
+    <item quantity="other">%1$d개 음악을 다운로드할 수 없습니다.</item>
+  </plurals>
+  <plurals name="Nquit_warning">
+    <item quantity="other">%d분 뒤 재생이 멈춥니다</item>
+  </plurals>
+  <plurals name="Nsong_group_detail_subtitle">
+    <item quantity="other">%1$s에 생성됨 | 총 %2$d개 음악</item>
+  </plurals>
+  <plurals name="Ntracks_add_to_playlist">
+    <item quantity="other">재생 목록에 추가된 %d곡</item>
+  </plurals>
+  <plurals name="Ntracks_count">
+    <item quantity="other">%d곡의 노래</item>
+  </plurals>
+  <plurals name="Ntracks_remove_from_playlist">
+    <item quantity="other">재생 목록에서 제거된 %d곡</item>
+  </plurals>
+  <plurals name="Ntracks_similar_count">
+    <item quantity="other">%d곡의 비슷한 노래</item>
+  </plurals>
+  <plurals name="reader_count">
+    <item quantity="other">팔로워 %d명</item>
+  </plurals>
+  <plurals name="send_songs_toast">
+    <item quantity="other">%d곡이 전송됩니다.</item>
+  </plurals>
+  <plurals name="skipped_online_songs_tips">
+    <item quantity="other">%d개 음악을 건너뛰었습니다. 설정에서 온라인 서비스를 켠 후에 정상적으로 들을 수 있습니다.</item>
+  </plurals>
+  <plurals name="song_already_favorite">
+    <item quantity="other">노래가 즐겨찾기에 추가 되었습니다.</item>
+  </plurals>
+  <plurals name="songs_count">
+    <item quantity="other">%d개의 음악파일</item>
+  </plurals>
+  <plurals name="video_count">
+    <item quantity="other">비디오</item>
+  </plurals>
+  <plurals name="video_play_count">
+    <item quantity="other">조회수 %1$s</item>
+  </plurals>
 </resources>
