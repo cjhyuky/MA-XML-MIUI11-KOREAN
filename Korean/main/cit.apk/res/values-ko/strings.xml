@@ -931,4 +931,14 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
   <string name="open_dc_backlight_summary">"특정 디스플레이 설정은 DC 백라이트 모드와 호환되지 않지만이 모드를 해제하면 복원됩니다."DC 백라이트 모드를 켜시겠습니까?"</string>
   <string name="screen_cancel">끄기</string>
   <string name="screen_confirm">켜기</string>
+  <string name="cit_f2_cali">보정</string>
+  <string name="cit_f2_cali_done">보정 완료</string>
+  <string name="cit_f2_cali_failed">보정에 실패했습니다. 다시 시도하십시오</string>
+  <string name="cit_f2_cali_title">카메라 보정</string>
+  <string name="cit_f2_calibrating">보정 진행중...</string>
+  <string name="cit_f2_camera_check_summary">"테스트 지침 :
+1. 보정 버튼을 누르십시오.
+2. 카메라가 보정되었음을 나타내는 보정 통과 레이블이 있습니다."</string>
+  <string name="cit_f2_capture_fail">캡처하지 못했습니다. 다시 시도하십시오!</string>
+  <string name="cit_f2_capture_success">보정 버튼을 클릭하십시오!</string>
 </resources>
