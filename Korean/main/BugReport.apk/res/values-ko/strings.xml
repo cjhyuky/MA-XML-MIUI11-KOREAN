@@ -450,7 +450,6 @@
   <string name="passport_wrong_phone_number_format">입력 한 전화 번호의 형식이 잘못되었습니다.</string>
   <string name="passport_wrong_vcode">입력 한 코드가 잘못되었습니다.</string>
   <string name="pic_not_exist">이 이미지는 존재하지 않습니다.</string>
-  <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">피드백과 오류 로그가 함께 Mi 서버로 전송됩니다.</string>
   <string name="plus_one_submit_dialog_not_show_again">기본 설정 기억</string>
   <string name="post_miui_bbs_failed">포럼에 게시 실패</string>
