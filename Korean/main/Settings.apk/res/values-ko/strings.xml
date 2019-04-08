@@ -2555,7 +2555,6 @@
   <string name="firewall_temp_rule_reason">%2$s에 의해 %1$s의 네트워크 제한됨</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">이 스위치가 꺼져있을 때 설치된 앱은 Wi-Fi를 사용하여 인터넷에 연결할 수 없습니다.</string>
-  <string name="firmware_title">안드로이드</string>
   <string name="firmware_version">안드로이드 버전</string>
   <string name="flash_drive_backup_btn">USB저장소에 백업</string>
   <string name="flash_drive_backup_note">앱을 USB저장소에 백업합니다. 시작하기전에 USB 저장소에 공간이 충분히 있는지 확인하세요.</string>
