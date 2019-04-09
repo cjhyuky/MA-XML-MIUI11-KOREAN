@@ -4083,7 +4083,7 @@
   <string name="notification_fold_description2">MIUI는 탭 한 알림을 기억하고 여러 기준을 사용하여 중요 여부를 판단합니다.</string>
   <string name="notification_fold_description3">중요하다고 생각하는 알림이 알림 폴더에 계속 들어가면 그러한 문제를 Google에 보고해야 합니다. 피드백을 보내주시면 감사하겠습니다.</string>
   <string name="notification_fold_footer_icon_summary">모든 중요하지 않은 알림들의 아이콘이 폴더 오른쪽에 표시됩니다</string>
-  <string name="notification_fold_footer_icon_title">아이콘 표시</string>
+  <string name="notification_fold_footer_icon_title">앱 아이콘 표시</string>
   <string name="notification_fold_summary">모든 중요하지 않은 알림은 별도의 폴더에 나타납니다</string>
   <string name="notification_fold_title">알림 폴더</string>
   <string name="notification_group_title">알림 카테고리 그룹</string>
@@ -4768,7 +4768,11 @@
   <string name="radio_info_http_client_test">HTTP 클라이언트 테스트:</string>
   <string name="radio_info_ims_feature_status_available">가능</string>
   <string name="radio_info_ims_feature_status_unavailable">사용할 수 없는</string>
-  <string name="radio_info_ims_reg_status">"IMS 등록: %1$s VoLTE: %2$s Wi-Fi 전화: %3$s 영상통화: %4$s 유저 인터페이스: %5$s"</string>
+  <string name="radio_info_ims_reg_status">"IMS 등록: %1$s
+ VoLTE: %2$s
+ Wi-Fi 전화: %3$s
+ 영상통화: %4$s
+ 유저 인터페이스: %5$s"</string>
   <string name="radio_info_ims_reg_status_not_registered">등록되지 않음</string>
   <string name="radio_info_ims_reg_status_registered">등록됨</string>
   <string name="radio_info_ims_reg_status_title">IMS 상태</string>
