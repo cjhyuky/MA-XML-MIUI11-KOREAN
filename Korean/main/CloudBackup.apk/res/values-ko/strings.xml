@@ -229,4 +229,6 @@
 네트워크 설정 체크 후 다시 시도하세요."</string>
     <string name="restore_app_order_loading">잠시만 기다려주세요…</string>
     <string name="restore_app_order_finish">완료</string>
+    <string name="provision_background_restore_more_data">백그라운드에서 더 많은 항목을 복원하세요</string>
+    <string name="provision_restore_data">항목 복원</string>
 </resources>
