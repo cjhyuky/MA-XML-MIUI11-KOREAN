@@ -1899,7 +1899,7 @@
   <string name="device_cpu8_info">옥타 코어</string>
   <string name="device_cpu10_info">데카 코어</string>
   <string name="device_description_battery">배터리 용량</string>
-  <string name="device_description_camera">전면 카메라</string>
+  <string name="device_description_camera">후면 카메라</string>
   <string name="device_description_cpu">CPU</string>
   <string name="device_description_ram">램</string>
   <string name="device_description_resolution">해상도</string>
