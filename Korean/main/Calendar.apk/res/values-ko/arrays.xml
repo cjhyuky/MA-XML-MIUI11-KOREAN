@@ -349,4 +349,10 @@
         <item>투명 배경</item>
         <item>흰색 배경</item>
     </string-array>
+    <string-array name="default_reminder_later_time_labels">
+        <item>5분</item>
+        <item>10분</item>
+        <item>15분</item>
+        <item>30분</item>
+    </string-array>
 </resources>
