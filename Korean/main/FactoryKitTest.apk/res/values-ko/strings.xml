@@ -28,9 +28,9 @@
   <string name="battery_current">배터리 전류 =</string>
   <string name="battery_current_prompt">현재 시간을 좀 기다려주세요.</string>
   <string name="battery_fail">배터리 테스트 실패!</string>
-  <string name="battery_heath_dead">죽은</string>
+  <string name="battery_heath_dead">안좋음</string>
   <string name="battery_heath_failure">알수없는 오류</string>
-  <string name="battery_heath_good">좋은</string>
+  <string name="battery_heath_good">좋음</string>
   <string name="battery_heath_over_heat">과열</string>
   <string name="battery_heath_over_voltage">과전압</string>
   <string name="battery_heath_unknown">알 수 없는</string>
