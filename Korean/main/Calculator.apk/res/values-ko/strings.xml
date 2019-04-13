@@ -430,4 +430,5 @@
     <string name="tax_thershold_native_new">%s (신규)</string>
     <string name="tax_thershold_native_new_description">세금은 2018년 10월 1일부터 새로운 세법에 따라 계산됩니다.</string>
     <string name="not_supported_due_to_language">이 기능은 중국어로만 사용가능합니다</string>
+    <string name="fmt_time_12hour_minute_pm">a h:mm</string>
 </resources>
