@@ -1117,8 +1117,8 @@
     <string name="mimoji_check_multi_face">프레임 안에 한명의 얼굴만 인식시키십시오</string>
     <string name="mimoji_check_beyond_20_degrees">안면기능을 활용하려면 화면을 주시해주세요</string>
     <string name="pref_camera_picturesize_entry_fullscreen">전체화면</string>
-    <string name="ultra_wide_mode_use_hint_text_sat">"0.6X 슈퍼 와이드 앵글을 켜시면 더 넓은 시야를 녹화 할 수 있습니다
-보다 멋진 아름다움을 경험해보세요"</string>
+    <string name="ultra_wide_mode_use_hint_text_sat">"0.6X 울트라 와이드 앵글 모드를 사용해 더 많은 추억을 남기세요.
+와이드 앵글 모드는 많은 풍경을 촬영할 때 좋습니다."</string>
     <string name="accessibility_video_btn_play">비디오 재생</string>
     <string name="beauty_body_whole">체형</string>
 </resources>
