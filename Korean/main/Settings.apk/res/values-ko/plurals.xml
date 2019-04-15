@@ -391,4 +391,55 @@
     <plurals name="uninstall_game_count_title">
         <item quantity="other">"%d개 게임 추가 실패"</item>
     </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">오늘 %d회 잠금해제</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">최근 7일간 %d회 잠금해제</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">오늘 %d회 알림 받음</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">최근 7일간 %d회 알림 받음</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d시간</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d시간</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" 시간"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d분</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" 분"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d회 알림</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d회</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">주말: %d시간</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">주말: %d분</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">평일: %d시간</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">평일: %d분</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" 시간"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" 분"</item>
+    </plurals>
 </resources>
