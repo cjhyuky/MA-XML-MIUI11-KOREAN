@@ -1072,11 +1072,11 @@
     <string name="pref_google_lens_summary">QR코드, 이메일, 숫자 및 텍스트 자동 인식</string>
     <string name="pref_google_lens_title">스마트 렌즈</string>
     <string name="wideselfie_press_shoot_key_to_start">셔터를 누르세요</string>
-    <string name="wideselfie_rotate_slowly">전화를 천천히 회전시키세요</string>
+    <string name="wideselfie_rotate_slowly">전화를 옆으로 돌리세요</string>
     <string name="wideselfie_rotate_to_back">전화를 뒤쪽으로 기울이세요</string>
     <string name="wideselfie_rotate_to_front">전화를 앞으로 기울이세요</string>
-    <string name="wideselfie_rotate_to_left_slowly">전화를 천천히 왼쪽으로 돌리세요</string>
-    <string name="wideselfie_rotate_to_right_slowly">전화를 천천히 오른쪽으로 돌리세요</string>
+    <string name="wideselfie_rotate_to_left_slowly">전화를 왼쪽으로 돌리세요</string>
+    <string name="wideselfie_rotate_to_right_slowly">전화를 오른쪽으로 돌리세요</string>
     <string name="macro_mode">근접 모드</string>
     <string name="macro_mode_tip">사물을 10cm안에 두세요</string>
     <string name="mimoji_back">뒤로</string>
@@ -1102,7 +1102,7 @@
     <string name="out_line_right_eyes_occlusion">오른쪽 눈이 가려짐</string>
     <string name="recapture_dialog_message">재촬영 하시겠습니까？</string>
     <string name="recapture_dialog_title">재촬영을 하면 현재 사진은 지워집니다</string>
-    <string name="wideselfie_result_image_lossless">파노라마 사진 저장 실패</string>
+    <string name="wideselfie_result_image_lossless">파노라마 사진 생성 실패</string>
     <string name="dialog_google_lens_option_0">구글 렌즈(추천)</string>
     <string name="pref_camera_long_press_viewfinder_google_lens">구글 렌즈</string>
     <string name="pref_camera_long_press_viewfinder_lock_ae_af">자동노출/오토포커스 잠금</string>
