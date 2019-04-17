@@ -1123,4 +1123,23 @@
     <string name="beauty_body_whole">체형</string>
     <string name="ultra_wide_open_tip_sat">0.6X 울트라 와이드 앵글 모드</string>
     <string name="video_beauty_tip">영상 미화</string>
+    <string name="mimoji_hairstyle">헤어스타일</string>
+    <string name="mimoji_featured_face">얼굴형</string>
+    <string name="mimoji_eye">눈</string>
+    <string name="mimoji_eyebrow">눈썹</string>
+    <string name="mimoji_nose_lisps">코 &amp; 입술</string>
+    <string name="mimoji_mustache">턱수염</string>
+    <string name="mimoji_mole_freckle">두더지 &amp; 주근깨</string>
+    <string name="mimoji_mole">두더지</string>
+    <string name="mimoji_freckle">주근깨</string>
+    <string name="mimoji_eyeglass">안경</string>
+    <string name="mimoji_ornament">악세사리</string>
+    <string name="mimoji_headwear">헤드기어</string>
+    <string name="mimoji_ear">귀</string>
+    <string name="mimoji_eye_shape">귀 모양</string>
+    <string name="mimoji_eyelash">속눈썹</string>
+    <string name="mimoji_eyebrow_shape">눈썹</string>
+    <string name="mimoji_mouth_type">입모양 타입</string>
+    <string name="mimoji_nose">코</string>
+    <string name="mimoji_earring">귀걸이</string>
 </resources>
