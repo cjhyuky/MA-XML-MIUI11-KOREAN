@@ -1121,4 +1121,6 @@
 와이드 앵글 모드는 많은 풍경을 촬영할 때 좋습니다."</string>
     <string name="accessibility_video_btn_play">비디오 재생</string>
     <string name="beauty_body_whole">체형</string>
+    <string name="ultra_wide_open_tip_sat">0.6X 울트라 와이드 앵글 모드</string>
+    <string name="video_beauty_tip">영상 미화</string>
 </resources>
