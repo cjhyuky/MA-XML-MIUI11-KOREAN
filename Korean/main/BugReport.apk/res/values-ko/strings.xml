@@ -529,4 +529,6 @@
   <string name="upload_log_failed">로그를 전송하지 못함</string>
   <string name="warning_field_empty">%1$s 입력</string>
   <string name="warning_field_invalid">%1$s 항목을 하나 선택하십시오.</string>
+  <string name="feedback_description_hint_suggestion">"MIUI 개선 방안을 알려주세요."</string>
+  <string name="feedback_jira_key_place_holder">Jira 생성중…</string>
 </resources>
