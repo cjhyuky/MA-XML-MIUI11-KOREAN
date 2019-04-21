@@ -2617,9 +2617,12 @@
   <string name="forget">삭제</string>
   <string name="forget_password_button_text">비밀번호 찾기</string>
   <string name="forget_password_dialog_button_text">뒤로가기</string>
+  <string name="forget_password_dialog_content_four">2. 데이터 초기화를 선택한 후에 기기가 재부팅될 때까지 기다려주세요.</string>
+  <string name="forget_password_dialog_content_one">비밀번호를 잊어버리셨다면 그 비밀번호를 복구할 방법은 없습니다. 그러나 기기의 모든 데이터(사진, 연락처, 등 포함)를 삭제한 후에 비밀번호를 재설정할 수는 있습니다. 이 과정을 진행하기 전에 중요한 자료를 미리 백업하세요.</string>
+  <string name="forget_password_dialog_content_three">1. 기기의 전원을 끄세요. 그리고 전원버튼과 볼륨업 버튼을 Mi.com 로고가 뜰때까지 동시에 누르고 계세요.</string>
   <string name="forget_password_dialog_content_two">데이터를 삭제하려면 이 과정을 따라해보세요 :</string>
   <string name="forget_password_dialog_title">비밀번호 재설정</string>
-  <string name="forget_pattern">&lt;u&gt;패턴을 잊으셨습니까?&lt;/u&gt;</string>
+  <string name="forget_pattern">패턴을 잊으셨습니까?</string>
   <string name="forget_privacy_password_setting">Mi 계정 추가</string>
   <string name="forget_privacy_password_summary">Mi 계정을 사용하여 비밀번호 초기화</string>
   <string name="forget_wifi_message">귀하의 휴대전화가 이 네트워크에 자동으로 연결하는 것을 중지시킵니다.</string>
