@@ -2615,7 +2615,7 @@
   <string name="force_touch_enable_tips">3D 터치가 켜져있을 때 실행기의 앱 아이콘을 눌러서 바로가기 메뉴를 볼 수 있습니다.</string>
   <string name="foreground_traffic">%s 메인 화면</string>
   <string name="forget">삭제</string>
-  <string name="forget_password_button_text">&lt;u&gt;비밀번호 찾기&lt;/u&gt;</string>
+  <string name="forget_password_button_text">비밀번호 찾기</string>
   <string name="forget_password_dialog_button_text">뒤로가기</string>
   <string name="forget_password_dialog_content_two">데이터를 삭제하려면 이 과정을 따라해보세요 :</string>
   <string name="forget_password_dialog_title">비밀번호 재설정</string>
