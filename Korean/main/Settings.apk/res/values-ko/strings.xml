@@ -4886,7 +4886,7 @@
   <string name="reset_network_data">모바일 데이터</string>
   <string name="reset_network_desc">모든 네트워크 설정을 초기화합니다</string>
   <string name="reset_network_final_button_text">설정 초기화</string>
-  <string name="reset_network_final_desc">네트워크 설정을 초기화할까요?</string>
+  <string name="reset_network_final_desc">모든 네트워크 설정을 초기화 하시겠습니까? 몇 초가 걸릴 수 있으며 작업을 취소할 수 없습니다.</string>
   <string name="reset_network_title">네트워크 상태 초기화</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">보조 공간 비밀번호 초기화</string>
@@ -8117,6 +8117,6 @@
   <string name="usagestats_device_timeout_positive">확인</string>
   <string name="usagestats_device_timeout_title">화면 시간 알림</string>
   <string name="wifi_protection_on">켬</string>
-  <string name="wifi_protection_settings_title">WIFI 프로브 보호</string>
-  <string name="wifi_protection_tip">MIUI는 자동으로 WIFI 프로브 보호 기능을 켭니다. 휴대 전화의 Wi-Fi 검색시 Wi-Fi 프로브 박스가 사용자 개인 정보를 훔치거나 개인정보를 침해하지 못하도록 MAC 주소를 무작위로 지정합니다.</string>
+  <string name="wifi_protection_settings_title">WIFI 프로브 요청 보호</string>
+  <string name="wifi_protection_tip">MIUI는 장치가 Wi-Fi를 검색할 때 임의의 MAC 주소 또는 Wi-Fi 프로브 스니퍼에서 오는 개인정보 탈취로부터 사용자의 정보를 보호합니다.</string>
 </resources>
