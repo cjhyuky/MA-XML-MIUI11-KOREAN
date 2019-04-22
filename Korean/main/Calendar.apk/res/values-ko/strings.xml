@@ -242,7 +242,7 @@
     <string name="month_view">월</string>
     <string name="monthly">매월</string>
     <string name="monthly_on_day">매월(같은 날짜)</string>
-    <string name="monthly_on_day_count">매월(%1$s %2$s)</string>
+    <string name="monthly_on_day_count">월간 (매달 %1$s)</string>
     <string name="network_not_available">네크워크에 연결할 수 없습니다.</string>
     <string name="new_event_description">새로운</string>
     <string name="next_alarm_time">%1$s에 다음 알림</string>
@@ -679,15 +679,17 @@
    <string name="reminder_overdue">만료기한</string>
    <string name="train_detail_title">기차 일정</string>
    <string name="train_event_delete_successfully">기차 일정 삭제 완료</string>
-  <string name="feed_tips_got_it">확인</string>
-  <string name="feed_tips_primary_text">캘린더 구독 채널 갱신 버전</string>
-  <string name="feed_tips_secondary_text">풍부한 정보와 효율적인 서비스의 완벽한 통합</string>
-  <string name="feed_tips_see_details">상세 보기</string>
-  <string name="feed_tips_subscribe_more">더 많은 채널 구독하기</string>
-  <string name="weather_huangli_card_no_data_hint">날씨 정보를 보려면 클릭하십시오</string>
-  <string name="yiji_app_download_card_lebal">해야 할 일</string>
-  <string name="setting_title_weather_card_desc">음력 카드 오른쪽에 날씨 정보</string>
-  <string name="no_visiable_calendar_message_only_for_xiaomi_account">캘린더 계정을 추가해야합니다. 계속하려면 \"계정 추가\"를 누르십시오.</string>
-  <string name="share_not_install_wechat">위챗을 설치하십시오</string>
-  <string name="share_not_install_weibo">웨이보를 설치하십시오</string>
+   <string name="feed_tips_got_it">확인</string>
+   <string name="feed_tips_primary_text">캘린더 구독 채널 갱신 버전</string>
+   <string name="feed_tips_secondary_text">풍부한 정보와 효율적인 서비스의 완벽한 통합</string>
+   <string name="feed_tips_see_details">상세 보기</string>
+   <string name="feed_tips_subscribe_more">더 많은 채널 구독하기</string>
+   <string name="weather_huangli_card_no_data_hint">날씨 정보를 보려면 클릭하십시오</string>
+   <string name="yiji_app_download_card_lebal">해야 할 일</string>
+   <string name="setting_title_weather_card_desc">음력 카드 오른쪽에 날씨 정보</string>
+   <string name="no_visiable_calendar_message_only_for_xiaomi_account">캘린더 계정을 추가해야합니다. 계속하려면 \"계정 추가\"를 누르십시오.</string>
+   <string name="share_not_install_wechat">위챗을 설치하십시오</string>
+   <string name="share_not_install_weibo">웨이보를 설치하십시오</string>
+   <string name="work_day_default_banner_title">오늘 하루도 열심히!</string>
+   <string name="free_day_default_banner_title">휴일을 즐기세요!</string>
 </resources>
