@@ -242,7 +242,6 @@
     <string name="month_view">월</string>
     <string name="monthly">매월</string>
     <string name="monthly_on_day">매월(같은 날짜)</string>
-    <string name="monthly_on_day_count">월간 (매달 %1$s)</string>
     <string name="network_not_available">네크워크에 연결할 수 없습니다.</string>
     <string name="new_event_description">새로운</string>
     <string name="next_alarm_time">%1$s에 다음 알림</string>
