@@ -1858,4 +1858,6 @@
   <string name="power_save_ps_close_setting">배터리 절약을 위해 백그라운드 서비스 끄기 (동기화, GPS)</string>
   <string name="power_save_ps_freeze">백그라운드에 앱 고정</string>
   <string name="power_save_ps_limit">시스템앱 활동 제한</string>
+  <string name="notification_channel_dnd">방해금지모드</string>
+  <string name="dnd_notification_warnings_title">방해금지모드를 끄기 전까지 전화와 알림이 음소거됩니다</string>
 </resources>
