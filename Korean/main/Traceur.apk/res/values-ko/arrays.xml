@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="animator_duration_scale_entries">
+    <item>애니메이션 꺼짐</item>
+    <item>애니메이션 크기 0.5x</item>
+    <item>애니메이션 크기 1x</item>
+    <item>애니메이션 크기 1.5x</item>
+    <item>애니메이션 크기 2x</item>
+    <item>애니메이션 크기 5x</item>
+    <item>애니메이션 크기 10x</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+    <item>표준 제한</item>
+    <item>백그라운드 프로세스 없음</item>
+    <item>최대 1개 프로세스</item>
+    <item>최대 2개 프로세스</item>
+    <item>최대 3개 프로세스</item>
+    <item>최대 4개 프로세스</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    <item>시스템 선택 사용 (기본값)</item>
+    <item>16 비트/샘플</item>
+    <item>24 비트/샘플</item>
+    <item>32 비트/샘플</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+    <item>시스템 선택 사용 (기본값)</item>
+    <item>16 비트/샘플</item>
+    <item>24 비트/샘플</item>
+    <item>32 비트/샘플</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+    <item>시스템 선택 사용 (기본값)</item>
+    <item>모노</item>
+    <item>스테레오</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+    <item>시스템 선택 사용 (기본값)</item>
+    <item>모노</item>
+    <item>스테레오</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+    <item>오디오 품질에 최적화 됨</item>
+    <item>균형 잡힌 오디오 및 연결 품질</item>
+    <item>연결 품질에 최적화 됨</item>
+    <item>최선의 노력 (적응형 비트 전송률)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+    <item>오디오 품질 최적화 (990kbps/909kbps)</item>
+    <item>평형 오디오 및 연결 품질 (660kbps/606kbps)</item>
+    <item>연결 품질 최적화 (330kbps/303kbps)</item>
+    <item>최선의 노력 (적응형 비트 전송률)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+    <item>시스템 선택 사용 (기본값)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    <item>시스템 선택 사용 (기본값)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_summaries">
+    <item>시스템 선택 사용 (기본값)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>Qualcomm® aptX ™ 오디오</item>
+    <item>Qualcomm® aptX ™ HD 오디오</item>
+    <item>LDAC</item>
+    <item>Qualcomm® aptX ™ 적응 형 오디오</item>
+    <item>옵션 코덱 활성화</item>
+    <item>옵션 코덱 비활성화</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+    <item>시스템 선택 사용 (기본값)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>Qualcomm® aptX ™ 오디오</item>
+    <item>Qualcomm® aptX ™ HD 오디오</item>
+    <item>LDAC</item>
+    <item>Qualcomm® aptX ™ 적응 형 오디오</item>
+    <item>옵션 코덱 활성화</item>
+    <item>옵션 코덱 비활성화</item>
+  </string-array>
+  <string-array name="bluetooth_audio_active_device_summaries">
+    <item />
+    <item>, 켜짐</item>
+    <item>, 켜짐 (미디어)</item>
+    <item>, 켜짐 (전화)</item>
+  </string-array>
+  <string-array name="bluetooth_avrcp_versions">
+    <item>AVRCP 1.4 (기본값)</item>
+    <item>AVRCP 1.3</item>
+    <item>AVRCP 1.5</item>
+    <item>AVRCP 1.6</item>
+  </string-array>
+  <string-array name="color_mode_descriptions">
+    <item>향상된 색상</item>
+    <item>눈에 보이는 자연스런 색상</item>
+    <item>디지털 콘텐츠에 최적화 된 색상</item>
+  </string-array>
+  <string-array name="color_mode_names">
+    <item>활기찬 (기본값)</item>
+    <item>자연스러운</item>
+    <item>표준</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item>떨어져서</item>
+    <item>오버 드로 영역 표시</item>
+    <item>신명기에 대한 영역 표시</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item>없음</item>
+    <item>로그캣</item>
+    <item>Systrace (그래픽)</item>
+    <item>GlGetError에서 스택 호출</item>
+  </string-array>
+  <string-array name="hdcp_checking_summaries">
+    <item>HDCP 검사 사용 안 함</item>
+    <item>DRM 콘텐츠에 대해서만 HDCP 검사 사용</item>
+    <item>항상 HDCP 검사 사용</item>
+  </string-array>
+  <string-array name="hdcp_checking_titles">
+    <item>체크하지않음</item>
+    <item>DRM 콘텐츠 만 확인</item>
+    <item>항상 체크</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item>없음</item>
+    <item>480p</item>
+    <item>480p (보안)</item>
+    <item>720p</item>
+    <item>720p (보안)</item>
+    <item>1080p</item>
+    <item>1080p (보안)</item>
+    <item>4K</item>
+    <item>4K (보안)</item>
+    <item>4K (확대)</item>
+    <item>4K (확대, 보안)</item>
+    <item>720p, 1080p (듀얼 스크린)</item>
+  </string-array>
+  <string-array name="select_logd_size_lowram_titles">
+    <item>꺼짐</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
+  </string-array>
+  <string-array name="select_logd_size_summaries">
+    <item>떨어져서</item>
+    <item>로그 버퍼 당 64K</item>
+    <item>로그 버퍼 당 256K</item>
+    <item>로그 버퍼 당 1M</item>
+    <item>로그 버퍼 당 4M</item>
+    <item>로그 버퍼 당 16M</item>
+  </string-array>
+  <string-array name="select_logd_size_titles">
+    <item>끄기</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
+    <item>4M</item>
+    <item>16M</item>
+  </string-array>
+  <string-array name="select_logpersist_summaries">
+    <item>끄기</item>
+    <item>모든 로그 버퍼</item>
+    <item>무선 로그 버퍼를 제외하고 모두</item>
+    <item>커널 로그 버퍼 만</item>
+  </string-array>
+  <string-array name="select_logpersist_titles">
+    <item>끄기</item>
+    <item>모든</item>
+    <item>라디오를 제외하고 모두</item>
+    <item>커널 만</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item>끄기</item>
+    <item>사각형이 아닌 클립 영역을 파란색으로 그립니다.</item>
+    <item>테스트 된 도면 명령을 녹색으로 강조 표시합니다.</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item>끄기</item>
+    <item>화면상의 바</item>
+    <item>Adb 쉘에서 dumpsys gfxinfo</item>
+  </string-array>
+  <string-array name="transition_animation_scale_entries">
+    <item>애니메이션 꺼짐</item>
+    <item>애니메이션 크기 .5x</item>
+    <item>애니메이션 크기 1x</item>
+    <item>애니메이션 크기 1.5x</item>
+    <item>애니메이션 크기 2x</item>
+    <item>애니메이션 크기 5x</item>
+    <item>애니메이션 크기 10x</item>
+  </string-array>
+  <string-array name="tts_rate_entries">
+    <item>아주 느린</item>
+    <item>느린</item>
+    <item>표준</item>
+    <item>빠른</item>
+    <item>빨리</item>
+    <item>매우 빠름</item>
+    <item>빠른</item>
+    <item>매우 빠른</item>
+    <item>가장 빠른</item>
+  </string-array>
+  <string-array name="usb_configuration_titles">
+    <item>충전 중</item>
+    <item>MTP (미디어 전송 프로토콜)</item>
+    <item>PTP (Picture Transfer Protocol)</item>
+    <item>RNDIS (USB 이더넷)</item>
+    <item>오디오 소스</item>
+    <item>MIDI(미디)</item>
+  </string-array>
+  <string-array name="wifi_status">
+    <item />
+    <item>스캔중…</item>
+    <item>연결중…</item>
+    <item>인증중…</item>
+    <item>IP 주소 얻는중…</item>
+    <item>연결됨</item>
+    <item>지연됨</item>
+    <item>연결 끊는중…</item>
+    <item>연결이 끊어짐</item>
+    <item>실패</item>
+    <item>막힘</item>
+    <item>일시적인 연결 불량 예방</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item />
+    <item>스캔중…</item>
+    <item>%1$s에 연결중…</item>
+    <item>%1$s로 인증중…</item>
+    <item>%1$s에서 IP 주소 얻는중…</item>
+    <item>%1$s에 연결됨</item>
+    <item>지연됨</item>
+    <item>%1$s에 연결 해제중…</item>
+    <item>연결이 끊어짐</item>
+    <item>실패</item>
+    <item>막힘</item>
+    <item>일시적인 연결 불량 예방</item>
+  </string-array>
+  <string-array name="window_animation_scale_entries">
+    <item>애니메이션 꺼짐</item>
+    <item>애니메이션 크기 .5x</item>
+    <item>애니메이션 크기 1x</item>
+    <item>애니메이션 크기 1.5x</item>
+    <item>애니메이션 크기 2x</item>
+    <item>애니메이션 크기 5x</item>
+    <item>애니메이션 크기 10x</item>
+  </string-array>
+</resources>
