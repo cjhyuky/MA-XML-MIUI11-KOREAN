@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feature_desc">
+        <item>아침 인사말: 매일 아침 인사말을 받으려면 구독하십시오.</item>
+        <item>슬라이드형 배경화면을 사용하기 위해 커스텀 테마를 기본 잠금 화면과 합칩니다.</item>
+    </string-array>
+</resources>
