@@ -516,7 +516,7 @@ ID:%s
     <string name="permission_group_sms">메세지</string>
     <string name="permission_group_storage">저장공간</string>
     <string name="select_all">전부선택</string>
-    <string name="agreement_and_privacy">사용권 계약 및 개인정보 보호 정책</string>
+    <string name="agreement_and_privacy">개인정보 보호정책과 사용자 동의</string>
     <string name="passport_first_login_prompt">Mi계정은 최초 로그인시 자동으로 생성됩니다.</string>
     <string name="scan_barcode">QR코드 스캔</string>
 </resources>
