@@ -306,7 +306,7 @@
     <string name="t_comment_success">전송 완료</string>
     <string name="t_install_new_version">업데이트 설치중…</string>
     <string name="t_network_error_to_retry">네트워크 에러가 발생하였습니다.</string>
-    <string name="t_no_miuibbs">포럼에서 응용 프로그램을 찾지 못했습니다. 설치 후 다시 시도하십시오</string>
+    <string name="t_no_miuibbs">MIUI 포럼 설치 후 재시도하세요</string>
     <string name="t_search_key_not_null">검색할 키워드를 입력하세요</string>
     <string name="tag_index">태그 색인</string>
     <string name="tag_key">키워드</string>
@@ -823,7 +823,7 @@
     <string name="offline_setting_mobile_net_limit_size2">500MB</string>
     <string name="offline_setting_mobile_net_limit_summary">다운로드 한 동영상의 크기가 설정된 한도에 도달하면 모바일 데이터 사용을 제한합니다.</string>
     <string name="offline_setting_mobile_net_limit_title">모바일 데이터 사용 제한</string>
-    <string name="offline_setting_mobile_net_limit_unlimited_title">모바일 데이터 사용 제한(&lt;Data&gt;&lt;font color=#FF0000&gt;무제한&lt;/font&gt;&lt;/Data&gt;)</string>
+    <string name="offline_setting_mobile_net_limit_unlimited_title">모바일 데이터 사용 제한(무제한)</string>
     <string name="offline_setting_mobile_net_unlimited">&lt;Data&gt;&lt;font color=#FF0000&gt;무제한&lt;/font&gt;&lt;/Data&gt;</string>
     <string name="offline_success">다운로드 완료</string>
     <string name="offline_video_delete">이 비디오는 삭제되었습니다.</string>
@@ -948,4 +948,7 @@
     <string name="vp_play_iqiyi_overweight">너무 많은 기기에서이 계정에 로그인했습니다. 해당 기기 중 하나에서 로그 아웃하고 여기에 다시 로그인 해보세요.</string>
     <string name="vp_play_tencent_vip">죄송합니다, 이 비디오는 오프라인상태입니다</string>
     <string name="vp_plugin_download_retry">자동으로 설치 플러그인을 다운로드하지 못했습니다. 수동으로 설치하시겠습니까?</string>
+    <string name="notification_offline_to_online_setting">알림창</string>
+    <string name="notification_offline_to_online_summary">Mi 비디오 바로가기와 날씨 정보 표시</string>
+    <string name="notification_offline_to_online_title">알림창 바로가기 표시</string>
 </resources>
