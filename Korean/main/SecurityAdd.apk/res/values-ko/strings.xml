@@ -133,4 +133,6 @@
     <string name="gb_alipays_can_not_complete">결제 완료 실패, 설치하여 계속</string>
     <string name="xunyou_pay_webview">Xunyou 서비스</string>
     <string name="ad_downloading">다운로드…</string>
+    <string name="kid_mode_label">키즈 모드</string>
+    <string name="close_kid_space_success">키즈 모드 삭제됨</string>
 </resources>
