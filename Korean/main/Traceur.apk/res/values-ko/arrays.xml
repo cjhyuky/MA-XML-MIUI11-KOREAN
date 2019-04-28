@@ -151,7 +151,7 @@
     <item>1M</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
-    <item>떨어져서</item>
+    <item>끄기</item>
     <item>로그 버퍼 당 64K</item>
     <item>로그 버퍼 당 256K</item>
     <item>로그 버퍼 당 1M</item>
