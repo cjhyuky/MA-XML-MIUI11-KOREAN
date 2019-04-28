@@ -348,7 +348,7 @@
   <string name="search_menu_title">검색</string>
   <string name="select_application">신청서 선택</string>
   <string name="select_logd_size_dialog_title">로그 버퍼당 로거 크기 선택</string>
-  <string name="select_logd_size_title">로거 버퍼 크기</string>
+  <string name="select_logd_size_title">로그 버퍼 크기</string>
   <string name="select_logpersist_dialog_title">장치에 지속적으로 저장할 로그 버퍼 선택</string>
   <string name="select_logpersist_title">장치에 지속적으로 로거 데이터 저장</string>
   <string name="select_private_dns_configuration_dialog_title">개인 DNS 모드 선택</string>
