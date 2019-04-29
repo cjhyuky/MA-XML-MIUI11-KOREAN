@@ -631,4 +631,5 @@ Mi Mover가 마음에 드시나요?"</string>
   <string name="waiting">잠시만 기다려주세요…</string>
   <string name="err_no_gms">호환되지 않는 앱 버전입니다</string>
   <string name="trans_detail_item_app_data_skip_data">"앱 데이터를 전송할 수 없습니다"</string>
+  <string name="phone_title">전화 설정</string>
 </resources>
