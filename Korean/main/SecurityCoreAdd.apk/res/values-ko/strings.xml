@@ -464,4 +464,6 @@
     <string name="ent_licence_code_hint">라이센스 코드를 입력하세요</string>
     <string name="dual_animation">애니메이션 실행</string> 
     <string name="dual_animation_description">듀얼앱 실행시 애니메이션 표시</string> 
+    <string name="kid_mode_label">키즈 스페이스</string>
+    <string name="close_kid_space_success">삭제된 키즈 스페이스</string>
 </resources>
