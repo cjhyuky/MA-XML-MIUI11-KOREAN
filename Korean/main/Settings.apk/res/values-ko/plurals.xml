@@ -392,10 +392,10 @@
         <item quantity="other">"%d개 게임 추가 실패"</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">오늘 %d회 잠금해제</item>
+        <item quantity="other">오늘 %d회 잠금해제 됨</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">최근 7일간 %d회 잠금해제</item>
+        <item quantity="other">최근 7일간 %d회 잠금해제 됨</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
         <item quantity="other">오늘 %d회 알림 받음</item>
