@@ -4345,7 +4345,7 @@
   <string name="passpoint_content">%1$s 자격증</string>
   <string name="passpoint_label">에 의해 저장됨</string>
   <string name="password">비밀번호</string>
-  <string name="password_entrance_title">화면 잠금</string>
+  <string name="password_entrance_title">화면 잠금 설정</string>
   <string name="password_guard">비밀번호</string>
   <string name="password_null">비밀번호는 공란이 되어서는 안됩니다.</string>
   <string name="password_turned_off_text">비밀번호 꺼짐</string>
@@ -8058,8 +8058,8 @@
   <string name="zone_time_type_standard">표준 시간</string>
   <string name="usage_state_app_timer">화면켜짐 시간</string>
   <string name="usage_state_app_usage_detail_title">자세한 앱 사용량</string>
-  <string name="usage_state_app_usage_list_title">"오늘 앱 화면 켜짐 시간"</string>
-  <string name="usage_state_app_usage_list_week_title">"앱 화면 켜짐 시간 (최근 7일)"</string>
+  <string name="usage_state_app_usage_list_title">"앱의 화면 켜짐 시간"</string>
+  <string name="usage_state_app_usage_list_week_title">"앱의 화면 켜짐 시간"</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">%d:00-%d:00간 화면 켜짐 시간</string>
   <string name="usage_state_app_use_time">앱 화면 켜짐 시간</string>
   <string name="usage_state_channel_mouth">최근 30일</string>
@@ -8071,8 +8071,8 @@
   <string name="usage_state_hour_minute" formatted="false">%d시간 %d분</string>
   <string name="usage_state_less_one_minute">1분 미만</string>
   <string name="usage_state_monday">월</string>
-  <string name="usage_state_mourth_day">"'화면 켜짐 시간' MMM d"</string>
-  <string name="usage_state_noti_mourth_day">"'알림 시간' MMM d"</string>
+  <string name="usage_state_mourth_day">"%s '화면 켜짐 시간'"</string>
+  <string name="usage_state_noti_mourth_day">"%s '알림 켜짐 시간'"</string>
   <string name="usage_state_notification">알림 관리</string>
   <string name="usage_state_notification_manager">앱 알림 관리</string>
   <string name="usage_state_remind_summary">활성화시 화면 시간 알림을 받을 수 있습니다. 평일과 주말간 서로 다르게 설정할 수 있습니다.</string>
@@ -8085,7 +8085,7 @@
   <string name="usage_state_today">오늘</string>
   <string name="usage_state_today_total_text">오늘 화면 켜짐 시간</string>
   <string name="usage_state_tuesday">화</string>
-  <string name="usage_state_unlock_mourth_day">"'잠금 해제 시간' MMM d"</string>
+  <string name="usage_state_unlock_mourth_day">"%s '잠금 해제 시간'"</string>
   <string name="usage_state_usage_time">화면 켜짐 시간</string>
   <string name="usage_state_usage_time_remind">화면 시간 알림</string>
   <string name="usage_state_use_time_remind_title">화면 시간 알림</string>
@@ -8110,7 +8110,7 @@
   <string name="usagestats_app_category_miui_video_etc">음악과 동영상</string>
   <string name="usagestats_device_notification_des">오늘의 화면 제한 시간: %s</string>
   <string name="usagestats_device_notification_des_over">"오늘의 화면 켜짐 제한 시간에 도달했습니다."</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">오늘 화면 켜짐 제한 시간: %s | %s 남음</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">오늘의 데이터: %s | %s 남음</string>
   <string name="usagestats_device_notification_title">화면 시간 알림</string>
   <string name="usagestats_device_timeout_des" formatted="false">"오늘 %d시간 %d분 사용하고 있습니다. 조금만 휴식하세요!"</string>
   <string name="usagestats_device_timeout_negative">1시간 후 알림</string>
@@ -8130,5 +8130,5 @@
   <string name="miui_lab_gesture_desc">물리적 버튼을 비활성화하고 전체화면 제스처를 즐기십시오</string>
   <string name="search_ambient_display_screen_title">주변 디스플레이</string>
   <string name="search_doze_always_on_title">항상 켜기</string>
-  <string name="usage_state_date">M월 d일</string> - change properly for your language!
+  <string name="usage_state_date">M월 d일</string>
 </resources>
