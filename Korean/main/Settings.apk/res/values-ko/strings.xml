@@ -8110,7 +8110,7 @@
   <string name="usagestats_app_category_miui_video_etc">음악과 동영상</string>
   <string name="usagestats_device_notification_des">오늘의 화면 제한 시간: %s</string>
   <string name="usagestats_device_notification_des_over">"오늘의 화면 켜짐 제한 시간에 도달했습니다."</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">오늘의 데이터: %s | %s 남음</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">오늘의 사용제한: %s | %s 남음</string>
   <string name="usagestats_device_notification_title">화면 시간 알림</string>
   <string name="usagestats_device_timeout_des" formatted="false">"오늘 %d시간 %d분 사용하고 있습니다. 조금만 휴식하세요!"</string>
   <string name="usagestats_device_timeout_negative">1시간 후 알림</string>
