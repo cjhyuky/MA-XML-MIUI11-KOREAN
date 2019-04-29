@@ -1860,4 +1860,7 @@
   <string name="power_save_ps_limit">시스템앱 활동 제한</string>
   <string name="notification_channel_dnd">방해금지모드</string>
   <string name="dnd_notification_warnings_title">방해금지모드를 끄기 전까지 전화와 알림이 음소거됩니다</string>
+  <string name="choose_clock_title_left_top">왼쪽 맞춤</string>
+  <string name="choose_clock_title_middle">가운데 맞춤</string>
+  <string name="choose_clock_title_vertical">수직 맞춤</string>
 </resources>
