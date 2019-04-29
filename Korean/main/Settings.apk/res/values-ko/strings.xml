@@ -8122,4 +8122,13 @@
   <string name="dc_light_title">깜빡임 방지 모드</string>
   <string name="dc_light_summary">눈의 피로를 덜어줍니다</string>
   <string name="dc_light_dialog_summary">깜빡임 방지 모드가 켜져 있으면 화질에 영향을 줄 수 있습니다.  어쨌든 켜시겠습니까?</string>
+  <string name="choose_keyguard_clock_style">잠금화면 시계 형식</string>
+  <string name="choose_keyguard_clock_summary">"써드파티 테마에서는 이 설정이 작동하지 않습니다."</string>
+  <string name="choose_unlock_face_msg">얼굴 데이터를 기록하기 전에 화면 잠금을 설정하십시오.</string>
+  <string name="choose_unlock_fingerprint_msg">지문을 추가하기 전에 화면 잠금을 설정하십시오.</string>
+  <string name="miui_lab_gesture_title">전체화면 제스처</string>
+  <string name="miui_lab_gesture_desc">물리적 버튼을 비활성화하고 전체화면 제스처를 즐기십시오</string>
+  <string name="search_ambient_display_screen_title">주변 디스플레이</string>
+  <string name="search_doze_always_on_title">항상 켜기</string>
+  <string name="usage_state_date">M월 d일</string> - change properly for your language!
 </resources>
