@@ -8131,4 +8131,15 @@
   <string name="search_ambient_display_screen_title">주변 디스플레이</string>
   <string name="search_doze_always_on_title">항상 켜기</string>
   <string name="usage_state_date">M월 d일</string>
+  <string name="popup_title">전면 카메라 효과</string>
+  <string name="popup_led_title">애니메이션</string>
+  <string name="popup_led_summary">전면 카메라 작동시 애니메이션을 표시합니다</string>
+  <string name="popup_voice_title">효과음</string>
+  <string name="popup_voice_summary">전면 카메라 작동시 효과음을 재생합니다</string>
+  <string name="popup_title_chilun">기어 소리</string>
+  <string name="popup_title_yingyan">콘도</string>
+  <string name="popup_title_muqin">실로폰</string>
+  <string name="popup_title_cangmen">창문</string>
+  <string name="popup_title_mofa">마법</string>
+  <string name="popup_title_jijia">메차</string>
 </resources>
