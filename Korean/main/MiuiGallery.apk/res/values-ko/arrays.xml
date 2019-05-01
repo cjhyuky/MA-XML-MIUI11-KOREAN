@@ -173,4 +173,8 @@
         <item>앞으로 전진</item>
         <item>넘치는 에너지</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>사진 백업</item>
+        <item>Mi 클라우드로 사진 동기화</item>
+    </string-array>
 </resources>
