@@ -1546,4 +1546,20 @@
   <string name="similar_keep_clear">최고의 샷을 남기세요</string>
   <string name="photo_editor_compare_tip">누르고 있으면 원본 이미지를 볼 수 있습니다.</string>
   <string name="photo_editor_remove_watermark">워터 마크 제거</string>
+    <string name="ai_album_setting_key_word">사진 검색</string>
+    <string name="base_btn_cancel">취소</string>
+    <string name="base_btn_download">다운로드</string>
+    <string name="filter_category_sky">하늘</string>
+    <string name="filter_sky_cloudy">구름</string>
+    <string name="filter_sky_detect_forbidden_tips">"하늘이 감지되지 않았습니다"</string>
+    <string name="filter_sky_download_failed">"플러그인 다운로드 실패. 네트워크 설정 체크 후 다시 시도하세요."</string>
+    <string name="filter_sky_download_finish">플러그인 다운로드 완료</string>
+    <string name="filter_sky_download_sdk_without_wifi_msg">"Wi-Fi에 연결되어 있지 않은 경우 모바일 데이터를 사용하여 사진의 하늘을 바꿀 수있는 플러그인 (%1$dMB)을 다운로드 할 수 있습니다."</string>
+    <string name="filter_sky_download_sdk_without_wifi_title">플러그인 다운로드</string>
+    <string name="filter_sky_dusk">황혼</string>
+    <string name="filter_sky_glow">글로우</string>
+    <string name="filter_sky_rainbow">무지개</string>
+    <string name="filter_sky_sunny">햇살</string>
+    <string name="filter_sky_sunset">노을</string>
+    <string name="trash_bin_key_word">삭제된 사진</string>
 </resources>
