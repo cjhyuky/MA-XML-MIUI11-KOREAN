@@ -966,7 +966,7 @@
     <string name="ultra_pixel_photography_open_tip">4800만 화소 기능이 켜졌습니다</string>
     <string name="live_edit_exit_confirm">종료</string>
     <string name="live_edit_exit_message">캡쳐를 중지하겠습니까?</string>
-    <string name="beauty_reset_toast">뷰티 효과 제거 완료</string>
+    <string name="beauty_reset_toast">뷰티 효과 재설정 완료</string>
     <string name="live_sticker_updating">업데이트 중...</string>
     <string name="live_edit_share_title">공유</string>
     <string name="live_error_confirm">조정하기</string>
@@ -1142,4 +1142,7 @@
     <string name="mimoji_mouth_type">입모양 타입</string>
     <string name="mimoji_nose">코</string>
     <string name="mimoji_earring">귀걸이</string>
+    <string name="beauty_clear">삭제</string>
+    <string name="beauty_clear_toast">뷰티 효과 제거 완료</string>
+    <string name="edit_hairline">헤어라인</string>
 </resources>
