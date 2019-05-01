@@ -521,7 +521,7 @@
   <string name="toast_report_copied_to_clipboard">보고서가 클립보드에 복사됨</string>
   <string name="toast_report_sent_failed">보고서를 전송할 수 없습니다.</string>
   <string name="toast_report_sent_succeed">보고서를 전송했습니다.</string>
-  <string name="toast_screenshot_too_large">10MB보다 큰 사진이나 영상은 업로드할 수 없습니다.</string>
+  <string name="toast_screenshot_too_large">100MB보다 큰 사진이나 영상은 업로드할 수 없습니다.</string>
   <string name="toast_third_packagename_required">앱 이름 입력</string>
   <string name="toast_title_required">문제점을 설명하십시오.</string>
   <string name="topic_author">1#</string>
@@ -531,4 +531,10 @@
   <string name="warning_field_invalid">%1$s 항목을 하나 선택하십시오.</string>
   <string name="feedback_description_hint_suggestion">"MIUI 개선 방안을 알려주세요."</string>
   <string name="feedback_jira_key_place_holder">Jira 생성중…</string>
+  <string name="catch_full_log_privacy_content_audio">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 재생 기록 및 녹음 기록을 비롯하여 장치의 오디오에 대한 정보가 포함될 수 있습니다. 이러한 로그를 공개하지 마십시오. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
+  <string name="catch_full_log_privacy_content_bt">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 블루투스 장치 사용 정보(통화 내역, 메시지, 전송된 파일 등)가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
+  <string name="catch_full_log_privacy_content_gps">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인 정보와 위치 정보가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하십시오. 로그를 생성하는 동안 위 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
+  <string name="catch_full_log_privacy_content_sensor">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 주변 장치 센서 (기압계, 기압계, 만보계, 자력계 등)가 수집한 정보가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 위치를 확인하고 해결할 것임에 동의하는 것입니다. 문제를 신고하십시오."</string>
+  <string name="catch_full_log_privacy_content_signal">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 메시지, 통화 기록, 네트워크 정보 및 통신 데이터가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하십시오. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
+  <string name="catch_full_log_privacy_content_wifi">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인 정보, 위치 정보 및 장치의 IP 및 MAC 주소가 포함될 수 있습니다. 암호화되지 않은 Wi-Fi 네트워크의 경우 통신 데이터의 일부에 액세스 할 수 있습니다. 이 로그를 다른사람에게 공개하지 않도록 주의하십시오. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
 </resources>
