@@ -842,4 +842,6 @@
   <string name="rcs_auto_resend_as_sms_remind_title">SMS로 변환</string>
   <string name="rcs_hello_from_pc">컴퓨터에서 Fetion에 로그인하여 파일을 전송하십시오.</string>
   <string name="rcs_offline">UC에 로그인하지 않았습니다. 잠시후 다시 시도하십시오.</string>
+  <string name="dialog_sim_locked_confirm">확인</string>
+  <string name="dialog_sim_locked_message">"SIM 카드가 구독 약관을 준수하지 않아 이 휴대 전화에서 완벽하게 작동하지 않습니다.이 문제에 대해 궁금한 점이 있거나 자세한 정보가 필요하면 Xiaomi 서비스 센터 또는 제품을 판매한 상점에 문의하십시오."</string>
 </resources>
