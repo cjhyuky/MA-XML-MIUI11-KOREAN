@@ -90,4 +90,13 @@
     <plurals name="reminder_later_toast">
         <item quantity="other">%1$d분 내에 다음 알림</item>
     </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" 일"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" 시간"</item>ㅠ
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" 분"</item>
+    </plurals>
 </resources>
