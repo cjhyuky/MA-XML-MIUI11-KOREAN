@@ -295,4 +295,5 @@
     <string name="abc_shareactionprovider_share_with_application">공유하기 : %s</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="search_menu_title">검색</string>
+    <string name="business_card_with_qr_code">명함이나 QR코드를 프레임안에 위치시키세요</string>
 </resources>
