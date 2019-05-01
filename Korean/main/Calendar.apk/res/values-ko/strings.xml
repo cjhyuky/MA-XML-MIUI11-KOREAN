@@ -175,7 +175,7 @@
     <string name="event_info_when">날짜</string>
     <string name="event_info_where">장소</string>
     <string name="event_reminder_allday_day_zero">당일 %2$s</string>
-    <string name="event_reminder_value_zero">일정 전</string>
+    <string name="event_reminder_value_zero">일정 시작시</string>
     <string name="event_title">제목</string>
     <string name="event_view">일정 보기</string>
     <string name="every_weekday">평일(월–금)</string>
@@ -691,4 +691,7 @@
    <string name="share_not_install_weibo">웨이보를 설치하십시오</string>
    <string name="work_day_default_banner_title">오늘 하루도 열심히!</string>
    <string name="free_day_default_banner_title">휴일을 즐기세요!</string>
+   <string name="edit_event_custom_reminder_time_dup">맞춤 알림: %1$s</string>
+   <string name="edit_event_custom_reminder_title">맞춤 알림 설정</string>
+   <string name="event_reminder_custom">사용자 정의</string>
 </resources>
