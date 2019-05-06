@@ -232,4 +232,6 @@
     <string name="provision_background_restore_more_data">백그라운드에서 더 많은 항목을 복원하세요</string>
     <string name="provision_restore_data">항목 복원</string>
     <string name="hint_restore_cross_space">공간들 사이에 서로 항목을 주고 받으면 홈화면 레이아웃이 잘못 표기될 수 있습니다.</string>
+    <string name="selected">선택됨</string>
+    <string name="unselected">선택되지 않음</string>
 </resources>
