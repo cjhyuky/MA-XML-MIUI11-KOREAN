@@ -465,7 +465,7 @@
     <string name="user_agreement4">개인 정보 보호정책</string>
     <string name="user_agree">동의</string>
     <string name="do_not_remind_me">다시 표시하지 않기</string>
-    <string name="user_notice_identify_summary_format">이 서비스를 이용하시면 저희의 %1$s와 %2$s에 동의하시는 것입니다.</string>
+    <string name="user_notice_identify_summary_format">이 서비스를 이용하시면 저희의 %1$s와 %2$s에 동의하시는 것입니다. 인터넷 연결에 동의하십니까?</string>
     <string name="user_notice_title">이용 약관</string>
     <string name="pref_camera_focus_shoot_title">포커스 &amp; 촬영</string>
     <string name="pref_camera_focus_shoot_summary">초점 링 중간에있는 카메라 버튼을 클릭하여 사진을 찍습니다.</string>
