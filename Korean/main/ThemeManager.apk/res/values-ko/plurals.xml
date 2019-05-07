@@ -15,4 +15,22 @@
     <plurals name="theme_designer_products_count">
         <item quantity="other">%1$s개 작품</item>
     </plurals>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f점</item>
+    </plurals>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s개 벨소리</item>
+    </plurals>
+    <plurals name="transparent_wallpaper_filter_hint">
+        <item quantity="other">%1$d개 앱 중 검색</item>
+    </plurals>
+    <plurals name="transparent_wallpaper_filter_result">
+        <item quantity="other">%1$d개 앱 찾음</item>
+    </plurals>
+    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">무료로 \"%2$s\" 테마를 %1$d시간 사용해볼 수 있습니다"</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">3일 무료 사용(오늘 %1$d개 항목 남음)</item>
+    </plurals>
 </resources>
