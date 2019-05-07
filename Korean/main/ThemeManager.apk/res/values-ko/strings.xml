@@ -769,4 +769,20 @@
     <string name="wallpaper_loop_title">배경 화면 슬라이드 쇼</string>
     <string name="wallpaper_loop_title_desk_wallpaper">홈 화면 벽지 슬라이드 쇼</string>
     <string name="wallpaper_loop_title_lock_walpaper">화면 배경 화면 슬라이드 쇼 잠금</string>
+    <string name="audition_ringtone">재생</string>
+    <string name="count_down_tip">%ds 남음</string>
+    <string name="like_list">내가 좋아한 항목</string>
+    <string name="playing_ringtone">재생</string>
+    <string name="trial_count_empty">현재 남은 무료 항목이 없습니다. 내일 다시 오세요!</string>
+    <string name="trial_count_tip">평가판 기간 종료 : %1$s:%2$s:%3$s</string>
+    <string name="trial_for_free">무료 평가판</string>
+    <string name="trial_get_failed_tip">테마를 다운로드하려면 비디오 재생을 멈추세요.</string>
+    <string name="trial_get_success_tip">"축하합니다! 3일 무료 평가판을 사용하실 수 있습니다."</string>
+    <string name="trial_now">지금 써보기</string>
+    <string name="try_5_min">5분동안 써보기Try for 5 minutes</string>
+    <string name="video_ad_click">바로 연결</string>
+    <string name="video_ad_try_for_free">무료 평가판</string>
+    <string name="video_ad_uncomplete_tip">테마를 다운로드하려면 비디오 재생을 멈추세요.</string>
+    <string name="video_ad_uncomplete_tip_cancel">취소</string>
+    <string name="video_ad_uncomplete_tip_continue">계속 시청</string>
 </resources>
