@@ -1337,7 +1337,7 @@
   <string name="cellular_to_wlan_hint_toast">데이터-&gt;Wi-Fi 연결에 영향을 줄 수 있습니다.</string>
   <string name="cellular_to_wlan_title">데이터-&gt;Wi-Fi</string>
   <string name="change">변경</string>
-  <string name="change_password">잠금화면 변경</string>
+  <string name="change_password">잠금방법 변경</string>
   <string name="change_security_lock">잠금 해제할 다른 방법 시도</string>
   <string name="change_storage">저장소 변경</string>
   <string name="change_theme_reboot">테마 변경 후에 재시작해야 합니다.</string>
