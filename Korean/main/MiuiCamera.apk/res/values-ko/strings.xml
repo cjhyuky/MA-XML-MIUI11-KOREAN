@@ -1145,4 +1145,6 @@
     <string name="beauty_clear">삭제</string>
     <string name="beauty_clear_toast">뷰티 효과 제거 완료</string>
     <string name="edit_hairline">헤어라인</string>
+    <string name="text_ai_scene_selector_text_off">역광</string>
+    <string name="text_ai_scene_selector_text_on">실루엣</string>
 </resources>
