@@ -69,9 +69,9 @@
     <string name="xspace_loading_msg">앱 로딩 중…</string>
     <string name="xspace_header">듀얼 앱</string>
     <string name="xspace_introduce">추천됨</string>
-    <string name="xspace_description">""응용 프로그램을 두 번 열면 데스크톱에서 응용 프로그램의 새로운 복사본이 생성되며 둘 다 서로 독립적으로 실행됩니다.
+    <string name="xspace_description">"듀얼앱은 다른 계정으로 사용할 수 있는 앱 복사본입니다.
 
-응용 프로그램의 일부는 Google 서비스 프레임 워크 지원을 필요로하며, 응용 프로그램의이 부분을 두 번 열면 경험을 보호하기 위해 이중 Google 서비스가 동기화됩니다."</string>
+일부 듀얼앱은 Google 서비스 프레임워크를 필요로합니다. 이 경우, Google 서비스 프레임워크가 생성됩니다."</string>
     <string name="xspace_chocie">듀얼 앱 지원</string>
     <string name="xspace_creating">듀얼 앱 생성 중…</string>
     <string name="xspace_installing">설치 중…</string>
