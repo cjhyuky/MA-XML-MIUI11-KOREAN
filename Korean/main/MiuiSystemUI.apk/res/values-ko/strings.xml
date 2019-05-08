@@ -1103,7 +1103,7 @@
   <string name="notification_low_battery_action_btn">켜기</string>
   <string name="notification_low_battery_need_charge">배터리가 부족합니다. 기기를 충전하십시오.</string>
   <string name="notification_low_battery_open_save_mode">배터리 절약 켜기</string>
-  <string name="notification_low_battery_title">배터리 부족: %d%%</string>
+  <string name="notification_low_battery_title">배터리 %d%% 미만 남음</string>
   <string name="notification_manager">알림 관리</string>
   <string name="notification_manager_des">필터 및 관리 알림</string>
   <string name="notification_menu_accessibility">%1$s %2$s</string>
