@@ -1147,4 +1147,5 @@
     <string name="edit_hairline">헤어라인</string>
     <string name="text_ai_scene_selector_text_off">역광</string>
     <string name="text_ai_scene_selector_text_on">실루엣</string>
+    <string name="dialog_ok_time">확인(%d초)</string>
 </resources>
