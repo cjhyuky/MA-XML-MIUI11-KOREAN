@@ -1009,7 +1009,6 @@
     <string name="color_effect_live_none">보통</string>
     <string name="color_effect_live_solar">스카이 블루</string>
     <string name="color_effect_live_years">세피아</string>
-    <string name="dialog_ok_time">확인 (<g id="NUMBER">%d</g>s)</string>
     <string name="live_music_close_cancel_message">취소</string>
     <string name="live_music_close_message">현재 음악을 닫으시겠습니까?</string>
     <string name="live_music_close_sure_message">닫기</string>
