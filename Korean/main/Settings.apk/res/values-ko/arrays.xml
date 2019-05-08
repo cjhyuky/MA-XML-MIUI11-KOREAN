@@ -1172,4 +1172,9 @@
     <item>애니메이션 배율 5x</item>
     <item>애니메이션 배율 10x</item>
   </string-array>
+    <string-array name="drip_battery_indicator_style_entries">
+        <item>그래픽</item>
+        <item>퍼센트(아이콘 안)</item>
+        <item>퍼센트(아이콘 옆)</item>
+    </string-array> 
 </resources>
