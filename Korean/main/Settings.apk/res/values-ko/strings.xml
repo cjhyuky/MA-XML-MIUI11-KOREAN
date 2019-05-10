@@ -8142,4 +8142,24 @@
   <string name="popup_title_cangmen">창문</string>
   <string name="popup_title_mofa">마법</string>
   <string name="popup_title_jijia">메차</string>
+    <string name="backup_set_clear_success">백업 비밀번호 끄기 완료</string>
+    <string name="backup_set_clear_title">백업 비밀번호 끄기</string>
+    <string name="backup_set_confirm">확인</string>
+    <string name="backup_set_confirm_clear">끄기</string>
+    <string name="backup_set_enter_new_pw">새로운 백업 비밀번호를 입력하세요</string>
+    <string name="backup_set_enter_new_pw_again">새로운 백업 비밀번호를 확인해주세요</string>
+    <string name="backup_set_enter_old_pw">이전 백업 비밀번호를 입력하세요</string>
+    <string name="backup_set_enter_pw_title">백업 비밀번호를 입력</string>
+    <string name="backup_set_error_pw">입력하신 비밀번호가 맞지 않습니다</string>
+    <string name="backup_set_modify_title">백업 비밀번호 변경</string>
+    <string name="backup_set_new_pw_title">새로운 백업 비밀번호 입력</string>
+    <string name="backup_set_null_pw">비밀번호를 먼저 입력하세요</string>
+    <string name="backup_set_pw_confirm_title">새로운 백업 비밀번호 확인</string>
+    <string name="err_no_gms">호환되지 않는 앱 버전입니다. 별도로 설치해주세요</string>
+    <string name="fingerprint_wakeup_summary">지문이 등록되어 있지 않은 경우, 센서를 터치하시면 화면이 바로 켜집니다.</string>
+    <string name="fingerprint_wakeup_title">지문인식센서를 탭하여 화면 켜기</string>
+    <string name="phone_title">전화 설정</string>
+    <string name="trans_detail_item_app_data_skip_data">"앱 데이터 전송 실패"</string>
+    <string name="usagestats_app_category_miui_social">소셜 네트워크</string>
+    <string name="voice_over_lte">VoLTE</string>
 </resources>
