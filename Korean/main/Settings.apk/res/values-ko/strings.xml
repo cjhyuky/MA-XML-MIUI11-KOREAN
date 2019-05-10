@@ -8160,6 +8160,4 @@
     <string name="fingerprint_wakeup_title">지문인식센서를 탭하여 화면 켜기</string>
     <string name="phone_title">전화 설정</string>
     <string name="trans_detail_item_app_data_skip_data">"앱 데이터 전송 실패"</string>
-    <string name="usagestats_app_category_miui_social">소셜 네트워크</string>
-    <string name="voice_over_lte">VoLTE</string>
 </resources>
