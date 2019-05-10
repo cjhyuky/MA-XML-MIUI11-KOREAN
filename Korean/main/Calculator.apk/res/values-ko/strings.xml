@@ -443,7 +443,7 @@
     <string name="preference_privacy_title">개인정보 보호정책</string>
     <string name="preference_rating_title">앱 평가하기</string>
     <string name="privacy_policy">개인정보 보호정책</string>
-    <string name="dialog_privacy_content">계산기의 기본 기능 외에도 이 앱에는 공학용 계산기와 다목적 변환기가 포함되어 있습니다.  일부 기능은 정상적으로 작동하려면 인터넷에 연결해야 합니다. 계산기를 사용하기 전에 %1$s 및 %2$s 사항을 읽고 동의해야합니다.</string>
+    <string name="dialog_privacy_content">계산기의 기본기능 외에도 이 앱에는 공학용 계산기와 다목적변환기가 포함되어있습니다.  일부기능은 정상적으로 작동하려면 인터넷에 연결해야 합니다. 계산기를 사용하기전에 %1$s 및 %2$s 사항을 읽고 동의해야 합니다.</string>
     <string name="dialog_privacy_title">사용약관과 정책</string>
     <string name="exit">나가기</string>
 </resources>
