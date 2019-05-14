@@ -2773,7 +2773,6 @@ SMS 전송"</string>
     <string name="deep_power_save_item_title_lock_screen_time">화면을 절전 모드로 설정</string>
     <string name="doze_optimization_summary">터치 응답속도 및 감도 향상</string>
     <string name="exo_download_notification_channel_name">다운로드</string>
-    <string name="function_shield_summary">자동 밝기, 스크린 샷 제스처 및 읽기 모드를 제한합니다.</string>
     <string name="function_shield_title">향상된 경험</string>
     <string name="gamebox_browser_not_find">Mi 브라우저를 설치하세요</string>
     <string name="gamebox_dnd">방해금지 모드</string>
