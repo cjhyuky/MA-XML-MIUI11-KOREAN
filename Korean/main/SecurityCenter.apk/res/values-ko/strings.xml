@@ -2841,4 +2841,14 @@ SMS 전송"</string>
     <string name="power_save_ps_close_setting">배터리 절약을 위해 백그라운드 서비스 끄기 (동기화, GPS)</string>
     <string name="power_save_ps_freeze">백그라운드에 고정</string>
     <string name="power_save_ps_limit">시스템앱 활동 제한</string>
+    <string name="function_shield_summary">게임시 선택된 시스템 기능 제한</string>
+    <string name="function_shield_settings_title">게임시 이 기능 제한</string>
+    <string name="function_shield_auto_bright">자동밝기 끄기</string>
+    <string name="function_shield_eye_shield">독서모드 끄기</string>
+    <string name="function_shield_three_finger">스크린샷 제스쳐 제한</string>
+    <string name="function_shield_pull_notification_bar">"알림창 열지 않기"</string>
+    <string name="choose_gs_show_way">홈페이지 방향 선택</string>
+    <string name="gs_show_way">홈페이지 방향</string>
+    <string name="gs_show_way_horizontal">가로</string>
+    <string name="gs_show_way_vertical">세로</string>
 </resources>
