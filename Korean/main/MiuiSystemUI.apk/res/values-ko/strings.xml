@@ -1863,4 +1863,9 @@
   <string name="choose_clock_title_left_top">왼쪽 맞춤</string>
   <string name="choose_clock_title_middle">가운데 맞춤</string>
   <string name="choose_clock_title_vertical">수직 맞춤</string>
+    <string name="keyguard_charging_normal_and_level_tip">충전중 %d%%</string>
+    <string name="keyguard_charging_quick_and_level_tip">빠른 충전중 %d%%</string>
+    <string name="keyguard_charging_super_quick_and_level_tip">매우 빠른 충전중 %d%%</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">더보기</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">들어가기</string>
 </resources>
