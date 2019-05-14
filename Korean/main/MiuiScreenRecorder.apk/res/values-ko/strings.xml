@@ -89,4 +89,9 @@
     <string name="warning_recording_when_a2dp_connect">"블루투스 헤드셋을 사용하는 동안 장치가 시스템 사운드 녹음을 지원하지 않습니다."</string>
     <string name="permission_intro_microphone">마이크 녹음 권한</string>
     <string name="permission_intro_storage">화면 녹화 저장 권한</string>
+    <string name="keyguard_charging_normal_and_level_tip">충전중 %d%%</string>
+    <string name="keyguard_charging_quick_and_level_tip">빠른 충전중 %d%%</string>
+    <string name="keyguard_charging_super_quick_and_level_tip">매우 빠른 충전중 %d%%</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">더보기</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">들어가기</string>
 </resources>
