@@ -67,4 +67,7 @@
     <string name="toast_fm_seeking">튜닝중…</string>
     <string name="msg_try_plug_headset">이어폰을 꼽고 다시 시도해 주세요.</string>
     <string name="menu_privacy">개인정보 보호정책</string>
+    <string name="noheadset_dialog_info">FM 신호가 좋지 않을 수 있습니다. 온라인 콘텐츠를 추천합니다.</string>
+    <string name="noheadset_dialog_insert">헤드셋 삽입</string>
+    <string name="noheadset_dialog_more">더 많은 라디오 듣기</string>
 </resources>
