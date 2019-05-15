@@ -1158,15 +1158,6 @@
     <string name="mimoji_delete">삭제</string>
     <string name="mimoji_reset">재설정</string>
     <string name="mimoji_fragment_tab_name">Mi모지</string>
-    <string name="mimoji_on_create">Mi모지 생성</string>
-    <string name="mimoji_check_normal">셔터 버튼을 탭하세요</string>
-    <string name="mimoji_check_no_face">"얼굴 인식 불가"</string>
-    <string name="mimoji_check_low_light">"너무 어둡습니다"</string>
-    <string name="mimoji_check_face_occlusion">"얼굴을 가리지 마세요"</string>
-    <string name="mimoji_check_face_too_far">카메라를 얼굴에 가까이 가져가세요</string>
-    <string name="mimoji_check_face_too_close">카메라를 얼굴로부터 멀리두세요</string>
-    <string name="mimoji_check_multi_face">한번에 한 사람만!</string>
-    <string name="mimoji_check_beyond_20_degrees">카메라를 똑바로 보세요</string>
     <string name="mimoji_start_create">Mi모지 생성\u2026</string>
     <string name="mimoji_detect_no_face_failed">"얼굴 인식 불가"</string>
     <string name="mimoji_detect_facial_failed">"얼굴 인식 불가"</string>
@@ -1177,17 +1168,4 @@
     <string name="mimoji_detect_glass_failed">"안경 인식 불가"</string>
     <string name="mimoji_detect_faceshape_failed">"얼굴형 인식 불가"</string>
     <string name="mimoji_detect_unknow_failed">알 수 없는 에러</string>
-    <string name="mimoji_tips">사진을 찍으시려면 탭하세요. 영상을 녹화하려면 누르고 계세요.</string>
-    <string name="mimoji_detect_tips">프레임 안에 얼굴을 두세요</string>
-    <string name="mimoji_cancle">취소</string>
-    <string name="mimoji_back">뒤로</string>
-    <string name="mimoji_confirm">확인</string>
-    <string name="mimoji_editor">편집</string>
-    <string name="mimoji_save">저장</string>
-    <string name="mimoji_recapture">시작하기</string>
-    <string name="mimoji_selected">선택</string>
-    <string name="mimoji_edit_mimoji">Mi모지 편집</string>
-    <string name="mimoji_delete_mimoji">Mi모지 삭제</string>
-    <string name="mimoji_delete_success">삭제 완료</string>
-    <string name="mimoji_save_success">저장 완료</string>
 </resources>
