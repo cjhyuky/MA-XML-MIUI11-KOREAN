@@ -8160,4 +8160,25 @@
     <string name="fingerprint_wakeup_title">지문인식센서를 탭하여 화면 켜기</string>
     <string name="phone_title">전화 설정</string>
     <string name="trans_detail_item_app_data_skip_data">"앱 데이터 전송 실패"</string>
+	<string name="bluetooth_device_misc_title">자주 사용하지 않는 기기</string>
+	<string name="color_led_applications_title">앱 선택</string>
+	<string name="color_led_applications_title_summary">개별 앱에 LED 라이트 사용을 제한 할 수 있습니다.</string>
+	<string name="color_led_battery_title">충전중 계속 켜기</string>
+	<string name="color_led_end_time">종료 시간</string>
+	<string name="color_led_game_mode_title">게임 터보</string>
+	<string name="color_led_hint">LED 조명을 사용해야하는 시나리오를 선택하십시오. 화면이 아래를 향하고 DND가 꺼지면 LED 표시등이 켜집니다.</string>
+	<string name="color_led_incall_pulse_title">전화 수신시 플래시 작동</string>
+	<string name="color_led_lucky_dialog_title">빨간 봉투 도우미를 켜십시오.</string>
+	<string name="color_led_lucky_dialog_message">이 기능을 사용하려면 빨간 봉투 도우미가 필요합니다. 지금 시작하시겠습니까?</string>
+	<string name="color_led_music_mode_title">음악</string>
+	<string name="color_led_music_mode_summary">음악을 재생할 때 리드미컬한 조명효과 표시</string>
+	<string name="color_led_notification_pulse_title">펄스 알림</string>
+	<string name="color_led_red_more_feature">스페셜 효과</string>
+	<string name="color_led_red_package_title">빨단 봉투</string>
+	<string name="color_led_start_time">시작 시간</string>
+	<string name="color_led_title">LED 라이트</string>
+    <string name="long_press_power_key">파워 버튼 길게 누르기</string>
+    <string name="long_press_power_key_tips">파워 버튼을 길게 누르세요. 더 빠르고 편리합니다.</string>
+	<string name="toggle_auto_speaker_preference_title">스피커로 자동 전환</string>
+	<string name="toggle_auto_speaker_preference_summary">통화 중에 장치를 귀에 대고 옮기면 장치가 스피커로 전환됩니다. 이 기능은 음성 안내 지원이 켜져있는 경우에만 작동합니다.</string>
 </resources>
