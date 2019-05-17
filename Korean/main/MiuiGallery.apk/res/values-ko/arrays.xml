@@ -177,9 +177,4 @@
         <item>사진 백업</item>
         <item>Mi 클라우드로 사진 동기화</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>이동</item>
-        <item>복사</item>
-        <item>@string/cancel</item>
-    </string-array>
 </resources>
