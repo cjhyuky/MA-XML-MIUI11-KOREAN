@@ -296,4 +296,10 @@
     <plurals name="function_shield_num">
         <item quantity="other">%d개 기능</item>
     </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d개 앱(%1$s 포함)이 배터리 소모중입니다<string>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d개 앱이 배터리 소모중입니다</item>
+    </plurals>
 </resources>
