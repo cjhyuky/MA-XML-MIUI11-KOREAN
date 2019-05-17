@@ -632,4 +632,8 @@ Mi Mover가 마음에 드시나요?"</string>
   <string name="err_no_gms">호환되지 않는 앱 버전입니다</string>
   <string name="trans_detail_item_app_data_skip_data">"앱 데이터를 전송할 수 없습니다"</string>
   <string name="phone_title">전화 설정</string>
+    <string name="dialog_backup_password_change_machine_tips">"암호로 보호된 백업을 전송할 수 없으며 Mi Mover를 사용하기 전에 백업암호를 해제하십시오."</string>
+    <string name="dialog_backup_password_backup_tips">"백업암호가 켜져있을 때 항목을 백업할 수 없습니다. 백업암호를 해제하십시오."</string>
+    <string name="dialog_backup_password_cancel">취소</string>
+    <string name="dialog_backup_password_to_settings">설정</string>
 </resources>
