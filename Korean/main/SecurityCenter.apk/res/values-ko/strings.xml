@@ -2850,4 +2850,13 @@ SMS 전송"</string>
     <string name="gs_show_way">홈페이지 방향</string>
     <string name="gs_show_way_horizontal">가로</string>
     <string name="gs_show_way_vertical">세로</string>
+    <string name="notification_battery_scan_consume_abnormal_title_set">%s 앱이 배터리 소모중입니다</string>
+    <string name="notification_battery_scan_consume_abnormal_summary">문제를 해결하려면 탭하세요</string>
+    <string name="pc_abnormal_scan_reason_prevent_standby">시스템이 대기모드가 되지 않도록 해주세요</string>
+    <string name="pc_abnormal_scan_reason_scan_wifi">잦은 Wi-Fi 검색</string>
+    <string name="pc_abnormal_scan_reason_use_GPS">잦은 위치정보 사용</string>
+    <string name="pc_abnormal_scan_reason_runtime_exception">비정상적인 실행</string>
+    <string name="pc_abnormal_scan_reason_wake_system">잦은 시스템 깨우기</string>
+    <string name="pc_abnormal_scan_reason_reconnect">잦은 네트워크 연결 시도</string>
+    <string name="pc_abnormal_scan_button_text">앱 닫기</string>
 </resources>
