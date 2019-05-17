@@ -123,4 +123,5 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="other_settings_enhanced_lockscreen">향상된 잠금화면을 사용해보세요</string>
     <string name="other_settings_enhanced_lockscreen_summary">선별된 이미지와 스토리를 매일 잠금화면으로 가져옵니다. 이용 약관에 동의하세요</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">이용 약관</string>
+    <string name="terms_of_use_label_updater">, 업데이터</string>
 </resources>
