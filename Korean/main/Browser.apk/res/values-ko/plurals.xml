@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="adblock_rules_number_text">
     <item quantity="other">%d개의 항목 차단됨</item>
