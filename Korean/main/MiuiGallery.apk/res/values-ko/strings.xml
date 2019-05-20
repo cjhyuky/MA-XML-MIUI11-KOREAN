@@ -1562,4 +1562,7 @@
     <string name="filter_sky_sunny">햇살</string>
     <string name="filter_sky_sunset">노을</string>
     <string name="trash_bin_key_word">삭제된 사진</string>
+  <string name="clear_dup_medias">중복 사진 정리</string>
+  <string name="clear_dup_success">정리 완료</string>
+  <string name="clear_dup_tip">중복 사진 지우기</string>
 </resources>
