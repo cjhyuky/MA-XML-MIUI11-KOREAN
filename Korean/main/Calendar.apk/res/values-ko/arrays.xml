@@ -354,6 +354,7 @@
         <item>10분</item>
         <item>15분</item>
         <item>30분</item>
+        <item>1시간</item>
     </string-array>
     <string-array name="repeat_monthly_on_day_count_values">
         <item>첫번째 월요일</item>
@@ -391,5 +392,13 @@
         <item>마지막 금요일</item>
         <item>마지막 토요일</item>
         <item>마지막 일요일</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>이번에만</item>
+        <item>반복된 알림 해제</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>이번에만</item>
+        <item>반복된 알림 설정</item>
     </string-array>
 </resources>
