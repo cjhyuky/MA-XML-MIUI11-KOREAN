@@ -341,4 +341,7 @@
   <string name="update_notification_info">백그라운드에서 데이터 업데이트중...</string>
   <string name="weather_alert_channel_name">알리미</string>
   <string name="weather_service_channel_name">백그라운드 서비스</string>
+  <string name="tts_best_aqi">최고의 공기 품질</string>
+  <string name="tts_hour_weather_date_time">%1$s의 %2$s로부터 %3$s의 %4$s로</string>
+  <string name="tts_max_wind_power">최대 풍속</string>
 </resources>
