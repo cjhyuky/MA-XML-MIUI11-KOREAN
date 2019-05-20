@@ -216,7 +216,10 @@
     <plurals name="photo_count_format">
         <item quantity="other">총 %1$d개 항목</item>
     </plurals>
-	 <plurals name="video_count_format">
+    <plurals name="video_count_format">
         <item quantity="other">%1$d개 파일</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">콜라주에 1-%d개의 사진이 포함될 수 있습니다</item>
     </plurals>
 </resources>
