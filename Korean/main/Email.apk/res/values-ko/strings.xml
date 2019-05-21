@@ -401,8 +401,6 @@
     <string name="fail_get_email_message">메시지 받기 실패함.</string>
     <string name="failed">이미지를 로드하지 못했습니다.</string>
     <string name="failed_read_phone_state_permission">기기 상태 접근 허용</string>
-    <string name="failed_read_write_calendar_permission">캘린더 접근 허용</string>
-    <string name="failed_read_write_contacts_permission">연락처 접근 허용</string>
     <string name="feedback">피드백 전송</string>
     <string name="feedback_body">메시지</string>
     <string name="feedback_sent">피드백을 남겨 주셔서 감사합니다.</string>
