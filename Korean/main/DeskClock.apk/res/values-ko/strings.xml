@@ -262,4 +262,5 @@
     <string name="module_download_msg_timer">시계는 주변 소음 타이머 용 오디오 파일을 다운로드해야합니다. 지금 다운로드 하시겠습니까?</string>
     <string name="personal_recommend">맞춤 콘텐츠 권장 사항</string>
     <string name="user_agreement">사용자 동의</string>
+    <string name="update_notification_info">백그라운드에서 데이터 업데이트중…</string>
 </resources>
