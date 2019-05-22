@@ -109,7 +109,7 @@
     <string name="date_jump_title">특정일로 이동</string>
     <string name="date_today">" (오늘)"</string>
     <string name="day_view_new_event_hint">새 일정</string>
-    <string name="default_reminder_later_time">\"나중에 알리기\"를 위한 기본 간격</string>
+    <string name="default_reminder_later_time">\"나중에 알리기\"를 위한 기본 알림 간격</string>
     <string name="default_reminder_mode">미리 알림</string>
     <string name="delete_recurring_event_title">%s 일정을 삭제하시겠습니까?</string>
     <string name="delete_this_event_title">이번 일정을 삭제하시겠습니까?</string>
