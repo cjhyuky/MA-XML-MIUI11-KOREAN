@@ -37,7 +37,7 @@
   <string name="aod_dual_togother">HH:mm</string>
   <string name="aod_dual_togother_12">aa hh:mm</string>
   <string name="aod_lock_screen_date">M월 d일 EEEE</string>
-  <string name="aod_lock_screen_date_12">M월 d일</string>
+  <string name="aod_lock_screen_date_12">M월 d일 EEEE</string>
   <string name="aod_mode_style">시계 스타일과 배경 설정</string>
   <string name="aod_mode_summary">이 기능은 시스템 전력 소비를 증가시킵니다. 기기가 어두운 곳에서 오랫동안 계속 켜져있거나 배터리절약기 제한이 적용되면 전원이 꺼집니다.</string>
   <string name="aod_mode_time_summary">장치가 항상 켜기 모드로 전환되어야하는 시간을 예약하십시오.</string>
