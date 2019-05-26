@@ -1103,7 +1103,7 @@
   <string name="bluetooth_unlock_change_device_confirm_msg">이전 기기가 현재 기기로 교체됩니다.</string>
   <string name="bluetooth_unlock_change_matched_device">다른 기기 선택</string>
   <string name="bluetooth_unlock_confirm_device_text">블루투스 기기를 탭하여 승인</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">잠금해제 하려면 시계의 버튼을 탭하세요.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">시계에서 확인하십시오.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">잠금해제 하려면 기기의 버튼을 탭하세요.</string>
   <string name="bluetooth_unlock_delete_device">이 기기 삭제</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">이 기기를 삭제하시겠습니까?</string>
@@ -8180,4 +8180,6 @@
     <string name="long_press_power_key_tips">파워 버튼을 길게 누르세요. 더 빠르고 편리합니다.</string>
 	<string name="toggle_auto_speaker_preference_title">스피커로 자동 전환</string>
 	<string name="toggle_auto_speaker_preference_summary">통화 중에 장치를 귀에 대고 옮기면 장치가 스피커로 전환됩니다. 이 기능은 음성 안내 지원이 켜져있는 경우에만 작동합니다.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_huami_band">밴드에서 확인하십시오.</string>
+    <string name="miui_touch_filtered_touchassistant_warning">사용 권한 대화 상자는 퀵볼의 적용을 받습니다. 퀵볼을 멀리 이동시키거나 이 기능을 해제하십시오.</string>
 </resources>
