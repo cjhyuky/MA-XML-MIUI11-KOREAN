@@ -636,4 +636,6 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="dialog_backup_password_backup_tips">"백업암호가 켜져있을 때 항목을 백업할 수 없습니다. 백업암호를 해제하십시오."</string>
     <string name="dialog_backup_password_cancel">취소</string>
     <string name="dialog_backup_password_to_settings">설정</string>
+    <string name="gallery_summary">갤러리 설정(사진 제외)</string>
+    <string name="user_feedback">피드백</string>
 </resources>
