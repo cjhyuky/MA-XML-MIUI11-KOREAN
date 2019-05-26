@@ -519,4 +519,5 @@ ID:%s
     <string name="agreement_and_privacy">개인정보 보호정책과 사용자 동의</string>
     <string name="passport_first_login_prompt">Mi계정은 최초 로그인시 자동으로 생성됩니다.</string>
     <string name="scan_barcode">QR코드 스캔</string>
+    <string name="passport_wx_bind_account_limit">"지금 계정을 만들 수 없습니다. 다른 로그인 방법을 사용해보십시오."</string>
 </resources>
