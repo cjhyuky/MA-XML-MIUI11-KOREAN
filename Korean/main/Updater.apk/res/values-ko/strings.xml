@@ -58,4 +58,7 @@
    <string name="version">현재 사용중인 버전: </string>
    <string name="weekly">주간-개발자롬</string>
    <string name="wifi_recommended"> Wi-Fi가 연결되어있지 않아서 안전하게 다운로드를 시작할 수 없습니다!</string>
+   <string name="channel_downloading">다운로드 진행중</string>
+   <string name="channel_update">새로운 버전이 있습니다</string>
+   <string name="dialog_twrp">내부 저장소가 암호화되어 있습니다. 복구모드로 재부팅되면 기기의 잠금해제 비밀번호를 입력하십시오.</string>
 </resources>
