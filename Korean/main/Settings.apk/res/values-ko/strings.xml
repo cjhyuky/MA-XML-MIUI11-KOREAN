@@ -8182,4 +8182,5 @@
 	<string name="toggle_auto_speaker_preference_summary">통화 중에 장치를 귀에 대고 옮기면 장치가 스피커로 전환됩니다. 이 기능은 음성 안내 지원이 켜져있는 경우에만 작동합니다.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_huami_band">밴드에서 확인하십시오.</string>
     <string name="miui_touch_filtered_touchassistant_warning">사용 권한 대화 상자는 퀵볼의 적용을 받습니다. 퀵볼을 멀리 이동시키거나 이 기능을 해제하십시오.</string>
+    <string name="screen_paper_mode_hdr_toast_new">HDR 비디오 재생 및 지문인식 중에 독서모드가 자동으로 꺼집니다. 이 작업이 완료되면 기기는 다시 독서모드로 전환됩니다.</string>
 </resources>
