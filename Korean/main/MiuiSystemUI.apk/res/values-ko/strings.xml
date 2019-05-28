@@ -1036,7 +1036,7 @@
   <string name="miui_ringer_standard_description">수신전화와 알림을 무음벨소리로 알립니다</string>
   <string name="miui_ringer_total">방해금지</string>
   <string name="miui_ringer_total_description">알람을 제외한 모든 알림을 진동없이 무음처리합니다</string>
-  <string name="miui_screen_rotation_freeze_message">자동 회전</string>
+  <string name="miui_screen_rotation_freeze_message">자동 회전 꺼짐</string>
   <string name="miui_toast_zen_dnd_to_off">소리와 진동이 일반상태로 돌아왔습니다</string>
   <string name="miui_toast_zen_standard_to_off">벨소리가 일반상태로 돌아왔습니다</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">벨소리와 알림 및 미디어 소리가 재생됩니다.</string>
