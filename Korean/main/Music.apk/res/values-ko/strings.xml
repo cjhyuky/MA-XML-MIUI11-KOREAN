@@ -519,6 +519,7 @@
   <string name="open_online_service">이 기능을 사용하려면 온라인 서비스를 켜셔야 합니다. 켜시겠습니까?</string>
   <string name="open_service">켜기</string>
   <string name="other_song_in_album">이 앨범의 다른 곡</string>
+  <string name="password_toggle_content_description">토글 비밀번호 표시</string>
   <string name="paused_by_app">일시정지됨</string>
   <string name="paused_in_power_save_mode">배터리 절약이 켜져있을 때 일시정지</string>
   <string name="paused_insufficient_space">대기 중</string>
