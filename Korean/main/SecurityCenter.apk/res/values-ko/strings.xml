@@ -2859,4 +2859,6 @@ SMS 전송"</string>
     <string name="pc_abnormal_scan_reason_wake_system">잦은 시스템 깨우기</string>
     <string name="pc_abnormal_scan_reason_reconnect">잦은 네트워크 연결 시도</string>
     <string name="pc_abnormal_scan_button_text">앱 닫기</string>
+    <string name="gb_global_settings">일반 설정</string>
+    <string name="gb_add_game_hint">앱 목록에서 항목 추가</string>
 </resources>
