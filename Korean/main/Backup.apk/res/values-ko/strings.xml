@@ -637,4 +637,5 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="dialog_backup_password_to_settings">설정</string>
     <string name="gallery_summary">갤러리 설정(사진 제외)</string>
     <string name="user_feedback">피드백</string>
+    <string name="feature_title_mms_setting">MMS 설정</string>
 </resources>
