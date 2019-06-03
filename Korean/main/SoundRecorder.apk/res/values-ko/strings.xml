@@ -58,7 +58,7 @@
     <string name="sound_recorder_settings">설정</string>
     <string name="preference_led_indicator">잠금화면 알림</string>
     <string name="preference_tip_rename">녹음 후 파일 이름 직접 입력</string>
-    <string name="preference_led_indicator_prompt">녹음 중에는 상태표시줄 바로가기에 표시되고, 잠금화면에서 알림 표시등이 깜빡입니다.</string>
+    <string name="preference_led_indicator_prompt">녹음중에는 상태표시줄에 바로가기가 표시되고, 알림 표시등이 깜빡입니다.</string>
     <string name="preference_scenes">녹음 유형</string>
     <string name="preference_record_scenes_dialog_title">녹음 유형 선택</string>
     <string name="preference_silent_mode">녹음 중 벨소리 음소거</string>
@@ -262,4 +262,11 @@
     <string name="webview_network_unavaliable">"네트워크에 연결할 수 없습니다"</string>
     <string name="webview_service_unavailiable">서비스를 사용할 수 없습니다.</string>
     <string name="webview_try_again">다시 시도하십시오.</string>
+  <string name="call_record_list_group_all">모두</string>
+  <string name="call_record_list_group_connected">연결됨</string>
+  <string name="call_record_list_group_unconnected">연결되지 않음</string>
+  <string name="preference_status_bar_indicator_prompt">녹음 중 상태바 바로가기 표시</string>
+  <string name="shortcut_records">녹음</string>
+  <string name="shortcut_start_record">녹음 시작</string>
+  <string name="shortcut_stop_record">녹음 멈춤</string>
 </resources>
