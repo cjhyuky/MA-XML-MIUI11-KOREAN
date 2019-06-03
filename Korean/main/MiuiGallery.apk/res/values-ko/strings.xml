@@ -1565,4 +1565,32 @@
   <string name="clear_dup_medias">중복 사진 정리</string>
   <string name="clear_dup_success">정리 완료</string>
   <string name="clear_dup_tip">중복 사진 지우기</string>
+     <string name="burst_image_download_item_title" formatted="false">원본 다운로드(%s|%s)</string>
+  <string name="burst_preview_title">버스트 샷</string>
+  <string name="burst_save_all">모두 저장</string>
+  <string name="burst_save_choice_title" formatted="false">%d개 중 %d개 사진 선택됨</string>
+  <string name="burst_save_confirm_dialog_title">사진 저장</string>
+  <string name="burst_save_error_msg">"저장 실패"</string>
+  <string name="burst_save_processing">처리중…</string>
+  <string name="decrypt_video_failed">"영상 준비 실패"</string>
+  <string name="decrypting_video">영상 준비중…</string>
+  <string name="editor_cancel">취소</string>
+  <string name="editor_export">저장</string>
+  <string name="editor_talkback_redo">다시하기</string>
+  <string name="editor_talkback_undo">되돌리기</string>
+  <string name="first_time_add_video_to_secret_tips">영상을 숨기기 위해 갤러리를 업데이트하세요</string>
+  <string name="photo_editor_remove_watermark_on">워터마크 추가</string>
+  <string name="photo_editor_talkback_crop_2_3">2대3</string>
+  <string name="special_type_eye_repair">AI를 사용하여 감은 눈 수정</string>
+  <string name="special_type_hdr">HDR</string>
+  <string name="special_type_night_beauty">AI 저조도 보정</string>
+  <string name="special_type_night_mode">AI 야간 모드</string>
+  <string name="special_type_portrait">AI 라이트 페인팅 초상화</string>
+  <string name="special_type_wide_angle">AI 울트라 와이드 앵글</string>
+  <string name="video_editor_audio_antiquity">레트로</string>
+  <string name="video_editor_audio_dream">드림</string>
+  <string name="video_editor_audio_electronics">일렉트로닉</string>
+  <string name="video_editor_audio_quiet">무음</string>
+  <string name="video_editor_audio_summertime">썸머</string>
+  <string name="video_editor_audio_vitality">활력</string>
 </resources>
