@@ -315,7 +315,7 @@
   <string name="ambient_display_pickup_title">기기를 들어올려 알림 확인</string>
   <string name="ambient_display_screen_summary_always_on">항상 켜기 / 배터리 사용량 높음</string>
   <string name="ambient_display_screen_summary_notifications">새로운 알림</string>
-  <string name="ambient_display_screen_title">주변 상황 표시</string>
+  <string name="ambient_display_screen_title">AOD 표시</string>
   <string name="ambient_display_summary">화면을 두 번 탭하여 알림을 빠르게 확인하세요.</string>
   <string name="ambient_display_title">화면을 두 번 탭하여 알림 확인</string>
   <string name="android_beam_disabled_summary">이 기능을 사용하시려면 NFC를 켜십시오.</string>
