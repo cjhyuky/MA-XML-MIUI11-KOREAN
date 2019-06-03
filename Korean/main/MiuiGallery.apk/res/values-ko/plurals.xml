@@ -222,4 +222,25 @@
     <plurals name="collage_select_image_dynamic_range">
         <item quantity="other">콜라주에 1-%d개의 사진이 포함될 수 있습니다</item>
     </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d개 사진</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">%d개 사진을 저장하고 나머지는 삭제할까요?</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">%d개의 선택된 사진 저장</item>
+    </plurals>
+	<plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">미클라우드와 모든 동기화된 기기에서 %d개의 버스트샷을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">%d개의 버스트샷을 삭제할까요?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">미클라우드와 이 기기에서 %d개의 버스트샷을 삭제하시겠습니까?</item>
+    </plurals>
+	<plurals name="delete_third_party_burst_photo">
+        <item quantity="other">이 기기에서 %d개의 버스트샷을 삭제하시겠습니까?</item>
+    </plurals>
 </resources>
