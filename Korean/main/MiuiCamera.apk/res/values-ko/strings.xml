@@ -1170,4 +1170,5 @@
     <string name="mimoji_detect_unknow_failed">알 수 없는 에러</string>
     <string name="ultra_wide_recommend_tip_hint_sat">0.6X 울트라 와이드 앵글을 사용해보세요</string>
     <string name="pref_camera_zoom_mode_entry_macro">메크로</string>
+    <string name="lying_direct_hint">현재 방향</string>
 </resources>
