@@ -8193,4 +8193,5 @@
   <string name="backup_set_new_pw_confirm_hint">주의</string>
   <string name="backup_set_new_pw_confirm_summary">항목이 자동으로 백업됩니다. 백업 암호를 만들면 자동백업이 중지됩니다. 계속하시겠습니까?</string>
   <string name="device_miui_version_parameters">MIUI 버전</string>
+  <string name="quick_reply_title">빠른 답장</string>
 </resources>
