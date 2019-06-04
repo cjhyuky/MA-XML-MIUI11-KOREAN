@@ -8194,4 +8194,21 @@
   <string name="backup_set_new_pw_confirm_summary">항목이 자동으로 백업됩니다. 백업 암호를 만들면 자동백업이 중지됩니다. 계속하시겠습니까?</string>
   <string name="device_miui_version_parameters">MIUI 버전</string>
   <string name="quick_reply_title">빠른 답장</string>
+    <string name="a11y_settings_label">접근성 설정</string>
+    <string name="accessibility_menu_description">"접근성 메뉴는 장치를 제어할 수 있는 편리한 바로 가기를 제공합니다.
+
+이 기능을 켜고 화면하단의 접근성 버튼을 눌러 메뉴를 엽니다."</string>
+    <string name="accessibility_menu_service_name">접근성 메뉴</string>
+    <string name="accessibility_menu_summary">편리한 바로가기를 사용하여 장치 제어</string>
+    <string name="confirm_fingerprint">지문 확인</string>
+    <string name="confirm_password_with_fingerprint">지문 사용</string>
+    <string name="confirm_password_with_password">비밀번호 입력</string>
+    <string name="google_assistant_label">구글 어시스턴트</string>
+    <string name="lockscreen_label">잠금화면</string>
+    <string name="notification_label">알림</string>
+    <string name="power_label">전원</string>
+    <string name="quick_settings_label">토글</string>
+    <string name="recent_apps_label">최근 사용 앱</string>
+    <string name="screenshot_label">스크린샷</string>
+    <string name="volume_label">볼륨</string>
 </resources>
