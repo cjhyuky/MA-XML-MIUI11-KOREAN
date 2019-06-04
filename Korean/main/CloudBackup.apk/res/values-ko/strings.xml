@@ -95,7 +95,7 @@
     <string name="back_up_task_in_process">백업 중…</string>
     <string name="remove_task_in_process">제거 중…</string>
     <string name="remove_task_unfinished">제거가 끝나지 않았음</string>
-    <string name="back_up_task_unfinished">백업이 끝나지 않았음</string>
+    <string name="back_up_task_unfinished">백업 실패</string>
     <string name="about_to_recover">잠시 기다려 주십시오…</string>
     <string name="success_open_cloudbackup">홈 화면 앱을 위해 백업이 켜졌습니다.</string>
     <string name="as_new_device">이전의 홈 화면과 설정 교체하기</string>
