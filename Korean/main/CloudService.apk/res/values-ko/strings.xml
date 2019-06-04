@@ -702,9 +702,9 @@ Mi 클라우드를 다시 활성화하십시오."</string>
   <string name="warning_bar_title_network_unconnected">"네트워크 연결 실패"</string>
   <string name="warning_bar_title_short_cut">Mi클라우드를 홈화면에 추가하시겠습니까?</string>
   <string name="warning_bar_title_sync_off">Mi클라우드 동기화 꺼짐</string>
-    <string name="enable_sync_setting_title">클라우드 서비스 구성중...</string>
-    <string name="provision_sync_items_loading">항목 동기화 준비중</string>
-    <string name="user_detail_agreement">사용자 계약</string>
-    <string name="user_detail_privacy_policy">개인 정보 보호 정책</string>
-	<string name="micloud_find_device_close_alert_content">"기기 찾기를 사용중지하면 사용자가 이 기능을 사용하여 휴대 전화를 찾을 수 없습니다. 휴대전화에서 NFC기능을 지원하는 경우 Mi페이에서 모든 은행카드 및 키카드가 삭제됩니다."</string>
+  <string name="enable_sync_setting_title">클라우드 서비스 구성중...</string>
+  <string name="provision_sync_items_loading">항목 동기화 준비중</string>
+  <string name="user_detail_agreement">사용자 계약</string>
+  <string name="user_detail_privacy_policy">개인 정보 보호 정책</string>
+  <string name="micloud_find_device_close_alert_content">"기기 찾기를 사용중지하면 사용자가 이 기능을 사용하여 휴대 전화를 찾을 수 없습니다. 휴대전화에서 NFC기능을 지원하는 경우 Mi페이에서 모든 은행카드 및 키카드가 삭제됩니다."</string>
 </resources>
