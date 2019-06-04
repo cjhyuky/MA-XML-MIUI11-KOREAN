@@ -66,4 +66,7 @@
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">Mi 클라우드로 %s개의 서비스가 동기화됩니다</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d개의 자주 사용하는 문구</item>
+    </plurals>
 </resources>
