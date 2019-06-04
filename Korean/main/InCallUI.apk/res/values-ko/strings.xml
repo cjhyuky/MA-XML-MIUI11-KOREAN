@@ -261,4 +261,9 @@
     <string name="supp_service_notification_call_waiting">상대방이 통화중입니다. 잠시만 기다려 주십시오.</string>
     <string name="call_not_support_high_frequency_click">"이 버튼을 너무 자주 탭하지 마세요"</string>
     <string name="volte_call">VoLTE 통화</string>
+    <string name="sim1_heduohao_card">서브1</string>
+    <string name="sim2_heduohao_card">서브2</string>
+    <string name="sim3_heduohao_card">서브3</string>
+    <string name="select_sim_hint_for_heduohao">"SIM %1$d 서브 %2$d 사용중에는 나머지는 사용할 수 없습니다."</string>
+    <string name="select_one_sim_title_for_heduohao">SIM %1$d 서브 %2$d만 사용가능</string>
 </resources>
