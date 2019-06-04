@@ -2864,4 +2864,9 @@ SMS 전송"</string>
     <string name="quick_reply_title">빠른 답장</string>
     <string name="quick_replay_list_title">사용가능한 앱</string>
     <string name="qucick_replay_instrument">선택된 메신저앱 알림에서 빠른 답장 사용(예>왓츠앱, 위챗, QQ)</string>
+    <string name="gamebox_display_1">없음</string>
+    <string name="gamebox_display_2">색감 보정됨</string>
+    <string name="gamebox_display_3">밝게</string>
+    <string name="gamebox_display_4">밝게&amp;색감 보정됨</string>
+    <string name="gamebox_display_set">"시각적 향상: "</string>
 </resources>
