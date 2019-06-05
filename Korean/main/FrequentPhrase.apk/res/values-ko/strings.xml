@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="edit_frequent_phrases">자주 사용하는 문구 편집</string>
+    <string name="edit_frequent_phrases">상용구 편집</string>
     <string name="menu_add_frequent_phrases">추가</string>
     <string name="menu_edit">편집</string>
     <string name="menu_delete">삭제</string>
     <string name="frequent_phrases_des">간단한 조작으로 문서 작성시 자주 사용하는 문구를 입력하세요</string>
-    <string name="add_frequent_phrases">자주 사용하는 문구 추가</string>
-    <string name="delete_frequent_phrases">자주 사용하는 문구 삭제</string>
+    <string name="add_frequent_phrases">상용구 추가</string>
+    <string name="delete_frequent_phrases">상용구 삭제</string>
     <string name="delete_frequent_phrases_confirm">선택한 상용구를 삭제하시겠습니까?</string>
     <string name="frequent_phrases_size_exceeded">%1$d개까지만 상용구 추가 가능. 추가하려면 사용하지 않는 것을 삭제하세요.</string>
-    <string name="sync_phrase_label">자주 사용하는 문구</string>
+    <string name="sync_phrase_label">상용구</string>
 </resources>
