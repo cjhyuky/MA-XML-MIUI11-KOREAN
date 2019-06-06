@@ -8211,4 +8211,8 @@
     <string name="recent_apps_label">최근 사용 앱</string>
     <string name="screenshot_label">스크린샷</string>
     <string name="volume_label">볼륨</string>
+    <string name="close_privacy_thumbnail_blur_title">"미리보기 흐림 처리되지 않았습니다"</string>
+    <string name="open_privacy_thumbnail_blur_title">미리보기가 흐림 처리되었습니다</string>
+    <string name="privacy_thumbnail_blur_progress_message">잠시만 기다려주세요…</string>
+    <string name="privacy_thumbnail_blur_title">앱 미리보기 흐림효과</string>
 </resources>
