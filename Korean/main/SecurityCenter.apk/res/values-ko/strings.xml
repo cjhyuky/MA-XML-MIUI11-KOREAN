@@ -2869,4 +2869,6 @@ SMS 전송"</string>
     <string name="gamebox_display_3">밝게</string>
     <string name="gamebox_display_4">밝게&amp;색감 보정됨</string>
     <string name="gamebox_display_set">"시각적 향상: "</string>
+    <string name="app_manager_thumbnail_blur_title">앱 미리보기 흐림처리</string>
+    <string name="app_manager_thumbnail_blur_summary">최근앱에서 앱 미리보기를 흐리게 처리합니다.</string>
 </resources>
