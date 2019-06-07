@@ -1335,8 +1335,8 @@ SMS 전송"</string>
     <string name="hints_virus_app_list_item_summary">앱</string>
     <string name="hints_loading_text">로딩 중…</string>
     <string name="activity_title_auto_start_manager">자동 시작</string>
-    <string name="activity_title_permission_manager">권한</string>
-    <string name="activity_title_other_permission_manager">다른 권한</string>
+    <string name="activity_title_permission_manager">앱 권한</string>
+    <string name="activity_title_other_permission_manager">기타 권한</string>
     <string name="activity_title_root_manager">루트 권한</string>
     <string name="activity_title_root_acquired">루트권한 허용</string>
     <string name="activity_title_root_note">루트권한에 대하여</string>
