@@ -2871,4 +2871,23 @@ SMS 전송"</string>
     <string name="gamebox_display_set">"시각적 향상: "</string>
     <string name="app_manager_thumbnail_blur_title">앱 미리보기 흐림처리</string>
     <string name="app_manager_thumbnail_blur_summary">최근앱에서 앱 미리보기를 흐리게 처리합니다.</string>
+    <string name="user_guide">위로 올려 새로운 게임 확인하기</string>
+    <string name="power_center_dialog_msg_top">절전 모드가 활성화된 경우, 시스템이 자동적으로 다음의 최적화를 진행합니다:</string>
+    <string name="power_center_dialog_msg_bottom">배터리 수명을 %1$d시간 %2$d분까지 절약하실 수 있습니다. 절전 모드를 활성화 하시겠습니까?</string>
+    <string name="power_dialog_super_save_msg">"초절전 모드는 전원 공급을 많이 요구하는 기능들을 비활성화하고 전화나 문자같은 기본 기능에 집중합니다. 초절전 모드를 활성화 하시겠습니까?"</string>
+    <string name="power_dialog_super_save_title">초절전 모드</string>
+    <string name="power_center_power_save_title_text">절전 모드</string>
+    <string name="power_center_super_save_title_text">초절전 모드</string>
+    <string name="power_center_super_save_summary_text">배터리 수명 %1$d시간 %2$d분 확보 완료</string>
+    <string name="power_center_power_save_summary_text">배터리 수명 %1$d시간 %2$d분 확보 완료</string>
+    <string name="power_center_battery_last">%s 남음</string>
+    <string name="power_center_one_key_save">최적화</string>
+    <string name="power_setting_power_save_summary_text">시스템 설정을 최적화하여 배터리 사용 시간 확보</string>
+    <string name="power_setting_super_save_summary_text">불필요한 시스템 기능들을 제한하여 배터리 사용 시간 확보</string>
+    <string name="power_setting_category_other">추가 설정</string>
+    <string name="power_setting_background_app_save_title">백그라운드 절전</string>
+    <string name="power_setting_background_app_save_summary">앱에 영향 없이 백그라운드 앱 제한</string>
+    <string name="power_settings_lock_screen_saver_title">잠금 화면 설정</string>
+    <string name="quick_optimize_sub_summary_with_battery_text">%1$s 추가 완료, %2$s 남음</string>
+    <string name="quick_optimize_sub_battery_text">%s 남음</string>
 </resources>
