@@ -302,4 +302,13 @@
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d개 앱이 배터리 소모중입니다</item>
     </plurals>
+        <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s일</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s시간</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s분</item>
+    </plurals>
 </resources>
