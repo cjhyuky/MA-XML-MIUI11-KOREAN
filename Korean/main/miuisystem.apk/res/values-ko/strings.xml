@@ -121,5 +121,25 @@
     <string name="group_name_friends">친구</string>
     <string name="device_poco_global">포코폰</string>
     <string name="device_poco_india">포코폰</string>
-    <string name="dewdrops">우물</string> 
+    <string name="dewdrops">우물</string>
+    <string name="citylight">도시</string>
+    <string name="countryside">시골</string>
+    <string name="frenchchic">유럽풍</string>
+    <string name="glorious">감동</string>
+    <string name="greenandblue">색감</string>
+    <string name="hallofmemories">추억</string>
+    <string name="hawaii">하와이</string>
+    <string name="martix">매트릭스</string>
+    <string name="monet">모네</string>
+    <string name="passionflower">꽃</string>
+    <string name="secretgarden">정원</string>
+    <string name="asend">전송</string>
+    <string name="bells">벨</string>
+    <string name="child">아이</string>
+    <string name="dance">댄스</string>
+    <string name="expect">일상</string>
+    <string name="game">게임</string>
+    <string name="makewishes">소원</string>
+    <string name="robot">로봇</string>
+    <string name="surprise">감동</string>   
 </resources>
