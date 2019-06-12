@@ -2323,7 +2323,7 @@ SMS 전송"</string>
     <string name="app_manager_mobile_slot1">모바일 데이터 (SIM 1)</string>
     <string name="app_manager_mobile_slot2">모바일 데이터 (SIM 2)</string>
     <string name="accessibility_gameboosterservice_description">"게임을 하는동안, WeChat 알림을 음소거 하려면 기능을 켜세요."</string>
-    <string name="gmscore_support_service">Google 서비스</string>
+    <string name="gmscore_support_service">기본 구글 서비스</string>
     <string name="power_center_back">역력</string>
     <string name="menu_white">예외</string>
     <string name="lockpattern_tutorial_continue_label_confirm">확인을 누르세요</string>
