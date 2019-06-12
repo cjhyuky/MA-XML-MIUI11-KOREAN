@@ -335,7 +335,7 @@
     <string name="networking_allow_desc_without_mx">Mi 메시지는 정상적으로 동작하려면 인터넷 연결이 필요합니다. 무료 메시지 서비스를 제공하려면, 알 수 없는 숫자를 인식하고, 스팸 메일을 필터링하고, 기타 기능을 사용하도록 설정하려면 연락처가 필요합니다. 인터넷에 연결하고, 위치 정보를 얻고, 연락처 접근을 허용하시겠습니까?</string>
     <string name="networking_allow_title">주의</string>
     <string name="new_message">작성</string>
-    <string name="new_message_arrived">새 메시지가 있습니다.</string>
+    <string name="new_message_arrived">클릭하여 보기</string>
     <string name="new_phrase">답장 추가</string>
     <string name="new_phrase_hint">새 답장 입력</string>
     <string name="no">취소</string>
@@ -500,7 +500,7 @@
     <string name="security_alert_dialog_title">신고</string>
     <string name="select_audio">오디오 선택</string>
     <string name="select_bottom_text">꼬릿말</string>
-    <string name="select_copy_text">메시지 텍스트를 선택 후 복사</string>
+    <string name="select_copy_text">텍스트 선택 및 복사</string>
     <string name="select_different_media">다른 %1$s 선택</string>
     <string name="select_link_title">동작 선택</string>
     <string name="select_local_audio">오디오 선택</string>
@@ -624,7 +624,7 @@
     <string name="undelivered_msg_dialog_title">전달되지 않은 메시지</string>
     <string name="undelivered_sms_dialog_body">이 메시지를 전송하지 못했습니다.</string>
     <string name="unknown_num">모르는 번호</string>
-    <string name="unknown_sender">보낸 사람 알 수 없음</string>
+    <string name="unknown_sender">새 메시지가 있습니다.</string>
     <string name="unstick">고정 해제</string>
     <string name="unstick_conversation">현재 대화 고정 해제</string>
     <string name="unsticked_conversation">대화가 이미 고정 해제되었습니다.</string>
@@ -844,4 +844,5 @@
   <string name="rcs_offline">UC에 로그인하지 않았습니다. 잠시후 다시 시도하십시오.</string>
   <string name="dialog_sim_locked_confirm">확인</string>
   <string name="dialog_sim_locked_message">"SIM 카드가 구독 약관을 준수하지 않아 이 휴대 전화에서 완벽하게 작동하지 않습니다.이 문제에 대해 궁금한 점이 있거나 자세한 정보가 필요하면 Xiaomi 서비스 센터 또는 제품을 판매한 상점에 문의하십시오."</string>
+  <string name="dialog_complain_tips">메시지 앱이 항목을 보고할 수 있도록 네트워크 연결을 허용합니다.</string>
 </resources>
