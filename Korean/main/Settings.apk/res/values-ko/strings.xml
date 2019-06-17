@@ -8215,4 +8215,19 @@
     <string name="open_privacy_thumbnail_blur_title">미리보기가 흐림 처리되었습니다</string>
     <string name="privacy_thumbnail_blur_progress_message">잠시만 기다려주세요…</string>
     <string name="privacy_thumbnail_blur_title">앱 미리보기 흐림효과</string>
+    <string name="usage_app_get_it">확인</string>
+    <string name="usage_app_limit_alter_summary">"이 시간제한이 오늘 이 앱을 사용한 시간보다 짧아보입니다. 그래도 제한을 설정하시겠습니까?"</string>
+    <string name="usage_app_limit_alter_title">화면 시간 제한 체크</string>
+    <string name="usage_app_limit_prelong">시간 연장</string>
+    <string name="usage_app_limit_reach_summay">%s 남음</string>
+    <string name="usage_app_limit_reach_title">%s 앱의 화면 시간 제한에 거의 도달했습니다</string>
+    <string name="usage_app_limit_summary">"한도에 도달하면 선택한 앱을 사용할 수 없습니다"</string>
+    <string name="usage_app_limit_title">화면 시간 제한</string>
+    <string name="usage_app_other_settings">추가 설정</string>
+    <string name="usage_app_over_content">"오늘 이 앱을 %s 동안 이미 사용하였습니다."</string>
+    <string name="usage_app_over_summary">"제한시간에 도달하였습니다. 시간이 다되었습니다!"</string>
+    <string name="usage_app_set_limit_time">제한 설정</string>
+    <string name="usage_app_system_app_summary">"시스템 앱은 화면 시간 제한 설정을 할 수 없습니다"</string>
+    <string name="usage_app_weekday_limit">주중</string>
+    <string name="usage_app_weekend_limit">주말</string>
 </resources>
