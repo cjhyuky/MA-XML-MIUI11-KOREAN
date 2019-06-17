@@ -375,4 +375,9 @@
     <string name="announce_for_xiaoai">Mi AI</string>
     <string name="privacy_thumbnail_blur_summary">최근앱에서 앱 미리보기 흐릿하게 처리</string>
     <string name="privacy_thumbnail_blur_title">앱 미리보기 흐릿하게</string>
+    <string name="all_apps_setting_desktop_desc">설치된 모든 응용 프로그램이 화면에 표시됩니다.  작업을 표시하려면 응용 프로그램 아이콘을 길게 누릅니다.</string>
+    <string name="all_apps_setting_desktop_title">표준 모드</string>
+    <string name="all_apps_setting_drawer_desc">설치된 응용 프로그램 목록을 표시하려면 메뉴 버튼을 클릭하십시오.</string>
+    <string name="all_apps_setting_drawer_title">클래식 모드</string>
+    <string name="all_apps_setting_title">데스크톱 모드</string>
 </resources>
