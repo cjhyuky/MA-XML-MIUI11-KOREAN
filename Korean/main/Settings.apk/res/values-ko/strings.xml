@@ -8230,4 +8230,6 @@
     <string name="usage_app_system_app_summary">"시스템 앱은 화면 시간 제한 설정을 할 수 없습니다"</string>
     <string name="usage_app_weekday_limit">주중</string>
     <string name="usage_app_weekend_limit">주말</string>
+    <string name="enable_tcp_rtt_support">TCP RTT 표시</string>
+    <string name="enable_tcp_rtt_support_summary">네트워크 통신 품질 성능 평가</string>
 </resources>
