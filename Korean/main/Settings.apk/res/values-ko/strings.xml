@@ -8232,4 +8232,6 @@
     <string name="usage_app_weekend_limit">주말</string>
     <string name="enable_tcp_rtt_support">TCP RTT 표시</string>
     <string name="enable_tcp_rtt_support_summary">네트워크 통신 품질 성능 평가</string>
+    <string name="popup_gesture_title">전면 카메라 위로 올리기</string>
+    <string name="popup_gesture_summary">휴대전화를 들고 화면을 바라보면 전면 카메라가 자동으로 열립니다</string>
 </resources>
