@@ -614,7 +614,7 @@
     <string name="facebook_function_summery">페이스북 캐시를 정리합니다</string>
     <string name="facebook_function_title">페이스북 클리너</string>
     <string name="security_center_slogan">보안. 항상 신경쓰셔야 합니다.</string>
-    <string name="notification_garbage_cleanup_summary">휴지통이 %s만큼 쌓였습니다</string>
+    <string name="notification_garbage_cleanup_summary">휴지통(%s)을 비워서 기기의 속도를 높이세요</string>
     <string name="notification_garbage_cleanup_title">휴지통 파일 삭제</string>
     <string name="notification_low_memory_cache_summary">1.5GB보다 작은 저장공간을 사용가능합니다</string>
     <string name="notification_low_memory_cache_title">캐시 정리</string>
