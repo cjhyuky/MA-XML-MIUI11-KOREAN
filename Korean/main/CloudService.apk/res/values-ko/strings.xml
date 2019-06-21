@@ -709,4 +709,5 @@ Mi 클라우드를 다시 활성화하십시오."</string>
   <string name="micloud_request_sync_too_frequent">요청이 너무 많습니다. 잠시후 다시 시도하세요.</string>
   <string name="waiting_for_sync">기다리는 중…</string>
   <string name="system_busy_or_network_error">에러가 발생했습니다. 잠시후 다시 시도하세요.</string>
+  <string name="micloud_last_sync_canceled">동기화가 취소되었습니다. 다시 시도하세요.</string>
 </resources>
