@@ -8234,4 +8234,20 @@
     <string name="enable_tcp_rtt_support_summary">네트워크 통신 품질 성능 평가</string>
     <string name="popup_gesture_title">전면 카메라 위로 올리기</string>
     <string name="popup_gesture_summary">휴대전화를 들고 화면을 바라보면 전면 카메라가 자동으로 열립니다</string>
+    <string name="miui_lab_3d_gesture_title">3D 패턴</string>
+    <string name="miui_lab_3d_gesture_slogan">앱을 열기위해 휴대전화를 들고 허공에 패턴을 그리세요</string>
+    <string name="miui_lab_3d_gesture_summary">앱을 열기위해 휴대전화를 들고 허공에 패턴을 그리세요</string>
+    <string name="miui_lab_3d_gesture_desc">홈화면을 열고 선택된 앱을 열기위해 휴대전화를 들고 허공에 한가지 패턴을 그리세요</string>
+    <string name="miui_lab_home_feed_desc">좋은 아이디어. 흥미진진한 이야기.</string>
+    <string name="miui_lab_home_feed_title">미디어 센터</string>
+    <string name="support_gesture_title">3D 패턴</string>
+    <string name="customize_function">사용가능한 패턴</string>
+    <string name="gesture_m">M 패턴</string>
+    <string name="gesture_w">W 패턴</string>
+    <string name="gesture_c">C 패턴</string>
+    <string name="gesture_z">Z 패턴</string>
+    <string name="gesture_open_music">음악앱 열기</string>
+    <string name="gesture_open_camera">카메라 열기</string>
+    <string name="gesture_open_wechat">위챗 열기</string>
+    <string name="gesture_open_alipay">알리페이 열기</string>
 </resources>
