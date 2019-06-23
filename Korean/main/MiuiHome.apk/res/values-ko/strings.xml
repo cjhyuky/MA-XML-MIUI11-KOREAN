@@ -380,4 +380,5 @@
     <string name="all_apps_setting_drawer_desc">설치된 응용 프로그램 목록을 표시하려면 메뉴 버튼을 클릭하십시오.</string>
     <string name="all_apps_setting_drawer_title">클래식 모드</string>
     <string name="all_apps_setting_title">데스크톱 모드</string>
+    <string name="system_shortcuts_more_operation">앱 정보</string>
 </resources>
