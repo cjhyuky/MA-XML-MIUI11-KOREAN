@@ -1030,4 +1030,6 @@ CVC는 카드 뒷면 서명란에 있는 번호의 마지막 세 자리 숫자�
     <string name="wishlist_removing">위시리스트에서 삭제...</string>
     <string name="yes">예</string>
     <string name="your_review_label">나</string>
+    <string name="description_details_app_info">앱 정보</string>	
+    <string name="loading_overflow_app_info">앱 정보</string>
 </resources>
