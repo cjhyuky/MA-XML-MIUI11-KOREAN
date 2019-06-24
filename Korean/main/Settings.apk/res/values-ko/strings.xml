@@ -8250,4 +8250,6 @@
     <string name="gesture_open_camera">카메라 열기</string>
     <string name="gesture_open_wechat">위챗 열기</string>
     <string name="gesture_open_alipay">알리페이 열기</string>
+    <string name="bluetooth_disable_inband_ringing">블루투스 헤드셋 벨소리 끄기</string>
+    <string name="bluetooth_disable_inband_ringing_summary">맞춤형 벨소리를 블루투스 헤드셋에서 재생하지 않습니다</string>
 </resources>
