@@ -58,7 +58,7 @@
     <string name="timer_new_item">타이머 추가</string>
     <string name="timer_item_label_hint">타이머 이름</string>
     <string name="shutdown_alarm_title">꺼진 폰을 켜서 알람</string>
-    <string name="shutdown_alarm_enable_summary">전원이 꺼진 후 5분 뒤부터 알람 울림</string>
+    <string name="shutdown_alarm_enable_summary">기기를 끈 후 10분 미만으로 남은 알람은 자동으로 울리지 않습니다</string>
     <string name="shutdown_alarm_disable_summary">전원이 꺼진 후 알람 울리지 않음</string>
     <string name="workday_alarm_clock">평일 알람</string>
     <string name="system_time_setting">설정</string>
@@ -266,4 +266,8 @@
     <string name="shortcut_new_alarm">알람 설정</string>
     <string name="shortcut_start_timer">타이머 시작</string>
     <string name="shortcut_stop_watch">스톱워치 시작</string>
+    <string name="edit_systemtime_setting_summary">날짜, 시간, 듀얼 시계</string>
+    <string name="worldclock_resident_city_text">두번째 도시: %s</string>
+    <string name="worldclock_resident_city_text_detail">듀얼 시계가 켜져 있습니다</string>
+    <string name="worldcolock_date_display_prefix">현재 도시: </string>
 </resources>
