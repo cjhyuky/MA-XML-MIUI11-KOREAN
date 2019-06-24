@@ -951,4 +951,7 @@
     <string name="notification_offline_to_online_setting">알림창</string>
     <string name="notification_offline_to_online_summary">Mi 비디오 바로가기와 날씨 정보 표시</string>
     <string name="notification_offline_to_online_title">알림창 바로가기 표시</string>
+    <string name="offline_setting">재생 설정</string>
+    <string name="skip_play_time_summary">영상 재생시 오프닝과 엔딩 크레딧을 스킵합니다</string>
+    <string name="skip_play_time_title">크레딧 스킵하기</string>
 </resources>
