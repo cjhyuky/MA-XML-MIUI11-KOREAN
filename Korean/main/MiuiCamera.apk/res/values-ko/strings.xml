@@ -1171,4 +1171,11 @@
     <string name="ultra_wide_recommend_tip_hint_sat">0.6X 울트라 와이드 앵글을 사용해보세요</string>
     <string name="pref_camera_zoom_mode_entry_macro">메크로</string>
     <string name="lying_direct_hint">현재 방향</string>
+    <string name="user_define_watermark_save">저장</string>
+    <string name="user_define_watermark_cancel">취소</string>
+    <string name="pref_watermark_title">워터마크</string>
+    <string name="pref_watermark_on">켜짐</string>
+    <string name="pref_watermark_off">꺼짐</string>
+    <string name="pref_camera_lying_title">가로 세로 방향 표시</string>
+    <string name="pref_camera_lying_summary">휴대폰이 지면과 평행할 때, 카메라 방향이 화면에 실시간으로 표시됩니다</string>
 </resources>
