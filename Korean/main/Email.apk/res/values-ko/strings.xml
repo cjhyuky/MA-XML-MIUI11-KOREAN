@@ -1173,8 +1173,27 @@
     <string name="qq_pwd_or_qq_auth_code">QQ 인증 코드 또는 사서함 암호</string>
     <string name="folder_empty_to_fresh">"메일이 동기화되지 않았습니다. 동기화하려면 아래로 당기세요."</string>
     <string name="folder_no_mails">이 폴더에는 이메일이 없습니다</string>
-    <string name="toast_bar_sync_failed_mi_authority">동기화에 실패했습니다. 나중에 다시 시도하십시오. 새 장치에 로그인하려면 계정센터 나 SMS를 통해 장치를 인증하셔야합니다.</string>
+    <string name="toast_bar_sync_failed_mi_authority">"동기화하지 못했습니다. 잠깐 기다려 다시 시도하십시오. 세부사항을 확인하세요.
+(인증되지 않은 장치를 사용하는 경우 인트라넷에 연결하거나 인증 코드를 사용하십시오)"</string>
     <string name="wipe_account_fail_description_remind">데이터 사용 권한으로 인해 계정을 삭제한 후 캘린더와 주소록에 데이터가 남아있을 수 있으므로 수동으로 삭제하십시오.</string>
     <string name="failed_read_write_contacts_permission">연락처 접근이 제한되었습니다</string>
     <string name="failed_read_write_calendar_permission">캘린더 접근이 제한되었습니다</string>
+    <string name="contact_add_options">연락처에 추가</string>
+    <string name="contact_add_options_details1">모두</string>
+    <string name="contact_add_options_details2">받는 사람만</string>
+    <string name="get_oauth_code">코드 가져오기</string>
+    <string name="help_weixin_title">"질문이 있으시면, 언제든지 공식 위챗 계정에 대화를 남겨주세요: "</string>
+    <string name="login_qq_psw">QQ 비밀번호/인증자/인증 코드를 사용하여 로그인</string>
+    <string name="mi_sync_erroe_toast">"네트워크 에러 발생: "</string>
+    <string name="mi_sync_erroe_toast_other">"네트워크 에러 발생: "</string>
+    <string name="no_more_mail">메시지가 더이상 없습니다</string>
+    <string name="no_search_results">"결과를 찾을 수 없습니다"</string>
+    <string name="pull_load_more">위로 당겨 더 불러오기</string>
+    <string name="remote_search_body_too_large_prompt">"이 이메일은 너무 깁니다.
+완전히 동기화되거나 컴퓨터에서 메시지를 볼 때까지 기다리십시오."</string>
+    <string name="search_remote_again">네트워크 사용불가, 재시도를 클릭하세요</string>
+    <string name="sync_failed_mi_authority_view_detail">자세히 보기</string>
+    <string name="recommend_protocal">프로토콜 사용을 추천</string>
+    <string name="update_domain_summary">사용가능한 도메인 및 구성목록을 업데이트합니다</string>
+    <string name="update_domain_title">도메인 설정 업데이트</string>
 </resources>
