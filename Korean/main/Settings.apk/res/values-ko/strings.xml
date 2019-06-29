@@ -168,7 +168,7 @@
   <string name="account_settings_menu_auto_sync">데이터 자동 동기화</string>
   <string name="account_settings_menu_auto_sync_personal">개인 데이터 자동 동기화</string>
   <string name="account_settings_menu_auto_sync_work">직장 데이터 자동 동기화</string>
-  <string name="account_settings_title">계정</string>
+  <string name="account_settings_title">구글 &amp; 계정</string>
   <string name="account_summary">구글 계정과 Mi 계정, 다른 사용자 데이터를 백업합니다.</string>
   <string name="account_sync_settings_title">동기화</string>
   <string name="account_sync_summary_all_off">항상 동기화 끄기</string>
@@ -8252,13 +8252,8 @@
     <string name="gesture_open_alipay">알리페이 열기</string>
     <string name="bluetooth_disable_inband_ringing">블루투스 헤드셋 벨소리 끄기</string>
     <string name="bluetooth_disable_inband_ringing_summary">맞춤형 벨소리를 블루투스 헤드셋에서 재생하지 않습니다</string>
-    <string name="account_settings_title">구글 &amp; 계정</string>
-    <string name="ambient_display_screen_title">앰비언트 디스플레이</string>
-    <string name="ambient_display_screen_summary_always_on">항상 켜짐 / 줄어든 배터리 사용 시간</string>
-    <string name="ambient_display_screen_summary_notifications">새로운 알림</string>
     <string name="aod_and_lock_screen_settings_title">앰비언트 디스플레이 &amp; 잠금 화면</string>
     <string name="aod_settings_category_name">앰비언트 디스플레이</string>
-    <string name="aod_settings_title">앰비언트 디스플레이</string>
     <string name="applications_settings_title">앱</string>
     <string name="feedback_settings">피드백</string>
     <string name="full_screen_display">전체 화면 모드</string>
@@ -8270,8 +8265,6 @@
     <string name="home_title">홈 화면</string>
     <string name="key_shortcut_settings_title">버튼 단축키</string>
     <string name="lock_screen_display_category_name">잠금 화면</string>
-    <string name="lockpassword_password_too_long">최소 %d자 이하여야 합니다.</string>
-    <string name="lockpassword_password_too_short">최소 %d자 이상이어야 합니다.</string>
     <string name="miui_sos_emergency_delete">삭제</string>
     <string name="more_account_settings_title">기타 계정</string>
     <string name="notch_and_status_bar_settings">노치 &amp; 상태 바</string>
@@ -8284,7 +8277,6 @@
     <string name="recommend_tip">다른 설정이 필요하십니까?</string>
     <string name="screen_settings">잠금 화면</string>
     <string name="settings_new_version_btn">업데이트</string>
-    <string name="status_bar_settings">알림 &amp; 상태 바</string>
     <string name="status_bar_title">상태 바</string>
     <string name="unlock_mode_title">화면 잠금</string>
     <string name="volume_launch_camera_summary">잠금 화면에서 볼륨 버튼을 두 번 눌러 카메라 실행</string>
