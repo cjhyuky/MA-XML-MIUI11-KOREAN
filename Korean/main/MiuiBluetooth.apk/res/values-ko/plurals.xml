@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">%1$d초간 버튼을 길게 누르세요.</item>
+    </plurals> 
+</resources>
