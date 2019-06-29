@@ -214,4 +214,8 @@
     <string name="sim_lock_non_ais_msg">"SIM 카드가 구독 약관을 준수하지 않아 이 휴대 전화에서 완전하게 작동하지 않습니다. 이 문제에 대해 궁금한 점이 있거나 자세한 정보가 필요하면 샤오미 서비스 센터 또는 제품을 판매한 상점에 문의하시기 바랍니다."</string>
     <string name="sim_lock_now_ais_title">SIM %1$d번</string>
     <string name="voice_assistant_tips">파워 버튼을 길게 눌러 음성 도우미를 깨울 수 있습니다</string>
+    <string name="autofill_save_ok">허용</string> 
+    <string name="autofill_save_title">비밀번호 자동 저장</string> 
+    <string name="autofill_save_message">MIUI가 ID와 비밀번호를 저장할 수 있도록 허용하시겠습니까?</string>
+    <string name="autofill_save_sub_message">"설정 > 추가 설정 > 개인 정보 보호 > 비밀번호 관리에서 저장된 비밀번호를 관리하십시오."</string>
 </resources>
