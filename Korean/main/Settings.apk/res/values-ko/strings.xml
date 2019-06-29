@@ -3320,8 +3320,8 @@
   <string name="lockpassword_password_requires_digit">비밀번호에는 적어도 하나의 숫자가 포함되어야 합니다.</string>
   <string name="lockpassword_password_requires_symbol">비밀번호에는 적어도 하나의 기호가 포함되어야 합니다.</string>
   <string name="lockpassword_password_set_toast">비밀번호가 설정되었습니다.</string>
-  <string name="lockpassword_password_too_long">비밀번호는 %d자 미만이어야 합니다.</string>
-  <string name="lockpassword_password_too_short">비밀번호는 %d자 이상이어야 합니다.</string>
+  <string name="lockpassword_password_too_long" formatted="false">비밀번호는 %d자 미만이어야 합니다.</string>
+  <string name="lockpassword_password_too_short" formatted="false">비밀번호는 %d자 이상이어야 합니다.</string>
   <string name="lockpassword_pattern_set_toast">패턴이 설정되었습니다.</string>
   <string name="lockpassword_pin_blacklisted_by_admin">IT 관리자가 일반적인 PIN을 차단합니다. 다른 PIN을 사용해보십시오.</string>
   <string name="lockpassword_pin_contains_non_digits">PIN은 숫자만 포함할 수 있습니다.</string>
