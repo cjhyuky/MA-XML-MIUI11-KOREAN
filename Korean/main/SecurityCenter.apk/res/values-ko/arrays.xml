@@ -27,10 +27,10 @@
         <item>오늘 (데이터)</item>
         <item>지난 달 (데이터)</item>
         <item>이번 달 (데이터)</item>
-        <item>어제 Wi-Fi</item>
-        <item>오늘 Wi-Fi</item>
-        <item>지난 달 Wi-Fi</item>
-        <item>이번 달 Wi-Fi</item>
+        <item>어제 (Wi-Fi)</item>
+        <item>오늘 (Wi-Fi)</item>
+        <item>지난 달 (Wi-Fi)</item>
+        <item>이번 달 (Wi-Fi)</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"모바일 사용량 "</item>
