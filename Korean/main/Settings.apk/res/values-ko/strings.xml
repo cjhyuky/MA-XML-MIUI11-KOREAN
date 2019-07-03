@@ -8281,4 +8281,6 @@
     <string name="unlock_mode_title">화면 잠금</string>
     <string name="volume_launch_camera_summary">잠금 화면에서 볼륨 버튼을 두 번 눌러 카메라 실행</string>
     <string name="wakeup_and_sleep_settings_category_name">잠금 화면 설정</string>
+    <string name="manage_password">비밀번호 관리</string>
+    <string name="manage_password_summary">저장된 계정과 비밀번호 자동완성</string>
 </resources>
