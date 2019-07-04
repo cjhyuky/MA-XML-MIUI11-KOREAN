@@ -2106,7 +2106,7 @@
     <string name="bluetooth_select_avrcp_version_string">블루투스 AVRCP 버전</string>
     <string name="callFailed_imei_not_accepted">연결할 수 없으므로 올바른 SIM 카드를 삽입하십시오.</string>
     <string name="callFailed_wifi_lost">Wi-Fi 연결이 끊어졌습니다. 통화가 종료되었습니다.</string>
-    <string name="connected_via_network_scorer">자동으로 연결됨 %1$s</string>
+    <string name="connected_via_network_scorer">%1$s에 자동으로 연결됨</string>
     <string name="connected_via_network_scorer_default">네트워크 등급 제공자를 통해 자동으로 연결됨</string>
     <string name="debug_hw_renderer">GPU 렌더링 설정</string>
     <string name="direct_boot_unaware_dialog_message">"참고: 재부팅후 휴대전화를 잠금해제 할 때까지 이 앱을 시작할 수 없습니다."</string>
@@ -2234,9 +2234,9 @@
     <string name="advanced_options_title">고급</string>
     <string name="available_via_carrier">%1$s 사용가능</string>
     <string name="bluetooth_connected_battery_level">연결됨, 배터리 : %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">연결됨 (미디어 없음), 배터리 : %1$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">연결됨 (통화 불가), 배터리 : %1$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">연결됨 (미디어 없음 또는 통화 불가), 배터리 : %1$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">연결됨 (미디어 안됨), 배터리 : %1$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">연결됨 (전화 안됨), 배터리 : %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">연결됨 (전화 또는 미디어 안됨), 배터리 : %1$s</string>
     <string name="bluetooth_show_devices_without_names">이름이 없는 블루투스 장치 표시</string>
     <string name="bluetooth_show_devices_without_names_summary">이름이 없는 블루투스 장치(MAC주소만 해당)가 표시됩니다.</string>
     <string name="call_category">통화 중</string>
