@@ -499,4 +499,5 @@
     <string name="ad">광고</string>
     <string name="close">닫기</string>
     <string name="close_ad">광고 닫기</string>
+    <string name="path_not_available">경로가 존재하지 않습니다</string>
 </resources>
