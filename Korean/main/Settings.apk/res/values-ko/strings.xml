@@ -8252,8 +8252,8 @@
     <string name="gesture_open_alipay">알리페이 열기</string>
     <string name="bluetooth_disable_inband_ringing">블루투스 헤드셋 벨소리 끄기</string>
     <string name="bluetooth_disable_inband_ringing_summary">맞춤형 벨소리를 블루투스 헤드셋에서 재생하지 않습니다</string>
-    <string name="aod_and_lock_screen_settings_title">앰비언트 디스플레이 &amp; 잠금 화면</string>
-    <string name="aod_settings_category_name">앰비언트 디스플레이</string>
+    <string name="aod_and_lock_screen_settings_title">디스플레이 &amp; 잠금 화면</string>
+    <string name="aod_settings_category_name">AOD 디스플레이</string>
     <string name="applications_settings_title">앱</string>
     <string name="feedback_settings">피드백</string>
     <string name="full_screen_display">전체 화면 모드</string>
@@ -8283,4 +8283,6 @@
     <string name="wakeup_and_sleep_settings_category_name">잠금 화면 설정</string>
     <string name="manage_password">비밀번호 관리</string>
     <string name="manage_password_summary">저장된 계정과 비밀번호 자동완성</string>
+    <string name="quick_settings_under_keyguard_title">빠른설정 접근</string>
+    <string name="quick_settings_under_keyguard_summary">기기가 잠겨있을 때 빠른설정 접근을 허용합니다</string>
 </resources>
