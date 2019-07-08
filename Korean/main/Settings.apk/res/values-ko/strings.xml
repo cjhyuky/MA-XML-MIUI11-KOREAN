@@ -2693,7 +2693,6 @@
   <string name="gesture_prevent_ringing_title">전원과 볼륨 상 버튼을 동시에 누르십시오.</string>
   <string name="gesture_setting_off">끔</string>
   <string name="gesture_setting_on">켜짐</string>
-  <string name="gesture_wakeup_title">화면을 더블 탭하여 절전 모드 해제</string>
   <string name="giga_hertz">GHz</string>
   <string name="global_change_warning">이 설정은 휴대전화의 모든 사용자에게 영향을 줍니다.</string>
   <string name="global_font_change_title">글꼴 크기 변경</string>
