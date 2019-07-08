@@ -447,4 +447,5 @@
     <string name="dialog_privacy_title">사용약관과 정책</string>
     <string name="exit">나가기</string>
     <string name="tax_rate_provider_east_money">새로운 세금 규정으로 계산됨. 이스트 머니 제공.</string>
+    <string name="mortgage_provider_east_money">데이터는 East Money 제공입니다</string>
 </resources>
