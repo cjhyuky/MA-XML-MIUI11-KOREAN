@@ -195,7 +195,7 @@
     <string name="timer_alert_type_forest">숲</string>
     <string name="timer_alert_type_mute">기본값</string>
     <string name="timer_alert_type_rain">이슬비</string>
-    <string name="timer_alert_type_stove_fire">난로</string>
+    <string name="timer_alert_type_stove_fire">벽난로</string>
     <string name="timer_alert_type_summer_night">여름밤</string>
     <string name="timer_cancel_timer">타이머 취소</string>
     <string name="timer_continue_timer">타이머 재개</string>
