@@ -8286,4 +8286,9 @@
     <string name="manage_password_summary">저장된 계정과 비밀번호 자동완성</string>
     <string name="quick_settings_under_keyguard_title">빠른설정 접근</string>
     <string name="quick_settings_under_keyguard_summary">기기가 잠겨있을 때 빠른설정 접근을 허용합니다</string>
+    <string name="notch_style_mod_description">노치 및 상단바 설정</string>
+    <string name="notch_style_mod_title">노치 숨기기</string>
+    <string name="notch_style_show">"숨기지 않음"</string>
+    <string name="notch_style_status_bar_inside">상단바 이동없이 숨기기</string>
+    <string name="notch_style_status_bar_outside">상단바 숨기기 및 이동</string>
 </resources>
