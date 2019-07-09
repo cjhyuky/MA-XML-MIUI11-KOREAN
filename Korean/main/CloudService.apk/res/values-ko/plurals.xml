@@ -55,7 +55,7 @@
         <item quantity="other">%d개 앱이 퀵 카드 활성화 시도함</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">동기화가 중단되었습니다. %d 분 안에 동기화가 다시 시작됩니다</item>
+        <item quantity="other">%d분 후 동기화 재시작</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">"%s 분 전"</item>
