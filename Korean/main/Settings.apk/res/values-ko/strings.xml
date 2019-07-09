@@ -6190,7 +6190,7 @@
   <string name="sync_now">동기화</string>
   <string name="sync_one_time_sync">지금 동기화하려면 터치\n%1$s</string>
   <string name="sync_plug">&lt;font fgcolor=\"#ffffffff\"&gt;Google 동기화에 오신 것을 환영합니다.&lt;/font&gt;\" \nGoogle 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액세스할 수 있도록 데이터를 동기화하는 Google 서비스입니다.\"</string>
-  <string name="sync_settings">동기화</string>
+  <string name="sync_settings">계정 &amp; 동기화</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Wi-Fi 전용</string>
   <string name="system">시스템</string>
@@ -8234,7 +8234,7 @@
     <string name="enable_tcp_rtt_support">TCP RTT 표시</string>
     <string name="enable_tcp_rtt_support_summary">네트워크 통신 품질 성능 평가</string>
     <string name="popup_gesture_title">전면 카메라 위로 올리기</string>
-    <string name="popup_gesture_summary">휴대전화를 들고 화면을 바라보면 전면 카메라가 자동으로 열립니다</string>
+    <string name="popup_gesture_summary">홈화면으로 돌아가서 휴대전화를 들어올리고 화면을 보면 자동으로 전면 카메라가 열립니다.</string>
     <string name="miui_lab_3d_gesture_title">3D 패턴</string>
     <string name="miui_lab_3d_gesture_slogan">앱을 열기위해 휴대전화를 들고 허공에 패턴을 그리세요</string>
     <string name="miui_lab_3d_gesture_summary">앱을 열기위해 휴대전화를 들고 허공에 패턴을 그리세요</string>
@@ -8291,4 +8291,7 @@
     <string name="notch_style_show">"숨기지 않음"</string>
     <string name="notch_style_status_bar_inside">상단바 이동없이 숨기기</string>
     <string name="notch_style_status_bar_outside">상단바 숨기기 및 이동</string>
+    <string name="lock_screen_settings_title">잠금 화면</string>
+    <string name="xiaomi_cloud_service_description_contact">연락처 및</string>
+    <string name="xiaomi_cloud_service_description_format">Mi 클라우드는 귀하의 %s 사진을 동기화하고, 앱과 설정을 백업하며, 기기 찾기를 사용하여 휴대전화를 찾는데 도움을 드립니다.</string>
 </resources>
