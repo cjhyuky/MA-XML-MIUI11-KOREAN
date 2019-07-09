@@ -433,10 +433,10 @@
     <string name="confirm_close_password_desc">"비밀번호를 끈 후에는 잠금 화면에서 두 번째 공간으로 바로 진입할 수 없습니다. 그래도 끄시겠습니까?"</string>
     <string name="confirm_close_password_title">비밀번호 끄기</string>
     <string name="xspace_remove">"듀얼 앱 계정 삭제"</string>
-    <string name="greenguard_child_des">이 앱을 사용하여 항상 연결 사용</string>
-    <string name="greenguard_child_des_title">친구와 가족의 도움이 필요합니다</string>
-    <string name="greenguard_parent_des">"이 앱을 다운로드 하시고 다른 사람들의 기기를 추가하세요"</string>
-    <string name="greenguard_parent_des_title">친구와 가족의 도움이 필요합니다</string>
+    <string name="greenguard_child_des">친구들과 가족의 기기를 관리해보세요</string>
+    <string name="greenguard_child_des_title">기기 추가를 위한 QR코드 스캔</string>
+    <string name="greenguard_parent_des">"친구들과 가족의 기기를 관리해보세요"</string>
+    <string name="greenguard_parent_des_title">기기 추가를 위해 카이트 가드 사용</string>
     <string name="button_text_next_step">다음</string>
     <string name="button_text_next_step_timer">다음 단계 (%d)</string>
     <string name="cta_declaration_agree_and_continue">동의</string>
@@ -474,4 +474,5 @@
     <string name="xspace_instagram_title">인스타그램</string>
     <string name="instagram_send">인스타그램으로 보내기</string>
     <string name="use_google_open">구글 어시스턴트를 사용하여 깨우기</string>
+    <string name="greenguard_functional_description">"원격으로 장치 관리, 위치 정보보기, 설치된 응용 프로그램 제어 및 사용 제한"</string>
 </resources>
