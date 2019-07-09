@@ -106,4 +106,27 @@
     <string name="HIPS_Perm_UDevice_ID_DESC">게임 개발자와 장치 정보의 일부를 공유하여 게임 경험을 향상시킵니다. 동의하십니까?</string>
     <string name="HIPS_Perm_deamon_notification">영구적인 알림</string>
     <string name="HIPS_Perm_deamon_notification_Desc">영구적인 알림 표시</string>
+    <string name="background_location_access_reminder_notification_title">%s님이 귀하의 현재 위치를 사용하고 있습니다.</string>
+    <string name="background_location_access_reminder_notification_content">이 앱은 항상 내 위치에 액세스 할 수 있습니다. 탭하여 변경하십시오.</string>
+    <string name="permgrouprequest_storage_isolated">
+&lt;b&gt;%1$s&lt;/b&gt; to 사진과 동영상 접근을 허용할까요?</string>
+    <string name="permission_description_summary_activity_recognition">이 권한이 있는 앱은 걷기, 자전거타기, 운전 등 신체 활동 기록에 접근할 수 있습니다</string>
+    <string name="permission_description_summary_calendar"> 권한이 있는 앱은 캘린더에 접근할 수 있습니다</string>
+    <string name="permission_description_summary_call_log">권한이 있는 앱은 통화기록을 읽고 쓸 수 있습니다</string>
+    <string name="permission_description_summary_camera">이 권한이 있는 앱은 사진 촬영과 동영상 촬영을 할 수 있습니다</string>
+    <string name="permission_description_summary_contacts">이 권한이 있는 앱은 주소록에 접근할 수 있습니다</string>
+    <string name="permission_description_summary_location">"이 권한이 있는 앱은 이 기기의 위치정보에 접근할 수 있습니다"</string>
+    <string name="permission_description_summary_microphone">이 권한이 있는 앱은 오디오를 녹음할 수 있습니다</string>
+    <string name="permission_description_summary_phone">이 권한이 있는 앱은 통화를 걸거나 관리할 수 있습니다</string>
+    <string name="permission_description_summary_sensors">이 권한이 있는 앱은 생체 신호에 대한 센서 데이터에 접근할 수 있습니다</string>
+    <string name="permission_description_summary_sms">이 권한이 있는 앱은 SMS 메시지를 보내거나 볼 수 있습니다</string>
+    <string name="permission_description_summary_storage">이 권한이 있는 앱은 사진, 미디어, 파일에 접근할 수 있습니다</string>
+    <string name="permission_description_summary_generic">이 권한이 있는 앱은 %1$s에 접근할 수 있습니다</string>
+    <string name="permission_reminders">권한 알림</string>
+    <string name="grant_dialog_button_deny_and_dont_ask_again">"거부 & 다시보지않음"</string>
+    <string name="grant_dialog_button_deny_background">사용 중 접근 유지</string>
+    <string name="grant_dialog_button_deny_background_and_dont_ask_again">"다시 묻지 않음"</string>
+    <string name="grant_dialog_button_allow_always">항상 허용</string>
+    <string name="grant_dialog_button_allow_foreground">앱 사용중에만 허용</string>
+    <string name="grant_dialog_button_allow_background">항상 허용</string>
 </resources>
