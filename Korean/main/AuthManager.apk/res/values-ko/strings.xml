@@ -123,7 +123,7 @@
     <string name="permission_description_summary_storage">이 권한이 있는 앱은 사진, 미디어, 파일에 접근할 수 있습니다</string>
     <string name="permission_description_summary_generic">이 권한이 있는 앱은 %1$s에 접근할 수 있습니다</string>
     <string name="permission_reminders">권한 알림</string>
-    <string name="grant_dialog_button_deny_and_dont_ask_again">"거부 & 다시보지않음"</string>
+    <string name="grant_dialog_button_deny_and_dont_ask_again">"거부&amp;다시보지않음"</string>
     <string name="grant_dialog_button_deny_background">사용 중 접근 유지</string>
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">"다시 묻지 않음"</string>
     <string name="grant_dialog_button_allow_always">항상 허용</string>
