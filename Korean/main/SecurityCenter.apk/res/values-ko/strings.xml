@@ -114,7 +114,7 @@
     <string name="sms_filter">스마트 필터</string>
     <string name="sms_keywords">키워드 차단 목록</string>
     <string name="sms_service">서비스 SMS 차단</string>
-    <string name="sms_stranger_block">수상한 사람으로부터 온 SMS 차단</string>
+    <string name="sms_stranger_block">차단됨</string>
     <string name="sms_contact_block">연락처에서 SMS 차단</string>
     <string name="sms_malicious_url">악성 URL을 포함한 SMS 차단</string>
     <string name="sms_cloud_block">클라우드 차단 목록</string>
@@ -2901,5 +2901,8 @@ SMS 전송"</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s시간 %2$s분 남음</string>
     <string name="pc_main_power_manager_day_hour">%1$s일 %2$s시간 후 완전 충전됨</string>
     <string name="pc_main_power_manager_hour_minute">%1$s시간 %2$s분 후 완전 충전됨</string>
+    <string name="power_ambient_display">AOD 디스플레이</string>
+    <string name="battery_desc_ambient_display">AOD 디스플레이 전력 소비량</string>
+    <string name="st_antispam_title_mms">MMS</string>
     <string name="function_shield_voice_trigger">"음성으로 Mi AI 호출 금지"</string>
 </resources>
