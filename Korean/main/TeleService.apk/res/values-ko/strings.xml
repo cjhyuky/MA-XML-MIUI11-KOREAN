@@ -2521,5 +2521,5 @@
     <string name="fiveg_upperlayer_indication1">"상위 레이어 표시 상태[슬롯1] : "</string>
     <string name="fiveg_upperlayer_indication2">"상위 레이어 표시 상태[슬롯2] : "</string>
     <string name="china_mobile_palm_category">통신사 서비스</string>
-    <string name="china_mobile_palm_title">차이나모바일 온라인 서비스</string> -
+    <string name="china_mobile_palm_title">차이나모바일 온라인 서비스</string>
 </resources>
