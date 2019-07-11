@@ -3092,7 +3092,7 @@
   <string name="legal_workday_message">(휴일 건너뛰기)</string>
   <string name="license_title">라이선스</string>
   <string name="lift_to_wake_title">기기를 들어 대기 모드 해제</string>
-  <string name="lights_title">깜빡이는 빛</string>
+  <string name="lights_title">알림표시등</string>
   <string name="line_breaking_summary">단락 줄 바꿈 최적화</string>
   <string name="line_breaking_title">텍스트 최적화</string>
   <string name="link_speed_label">속도:</string>
@@ -4148,7 +4148,7 @@
   <string name="notification_settings">소리 및 알림</string>
   <string name="notification_settings_apps_title">앱 알림</string>
   <string name="notification_shade_shortcut_title">알림창 바로가기</string>
-  <string name="notification_show_lights_title">라이트 깜빡이기</string>
+  <string name="notification_show_lights_title">알림표시등 깜빡이기</string>
   <string name="notification_sound_default">기본 알림 소리</string>
   <string name="notification_sound_dialog_title">기본 알림 소리</string>
   <string name="notification_sound_title">기본 알림음</string>
