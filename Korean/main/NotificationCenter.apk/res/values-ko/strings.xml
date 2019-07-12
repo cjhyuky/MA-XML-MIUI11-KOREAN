@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?>
+  
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="expand_top_notification">상단 알림 확장</string>
+  <string name="app_name">알림</string>
+  <string name="default_list_type">설치된 순서로 정렬</string>
+  <string name="disable_float_notification">"플로팅 알림 허용되지 않음"</string>
+  <string name="disable_lockscreen_notification">"잠금화면 알림 허용되지 않음"</string>
+  <string name="disable_show_badge_notification">"알림 뱃지 허용되지 않음"</string>
+  <string name="enable_float_notification">플로팅 알림 허용됨</string>
+  <string name="enable_lockscreen_notification">잠금화면 알림 허용됨</string>
+  <string name="enable_show_badge_notification">알림 뱃지 허용됨</string>
+  <string name="expand_top_notification">상단 알림 확장</string>
+  <string name="expandable_under_keyguard">잠금화면에서 알림창 열기</string>
+  <string name="float_notifications">플로팅 알림</string>
+  <string name="hint_search_all">앱 검색</string>
+  <string name="hint_search_in_disabled_apps">"알림 표시 차단된 앱 검색"</string>
+  <string name="hint_search_in_enabled_apps">알림 표시 허용된 앱 검색</string>
+  <string name="list_title_disable_notification">"알림 허용되지 않음"</string>
+  <string name="loading">잠시만 기다려주세요…</string>
+  <string name="lock_screen_display_rules">알림 표시 방법</string></string>
+  <string name="lock_screen_tip_toast">\"앱 알림\"에서 먼저 알림을 허용하세요</string>
+  <string name="lockscreen_notifications">잠금화면 알림</string>
+  <string name="not_sent_recently">최근에 알림 없음</string>
+  <string name="notch_and_status_bar_setting">노치 &amp; 상태 바</string>
+  <string name="notification_display_setting">알림  창</string>
+  <string name="notification_display_style">알림 스타일</string>
+  <string name="notification_fold_summary">모든 중요하지 않은 알림은 하나의 폴더로 표시됩니다</string>
+  <string name="notification_fold_title">알림 폴더</string>
+  <string name="notification_manager">앱 알림</string>
+  <string name="notification_style_android">안드로이드 스타일</string>
+  <string name="notification_style_miui">MIUI 스타일</string>
+  <string name="off">꺼짐</string>
+  <string name="on">켜짐</string>
+  <string name="settings_guide_title">다른 설정이 필요하신가요?</string>
+  <string name="show_badge_notifications">알리 뱃지</string>
+  <string name="status_bar_setting">상태 바</string>
+  <string name="summary_disable_float_notification">"플로팅 알림 허용되지 않음"</string>
+  <string name="summary_disable_lockscreen_notification">"잠금화면 알림 허용되지 않음"</string>
+  <string name="summary_disable_show_badge_notification">"알림 뱃지 허용되지 않음"</string>
+  <string name="summary_enable_float_notification">플로팅 알림 허용됨</string>
+  <string name="summary_enable_lockscreen_notification">잠금화면 알림 허용됨</string>
+  <string name="summary_enable_show_badge_notification">알림 뱃지 허용됨</string>
+  <string name="summary_float_enable_notification_first">플로팅 알림을 켜려면 먼저 알림을 허용하세요</string>
+  <string name="summary_lock_screen_enable_notification_first">잠금화면 알림을 켜려면 먼저 알림을 허용하세요</string>
+  <string name="summary_show_badge_enable_notification_first">알림 뱃지를 켜려면 먼저 알림을 허용하세요</string>
 </resources>
