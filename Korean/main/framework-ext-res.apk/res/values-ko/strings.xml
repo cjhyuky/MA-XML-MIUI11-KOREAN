@@ -218,4 +218,9 @@
     <string name="autofill_save_title">비밀번호 자동 저장</string> 
     <string name="autofill_save_message">MIUI가 ID와 비밀번호를 저장할 수 있도록 허용하시겠습니까?</string>
     <string name="autofill_save_sub_message">"설정 > 추가 설정 > 개인 정보 보호 > 비밀번호 관리에서 저장된 비밀번호를 관리하십시오."</string>
+    <string name="content_description_search">검색</string>
+    <string name="content_description_dial">통화</string>
+    <string name="content_description_web_url">브라우저</string>
+    <string name="content_description_translate">번역</string>
+    <string name="content_description_share">공유</string>
 </resources>
