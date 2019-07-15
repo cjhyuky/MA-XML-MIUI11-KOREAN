@@ -47,5 +47,8 @@
    </plurals>
    <plurals name="minute">
       <item quantity="other">%d분</item>
-   </plurals> 
+   </plurals>
+   <plurals name="snooze_duration_changed_info">
+      <item quantity="other">스누즈 간격이 %d분으로 조정됨</item>
+   </plurals>
 </resources>
