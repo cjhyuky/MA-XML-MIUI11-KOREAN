@@ -479,7 +479,7 @@
   <string name="submit_dialog_cancel">취소</string>
   <string name="submit_dialog_confirm">전송</string>
   <string name="submit_dialog_content">&lt;Data&gt;\"사용자의 피드백은 첨부 파일 및 로그와 함께 MIUI의 서버로 전송됩니다. 개인 정보와 위치 데이터가 포함될 수 있습니다. \"동의\" 하는것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인 정보 보호 정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;사용자 동의&amp;lt;/a&amp;gt;를 읽고 동의하는것을 의미합니다.\"&lt;/Data&gt;</string>
-  <string name="submit_dialog_content_global">&lt;Data&gt;\"사용자의 피드백과 첨부 파일(있는 경우) 및 로그는 MIUI의 서버와 개발자를 위한 MIUI 포럼의 제한된 섹션으로 전송됩니다. 분석 및 추가 커뮤니케이션을 위해 스레드 및 포럼 활동에 대한 정보도 수집됩니다. 로그에는 개인 정보와 위치 데이터가 포함될 수 있습니다.\"동의\" 하는것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인 정보 보호 정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;사용자 동의&amp;lt;/a&amp;gt;를 읽고 동의하는것을 의미합니다.\"&lt;/Data&gt;</string>
+  <string name="submit_dialog_content_global">&lt;Data&gt;"첨부 파일(있는 경우) 및 로그(업로드하지 않으려는 항목의 해당 상자를 선택 취소할 수 있음)와 함께 사용자 의견은 MIUI의 서버로 전송됩니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다. \"동의\"를 선택하시면 샤오미의 &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">개인정보 보호정책&lt;/a> 과 &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">사용자 정책&lt;/a>에 동의하신걸로 간주됩니다."&lt;/Data&gt;</string>
   <string name="submit_dialog_title">보고서 전송</string>
   <string name="submit_feedback_info_failed">보고서를 전송하지 못했습니다.</string>
   <string name="suggestion_description">여기에 설명 추가</string>
