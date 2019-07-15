@@ -1358,4 +1358,6 @@
     <string name="confirm_call_log_dial_summary">실수로 전화를 걸지 않도록 통화 기록에서 전화를 걸기 전에 확인을 요청합니다.</string>
     <string name="confirm_call_log_dial_title">통화기록에서 바로 통화연결여부 확인</string>
     <string name="contact_is_deleted">연락처가 삭제되었습니다</string>
+    <string name="shortcut_new_contact_label">새로운 연락처</string>
+    <string name="shortcut_scan_label">명함 스캔</string>
 </resources>
