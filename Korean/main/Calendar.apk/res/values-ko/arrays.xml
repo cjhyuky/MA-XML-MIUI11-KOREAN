@@ -401,4 +401,9 @@
         <item>이번에만</item>
         <item>반복된 알림 설정</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>끄기</item>
+        <item>모든 이벤트</item>
+        <item>시간 설정된 이벤트</item>
+    </string-array>
 </resources>
