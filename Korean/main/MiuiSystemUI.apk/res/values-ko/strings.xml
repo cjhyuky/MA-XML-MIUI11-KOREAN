@@ -1875,4 +1875,5 @@
   <string name="lock_screen_magazine_label">슬라이드형 배경화면 열기</string>
   <string name="long_screenshot_guide_text">"탭하여 스크롤
 스크린샷을 촬영해보세요"</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"배터리 세이버가 켜져 있으면 공간 전환을 할 수 없습니다"</string>
 </resources>
