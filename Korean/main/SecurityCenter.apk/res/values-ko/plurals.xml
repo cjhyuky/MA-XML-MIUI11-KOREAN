@@ -338,10 +338,4 @@
     <plurals name="pc_main_power_manager_minute">
         <item quantity="other">%s 분 후 완전 충전됨</item>
     </plurals>
-    <plurals name="people">
-        <item quantity="other">%1$d명이 다운로드 함</item>
-    </plurals>
-    <plurals name="people_million">
-        <item quantity="other">%1$d명이 다운로드 함</item>
-    </plurals>
 </resources>
