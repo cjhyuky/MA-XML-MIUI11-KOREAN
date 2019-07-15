@@ -17,11 +17,11 @@
   <string name="list_title_disable_notification">"알림 허용되지 않음"</string>
   <string name="loading">잠시만 기다려주세요…</string>
   <string name="lock_screen_display_rules">알림 표시 방법</string>
-  <string name="lock_screen_tip_toast">\"앱 알림\"에서 먼저 알림을 허용하세요</string>
+  <string name="lock_screen_tip_toast">\"알림 표시 방법\"에서 잠금화면 알림 허용하기</string>
   <string name="lockscreen_notifications">잠금화면 알림</string>
   <string name="not_sent_recently">최근에 알림 없음</string>
   <string name="notch_and_status_bar_setting">노치 &amp; 상태 바</string>
-  <string name="notification_display_setting">알림  창</string>
+  <string name="notification_display_setting">알림창</string>
   <string name="notification_display_style">알림 스타일</string>
   <string name="notification_fold_summary">모든 중요하지 않은 알림은 하나의 폴더로 표시됩니다</string>
   <string name="notification_fold_title">알림 폴더</string>
