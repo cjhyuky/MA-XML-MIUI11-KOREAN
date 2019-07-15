@@ -737,4 +737,9 @@
     <string name="guide_card_primary_fb_text">"페이스북 친구들 생일"</string>
     <string name="guide_card_second_fb_text">"친구들 생일을 놓치지 마세요"</string>
     <string name="setting_fb_birthdays_title">페이스북에서 생일 정보 가져오기</string>
+    <string name="preferences_popup_alert_smart_summary_new">시간 설정된 이벤트는 정확한 시간을 가진 이벤트입니다</string>
+    <string name="setting_desc_import_todo">메모장에서 예약된 일정 가져오기</string>
+    <string name="setting_title_import_todo">일정 가져오기</string>
+    <string name="todo_audio_event">"[음성입력 일정] "</string>
+    <string name="todo_event">다가오는 일정</string>
 </resources>
