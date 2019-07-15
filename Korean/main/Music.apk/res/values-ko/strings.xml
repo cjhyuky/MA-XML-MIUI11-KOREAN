@@ -352,7 +352,7 @@
   <string name="headset_and_audio_effect_title">헤드폰 &amp; 오디오 효과</string>
   <string name="hide_album">앨범 숨기기</string>
   <string name="hide_lyric">가사 숨기기</string>
-  <string name="higher_quality_music">고음질 오디오</string>
+  <string name="higher_quality_music">Mi Music 구독하기</string>
   <string name="higher_quality_music_summary">더 높은 비트 전송률 파일을 스트리밍하고 다운로드</string>
   <string name="home_tab_local">내 음악</string>
   <string name="home_tab_online">발견</string>
@@ -747,4 +747,5 @@
   <string name="xiaomi_update_sdk_dialog_message_diff">버전 소개 %1$s\n델타 업데이트 크기 : %2$s</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s 업데이트!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">저장 공간을 사용할 수 없으면 SD 카드를 확인하십시오.</string>
+  <string name="impunity_declaration_content_live">이 제품을 사용하기 전에 %1$s과 %2$s를 읽고 동의하셔야 합니다.</string>
 </resources>
