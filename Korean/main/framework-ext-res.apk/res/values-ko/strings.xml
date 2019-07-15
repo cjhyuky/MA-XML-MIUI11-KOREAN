@@ -223,4 +223,6 @@
     <string name="content_description_web_url">브라우저</string>
     <string name="content_description_translate">번역</string>
     <string name="content_description_share">공유</string>
+    <string name="user_switching_dialog_switch_into_kid_space">키즈 공간으로 전환 중…</string>
+    <string name="user_switching_dialog_switch_out_kid_space">키즈 공간 나가는 중…</string>
 </resources>
