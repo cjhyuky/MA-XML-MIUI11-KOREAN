@@ -1178,4 +1178,5 @@
     <string name="pref_watermark_off">꺼짐</string>
     <string name="pref_camera_lying_title">가로 세로 방향 표시</string>
     <string name="pref_camera_lying_summary">휴대폰이 지면과 평행할 때, 카메라 방향이 화면에 실시간으로 표시됩니다</string>
+    <string name="mimoji_app_name">Mi모지</string>
 </resources>
