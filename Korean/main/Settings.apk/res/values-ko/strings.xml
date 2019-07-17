@@ -8303,4 +8303,5 @@
 
 이 기능은 90초 안에 충전이 시작되지 않으면 자동으로 꺼집니다."</string>
     <string name="privacy_password_settings_summary">개인정보 보호 암호는 중요한 정보가 포함되어 있을 수 있는 앱에 사용됩니다.</string>
+    <string name="kid_space_settings">키즈 스페이스</string>
 </resources>
