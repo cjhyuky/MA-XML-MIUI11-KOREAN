@@ -2932,4 +2932,5 @@ SMS 전송"</string>
     <string name="superpower_progress_turndown_brightness">화면 밝기 줄이기</string>
     <string name="superpower_progress_switch_home">어두운 테마로 전환하기</string>
     <string name="superpower_progress_left_time">%1$d시간 %2$d분</string>
+    <string name="call_delete_all_hint">차단된 통화 목록을 전부 삭제하시겠습니까?</string>
 </resources>
