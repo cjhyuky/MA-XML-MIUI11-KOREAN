@@ -31,7 +31,7 @@
   <string name="off">꺼짐</string>
   <string name="on">켜짐</string>
   <string name="settings_guide_title">다른 설정이 필요하신가요?</string>
-  <string name="show_badge_notifications">알리 뱃지</string>
+  <string name="show_badge_notifications">알림 뱃지</string>
   <string name="status_bar_setting">상태 바</string>
   <string name="summary_disable_float_notification">"플로팅 알림 허용되지 않음"</string>
   <string name="summary_disable_lockscreen_notification">"잠금화면 알림 허용되지 않음"</string>
