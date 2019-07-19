@@ -381,4 +381,7 @@
     <string name="all_apps_setting_drawer_title">클래식 모드</string>
     <string name="all_apps_setting_title">데스크톱 모드</string>
     <string name="system_shortcuts_more_operation">앱 정보</string>
+    <string name="shake_to_align_icons">빈 셀을 아이콘으로 채우려면 장치를 흔드세요.</string>
+    <string name="shake_to_align_icons_title">흔들어서 빈 셀 채우기</string>
+    <string name="shake_to_align_icons_summary">편집 모드에서 장치를 흔들어서 비어있는 공간을 채웁니다.</string>
 </resources>
