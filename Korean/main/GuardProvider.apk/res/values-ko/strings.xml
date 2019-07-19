@@ -12,21 +12,21 @@
     <string name="DesAVL">AVL</string>
     <string name="DesMi">Mi</string>
     <string name="DesAvast">Avast</string>
-    <string name="tencent_dialog_title">Tencent의 개인 정보 보호 정책</string>
+    <string name="tencent_dialog_title">Tencent의 개인정보 보호정책</string>
     <string name="tencent_dialog_header">이 기능은 귀하의 기기 ID를 암호화 하여 Tencent 서버(%s) 에 업로드합니다.</string>
-    <string name="tencent_dialog_policy">개인 정보 보호 정책 보기</string>
-    <string name="tencent_dialog_cloudscan">온라인 바이러스 정의를 사용하여 앱 이름과 상세 정보를 스캔하고 업로드합니다.</string>
+    <string name="tencent_dialog_policy">개인정보 보호정책</string>
+    <string name="tencent_dialog_cloudscan">온라인 바이러스 정의를 사용하여 앱 이름과 상세정보를 스캔하고 업로드합니다.</string>
     <string name="tencent_dialog_dbupdate">자동으로 바이러스 정의 업데이트</string>
     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
-    <string name="avl_dialog_title">AVL의 개인 정보 보호 정책</string>
+    <string name="avl_dialog_title">AVL의 개인정보 보호정책</string>
     <string name="avl_dialog_header">이 기능은 귀하의 기기 ID를 암호화 하여 AVL 서버(%s) 에 업로드합니다.</string>
-    <string name="avl_dialog_policy">개인 정보 보호 정책 보기</string>
+    <string name="avl_dialog_policy">개인정보 보호정책</string>
     <string name="avl_dialog_cloudscan" />
     <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
-    <string name="avast_dialog_title">Avast의 개인 정보 보호 정책</string>
+    <string name="avast_dialog_title">Avast의 개인정보 보호정책</string>
     <string name="avast_dialog_header">이 기능은 귀하의 기기 ID를 암호화하고 Avast의 서버(%s)에 업로드합니다.</string>
-    <string name="avast_dialog_policy">개인 정보 보호 정책 보기</string>
+    <string name="avast_dialog_policy">개인정보 보호정책</string>
     <string name="avast_dialog_cloudscan" />
     <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
