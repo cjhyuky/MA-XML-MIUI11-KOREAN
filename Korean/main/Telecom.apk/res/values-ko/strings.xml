@@ -674,4 +674,5 @@
     <string name="zen_mode_enable_dialog_turn_on">켜기</string>
     <string name="zen_mode_settings_summary_off">하지 않음</string>
     <string name="zen_mode_settings_turn_on_dialog_title">방해 금지 모드 켜기</string>
+    <string name="missedcall_notification_public_version_title">전화</string>
 </resources>
