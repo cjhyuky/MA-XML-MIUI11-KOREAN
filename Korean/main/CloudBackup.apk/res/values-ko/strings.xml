@@ -239,4 +239,5 @@
     <string name="backup_failed_reason_cloud_space_not_enough">미 클라우드에 저장공간이 충분하지 않습니다. 요금제를 업그레이드하거나 저장공간을 확보하십시오.</string>
     <string name="restore_failed_reason_network_error">네트워크 오류. 잠시후 다시 시도하세요.</string>
     <string name="restore_failed_reason_disk_space_not_enough">저장 공간이 충분하지 않습니다. 먼저 저장소를 비우십시오.</string>
+    <string name="restoring_data">데이터 복원중…</string>
 </resources>
