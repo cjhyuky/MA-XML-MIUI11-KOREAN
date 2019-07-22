@@ -3,7 +3,7 @@
     <string name="video_editor_cancel">취소</string>
     <string name="video_editor_done">완료</string>
     <string name="video_editor_filter">필터</string>
-    <string name="video_editor_trim">트림</string>
+    <string name="video_editor_trim">자르기</string>
     <string name="video_editor_text">텍스트</string>
     <string name="video_editor_audio">오디오</string>
     <string name="video_editor_more">고급</string>
@@ -264,15 +264,15 @@
     <string name="album_pano_name">파노라마</string>
     <string name="album_faces_name">얼굴</string>
     <string name="album_camera_name">카메라</string>
-    <string name="album_screenshot_name">스크린 샷</string>
+    <string name="album_screenshot_name">스크린샷</string>
     <string name="menu_album_new_album">새로운 앨범</string>
     <string name="album_page_empty">비어있음</string>
     <string name="album_type_share">공유된 앨범</string>
     <string name="album_type_baby">아기 앨범</string>
     <string name="album_type_system">시스템 앨범</string>
     <string name="album_owner_share">공유됨</string>
-    <string name="album_others_share_info_format">%s으로부터</string>
-    <string name="album_others_share_baby_info_format">%s에서의 아기 앨범</string>
+    <string name="album_others_share_info_format">%s 폴더</string>
+    <string name="album_others_share_baby_info_format">%s 아기 앨범</string>
     <string name="album_already_forced_top">이미 가장 윗부분입니다.</string>
     <string name="album_show_local_only">로컬 앨범에만 표시</string>
     <string name="album_show_local_only_summary">활성화 후 오직 귀하의 기기에서만 사진을 확인, 삭제하게 됩니다.</string>
@@ -307,8 +307,7 @@
     <string name="operation_rename">이름 변경</string>
     <string name="operation_save">저장</string>
     <string name="operation_add_album">앨범에 추가</string>
-    <string name="operation_add_secret">숨기기</string>
-    
+    <string name="operation_add_secret">숨기기</string>   
     <string name="operation_remove_secret">숨기기 취소</string>
     <string name="operation_set_wallpaper">배경화면으로 설정</string>
     <string name="operation_set_contact_photo">연락처 사진으로 설정</string>
@@ -749,7 +748,7 @@
     <string name="album_name_people">사람들</string>
     <string name="album_name_locations">위치</string>
     <string name="album_name_tags">태그</string>
-    <string name="album_from_format">%s에서</string>
+    <string name="album_from_format">%s 폴더</string>
     <string name="search_hint">이미지 검색</string>
     <string name="empty_query_text_msg">무엇을 검색해야될지 모르겠네요…</string>
     <string name="search_backup_title">Mi 클라우드와 동기화</string>
