@@ -8311,4 +8311,18 @@
     <string name="screen_dark_mode_smart_dark_title">글로벌 다크 모드</string>
     <string name="screen_dark_mode_smart_dark_summary">써드파티 앱에도 다크 모드를 적용합니다. 몇몇 앱은 제대로 보이지 않을 수 있습니다.</string>
     <string name="screen_dark_mode_select_time_error_summary">"시작 시간과 끝 시간을 다르게 설정해주세요"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency">블루투스 오디오 LHDC 코덱: 지연</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"블루투스 오디오 LHDC 코덱 선택:
+지연"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">블루투스 오디오 LHDC 코덱: 빠름</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"블루투스 오디오 LHDC 코덱 선택:
+빠름"</string>
+    <string name="bt_lhdc_declaration">Bluetooth 장치가 LHDC를 지원하면 자동으로 연결됩니다. LHDC는 고품질 오디오 경험을 제공하지만 전력 소비가 많습니다. 블루투스 장치 하드웨어 문제로 인해 재생 중 장애가 발생할 수 있습니다.</string>
+    <string name="bt_lhdc_dialog_summary">"LHDC는 고품질 오디오 경험을 제공하고 더 높은 전력을 소모합니다.
+이 기능은 [설정]에서 끌 수 있습니다."</string>
+    <string name="bt_lhdc_dialog_title">현재 장치는 LHDC를 지원합니다:</string>
+    <string name="bt_lhdc_open_dialog_summary">LHDC는 고품질의 오디오 경험을 제공하지만 전력 소비도 증가시킵니다. 블루투스 하드웨어 제한으로 인해 재생 중에 문제가 발생할 수 있습니다.</string>
+    <string name="bt_lhdc_open_dialog_title">LHDC를 켜겠습니까?</string>
+    <string name="bt_lhdc_pre_title">LHDC</string>
+    <string name="bt_lhdc_property">속성</string>
 </resources>

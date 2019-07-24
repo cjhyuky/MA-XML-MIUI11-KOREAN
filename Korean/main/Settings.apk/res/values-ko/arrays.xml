@@ -156,7 +156,8 @@
     <item>Qualcomm® aptX ™ 오디오</item>
     <item>Qualcomm® aptX ™ HD 오디오</item>
     <item>LDAC</item>
-    <item>Qualcomm® aptX ™ 적응 형 오디오</item>
+    <item>Qualcomm® aptX ™ 적응형 오디오</item>
+    <item>LDHC</item>
     <item>선택 코덱 활성화</item>
     <item>선택 코덱 비활성화</item>
   </string-array>
@@ -167,7 +168,8 @@
     <item>Qualcomm® aptX ™ 오디오</item>
     <item>Qualcomm® aptX ™ HD 오디오</item>
     <item>LDAC</item>
-    <item>Qualcomm® aptX ™ 적응 형 오디오</item>
+    <item>Qualcomm® aptX ™ 적응형 오디오</item>
+    <item>LDHC</item>
     <item>선택 코덱 활성화</item>
     <item>선택 코덱 비활성화</item>
   </string-array>
@@ -182,6 +184,28 @@
     <item>5분</item>
     <item>1시간</item>
     <item>제한 시간 없음</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+    <item>짧은 지연</item>
+    <item>보통 지연</item>
+    <item>긴 지연</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+    <item>짧은 지연 (50~100ms)</item>
+    <item>보통 지연 (150~200ms)</item>
+    <item>긴 지연 (300~500ms)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+    <item>연결 우선</item>
+    <item>밸런스 우선</item>
+    <item>음질 우선</item>
+    <item>최적화 (비트레이트 자동 변경)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+    <item>연결 우선 (400kbps)</item>
+    <item>밸런스 우선 (500/560kbps)</item>
+    <item>음질 우선 (900kbps)</item>
+    <item>최적화 (비트레이트 자동 변경)</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
     <item>1초</item>
