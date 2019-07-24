@@ -4,7 +4,6 @@
     <string name="delete_folders">%1$d개 폴더를 삭제하시겠습니까?</string>
     <string name="delete_file">이 파일을 삭제하시겠습니까?</string>
     <string name="delete_files">%1$d개 파일을 삭제하시겠습니까?</string>
-    <string name="app_name">@string/home_title</string>
     <string name="confirm">확인</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_cleanup">청소</string>
