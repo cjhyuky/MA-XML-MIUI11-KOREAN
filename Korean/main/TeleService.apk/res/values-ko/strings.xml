@@ -2522,4 +2522,17 @@
     <string name="fiveg_upperlayer_indication2">"상위 레이어 표시 상태[슬롯2] : "</string>
     <string name="china_mobile_palm_category">통신사 서비스</string>
     <string name="china_mobile_palm_title">차이나모바일 온라인 서비스</string>
+    <string name="clear_all_set_button">설정 초기화</string>
+    <string name="clear_all_set_title">이 버튼은 모든 설정을 지웁니다</string>
+    <string name="eps_only_set_button">eps만 설정</string>
+    <string name="eps_only_set_title">이 버튼은 eps 설정을 위한 것입니다</string>
+    <string name="frequecy_num">lte 채널 넘버</string>
+    <string name="lte_band_sel_setting">밴드 리스트</string>
+    <string name="lte_band_set_status">lte 밴드 설정</string>
+    <string name="lte_freq_set_button">주파수 및 pci 설정</string>
+    <string name="modem_set_title">모뎀 설정</string>
+    <string name="modem_setting_button_title">설정 메뉴 들어가기</string>
+    <string name="modem_setting_info">모뎀 설정 정보</string>
+    <string name="modem_setting_text_title">모뎀 테스트 속성 설정</string>
+    <string name="pci_num">lte pci 넘버</string>
 </resources>
