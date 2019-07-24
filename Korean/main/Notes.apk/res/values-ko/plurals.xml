@@ -30,4 +30,36 @@
     <plurals name="toast_notes_unhidden_count">
         <item quantity="other">%1$s개의 메모를 숨김 해제했습니다.</item>
     </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d일 후</item>
+        <item quantity="one">%1$d일 후</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d일 전</item>
+        <item quantity="one">%1$d일 전</item>
+    </plurals>
+	 <plurals name="todo_N_days_after">
+        <item quantity="other">%1$d일간</item>
+        <item quantity="one">%1$d일간</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d일 전</item>
+        <item quantity="one">%1$d일 전</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">%1$s 작업을 삭제할까요?</item>
+        <item quantity="one">%1$s 작업을 삭제할까요?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d일 전</item>
+        <item quantity="one">%1$d일 전</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">%1$d일간</item>
+        <item quantity="one">%1$d일간</item>
+    </plurals>
+	 <plurals name="todo_terms">
+        <item quantity="other">%1$s개 메모</item>
+        <item quantity="one">%1$s개 메모</item>
+    </plurals>
 </resources>
