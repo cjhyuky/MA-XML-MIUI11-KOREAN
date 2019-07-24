@@ -207,4 +207,26 @@
         <item>" | 켜짐 (미디어)"</item>
         <item>" | 켜짐 (통화)"</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>시스템 선택 사용(기본값)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>퀄컴® aptX™ 오디오</item>
+        <item>퀄컴® aptX™ HD 오디오</item>
+        <item>LDAC</item>
+        <item>퀄컴® aptX™ 적응형 오디오</item>
+        <item>부가적인 코덱 활성화</item>
+        <item>부가적인 코덱 비활성화</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>시스템 선택 사용(기본값)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>퀄컴® aptX™ 오디오</item>
+        <item>퀄컴® aptX™ HD 오디오</item>
+        <item>LDAC</item>
+        <item>퀄컴® aptX™ 적응형 오디오</item>
+        <item>부가적인 코덱 활성화</item>
+        <item>부가적인 코덱 비활성화</item>
+    </string-array>
 </resources>
