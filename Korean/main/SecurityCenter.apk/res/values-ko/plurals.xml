@@ -267,10 +267,12 @@
         <item quantity="other">항목</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d개 앱 숨겨짐</item>
+        <item quantity="other">"앱 %d개의 아이콘이 숨겨져있지 않습니다"</item>
+        <item quantity="one">"앱 %d개의 아이콘이 숨겨져있지 않습니다"</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">%d개 앱 숨길수 있음</item>
+        <item quantity="other">앱 %d개에 대한 숨겨진 홈 아이콘</item>
+        <item quantity="one">앱 %d개에 대한 숨겨진 홈 아이콘</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">공장 초기화(%ds)</item>

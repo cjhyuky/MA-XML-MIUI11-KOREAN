@@ -90,4 +90,8 @@
   <plurals name="vip_remain_days_hint">
     <item quantity="other">%d일 남음</item>
   </plurals>
+  <plurals name="dialog_remove_favorite_song_descript">
+    <item quantity="other">즐겨찾기에서 %d곡이 삭제됩니다</item>
+    <item quantity="one">즐겨찾기에서 %d곡이 삭제됩니다</item>
+  </plurals>
 </resources>
