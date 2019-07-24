@@ -102,4 +102,9 @@
     <plurals name="total_user_num">
         <item quantity="other">%1$s 명</item>
     </plurals>
+    <plurals name="text_group_count">
+        <item quantity="other">%d개 항목</item>
+        <item quantity="zero">%1$d개 항목</item>
+        <item quantity="one">%d개 항목</item>
+    </plurals>
 </resources>
