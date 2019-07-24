@@ -828,8 +828,6 @@
     <string name="category_time">시간</string>
     <string name="create_folder">생성</string>
     <string name="home_title">파일</string>
-    <string name="otg_file_security_confirm">휴대전화 복사</string>
-    <string name="otg_file_security_details">휴대전화에 복사하세요</string>
     <string name="otg_file_security_note">OTG 보안</string> 
     <string name="privacy_policy">개인정보 보호정책</string>
     <string name="start_doc">파일</string>
