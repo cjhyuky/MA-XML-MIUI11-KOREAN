@@ -21,7 +21,7 @@
     <string name="operation_unfavorite">즐겨찾기 해제</string>
     <string name="operation_copy">복사</string>
     <string name="operation_paste">붙여넣기</string>
-    <string name="operation_move">잘라내기</string>
+    <string name="operation_move">이동</string>
     <string name="operation_send">전송</string>
     <string name="operation_rename">이름 변경</string>
     <string name="operation_delete">삭제</string>
