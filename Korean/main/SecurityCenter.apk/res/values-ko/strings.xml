@@ -1630,7 +1630,7 @@ SMS 전송"</string>
     <string name="ac_firstUseApplock_subTitle">시스템 보안 레벨을 강화하십시오.</string>
     <string name="notification_subtitle">탭하여 켜기</string>
     <string name="ac_enter_applock">앱 잠금 진입</string>
-    <string name="ac_summaryOn">켜짐. 앱을 열기 위해 비밀번호가 요구됩니다.</string>
+    <string name="ac_summaryOn">보호된 앱을 실행하려면 암호를 입력하세요</string>
     <string name="ac_summaryOff">꺼짐. 앱을 열기 위해 비밀번호가 요구되지 않습니다.</string>
     <string name="lockpattern_tutorial_cancel_label">취소</string>
     <string name="lockpattern_tutorial_continue_label">다음</string>
@@ -1639,8 +1639,8 @@ SMS 전송"</string>
     <string name="lockpattern_confirm_button_text">확인</string>
     <string name="modifypassword">비밀번호 변경</string>
     <string name="showpattern">패턴 보여주기</string>
-    <string name="notification_mask_title">컨텐츠 숨기기</string>
-    <string name="notification_mask_summary">드롭 다운 메뉴 및 잠금화면에 컨텐츠 알림 표시하지 않음</string>
+    <string name="notification_mask_title">알림 컨텐츠 숨기기</string>
+    <string name="notification_mask_summary">보호된 앱에 대한 알림 내용 표시 안함</string>
     <string name="convenient_mode">한 번에 모든 앱 잠금 해제</string>
     <string name="convenient_summary">모든 앱을 잠금 해제하려면 한 번만 비밀번호를 입력하십시오</string>
     <string name="suggest_app_tolock">제안</string>
@@ -2945,4 +2945,10 @@ SMS 전송"</string>
     <string name="system_permission_declare_user_agreement"><Data>이 기능을 사용하기 전에 &lt;a href=\"%1$s\">사용자 동의&lt;/a>를 먼저 읽고 동의해주세요.</Data></string>
     <string name="system_permission_declare_privacy_policy"><Data>이 기능을 사용하기 전에 &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 먼저 읽고 동의해주세요.</Data></string>
     <string name="system_permission_declare_disagree">동의하지 않음</string>
+    <string name="privacy_apps_shield_message_title">"알림 보지 않음"</string>
+    <string name="privacy_apps_shield_message_summary">"보호된 앱 알림 표시 안함"</string>
+    <string name="privacy_apps_begin_use">시작</string>
+    <string name="privacy_apps_next_stup">다음</string>
+    <string name="privacy_apps_button_know">확인</string>
+    <string name="privacy_apps_tutorial_dlg_title">숨겨진 앱을 찾는 방법</string>
 </resources>
