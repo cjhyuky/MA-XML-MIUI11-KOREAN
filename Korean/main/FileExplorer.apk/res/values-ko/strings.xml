@@ -4,7 +4,7 @@
     <string name="delete_folders">%1$d개 폴더를 삭제하시겠습니까?</string>
     <string name="delete_file">이 파일을 삭제하시겠습니까?</string>
     <string name="delete_files">%1$d개 파일을 삭제하시겠습니까?</string>
-    <string name="app_name">파일 탐색기</string>
+    <string name="app_name">@string/home_title</string>
     <string name="confirm">확인</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_cleanup">청소</string>
@@ -123,7 +123,7 @@
     <string name="decompress_input_password">비밀번호를 입력하십시오</string>
     <string name="decompress_password_error">입력하신 비밀번호가 올바르지 않습니다.,</string>
     <string name="decompress_encrypted_rar_not_supported">압호화된 Rar 파일은 지원되지 않습니다.</string>
-    <string name="move_failed">잘라낼 수 없습니다.</string>
+    <string name="move_failed">이동할 수 없습니다.</string>
     <string name="copy_failed">복사 실패</string>
     <string name="toast_file_not_can_read">이 동작을 처리할 앱을 발견하지 못했습니다.</string>
     <string name="exo_controls_fastforward_description">빨리감기</string>
