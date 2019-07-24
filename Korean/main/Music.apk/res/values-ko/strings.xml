@@ -748,4 +748,20 @@
   <string name="xiaomi_update_sdk_dialog_title">%1$s 업데이트!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">저장 공간을 사용할 수 없으면 SD 카드를 확인하십시오.</string>
   <string name="impunity_declaration_content_live">이 제품을 사용하기 전에 %1$s과 %2$s를 읽고 동의하셔야 합니다.</string>
+    <string name="add_to_favorite">즐겨찾기에 추가</string>
+    <string name="cp_other_error">"이 항목은 저작권 제한으로 인해 현재 사용할 수 없습니다"</string>
+    <string name="detail">자세히</string>
+    <string name="dialog_song_sort_type_add_time">오래된 순서대로</string>
+    <string name="dialog_song_sort_type_add_time_desc">추가된 순서대로</string>
+    <string name="dialog_song_sort_type_name_from_a2z">A-Z</string>
+    <string name="dialog_song_sort_type_name_from_z2a">Z-A</string>
+    <string name="live_stream_error">"이 항목은 저작권 제한으로 인해 현재 사용할 수 없습니다"</string>
+    <string name="network_no_available_and_check">"네트워크에 연결할 수 없습니다"</string>
+    <string name="spammy_contents">스팸</string>
+    <string name="talkback_change_skin">테마 변경</string>
+    <string name="thanks_for_feedback">피드백 주셔서 감사합니다!</string>
+    <string name="unable_to_play">"재생할 수 없습니다"</string>
+    <string name="view_all_news">전체 소식 보기</string>
+    <string name="widget_title">좋아하는 음악을 Mi Music에서 찾아보세요</string>
+    <string name="can_heard_not_download">"콘텐츠 제공 업체 요청으로 인해 다운로드가 불가능합니다"</string>
 </resources>
