@@ -238,6 +238,7 @@
     <string name="backup_success_confirm">보기</string>
     <string name="backup_checkbox_msg">자동 백업</string>
     <string name="connection_error">연결할 수 없음</string>
+    <string name="app_name">파일매니저</string>
     <string name="app_name_bluetooth">블루투스</string>
     <string name="app_name_screenshot">스크린 샷</string>
     <string name="app_name_downloadedrom">패키지</string>
