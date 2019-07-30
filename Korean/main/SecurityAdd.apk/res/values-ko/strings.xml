@@ -55,4 +55,19 @@
   <string name="title_share_link">URL 공유하기</string>
   <string name="usage_sorted_loading_text">잠깐만 기다려주세요…</string>
   <string name="xunyou_pay_webview">Xunyou 서비스</string>
+  <string name="app_select_title">자주 사용하는 앱 추가</string>
+  <string name="superpower_app_add">추가</string>
+  <string name="superpower_app_finish">완료</string>
+  <string name="superpower_battery_dangerous">가능한 빨리 충전기를 연결하세요</string>
+  <string name="superpower_date">M월 d일 EEEE</string>
+  <string name="superpower_dialog_app_select_content">써드파티 앱은 일반적으로 시스템 앱보다 더 많은 전력을 소비합니다.  어쨌든 추가 하시겠습니까?</string>
+  <string name="superpower_dialog_app_select_title">주의</string>
+  <string name="superpower_incharging">충전중</string>
+  <string name="superpower_progress_battery_last">%s 남음</string>
+  <string name="superpower_progress_left_time">%1$d시간 %2$d분</string>
+  <string name="superpower_search_hint">앱 검색</string>
+  <string name="superpower_select_app_title">홈 화면 레이아웃</string>
+  <string name="superpower_settings">울트라 배터리 세이버</string>
+  <string name="superpower_system">추천</string>
+  <string name="superpower_third">써드파티 앱</string>
 </resources>
