@@ -1162,8 +1162,8 @@
   <string name="oldman_incall_text">통화 중</string>
   <string name="open_camera_hint_text">카메라를 열려면 아이콘을 드래그하세요</string>
   <string name="open_extreme_power_save_mode_title">배터리 세이버 켜기</string>
-  <string name="open_lock_screen_magazine_hint_text">슬라이드형 배경화면을 열려면 아이콘을 드래그하세요</string>
-  <string name="open_remote_center_hint_text">컨트롤러를 보시려면 아이콘을 드래그하세요</string>
+  <string name="open_lock_screen_magazine_hint_text">더 많은 옵션을 보시려면 오른쪽으로 스와이프하세요</string>
+  <string name="open_remote_center_hint_text">바로가기 열기를 원하시면 오른쪽으로 스와이프하세요</string>
   <string name="other">기타</string>
   <string name="overlay_display_devices_title">보조 디스플레이 시뮬레이션</string>
   <string name="overview">개요</string>
