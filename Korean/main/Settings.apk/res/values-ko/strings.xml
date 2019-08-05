@@ -8325,4 +8325,5 @@
     <string name="bt_lhdc_open_dialog_title">LHDC를 켜겠습니까?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">속성</string>
+    <string name="status_bar_settings_show_weather">알림창에 날씨정보 표시</string>
 </resources>
