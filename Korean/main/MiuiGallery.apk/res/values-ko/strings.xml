@@ -1593,4 +1593,7 @@
   <string name="video_editor_audio_quiet">무음</string>
   <string name="video_editor_audio_summertime">썸머</string>
   <string name="video_editor_audio_vitality">활력</string>
+  <string name="screen_editor_btn_delete">삭제</string>
+  <string name="screen_editor_btn_save">저장</string>
+  <string name="screen_editor_delete_dialog_msg">이 스크린샷을 삭제할까요?</string>
 </resources>
