@@ -2955,7 +2955,6 @@ SMS 전송"</string>
     <string name="button_dark_mode">고정</string>
     <string name="delete_all_sms">전체 삭제</string>
     <string name="doze_optimization_title">터치 컨트롤 최적화</string>
-    <string name="gb_advance_settings_screen_hdr">HDR 모드</string>
     <string name="gb_first_guide_function_shiled_title">게임 터보 기능이 켜져있을 때 시스템 기능 끄기</string>
     <string name="gb_first_guide_gamebox_des">게임 구동시 바로가기 사용</string>
     <string name="gb_first_guide_handsfree_des">백그라운드에서 전화 받기</string>
@@ -2971,7 +2970,6 @@ SMS 전송"</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$d시간 %2$d분 전에 마지막 충전</string>
     <string name="pc_statistics_battery_use_summary">%s 전에 마지막 충전</string>
     <string name="pc_statistics_battery_use_title">배터리 사용량</string>
-    <string name="power_consume_rank_software">앱</string>
     <string name="sms_delete_all_hint">모든 메시지를 바로 삭제하시겠습니까?</string>
     <string name="summary_dark_mode">써드파티 서비스로 인해 몇몇 페이지는 검게 보입니다</string>
     <string name="system_permission_declare_agree">동의</string>
@@ -2986,7 +2984,6 @@ SMS 전송"</string>
     <string name="system_permission_perm_read_numbers">전화번호 읽기</string>
     <string name="system_permission_perm_send_mms">MMS 보내기</string>
     <string name="title_dark_mode">"몇몇 항목은 제대로 보이지 않습니다"</string>
-    <string name="title_of_app_manage">앱</string>
     <string name="toast_dark_mode_fixed">고정 완료. 이 페이지를 벗어나면 변경사항이 적용됩니다.</string>
     <string name="user_guide_title">조이스틱 추천</string>
     <string name="yuan">위안</string>
