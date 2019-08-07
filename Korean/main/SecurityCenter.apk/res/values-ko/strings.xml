@@ -2973,7 +2973,7 @@ SMS 전송"</string>
     <string name="sms_delete_all_hint">모든 메시지를 바로 삭제하시겠습니까?</string>
     <string name="summary_dark_mode">써드파티 서비스로 인해 몇몇 페이지는 검게 보입니다</string>
     <string name="system_permission_declare_agree">동의</string>
-    <string name="system_permission_declare_main_purpose">%1s 오신걸 환영합니다! 이 앱은 아래의 기능을 사용하도록 허용되어있습니다: %2s.</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">%1s 오신걸 환영합니다! 이 앱은 아래의 기능을 사용하도록 허용되어있습니다: %2s.</string>
     <string name="system_permission_declare_no_say_no">"필요한 권한을 제공하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱은 정상적으로 작동하지 않습니다."</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">"필요한 권한을 제공하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱은 부분적으로 작동하지 않습니다."</string>
     <string name="system_permission_declare_privacy_declare">"우리는 귀하의 피보호성을 존중하고 보호합니다. 데이터를 수집해야하며 %1s 앱이 정상적으로 작동하려면 다음 권한이 필요합니다:"</string>
