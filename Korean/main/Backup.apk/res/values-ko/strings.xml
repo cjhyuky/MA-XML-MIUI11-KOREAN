@@ -602,7 +602,7 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="trans_cancel_selection_title">Mi Mover 대기</string>
     <string name="trans_select_notification_message">탭하여 보기</string>
     <string name="trans_select_notification_title">Mi Mover가 동작중입니다.</string>
-    <string name="trans_cancel_dialog_survey_title">전송을 중단하신 이유가 무엇입니까?</string>
+    <string name="trans_cancel_dialog_survey_title">전송을 중단하신 이유가 무엇입니까?</string>
     <string name="trans_dialog_survey_finish">보내기</string>
     <string name="trans_success_dialog_button_market_comment">댓글</string>
     <string name="trans_success_dialog_button_survey">설문 조사</string>
