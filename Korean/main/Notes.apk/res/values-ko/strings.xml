@@ -310,9 +310,15 @@
   <string name="todo_schedule_time_ymdhm">yyyy/MM/dd HH:mm</string>
   <string name="todo_search_hint">작업 검색</string>
   <string name="todo_time_picker_title">다시알림 설정</string>
-  <string name="todo_user_guide_tip1">\"작업\"에 오신 것을 환영합니다!</string>
-  <string name="todo_user_guide_tip2">이것은 작업입니다. 상자를 체크해서 완료할 수 있습니다..</string>
-  <string name="todo_user_guide_tip3">아래의 +를 눌러 작업을 만들 수 있습니다. 음성 작업도 추가할 수 있습니다.</string>
-  <string name="todo_user_guide_tip4">작업을 잊지 않도록 미리알림 설정할 수 있습니다.</string>
+  <string name="app_notification_info">메모 백그라운드 알림</string>
+  <string name="check_in_todo_app">작업 보기</string>
+  <string name="todo_float_permission_open_reminder">메모장이 다른 앱에서 플로팅 창을 표시할 수 있도록 허용.</string>
+  <string name="todo_menu_cancel">취소</string>
+  <string name="todo_user_guide_fw_pop">홈 화면 바로가기 추가</string>
+  <string name="todo_user_guide_tip1">\"일정\"에 오신 것을 환영합니다!</string>
+  <string name="todo_user_guide_tip2">여기에 음성메모나 메모를 추가할 수 있습니다.</string>
+  <string name="todo_user_guide_tip3">텍스트 작업을 편집하려면 해당 작업을 누르세요.</string>
+  <string name="todo_user_guide_tip4">작업을 위한 홈 화면 바로가기를 만드는 것을 잊지 마세요.</string>
+  <string name="todo_user_guide_tip5">게임을 계속하려다 중요한 것을 놓치지 마세요!</string>
   <string name="todoalert_done">확인</string>
 </resources>
