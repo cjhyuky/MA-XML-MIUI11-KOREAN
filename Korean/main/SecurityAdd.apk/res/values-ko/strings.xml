@@ -71,4 +71,7 @@
   <string name="superpower_system">추천</string>
   <string name="superpower_third">써드파티 앱</string>
   <string name="superpower_exit_hint">배터리 세이버 끄기</string>
+  <string name="gamebooster_network_dialog_message">게임 부스터의 모든 기능을 활성화하려면 네트워크에 연결해야 합니다</string>
+  <string name="gamebooster_network_dialog_title">"일부 기능 제한"</string>
+  <string name="gdpr_msg">&lt;Data&gt;"보안 기본 기능을 사용하려면 샤오미에 보안 사용정보(예: 모바일 데이터 사용 통계, 악성코드에 대한 정보)를 포함한 개인정보 수집 및 처리에 동의해야 합니다. 개인정보 보호 정책은 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보안 정책&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
 </resources>

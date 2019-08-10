@@ -280,8 +280,8 @@
   <string name="input_method_switch_settings_text">키보드 설정</string>
   <string name="input_method_tab_clipboard_text">클립보드</string>
   <string name="input_method_tab_phrase_text">자주 쓰는 문구</string>
-  <string name="slavewifi">듀얼 Wi-Fi</string>
+  <string name="slavewifi">듀얼밴드 Wi-Fi</string>
   <string name="slavewifi_disconnect">연결끊김</string>
-  <string name="slavewifi_notification_title">듀얼 Wi-Fi 가속</string>
-  <string name="slavewifi_settings">설정을 수정하려면 터치하세요</string>   
+  <string name="slavewifi_notification_title">듀얼밴드 Wi-Fi 가속</string>
+  <string name="slavewifi_settings">설정을 변경하려면 터치하세요</string>   
 </resources>
