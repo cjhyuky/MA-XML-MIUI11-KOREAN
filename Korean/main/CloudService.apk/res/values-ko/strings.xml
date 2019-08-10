@@ -714,4 +714,10 @@ Mi 클라우드를 다시 활성화하십시오."</string>
   <string name="micloud_manaul_sync_success_time_prefix">마지막 동기화: %s</string>
   <string name="micloud_sync_result_get_sim_info_error">"SIM 카드 정보를 가져올 수 없습니다. 잠시 후 다시 시도하십시오."</string>
   <string name="sync_detail_summary_master_sync_off">동기화 꺼짐</string>
+  <string name="sync_setting_title">동기화 설정</string>
+  <string name="cloud_lab_title">클라우드 연구실</string>
+  <string name="cloud_storage_already_used">사용됨: %1$s/%2$s</string>
+  <string name="cloud_storage_info_type_others">기타</string>
+  <string name="cloud_storage_manage_title">클라우드 공간 관리</string>
+  <string name="data_protection_title">데이터 보호</string>
 </resources>
