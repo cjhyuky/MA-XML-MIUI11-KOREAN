@@ -51,4 +51,8 @@
    <plurals name="snooze_duration_changed_info">
       <item quantity="other">스누즈 간격이 %d분으로 조정됨</item>
    </plurals>
+   <plurals name="snooze_duration_desc">
+      <item quantity="other">매 %1$s분마다, %2$s회 반복</item>
+      <item quantity="one">매 %1$s분마다, %2$s회 반복</item>
+   </plurals>
 </resources>
