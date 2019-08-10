@@ -1166,7 +1166,7 @@ SMS 전송"</string>
     <string name="handle_bar_summary_wifi_unknown">알 수 없음</string>
     <string name="sp_settings_group_title_check_item">다중 항목</string>
     <string name="sp_settings_check_item_title_update">시스템 업데이트</string>
-    <string name="sp_settings_check_item_title_virus_exception">바이러스 예외항목</string>
+    <string name="sp_settings_check_item_title_virus_exception">예외항목</string>
     <string name="sp_settings_check_item_title_sign_exception">서명 예외항목</string>
     <string name="sp_settings_check_item_summary_virus_exception">바이러스 예외항목 관리</string>
     <string name="sp_settings_check_item_summary_sign_exception">서명 예외항목 관리</string>
@@ -2987,4 +2987,9 @@ SMS 전송"</string>
     <string name="toast_dark_mode_fixed">고정 완료. 이 페이지를 벗어나면 변경사항이 적용됩니다.</string>
     <string name="user_guide_title">조이스틱 추천</string>
     <string name="yuan">위안</string>
+    <string name="pc_search_keywords_battery">배터리</string>
+    <string name="pc_search_keywords_battery_save">배터리 세이버</string>
+    <string name="pc_search_keywords_battery_use">배터리 사용량</string>
+    <string name="pc_search_keywords_capacity">배터리 용량</string>
+    <string name="pc_search_keywords_property">성능</string>
 </resources>

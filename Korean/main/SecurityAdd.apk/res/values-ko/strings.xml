@@ -70,4 +70,5 @@
   <string name="superpower_settings">울트라 배터리 세이버</string>
   <string name="superpower_system">추천</string>
   <string name="superpower_third">써드파티 앱</string>
+  <string name="superpower_exit_hint">배터리 세이버 끄기</string>
 </resources>
