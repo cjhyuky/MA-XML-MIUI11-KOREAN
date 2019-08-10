@@ -8344,11 +8344,4 @@
     <string name="raise_bottom_height_of_keyboard_sub_title">확장 모드로 전환하려면 키보드 아래에 커스텀 가능한 툴바가 나타납니다</string>
     <string name="raise_bottom_height_of_keyboard_title">키보드를 전체 화면으로 조정</string>
     <string name="right_function_key">오른쪽 바로가기</string>
-    <string name="bluetooth_disable_mi_fast_connect">Mi 빠른 연결 해제</string>
-    <string name="bluetooth_disable_mi_fast_connect_summary">Mi 빠른 연결 기능을 해제합니다</string>
-    <string name="screen_dark_mode_time_title">일정</string>
-    <string name="screen_dark_mode_advanced_title">고급</string>
-    <string name="screen_dark_mode_smart_dark_title">전체 다크모드</string>
-    <string name="screen_dark_mode_smart_dark_summary">서드파티 앱에도 다크 모드를 적용합니다. 일부 앱이 잘못 표시될 수 있습니다</string>
-    <string name="screen_dark_mode_select_time_error_summary">"시작 시간과 종료 시간이 같을 수 없습니다"</string>
 </resources>

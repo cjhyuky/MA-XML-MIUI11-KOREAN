@@ -2992,16 +2992,4 @@ SMS 전송"</string>
     <string name="pc_search_keywords_battery_use">배터리 사용량</string>
     <string name="pc_search_keywords_capacity">배터리 용량</string>
     <string name="pc_search_keywords_property">성능</string>
-    <string name="gamebox_milink">캐스트</string>
-    <string name="stop_milink_connect">캐스팅 중지</string>
-    <string name="other_milink_connect">"캐스팅할 수 없습니다. 다른 기기에서 사용 중입니다."</string>
-    <string name="alert_back_milink_hangup_tips_content">"통화를 진행해도 캐스팅이 중단되지 않습니다. 파워버튼을 눌러 화면을 켤 수 있습니다."</string>
-	<string name="system_permission_declare_privacy_no_permission">"%1s이(가) 정상적으로 작동하려면 데이터를 수집해야 합니다.
-우리는 사용자의 개인정보를 존중하고 보호합니다."</string>
-	<string name="system_permission_declare_use_network_no_permission">네트워크에 연결</string>
-	<string name="system_permission_declare_revoke_uninstallable">보안에서 이 앱을 제거하거나 권한을 관리할 수 있습니다 &gt; 앱 관리 &gt; 권한 &gt; 다른 권한.</string>
-	<string name="system_permission_declare_revoke_system">이 앱을 종료할 수 있습니다.</string> - from this app? it's wrong English, already reported
-	<string name="system_permission_declare_user_agreement"><Data>이 기능을 사용하기 전에 &lt;a href=\"%1$s\">사용권 계약&lt;/a>을 읽고 동의해야 합니다.</Data></string>
-    <string name="system_permission_declare_privacy_policy"><Data>이 기능을 사용하기 전에 &lt;a href=\"%1$s\">개인정보 보호 정책&lt;/a>을 읽고 동의해야 합니다.</Data></string>
-    <string name="system_permission_declare_disagree">거부</string>
 </resources>
