@@ -384,4 +384,5 @@
     <string name="shake_to_align_icons">빈 셀을 아이콘으로 채우려면 장치를 흔드세요.</string>
     <string name="shake_to_align_icons_title">흔들어서 빈 셀 채우기</string>
     <string name="shake_to_align_icons_summary">편집 모드에서 장치를 흔들어서 비어있는 공간을 채웁니다.</string>
+    <string name="no_space_toast_when_click_widget">이 페이지에 충분한 공간이 없습니다. 이 항목을 다른 페이지로 드래그하십시오.</string>
 </resources>

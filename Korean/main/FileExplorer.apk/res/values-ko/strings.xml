@@ -836,4 +836,6 @@
     <string name="tab_app">더보기</string>
     <string name="text_select_all">전체선택</string>
     <string name="text_select_nothing">전체해제</string>
+    <string name="hint_switch_to_grid_mode">격자보기로 전환</string>
+    <string name="hint_switch_to_list_mode">목록보기로 전환</string>
 </resources>
