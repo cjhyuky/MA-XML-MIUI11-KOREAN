@@ -394,7 +394,6 @@
     <string name="all_apps_setting_drawer_tips_title">앱 서랍 사용</string>
     <string name="all_apps_slide_up_tips">위로 스와이프는 앱 서랍 열기로 설정되어 있습니다.  기본 홈 화면 모드로 전환한 후 다시 시도하십시오.</string>
     <string name="all_apps_suggestions">앱 추천</string>
-    <string name="free_style_edit_app">앱</string>
     <string name="recent_apps">최근 실행 앱</string>
     <string name="remove_invalidate_gadget_tips">사용하는 위젯 중 하나를 더 이상 사용할 수 없습니다.  다른 것을 추가 할 수 있습니다. </string>
     <string name="unstable_dialog_content">"이 버전은 안드로이드 시스템 이미지의 미리보기 버전이며 변경될 수 있습니다. 이 시스템 이미지의 사용은 안드로이드 SDK 미리보기 라이센스 계약의 적용을 받습니다. 안드로이드 미리보기 시스템 이미지는 안정적인 버전이며 컴퓨터 시스템, 기기 또는 데이터가 손상될 수 있는 오류 및 결함이 포함되어 있을 수 있습니다. 미리보기 안드로이드 시스템 이미지는 출하시 OS와 동일한 테스트를 거치지 않으며 이 기기에 설치된 서비스의 오류를 유발할 수 있습니다."</string>
