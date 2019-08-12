@@ -2964,7 +2964,7 @@ SMS 전송"</string>
     <string name="pc_battery_detail_device_item_title">배터리 사용 정보</string>
     <string name="pc_battery_history_battery_detail_menu_item">세부정보</string>
     <string name="pc_battery_history_consume_rank_menu_item">순위</string>
-    <string name="pc_battery_history_rank_mha_menu_item">밀리 암페어 아워</string>
+    <string name="pc_battery_history_rank_mha_menu_item">mAh</string>
     <string name="pc_battery_history_rank_percent_menu_item">퍼센트</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$d시간 %2$d분 남음</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$d시간 %2$d분 전에 마지막 충전</string>
