@@ -10,7 +10,7 @@
   <string name="enable_show_badge_notification">알림 뱃지 허용됨</string>
   <string name="expand_top_notification">상단 알림 확장</string>
   <string name="expandable_under_keyguard">잠금화면에서 알림창 열기</string>
-  <string name="float_notifications">플로팅 알림</string>
+  <string name="float_notifications">플로팅      알림</string>
   <string name="hint_search_all">앱 검색</string>
   <string name="hint_search_in_disabled_apps">"알림 표시 차단된 앱 검색"</string>
   <string name="hint_search_in_enabled_apps">알림 표시 허용된 앱 검색</string>
@@ -18,7 +18,7 @@
   <string name="loading">잠시만 기다려주세요…</string>
   <string name="lock_screen_display_rules">알림 표시 방법</string>
   <string name="lock_screen_tip_toast">\"알림 표시 방법\"에서 잠금화면 알림 허용하기</string>
-  <string name="lockscreen_notifications">잠금화면 알림</string>
+  <string name="lockscreen_notifications">잠금화면    알림</string>
   <string name="not_sent_recently">최근에 알림 없음</string>
   <string name="notch_and_status_bar_setting">노치 &amp; 상태 바</string>
   <string name="notification_display_setting">알림창</string>
@@ -31,7 +31,7 @@
   <string name="off">꺼짐</string>
   <string name="on">켜짐</string>
   <string name="settings_guide_title">다른 설정이 필요하신가요?</string>
-  <string name="show_badge_notifications">알림 뱃지</string>
+  <string name="show_badge_notifications">알림        뱃지</string>
   <string name="status_bar_setting">상태 바</string>
   <string name="summary_disable_float_notification">"플로팅 알림 허용되지 않음"</string>
   <string name="summary_disable_lockscreen_notification">"잠금화면 알림 허용되지 않음"</string>
