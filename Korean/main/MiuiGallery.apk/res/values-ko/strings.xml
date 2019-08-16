@@ -1087,6 +1087,9 @@
   <string name="scan_barcode_to_join">QR 코드 스캔하여 앨범 추가</string>
   <string name="scan_qr_code_buttom_text">QR 코드 스캔하여 이 앨범 보기</string>
   <string name="screen_doodle_talkback_size">낙서 라인 두께</string>
+  <string name="screen_editor_btn_delete">삭제</string>
+  <string name="screen_editor_btn_save">저장</string>
+  <string name="screen_editor_delete_dialog_msg">이 스크린샷을 삭제하시겠습니까?</string>
   <string name="screen_editor_finish">완료</string>
   <string name="screen_save_dialog_btn_cancel">취소</string>
   <string name="screen_save_dialog_btn_delete">스크린샷 삭제</string>
