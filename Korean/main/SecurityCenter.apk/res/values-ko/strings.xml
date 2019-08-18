@@ -1985,7 +1985,6 @@
   <string name="privacy_prompt_tc_sms_report_message">데이터 사용량 정보를 업데이트하기 위하여 전화번호와 통신사 세부사항가 암호화되어 Mi의 서버에 업로드됩니다.</string>
   <string name="privacy_prompt_traffic_adjust_message">보정을 클릭하신 후, MIUI 시스템은 네트워크에 연결되며 귀하가 제출하신 통신사 정보, 전화번호, IMEI, Mi 계정 등을 암호화하여 Mi 서버로 업로드하여 데이터 구매에 적합한 지역인지 확인합니다. \n\n보정시 MIUI 시스템은 보정 메시지 획득을 위해 통신사에 무료 메시지를 전송할 것입니다.</string>
   <string name="privacy_prompt_upload">업로드</string>
-  <string name="process_kernel_label">안드로이드</string>
   <string name="process_mediaserver_label">미디어 서버</string>
   <string name="promotion">광고</string>
   <string name="prompt_all">모두 묻기</string>
