@@ -2535,4 +2535,5 @@
     <string name="modem_setting_info">모뎀 설정 정보</string>
     <string name="modem_setting_text_title">모뎀 테스트 속성 설정</string>
     <string name="pci_num">lte pci 넘버</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_custom">4G 우선</string>
 </resources>
