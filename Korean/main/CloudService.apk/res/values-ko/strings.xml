@@ -653,7 +653,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_manual_cloud_storage_full_summary">사진, 연락처 및 기타 항목을 동기화할 수 없습니다. 요금제를 업그레이드하거나 저장 공간을 확보하십시오.</string>
     <string name="micloud_manual_cloud_storage_full_title">동기화할 수 없습니다. Mi 클라우드에 저장공간이 충분하지 않습니다.</string>
     <string name="micloud_manual_cloud_storage_low_button_text">저장소 더 받기</string>
-  <string name="micloud_manual_cloud_storage_low_summary">Mi 클라우드 저장소 부족</string>
+    <string name="micloud_manual_cloud_storage_low_summary">Mi 클라우드 저장소 부족</string>
     <string name="micloud_manual_cloud_storage_low_title">동기화 됨</string>
     <string name="micloud_manual_grant_permission">허용</string>
     <string name="micloud_manual_local_storage_low_button_text">삭제</string>
