@@ -110,7 +110,7 @@
   <string name="antivirus_privacy_dialog_summary">이 기능은 기기 ID를 암호화하여 Avast, AVL, Tencent 서버에 업로드합니다(%s).</string>
   <string name="antivirus_privacy_dialog_summary_link">개인정보 보호정책</string>
   <string name="antivirus_privacy_dialog_title">개인 정보 보호 정책</string>
-  <string name="antivirus_sec_network_unavailable">인터넷 연결을 제한으로 보안 앱을 업데이트할 수 없습니다. 보안 앱이 인터넷에 연결하도록 허용하시겠습니까?</string>
+  <string name="antivirus_sec_network_unavailable">보안 앱이 인터넷 연결이 되어있지 않아 업데이트를 할 수 없습니다. 인터넷 연결을 허용하시겠습니까?</string>
   <string name="antivirus_toast_already_update">이미 최신 버전입니다.</string>
   <string name="antivirus_toast_network_unavailable">네트워크에 연결할 수 없음</string>
   <string name="antivirus_toast_update_failed">업데이트 실패</string>
@@ -590,7 +590,7 @@
   <string name="cpu_usage_view_action_btn_text">탭하여 보기</string>
   <string name="create_gamebooster_destop">홈 화면 바로가기 생성이 완료되었습니다</string>
   <string name="create_shortcut">게임 스피드 부스터를 위해 홈 화면에 바로가기 생성</string>
-  <string name="cta_dialog_msg">&lt;Data&gt;귀하의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책 &amp;lt;/a&amp;gt; 보안을 사용하기 전에. 보안은 또한 인터넷에 연결하고 정상적으로 작동하고 안티 바이러스 정의를 최신 상태로 유지하기 위해 사용자의 위치에 액세스해야합니다. 동의하십니까?&lt;/Data&gt;</string>
+  <string name="cta_dialog_msg">&lt;Data&gt;보안 앱을 사용하시기 전에 먼저 저희의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인보호 정책&amp;lt;/a&amp;gt;을 읽고 동의해주세요. 보안 앱은 또한 정상적으로 작동하게하고 안티바이러스 방어를 최신상태로 유지하려면 인터넷 연결, 위치정보 접근이 필요합니다. 동의하십니까?&lt;/Data&gt;</string>
   <string name="cta_dialog_negative">나가기</string>
   <string name="cta_dialog_positive">동의</string>
   <string name="cta_dialog_title">인터넷 연결</string>
@@ -719,7 +719,7 @@
   <string name="dlg_remove_whitelist">이 번호들을 예외 목록에서 제거하시겠습니까?</string>
   <string name="dlg_remove_whitelist_ing">제거 중…</string>
   <string name="dlg_remove_whitelist_title">제거</string>
-  <string name="dlg_sec_network_unavailable">인터넷 연결을 제한했기 때문에 보안 앱을 업데이트 할 수 없습니다. 인터넷에 연결할 수 있도록 허용하시겠습니까?</string>
+  <string name="dlg_sec_network_unavailable">보안 앱이 인터넷 연결이 되어있지 않아 업데이트를 할 수 없습니다. 인터넷 연결을 허용하시겠습니까?</string>
   <string name="dlg_title_not_open_stranger_identify">발신자 ID</string>
   <string name="dlg_update_btn_contiue">계속</string>
   <string name="dlg_update_btn_open">허용</string>
@@ -1496,7 +1496,7 @@
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">스피드 부스트</string>
-  <string name="menu_text_power_manager">배터리 최적화</string>
+  <string name="menu_text_power_manager">배터리 &amp; 성능</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_wh_remove">예외 목록에서 제거</string>
   <string name="menu_white">예외</string>
@@ -2094,7 +2094,7 @@
   <string name="section_title_clear_acc">캐시 삭제</string>
   <string name="section_title_security_defend">보안</string>
   <string name="section_title_system">시스템 보안</string>
-  <string name="security_center_slogan">보안. 언제나 이상 무.</string>
+  <string name="security_center_slogan">당신의 기기를 항상 빠르고 안전하게.</string>
   <string name="security_scan_optimizing">최적화 중…</string>
   <string name="securityadd_install_fail">플러그인을 업데이트 할 수 없습니다. 다시 시도하십시오.</string>
   <string name="securityadd_update_tips_cancle">지금은 아닙니다.</string>
@@ -2183,7 +2183,7 @@
   <string name="sp_empty_title_sign_exception">앱을 길게눌러 예외사항에 추가</string>
   <string name="sp_monitored_apps_count_zero">보호된 지불 앱 없음</string>
   <string name="sp_monitored_apps_list_title">모니터링 설정</string>
-  <string name="sp_network_privacy_dialog_message">인터넷 연결을 제한했기 때문에 보안 앱이 결제를 정상적으로 확인할 수 없습니다. 보안 앱이 인터넷에 연결하도록 허용하시겠습니까?</string>
+  <string name="sp_network_privacy_dialog_message">보안 앱이 인터넷 연결이 되어있지 않아 업데이트를 할 수 없습니다. 인터넷 연결을 허용하시겠습니까?</string>
   <string name="sp_network_privacy_dialog_title">보안 스캔을 사용할 수 없음</string>
   <string name="sp_scan_item_monitor">지불 모니터링</string>
   <string name="sp_scan_item_url_antispam">악성 URL로부터 보호</string>
@@ -2357,7 +2357,7 @@
   <string name="summary_mifi_insurance">1년간 하드웨어 손상 교환 프로그램 가입</string>
   <string name="summary_miui_update">%s개 업데이트 가능</string>
   <string name="summary_mms">자동으로 스팸 메시지 차단</string>
-  <string name="summary_network_switch">보안 앱의 인터넷 연결 허용</string>
+  <string name="summary_network_switch">보안 앱 인터넷 연결 허용</string>
   <string name="summary_never_flow_verify">이 번호는 귀하의 통신사에서 확인되지 않았습니다.</string>
   <string name="summary_payment_risk">결제 환경이 안전하지 않습니다.</string>
   <string name="summary_permission">원하지않는 지불을 피하고 개인 정보를 보호합니다.</string>
@@ -2420,7 +2420,7 @@
   <string name="system_permission_declare_privacy_no_permission">%1s앱이 정상적으로 작동하려면 데이터를 수집해야합니다.\n우리는 귀하의 개인정보를 존중하고 보호합니다.</string>
   <string name="system_permission_declare_privacy_policy">&lt;Data&gt;이 기능을 사용하기 전에 &lt;a href=\"%1$s\"&gt;개인정보 보호정책&lt;/a&gt;을 먼저 읽고 동의해주세요.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">이 기능을 끝낼 수 있습니다.</string>
-  <string name="system_permission_declare_revoke_uninstallable">이 앱을 제거하거나 보안 및 앱 관리, 권한 및 기타 권한에서 권한 및 승인을 관리 할 수 ​​있습니다.</string>
+  <string name="system_permission_declare_revoke_uninstallable">보안에서 로그아웃하거나 이 앱을 제거하거나 승인을 취소할 수 있습니다. 보안 &gt; 앱 관리 &gt; 권한 &gt; 권한.</string>
   <string name="system_permission_declare_use_network">네트워크에 연결하세요</string>
   <string name="system_permission_declare_use_network_no_permission">네트워크 연결</string>
   <string name="system_permission_declare_user_agreement">&lt;Data&gt;이 기능을 사용하기 전에 &lt;a href=\"%1$s\"&gt;사용자 동의&lt;/a&gt;를 먼저 읽고 동의해주세요.&lt;/Data&gt;</string>
@@ -2775,4 +2775,23 @@
   <string name="xunyou_server_expired">시간 초과</string>
   <string name="yuan">위안</string>
   <string name="zhifubao_not_found">앱 버전이 너무 낮거나 설치되지 않았습니다</string>
+  <string name="banner_optimizemanage_summary">메모리 용량 확보</string>
+  <string name="banner_red_money_assist_button">켜기</string>
+  <string name="banner_red_money_assist_summary">빨간 봉투 빨리 열기</string>
+  <string name="menu_summary_garbage_cleanup_ex">%s만큼의 쓰레기 삭제</string>
+  <string name="phone_manage">유틸리티</string>
+  <string name="phone_manage_app_manager_summary">기기의 앱을 관리하세요</string>
+  <string name="phone_manage_clean_summary">저장공간을 확보하세요</string>
+  <string name="phone_manage_clean_title">클리너</string>
+  <string name="phone_manage_electric_summary">배터리 절약을 위해 기기를 최적화하세요</string>
+  <string name="phone_manage_electric_title">배터리</string>
+  <string name="phone_manage_special_summary">추가 기능도 확인해보세요</string>
+  <string name="phone_manage_special_title">스폐셜 기능</string>
+  <string name="phone_manage_system_tool_summary">유용한 시스템 도구</string>
+  <string name="phone_manage_system_tool_title">도구</string>
+  <string name="power_save_mode">배터리 세이버</string>
+  <string name="power_save_settings">배터리 설정</string>
+  <string name="securitycenter_tab_title">보안</string>
+  <string name="system_tool_green_guard">패밀리 가드</string>
+  <string name="system_tool_sos">긴급 SOS</string>
 </resources>
