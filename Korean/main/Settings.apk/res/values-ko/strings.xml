@@ -8253,7 +8253,7 @@
     <string name="gesture_open_alipay">알리페이 열기</string>
     <string name="bluetooth_disable_inband_ringing">블루투스 헤드셋 벨소리 끄기</string>
     <string name="bluetooth_disable_inband_ringing_summary">맞춤형 벨소리를 블루투스 헤드셋에서 재생하지 않습니다</string>
-    <string name="aod_and_lock_screen_settings_title">AOD 디스플레이 &amp; 잠금 화면</string>
+    <string name="aod_and_lock_screen_settings_title">AOD 디스플레이 &amp; 잠금화면</string>
     <string name="aod_settings_category_name">AOD 디스플레이</string>
     <string name="applications_settings_title">앱</string>
     <string name="feedback_settings">피드백</string>
@@ -8272,7 +8272,7 @@
     <string name="notch_settings">노치</string>
     <string name="notification_center">알림</string>
     <string name="other_sound_settings_title">기타 설정</string>
-    <string name="password_security_settings_title">비밀 번호 &amp; 보안</string>
+    <string name="password_security_settings_title">비밀번호 &amp; 보안</string>
     <string name="password_unlock_title">비밀번호</string>
     <string name="privacy_protection_title">보안</string>
     <string name="recommend_tip">다른 설정이 필요하십니까?</string>
