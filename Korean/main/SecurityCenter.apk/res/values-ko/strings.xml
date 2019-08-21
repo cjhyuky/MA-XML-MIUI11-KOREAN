@@ -594,6 +594,7 @@
   <string name="cta_dialog_negative">나가기</string>
   <string name="cta_dialog_positive">동의</string>
   <string name="cta_dialog_title">인터넷 연결</string>
+  <string name="cta_main_purpose">보안에 오신 것을 환영합니다! 이 앱을 사용하면 기기의 휴지통을 지우고 바이러스를 찾아서 무효화하며 게임 성능을 최적화하고 배터리를 절약하며 앱을 관리하는 등의 작업을 수행 할 수 있습니다.</string>
   <string name="cta_settings">인터넷 연결 허용</string>
   <string name="current_network_state_not_need_diagnose">인터넷 연결이 정상입니다.</string>
   <string name="customize_limit_pkg">%s (사용자 지정)</string>
