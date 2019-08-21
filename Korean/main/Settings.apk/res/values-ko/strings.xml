@@ -5810,6 +5810,7 @@
   <string name="sound_title">소리</string>
   <string name="sound_vibrate_settings">소리 &amp; 진동</string>
   <string name="sound_work_settings">업무 프로필 소리</string>
+  <string name="speaker">스피커</string>
   <string name="special_access">특별 엑세스 권한</string>
   <string name="speed_label_fast">빠름</string>
   <string name="speed_label_medium">중간</string>
