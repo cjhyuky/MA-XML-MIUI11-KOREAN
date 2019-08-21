@@ -526,4 +526,5 @@ ID:%s
     <string name="need_install_wechat">먼저 위챗을 설치하세요</string>
     <string name="google">구글</string>
     <string name="bind_google">구글 계정으로 접속하세요</string>
+    <string name="ep_unsupported">이 기기는 샤오미 계정 로그인을 지원하지 않습니다</string>
 </resources>
