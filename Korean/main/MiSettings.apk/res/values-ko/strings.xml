@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">설정</string>
+  <string name="application_sound">앱 알림</string>
+  <string name="calendar_sound">이벤트 알림</string>
+  <string name="calendar_tip">캘린더 미리 알림, 메모 및 작업에 이벤트 미리 알림 소리가 작동합니다</string>
+  <string name="follow_sim1">SIM 1 설정 적용</string>
+  <string name="intelligent_recognition_item_summary">서비스 공급 업체 (예 : 음식 배달)가 걸려 오는 전화를 식별하고 별도의 벨소리를 사용합니다</string>
+  <string name="intelligent_recognition_item_title">번호 식별 서비스</string>
+  <string name="mms">메시지</string>
+  <string name="more_ringtone">모든 벨소리</string>
+  <string name="notification_sound">알림음</string>
+  <string name="ringtone_slot_setting_title">듀얼 SIM 벨소리</string>
+  <string name="ringtone_sound">벨소리</string>
+  <string name="ringtone_title">벨소리</string>
+  <string name="sim_slot_1">" (SIM 1)"</string>
+  <string name="sim_slot_2">" (SIM 2)"</string>
+  <string name="sms_delivered_sound_title">메시지 전송완료</string>
+  <string name="sms_received_sound_title">메시지 수신</string>
+  <string name="thememanager_not_found">"테마 열기 실패. 이 앱이 기기에 설치되어있는지 확인하세요."</string>
+  <string name="usage_state_app">앱</string>
+  <string name="usage_state_app_remain_time">남은 시간: %s</string>
+  <string name="usage_state_app_usage_limit">앱 화면켜짐 시간 제한</string>
+  <string name="usage_state_app_usage_limit_summary">개별 적으로 앱의 하루 화면켜짐 사용시간을 설정하세요</string>
+  <string name="usage_state_card_add">추가</string>
+  <string name="usage_state_card_cancel">취소</string>
+  <string name="usage_state_card_summary">시간을 보다 효율적으로 관리하려면 \"화면켜짐 시간\"카드를 퀵카드에 추가하세요.</string>
+  <string name="usage_state_category">카테고리</string>
+  <string name="usage_state_device_limit_summary">기기의 일일 화면켜짐 시간을 설정하세요</string>
+  <string name="usage_state_device_limit_title">기기 화면켜짐 시간 제한</string>
+  <string name="usage_state_remind_new_summary">화면켜짐 시간이 설정된 제한에 도달하면 알림을 받습니다</string>
+  <string name="usage_state_show_app">앱</string>
+  <string name="usage_state_show_category">카테고리</string>
+  <string name="usage_state_show_detail">세부사항 보기</string>
+  <string name="usage_state_show_more">더보기</string>
+  <string name="usage_state_time_end">금일 설정하신 화면켜짐 시간에 도달했습니다</string>
+  <string name="usage_state_unusage">"오늘 서용한 적 없음"</string>
+  <string name="usage_state_usage_time_weekday_title">주중</string>
+  <string name="usage_state_usage_time_weekend_title">주말</string>
+  <string name="usagestats_app_category_miui_education">교육</string>
+  <string name="usagestats_app_category_miui_entainment">오락</string>
+  <string name="usagestats_app_category_miui_medicine">건강</string>
+  <string name="usagestats_app_category_miui_news">뉴스</string>
+  <string name="usagestats_app_category_miui_photo">사진 &amp; 비디오</string>
+  <string name="usagestats_app_category_miui_sport">스포츠 &amp; 피트니스</string>
+  <string name="usagestats_app_category_miui_travel">여행</string>
+</resources>
