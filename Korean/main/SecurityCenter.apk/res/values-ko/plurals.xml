@@ -340,4 +340,16 @@
     <plurals name="pc_main_power_manager_minute">
         <item quantity="other">%s 분 후 완전 충전됨</item>
     </plurals>
+        <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d개의 앱에 바이러스 또는 말웨어가 포함되어 있습니다</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">"%d일 동안 기기를 검사하지 않았습니다"</item>
+    </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d개의 메시지와 통화가 차단되었습니다</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d개의 업데이트가 가능합니다</item>
+    </plurals>
 </resources>
