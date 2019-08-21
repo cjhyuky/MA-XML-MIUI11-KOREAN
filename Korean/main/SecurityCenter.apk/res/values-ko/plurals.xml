@@ -340,7 +340,7 @@
     <plurals name="pc_main_power_manager_minute">
         <item quantity="other">%s 분 후 완전 충전됨</item>
     </plurals>
-        <plurals name="menu_text_antivirus_virus_ex">
+    <plurals name="menu_text_antivirus_virus_ex">
         <item quantity="other">%d개의 앱에 바이러스 또는 말웨어가 포함되어 있습니다</item>
     </plurals>
     <plurals name="menu_text_antivirus_day_ex">
