@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">홈 탐색</string>
   <string name="abc_action_bar_up_description">위로 탐색</string>
@@ -55,4 +55,22 @@
   <string name="title_share_link">URL 공유하기</string>
   <string name="usage_sorted_loading_text">잠깐만 기다려주세요…</string>
   <string name="xunyou_pay_webview">Xunyou 서비스</string>
+  <string name="superpower_app_add">추가</string>
+  <string name="superpower_app_finish">완료</string>
+  <string name="superpower_battery_dangerous">가능한 빨리 충전기를 연결하세요</string>
+  <string name="superpower_date">M월 d일 EEEE</string>
+  <string name="superpower_dialog_app_select_content">써드파티 앱은 일반적으로 시스템 앱보다 더 많은 전력을 소비합니다.  어쨌든 추가 하시겠습니까?</string>
+  <string name="superpower_dialog_app_select_title">주의</string>
+  <string name="superpower_incharging">충전중</string>
+  <string name="superpower_progress_battery_last">%s 남음</string>
+  <string name="superpower_progress_left_time">%1$d시간 %2$d분</string>
+  <string name="superpower_search_hint">앱 검색</string>
+  <string name="superpower_select_app_title">홈 화면 레이아웃</string>
+  <string name="superpower_settings">울트라 배터리 세이버</string>
+  <string name="superpower_system">추천</string>
+  <string name="superpower_third">써드파티 앱</string>
+  <string name="superpower_exit_hint">배터리 세이버 끄기</string>
+  <string name="gamebooster_network_dialog_message">게임 부스터의 모든 기능을 활성화하려면 네트워크에 연결해야 합니다</string>
+  <string name="gamebooster_network_dialog_title">"일부 기능 제한"</string>
+  <string name="gdpr_msg">&lt;Data&gt;"보안 기본 기능을 사용하려면 샤오미에 보안 사용정보(예: 모바일 데이터 사용 통계, 악성코드에 대한 정보)를 포함한 개인정보 수집 및 처리에 동의해야 합니다. 개인정보 보호 정책은 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보안 정책&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
 </resources>

@@ -8365,4 +8365,7 @@
     <string name="screen_projection_sample_title">데모</string>
     <string name="screen_projection_title">캐스트</string>
     <string name="open_game_accelerate">게임 터보 켜기</string>
+    <string name="dc_light_summary_new">DC 디밍은 낮은 조명 조건에서 눈의 피로를 감소시킵니다. 그러나, Anti-Flicker 모드가 켜져 있을때는 영상 화질이 영향을 받을 수 있습니다.</string>
+    <string name="dark_color_summary_lcd">시스템 배경 및 호환되는 앱에는 어두운 색을 사용합니다. 다크 모드는 어두운 상황에 기기를 사용할 때 눈의 피로를 완화시키는데 도움을 줄 수 있습니다.</string>
+    <string name="dark_color_summary_oled">시스템 배경 및 호환되는 앱에는 어두운 색을 사용합니다. 다크 모드는 전력 소모를 줄이고, 눈의 피로를 완화시키는데 도움을 줄 수 있습니다.</string>
 </resources>

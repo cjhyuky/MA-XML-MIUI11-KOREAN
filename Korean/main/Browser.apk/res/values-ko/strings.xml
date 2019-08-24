@@ -1433,4 +1433,5 @@
   <string name="weather_location_confirm_message">이 기능을 끄는 것은 사용량에 영향을 줄 수 있습니다.</string>
   <string name="webpage_title">북마크 &amp; 기록</string>
   <string name="window_manager_hybrid_application_list_title_text">최근 사용됨</string>
+  <string name="pref_personalized_customization">사용자 맞춤</string>
 </resources>

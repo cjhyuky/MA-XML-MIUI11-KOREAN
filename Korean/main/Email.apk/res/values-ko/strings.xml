@@ -1196,4 +1196,6 @@
     <string name="recommend_protocal">프로토콜 사용을 추천</string>
     <string name="update_domain_summary">사용가능한 도메인 및 구성목록을 업데이트합니다</string>
     <string name="update_domain_title">도메인 설정 업데이트</string>
+    <string name="attachment_opening_mode">첨부 파일 앱</string>
+    <string name="default_opening_attchemnt_mode">기본 앱을 사용하여 첨부 파일 열기</string>
 </resources>

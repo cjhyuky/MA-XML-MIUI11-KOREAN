@@ -70,4 +70,23 @@
     <string name="noheadset_dialog_info">FM 신호가 좋지 않을 수 있습니다. 온라인 콘텐츠를 추천합니다.</string>
     <string name="noheadset_dialog_insert">헤드셋 삽입</string>
     <string name="noheadset_dialog_more">더 많은 라디오 듣기</string>
+    <string name="auto_enter_nowplaying_setting_title">자동으로 최대화된 플레이어 표시</string>
+    <string name="auto_enter_nowplaying_setting_title">개인정보 보호정책</string>
+    <string name="passport_privacy_policy">개인정보 보호정책</string>
+    <string name="privacy_category">개인정보 취급내역</string>
+    <string name="privacy_preference">개인정보 보호정책</string>
+    <string name="local_page_music ">개인정보 보호정책</string>
+    <string name="local_page_music">저장된 음악</string>
+    <string name="dialog_song_view_type">저장된 음악 보기</string>
+    <string name="local_page_playlist">주문을 할 수 없습니다. 다시 시도해주세요</string>
+    <string name="playlist_type_my">재생목록 생성</string>
+    <string name="create_order_fail">재생목록을 만들 수 없습니다.</string>
+    <string name="create_playlist">계정을 만들겠습니다.</string>
+    <string name="create_playlist_failure">재생목록 생성</string>
+    <string name="choose_to_signup">계정 생성</string>
+    <string name="talkback_new_playlist">재생목록 생성</string>
+    <string name="goto_sign_up">회원가입</string>
+    <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei 체험판이 시작되었습니다.</string>
+    <string name="passport_sign_in_or_sign_up">계정으로 로그인/회원가입</string>
+    <string name="add_shortcut_success">홈 스크린 바로 가기가 성공적으로 생성됨</string>
 </resources>

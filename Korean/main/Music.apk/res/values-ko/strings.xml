@@ -764,4 +764,6 @@
     <string name="view_all_news">전체 소식 보기</string>
     <string name="widget_title">좋아하는 음악을 Mi Music에서 찾아보세요</string>
     <string name="can_heard_not_download">"콘텐츠 제공 업체 요청으로 인해 다운로드가 불가능합니다"</string>
+    <string name="play_all_shuffle">&lt;Data>전체 섞기&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;&lt;/Data> </string>
+    <string name="local_page_music">저장된 음악</string>
 </resources>
