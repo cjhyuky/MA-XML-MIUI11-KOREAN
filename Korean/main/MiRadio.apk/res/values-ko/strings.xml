@@ -71,7 +71,6 @@
     <string name="noheadset_dialog_insert">헤드셋 삽입</string>
     <string name="noheadset_dialog_more">더 많은 라디오 듣기</string>
     <string name="auto_enter_nowplaying_setting_title">자동으로 최대화된 플레이어 표시</string>
-    <string name="auto_enter_nowplaying_setting_title">개인정보 보호정책</string>
     <string name="passport_privacy_policy">개인정보 보호정책</string>
     <string name="privacy_category">개인정보 취급내역</string>
     <string name="privacy_preference">개인정보 보호정책</string>
