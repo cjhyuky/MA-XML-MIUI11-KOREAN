@@ -1317,4 +1317,7 @@
   <string name="shopping_recommend">추천 제품</string>
   <string name="shopping_recommend_coupon">쿠폰 ￥%s</string>
   <string name="toast_function_add_limit">%d 바로가기를 추가할 수 있습니다</string>
+  <string name="setting_sticky">맨위로 고정</string>
+  <string name="setting_sticky_canceled">고정 해제</string>
+  <string name="setting_sticky_done">맨위로 고정됨</string>
 </resources>
