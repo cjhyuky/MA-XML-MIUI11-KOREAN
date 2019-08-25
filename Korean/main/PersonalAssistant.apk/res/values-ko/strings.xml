@@ -1320,4 +1320,6 @@
   <string name="setting_sticky">맨위로 고정</string>
   <string name="setting_sticky_canceled">고정 해제</string>
   <string name="setting_sticky_done">맨위로 고정됨</string>
+  <string name="timeline_headline">다가오는 일정</string>
+  <string name="sport_headline">"오늘의 활동"</string>
 </resources>
