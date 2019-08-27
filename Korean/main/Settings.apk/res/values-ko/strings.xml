@@ -8368,4 +8368,11 @@
     <string name="dc_light_summary_new">DC 디밍은 낮은 조명 조건에서 눈의 피로를 감소시킵니다. 그러나, Anti-Flicker 모드가 켜져 있을때는 영상 화질이 영향을 받을 수 있습니다.</string>
     <string name="dark_color_summary_lcd">시스템 배경 및 호환되는 앱에는 어두운 색을 사용합니다. 다크 모드는 어두운 상황에 기기를 사용할 때 눈의 피로를 완화시키는데 도움을 줄 수 있습니다.</string>
     <string name="dark_color_summary_oled">시스템 배경 및 호환되는 앱에는 어두운 색을 사용합니다. 다크 모드는 전력 소모를 줄이고, 눈의 피로를 완화시키는데 도움을 줄 수 있습니다.</string>
+    <string name="full_screen_keyboard_settings">전체 화면 디스플레이 키보드 설정</string>
+    <string name="input_method_bottom_close">끄기</string>
+    <string name="input_method_bottom_open">켜기</string>
+    <string name="input_method_manage">키보드 편집</string>
+    <string name="input_method_settings_text">설정</string>
+    <string name="keyboard_mouse_touch">키보드, 마우스, 트랙패드</string>
+    <string name="other_input_settings">추가 키보드 설정</string>
 </resources>
