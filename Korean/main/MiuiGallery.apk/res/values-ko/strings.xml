@@ -1539,7 +1539,6 @@
     <string name="album_cloud_list_page_title">동기화된 앨범 관리</string>
     <string name="album_hidden_item_button_title">숨기지 않기</string>
     <string name="album_hidden_page_title">숨기기</string>
-    <string name="auto_upload_before_share_title">힌트</string>
     <string name="chooser_fragment_mishare_title">공유하기</string>
     <string name="editphoto_datetime_needdownload_origin_subtitle">촬영시간을 변경하기 위해 원본파일을 Mi 클라우드에서 다운로드.</string>
     <string name="editphoto_datetime_needdownload_origin_title">원본 다운로드</string>
@@ -1548,7 +1547,6 @@
     <string name="remove_hidden_status_success">숨겨짐 앨범에서 %s 삭제</string>
     <string name="remove_hidden_status_tip">이 앨범을 숨김해제하시면 다른 앨범들과 함께 표시됩니다.</string>
     <string name="remove_hidden_status_title">숨기지 않기</string>
-    <string name="search_mark_feedback_false_negative_title">확인</string>
     <string name="show_cloud_albumlist_summary">클라우드로 동기화된 앨범 관리</string>
     <string name="show_hidden_album_summary">숨겨진 앨범 관리 및 표시</string>
     <string name="story_download_without_wifi_msg">"모바일 데이터를 사용하여 파일을 다운로드하시면 데이터 사용이 증가합니다. 추가요금이 청구될 수 있습니다."</string>
