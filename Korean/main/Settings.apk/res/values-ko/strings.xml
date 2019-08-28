@@ -8375,4 +8375,18 @@
     <string name="input_method_settings_text">설정</string>
     <string name="keyboard_mouse_touch">키보드, 마우스, 트랙패드</string>
     <string name="other_input_settings">추가 키보드 설정</string>
+    <string name="link_turbo_prompt">"이 페이지의 통계는 와이파이 연결 속도를 높이기 위해 사용 된 데이터의 양만 보여줍니다.이 통계는 실제 모바일 데이터 사용량을 반영하지 않습니다."</string>
+    <string name="link_turbo_settings_all_app_display_loading">잠시만 기다려주세요…</string>
+    <string name="link_turbo_settings_all_app_reach_max">최대 15 개의 앱을 선택할 수 있습니다</string>
+    <string name="link_turbo_usage_state_month">이번달</string>
+    <string name="link_turbo_usage_state_month_total">이번달</string>
+    <string name="link_turbo_usage_state_today">오늘</string>
+    <string name="link_turbo_usage_state_today_total">오늘</string>
+    <string name="wifi_link_turbo">모바일 데이터를 사용하여 속도 향상</string>
+    <string name="wifi_link_turbo_app_settings_summary">이 기능을 사용할 앱을 선택하십시오</string>
+    <string name="wifi_link_turbo_app_settings_title">앱을 선택하세요</string>
+    <string name="wifi_link_turbo_no_app">아직 사용설정된 앱이 없습니다.</string>
+    <string name="wifi_link_turbo_off">끄기</string>
+    <string name="wifi_link_turbo_on">켜기</string>
+    <string name="wifi_link_turbo_summary">와이파이 연결이 좋지않을 때 선택된 앱에서 모바일 데이터를 사용하여 연결속도를 향상합니다</string>
 </resources>
