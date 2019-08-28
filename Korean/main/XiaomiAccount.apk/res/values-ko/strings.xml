@@ -527,4 +527,10 @@ ID:%s
     <string name="google">구글</string>
     <string name="bind_google">구글 계정으로 접속하세요</string>
     <string name="ep_unsupported">이 기기는 샤오미 계정 로그인을 지원하지 않습니다</string>
+    <string name="passport_user_agreement_link"><Data>"샤오미의 &lt;a href=%1$s>사용자 동의&lt;/a> 와 &lt;a href=%2$s>개인정보 보호정책&lt;/a>을 읽고 동의하였습니다."</Data></string>
+    <string name="system_ad">시스템 앱 광고</string>
+    <string name="system_ad_switch">시스템 앱 광고</string>
+    <string name="system_ad_summary">"시스템 앱에 약간의 광고가 나와도 괜찮으시면 이 기능을 켜십시오. 이 광고는 제품 및 서비스를 개발하고 개선하는데 도움이 됩니다. 언제든지 이 기능을 끄도록 선택할 수 있습니다. 지원 감사합니다! "</string>
+    <string name="system_ad_list">관련 앱 보기</string>
+    <string name="system_ad_switch_failed">실패함</string>
 </resources>
