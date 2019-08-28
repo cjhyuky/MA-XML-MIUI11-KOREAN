@@ -129,4 +129,15 @@
     <string name="grant_dialog_button_allow_always">항상 허용</string>
     <string name="grant_dialog_button_allow_foreground">앱 사용중에만 허용</string>
     <string name="grant_dialog_button_allow_background">항상 허용</string>
+    <string name="permgroupdesc_contacts">연락처 접근</string>
+    <string name="permgroupdesc_location">위치 정보 접근</string>
+    <string name="permgroupdesc_calendar">캘린더 일정 접근</string>
+    <string name="permgroupdesc_sms">메시지 읽기 또는 전송</string>
+    <string name="permgroupdesc_storage">사진 또는 기기의 파일에 접근</string>
+    <string name="permgroupdesc_microphone">오디오 녹음</string>
+    <string name="permgroupdesc_camera">사진과 비디오 촬영</string>
+    <string name="permgroupdesc_calllog">통화기록 접근 및 저장</string>
+    <string name="permgroupdesc_phone">전화 걸기 및 대화 관리</string>
+    <string name="permgroupdesc_sensors">바디 센서 데이터 접근</string>
+    <string name="permgroupdesc_recognition">헬스 &amp; 운동 데이터 접근</string>
 </resources>
