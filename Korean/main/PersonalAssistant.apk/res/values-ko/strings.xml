@@ -178,7 +178,6 @@
   <string name="alipay_newUserRegister">신규 사용자 등록</string>
   <string name="alipay_password">비밀번호</string>
   <string name="alipay_password_login">비밀번호 로그인</string>
-  <string name="alipay_phoneNumber">+86</string>
   <string name="alipay_pre_router_alipay_account">등록 된 alipay 계정을 사용하십시오</string>
   <string name="alipay_pre_router_cancel">취소</string>
   <string name="alipay_pre_router_has_auth_account">인증 된 계정 사용</string>
@@ -573,7 +572,6 @@
   <string name="express_company_phone_prefix">연락처:</string>
   <string name="express_company_pricing_details">가격 정보</string>
   <string name="express_complete">취급</string>
-  <string name="express_complete_flag">3</string>
   <string name="express_contact_address">주소 입력</string>
   <string name="express_contact_address_finding">잠시만 기다려주세요…</string>
   <string name="express_contact_label">픽업 서비스 정보</string>
@@ -585,7 +583,6 @@
   <string name="express_delete_order">삭제</string>
   <string name="express_delete_tel">전화 번호 삭제</string>
   <string name="express_delivery">배송중</string>
-  <string name="express_delivery_flag">5</string>
   <string name="express_dest_city_label">도착지</string>
   <string name="express_detail_order_number_prefix">숫자 : %s</string>
   <string name="express_detailed_address">주소</string>
@@ -594,7 +591,6 @@
   <string name="express_goods_detail">주문 정보</string>
   <string name="express_icon_tip">특송정보를 귀하의 전화번호와 주문 정보를 이용해 자동 저장되도록 설정하세요.</string>
   <string name="express_icon_tip_link">보안 &amp; 개인정보보호</string>
-  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">배송 서비스 업체</string>
   <string name="express_inquiry">배송 조회</string>
   <string name="express_inquiry_all_logistics">전체</string>
@@ -644,7 +640,6 @@
   <string name="express_order_failed">실패</string>
   <string name="express_order_ongoing">주문 중…</string>
   <string name="express_order_result">결과</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">수락됨</string>
   <string name="express_order_state_allograph">서명됨</string>
   <string name="express_order_state_cancelled">취소됨</string>
@@ -944,8 +939,6 @@
   <string name="kakalib_bar_qr_code">바코드와 QR 코드</string>
   <string name="kakalib_ok">확인</string>
   <string name="keyboard_alipay">alipay 보안 키보드</string>
-  <string name="keyboard_more_abc">\#+=</string>
-  <string name="keyboard_more_num">123</string>
   <string name="keyboard_ok">완성</string>
   <string name="keyboard_space">비공개</string>
   <string name="keyword_recommend">추천</string>
@@ -1108,7 +1101,6 @@
   <string name="mini_safe_no">보안 코드</string>
   <string name="mini_safe_no_hint">카드 뒷면의 마지막 세 자리</string>
   <string name="mini_start_download">다운로드 시작...</string>
-  <string name="mini_str_null">더블 엑스</string>
   <string name="mini_temp_support_xiaomi">일시적으로 xiaomi 브레이슬릿 만 지원</string>
   <string name="mini_to_open">켜려면</string>
   <string name="mini_to_open_error">지문 수집 소프트웨어 시작 오류가 있는지 확인하십시오.</string>
@@ -1175,11 +1167,7 @@
   <string name="msp_memo_user_cancel">작업이 취소되었습니다.</string>
   <string name="msp_mini_card_type_text">카드 종류</string>
   <string name="msp_mini_choose_identitify">문서 카테고리를 선택하십시오</string>
-  <string name="msp_mini_layout">mini_layout</string>
-  <string name="msp_mini_layout_parent">mini_layout_parent</string>
-  <string name="msp_mini_linblocksconpent">mini_linBlocksConpent</string>
   <string name="msp_mini_read_protocal_title">읽기 계약을 선택하십시오</string>
-  <string name="msp_mini_root">mini_root</string>
   <string name="msp_mini_safty_code_info">安全 码 是 打印 在 信用卡 背面 签名 区 的 一 组 数字, 一般 是 后 3 位 数字</string>
   <string name="msp_mini_safty_code_title">보안 코드 설명</string>
   <string name="msp_phone_num_info">은행에서 예약 한 휴대폰 번호는 은행 카드를 처리 할 때 입력 된 휴대폰 번호입니다.\n\n예약이 없거나 휴대폰 번호를 잊어 버렸거나 비활성화 된 경우 은행 고객 서비스 업데이트 프로세스에 문의하십시오.</string>
@@ -1284,7 +1272,6 @@
   <string name="paycode_sdk_parent">지불 바로가기</string>
   <string name="paycode_sdk_parent_title">빠른 지불</string>
   <string name="payment">나의 구매내역</string>
-  <string name="payment_amount_empty">0.00</string>
   <string name="payment_app_name">나의 구매내역</string>
   <string name="payment_card_title">나의 구매내역</string>
   <string name="payment_clear_records_dialog_message">모든 구매내역 기록을 삭제 하시겠습니까?</string>
@@ -1344,13 +1331,11 @@
   <string name="payment_user_notice_bar_text">\"나의 주문내역\"에 대하여</string>
   <string name="peccancy_acquire">교통 위반</string>
   <string name="personalAssistant_mainpage">Mi 홈페이지</string>
-  <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
   <string name="phone_check">최적화</string>
   <string name="pie_chart_label_atm">ATM 출금:</string>
   <string name="pie_chart_label_catering">음식:</string>
   <string name="pie_chart_label_education">교육:</string>
   <string name="pie_chart_label_entertainment">엔터테인먼트:</string>
-  <string name="pie_chart_label_format">%1$s %2$s%%</string>
   <string name="pie_chart_label_go_dutch">더치페이:</string>
   <string name="pie_chart_label_life">생활:</string>
   <string name="pie_chart_label_medical">의학정보:</string>
@@ -1359,7 +1344,6 @@
   <string name="pie_chart_label_remain">남은 항목:</string>
   <string name="pie_chart_label_remittance">전송된 파일명:</string>
   <string name="pie_chart_label_shopping">쇼핑:</string>
-  <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
   <string name="pie_chart_label_spending">결제 수단:</string>
   <string name="pie_chart_label_telephone_charge">연락 수단:</string>
   <string name="pie_chart_label_tenement">대여:</string>
@@ -1567,7 +1551,6 @@
   <string name="sport_headline">오늘의 활동</string>
   <string name="sport_open">Mi Fit 카드 표시</string>
   <string name="start_download">다운로드를 시작합니다.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="step_cal_unit">Kcal</string>
   <string name="step_km">km</string>
   <string name="step_setting_tip">걸음 추적기 정보</string>
@@ -1588,7 +1571,6 @@
   <string name="steps_vip_des">다른 앱 설치 없이 걸음 추적기 사용</string>
   <string name="stock_card_add">회사 추가</string>
   <string name="stock_card_title">주식</string>
-  <string name="stock_change_rate_format">% .2f %%</string>
   <string name="stock_color_schema">색 구성표</string>
   <string name="stock_list_empty_text">아직 팔로우하고 있는 회사가 없습니다.</string>
   <string name="stock_search_empty">결과를 찾을 수 없습니다.</string>
@@ -1603,7 +1585,6 @@
   <string name="system_favorite_dialog_negative">취소</string>
   <string name="system_favorite_dialog_positive">허용</string>
   <string name="system_favorite_dialog_title_confirm">즐겨찾기</string>
-  <string name="tag_view_nav">tag_view_nav</string>
   <string name="take_off">이륙</string>
   <string name="taked_off">이륙</string>
   <string name="taobao_auth_login">타오바오 사용자는 간편하게 로그인하실 수 있습니다.</string>
