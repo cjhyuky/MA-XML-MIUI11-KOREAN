@@ -500,4 +500,6 @@
     <string name="close">닫기</string>
     <string name="close_ad">광고 닫기</string>
     <string name="path_not_available">경로가 존재하지 않습니다</string>
+    <string name="path_no_available">"경로가 존재하지 않습니다"</string>
+    <string name="xunlei_brand">Xunlei에서 제공함</string>
 </resources>
