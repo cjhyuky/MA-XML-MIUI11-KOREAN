@@ -1878,6 +1878,6 @@
 스크린샷을 촬영해보세요"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"배터리 세이버가 켜져 있으면 공간 전환을 할 수 없습니다"</string>
   <string name="gxzw_add_fingerprint_area">지문센서</string>
-  <string name="quick_settings_nightmode_label">어두운 모드</string>
+  <string name="quick_settings_nightmode_label">다크 모드</string>
   <string name="qs_open_night_mode_alert_summary">어떤 디스플레이 설정은 다크 모드와 호환되지 않습니다.. 그러나 다크 모드를 끄면 복구가 됩니다.</string>
 </resources>
