@@ -533,4 +533,6 @@ ID:%s
     <string name="system_ad_summary">"시스템 앱에 약간의 광고가 나와도 괜찮으시면 이 기능을 켜십시오. 이 광고는 제품 및 서비스를 개발하고 개선하는데 도움이 됩니다. 언제든지 이 기능을 끄도록 선택할 수 있습니다. 지원 감사합니다! "</string>
     <string name="system_ad_list">관련 앱 보기</string>
     <string name="system_ad_switch_failed">실패함</string>
+    <string name="passport_ticket_login_select_sim_card">SIM 카드 선택</string>
+    <string name="passport_ticket_login_select_sim_card_cancel">취소</string>
 </resources>
