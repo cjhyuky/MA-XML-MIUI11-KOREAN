@@ -284,4 +284,5 @@
   <string name="slavewifi_disconnect">연결끊김</string>
   <string name="slavewifi_notification_title">듀얼밴드 Wi-Fi 가속</string>
   <string name="slavewifi_settings">설정을 변경하려면 터치하세요</string>   
+  <string name="flip_screen_camera_tip">카메라를 사용하려면 기기를 뒤로 돌리세요</string>
 </resources>
