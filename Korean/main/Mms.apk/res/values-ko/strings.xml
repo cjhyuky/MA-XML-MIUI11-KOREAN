@@ -350,6 +350,7 @@
     <string name="notification_failed_multiple_title">메시지 전송 안됨</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">새 메시지</string>
+    <string name="notification_seen">읽음으로 표시</string>
     <string name="number_add_hint">전화번호 입력</string>
     <string name="open_audio_record_panel">오디오 녹음 패널 열기</string>
     <string name="open_url_with_web">이 URL을 브라우저에서 여시겠습니까?</string>
