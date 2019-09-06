@@ -8235,7 +8235,7 @@
     <string name="enable_tcp_rtt_support">TCP RTT 표시</string>
     <string name="enable_tcp_rtt_support_summary">네트워크 통신 품질 성능 평가</string>
     <string name="popup_gesture_title">전면 카메라 위로 올리기</string>
-    <string name="popup_gesture_summary">홈화면으로 돌아가서 휴대전화를 들어올리고 화면을 보면 자동으로 전면 카메라가 열립니다.</string>
+    <string name="popup_gesture_summary">휴대전화를 들고 20cm정도 위로 들어올리면 전면 카메라가 열립니다.</string>
     <string name="miui_lab_3d_gesture_title">3D 패턴</string>
     <string name="miui_lab_3d_gesture_slogan">앱을 열기위해 휴대전화를 들고 허공에 패턴을 그리세요</string>
     <string name="miui_lab_3d_gesture_summary">앱을 열기위해 휴대전화를 들고 허공에 패턴을 그리세요</string>
@@ -8389,4 +8389,19 @@
     <string name="wifi_link_turbo_off">끄기</string>
     <string name="wifi_link_turbo_on">켜기</string>
     <string name="wifi_link_turbo_summary">와이파이 연결이 좋지않을 때 선택된 앱에서 모바일 데이터를 사용하여 연결속도를 향상합니다</string>
+    <string name="ring_volume_option_title">전화, 미리알림, 알림</string>
+    <string name="media_volume_option_title">음악, 게임, 미디어</string>
+    <string name="system_haptic_feedback">햅틱 피드백</string>
+    <string name="calendar_remind">이벤트</string>
+    <string name="notification_remind">알림</string>
+    <string name="title_layout_current2_weight">폰트 사이즈 &amp; 폰트 굵기</string>
+    <string name="weight_light">얇게</string>
+    <string name="weight_heavy">두껍게</string>
+    <string name="weight_setting_toast">기본 시스템 폰트만 굵기를 변경하실 수 있습니다</string>
+    <string name="auto_clean_title">스피커 청소</string>
+    <string name="auto_clean_summary">스피커 청소를 위해 30초동안 오디오를 재생합니다</string>
+    <string name="auto_clean_description">기능 정보\n1. 스피커가 먼지로 가볍게 막힌 경우이 기능을 한두 번 실행하십시오.\n2. 스피커가 심하게 막힌 경우 스피커를 아래쪽으로 향하게하여 기기를 흔들면서 이 기능을 2-5회 실행하십시오.</string>
+    <string name="dialog_speaker_auto_clean_title">주의</string>
+    <string name="dialog_speaker_auto_clean_content">"청소는 30초 소요됩니다. 이 페이지를 벗어나지 마세요. 최대의 효과를 위해 볼륨을 최대로 키우세요."</string>
+    <string name="dialog_speaker_auto_clean_button">확인</string>
 </resources>
