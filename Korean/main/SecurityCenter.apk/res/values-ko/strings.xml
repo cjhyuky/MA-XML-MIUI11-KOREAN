@@ -1745,6 +1745,17 @@
   <string name="percentage">%d%%</string>
   <string name="perfermance_optimization_summary">과열 및 하드웨어 문제 방지</string>
   <string name="perfermance_optimization_title">성능 최적화</string>
+  <string name="permgroupdesc_contacts">연락처 접근</string>
+  <string name="permgroupdesc_location">위치 정보 접근</string>
+  <string name="permgroupdesc_calendar">캘린더 일정 접근</string>
+  <string name="permgroupdesc_sms">메시지 송수신</string>
+  <string name="permgroupdesc_storage">기기의 사진과 파일 접근</string>
+  <string name="permgroupdesc_microphone">오디오 녹음</string>
+  <string name="permgroupdesc_camera">사진 촬영과 비디오 촬영</string>
+  <string name="permgroupdesc_calllog">통화목록 저장 및 접근</string>
+  <string name="permgroupdesc_phone">통화 및 대화 편집</string>
+  <string name="permgroupdesc_sensors">바디 센서 데이터 접근</string>
+  <string name="permgroupdesc_recognition">헬스 &amp; 운동 데이터 접근</string>
   <string name="permission_action_accept">승인</string>
   <string name="permission_action_prompt">알림</string>
   <string name="permission_action_reject">거부</string>
