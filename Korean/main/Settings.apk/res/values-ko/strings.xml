@@ -8389,8 +8389,6 @@
     <string name="wifi_link_turbo_off">끄기</string>
     <string name="wifi_link_turbo_on">켜기</string>
     <string name="wifi_link_turbo_summary">와이파이 연결이 좋지않을 때 선택된 앱에서 모바일 데이터를 사용하여 연결속도를 향상합니다</string>
-    <string name="ring_volume_option_title">전화, 미리알림, 알림</string>
-    <string name="media_volume_option_title">음악, 게임, 미디어</string>
     <string name="system_haptic_feedback">햅틱 피드백</string>
     <string name="calendar_remind">이벤트</string>
     <string name="notification_remind">알림</string>
