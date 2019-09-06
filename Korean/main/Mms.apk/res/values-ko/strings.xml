@@ -869,15 +869,12 @@
     <string name="group_message_title">그룹 채팅</string>
     <string name="heduohao_sub_sim_card">서브</string>
     <string name="is_composing">입력중…</string>
-    <string name="me">나</string>
-    <string name="menu_lock">즐겨찾기에 추가</string>
     <string name="menu_sms_block">차단목록</string>
-    <string name="messagelist_sender_self">나</string>
-    <string name="mms_block_alert_message">승인된 발신자 외의 모든 MMS가 차단됩니다. Authorized senders include network carriers, national railway booking systems, etc.</string>
+    <string name="mms_block_alert_message">승인된 발신자 외의 모든 MMS가 차단됩니다. 승인된 발신자에는 네트워크 사업자, 전국 철도 예약 시스템 등이 있습니다.</string>
     <string name="mms_block_alert_ok">차단</string>
     <string name="mms_block_alert_title">MMS 차단</string>
-    <string name="mms_block_hint">"This sender isn't in your contacts.This message might be unsolicited."</string>
-    <string name="mms_block_hint_highlight">Block MMS</string>
+    <string name="mms_block_hint">"발신자가 연락처에 없습니다. 이 메시지는 자발적인 것일 수 있습니다."</string>
+    <string name="mms_block_hint_highlight">MMS 차단</string>
     <string name="notification_delete">삭제</string>
     <string name="no_longer_recommend">"다시 보지 않기"</string>
     <string name="pref_summary_privacy_authority">이 스위치를 토글하여 권한 부여 또는 취소</string>
@@ -916,7 +913,6 @@
     <string name="rcs_setting_tips">메시징 설정에서 다른 전달 방법을 변경할 수 있습니다.</string>
     <string name="rcs_up_not_online">RCS가 오프라인 상태입니다.  네트워크 설정을 확인하고 다시 시도하십시오.</string>
     <string name="recipients_contain_sub_sim_number">"수신자 사이에 보조 SIM 번호가 있는 것 같습니다. 보조 SIM을 사용하여 이 메시지를 보내십시오."</string>
-    <string name="secs">초</string>
     <string name="shortcut_new_msg">새로운 메시지</string>
     <string name="shortcut_setting">설정</string>
     <string name="sub_sim_card">서브</string>
