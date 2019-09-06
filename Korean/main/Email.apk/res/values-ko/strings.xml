@@ -512,8 +512,8 @@
     <string name="mark_important">중요 표시</string>
     <string name="mark_not_important">중요 표시 해제</string>
     <string name="mark_not_spam">스팸 표시 해제</string>
-    <string name="mark_read">읽음으로 표시</string>
-    <string name="mark_unread">읽지 않음으로 표시</string>
+    <string name="mark_read">읽음</string>
+    <string name="mark_unread">읽지 않음</string>
     <string name="me_object_pronun">나</string>
     <string name="me_subject_pronun">나</string>
     <string name="meeting_accepted">"
