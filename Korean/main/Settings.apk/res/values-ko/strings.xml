@@ -8402,4 +8402,16 @@
     <string name="dialog_speaker_auto_clean_title">주의</string>
     <string name="dialog_speaker_auto_clean_content">"청소는 30초 소요됩니다. 이 페이지를 벗어나지 마세요. 최대의 효과를 위해 볼륨을 최대로 키우세요."</string>
     <string name="dialog_speaker_auto_clean_button">확인</string>
+    <string name="notification_animation_style">스페셜 효과</string>
+    <string name="aod_style_title">스타일</string>
+    <string name="aod_style_description">화면이 꺼지면 시계, 날짜, 알림 등을 표시합니다.Display c</string>
+    <string name="aod_show_mode_title">항목 표시</string>
+    <string name="temporary_style">화면을 탭한 뒤 10초</string>
+    <string name="scheduled_style">예정됨</string>
+    <string name="always_style">항상</string>
+    <string name="aod_close_color_inversion">"이 기능은 색상 반전과 함께 사용할 수 없습니다. 색상 반전을 먼저 끄세요."</string>
+    <string name="aod_to_close">끄기</string>
+    <string name="aod_notification_style_none">아무것도 하지 않기</string>
+    <string name="aod_notification_style_screen_on">화면 조명 켜기</string>
+    <string name="aod_notification_style_animation">애니메이션 표시</string>
 </resources>
