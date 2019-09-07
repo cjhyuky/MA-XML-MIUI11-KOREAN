@@ -34,21 +34,21 @@
     <string name="pref_title_voice_slot">선호하는 음성 SIM 카드</string>
     <string name="pref_title_data_slot">선호하는 데이터 SIM 카드</string>
     <string name="summary_not_set">설정 안 됨</string>
-    <string name="ime_privacy_policy">선택한 키보드의 개인 정보 보호 정책</string>
+    <string name="ime_privacy_policy">선택한 키보드의 개인정보 보호정책</string>
     <string name="ime_privacy_policy_no_network">네트워크 연결 없음. %s에서 이 키보드의 개인 정보 보호 정책 보기</string>
     <string name="terms_of_use">이용 약관</string>
     <string name="terms_of_use_label">"사용자의 개인 정보는 매우 소중합니다. 수집되는 정보가 어떻게 사용되고 사용자의 선택지는 무엇이 있는지 알고 싶다면 이용 약관과 개인정보 보호 정책을 참고하십시오.
 
-MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드시 동의하셔야 합니다. Mi SIM 활성화 서비스, Mi 클라우드, Mi 서비스, 기기 찾기, 홈스크린 모듈, 게임 서비스, MAB 및 MSA 시스템 구성 요소, 다이렉트 서비스, 퀵 카드, 통계, Mi 스마트카드, Mi 계정 구성 요소 등의 기능들은 인터넷에 연결하고 사용자의 위치를 수신할 것입니다."</string>
-    <string name="user_agreement">이용 약관</string>
-    <string name="privacy_policy">개인 정보 보호 정책</string>
+MIUI를 사용하시려면 이용 약관과 개인정보 보호정책에 반드시 동의하셔야 합니다. Mi SIM 활성화 서비스, Mi 클라우드, Mi 서비스, 기기 찾기, 홈스크린 모듈, 게임 서비스, MAB 및 MSA 시스템 구성 요소, 다이렉트 서비스, 퀵 카드, 통계, Mi 스마트카드, Mi 계정 구성 요소 등의 기능들은 인터넷에 연결하고 사용자의 위치를 수신할 것입니다."</string>
+    <string name="user_agreement">사용자 동의</string>
+    <string name="privacy_policy">개인정보 보호정책</string>
     <string name="application_permissions">앱 권한</string>
     <string name="agree">동의</string>
     <string name="disagree">취소</string>
     <string name="setting_locale">지역 설정 중…</string>
-    <string name="agree_terms">저는 이용 약관과 개인 정보 보호 정책을 읽었고 이에 동의합니다.</string>
-    <string name="miui_terms_no_network">인터넷이 연결되지 않았습니다. %s에서 이용 약관을 보십시오.</string>
-    <string name="miui_privacy_policy_no_network">인터넷이 연결되지 않았습니다. %s에서 개인 정보 보호 정책을 보십시오.</string>
+    <string name="agree_terms">저는 사용자 동의와 개인정보 보호정책을 읽었고 이에 동의합니다.</string>
+    <string name="miui_terms_no_network">인터넷이 연결되지 않았습니다. %s에서 사용자 동의 사항을 보십시오.</string>
+    <string name="miui_privacy_policy_no_network">인터넷이 연결되지 않았습니다. %s에서 개인정보 보호정책을 보십시오.</string>
     <string name="locale_picker_title">지역을 선택하십시오</string>
     <string name="install_preinstall_app">앱 로딩 중…</string>
     <string name="title_fingerprint">지문 추가</string>
@@ -93,7 +93,7 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="other_settings_user_experience_summary_index"></string>
     <string name="sim_card_detection_mobile_not_available">"SIM카드 네트워크 접속 실패"</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"귀하의 SIM카드로 네트워크에 접속할 수 없습니다. 확인하시고 다시 연결해주세요."</string>
-    <string name="start_up_slogan">가장 멋진 비율의 전체화면을 경험해보세요</string>
+    <string name="start_up_slogan">샤오미 기기로 생산성을 높여보세요</string>
     <string name="agree_terms_input_method_facemoji">"나는 Facemoji 개인 정보 보호 정책을 읽고 동의했습니다."</string>
     <string name="agree_terms_input_method_kika">"나는 Kika 개인 정보 보호 정책을 읽고 동의했습니다."</string>
     <string name="terms_of_use_label_systemhelper">, 자체 등록 서비스</string>
