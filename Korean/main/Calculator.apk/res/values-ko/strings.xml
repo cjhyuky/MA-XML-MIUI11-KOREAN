@@ -170,6 +170,10 @@
     <string name="unit_data_display_velocity_mileph">mile/시간</string>
     <string name="unit_data_display_velocity_ftps">ft/초</string>
     <string name="unit_data_display_velocity_inps">in/초</string>
+    <string name="unit_data_display_radix_10">10진수</string>
+    <string name="unit_data_display_radix_16">16진수</string>
+    <string name="unit_data_display_radix_2">2진수</string>
+    <string name="unit_data_display_radix_8">8진수</string>   
     <string name="unit_data_display_time_min">분</string>
     <string name="unit_data_display_time_h">시간</string>
     <string name="unit_data_display_time_day">일</string>
