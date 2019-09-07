@@ -448,4 +448,7 @@
     <string name="exit">나가기</string>
     <string name="tax_rate_provider_east_money">새로운 세금 규정으로 계산됨. 이스트 머니 제공.</string>
     <string name="mortgage_provider_east_money">데이터는 East Money 제공입니다</string>
+    <string name="choose_radix">변환할 진수를 선택하세요</string>
+    <string name="convertion_unit_radix">진수 변환</string>
+    <string name="item_title_radix">진수 변환</string> 
 </resources>
