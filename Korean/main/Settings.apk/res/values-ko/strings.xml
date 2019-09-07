@@ -8361,7 +8361,7 @@
     <string name="screen_projection_example_game_summary">게임 터보를 사용하면 게임을 외부 모니터로 전송할 수 있습니다.  이 기능을 켜려면 게임 터보 도구 상자의 바로 가기를 사용하십시오.</string>
     <string name="screen_projection_example_game_title">게임</string>
     <string name="screen_projection_help">도움말</string>
-    <string name="screen_projection_sample_summary">뭄서, 게임, 사진, 비디오 캐스팅</string>
+    <string name="screen_projection_sample_summary">문서, 게임, 사진, 비디오 캐스팅</string>
     <string name="screen_projection_sample_title">데모</string>
     <string name="screen_projection_title">캐스트</string>
     <string name="open_game_accelerate">게임 터보 켜기</string>
@@ -8414,4 +8414,5 @@
     <string name="aod_notification_style_none">아무것도 하지 않기</string>
     <string name="aod_notification_style_screen_on">화면 조명 켜기</string>
     <string name="aod_notification_style_animation">애니메이션 표시</string>
+    <string name="system_print_service_help">인쇄에 관하여</string>
 </resources>
