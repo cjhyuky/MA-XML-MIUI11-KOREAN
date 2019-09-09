@@ -184,7 +184,7 @@
     <string name="rainfall_settings_title">강우</string>
     <string name="rainfall_settings_summary">강우 경보</string>
     <string name="night_not_disturb_settings_title">"밤에는 알림이 울리지 않습니다."</string>
-    <string name="night_not_disturb_settings_summary">23:00부터 07:00사이에 알림이 울립니다.</string>
+    <string name="night_not_disturb_settings_summary">23:00부터 07:00사이에는 경고를 차단합니다.</string>
     <string name="reminder_from_xiaomi_weather_app">Mi 날씨 경고</string>
     <string name="it_is_going_to_rain">"비가 옵니다."</string>
     <string name="your_location">당신의 위치</string>
@@ -344,4 +344,12 @@
   <string name="tts_best_aqi">최고의 공기 품질</string>
   <string name="tts_hour_weather_date_time">%1$s의 %2$s로부터 %3$s의 %4$s로</string>
   <string name="tts_max_wind_power">최대 풍속</string>
+  <string name="about_weather_setting">날씨에 대하여</string>
+  <string name="about_weather_setting_feedback">피드백</string>
+  <string name="abrupt_weather_settings_summary_type">예상 강우, 대기 질 변화 및 기타 중요한 변화에 대한 경고를 받습니다.</string>
+  <string name="alert_weather_enable_settings_summary">공식 날씨 경고 수신</string>
+  <string name="alert_weather_enable_settings_title">날씨 경고</string>
+  <string name="feedback">잘못된 날씨 정보 신고</string>
+  <string name="warning_weather_day_and_night_settings_summary">아침 7시와 저녁 7시에 날씨 정보가 포함된 일일 요약을 수신합니다</string>
+  <string name="warning_weather_day_and_night_settings_title">일일 요약</string>
 </resources>
