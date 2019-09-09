@@ -173,7 +173,7 @@
     <string name="action_mode_switcher_list_description">목록 보기</string>
     <string name="action_mode_switcher_grid_description">격자 보기</string>
     <string name="action_folder_description">폴더 보기</string>
-    <string name="action_settings_description">설정 열기</string>
+    <string name="action_settings_description">설정</string>
     <string name="menu_add_folder_description">폴더 추가</string>
     <string name="toolbar_share_description">이 메모 공유</string>
     <string name="toolbar_theme_description">테마 선택</string>
