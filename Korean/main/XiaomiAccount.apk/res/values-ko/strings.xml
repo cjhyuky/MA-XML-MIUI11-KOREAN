@@ -526,7 +526,7 @@ ID:%s
     <string name="need_install_wechat">먼저 위챗을 설치하세요</string>
     <string name="google">구글</string>
     <string name="bind_google">구글 계정으로 접속하세요</string>
-    <string name="ep_unsupported">이 기기는 샤오미 계정 로그인을 지원하지 않습니다</string>
+    <string name="ep_unsupported">이 기기에서 Mi 계정 로그인 불가</string>
     <string name="passport_user_agreement_link"><Data>"샤오미의 &lt;a href=%1$s>사용자 동의&lt;/a> 와 &lt;a href=%2$s>개인정보 보호정책&lt;/a>을 읽고 동의하였습니다."</Data></string>
     <string name="system_ad">시스템 앱 광고</string>
     <string name="system_ad_switch">시스템 앱 광고</string>
