@@ -8410,8 +8410,6 @@
     <string name="temporary_style">화면을 탭한 뒤 10초</string>
     <string name="scheduled_style">예정됨</string>
     <string name="always_style">항상</string>
-    <string name="aod_close_color_inversion">"이 기능은 색상 반전과 함께 사용할 수 없습니다. 색상 반전을 먼저 끄세요."</string>
-    <string name="aod_to_close">끄기</string>
     <string name="aod_notification_style_none">아무것도 하지 않기</string>
     <string name="aod_notification_style_screen_on">화면 조명 켜기</string>
     <string name="aod_notification_style_animation">애니메이션 표시</string>
