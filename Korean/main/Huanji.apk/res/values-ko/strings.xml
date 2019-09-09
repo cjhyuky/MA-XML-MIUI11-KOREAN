@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_forbidden_use_tips">"Mi Mover는 테블릿으로의 송신, 수신을 모두 지원하지 않습니다."</string>
+    <string name="close_vpn_summary">현재 VPN에 연결되어 있는 것으로 보입니다. 다른기기에 연결할 수 있도록 VPN을 끄세요.</string>
+    <string name="close_vpn_title">VPN 끄기</string>
+    <string name="dialog_version_summary_tip">"새로운 기능:"</string>
+    <string name="miui_need_location_permission_summary">"주변의 기기를 찾기 위해 Mi Mover가 사용자의 위치에 액세스하도록 허용합니다.이 권한을 부여하지 않으면 Mi Mover를 사용할 수 없습니다."</string>
+    <string name="miui_need_location_permission_title">위치에 대한 액세스 허용</string>
+    <string name="miui_need_open_high_accuracy_summary">"주변의 기기를 찾기 위해 Mi Mover가 고 정확도 모드에서 사용자의 위치에 액세스하도록 허용합니다.이 권한을 부여하지 않으면 Mi Mover를 사용할 수 없습니다."</string>
+    <string name="miui_need_open_high_accuracy_title">정확한 위치 정보에 대한 액세스 허용</string>
+    <string name="need_location_permission_summary">Mi Mover가 근처의 기기를 찾을 수 있도록 내 위치에 액세스하도록 허용합니다.</string>
+</resources>
