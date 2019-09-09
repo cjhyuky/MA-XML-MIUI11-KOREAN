@@ -127,4 +127,7 @@
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s 시간 %2$s"</item>
     </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">%1$d초 안에 끊기</item>
+    </plurals>
 </resources>
