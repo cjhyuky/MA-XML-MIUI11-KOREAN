@@ -293,7 +293,8 @@
   <string name="allow_interruption">중단 허용</string>
   <string name="allow_interruption_summary">앱이 소리, 진동 또는 팝업 알림을 화면에 표시하도록 합니다</string>
   <string name="allow_keyguard_summary">잠금화면에 알림을 표시합니다</string>
-  <string name="allow_keyguard_title">잠금화면 알림</string>
+  <string name="allow_keyguard_title">잠금화면
+알림</string>
   <string name="allow_lights_title">알림 표시등</string>
   <string name="allow_mock_location">모의 위치 허용</string>
   <string name="allow_mock_location_summary">모의 위치 허용</string>
