@@ -45,4 +45,7 @@
     <plurals name="tts_report_temperature_low_fahrenheit">
         <item quantity="other">최저 기온: 화씨 %1$s도</item>
     </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">%1$s일 일기예보</item>
+    </plurals>
 </resources>
