@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="contact_detail_more_calllog">더보기</string>
     <string name="contacts_setting_title">연락처 설정</string>
     <string name="search_contacts_setting">연락처 설정;사진 및 정보 표시;연락처 사진 지정;가져오기 및 내보내기;공유; SD 카드에서 가져오기;SIM 카드에서 가져오기;다른 휴대전화에서 가져오기;SD 카드에서 내보내기;SIM 카드에서 내보내기;연락처 공유; 디스플레이 선호설정;미완성 번호 숨기기;SIM 연락처 표시;연락처 목록 구성;스마트 그룹;연락처 조직; 중복 연락처 합치기;일괄 삭제;데이터 지우기;색인 데이터 리빌드;t9;SIM 카드;SIM 카드 저장소;연락처 복구 소개;연락처 사진</string>
     <string name="path_contacts_setting">시스템 앱/연락처</string>
@@ -531,7 +532,7 @@
     <string name="create_group_dialog_title">새 그룹 만들기</string>
     <string name="create_group_item_label">새 그룹 만들기</string>
     <string name="delete_group_dialog_title">그룹 삭제</string>
-    <string name="delete_group_dialog_message">\"%1$s\" 그룹을 삭제해도 연락처는 삭제되지 않습니다.</string>
+    <string name="delete_group_dialog_message">"\"%1$s\" 그룹을 삭제하시겠습니까? 연락처 자체는 삭제되지 않습니다."</string>
     <string name="toast_join_with_empty_contact">다른 연락처 이름과 합치기 전에 연락처 이름 입력</string>
     <string name="copy_text">클립보드에 복사</string>
     <string name="set_default">기본값 설정</string>
