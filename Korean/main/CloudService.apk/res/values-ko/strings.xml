@@ -737,4 +737,5 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="cloud_storage_info_type_pdc">시스템 설정</string>
     <string name="sync_normal_title">동기화를 완료할 수 없음</string>
     <string name="sync_normal_summary">아래 목록에서 일부 항목을 동기화할 수 없습니다.</string>
+    <string name="storage_manage_title">클라우드 요금제 변경</string>
 </resources>
