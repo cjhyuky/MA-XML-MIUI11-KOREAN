@@ -9,7 +9,7 @@
   <string name="app_search">앱 검색</string>
   <string name="btn_send">전송</string>
   <string name="bugreport_dialog_not_show_again">다시 표시하지 않기</string>
-  <string name="bugreport_dialog_submit_content">&lt;Data&gt;\"이제 이 기기의 소프트웨어 로그를 저장하고 있습니다. 로그에는 개인 정보와 위치 데이터가 포함될 수 있습니다. 이 정보를 공개하지 않으려면 다른 사람과 로그를 공유하지 마십시오. 동의를 선택하시면 저희의 개인정보 보호정책과 사용자 동의에 동의하신걸로 처리됩니다.\"&lt;/Data&gt;</string>
+  <string name="bugreport_dialog_submit_content"><Data>"지금 이 기기에 소프트웨어 로그를 저장하고 있습니다. 로그에는 개인 정보와 위치 데이터가 포함될 수 있습니다.이 정보를 원하지 않으면 다른 사람과 로그를 공유하지 마십시오. \"동의\"를 선택한다는 것은 귀하가 &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a> 과 &lt;a href=\"%2$s\">사용자 동의&lt;/a>를 읽고 동의했음을 의미합니다."</Data></string>
   <string name="bugreport_dump_complete_notification_summary">탭하여 보기</string>
   <string name="bugreport_dump_complete_notification_title">버그 보고서 작성됨</string>
   <string name="bugreport_dump_start_notification_summary">이 작업은 몇 분 소요됩니다</string>
@@ -94,7 +94,7 @@
   <string name="feedback_description_suggest_hint">저는 새 기능 ()을 추가하고 싶습니다. 왜냐하면 ()가 필요합니다.</string>
   <string name="feedback_detail_tile">진행</string>
   <string name="feedback_empty_report_list">보고서 아직 없음</string>
-  <string name="feedback_guess">추측</string>
+  <string name="feedback_guess">우리의 추측:</string>
   <string name="feedback_history_remind_login_desc">Mi 계정으로 로그인하시면 \"내 보고서\"에서 보고서의 진행 과정과 자세한 정보를 확인하실 수 있습니다.</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA 키: %s</string>
@@ -170,7 +170,7 @@
   <string name="issue_search">검색</string>
   <string name="kr_authorization_agree">수락</string>
   <string name="kr_authorization_contact">계정</string>
-  <string name="kr_authorization_contact_desc">Mi 계정 정보를 가져오고 계정을 식별하기 위함</string>
+  <string name="kr_authorization_contact_desc">기기를 식별하기 위해 Mi 계정 정보에 액세스하는 경우</string>
   <string name="kr_authorization_exit">나가기</string>
   <string name="kr_authorization_log_protocol">로그 프로토콜(선택옵션)</string>
   <string name="kr_authorization_log_protocol_desc">제공된 서비스를 개선하기 위해 사용 통계 및 시스템 로그를 서버에 업로드합니다. 이 항목에는 개인 정보는 물론 장치 및 네트워크에 대한 정보가 포함될 수 있습니다. 업로드 된 항목을 사용하여 시스템의 문제를 찾고 분석합니다.</string>
@@ -478,8 +478,8 @@
   <string name="select_system_app_tag">태그 선택</string>
   <string name="submit_dialog_cancel">취소</string>
   <string name="submit_dialog_confirm">전송</string>
-  <string name="submit_dialog_content">&lt;Data&gt;\"사용자의 피드백은 첨부 파일 및 로그와 함께 MIUI의 서버로 전송됩니다. 개인 정보와 위치 데이터가 포함될 수 있습니다. \"동의\" 하는것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인 정보 보호 정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;사용자 동의&amp;lt;/a&amp;gt;를 읽고 동의하는것을 의미합니다.\"&lt;/Data&gt;</string>
-  <string name="submit_dialog_content_global">&lt;Data&gt;"첨부 파일(있는 경우) 및 로그(업로드하지 않으려는 항목의 해당 상자를 선택 취소할 수 있음)와 함께 사용자 의견은 MIUI의 서버로 전송됩니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다. \"동의\"를 선택하시면 샤오미의 &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">개인정보 보호정책&lt;/a> 과 &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">사용자 정책&lt;/a>에 동의하신걸로 간주됩니다."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content"><Data>"&lt;a href=\"%1$s\">개인정보 보호정책&lt;/a> 및 &lt;a href=\"%2$s\">사용자 동의&lt;/a>에 동의해야합니다. 사용자 의견 피드백을 사용할 수 있습니다. 첨부한 항목과 함께보고 한 문제(개인정보 및 장치 및 네트워크에 대한 정보를 포함할 수 있음)가 MIUI 서버에 업로드됩니다. 이렇게하면 신고한 문제를 찾아 해결하는 데 도움이됩니다."</Data></string>
+  <string name="submit_dialog_content_global"><Data>"첨부 파일(있는 경우) 및 로그(업로드하지 않을 항목에 해당하는 상자를 선택 취소 할 수 있음)와 함께 피드백이 MIUI 서버로 전송됩니다. 로그에 개인 정보 및 위치 데이터가 포함되어있을 수 있습니다. \"동의\"를 선택하는것은 &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a> 과 &lt;a href=\"%2$s\">사용자 동의&lt;/a>를 읽고 동의했음을 의미합니다."</Data></string>
   <string name="submit_dialog_title">보고서 전송</string>
   <string name="submit_feedback_info_failed">보고서를 전송하지 못했습니다.</string>
   <string name="suggestion_description">여기에 설명 추가</string>
@@ -537,4 +537,25 @@
   <string name="catch_full_log_privacy_content_sensor">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 주변 장치 센서 (기압계, 기압계, 만보계, 자력계 등)가 수집한 정보가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 위치를 확인하고 해결할 것임에 동의하는 것입니다. 문제를 신고하십시오."</string>
   <string name="catch_full_log_privacy_content_signal">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 메시지, 통화 기록, 네트워크 정보 및 통신 데이터가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하십시오. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
   <string name="catch_full_log_privacy_content_wifi">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인 정보, 위치 정보 및 장치의 IP 및 MAC 주소가 포함될 수 있습니다. 암호화되지 않은 Wi-Fi 네트워크의 경우 통신 데이터의 일부에 액세스 할 수 있습니다. 이 로그를 다른사람에게 공개하지 않도록 주의하십시오. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
+    <string name="feedback_detail_copy_toast">클립 보드에 복사했습니다</string>
+    <string name="feedback_detail_feedback_attach">첨부 파일</string>
+    <string name="feedback_detail_feedback_attach_upload_failed">"업로드 할 수 없음"</string>
+    <string name="feedback_detail_feedback_attach_uploading">업로드 중…</string>
+    <string name="feedback_detail_feedback_category">카테고리</string>
+    <string name="feedback_detail_feedback_id">보고서 ID : %d</string>
+    <string name="feedback_detail_feedback_reply_hint">답장</string>
+    <string name="feedback_detail_feedback_summary">피드백</string>
+    <string name="feedback_detail_need_content">먼저 컨텐츠 입력</string>
+    <string name="feedback_detail_title">세부 사항</string>
+    <string name="feedback_detail_upload_generate_log">로그 생성</string>
+    <string name="feedback_detail_upload_image">이미지/비디오 업로드</string>
+    <string name="feedback_detail_upload_local_log">파일 업로드</string>
+    <string name="feedback_detail_upload_log">로그 업로드</string>
+    <string name="feedback_detail_waiting">생성중…</string>
+    <string name="kr_authorization_function">의견 제출, 로그 생성, 자주 묻는 질문보기</string>
+    <string name="mi_service_dialog_cancel">종료</string>
+    <string name="mi_service_dialog_confirm">열기</string>
+    <string name="mi_service_dialog_content">모든 피드백 기능이 새로운 \"서비스 및 피드백\"앱으로 이동되었습니다. 피드백 앱이 홈 화면에서 제거됩니다. \"서비스 및 피드백\"을 시도하려면 \"열기\"를 탭하십시오.</string>
+    <string name="mi_service_dialog_title">\"서비스 및 피드백\"소개</string>
+    <string name="kr_authorization_phone_desc">문제를 찾아서 해결하기 위해 장치 모델, IMEI 및 장치 ID에 액세스하는 경우</string>
 </resources>
