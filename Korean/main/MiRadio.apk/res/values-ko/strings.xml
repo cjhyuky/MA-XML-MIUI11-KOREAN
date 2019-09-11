@@ -88,4 +88,24 @@
     <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei 체험판이 시작되었습니다.</string>
     <string name="passport_sign_in_or_sign_up">계정으로 로그인/회원가입</string>
     <string name="add_shortcut_success">홈 스크린 바로 가기가 성공적으로 생성됨</string>
+    <string name="broadcast_list">채널</string>
+    <string name="cancel_delay_stop">타이머 끄기</string>
+    <string name="favor_list">즐겨찾기</string>
+    <string name="list">채널</string>
+    <string name="local_channel">로컬 채널</string>
+    <string name="no_broadcast">방송 없음</string>
+    <string name="scanned_list">사용 가능한 채널</string>
+    <string name="talkback_create_channel">채널 추가</string>
+    <string name="talkback_freq_more_function">%1$s 채널에 대한 추가 옵션</string>
+    <string name="talkback_freq_picker">채널간 전환 슬라이드</string>
+    <string name="talkback_listen_more">더 많은 온라인 라디오 채널</string>
+    <string name="talkback_local_radio">"오프라인 상태에서 라디오 청취"</string>
+    <string name="talkback_more_function">추가 기능</string>
+    <string name="talkback_next_broadcast">이전 채널</string>
+    <string name="talkback_pre_broadcast">다음 채널</string>
+    <string name="talkback_record_stop">녹음 중지</string>
+    <string name="talkback_recording">녹음</string>
+    <string name="talkback_scan_channel">채널 검색</string>
+    <string name="talkback_switch_headset">이어폰 연결</string>
+    <string name="talkback_switch_speaker">스피커 사용</string>
 </resources>
