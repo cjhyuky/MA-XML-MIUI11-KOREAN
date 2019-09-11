@@ -267,4 +267,7 @@
     <string name="select_sim_hint_for_heduohao">"SIM %1$d 서브 %2$d 사용중에는 나머지는 사용할 수 없습니다."</string>
     <string name="select_one_sim_title_for_heduohao">SIM %1$d 서브 %2$d만 사용가능</string>
     <string name="incall_bubble_hangup_click_hint">통화로 돌아가려면 다시 탭하세요</string>
+    <string name="incoming_circle_text_video_answer">동영상으로 답장 공개</string>
+    <string name="incoming_circle_text_video_answer_p">스와이프하여 영상통화 시작</string>
+    <string name="manager_conference_done">완료</string>
 </resources>
