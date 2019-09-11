@@ -9,4 +9,10 @@
     <string name="miui_need_open_high_accuracy_summary">"주변의 기기를 찾기 위해 Mi Mover가 고 정확도 모드에서 사용자의 위치에 액세스하도록 허용합니다.이 권한을 부여하지 않으면 Mi Mover를 사용할 수 없습니다."</string>
     <string name="miui_need_open_high_accuracy_title">정확한 위치 정보에 대한 액세스 허용</string>
     <string name="need_location_permission_summary">Mi Mover가 근처의 기기를 찾을 수 있도록 내 위치에 액세스하도록 허용합니다.</string>
+    <string name="dialog_rating_desc_ask">Mi Mover에 대해 어떻게 생각하십니까?</string>
+    <string name="dialog_rating_desc_less">앱을 개선할 수 있는 몇 가지 제안을 해주시겠습니까?</string>
+    <string name="dialog_rating_desc_perfect">감사합니다! GetApps에서도 Mi Mover를 평가하시겠습니까?</string>
+    <string name="dialog_rating_title">Mi Mover 평가하기</string>
+    <string name="trans_detail_item_app_skip_data">"이 앱을 이동할 수 없습니다"</string>
+    <string name="need_more_memory_summary">"써드파티 앱 데이터를 전송하기 전에 압축해야합니다. Mi Mover는 압축된 패키지를 만들려면 %1$s의 추가저장공간이 필요합니다."</string>
 </resources>
