@@ -103,4 +103,7 @@
     <string name="toast_guide_title">새로운 기능 살펴보기</string>
     <string name="toast_msg">보조화면으로 화면을 전송하세요.</string>
     <string name="toast_msg_for_multi_window">분할 화면시 보조화면의 캐스팅 작동하지 않습니다</string>
+    <string name="privacy_agree">동의</string>
+    <string name="privacy_text_1">스크린 캐스트 기능을 사용할 수 있습니다. 스크린 캐스팅 서비스는 Milian에서 제공하며 일부 스크린 캐스팅 기능은 타사 브로드 캐스트 화면에서 지원됩니다. 개인정보를 보호하려면 <a href="http://cdn.hpplay.com.cn/xm/privacy.html">Hpplay cast 개인 정보 보호 정책</a>과 <a href="http://cdn.hpplay.com.cn/xm/lawer.html">Hpplay cast 법적 고지</a>를 읽어보세요.</string>
+    <string name="privacy_text_2">위의 <a href="https://privacy.mi.com/res/doc/eula/cn.html">사용자 동의</a>, <a href="https://privacy.mi.com/res/doc/privacy/cn.html">개인정보 보호정책</a>, 콘텐츠 및 부여된 특권에 동의하시면 클릭하세요</string>
 </resources>
