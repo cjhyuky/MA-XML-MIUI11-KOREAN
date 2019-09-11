@@ -1200,4 +1200,13 @@
     <string name="update_domain_title">도메인 설정 업데이트</string>
     <string name="attachment_opening_mode">첨부 파일 앱</string>
     <string name="default_opening_attchemnt_mode">기본 앱을 사용하여 첨부 파일 열기</string>
+    <string name="account_options_actionbar_title">일반 설정</string>
+    <string name="mail_outlook_login_tips">마이크로소프트 요구 사항에 따라 마이크로소프트 인증 페이지에서 비밀번호를 입력해야합니다.</string>
+    <string name="mail_outlook_oauth_login">OAuth로 로그인</string>
+    <string name="mail_outlook_psw_login">비밀번호로 로그인</string>
+    <string name="outlook_login_failed_non_proxy_title">"아웃룩 서버에 액세스 할 수 없습니다"</string>
+    <string name="quick_reply_expend">펼치기</string>
+    <string name="sync_calendra_fail_per_content">일정표에 액세스하려면 탭하십시오</string>
+    <string name="sync_calendra_fail_per_title">"캘린더를 동기화할 수 없습니다"</string>
+    <string name="sync_calendra_fail_permission">"캘린더를 동기화할 수 없습니다. 이메일 앱 설정에서 캘린더에 액세스하도록 허용하십시오"</string>
 </resources>
