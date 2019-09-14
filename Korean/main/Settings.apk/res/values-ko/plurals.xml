@@ -442,4 +442,43 @@
     <plurals name="usagestats_device_notification_des_min">
         <item quantity="other">" 분"</item>
     </plurals>
+  <plurals name="accessibility_usage_summary">
+    <item quantity="other">앱 %1$d개가 기기에 대한 전체 액세스 권한을 가지고 있습니다.</item>
+  </plurals>
+  <plurals name="location_app_permission_summary_location_on">
+    <item quantity="other">%2$d개 중 %1$d개의 앱이 위치 정보에 액세스할 수 있음</item>
+  </plurals>
+  <plurals name="location_settings_summary_location_on">
+    <item quantity="other">사용 - %1$d개의 앱이 위치에 액세스할 수 있음</item>
+  </plurals>
+  <plurals name="mobile_network_summary_count">
+    <item quantity="other">SIM %1$d개</item>
+  </plurals>
+  <plurals name="notification_few_channel_count_summary">
+    <item quantity="other">알림 채널 %1$d개</item>
+  </plurals>
+  <plurals name="notifications_sent_daily">
+    <item quantity="other">하루 최대 %d개</item>
+  </plurals>
+  <plurals name="notifications_sent_weekly">
+    <item quantity="other">1주일에 알림 최대 %d개</item>
+  </plurals>
+  <plurals name="permission_bar_chart_label">
+    <item quantity="other">앱 %s개</item>
+  </plurals>
+  <plurals name="show_bluetooth_devices">
+    <item quantity="other">기기 %1$d대 연결됨</item>
+  </plurals>
+  <plurals name="wifi_saved_all_access_points_summary">
+    <item quantity="other">네트워크 및 구독 %d개</item>
+  </plurals>
+  <plurals name="wifi_saved_passpoint_access_points_summary">
+    <item quantity="other">구독 %d개</item>
+  </plurals>
+  <plurals name="zen_mode_bypassing_apps_subtext">
+    <item quantity="other">앱 %1$d개의 알림이 방해 금지 모드를 무시할 수 있음</item>
+  </plurals>
+  <plurals name="zen_mode_duration_summary_time_hours">
+    <item quantity="other">%d시간</item>
+  </plurals>
 </resources>
