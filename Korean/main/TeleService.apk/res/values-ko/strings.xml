@@ -2546,4 +2546,7 @@
     <string name="wifi_call_help_title">Wi-Fi 통화 도움말</string>
     <string name="wifi_call_help_message">모바일 네트워크를 선호하도록 선택하면 기본적으로 모바일 네트워크가 통화에 사용됩니다. 모바일 네트워크 신호가 없거나 매우 열악한 경우 Wi-Fi 네트워크가 대신 사용됩니다.</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator">"전화를 걸 수 없습니다. 차이나텔레콤에 문의하여 VoLTE 서비스를 켜십시오."</string>
+    <string name="preferred_wificall_title">Wi-Fi 통화</string>
+    <string name="vice_slot_volte_data_switch_title">4G 통화시 보조 SIM의 모바일 데이터 사용</string>
+    <string name="wificall_switch_title">Wi-Fi 통화</string>
 </resources>
