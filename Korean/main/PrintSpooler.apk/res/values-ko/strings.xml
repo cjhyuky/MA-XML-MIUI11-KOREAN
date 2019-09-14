@@ -113,4 +113,5 @@
     <string name="start_print">인쇄</string>
     <string name="wifi_direct">Wi-Fi 다이렉트</string>
     <string name="system_print_service_help">인쇄에 관하여</string>
+    <string name="label_paper_size">종이</string>
 </resources>
