@@ -1258,4 +1258,31 @@
         <item>Wi-Fi 선호</item>
         <item>데이터 네트워크 선호</item>
     </string-array>
+  <string-array name="ai_item_action_array">
+    <item>없음</item>
+    <item>구글 어시스턴트 활성화</item>
+  </string-array>
+  <string-array name="bt_hci_snoop_log_entries">
+    <item>사용 안함</item>
+    <item>필터링 사용</item>
+    <item>헤더 필터링 사용</item>
+    <item>미디어 패킷 필터링 사용</item>
+    <item>사용</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item>집 전용</item>
+    <item>자동</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item>어둡게</item>
+    <item>밝게</item>
+  </string-array>
+  <string-array name="vpn_proxy_settings">
+    <item>없음</item>
+    <item>수동</item>
+  </string-array>
+  <string-array name="wifi_privacy_entries">
+    <item>임의의 MAC 사용(기본값)</item>
+    <item>기기 MAC 사용</item>
+  </string-array>
 </resources>
