@@ -8414,4 +8414,5 @@
     <string name="aod_notification_style_screen_on">화면 조명 켜기</string>
     <string name="aod_notification_style_animation">애니메이션 표시</string>
     <string name="system_print_service_help">인쇄에 관하여</string>
+    <string name="modify_default_browser_message">타사 앱을 기본 브라우저로 설정하면 인터넷 사용 기록 및 기타 데이터 수집이 시작될 수 있습니다. 어쨌든 설정 하시겠습니까?</string>
 </resources>
