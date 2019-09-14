@@ -94,8 +94,8 @@
     <string name="print_fail">"인쇄 실패"</string>
     <string name="print_fail_network_error">"인쇄 할 수 없습니다. 네트워크 설정을 확인한 후 다시 시도하십시오."</string>
     <string name="print_help_label">도움말</string>
-    <string name="print_help_tip">휴대 전화와 프린터가 모두 동일한 Wi-Fi 네트워크에 연결되어 있는지 확인하거나 Wi-Fi Direct가 켜져 있는지 확인하십시오. \"도움말\"을 확인하세요.</string>
-    <string name="print_help_tip_reg">도움말</string>
+    <string name="print_help_tip">휴대 전화와 프린터가 동일한 WLAN 네트워크 %1$s에 연결되어 있거나 WLAN Direct가 켜져 있는지 확인하십시오.</string>
+    <string name="print_help_tip_reg">\"도움말\"보기</string>
     <string name="print_searching_printers">프린터 검색중…</string>
     <string name="print_submited">인쇄할 준비가 되었습니다</string>
     <string name="print_title">인쇄중…</string>
