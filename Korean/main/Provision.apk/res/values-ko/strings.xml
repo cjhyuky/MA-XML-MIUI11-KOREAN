@@ -46,8 +46,8 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호정책에 반드�
     <string name="agree">동의</string>
     <string name="disagree">취소</string>
     <string name="setting_locale">지역 설정 중…</string>
-    <string name="agree_terms">저는 사용자 동의와 개인정보 보호정책을 읽었고 이에 동의합니다.</string>
-    <string name="miui_terms_no_network">인터넷이 연결되지 않았습니다. %s에서 사용자 동의 사항을 보십시오.</string>
+    <string name="agree_terms">"이용 약관 및 개인정보 취급방침을 읽고 동의합니다."</string>
+    <string name="miui_terms_no_network">"인터넷에 연결되어 있지 않습니다. %s에서 사용자 이용 약관을 보십시오."</string>
     <string name="miui_privacy_policy_no_network">인터넷이 연결되지 않았습니다. %s에서 개인정보 보호정책을 보십시오.</string>
     <string name="locale_picker_title">지역을 선택하십시오</string>
     <string name="install_preinstall_app">앱 로딩 중…</string>
@@ -88,8 +88,8 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="sim_card_detecting_check">"SIM카드를 찾을 수 없습니다. SIM카드가 제대로 설치되어 있고 잔액이 충분한지 확인하세요."</string>
     <string name="system_navigation_mode">시스템 탐색 모드</string>
     <string name="sim_card_detecting_confirm_turn_on_network">모바일 데이터 네트워크에 연결하는 것을 허용하시겠습니까? 허용하시면 삽입되어있는 SIM카드를 이용하여 모바일 네트워크에 접속할 것입니다.</string>
-    <string name="other_settings_ad_enable">추천된 광고</string>
-    <string name="other_settings_ad_enable_summary">빅데이터를 활용해 사용자에게 맞는 광고를 추천합니다.</string>
+    <string name="other_settings_ad_enable">맞춤 광고</string>
+    <string name="other_settings_ad_enable_summary">관심있는 관심사를 바탕으로 맞춤 광고 보기를 설정하세요</string>
     <string name="other_settings_user_experience_summary_index"></string>
     <string name="sim_card_detection_mobile_not_available">"SIM카드 네트워크 접속 실패"</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"귀하의 SIM카드로 네트워크에 접속할 수 없습니다. 확인하시고 다시 연결해주세요."</string>
@@ -128,4 +128,7 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="terms_of_use_label_Mistore">, Mi 스토어 시스템 플러그인</string>
     <string name="terms_of_use_label_package">, 패키지설치자</string>
     <string name="terms_of_use_label_phrase">, 상용구</string>
+    <string name="other_settings_ad_dialog_content">"사용 중지하면 더 이상 맞춤 광고를받지 못하지만 관심 분야와 무관하게 같은 수의 광고를 계속받을 수 있습니다. 더 유용한 광고로 더 나은 경험을 얻으려면 켜십시오. 자세한 내용은 Xiaomi 개인 정보 보호 정책에서 사용할 수 있습니다.
+여전히 사용 중지 하시겠습니까? "</string>
+    <string name="other_settings_ad_disable_summary">보다 개인화 된 광고를 사용하도록 설정</string>
 </resources>
