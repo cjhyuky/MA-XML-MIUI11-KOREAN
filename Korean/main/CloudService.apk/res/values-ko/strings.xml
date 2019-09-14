@@ -67,12 +67,12 @@
     <string name="sync_dspt_provision">"동기화하여 모든 기기에서 당신의 사진, 연락처, 노트, 기타 자료에 접근 할 수 있습니다. "</string>
     <string name="sync_dspt_provision3">". 설정에서 언제든지 이 기능을 켜거나 끌 수 있습니다.
 "</string>
-    <string name="sync_dspt_entrance_provision">"기기의 모든 사진, 연락처, 통화 기록, 메시지를 동기화하십시오. %s에서 동기화 된 항목을 보실 수 있습니다."</string>
+    <string name="sync_dspt_entrance_provision">모든 장치에서 사진, 연락처, 통화기록 및 메시지를 동기화하면 %s의 모든 장치에서 접근할 수 있습니다.</string>
     <string name="sync_dspt_entrance_provision_2">더 알아보기</string>
     <string name="sync_dspt_entrance_provision_confirm_close">사용 안 함</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Mi 클라우드 사용</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Mi 클라우드를 사용하지 않으시겠습니까?</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">MIUI의 내장 앱은 사진, 연락처, 메모 등을 백업하기 위하여 Mi 클라우드가 필요합니다. Mi 클라우드는 무료이며, 즉시 사용할 준비가 되어 있습니다.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">"MIUI는 앱, 사진, 연락처, 메모 등을 백업하기 위해 Mi 클라우드가 필요합니다. Mi 클라우드는 무료이며 즉시 사용할 수 있습니다."</string>
     <string name="sync_dspt_entrance_provision_skip">이 단계 건너뛰기</string>
     <string name="find_device_dspt_provision">기기를 잃어버릴 경우 %s(으)로 가서 기기의 위치를 찾거나, 잠그거나, 초기화할 수 있습니다. 설정에서 언제든지 이 기능을 켜거나 끌 수 있습니다.</string>
     <string name="find_device_dspt_provision_3">. 설정에서 언제든지 이 기능을 켜거나 끌 수 있습니다.</string>
