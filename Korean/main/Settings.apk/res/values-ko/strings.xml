@@ -8416,7 +8416,6 @@
     <string name="system_print_service_help">인쇄에 관하여</string>
     <string name="modify_default_browser_message">타사 앱을 기본 브라우저로 설정하면 인터넷 사용 기록 및 기타 데이터 수집이 시작될 수 있습니다. 어쨌든 설정 하시겠습니까?</string>
     <string name="search_connection_and_sharing">더 보기;무선통신</string>
-    <string name="system_haptic_feedback">햅틱 피드백</string> - 준비됨!
     <string name="wifi_generation_title">기술</string>
     <string name="wifi_generation_status">"Wi-Fi %1$d"</string>
     <string name="wifi_generation_icon_display">아이콘</string>
