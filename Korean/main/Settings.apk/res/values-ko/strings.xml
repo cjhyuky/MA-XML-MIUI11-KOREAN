@@ -5026,7 +5026,7 @@
   <string name="screen_compatibility_label">화면 호환성</string>
   <string name="screen_compatibility_text">이 앱은 사용 중인 화면에 맞게 개발되지 않았을 수 있습니다. 여기에서 어떻게 앱을 화면에 맞출지 선택할 수 있습니다.</string>
   <string name="screen_confirm">켜기</string>
-  <string name="screen_effect">대비 &amp; 색상</string>
+  <string name="screen_effect">색상 구성표</string>
   <string name="screen_key_long_press">탐색 버튼 길게 누르기</string>
   <string name="screen_key_long_press_action">트리거 기능</string>
   <string name="screen_key_long_press_timeout">길게 누르는 시간 설정</string>
@@ -5050,7 +5050,7 @@
   <string name="screen_never_timeout_title">절전 모드 전환 안 함</string>
   <string name="screen_on_proximity_sensor_summary">주머니 속에 있을때 터치 잠금</string>
   <string name="screen_on_proximity_sensor_title">주머니 모드</string>
-  <string name="screen_optimize">대비</string>
+  <string name="screen_optimize">색상</string>
   <string name="screen_optimize_disabled">읽기 모드 사용시에는 대비를 조절할 수 없습니다</string>
   <string name="screen_paper_mode_adjust_level">조정</string>
   <string name="screen_paper_mode_apps_loading">잠시 기다려 주십시오…</string>
@@ -8258,7 +8258,7 @@
     <string name="aod_and_lock_screen_settings_title">AOD 디스플레이 &amp; 잠금화면</string>
     <string name="aod_settings_category_name">AOD 디스플레이</string>
     <string name="applications_settings_title">앱</string>
-    <string name="feedback_settings">피드백</string>
+    <string name="feedback_settings">서비스 &amp; 피드백</string>
     <string name="full_screen_display">전체 화면 모드</string>
     <string name="game_booster_title">게임 터보</string>
     <string name="gmscore_settings_title">기본 Google 서비스</string>
