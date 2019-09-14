@@ -1038,11 +1038,11 @@
   <string name="miui_ringer_total_description">알람을 제외한 모든 알림을 진동없이 무음처리합니다</string>
   <string name="miui_screen_rotation_freeze_message">자동 회전 꺼짐</string>
   <string name="miui_toast_zen_dnd_to_off">방해금지모드가 해제되었습니다. 소리와 진동이 정상적으로 복원되었습니다.</string>
-  <string name="miui_toast_zen_standard_to_off">방해금지모드가 해제되었습니다. 벨소리가 정상적으로 복원되었습니다.</string>
-  <string name="miui_toast_zen_standard_to_off_when_shield_media">방해금지모드가 해제되었습니다. 벨소리와 알림 및 미디어 사운드가 재생됩니다.</string>
+  <string name="miui_toast_zen_standard_to_off">"무음모드가 해제되었습니다."</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">"무음모드가 해제되었습니다."</string>
   <string name="miui_toast_zen_to_dnd">방해금지모드로 전환되었습니다. 소리와 진동이 꺼집니다.</string>
-  <string name="miui_toast_zen_to_standard">방해금지모드로 전환되었습니다. 벨소리와 알림 사운드가 꺼집니다.</string>
-  <string name="miui_toast_zen_to_standard_when_shield_media">방해금지모드로 전환되었습니다. 벨소리, 알림 및 미디어 사운드가 꺼집니다.</string>
+  <string name="miui_toast_zen_to_standard">"무음모드로 전환되었습니다. 벨소리 및 알림음이 음소거됩니다."</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">"무음모드로 전환되었습니다. 벨소리, 알림음 및 미디어 사운드가 음소거됩니다"</string>
   <string name="mland">마시멜로우 랜드</string>
   <string name="mobile_data">모바일 데이터</string>
   <string name="mobile_data_always_on">모바일 데이터 항상 켜기</string>
