@@ -94,4 +94,28 @@
     <item quantity="other">즐겨찾기에서 %d곡이 삭제됩니다</item>
     <item quantity="one">즐겨찾기에서 %d곡이 삭제됩니다</item>
   </plurals>
+    <plurals name="Ndownload_song_button">
+        <item quantity="other">%1$d곡 다운로드(%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Ndownload_songs">
+        <item quantity="other">노래 다운로드중, %1$d곡(%2$.1fMB)</item>
+    </plurals>
+    <plurals name="cloud_hint_upload_with_count">
+        <item quantity="other">업로드 할 노래가 %d개 있습니다.</item>
+    </plurals>
+    <plurals name="cloud_new_user_guide_download_title">
+        <item quantity="other">다운로드 할 노래 %d개 </item>
+    </plurals>
+    <plurals name="cloud_new_user_guide_upload_title">
+        <item quantity="other">노래 %d곡을 업로드했습니다</item>
+    </plurals>
+    <plurals name="cloud_state_view_hint_download_pause">
+        <item quantity="other">다운로드가 일시 중지되었으며 %d곡이 남았습니다.</item>
+    </plurals>
+    <plurals name="local_song_empty_hint_button_sub_text">
+        <item quantity="other">다운로드 할 노래가 %1$d개, 총%2$.1fM입니다.</item>
+    </plurals>
+    <plurals name="local_song_number">
+        <item quantity="other">%d곡</item>
+    </plurals>
 </resources>
