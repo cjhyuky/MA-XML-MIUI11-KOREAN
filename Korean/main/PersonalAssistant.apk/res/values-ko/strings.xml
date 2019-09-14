@@ -447,7 +447,7 @@
   <string name="cta_dialog_negative">종료</string>
   <string name="cta_dialog_positive">동의하고 계속하기</string>
   <string name="cta_dialog_text_all">퀵카드를 사용하려면 %1$s\"사용자 약관\" %2$s and %3$s \"개인 정보 보호 약관\" %4$s를 읽고 동의해야합니다. 또한 인터넷 연결 및 위치 서비스에 대한 액세스가 필요합니다. 동의하십니까?</string>
-  <string name="cta_dialog_text_new_user">퀵 카드 기능을 사용하시기 전에, 먼저 샤오미의 %1$s\"사용자 동의\"%2$s, %3$s\"개인정보 보호정책\"%4$s, 그리고 %5$s\"퀵 카드 개인정보 보호정책\"%6$s에 동의하셔야 합니다. 퀵 카드가 정상적으로 작동하려면 위치 정보와 인터넷 접속이 필요합니다. 동의하시면 \"시작\"을 누르세요.</string>
+  <string name="cta_dialog_text_new_user">%1$s사용자 동의%2$s 및 %3$s개인 정보 보호 정책%4$s을 읽고 동의하세요.</string>
   <string name="cta_dialog_text_old_user">퀵 카드를 사용하시기 전에, 먼저 %1$s\"퀵 카드 개인정보 보호정책\"%2$s에 동의하셔야 합니다. 동의하시면 \"시작\"을 누르세요.</string>
   <string name="cta_dialog_title">통지 및 조건</string>
   <string name="cta_negative">닫기</string>
@@ -1678,4 +1678,5 @@
   <string name="year_month_day_all_format_en">yyyy/MM/dd HH:mm:ss</string>
   <string name="year_month_day_format">yyyy년 MM월 dd일</string>
   <string name="yesterday">어제</string>
+  <string name="location_permission_desc">내비게이션 루트 구축 및 차량 우호 서비스 제공</string>
 </resources>
