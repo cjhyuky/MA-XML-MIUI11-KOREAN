@@ -5,7 +5,6 @@
     <string name="label_destination">대상</string>
     <string name="label_copies">매수</string>
     <string name="label_copies_summary">매수:</string>
-    <string name="label_paper_size">용지 크기</string>
     <string name="label_paper_size_summary">용지 크기:</string>
     <string name="label_color">색상</string>
     <string name="label_orientation">레이아웃</string>
