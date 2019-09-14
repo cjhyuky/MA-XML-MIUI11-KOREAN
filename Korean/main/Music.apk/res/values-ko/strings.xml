@@ -766,4 +766,55 @@
     <string name="can_heard_not_download">"콘텐츠 제공 업체 요청으로 인해 다운로드가 불가능합니다"</string>
     <string name="play_all_shuffle">&lt;Data>전체 섞기&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;&lt;/Data> </string>
     <string name="local_page_music">저장된 음악</string>
+    <string name="alert_song_not_paid">"아직이 노래를 구입하지 않았습니다."</string>
+    <string name="cloud_hint_no_song_to_download">모든 노래 다운로드</string>
+    <string name="cloud_hint_no_song_to_upload">모든 노래 업로드</string>
+    <string name="cloud_hint_upload">노래로 노래를 업로드합니다.</string>
+    <string name="cloud_hint_upload_button_text">지금 시도</string>
+    <string name="cloud_hint_upload_with_count_button_text">업로드 시작</string>
+    <string name="cloud_new_user_guide_download_button_text">지금 노래 다운로드</string>
+    <string name="cloud_new_user_guide_download_sub_button">맞춤 다운로드</string>
+    <string name="cloud_new_user_guide_download_subtitle">노래를 다운로드하고 즐기십시오!</string>
+    <string name="cloud_new_user_guide_upload_button_text">지금 노래 업로드</string>
+    <string name="cloud_new_user_guide_upload_sub_button">맞춤 업로드</string>
+    <string name="cloud_new_user_guide_upload_subtitle">노래를 업로드하고 즐기십시오!</string>
+    <string name="cloud_space_fetch_error">클라우드 디스크 저장공간 오류 가져오기</string>
+    <string name="cloud_space_fetching">클라우드 디스크 저장공간 가져 오기</string>
+    <string name="cloud_space_hint" formatted = "false">클라우드 디스크 저장공간 %.1fG/%.1fG</string>
+    <string name="cloud_state_view_hint_scanning">노래 스캔중</string>
+    <string name="continue_download">계속 다운로드</string>
+    <string name="delete_action_includ_cloud_song">클라우드 노래 삭제</string>
+    <string name="dialog_remove_album_from_favorites">즐겨 찾기에서이 앨범을 삭제 하시겠습니까?</string>
+    <string name="dialog_remove_artist_from_favorites">이 아티스트를 즐겨 찾기에서 제거 하시겠습니까?</string>
+    <string name="dialog_remove_billboard_from_favorites">즐겨 찾기에서이 항목을 제거 하시겠습니까?</string>
+    <string name="dialog_remove_fm_from_favorites">이 프로그램을 즐겨 찾기에서 제거 하시겠습니까?</string>
+    <string name="dialog_remove_multi_album_from_favorites">즐겨 찾기에서 선택한 앨범을 제거 하시겠습니까?</string>
+    <string name="dialog_remove_multi_artist_from_favorites">즐겨 찾기에서 선택한 아티스트를 제거 하시겠습니까?</string>
+    <string name="dialog_remove_multi_billboard_from_favorites">즐겨 찾기에서 선택한 항목을 제거 하시겠습니까?</string>
+    <string name="dialog_remove_multi_song_from_favorites">즐겨 찾기에서 선택한 노래를 제거 하시겠습니까?</string>
+    <string name="dialog_remove_multi_songgroup_from_favorites">즐겨 찾기에서 선택한 재생 목록을 제거 하시겠습니까?</string>
+    <string name="dialog_remove_multi_video_from_favorites">즐겨 찾기에서 선택한 비디오를 제거 하시겠습니까?</string>
+    <string name="dialog_remove_song_from_favorites">이 노래를 즐겨 찾기에서 제거 하시겠습니까?</string>
+    <string name="dialog_remove_songgroup_from_favorites">즐겨 찾기에서이 재생 목록을 제거 하시겠습니까?</string>
+    <string name="dialog_remove_video_from_favorites">이 비디오를 즐겨 찾기에서 제거 하시겠습니까?</string>
+    <string name="dialog_show_more_upload">지역 노래 백업</string>
+    <string name="download_song_title">다운로드 할 노래 선택</string>
+    <string name="history_delete_song">최근에 선택한 노래를 모두 제거 하시겠습니까?</string>
+    <string name="local_download_song_guide">"Kugou Music, NetEase Music, QQ Music 및 기타 음악 앱에서 다운로드 한 노래가 여기에 나타납니다.
+이제 한곳에서 모든 노래를 찾을수 있습니다!"</string>
+    <string name="local_download_song_guide_title">모든 다운로드가 여기로 이동</string>
+    <string name="local_song">%1$d개의 로컬 노래</string>
+    <string name="local_song_empty_hint_button_text">노래 다운로드</string>
+    <string name="music_quality_standard">표준</string>
+    <string name="music_quality_ultra_high">높음</string>
+    <string name="optimize_all_optimize_finish">가사 및 표지 그림을 성공적으로 다운로드했습니다</string>
+    <string name="scanned_delete_album">선택한 앨범에서 모든 노래를 제거 하시겠습니까?</string>
+    <string name="scanned_delete_artist">선택한 아티스트의 노래를 모두 제거 하시겠습니까?</string>
+    <string name="scanned_delete_song">선택한 노래를 제거 하시겠습니까?</string>
+    <string name="select_uhd_quality">VIP 고품질로 전환</string>
+    <string name="stop_download">중지</string>
+    <string name="all_offline_song_and_auto_next">"현재이 재생 목록의 일부 노래를 사용할 수 없습니다."</string>
+    <string name="offline_song_and_auto_next">"이 노래는 사용할 수 없습니다. 지금 건너 뜁니다."</string>
+    <string name="recommend_tool">추천</string>
+    <string name="video_network_negative">모바일 데이터를 사용한 스트리밍 항목 허용</string>
 </resources>
