@@ -557,5 +557,4 @@
     <string name="mi_service_dialog_confirm">열기</string>
     <string name="mi_service_dialog_content">모든 피드백 기능이 새로운 \"서비스 및 피드백\"앱으로 이동되었습니다. 피드백 앱이 홈 화면에서 제거됩니다. \"서비스 및 피드백\"을 시도하려면 \"열기\"를 탭하십시오.</string>
     <string name="mi_service_dialog_title">\"서비스 및 피드백\"소개</string>
-    <string name="kr_authorization_phone_desc">문제를 찾아서 해결하기 위해 장치 모델, IMEI 및 장치 ID에 액세스하는 경우</string>
 </resources>
