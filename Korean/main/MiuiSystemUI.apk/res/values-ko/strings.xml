@@ -1499,8 +1499,6 @@
   <string name="status_bar_clear_all_button">비우기</string>
   <string name="status_bar_clock_date_format">M월 d일 EEEE</string>
   <string name="status_bar_clock_date_format_12">MMMM d일 EEEE</string>
-  <string name="status_bar_clock_date_time_format">M월 d일 EEEE H:mm</string>
-  <string name="status_bar_clock_date_time_format_12">M월 d일 aa h:mm</string>
   <string name="status_bar_date_format">M월 dd일 EEEE</string>
   <string name="status_bar_date_format_12">M월 dd일 EEEE</string>
   <string name="status_bar_ethernet">이더넷</string>
@@ -1929,7 +1927,6 @@
   <string name="mr_system_route_name">시스템</string>
   <string name="mr_user_route_category_name">장치</string>
   <string name="no_bubbles">거부</string>
-  <string name="no_weather_description">날씨 정보 가져오기 &gt;</string>
   <string name="not_set">설정되지 않음</string>
   <string name="osu_completing_sign_up">가입 완료중…</string>
   <string name="osu_connect_failed">연결 실패</string>
