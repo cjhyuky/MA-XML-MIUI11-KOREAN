@@ -188,4 +188,7 @@
     <plurals name="kg_too_many_failed_attempts_countdown">
         <item quantity="other">%d초 후에 재시도하세요.</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s 및 파일 %2$d개</item>
+    </plurals>
 </resources>
