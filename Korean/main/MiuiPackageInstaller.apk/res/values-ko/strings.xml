@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="risk_warning_msg">"패키지 서명이 올바르지 않습니다. 해킹으로부터 기기를 보호하려면 GetApps에서 앱을 다운로드 받으십시오."</string>
+     <string name="risk_warning_top_button">"설치 취소"</string>
+     <string name="risk_warning_bottom_button">GetApps에서 설치하기</string>
+</resources>
