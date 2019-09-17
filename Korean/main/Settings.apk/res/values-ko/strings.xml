@@ -2601,11 +2601,11 @@
   <string name="forget">삭제</string>
   <string name="forget_password_button_text">비밀번호 찾기</string>
   <string name="forget_password_dialog_button_text">뒤로가기</string>
-  <string name="forget_password_dialog_content_four">2. 데이터 초기화를 선택한 후에 기기가 재부팅될 때까지 기다려주세요.</string>
+  <string name="forget_password_dialog_content_four">2. [데이터 초기화]를 선택하고, 기기가 재부팅될 때까지 기다리십시오.</string>
   <string name="forget_password_dialog_content_one">비밀번호를 잊어버리셨다면 그 비밀번호를 복구할 방법은 없습니다. 그러나 기기의 모든 데이터(사진, 연락처, 등 포함)를 삭제한 후에 비밀번호를 재설정할 수는 있습니다. 이 과정을 진행하기 전에 중요한 자료를 미리 백업하세요.</string>
-  <string name="forget_password_dialog_content_three">1. 기기의 전원을 끄세요. 그리고 전원버튼과 볼륨업 버튼을 Mi.com 로고가 뜰때까지 동시에 누르고 계세요.</string>
+  <string name="forget_password_dialog_content_three">1. 기기의 전원을 끈 후, [전원] 버튼과 [볼륨 상] 버튼을 동시에 누르고 * 아이콘이 표시될 때까지 기다리십시오.</string>
   <string name="forget_password_dialog_content_two">데이터를 삭제하려면 이 과정을 따라해보세요 :</string>
-  <string name="forget_password_dialog_title">비밀번호 재설정</string>
+  <string name="forget_password_dialog_title">데이터 초기화</string>
   <string name="forget_pattern">패턴을 잊으셨습니까?</string>
   <string name="forget_privacy_password_setting">Mi 계정 추가</string>
   <string name="forget_privacy_password_summary">Mi 계정을 사용하여 비밀번호 초기화</string>
@@ -4483,7 +4483,7 @@
   <string name="pref_title_lang_selection">언어 설정</string>
   <string name="pref_title_network_details">네트워크 상세보기</string>
   <string name="pref_title_update_notification">데이터 사용량 알림</string>
-  <string name="pref_volume_launch_camera_summary">볼륨 다운 버튼을 두번 눌러 카메라 실행</string>
+  <string name="pref_volume_launch_camera_summary">기기가 잠금 상태일 때 \"볼륨 하\" 버튼을 두 번 눌러 카메라 열기</string>
   <string name="pref_volume_launch_camera_title">카메라 실행</string>
   <string name="pref_volume_wake_summary">볼륨 버튼을 눌러 기기의 절전 모드 해제</string>
   <string name="pref_volume_wake_title">볼륨 버튼으로 깨우기</string>
@@ -9073,4 +9073,6 @@
   <string name="zen_mode_slice_subtitle">방해 요소 제한</string>
   <string name="zen_mode_system_list">터치음</string>
   <string name="zone_auto_title">네트워크 시간대 사용</string>
+  <string name="choose_lock_pattern_header_text">패턴 설정</string>
+  <string name="confirm_lock_pattern_header_text">패턴을 그리십시오</string>
 </resources>
