@@ -1946,4 +1946,7 @@
   <string name="wifi_scan_throttling_summary">배터리 소모 감소 &amp; 네트워크 성능 향상</string>
   <string name="yes_bubbles">허용</string>
   <string name="zen_mode_forever">끌 때까지</string>
+  <string name="face_data_apply_for_category_title">얼굴을 이용해 잠금 해제</string>
+  <string name="face_data_apply_for_keyguard_title">잠금 화면</string>
+  <string name="face_unlock_category_title">잠금 화면 옵션</string>
 </resources>
