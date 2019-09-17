@@ -203,13 +203,11 @@
     <string name="delete_bank_card_title">은행 카드 삭제 중</string>
     <string name="delete_bank_card_message">로그아웃 후 보안상의 이유로 은행 카드가 삭제됩니다.</string>
     <string name="bind_settings">계정</string>
-    <string name="sina_weibo">Sina Weibo</string>
-    <string name="bind_sina_weibo">Sina Weibo 계정 연결</string>
-    <string name="bind_weibo_description">Sina Weibo에서 친구 추가</string>
+    <string name="sina_weibo">시나 웨이보</string>
+    <string name="bind_sina_weibo">시나 웨이보 계정 연결</string>
+    <string name="bind_weibo_description">시나 웨이보에서 친구 추가</string>
     <string name="bind_sns_description">%s 아이디로 로그인</string>
     <string name="add_account">계정 연결</string>
-    <string name="qq">QQ</string>
-    <string name="bind_qq">QQ</string>
     <string name="facebook">페이스북</string>
     <string name="bind_facebook">페이스북 계정 연결</string>
     <string name="binded">연결됨</string>
@@ -560,7 +558,6 @@ ID:%s
     <string name="passport_reg_recycle_account_yes">네</string>
     <string name="passport_yes">네</string>
     <string name="search_menu_title">검색</string>
-    <string name="sina_weibo">시나 웨이보</string>
     <string name="two_factor_auth">이중 인증</string>
     <string name="two_factor_auth_click_confirm">로그인 확인</string>
     <string name="two_factor_auth_click_confirm_summary">"연결된 다른 Mi 기기에 알림이 표시됩니다. 알림을 누르면 새 기기에 로그인 할 수 있습니다."</string>
