@@ -94,10 +94,12 @@
     <string name="life_post_weather_invalid">날씨 정보를 가져올 수 없습니다. 재시도하려면 탭하십시오.</string>
     <string name="life_post_wake_up_time_title">기상 시간</string>
     <string name="life_post_wake_up_acumu_day_title">알람전 기상횟수</string>
-    <string name="life_post_wake_up_percentage_title">의 사람들보다 일찍 일어남</string>
+    <string name="life_post_wake_up_percentage_title">사람들보다
+일찍 일어남</string>
     <string name="life_post_wake_up_percentage_sign">%</string>
     <string name="life_post_wake_up_item_time_title">기상 시간</string>
-    <string name="life_post_wake_up_item_percentage_title">의 사람들보다 일찍 일어남</string>
+    <string name="life_post_wake_up_item_percentage_title">사람들보다
+일찍 일어남</string>
     <string name="life_post_wake_up_item_acumu_day_title">알람전 기상횟수</string>
     <string name="life_post_wake_up_item_acumu_day">%1$s일</string>
     <string name="life_post_setting">아침 보고서</string>
