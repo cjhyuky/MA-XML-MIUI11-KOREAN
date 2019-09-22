@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">%d자 까지 입력할 수 있습니다</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">적어도 %d자 이상 입력하세요</item>
+    </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d개 앱의 알림을 표시하지 않습니다.</item>
     </plurals>
