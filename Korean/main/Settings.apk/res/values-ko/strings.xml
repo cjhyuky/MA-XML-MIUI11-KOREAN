@@ -866,16 +866,16 @@
   <string name="bluetooth_confirm_passkey_msg">&lt;b&gt;%1$s&lt;/b&gt;와(과) 페어링하려면&lt;br&gt;&lt;br&gt;이 패스키(&lt;b&gt;%2$s&lt;/b&gt;)가 표시되는지 확인하세요.&lt;br&gt;&lt;br&gt;</string>
   <string name="bluetooth_connect_failed">연결 실패. 재시도하세요.</string>
   <string name="bluetooth_connect_specific_profiles_title">연결...</string>
-  <string name="bluetooth_connected">연결됨</string>
+  <string name="bluetooth_connected">연결됨 %1$s</string>
   <string name="bluetooth_connected_battery_level">연결됨, 배터리 %1$s%2$s</string>
   <string name="bluetooth_connected_multiple_devices_summary">여러 기기에 연결됨</string>
-  <string name="bluetooth_connected_no_a2dp">연결됨 (미디어 안됨)</string>
+  <string name="bluetooth_connected_no_a2dp">연결됨 (미디어 안됨) %1$s</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">연결됨 (미디어 안됨), 배터리 %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset">연결됨 (전화 안됨)</string>
+  <string name="bluetooth_connected_no_headset">연결됨 (전화 안됨) %1$s</string>
   <string name="bluetooth_connected_no_headset_battery_level">연결됨 (전화 안됨), 배터리 %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">연결됨 (전화 또는 미디어 안됨)</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">연결됨 (전화 또는 미디어 안됨) %1$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">연결됨 (전화와 미디어 안됨), 배터리 %1$s%2$s</string>
-  <string name="bluetooth_connected_no_map">연결됨 (메시지 액세스 안됨)</string>
+  <string name="bluetooth_connected_no_map">연결됨 (메시지 액세스 안됨) %1$s</string>
   <string name="bluetooth_connected_summary">%1$s에 연결됨</string>
   <string name="bluetooth_connecting">연결 중…</string>
   <string name="bluetooth_connecting_error_message">%1$s에 연결할 수 없습니다.</string>
@@ -1157,7 +1157,9 @@
   <string name="bootloader_status_unlocked">잠금 해제됨</string>
   <string name="bootloader_status_unlocked_info">이 기기는 언락되었습니다.</string>
   <string name="bootloader_summary">컴퓨터 USB를 통해 기기 초기화 허용</string>
-  <string name="bootloader_tips">Mi계정 추가 후, 로그아웃, 공장초기화, 시스템앱 데이터를 삭제하지 마세요. 그렇게 하면 계정을 다시 추가하거나 기기를 열 수 없을 수 있습니다.</string>
+  <string name="bootloader_tips">%s
+
+이미 위의 작업을 수행한 경우 Mi 계정을 다시 추가하십시오. 그렇지 않으면 기기의 잠금을 해제할 수 없습니다.</string>
   <string name="bootloader_tips_ok">확인</string>
   <string name="breathing_light_color_menu_title">표시등 색상</string>
   <string name="breathing_light_color_summary">새 알림을 수신할 때 LED 색상</string>
