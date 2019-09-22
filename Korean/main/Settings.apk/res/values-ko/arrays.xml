@@ -157,7 +157,6 @@
     <item>Qualcomm® aptX ™ HD 오디오</item>
     <item>LDAC</item>
     <item>Qualcomm® aptX ™ 적응형 오디오</item>
-    <item>LDHC</item>
     <item>선택 코덱 활성화</item>
     <item>선택 코덱 비활성화</item>
   </string-array>
@@ -169,7 +168,6 @@
     <item>Qualcomm® aptX ™ HD 오디오</item>
     <item>LDAC</item>
     <item>Qualcomm® aptX ™ 적응형 오디오</item>
-    <item>LDHC</item>
     <item>선택 코덱 활성화</item>
     <item>선택 코덱 비활성화</item>
   </string-array>
@@ -575,9 +573,8 @@
     <item>고속모드</item>
   </string-array>
   <string-array name="dark_ui_mode_entries">
-    <item>자동(낮의 길이에 따라)</item>
-    <item>항상 켜기</item>
-    <item>항상 끄기</item>
+    <item>다크</item>
+    <item>라이트</item>
   </string-array>
   <string-array name="data_usage_data_range">
     <item>최근 30일</item>
