@@ -9077,4 +9077,18 @@
   <string name="zone_auto_title">네트워크 시간대 사용</string>
   <string name="choose_lock_pattern_header_text">패턴 설정</string>
   <string name="confirm_lock_pattern_header_text">패턴을 그리십시오</string>
+  <string name="aod_settings_title">앰비언트 디스플레이</string>
+  <string name="battery_saver_off_summary">꺼짐</string>
+  <string name="battery_saver_on_summary">켜짐</string>
+  <string name="bootloader_tips_warning">네트워크 연결을 끊지마시고, Mi 계정을 로그아웃한 후에 공장초기화 또는 시스템 데이터를 삭제하세요.</string>
+  <string name="disallow_lock_screen_summary">\"앱 알림\"에서 먼저 알림을 허용하세요</string>
+  <string name="gxzw_add_fingerprint_area">지문 스캐너</string>
+  <string name="gxzw_quick_open_title">바로가기</string>
+  <string name="mi_transfer">Mi 무버</string>
+  <string name="provision_activation">활성화됨</string>
+  <string name="slider_app_open_name">%1$s 열기</string>
+  <string name="wifi_scan_notify_text_scanning_off">위치 정확도를 향상시키려면 검색 설정에서 Wi-Fi 검색을 켜십시오.</string>
+  <string name="work_policy_privacy_settings">직장 정책 정보</string>
+  <string name="work_policy_privacy_settings_summary">IT 관리자가 관리하는 설정</string>
+  <string name="xiaomi_cloud_service_description_without_contacts">샤오미 클라우드는 사진을 동기화하고 앱과 설정을 백업하며 장치찾기를 사용하여 휴대전화를 찾는데 도움을 줍니다.</string>
 </resources>
