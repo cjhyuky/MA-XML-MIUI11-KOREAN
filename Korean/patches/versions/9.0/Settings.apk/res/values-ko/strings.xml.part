@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility_vibration_summary">벨소리 %1$s, 터치 %2$s</string>
+  <string name="battery_tip_dialog_message">"휴대전화를 평소보다 더 많이 사용했습니다. 배터리가 예상보다 빨리 소진될 수 있습니다.
+
+완전 충전 후 가장 많이 사용한 %1$d개 앱:"</string>
+  <string name="disable_service_message">확인을 탭하면 %1$s 앱이 멈춥니다.</string>
+  <string name="notifications_enabled_with_info">켜짐 / %1$s</string>
+  <string name="sim_change_data_message">%2$s 대신 %1$s의 모바일 데이터를 사용하시겠습니까?</string>
+  <string name="sim_change_data_title">데이터 SIM을 변경하시겠습니까?</string>
+  <string name="wifi_calling_off_explanation">Wi-Fi 통화가 켜져 있으면 휴대전화에서 환경설정과 신호 강도에 따라 Wi-Fi 네트워크나 이동통신사 네트워크를 통해 통화를 연결할 수 있습니다. 이 기능을 사용하기 전에 이동통신사에 문의하여 요금과 기타 세부정보를 알아보세요.</string>
+</resources>
