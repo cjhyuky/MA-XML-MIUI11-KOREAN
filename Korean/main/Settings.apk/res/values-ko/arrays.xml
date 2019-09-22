@@ -793,7 +793,8 @@
   </string-array>
   <string-array name="notch_battery_indicator_style_entries">
     <item>그래픽</item>
-    <item>퍼센트</item>
+    <item>퍼센트(아이콘 안쪽)</item>
+    <item>퍼센트(아이콘 옆쪽)</item>
   </string-array>
   <string-array name="notification_shade_shortcut_entries">
     <item>검색</item>
