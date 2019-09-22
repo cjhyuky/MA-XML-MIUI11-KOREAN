@@ -1,4 +1,4 @@
-![Logo](https://i.postimg.cc/c47MxQnC/MIUI11KO.jpg)
+![Logo](https://i.postimg.cc/DZK130wL/MIUI11-KO2.jpg)
 
 # MIUIAndroid MIUI11 Korean Translations.
     This is repository for MIUIAndroid MultiRom project.
