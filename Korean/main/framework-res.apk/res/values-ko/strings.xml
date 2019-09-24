@@ -2307,4 +2307,16 @@
   <string name="wifi_suggestion_action_disallow_app">아니요</string>
   <string name="wifi_suggestion_content">%s에서 추천</string>
   <string name="wifi_suggestion_title">Wi-Fi 네트워크에 연결하시겠습니까?</string>
+  <string name="accessibility_gesture_3finger_instructional_text">서비스 간에 전환하려면 세 손가락을 사용하여 위로 스와이프한 다음 잠시 기다립니다.</string>
+  <string name="accessibility_gesture_3finger_prompt_text">접근성 동작(세 손가락을 사용하여 화면 하단에서 위로 스와이프)으로 실행할 서비스를 선택하세요.</string>
+  <string name="accessibility_gesture_instructional_text">서비스 간에 전환하려면 두 손가락을 사용하여 위로 스와이프한 다음 잠시 기다립니다.</string>
+  <string name="accessibility_gesture_prompt_text">접근성 동작(두 손가락을 사용하여 화면 하단에서 위로 스와이프)으로 실행할 서비스를 선택하세요.</string>
+  <string name="activity_resolver_set_always">항상 열도록 설정</string>
+  <string name="autofill_update_title">&lt;b&gt;%1$s&lt;/b&gt;에서 업데이트하시겠습니까?</string>
+  <string name="ext_media_new_notification_title">새로운 %s</string>
+  <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">%s Wi-Fi 통화</string>
+  <string name="whichOpenHostLinksWith">%1$s 링크를 열 때 사용할 앱</string>
+  <string name="whichOpenHostLinksWithApp">%2$s 앱으로 %1$s 링크 열기</string>
+  <string name="whichOpenLinksWith">링크를 열 때 사용할 앱</string>
+  <string name="whichOpenLinksWithApp">%1$s 앱으로 링크 열기</string>
 </resources>
