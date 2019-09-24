@@ -1061,7 +1061,7 @@
     <string name="old_app_action">%1$s 앱으로 돌아가기</string>
     <string name="old_app_description">새 앱을 시작하지 마세요.</string>
     <string name="new_app_action">%1$s 시작</string>
-    <string name="new_app_description">저장하지 않고 이전 앱을 중단합니다.</string>
+    <string name="new_app_description">저장하지 않고 %1$s 앱을 중단합니다.</string>
     <string name="sendText">텍스트에 대한 작업 선택</string>
     <string name="volume_ringtone">벨소리 볼륨</string>
     <string name="volume_music">미디어 볼륨</string>
@@ -1174,7 +1174,7 @@
     <string name="ext_media_move_success_message">%s 쪽으로 데이터 이동 완료</string>
     <string name="ext_media_move_success_title">이동 완료</string>
     <string name="ext_media_move_title">데이터 이동중</string>
-    <string name="ext_media_new_notification_message">새로운 %s 미디어 발견</string>
+    <string name="ext_media_new_notification_message">설정하려면 탭하세요</string>
     <string name="ext_media_ready_notification_message">사진과 미디어 전송용</string>
     <string name="ext_media_status_bad_removal">안전하지 않게 제거되었습니다</string>
     <string name="ext_media_status_checking">체크중…</string>
@@ -1197,13 +1197,13 @@
     <string name="ext_media_nofs_notification_title">빈 SD 카드</string>
     <string name="ext_media_nofs_notification_message">SD 카드가 비어 있거나 지원되지 않는 파일 시스템을 사용합니다.</string>
     <string name="ext_media_unmountable_notification_title">손상된 %s</string>
-    <string name="ext_media_unmountable_notification_message">%s 손상됨. 고치시려면 탭하세요.</string>
-    <string name="ext_media_badremoval_notification_title">SD 카드가 예상치 않게 제거되었습니다.</string>
-    <string name="ext_media_badremoval_notification_message">데이터 손실을 피하려면 %s 제거 전에 마운트 해제 해야합니다.</string>
+    <string name="ext_media_unmountable_notification_message">고치시려면 탭하세요.</string>
+    <string name="ext_media_badremoval_notification_title">%s 저장장치가 예상치 않게 제거되었습니다.</string>
+    <string name="ext_media_badremoval_notification_message">데이터 손실을 피하려면 제거 전에 먼저 마운트 해제 해야합니다.</string>
     <string name="ext_media_safe_unmount_notification_title">SD 카드 제거 가능</string>
     <string name="ext_media_safe_unmount_notification_message">안전하게 SD 카드를 제거할 수 있습니다.</string>
     <string name="ext_media_nomedia_notification_title">%s 제거됨.</string>
-    <string name="ext_media_nomedia_notification_message">"%s 제거됨. 새로 넣으세요."</string>
+    <string name="ext_media_nomedia_notification_message">"몇몇 기능이 제대로 작동하지 않을 수 있습니다. 새로운 저장공간을 삽입하세요."</string>8
     <string name="activity_list_empty">일치하는 활동이 없습니다.</string>
     <string name="permlab_pkgUsageStats">구성 요소 사용 통계 업데이트</string>
     <string name="permdesc_pkgUsageStats">앱이 수집된 구성요소 사용 통계를 수정하도록 합니다. 일반 앱에서는 사용하지 않습니다.</string>
@@ -1355,7 +1355,7 @@
     <string name="storage_ic_usb2">외부 IC-USB 스토리지 2</string>
     <string name="extract_edit_menu_button">수정</string>
     <string name="data_usage_warning_title">데이터 사용 경고</string>
-    <string name="data_usage_warning_body">사용량 및 설정을 보려면 터치하세요.</string>
+    <string name="data_usage_warning_body">"%s만큼 데이터를 사용하였습니다"</string>
     <string name="data_usage_3g_limit_title">2G-3G 데이터 한도에 도달함</string>
     <string name="data_usage_4g_limit_title">4G 데이터 한도에 도달함</string>
     <string name="data_usage_mobile_limit_title">이동통신 데이터 한도에 도달함</string>
