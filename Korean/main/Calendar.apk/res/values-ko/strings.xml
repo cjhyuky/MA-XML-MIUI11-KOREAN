@@ -742,4 +742,8 @@
     <string name="setting_title_import_todo">일정 가져오기</string>
     <string name="todo_audio_event">"[음성입력 일정] "</string>
     <string name="todo_event">다가오는 일정</string>
+    <string name="permission_accounts">시스템 계정에 로그인 및 관리하고 항목을 연결하는데 사용</string>
+    <string name="permission_contacts">연락처의 생일을 동기화하고 알림을 보내는데 사용</string>
+    <string name="permission_main_purpose">캘린더 이벤트 보기 및 관리, 여행 계획, 알림 수신 및 서비스 구독</string>
+    <string name="permission_storage">알림 및 벨소리 저장용</string>
 </resources>
