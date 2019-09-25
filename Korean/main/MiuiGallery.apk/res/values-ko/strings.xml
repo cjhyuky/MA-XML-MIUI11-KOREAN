@@ -1576,4 +1576,6 @@
     <string name="tips_prompt_enable_midrop">근처의 장치와 파일 공유</string>
     <string name="unrecognized_manufacture">알 수 없음</string>
     <string name="unrecognized_model">알 수 없는 장치</string>
+    <string name="cloud_privacy_with_ai_album">자동 백업 및 이미지 처리에 대한 개인정보 보호정책</string>
+    <string name="cloud_privacy_with_face">자동 백업 및 얼굴 인식에 관한 개인정보 보호정책</string>
 </resources>
