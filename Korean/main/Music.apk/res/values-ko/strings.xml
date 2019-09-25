@@ -85,7 +85,7 @@
   <string name="audio_picker_title">노래 선택</string>
   <string name="auto_update">자동 업데이트</string>
   <string name="auto_update_tip">모바일 데이터를 사용하여 시스템 앱을 업데이트할 수 있습니다. 데이터 요금이 발생합니다.</string>
-  <string name="available_playlist_name_format">새 재생 목록 %d</string>
+  <string name="available_playlist_name_format">재생목록 %d</string>
   <string name="avoid_to_use_traffic_summary">모바일 데이터를 사용하여 음악을 스트리밍하지 마십시오.</string>
   <string name="avoid_to_use_traffic_title">Wi-Fi만 사용하여 음악 스트리밍</string>
   <string name="back_confirm">다시 탭하면 백그라운드에서 재생됩니다</string>
@@ -394,7 +394,7 @@
   <string name="language_preference">언어 설정</string>
   <string name="language_preference_desc">더 적합한 추천을 받으려면 원하는 언어를 선택하십시오.</string>
   <string name="languages">언어</string>
-  <string name="latest_song">재생 기록 (%d)</string>
+  <string name="latest_song"><Data>재생 기록 &lt;font color=#7e7e7e>(%1$d)&lt;/font></Data></string>
   <string name="like">좋아함</string>
   <string name="list_item_play_all_tracks">모두 재생</string>
   <string name="load_shuffle">로딩중…</string>
@@ -817,4 +817,19 @@
     <string name="offline_song_and_auto_next">"이 노래는 사용할 수 없습니다. 지금 건너 뜁니다."</string>
     <string name="recommend_tool">추천</string>
     <string name="video_network_negative">모바일 데이터를 사용한 스트리밍 항목 허용</string>
+  <string name="cloud_empty_summary">다른 장치에서도 노래를 들을 수 있도록 샤오미 클라우드에 백업하세요</string>
+  <string name="cloud_welcome_summary">다른 장치에서도 들을 수 있도록 노래를 샤오미 클라우드에 백업하세요</string>
+  <string name="cta_runtime_perm_desc_account">Mi 계정을 사용하여 로그인하기 위해 장치의 계정에 접근</string>
+  <string name="cta_runtime_perm_desc_audio">마이크를 사용하여 노래 식별</string>
+  <string name="cta_runtime_perm_desc_location">지역 라디오 방송국에 접근</string>
+  <string name="cta_runtime_perm_desc_phone">장치를 식별하기 위해 장치 정보에 접근</string>
+  <string name="cta_runtime_perm_desc_storage">노래, 표지 및 가사를 저장하고 액세스하기 위해 저장소에 접근</string>
+  <string name="cta_runtime_perm_desc_storage_single">노래, 표지 및 가사를 저장하고 액세스하기 위해 저장소에 접근</string>
+  <string name="declaration_main_content">당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.\n정상적으로 작동하려면 이 앱을 인터넷에 연결해야하며 개인 정보를 수집하려면 다음 권한이 필요합니다.</string>
+  <string name="declaration_main_content2">&lt;Data&gt;\"이러한 권한을 부여하거나 개인 정보를 공유 및 업로드하는데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그 아웃하거나 권한을 제한하도록 선택할 수 있습니다. Mi 뮤직을 사용하기 전에 우리의 &lt;a href=\"http://www.miui.com/res/doc/eula.html\"&gt;이용 약관&lt;/a&gt;과&lt;a href=\"https://static.music.xiaomi.com/privacy?lang=%1$s\"&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의해주세요.\"&lt;/Data&gt;</string>
+  <string name="declaration_main_purpose">Mi 뮤직에 오신 것을 환영합니다! 이 앱을 사용하여 장치에 저장된 노래를 재생하고 온라인 콘텐츠를 스트리밍 할 수 있습니다.</string>
+  <string name="headline_content_issue_feedback">컨텐츠 문제에 대한 피드백</string>
+  <string name="sleep_mode_seek_bar_end">120분</string>
+  <string name="sleep_mode_seek_bar_start">1분</string>
+  <string name="sync_only_in_wifi_summary">샤오미 클라우드로 모든 기기에서 음악 동기화. 모바일 데이터 연결을 사용하여 음악을 동기화하면 데이터 사용량이 증가합니다. 요금제 데이터 한도를 초과하면 이동 통신사가 추가 요금을 청구 할 수 있습니다.</string>
 </resources>
