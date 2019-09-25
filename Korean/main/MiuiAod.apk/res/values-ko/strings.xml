@@ -59,7 +59,6 @@
     <string name="color_change_with_time_description">시간이 지남에 따라 자동으로 텍스트 색상 변경</string>
     <string name="color_change_with_time_title">자동으로 색상 변경</string>
     <string name="deep_space_planet">외부 공간</string>
-    <string name="deep_space_planet_des">\"외부 공간\"은 하루 동안 주변에서 일어나는 빛의 변화를 반영합니다. 이 테마의 일출과 일몰은 위치와 동기화됩니다.</string>
     <string name="font_thickness">굵은 글꼴</string>
     <string name="large_time">큰 시계</string>
     <string name="mini_time">작은 시계</string>
