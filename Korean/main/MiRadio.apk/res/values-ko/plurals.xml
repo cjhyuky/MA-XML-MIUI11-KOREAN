@@ -4,6 +4,6 @@
         <item quantity="other">%1$d개 채널 스캔됨</item>
     </plurals>
     <plurals name="notification_rec_content">
-        <item quantity="other">%d FM 녹음 중</item>
+        <item quantity="other">%d개의 FM 녹음</item>
     </plurals>
 </resources>
