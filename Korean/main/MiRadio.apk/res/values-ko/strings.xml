@@ -132,12 +132,12 @@
     <string name="listen_to_hotlist">인기 차트 듣기</string>
     <string name="listen_to_music">음악 듣기</string>
     <string name="listen_to_news">뉴스 듣기</string>
-    <string name="listen_to_novel">오디오 북 듣기</string>
+    <string name="listen_to_novel">오디오북 듣기</string>
     <string name="listen_to_storytelling">스토리 듣기</string>
     <string name="listen_without_headset">이어폰없이 다음 프로그램을 들을 수 있습니다.</string>
     <string name="music">음악</string>
     <string name="news">뉴스</string>
-    <string name="novel">오디오 북</string>
+    <string name="novel">오디오북</string>
     <string name="please_plug_headset">이어폰 연결</string>
     <string name="poor_signal_due_to_no_headset">신호를 개선하기 위해 이어폰 연결</string>
     <string name="recommend_list">추천</string>
