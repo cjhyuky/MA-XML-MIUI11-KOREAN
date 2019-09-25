@@ -296,4 +296,6 @@
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="search_menu_title">검색</string>
     <string name="business_card_with_qr_code">명함이나 QR코드를 프레임안에 위치시키세요</string>
+    <string name="close_hotspot_when_connecting_to_wifi">핫스팟이 켜져있습니다. Wi-Fi를 켜세요.</string>
+    <string name="setting_function_sort">기능 재정렬</string>
 </resources>
