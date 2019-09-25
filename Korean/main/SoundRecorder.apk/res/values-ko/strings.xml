@@ -275,4 +275,5 @@
     <string name="text_play_speed_1_0">기본 재생</string>
     <string name="text_play_speed_1_5">1.5배속 재생</string>
     <string name="text_play_speed_2_0">2배속 재생</string>
+    <string name="usage_description">클라우드와 오디오 녹음 및 항목 동기화</string>
 </resources>

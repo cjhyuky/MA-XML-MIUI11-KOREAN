@@ -394,7 +394,7 @@
     <string name="reload">다시 시도</string>
     <string name="browser_local_resource">로컬 리소스</string>
     <string name="incompatible_dialog_title">호환성 문제</string>
-    <string name="incompatible_dialog_message">이 테마는 MIUI 9와 완전히 호환되지 않습니다. 몇몇 요소들이 잘못 표시될 수 있습니다.</string>
+    <string name="incompatible_dialog_message">"이 테마는 아직 MIUI 11과 완전히 호환되지 않습니다. 몇몇 페이지는 제대로 작동하지 않을 수 있습니다."</string>
     <string name="incompatible_dialog_ok">알겠습니다.</string>
     <string name="multi_sim_ringtone_settings_dialog_title">호환성 문제</string>
     <string name="multi_sim_ringtone_settings_dialog_message">벨소리가 두 SIM 카드에 적용되었습니다.</string>
@@ -691,7 +691,8 @@
     <string name="theme_staggered_item_text">크레딧 받기</string>
     <string name="theme_to_comment">나쁘지 않습니다!</string>
     <string name="transparent_wallpaper">투명한 배경 화면</string>
-    <string name="transparent_wallpaper_apply_success">설정 완료. 테마>프로필>베타 기능에서 이 기능을 사용 중지 할 수 있습니다.</string>
+    <string name="transparent_wallpaper_apply_success">"적용 완료.
+더 많은 옵션을 확인하시려면 테마 > 프로필 > 테마 연구소로 가보세요."</string>
     <string name="transparent_wallpaper_enable_success">켜기 완료</string>
     <string name="transparent_wallpaper_guide">테마로 이동</string>
     <string name="transparent_wallpaper_guide_tip">이제 테마에서 투명한 배경을 선택할 수 있습니다.</string>
@@ -835,4 +836,8 @@
     <string name="title_system_audio_alarm_resource">시스템 경보</string>
     <string name="transparent_wallpaper_auto_start_pref_summary">기기를 재부팅한 후 투명한 배경 화면을 계속 사용</string>
     <string name="transparent_wallpaper_auto_start_pref_title">자동 시작</string>
+    <string name="current_using">현재 테마</string>
+    <string name="recommend_trigger">개인 맞춤 추천</string>
+    <string name="recommend_trigger_summary">기능을 켜시면 귀하에게 잘 어울릴만한 테마를 추천해드립니다</string>
+    <string name="update_flag">업데이트</string>
 </resources>
