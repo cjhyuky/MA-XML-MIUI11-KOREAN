@@ -130,4 +130,16 @@
         <item>동기화된 항목 보기</item>
         <item>저장소 세부사항</item>
     </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>일정 동기화용</item>
+        <item>메시지 동기화용</item>
+        <item>메시지 동기화용</item>
+        <item>연락처 동기화용</item>
+        <item>연락처 동기화용</item>
+        <item>기기에 항목 저장용(예. 사진, 영상, 노래)</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>기기 식별용</item>
+        <item>기기를 찾고 분실 모드로 전환용</item>
+    </string-array>
 </resources>
