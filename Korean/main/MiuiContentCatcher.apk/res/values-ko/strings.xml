@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">앱 확장 서비스</string>
     <string name="autofill_service_label">비밀번호 관리</string>
+    <string name="auth_fingerprint_content_message_error">"지문 스캔 실패, 다시 시도하세요"</string>
     <string name="invalid_package_signature">잘못된 앱 서명</string>
     <string name="cancel">취소</string>
     <string name="ok">확인</string>
@@ -22,8 +23,8 @@
     <string name="autofill_hint_password">비밀번호</string>
     <string name="autofill_hint_phone">휴대전화 번호</string>
     <string name="auth_fingerprint_title">지문으로 인증하세요</string>
-    <string name="auth_fingerprint_content">지문으로 저장된 비밀번호를 불러오세요</string>
-    <string name="auth_fingerprint_content_message">"지문인식 실패, 재시도하세요"</string>
+    <string name="auth_fingerprint_content">지문 읽는중…</string>
+    <string name="auth_fingerprint_content_message">센서에 손가락을 대십시오</string>
     <string name="save_content_tip">"다음 항목이 저장됩니다: "</string>
     <string name="autofill_list_title">비밀번호 관리</string>
     <string name="autofill_password">비밀번호 자동 입력</string>
