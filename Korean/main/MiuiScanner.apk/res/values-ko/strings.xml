@@ -298,4 +298,12 @@
     <string name="business_card_with_qr_code">명함이나 QR코드를 프레임안에 위치시키세요</string>
     <string name="close_hotspot_when_connecting_to_wifi">핫스팟이 켜져있습니다. Wi-Fi를 켜세요.</string>
     <string name="setting_function_sort">기능 재정렬</string>
+  <string name="agree_app_use">QR 코드 스캔 및 다른 이미지에서 인식</string>
+  <string name="agree_camera_permission">사진 촬영 및 비디오 녹화</string>
+  <string name="agree_storage_permission">기기에 저장된 사진 및 파일 액세스</string>
+  <string name="always">항상</string>
+  <string name="choose_open_code_app">앱을 선택하세요</string>
+  <string name="once">한번만</string>
+  <string name="to_install_title">이 QR 코드는 이미 삭제되었던 앱의 설치링크입니다. 지금 이 앱을 다운로드하시겠습니까?</string>
+  <string name="toinstall">다운로드</string>
 </resources>
