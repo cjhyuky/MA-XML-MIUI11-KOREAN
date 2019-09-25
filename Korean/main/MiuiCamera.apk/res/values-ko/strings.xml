@@ -1180,4 +1180,12 @@
     <string name="pref_camera_lying_summary">휴대폰이 지면과 평행할 때, 카메라 방향이 화면에 실시간으로 표시됩니다</string>
     <string name="mimoji_app_name">Mi모지</string>
     <string name="pref_camera_snap_entry_summary">화면이 꺼져있을 때 음량- 버튼을 길게 눌러 사진을 촬영합니다</string>
+    <string name="accessibility_mimovie_off">영화 모드가 꺼져있습니다</string>
+    <string name="accessibility_mimovie_on">영화 모드가 켜져있습니다</string>
+    <string name="color_effect_entry_classic">클래식</string>
+    <string name="config_name_mimovie">영화 모드</string>
+    <string name="confirm_reset_manually_parameter_message">모든 매개 변수를 기본값으로 재설정 하시겠습니까?</string>
+    <string name="hint_mimovie">가장 좋은 효과를 위해 가로모드로 촬영을 추천합니다</string>
+    <string name="reset_manually_parameter_confirmed">확인</string>
+    <string name="reset_manually_parameter_hint">재설정</string>
 </resources>
