@@ -321,4 +321,14 @@
   <string name="todo_user_guide_tip4">작업을 위한 홈 화면 바로가기를 만드는 것을 잊지 마세요.</string>
   <string name="todo_user_guide_tip5">게임을 계속하려다 중요한 것을 놓치지 마세요!</string>
   <string name="todoalert_done">확인</string>
+    <string name="confirm_cancel">"동의하지 않음"</string>
+    <string name="confirm_ok">동의</string>
+    <string name="permission_get_account_desc">클라우드와 메모장 동기화 중</string>
+    <string name="permission_microphone_desc">음성 메모를 만드는 중</string>
+    <string name="permission_network_for_cloud_desc">노트와 클라우드를 동기화하려면 인터넷에 연결해야합니다. 모바일 데이터를 사용하여 항목을 동기화 할 수 있습니다. 지금 연결 하시겠습니까?</string>
+    <string name="permission_read_contact_desc">통화 중에 생성 된 메모를 연락처와 연결중</string>
+    <string name="permission_xiaoai_desc"><Data>Mi AI는 음성 녹음 및 장치 ID를 수집하여 오디오를 녹음하고 음성 메모를 만듭니다. Mi AI의 &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 더 확인해보세요.</Data></string>
+    <string name="pref_remind_type_summary">무음 모드에서 알림 소리 재생</string>
+    <string name="pref_remind_type_title">무음 모드 무시하기</string>
+    <string name="remind_title">미리 알림</string>
 </resources>
