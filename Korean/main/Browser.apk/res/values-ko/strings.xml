@@ -1461,4 +1461,6 @@
     <string name="video_download_wait_for_caching">캐싱 대기중</string>
     <string name="video_download_wait_for_network">네트워크 대기중</string>
     <string name="vo_info_flow_debug_title">데이터 디버그</string>
+    <string name="no_memory_space">저장공간이 부족합니다</string>
+    <string name="wechat_not_installed">위챗이 설치되어 있지 않습니다</string>
 </resources>

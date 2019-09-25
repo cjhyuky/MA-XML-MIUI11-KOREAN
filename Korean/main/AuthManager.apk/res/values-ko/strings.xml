@@ -68,7 +68,7 @@
     <string name="HIPS_Perm_use_sip">동영상 서비스</string>
     <string name="HIPS_Perm_use_sip_Desc">동영상 스트리밍을 위해 세션 시작 프로토콜을 사용</string>
     <string name="HIPS_Perm_process_outgoing_calls">폰 앱에 접근</string>
-    <string name="HIPS_Perm_process_outgoing_calls_Desc">모니터 및 통화 종료</string>
+    <string name="HIPS_Perm_process_outgoing_calls_Desc">수신전화 모니터링</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">근거리 무선 통신 (NFC) 하드웨어 접근</string>
     <string name="HIPS_Perm_install_shortcut">홈 화면 바로가기</string>
@@ -137,7 +137,19 @@
     <string name="permgroupdesc_microphone">오디오 녹음</string>
     <string name="permgroupdesc_camera">사진과 비디오 촬영</string>
     <string name="permgroupdesc_calllog">통화기록 접근 및 저장</string>
-    <string name="permgroupdesc_phone">전화 걸기 및 대화 관리</string>
+    <string name="permgroupdesc_phone">전화걸기 및 기기정보 접근</string>
     <string name="permgroupdesc_sensors">바디 센서 데이터 접근</string>
     <string name="permgroupdesc_recognition">헬스 &amp; 운동 데이터 접근</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">전화 번호 및 IMSI에 액세스</string>
+    <string name="permdesc_camera">사진촬영 및 비디오 녹화</string>
+    <string name="permdesc_in_calls">수신전화 모니터링</string>
+    <string name="permdesc_location">위치 정보 엑세스</string>
+    <string name="permdesc_microphone">전화 통화 및 오디오 녹음</string>
+    <string name="permdesc_out_calls">발신 통화 모니터링</string>
+    <string name="permdesc_read_calendar">캘린더 일정 액세스</string>
+    <string name="permdesc_read_storage">기기에 저장된 사진 및 파일에 액세스</string>
+    <string name="permdesc_recognition">건강 &amp; 운동 데이터에 엑세스</string>
+    <string name="permdesc_sensors">바디 센서 데이터 엑세스</string>
+    <string name="permdesc_write_calendar">캘린더 일정 추가 및 엑세스</string>
+    <string name="permdesc_write_storage">기기에 사진과 파일 저장 엑세스</string>
 </resources>
