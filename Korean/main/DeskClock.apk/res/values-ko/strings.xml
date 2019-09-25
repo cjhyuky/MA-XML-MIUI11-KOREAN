@@ -293,13 +293,13 @@
   <string name="module_weather_ringtone_introduce_global">날씨 경보는 현재 날씨에 따라 다른 벨소리를 재생합니다.</string>
   <string name="module_weather_ringtone_update_data">날씨 경보는 이제 배경 음악과 더 나은 음성 알림과 함께 제공됩니다. 작동하려면 시계가 ≈30MB의 오디오를 다운로드해야합니다. 지금 다운로드 하시겠습니까?</string>
   <string name="module_weather_ringtone_update_success">날씨 경보는 이제 배경 음악과 더 나은 음성 알림과 함께 제공됩니다. 시계 설정에서이 기능을 켤 수 있습니다.</string>
-  <string name="module_week_ringtone_download_data">주간 경보는 매일 다른 자연 소리를 재생합니다. 작동하려면 시계가 ≈30MB의 오디오를 다운로드해야합니다. 지금 다운로드 하시겠습니까?</string>
-  <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;개인화된 서비스를 제공하려면 인터넷에 연결되어 있어야 합니다. &amp;lt;a href=\"%1$s\"&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href=\"%2$s\"&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt; 에 동의하십니까?&lt;/Data&gt;</string>
-  <string name="module_week_ringtone_download_wifi">주간 경보는 매일 다른 자연 소리를 재생합니다. 작동하려면 시계가 오디오를 다운로드해야합니다. 지금 다운로드 하시겠습니까?</string>
-  <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;개인화된 서비스를 제공하려면 인터넷에 연결되어 있어야 합니다. &amp;lt;a href=\"%1$s\"&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href=\"%2$s\"&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt; 에 동의하십니까?&lt;/Data&gt;</string>
-  <string name="module_week_ringtone_introduce">주간 경보는 매일 다른 자연 소리를 재생합니다.</string>
-  <string name="module_week_ringtone_update_data">작동하려면 약 30MB의 데이터가 필요합니다. 지금 다운로드 하겠습니까?</string>
-  <string name="module_week_ringtone_update_success">주간 알람에는 요일별로 배경 음악이 제공됩니다. 시계 설정에서 이 기능을 켤 수 있습니다.</string>
+  <string name="module_week_ringtone_download_data">자연 알람은 날짜에 따라 다른 소리를 재생합니다. 작동하려면 시계가 ≈30MB의 오디오를 다운로드해야합니다. 지금 다운로드하시겠습니까?</string>
+  <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;자연 알람은 날짜에 따라 다른 소리를 재생합니다. 30MB의 오디오를 다운로드하려면 시계가 인터넷에 연결되어 있어야합니다. 시계를 사용하기 전에 먼저 우리의 &amp;lt;a href= %1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt;을 읽고 동의해야합니다. 동의하십니까?&lt;/Data&gt;</string>
+  <string name="module_week_ringtone_download_wifi">자연 알람은 날짜에 따라 다른 소리를 재생합니다. 작동하려면 시계가 오디오를 다운로드해야합니다. 지금 다운로드하시겠습니까?</string>
+  <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;자연 알람은 날짜에 따라 다른 소리를 재생합니다. 30MB의 오디오를 다운로드하려면 시계가 인터넷에 연결되어 있어야합니다. 시계를 사용하기 전에 먼저 우리의 &amp;lt;a href= %1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt;을 읽고 동의해야합니다. 동의하십니까?&lt;/Data&gt;</string>
+  <string name="module_week_ringtone_introduce">자연 알람은 날짜에 따라 다른 소리를 재생합니다.</string>
+  <string name="module_week_ringtone_update_data">자연 알람은 날짜에 따라 다른 소리를 재생합니다. 작동하려면 시계가 ≈30MB의 오디오를 다운로드해야합니다. 지금 다운로드하시겠습니까?</string>
+  <string name="module_week_ringtone_update_success">자연 알람은 날짜에 따라 다른 소리를 재생합니다. 이 기능을 사용하기 위해 새 알람을 만들수 있습니다.</string>
   <string name="module_white_noise_download_data">작동하려면 약 30MB의 데이터가 필요합니다. 지금 다운로드 하겠습니까?</string>
   <string name="module_white_noise_download_data_privacy">&lt;Data&gt;개인화된 서비스를 제공하려면 인터넷에 연결되어 있어야 합니다. &amp;lt;a href=\"%1$s\"&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href=\"%2$s\"&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt; 에 동의하십니까?&lt;/Data&gt;</string>
   <string name="module_white_noise_download_wifi">작동하려면 약 30MB의 데이터가 필요합니다. 지금 다운로드 하겠습니까?</string>
@@ -309,7 +309,7 @@
   <string name="privacy_policy_title">개인정보 보호 정책</string>
   <string name="ringtone_other">더 많은 알람음</string>
   <string name="ringtone_weather">날씨 알람음</string>
-  <string name="ringtone_week">주간 알람음</string>
+  <string name="ringtone_week">자연 알람</string>
   <string name="setting_alarm_arriving_subtitle">알람이 울리기 전에 표시</string>
   <string name="shutdown_alarm_alert_enable_summary">장치 전원을 끄고 10분이 경과되면 알람을 울립니다</string>
   <string name="shutdown_alarm_alert_title">종료 알람</string>
