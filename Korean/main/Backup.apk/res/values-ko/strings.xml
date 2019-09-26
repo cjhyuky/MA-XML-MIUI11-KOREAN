@@ -646,4 +646,10 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="dialog_app_upgrade_download">업데이트</string>
     <string name="dialog_app_upgrade_exit">나가기</string>
     <string name="dialog_app_upgrade_message">새로운 버전의 Mi Mover가 있습니다. Mi Mover를 바로 업데이트 하시겠습니까?</string>
+    <string name="auto_backup_user_data">앱</string>
+    <string name="button_got_it">확인</string>
+    <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="local_select_userapp">앱</string>
+    <string name="perm_location">위치</string>
+    <string name="trans_detail_category_userdata">앱</string>
 </resources>
