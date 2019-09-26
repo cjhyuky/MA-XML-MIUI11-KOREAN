@@ -9092,4 +9092,6 @@
   <string name="work_policy_privacy_settings">직장 정책 정보</string>
   <string name="work_policy_privacy_settings_summary">IT 관리자가 관리하는 설정</string>
   <string name="xiaomi_cloud_service_description_without_contacts">샤오미 클라우드는 사진을 동기화하고 앱과 설정을 백업하며 장치찾기를 사용하여 휴대전화를 찾는데 도움을 줍니다.</string>
+  <string name="miui_lab_aiasst_call_screen_desc">조용히 전화를 받기 위한 음성 및 텍스트 변환</string>
+  <string name="miui_lab_aiasst_call_screen_title">AI 통화 어시스턴트</string>
 </resources>
