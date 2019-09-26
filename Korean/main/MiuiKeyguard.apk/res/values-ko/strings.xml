@@ -55,8 +55,8 @@
     <string name="invalid_sim_puk_hint">PUK는 최소 8자리 이상의 숫자여야 합니다.</string>
     <string name="input_password_hint_text">비밀번호 입력</string>
     <string name="input_pattern_hint_text">잠금 해제 패턴 그리기</string>
-    <string name="input_password_after_boot_msg">기기를 잠금 해제 하시려면
-비밀번호를 입력해 주십시오.</string>
+    <string name="input_password_after_boot_msg">기기를 잠금해제 하시려면
+비밀번호를 입력해주십시오.</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">기기 재시작 후에는 기본 공간으로 진입하셔야 합니다.</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">통화 중에는 공간 간의 전환을 할 수 없습니다.</string>
     <string name="input_password_handle_sdcard_fs">보조 공간 진입 전 \"모의 SD 카드 최적화\"를 종료해주십시오.</string>
