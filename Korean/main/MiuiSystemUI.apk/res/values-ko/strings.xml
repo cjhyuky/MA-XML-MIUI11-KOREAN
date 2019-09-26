@@ -1378,7 +1378,7 @@
   <string name="recents_multistack_add_stack_dialog_split_vertical">세로로 분할</string>
   <string name="recents_search_bar_label">검색</string>
   <string name="recents_stack_action_button_label">모두제거</string>
-  <string name="recents_title_app_manager">앱 편집</string>
+  <string name="recents_title_app_manager">앱 관리</string>
   <string name="recents_title_game">게임</string>
   <string name="recents_title_garbage_cleanup">클리너</string>
   <string name="recents_title_garbage_deepclean">정밀 청소</string>
