@@ -522,7 +522,7 @@
     <string name="trans_switching_5g">5GHz Wi-Fi로 전환 중…</string>
     <string name="err_not_allow">지원되지 않음</string>
     <string name="button_clean_garbage">저장 공간을 확보하세요.</string>
-    <string name="button_got_it">네</string>
+    <string name="button_got_it">확인</string>
     <string name="button_quit">나가기</string>
     <string name="err_bakfile_not_exist">"백업 파일이 없습니다."</string>
     <string name="err_binder_died">앱 강제 종료됨</string>
@@ -646,10 +646,4 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="dialog_app_upgrade_download">업데이트</string>
     <string name="dialog_app_upgrade_exit">나가기</string>
     <string name="dialog_app_upgrade_message">새로운 버전의 Mi Mover가 있습니다. Mi Mover를 바로 업데이트 하시겠습니까?</string>
-    <string name="auto_backup_user_data">앱</string>
-    <string name="button_got_it">확인</string>
-    <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
-    <string name="local_select_userapp">앱</string>
-    <string name="perm_location">위치</string>
-    <string name="trans_detail_category_userdata">앱</string>
 </resources>
