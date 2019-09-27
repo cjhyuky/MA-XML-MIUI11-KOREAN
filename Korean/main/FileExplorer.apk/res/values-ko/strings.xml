@@ -846,5 +846,5 @@
     <string name="grid_mode">줄 모드</string>
     <string name="list_mode">목록 모드</string>
     <string name="mi_share">Mi공유</string>   
-    <string name="switch_doc_type">포맷 선택</string>
+    <string name="switch_doc_type"> 선택</string>
 </resources>
