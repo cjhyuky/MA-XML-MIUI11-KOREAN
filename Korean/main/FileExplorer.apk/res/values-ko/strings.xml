@@ -843,8 +843,8 @@
     <string name="app_function">기기의 파일 관리</string>
     <string name="doc_all">모든</string>
     <string name="error_file_already_exists">파일이 이미 존재합니다</string>
-    <string name="grid_mode">줄 모드</>
+    <string name="grid_mode">줄 모드</string>
     <string name="list_mode">목록 모드</string>
     <string name="mi_share">Mi공유</string>   
-    <string name="switch_doc_type">포맷 선택</string>
+    <string name="switch_doc_type"> 선택</string>
 </resources>
