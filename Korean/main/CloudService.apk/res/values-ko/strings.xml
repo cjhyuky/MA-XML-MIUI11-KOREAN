@@ -807,4 +807,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
 기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의해주세요.
 "</string>
+    <string name="privacy_and_agreement">약관 및 조건</string>
+    <string name="pre_privacy_policy">개인정보 보호정책</string>
+    <string name="pre_user_agreement">이용 약관</string>
 </resources>
