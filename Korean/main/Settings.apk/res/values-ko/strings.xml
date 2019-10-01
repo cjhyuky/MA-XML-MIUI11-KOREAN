@@ -1172,7 +1172,7 @@
   <string name="brightness_title">밝기</string>
   <string name="bt_aac_dialog_summary">현재 장치는 AAC 코덱을 지원합니다. 그러나 AAC는 호환성 문제로 인해 사운드를 재생하지 못할 수 있습니다. 장치가 자동으로 SBC 코덱으로 전환되었습니다.\n설정에서 이를 변경할 수 있습니다.</string>
   <string name="bt_aac_dialog_title">블루투스 연결</string>
-  <string name="bt_aac_open_dialog_summary">AAC는 호환성 문제로 인해 사운드를 재생하지 못할 수 있습니다.\n설정&gt;블루투스&gt;쌍으로 연결된 장치에서 이 기능을 해제 할 수 있습니다.</string>
+  <string name="bt_aac_open_dialog_summary">AAC는 호환성 문제로 인해 사운드를 재생하지 못할 수 있습니다.\n설정&gt;블루투스&gt;페어링된 기기에서 이 기능을 해제 할 수 있습니다.</string>
   <string name="bt_aac_open_dialog_title">AAC코덱으로 전환중</string>
   <string name="bt_aac_pre_title">AAC</string>
   <string name="bt_dialog_remember_choice">선택 기억하기</string>
