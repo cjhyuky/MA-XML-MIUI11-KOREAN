@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cta_permission_names">
+        <item>네트워크 엑세스</item>
+        <item>SMS 읽기</item>
+        <item>SMS 수정</item>
+        <item>SMS 수신</item>
+        <item>SMS 발신</item>
+        <item>전화 걸기</item>
+        <item>연락처 읽기</item>
+        <item>연락처 편집</item>
+        <item>통화기록 읽기</item>
+        <item>통화기록 편집</item>
+        <item>카메라 엑세스</item>
+        <item>위치정보 엑세스</item>
+    </string-array>
+</resources>
