@@ -286,4 +286,14 @@
   <string name="slavewifi_settings">설정을 변경하려면 터치하세요</string>   
   <string name="flip_screen_camera_tip">카메라를 사용하려면 기기를 뒤로 돌리세요</string>
   <string name="can_not_transfer_when_screening">"전송중 캐스트 불가"</string>
+  <string name="autofill_service_name">비밀번호 관리</string>
+  <string name="confirm_cancel_task_files">%1$s 위치로 파일 보내기를 취소하시겠습니까?</string>
+  <string name="confirm_cancel_task_images">%1$s 위치로 사진 보내기를 취소하시겠습니까?</string>
+  <string name="popup_camera_cancel_popup">취소</string>
+  <string name="popup_camera_continue_popup">카메라 열기</string>
+  <string name="popup_camera_remove_hid_device">기기가 게임컨트롤러에 연결된 것 같습니다.  게임컨트롤러가 연결되어 있으면 전면 카메라를 열지 못할 수 있습니다.</string>
+  <string name="wireless_charging_notification_message1">충전할 무선장치를 찾을 수 없습니다.  역 무선충전이 해제되었습니다.</string>
+  <string name="wireless_charging_notification_message2">배터리가 30% 미만입니다. 역 무선충전이 해제되었습니다.</string>
+  <string name="wireless_charging_notification_message3">충전중 오류가 발생했습니다. 역 무선충전이  해제되었습니다.</string>
+  <string name="wireless_charging_notification_titile">역 무선충전 끄기</string>
 </resources>
