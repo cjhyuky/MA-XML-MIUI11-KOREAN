@@ -397,4 +397,16 @@
     <string name="recent_apps">최근 실행 앱</string>
     <string name="remove_invalidate_gadget_tips">사용하는 위젯 중 하나를 더 이상 사용할 수 없습니다.  다른 것을 추가 할 수 있습니다. </string>
     <string name="unstable_dialog_content">"이 버전은 안드로이드 시스템 이미지의 미리보기 버전이며 변경될 수 있습니다. 이 시스템 이미지의 사용은 안드로이드 SDK 미리보기 라이센스 계약의 적용을 받습니다. 안드로이드 미리보기 시스템 이미지는 안정적인 버전이며 컴퓨터 시스템, 기기 또는 데이터가 손상될 수 있는 오류 및 결함이 포함되어 있을 수 있습니다. 미리보기 안드로이드 시스템 이미지는 출하시 OS와 동일한 테스트를 거치지 않으며 이 기기에 설치된 서비스의 오류를 유발할 수 있습니다."</string>
+    <string name="additional_settings">추가 설정</string>
+    <string name="drawer_background">배경</string>
+    <string name="drawer_background_dark">다크</string>
+    <string name="drawer_background_light">라이트</string>
+    <string name="drawer_background_transparency">앱 서랍 배경 투명도</string>
+    <string name="drawer_settings">앱 서랍</string>
+    <string name="home_screen_settings">홈화면</string>
+    <string name="local_apps">로컬 앱</string>
+    <string name="recommend_app">앱 추천</string>
+    <string name="search_in_apps_store">%2$s에서 \"%1$s\" 검색</string>
+    <string name="search_no_result">"결과를 찾을 수 없습니다"</string>
+    <string name="show_most_popular_apps_you_used">서랍에 가장 자주 사용되는 앱 표시</string>
 </resources>
