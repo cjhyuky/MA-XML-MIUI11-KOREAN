@@ -91,8 +91,8 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="help_page_text_51">LeEco</string>
     <string name="help_page_text_52">먼저 장치에서 Miracast 기능이 지원되는지 확인하십시오. 일부 모델의 경우 설정> 네트워크> 다중 화면> 무선 디스플레이에서이 기능을 켤 수 있습니다.</string>
     <string name="help_page_text_53">LeEco 고객센터 전화번호: 10109000</string>
-    <string name="help_page_text_55">"네트워크에 연결할 수 없으면 외부 모니터가 Miracast 기능을 지원하고 켜져 있는지 확인하십시오. 일부 모델에서는이 기능을 무선 디스플레이, 화면 미러링 또는 다중 화면이라고합니다. Miracast를 켜는 방법은 아래 정보를 참조하십시오.
-4. 문제가 발생하면 \"서비스 및 피드백\"앱을 사용하여 문제를 신고 할 수 있습니다."</string>
+    <string name="help_page_text_55">"네트워크에 연결할 수없는 경우 외부 모니터가 Miracast 기능을 지원하고 켜져 있는지 확인하십시오. 일부 모델에서는이 기능을 무선 디스플레이, 화면 미러링 또는 멀티 스크린이라고 표시합니다. Miracast를 켜는 방법을 알아 보려면 아래 정보를 확인하십시오.
+4. 만약 문제가 발생했을 경우 \"서비스 &amp; 피드백\" 앱을 통해 제보하실 수 있습니다."</string>
     <string name="help_page_text_end">"여기에 표시되지 않은 TV 제조사는 직접 확인 부탁드립니다."</string>
     <string name="notification_rc_desc">스크린 캐스트에 가장 최적화된 Mi Box를 사용해보세요!</string>
     <string name="notification_rc_title">Mi TV 어시스턴스</string>
