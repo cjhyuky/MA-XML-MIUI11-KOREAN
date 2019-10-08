@@ -1950,4 +1950,6 @@
   <string name="face_data_apply_for_category_title">얼굴을 이용해 잠금 해제</string>
   <string name="face_data_apply_for_keyguard_title">잠금 화면</string>
   <string name="face_unlock_category_title">잠금 화면 옵션</string>
+  <string name="gxzw_quick_close">끔</string>
+  <string name="gxzw_quick_open_title">바로가기메뉴 열기</string>
 </resources>
