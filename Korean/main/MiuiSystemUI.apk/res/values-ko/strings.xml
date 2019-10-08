@@ -1952,4 +1952,5 @@
   <string name="face_unlock_category_title">잠금 화면 옵션</string>
   <string name="gxzw_quick_close">끔</string>
   <string name="gxzw_quick_open_title">바로가기메뉴 열기</string>
+  <string name="wifi_security_eap">WPA/WPA2/WPA3-기업용</string>
 </resources>
