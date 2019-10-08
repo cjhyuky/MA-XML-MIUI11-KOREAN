@@ -1367,7 +1367,7 @@
   <string name="recents_empty_message">최근 항목 없음</string>
   <string name="recents_empty_message_dismissed_all">모든 항목을 삭제하였습니다</string>
   <string name="recents_empty_message_multi_window">홈화면으로 이동하여 앱 실행</string>
-  <string name="recents_exit_multi_window_mode">나가기</string>
+  <string name="recents_exit_multi_window_mode">종료</string>
   <string name="recents_incompatible_app_message">이 앱은 분할화면을 지원하지 않습니다</string>
   <string name="recents_launch_disabled_message">%s 앱이 안전모드에서 중지되었습니다</string>
   <string name="recents_launch_error_message">%s 시작 불가</string>
