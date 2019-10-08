@@ -563,7 +563,7 @@
     <string name="sp_category_bank">은행 알림 메시지</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">알림</string>
-    <string name="sp_mark_as_read_menu_title">읽음으로 표시</string>
+    <string name="sp_mark_as_read_menu_title">읽음</string>
     <string name="sqlite_disk_full">데이터베이스 또는 디스크가 가득 찻습니다.</string>
     <string name="sqlite_low_memory">낮은 메모리</string>
     <string name="status_failed">실패</string>
