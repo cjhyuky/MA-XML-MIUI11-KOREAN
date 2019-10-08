@@ -296,4 +296,5 @@
   <string name="wireless_charging_notification_message2">배터리가 30% 미만입니다. 역 무선충전이 해제되었습니다.</string>
   <string name="wireless_charging_notification_message3">충전중 오류가 발생했습니다. 역 무선충전이  해제되었습니다.</string>
   <string name="wireless_charging_notification_titile">역 무선충전 끄기</string>
+  <string name="frequent_email">자주 사용하는 이메일</string>
 </resources>

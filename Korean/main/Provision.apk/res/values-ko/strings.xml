@@ -110,7 +110,7 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="voice_assist_condition">"다음과 같은 경우 Mi AI를 사용할 수 있습니다:
 1. 화면이 켜져 있을 때
 2. 화면을 끄고 음악을 들을 때"</string>
-    <string name="ai_button_desc">이 버튼을 사용하여 Mi AI를 켜시고 음성으로 기기를 조작해보세요</string>
+    <string name="ai_button_desc">AI 버튼을 사용하면 Mi AI를 사용할 수 있고, Mi AI 단축버튼도 사용할 수 있습니다.</string>
     <string name="ai_button_double_press">두번 누르기</string>
     <string name="ai_button_double_press_desc">Mi AI 기능 설정</string>
     <string name="ai_button_long_press">누르고 있기</string>
