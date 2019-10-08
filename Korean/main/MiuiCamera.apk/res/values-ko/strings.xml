@@ -1188,4 +1188,40 @@
     <string name="hint_mimovie">가장 좋은 효과를 위해 가로모드로 촬영을 추천합니다</string>
     <string name="reset_manually_parameter_confirmed">확인</string>
     <string name="reset_manually_parameter_hint">재설정</string>
+  <string name="accessibility_flash_back_soft_light">소프트라이트 모드에서 플래시 작동 중</string>
+  <string name="dirty_tip_toast">렌즈를 닦아주세요.</string>
+  <string name="location_permission_des">사진 및 비디오의 위치를 기억하십시오.</string>
+  <string name="location_permission_not_ask_again">카메라가 설정에서 사용자의 위치에 액세스하도록 허용.</string>
+  <string name="location_permission_not_ask_again_go_to_settings">허용</string>
+  <string name="network_access_user_notice_agree">동의</string>
+  <string name="network_access_user_notice_message_live_video">&lt;데이터&gt;"숏 비디오를 위한 효과, 음악 및 기타 기능을 이용하려면 인터넷과 연결되어야 합니다.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt; \"동의\"를 터치하여 &amp;lt;a href =%1$s&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href =%2$s&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt;,을 확인하실 수 있습니다. 카메라의 인터넷 접근을 허용합니다."&lt;/데이터&gt;</string>
+  <string name="network_access_user_notice_message_sticker">&lt;데이터&gt;"스티커를 위한 효과, 음악 및 기타 기능을 이용하려면 인터넷과 연결되어야 합니다.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;\"동의\"를 터치하여 &amp;lt;a href =%1$s&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href =%2$s&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt;,을 확인하실 수 있습니다. 카메라의 인터넷 접근을 허용합니다."&lt;/데이터&gt;</string>
+  <string name="network_access_user_notice_message_voice_caption">&lt;데이터&gt;"읽어주기 기능을 이용하려면 인터넷과 연결되어야 합니다.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;\"동의\"를 터치하여 &amp;lt;a href =%1$s&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href =%2$s&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt;,을 확인하실 수 있습니다. 카메라의 인터넷 접근을 허용합니다."&lt;/데이터&gt;</string>
+  <string name="photo_assistance_tips_title">라이브 팁</string>
+  <string name="pref_960_watermark_title">960FPS 워터마크</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X">2X줌</string>
+  <string name="pref_camera_zoom_mode_entry_tele_standalone">5X줌</string>
+  <string name="pref_lens_dirty_detect_summary">렌즈가 더러울 때 알림을 받습니다</string>
+  <string name="pref_lens_dirty_detect_title">렌즈가 더러울때 알림</string>
+  <string name="pref_photo_assistance_tips_off">끔</string>
+  <string name="pref_photo_assistance_tips_on">켬</string>
+  <string name="recommend_macro_mode">매크로 모드 사용</string>
+  <string name="recommend_portrait">세로 모드 사용</string>
+  <string name="recommend_soft_light_tip">플래시 켜기</string>
+  <string name="recommend_super_night">야간모드 사용</string>
+  <string name="super_eis">슈퍼 EIS</string>
+  <string name="super_eis_disabled_hint">슈퍼 EIS 꺼짐</string>
+  <string name="super_night_hint">이미지 최적화 중… 기기를 유지하십시오.</string>
+  <string name="ultra_pixel_108mp">108MP</string>
+  <string name="ultra_pixel_portrait_hint">HD 인물모드</string>
+  <string name="ultra_tele_use_hint_text_body">"50X줌을 사용해 멀리 있는 물체를 촬영할 수 있습니다"</string>
+  <string name="ultra_tele_use_hint_text_title">50X줌</string>
+  <string name="ultra_wide_recommend_tip_hint_sat">0.6X 초광각으로 전환</string>
+  <string name="vv_duartion_hint">%1$s | 세그먼트 %2$d | %3$ss</string>
+  <string name="vv_hint">가로 모드에서만 브이로그를 촬영할 수 있습니다</string>
+  <string name="vv_stability_hint">기기를 유지하십시오</string>
+  <string name="vv_start">브이로그 촬영</string>
+  <string name="vv_use_hint_text_body">"브이로그 모드를 사용하면
+이동 중에도 비디오를 녹화하고 편집 할 수 있습니다"</string>
+  <string name="vv_use_hint_text_title">브이로그</string>
 </resources>
