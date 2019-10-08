@@ -810,4 +810,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="privacy_and_agreement">약관 및 조건</string>
     <string name="pre_privacy_policy">개인정보 보호정책</string>
     <string name="pre_user_agreement">이용 약관</string>
+    <string name="cloud_storage_already_full">클라우드 저장소 부족: %1$s/%2$s</string>
+    <string name="cloud_storage_default_title">클라우드 저장소</string>
+    <string name="cloud_storage_loading_data">잠시만 기다려주세요...</string>
 </resources>
