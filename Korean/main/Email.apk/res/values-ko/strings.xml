@@ -942,7 +942,7 @@
     귀하의 %1$s 사이에서 동기화됩니다."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">켜기</string>
     <string name="turn_auto_sync_on_dialog_title">자동 동기화를 켜시겠습니까?</string>
-    <string name="undo">실행 취소</string>
+    <string name="undo">취소</string>
     <string name="unknow">알 수 없음</string>
     <string name="unread_string">대화 읽지 않음</string>
     <string name="unsent_messages_in_outbox">%1$s개 %2$s에서 전송되지 않음</string>
