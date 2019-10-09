@@ -391,7 +391,7 @@
   <string name="battery_charge_estimating">계산중</string>
   <string name="battery_charge_full">충전됨</string>
   <string name="battery_charging_prompt">충전중</string>
-  <string name="battery_desc_ambient_display">AOD 디스플레이 전력 소비량</string>
+  <string name="battery_desc_ambient_display">화면 항상켜짐으로 배터리 소모</string>
   <string name="battery_desc_apps">앱에 사용된 배터리</string>
   <string name="battery_desc_bluetooth">블루투스에 사용된 배터리</string>
   <string name="battery_desc_display">화면과 백라이트에 사용된 배터리</string>
@@ -1781,7 +1781,7 @@
   <string name="pm_root_success_notification_infomation">루트 권한과 연관된 위험성에 대하여 충분히 이해하십시오.</string>
   <string name="pm_root_success_notification_title">루트권한 허용됨</string>
   <string name="power_20s_shutdown">%d초 후 기기 전원이 꺼질 것입니다.</string>
-  <string name="power_ambient_display">AOD 디스플레이</string>
+  <string name="power_ambient_display">화면 항상켜짐</string>
   <string name="power_analysis_consume_title">배터리 사용량</string>
   <string name="power_analysis_suggestion_need_optimize">배터리 사용량 문제가 감지되었습니다.</string>
   <string name="power_autorun_apps_empty">자동 시작 앱 없음</string>
@@ -2404,7 +2404,7 @@
   <string name="superpower_progress_turnoff_process">백그라운드 활동 제한</string>
   <string name="superpower_savemode_limit1">어두운 테마</string>
   <string name="superpower_savemode_limit2">백그라운드 활동 제한</string>
-  <string name="superpower_savemode_limit3">전력 소비 활동(동기화, GPS, 진동, AOD 등) 제한</string>
+  <string name="superpower_savemode_limit3">전력소비 제한(동기화, GPS, 진동, AOD 등)</string>
   <string name="superpower_savemode_limit4">선택한 앱이 정상적으로 작동하도록 허용</string>
   <string name="superpower_settings">배터리 세이버</string>
   <string name="superpower_settins_autoenter_summary">배터리가 10%만 충전되면 자동으로 배터리 절약 기능을 켭니다.</string>
@@ -2808,4 +2808,10 @@
   <string name="system_tool_green_guard">패밀리 가드</string>
   <string name="system_tool_sos">긴급 SOS</string>
   <string name="superpower_notification_new_title">남은 배터리 %d% 미만</string>
+  <string name="power_center_5g_save_close_detail">5G 배터리 세이버는 5G 연결에 영향을 주지 않으면서 배터리 수명을 늘립니다. 정말로 끄겠습니까?</string>
+  <string name="power_center_5g_save_close_later">"끄지 않음"</string>
+  <string name="power_center_5g_save_close_title">5G 배터리 세이버 끄기</string>
+  <string name="power_center_5g_save_summary_text">특정 상황에서 5G 전력 소비를 줄입니다</string>
+  <string name="power_center_5g_save_title_text">5G 배터리 세이버</string>
+  <string name="process_vpnsdkmanager_label">게임 터보</string>
 </resources>
