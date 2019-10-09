@@ -7512,7 +7512,7 @@
   <string name="wifi_scan_notify_text_location_off">앱이 Wi-Fi가 꺼져 있을 때도 근처 네트워크를 스캔할 수 있습니다. 이 기능을 사용하지 않으려면 고급 &gt; 네트워크 항상 검색으로 이동하세요.</string>
   <string name="wifi_scan_notify_text_location_on">정확성 개선 등의 목적으로 Google 및 기타 앱이 근처 Wi-Fi 네트워크를 스캔할 수 있습니다. Wi-Fi가 꺼져 있을 때도 작동합니다. 이 기능을 사용하지 않으려면 고급 &gt; 네트워크 항상 검색으로 이동하세요.</string>
   <string name="wifi_security">보안</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
+  <string name="wifi_security_eap">WPA/WPA2/WPA3-기업용</string>
   <string name="wifi_security_none">없음</string>
   <string name="wifi_security_passpoint">패스포인트</string>
   <string name="wifi_security_short_eap">802.1x</string>
@@ -8092,7 +8092,7 @@
   <string name="choose_unlock_fingerprint_msg">지문을 추가하기 전에 화면 잠금을 설정하십시오.</string>
   <string name="miui_lab_gesture_title">전체화면 제스처</string>
   <string name="miui_lab_gesture_desc">물리적 버튼을 비활성화하고 전체화면 제스처를 즐기십시오</string>
-  <string name="search_ambient_display_screen_title">주변 디스플레이</string>
+  <string name="search_ambient_display_screen_title">AOD;화면 항상켜짐;화면 항상켜짐</string>
   <string name="search_doze_always_on_title">항상 켜기</string>
   <string name="usage_state_date">M월 d일</string>
   <string name="popup_title">전면 카메라 효과</string>
@@ -9092,6 +9092,6 @@
   <string name="work_policy_privacy_settings">직장 정책 정보</string>
   <string name="work_policy_privacy_settings_summary">IT 관리자가 관리하는 설정</string>
   <string name="xiaomi_cloud_service_description_without_contacts">샤오미 클라우드는 사진을 동기화하고 앱과 설정을 백업하며 장치찾기를 사용하여 휴대전화를 찾는데 도움을 줍니다.</string>
-  <string name="miui_lab_aiasst_call_screen_desc">조용히 전화를 받기 위한 음성 및 텍스트 변환</string>
   <string name="miui_lab_aiasst_call_screen_title">AI 통화 어시스턴트</string>
+  <string name="miui_lab_aiasst_call_screen_desc">음성 및 텍스트를 통해 전화를 자동 응답합니다</string>
 </resources>
