@@ -1216,7 +1216,6 @@
   <string name="ultra_pixel_portrait_hint">HD 인물모드</string>
   <string name="ultra_tele_use_hint_text_body">"50X줌을 사용해 멀리 있는 물체를 촬영할 수 있습니다"</string>
   <string name="ultra_tele_use_hint_text_title">50X줌</string>
-  <string name="ultra_wide_recommend_tip_hint_sat">0.6X 초광각으로 전환</string>
   <string name="vv_duartion_hint">%1$s | 세그먼트 %2$d | %3$ss</string>
   <string name="vv_hint">가로 모드에서만 브이로그를 촬영할 수 있습니다</string>
   <string name="vv_stability_hint">기기를 유지하십시오</string>
