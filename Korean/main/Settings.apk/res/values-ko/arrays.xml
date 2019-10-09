@@ -898,9 +898,9 @@
     <item>메뉴 표시</item>
   </string-array>
   <string-array name="screen_optimize_summary">
-    <item>이용 가능한 조명에 맞춰 대비 최적화</item>
-    <item>화면 대비 증가</item>
-    <item>대비 일정하게 유지</item>
+    <item>현재 조명을 기준으로 색상 조정</item>
+    <item>항상 색상 향상</item>
+    <item>색상 보정으로 화면의 표준 색상 복원</item>
   </string-array>
   <string-array name="screen_optimize_title">
     <item>자동 대비</item>
