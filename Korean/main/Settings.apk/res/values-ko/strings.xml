@@ -8197,7 +8197,7 @@
   <string name="enable_tcp_rtt_support">TCP RTT 표시</string>
   <string name="enable_tcp_rtt_support_summary">네트워크 통신 품질 성능 평가</string>
   <string name="popup_gesture_title">전면 카메라 위로 올리기</string>
-  <string name="popup_gesture_summary">휴대전화를 들고 20cm정도 위로 들어올리면 전면 카메라가 열립니다.</string>
+  <string name="popup_gesture_summary">홈 화면으로 돌아가서 전화를 들고 화면을 보면 자동으로 전면 카메라가 열립니다</string>
   <string name="miui_lab_3d_gesture_title">3D 패턴</string>
   <string name="miui_lab_3d_gesture_slogan">앱을 열기위해 휴대전화를 들고 허공에 패턴을 그리세요</string>
   <string name="miui_lab_3d_gesture_summary">앱을 열기위해 휴대전화를 들고 허공에 패턴을 그리세요</string>
@@ -9094,4 +9094,6 @@
   <string name="xiaomi_cloud_service_description_without_contacts">샤오미 클라우드는 사진을 동기화하고 앱과 설정을 백업하며 장치찾기를 사용하여 휴대전화를 찾는데 도움을 줍니다.</string>
   <string name="miui_lab_aiasst_call_screen_title">AI 통화 어시스턴트</string>
   <string name="miui_lab_aiasst_call_screen_desc">음성 및 텍스트를 통해 전화를 자동 응답합니다</string>
+  <string name="screen_fps_summary">새로고침 빈도가 높을수록 사진이 더 매끄럽고 새로고침 빈도가 낮으면 배터리가 절약됩니다</string>
+  <string name="screen_fps_title">새로고침 빈도</string>
 </resources>
