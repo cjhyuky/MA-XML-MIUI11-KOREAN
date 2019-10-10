@@ -7,4 +7,5 @@
     <string name="can_not_transfer_when_screening">"전송 중에는 캐스트 할 수 없습니다"</string>
     <string name="mishare_state_protection">Mi공유 자동 켜기</string>
     <string name="mishare_state_protection_summary">블루투스 또는 Wi-Fi를 다시 켤 때 자동으로 Mi공유 켜기</string>
+    <string name="location_enabled">근처의 기기를 찾기 위해 위치 서비스가 켜짐</string>
 </resources>
