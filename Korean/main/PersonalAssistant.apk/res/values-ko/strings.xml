@@ -1679,4 +1679,7 @@
   <string name="year_month_day_format">yyyy년 MM월 dd일</string>
   <string name="yesterday">어제</string>
   <string name="location_permission_desc">내비게이션 루트 구축 및 차량 우호 서비스 제공</string>
+  <string name="migu_game">미니 게임</string>
+  <string name="migu_parent">미구</string>
+  <string name="migu_video">비디오</string>
 </resources>
