@@ -409,4 +409,9 @@
     <string name="search_in_apps_store">%2$s에서 \"%1$s\" 검색</string>
     <string name="search_no_result">"결과를 찾을 수 없습니다"</string>
     <string name="show_most_popular_apps_you_used">서랍에 가장 자주 사용되는 앱 표시</string>
+    <string name="launcher_minus_screen_title">마이너스 원 화면</string>
+    <string name="mi_wallpaper">MIUI 테마</string>
+    <string name="minus_one_screen">퀵 카드</string>
+    <string name="minus_one_screen_google">구글</string>
+    <string name="minus_one_screen_none">없음</string>
 </resources>
