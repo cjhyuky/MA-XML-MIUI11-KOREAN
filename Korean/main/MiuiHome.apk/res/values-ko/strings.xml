@@ -109,7 +109,6 @@
     <string name="normal_wallpaper">배경화면</string>
     <string name="lock_screen_wallpaper">잠금화면 배경화면</string>
     <string name="wallpaper">배경화면</string>
-    <string name="mi_wallpaper">MIUI 테마 스토어</string>
     <string name="show_all">모두 보이기</string>
     <string name="local_wallpaper">다운로드됨</string>
     <string name="setting_wallpaper_tip">손가락을 모으거나 스와이프하여 조정</string>
@@ -369,7 +368,6 @@
     <string name="edit_mode_dual_app">듀얼앱 생성</string>
     <string name="edit_mode_group_error_cant_delete_system_apps">"시스템앱은 삭제할 수 없습니다"</string>
     <string name="edit_mode_group_error_nothing_be_selected">앱을 먼저 선택하세요</string>
-    <string name="minus_one_screen">퀵 카드</string>
     <string name="menu_auto_fill_of_uninstall">삭제된 앱 셀 채우기</string>
     <string name="announce_for_search_bar">검색 바</string>
     <string name="announce_for_xiaoai">Mi AI</string>
