@@ -44,4 +44,82 @@
   <string name="usagestats_app_category_miui_photo">사진 &amp; 비디오</string>
   <string name="usagestats_app_category_miui_sport">스포츠 &amp; 피트니스</string>
   <string name="usagestats_app_category_miui_travel">여행</string>
+  <string name="screen_cancel">취소</string>
+  <string name="screen_confirm">켜기</string>
+  <string name="screen_paper_mode_apps_loading">잠시만 기다려주세요…</string>
+  <string name="usagestats_app_category_miui_financial">금융</string>
+  <string name="usagestats_app_category_miui_game">게임</string>
+  <string name="usagestats_app_category_miui_life">라이프 스타일</string>
+  <string name="usagestats_app_category_miui_productivity">생산성</string>
+  <string name="usagestats_app_category_miui_reading">독서</string>
+  <string name="usagestats_app_category_miui_shopping">쇼핑</string>
+  <string name="usagestats_app_category_miui_social">소셜미디어</string>
+  <string name="usagestats_app_category_miui_system">시스템 앱</string>
+  <string name="usagestats_app_category_miui_tools">도구</string>
+  <string name="usagestats_app_category_miui_undefined">기타</string>
+  <string name="usagestats_app_category_miui_video_etc">음악과 영상</string>
+  <string name="usagestats_device_notification_des">오늘의 화면켜짐 제한시간: %s</string>
+  <string name="usagestats_device_notification_des_over">"오늘의 화면켜짐 제한시간에 도달했습니다."</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">오늘의 사용제한: %s | %s 남음</string>
+  <string name="usagestats_device_notification_title">화면 시간 알림</string>
+  <string name="usagestats_device_timeout_des" formatted="false">"오늘 %d시간 %d분 사용하고 있습니다. 조금만 휴식하세요!"</string>
+  <string name="usagestats_device_timeout_negative">1시간 후 알림</string>
+  <string name="usagestats_device_timeout_positive">확인</string>
+  <string name="usagestats_device_timeout_title">화면 시간 알림</string>
+  <string name="usage_app_get_it">확인</string>
+  <string name="usage_app_limit_alter_summary">"이 시간제한이 오늘 이 앱을 사용한 시간보다 짧아보입니다. 그래도 제한을 설정하시겠습니까?"</string>
+  <string name="usage_app_limit_alter_title">화면 시간 제한 체크</string>
+  <string name="usage_app_limit_prelong">시간 연장</string>
+  <string name="usage_app_limit_reach_summay">%s 남음</string>
+  <string name="usage_app_limit_reach_title">%s 앱의 화면 시간 제한에 거의 도달했습니다</string>
+  <string name="usage_app_limit_summary">"한도에 도달하면 선택한 앱을 사용할 수 없습니다"</string>
+  <string name="usage_app_limit_title">화면 시간 제한</string>
+  <string name="usage_app_other_settings">추가 설정</string>
+  <string name="usage_app_over_content">"오늘 이 앱을 %s 동안 이미 사용하였습니다."</string>
+  <string name="usage_app_over_summary">"제한시간에 도달하였습니다. 시간이 다되었습니다!"</string>
+  <string name="usage_app_set_limit_time">제한 설정</string>
+  <string name="usage_app_system_app_summary">"시스템 앱은 화면 시간 제한 설정을 할 수 없습니다"</string>
+  <string name="usage_app_weekday_limit">주중</string>
+  <string name="usage_app_weekend_limit">주말</string>
+  <string name="usage_state_app_timer">화면켜짐 시간</string>
+  <string name="usage_state_app_usage_detail_title">자세한 앱 사용량</string>
+  <string name="usage_state_app_usage_list_title">"앱의 화면 켜짐 시간"</string>
+  <string name="usage_state_app_usage_list_week_title">"앱의 화면 켜짐 시간"</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">%d:00-%d:00간 화면 켜짐 시간</string>
+  <string name="usage_state_app_use_time">앱 화면 켜짐 시간</string>
+  <string name="usage_state_channel_mouth">최근 30일</string>
+  <string name="usage_state_channel_week">최근 7일</string>
+  <string name="usage_state_device_noti_today_tip_title" formatted="false">%d:00-%d:00간 알림 시간</string>
+  <string name="usage_state_device_unlock_today_tip_title" formatted="false">%d:00-%d:00간 잠금 해제 시간</string>
+  <string name="usage_state_friday">금</string>
+  <string name="usage_state_go_more">더 많은 앱</string>
+  <string name="usage_state_hour_minute" formatted="false">%d시간 %d분</string>
+  <string name="usage_state_less_one_minute">1분 미만</string>
+  <string name="usage_state_monday">월</string>
+  <string name="usage_state_mourth_day">"%s '화면 켜짐 시간'"</string>
+  <string name="usage_state_noti_mourth_day">"%s '알림 켜짐 시간'"</string>
+  <string name="usage_state_notification">알림 관리</string>
+  <string name="usage_state_notification_manager">앱 알림 관리</string>
+  <string name="usage_state_remind_summary">활성화시 화면 시간 알림을 받을 수 있습니다. 평일과 주말간 서로 다르게 설정할 수 있습니다.</string>
+  <string name="usage_state_remind_title">화면 시간 알림</string>
+  <string name="usage_state_rest_day">주말</string>
+  <string name="usage_state_saturday">토</string>
+  <string name="usage_state_set_invalid_time_toast">"1분 보다 적게 지정할 수 없습니다"</string>
+  <string name="usage_state_sunday">일</string>
+  <string name="usage_state_thursday">목</string>
+  <string name="usage_state_today">오늘</string>
+  <string name="usage_state_today_total_text">오늘 화면 켜짐 시간</string>
+  <string name="usage_state_tuesday">화</string>
+  <string name="usage_state_unlock_mourth_day">"%s '잠금 해제 시간'"</string>
+  <string name="usage_state_usage_time">화면 켜짐 시간</string>
+  <string name="usage_state_usage_time_remind">화면 시간 알림</string>
+  <string name="usage_state_use_time_remind_title">화면 시간 알림</string>
+  <string name="usage_state_wednesday">수</string>
+  <string name="usage_state_week_day_hour_minute" formatted="false">주말: %d시간 %d분</string>
+  <string name="usage_state_week_total_text">화면 시간 (최근 7일)</string>
+  <string name="usage_state_which_mouth">MMM</string>
+  <string name="usage_state_work_day">평일</string>
+  <string name="usage_state_work_day_hour_minute" formatted="false">평일: %d시간 %d분</string>
+  <string name="usage_stats_normal_day">평일</string>
+  <string name="usage_stats_week_day">주말</string>
 </resources>
