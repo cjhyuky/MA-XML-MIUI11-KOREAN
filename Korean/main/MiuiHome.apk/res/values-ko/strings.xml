@@ -412,4 +412,6 @@
     <string name="minus_one_screen">퀵 카드</string>
     <string name="minus_one_screen_google">구글</string>
     <string name="minus_one_screen_none">없음</string>
+    <string name="apply_text">적용</string>
+    <string name="system_text">시스템</string>
 </resources>
