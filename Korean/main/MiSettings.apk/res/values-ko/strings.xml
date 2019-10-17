@@ -89,6 +89,7 @@
   <string name="usage_state_app_use_time">앱 화면 켜짐 시간</string>
   <string name="usage_state_channel_mouth">최근 30일</string>
   <string name="usage_state_channel_week">최근 7일</string>
+  <string name="usage_state_date">M월 d일</string>
   <string name="usage_state_device_noti_today_tip_title" formatted="false">%d:00-%d:00간 알림 시간</string>
   <string name="usage_state_device_unlock_today_tip_title" formatted="false">%d:00-%d:00간 잠금 해제 시간</string>
   <string name="usage_state_friday">금</string>
@@ -117,7 +118,7 @@
   <string name="usage_state_wednesday">수</string>
   <string name="usage_state_week_day_hour_minute" formatted="false">주말: %d시간 %d분</string>
   <string name="usage_state_week_total_text">화면 시간 (최근 7일)</string>
-  <string name="usage_state_which_mouth">MMM</string>
+  <string name="usage_state_which_mouth">M월</string>
   <string name="usage_state_work_day">평일</string>
   <string name="usage_state_work_day_hour_minute" formatted="false">평일: %d시간 %d분</string>
   <string name="usage_stats_normal_day">평일</string>
