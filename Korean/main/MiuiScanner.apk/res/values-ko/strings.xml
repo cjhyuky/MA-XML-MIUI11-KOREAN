@@ -306,4 +306,5 @@
   <string name="once">한번만</string>
   <string name="to_install_title">이 QR 코드는 이미 삭제되었던 앱의 설치링크입니다. 지금 이 앱을 다운로드하시겠습니까?</string>
   <string name="toinstall">다운로드</string>
+  <string name="flight_mode_connecting_to_wifi">비행기 모드 작동시 Wi-Fi 수동으로 켜기</string>
 </resources>
