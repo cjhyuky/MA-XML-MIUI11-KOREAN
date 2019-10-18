@@ -55,4 +55,8 @@
         <item>위젯</item>
         <item>설정</item>
     </string-array>
+    <string-array name="minus_screen_entries">
+        <item>없음</item>
+        <item>퀵 카드</item>
+        <item>구글</item>
 </resources>
