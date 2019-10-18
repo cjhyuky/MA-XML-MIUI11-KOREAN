@@ -59,4 +59,12 @@
         <item>없음</item>
         <item>퀵 카드</item>
         <item>구글</item>
+    </string-array>
+    <string-array name="cell_icon_size_entries">
+        <item>매우 작게</item>
+        <item>작게</item>
+        <item>기본값</item>
+        <item>크게</item>
+        <item>매우 크게</item>
+    </string-array>
 </resources>
