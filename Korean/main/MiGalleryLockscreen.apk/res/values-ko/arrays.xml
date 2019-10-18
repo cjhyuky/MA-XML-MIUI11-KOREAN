@@ -1,7 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="feature_desc">
-        <item>아침 인사말: 매일 아침 인사말을 받으려면 구독하십시오.</item>
-        <item>슬라이드형 배경화면을 사용하기 위해 커스텀 테마를 기본 잠금 화면과 합칩니다.</item>
-    </string-array>
+  <string-array name="feature_desc">
+    <item>Xiaomi.eu가 해외 사용자에게 맞게 최적화 함</item>
+  </string-array>
+  <string-array name="month12">
+    <item>1월</item>
+    <item>2월</item>
+    <item>3월</item>
+    <item>4월</item>
+    <item>5월</item>
+    <item>6월</item>
+    <item>7월</item>
+    <item>8월</item>
+    <item>9월</item>
+    <item>10월</item>
+    <item>11월</item>
+    <item>12월</item>
+  </string-array>
 </resources>
