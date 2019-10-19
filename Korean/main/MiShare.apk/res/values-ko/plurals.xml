@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="file_type_detail_count">
+    <item quantity="other">%1$d개 파일</item>
+  </plurals>
+  <plurals name="send_file_success_detail_files">
+    <item quantity="other">%1$s개 파일 전송 완료</item>
+  </plurals>
+  <plurals name="send_file_success_detail_images">
+    <item quantity="other">%1$s개 이미지 전송 완료</item>
+  </plurals>
+  <plurals name="send_files_to_device_files">
+    <item quantity="other">%1$s로 %2$d개 파일 전송 준비중…</item>
+  </plurals>
+  <plurals name="send_files_to_device_images">
+    <item quantity="other">%1$s로 %2$d개 이미지 전송 준비중…</item>
+  </plurals>
+  <plurals name="someone_send_file_to_you_files">
+    <item quantity="other">%1$s님이 %2$d개 파일을 당신에게 보내는 중입니다…</item>
+  </plurals>
+  <plurals name="someone_send_file_to_you_images">
+    <item quantity="other">%1$s님이 %2$d개 이미지를 보내는 중입니다…</item>
+  </plurals>
+  <plurals name="someone_send_somefile_files">
+    <item quantity="other">%1$s님이 %2$d개 파일을 보내는 중입니다…</item>
+  </plurals>
+  <plurals name="someone_send_somefile_images">
+    <item quantity="other">%1$s님이 %2$d개 이미지를 보내는 중입니다…</item>
+  </plurals>
+  <plurals name="start_receive_files_files">
+    <item quantity="other">%1$s님으로부터 %2$d개 파일 받는 중…</item>
+  </plurals>
+  <plurals name="start_receive_files_images">
+    <item quantity="other">%1$s님으로부터 %2$d개 이미지 받는 중…</item>
+  </plurals>
+  <plurals name="start_send_files_to_device_files">
+    <item quantity="other">%1$s님에게 %2$d개 파일 보내는 중…</item>
+  </plurals>
+  <plurals name="start_send_files_to_device_images">
+    <item quantity="other">%1$s님에게 %2$d개 이미지 보내는 중…</item>
+  </plurals>
+  <plurals name="success_receive_file_files">
+    <item quantity="other">%1$s님으로부터 %2$d개 파일을 받았습니다. 보시려면 탭하세요.</item>
+  </plurals>
+  <plurals name="success_receive_file_images">
+    <item quantity="other">%1$s님으로부터 %2$d개 이미지를 받았습니다. 보시려면 탭하세요.</item>
+  </plurals>
+</resources>

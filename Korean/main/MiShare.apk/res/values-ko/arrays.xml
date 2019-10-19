@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>이미지, 앱, 기타 파일 접근 및 저장에 사용</item>
+        <item>블루투스 및 Wi-Fi를 사용하는 파일 전송에 사용</item>
+    </string-array>
+</resources>
