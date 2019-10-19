@@ -326,4 +326,6 @@
   <string name="dialog_legal_workday_and_off_day_desc">"휴일에 대한 정보를 업데이트하기 위해 시계를 인터넷에 연결할 수 없습니다. 주중 알람은 월요일에서 금요일까지, 휴일 알람은 토요일과 일요일에 꺼집니다."</string>
   <string name="dialog_legal_workday_desc">"근무일에 대한 정보를 업데이트하기 위해 시계를 인터넷에 연결할 수 없습니다. 주중 알람은 월요일부터 금요일까지 사라집니다."</string>
   <string name="dialog_net_permission_in_repeat_type"><Data>이 기능이 정상적으로 작동하려면 인터넷에 연결되어야 합니다. 이 기능을 사용하기 전에 &lt;a href=\"%1$s\">사용자 동의&lt;/a>와 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>에 동의하셔야 합니다. 동의하십니까?</Data></string>
+  <string name="set_alarm_choose_ringtone">벨소리 선택</string>
+  <string name="set_alarm_other">기타 설정</string>
 </resources>
