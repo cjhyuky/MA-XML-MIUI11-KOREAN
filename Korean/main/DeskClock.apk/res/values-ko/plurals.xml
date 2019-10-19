@@ -53,6 +53,11 @@
    </plurals>
    <plurals name="snooze_duration_desc">
       <item quantity="other">매 %1$s분마다, %2$s회 반복</item>
-      <item quantity="one">매 %1$s분마다, %2$s회 반복</item>
    </plurals>
+       <plurals name="snooze_duration_count">
+        <item quantity="other">%1$s회 반복 후 끄기</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">매 %1$s분마다</item>
+    </plurals>
 </resources>
