@@ -416,9 +416,6 @@
     <string name="system_text">시스템</string>
     <string name="cell_icon_size_title">아이콘 크기</string>
     <string name="default_folder_title_meitu">메이투 앱</string>
-    <string name="default_folder_title_microsoft">마이크로소프트</string>
-    <string name="default_folder_title_telcel">텔셀</string>
-    <string name="free_style_edit_app">앱</string>
     <string name="shortcut_share_dialog_content">"휴대전화에서 전송한 파일과 수신자는 귀하께서 직접 선택하고 결정하셔야 합니다. 공유할 파일을 선택하고 수신자를 선택할 때 주의하십시오. 휴대전화를 사용하여 바이러스, 맬웨어, 트로이 목마, 시한 폭탄 및 기타 유해한 물건을 다른 사람에게 전송해서는 안됩니다. 휴대전화를 사용하여 수신자의 장치사용에 영향을 줄 수있는 소프트웨어나 받는 사람의 물건을 전송하지 마십시오. 모바일 단말기 장치의 시스템 데이터 또는 개인 정보를 손상, 방해, 가로 채기 또는 제거 다른 사용자 또는 모바일 단말기 장치로 인한 모든 손상에 대한 책임은 사용자에게 있습니다. 샤오미는 공유 기능도 보장하기 위해 최선을 다할 것입니다. 관련 기술 및 정보는 안전하고 효과적이며 정확하며 신뢰할 수 있지만 현재 기술제한으로 인해 샤오미는 공유 기능이 완벽하며 모든 요구를 충족시킬 것이라고 보장하지는 않습니다."</string>
     <string name="shortcut_share_dialog_positive_button">확인</string>
     <string name="shortcut_share_dialog_title">면책 조항</string>
