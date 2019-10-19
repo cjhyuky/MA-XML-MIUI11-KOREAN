@@ -501,7 +501,7 @@
   <string name="assisted_gps_disabled">서버를 사용하여 GPS 보조(GPS 성능을 개선하려면 선택 취소)</string>
   <string name="assisted_gps_enabled">서버를 사용하여 GPS 보조(네트워크 사용량을 줄이려면 선택 취소)</string>
   <string name="attempt_other_network">네트워크 전환</string>
-  <string name="audio_and_captions_category_title">&amp; 화면 위 오디오</string>
+  <string name="audio_and_captions_category_title">오디오 &amp; 화면상의 텍스트</string>
   <string name="audio_files_title">오디오 파일</string>
   <string name="audio_list_loading">로딩 중…</string>
   <string name="audio_profile_settings_title">오디오 프로필</string>
