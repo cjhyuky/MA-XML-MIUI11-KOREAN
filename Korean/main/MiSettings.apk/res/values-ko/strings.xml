@@ -5,7 +5,7 @@
   <string name="calendar_sound">이벤트 알림</string>
   <string name="calendar_tip">캘린더 미리 알림, 메모 및 작업에 이벤트 미리 알림 소리가 작동합니다</string>
   <string name="follow_sim1">SIM 1 설정 적용</string>
-  <string name="intelligent_recognition_item_summary">서비스 공급 업체 (예 : 음식 배달)가 걸려 오는 전화를 식별하고 별도의 벨소리를 사용합니다</string>
+  <string name="intelligent_recognition_item_summary">배달 및 택시 서비스의 통화에 지정된 벨소리를 사용합니다. 이 기능은 %s 벨소리가 기본 벨소리로 설정된 경우 작동합니다.</string>
   <string name="intelligent_recognition_item_title">번호 식별 서비스</string>
   <string name="mms">메시지</string>
   <string name="more_ringtone">모든 벨소리</string>
@@ -123,4 +123,24 @@
   <string name="usage_state_work_day_hour_minute" formatted="false">평일: %d시간 %d분</string>
   <string name="usage_stats_normal_day">평일</string>
   <string name="usage_stats_week_day">주말</string>
+    <string name="back">이전</string>
+    <string name="usage_state_accurate_date">yyyy M월 d일</string>
+    <string name="usage_state_add_up_count">세션</string>
+    <string name="usage_state_add_up_days">일</string>
+    <string name="usage_state_add_up_time">총 시간</string>
+    <string name="usage_state_focus_call">긴급 전화</string>
+    <string name="usage_state_focus_mode_summary">카메라와 긴급 통화를 제외한 모든 기능 제한</string>
+    <string name="usage_state_focus_mode_summary1">시작이 절반입니다</string>
+    <string name="usage_state_focus_mode_summary2">포커스 유지</string>
+    <string name="usage_state_focus_mode_summary3">포커스를 유지하려면 노력이 필요합니다</string>
+    <string name="usage_state_focus_mode_title">포커스 모드</string>
+    <string name="usage_state_focus_mode_warning_message">"포커스 모드로 설정하면 카메라와 긴급 통화만 가능합니다 포커스 모드를 미리 해제 할 수 없습니다."</string>
+    <string name="usage_state_focus_mode_warning_title">집중</string>
+    <string name="usage_state_focus_take_photo">카메라</string>
+    <string name="usage_state_focus_warning_text">중요한 일에 집중하세요</string>
+    <string name="usage_state_focus_weak_summary">휴대전화를 멀리하세요</string>
+    <string name="usage_state_open_focus_mode">포커스 모드 켜기</string>
+    <string name="usage_state_running_days">달성 (일)</string>
+    <string name="usage_state_statistic_data">통계</string>
+    <string name="usage_state_turn_on">켜기</string>
 </resources>
