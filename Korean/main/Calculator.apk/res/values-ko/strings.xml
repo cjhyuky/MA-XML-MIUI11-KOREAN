@@ -456,4 +456,8 @@
     <string name="convertion_unit_radix">진수 변환</string>
     <string name="item_title_radix">진수 변환</string>
     <string name="network_purpose">계산기에 오신것을 환영합니다! 계산기를 사용하면 통화를 변환하고 대출 상환금 등을 계산할 수 있습니다.</string>
+    <string name="preference_use_voice_summary">계산 중에 음성 출력을 사용하도록 설정</string>
+    <string name="preference_use_voice_title">음성 출력</string>
+    <string name="preference_user_feedback_title">피드백</string>
+    <string name="voice_guide_text">여기에서 음성 출력을 켤 수 있습니다</string>
 </resources>
