@@ -18,4 +18,7 @@
     <plurals name="notification_warning">
         <item quantity="other">저장 공간 부족 (%d분 남음)</item>
     </plurals>
+    <plurals name="search_result">
+        <item quantity="other">녹음 %d개 발견</item>
+    </plurals>
 </resources>
