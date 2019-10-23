@@ -5,7 +5,7 @@
   <string name="calendar_sound">이벤트 알림</string>
   <string name="calendar_tip">캘린더 미리 알림, 메모 및 작업에 이벤트 미리 알림 소리가 작동합니다</string>
   <string name="follow_sim1">SIM 1 설정 적용</string>
-  <string name="intelligent_recognition_item_summary">서비스 공급 업체 (예 : 음식 배달)가 걸려 오는 전화를 식별하고 별도의 벨소리를 사용합니다</string>
+  <string name="intelligent_recognition_item_summary">배달 및 택시 서비스의 통화에 지정된 벨소리를 사용합니다. 이 기능은 %s 벨소리가 기본 벨소리로 설정된 경우 작동합니다.</string>
   <string name="intelligent_recognition_item_title">번호 식별 서비스</string>
   <string name="mms">메시지</string>
   <string name="more_ringtone">모든 벨소리</string>
