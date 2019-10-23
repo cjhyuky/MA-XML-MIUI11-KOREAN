@@ -206,7 +206,7 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
   <string name="require_authority_statement">기본 서비스를 제공하려면 개인 정보를 수집 할 수 있도록 다음 권한을 부여해야합니다.</string>
   <string name="require_network_authority_statement">기본 서비스를 제공하려면 개인 정보를 수집 할 수 있도록 인터넷에 연결하고 다음 권한을 부여해야합니다.</string>
   <string name="screen_recording_introduction">이 응용 프로그램은 화면에 무슨 일이 일어나고 있는지 기록 할 수 있습니다.</string>
-  <string name="security_introduction">이 앱을 사용하면 기기의 휴지통을 지우고 바이러스를 찾아서 무력화하고 게임 성능을 최적화하며 배터리를 절약하고 앱을 관리하는 등의 작업을 수행 할 수 있습니다.</string>
+  <string name="security_introduction">이 앱을 사용하면 기기의 휴지통을 지우고 바이러스를 찾아서 무효화하고 게임 성능을 최적화하며 배터리를 절약하고 앱, 권한을 관리하는 등의 작업을 할 수 있습니다.</string>
   <string name="security_mobile_account_introduction">시스템 계정 로그인 및 관리</string>
   <string name="service_agreement">이용 약관을 읽고 동의했습니다.</string>
   <string name="service_name_album">갤러리</string>
@@ -231,5 +231,5 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
   <string name="service_policy">&lt;Data&gt;우리의 &lt;a href=%1$s&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의해주세요.&lt;/Data&gt;</string>
   <string name="service_privacy_index">개인정보 보호정책</string>
   <string name="servicestate_title">기본 서비스에 대한 진술</string>
-  <string name="user_agreement_declare">MIUI를 사용하기 전에 사용자 계약 및 개인 정보 보호 정책을 읽고 동의해야합니다. 기기가 활성화되는 동안 Mi SIM 활성화 서비스, 홈 화면, 자주 사용하는 문구, 번역 서비스, MIUI 데몬 및 업데이터가 네트워크에 연결됩니다. MSA가 네트워크에 연결하여 사용자 위치에 액세스합니다.</string>
+  <string name="user_agreement_declare">MIUI를 사용하기 전에 사용자 계약 및 개인 정보 보호 정책을 읽고 동의해야합니다. 장치가 활성화된 동안 Mi SIM 활성화 서비스, 장치 찾기, 홈 화면, 자주 사용하는 문구, 번역 서비스, MIUI 데몬, HTML 뷰어, 업데이터, 스마트 서비스가 네트워크에 연결하고 위치에 액세스합니다.</string>
 </resources>
