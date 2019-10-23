@@ -557,4 +557,7 @@
     <string name="mi_service_dialog_confirm">열기</string>
     <string name="mi_service_dialog_content">모든 피드백 기능이 새로운 \"서비스 및 피드백\"앱으로 이동되었습니다. 피드백 앱이 홈 화면에서 제거됩니다. \"서비스 및 피드백\"을 시도하려면 \"열기\"를 탭하십시오.</string>
     <string name="mi_service_dialog_title">\"서비스 및 피드백\"소개</string>
+  <string name="feedback_choose_occurrence_time">시간</string>
+  <string name="feedback_hint_optional">선택</string>
+  <string name="feedback_title_occurrence_time">선택 시간</string>
 </resources>
