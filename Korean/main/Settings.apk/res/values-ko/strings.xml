@@ -9096,4 +9096,8 @@
   <string name="miui_lab_aiasst_call_screen_desc">음성 및 텍스트를 통해 전화를 자동 응답합니다</string>
   <string name="screen_fps_summary">새로고침 빈도가 높을수록 사진이 더 매끄럽고 새로고침 빈도가 낮으면 배터리가 절약됩니다</string>
   <string name="screen_fps_title">새로고침 빈도</string>
+  <string name="network_alarm">"인터넷 전화를 무음으로 설정하지 않습니다"</string>
+  <string name="network_alarm_summary">"참고 : 일부 앱은 이 기능과 호환되지 않습니다. %1$s"</string>
+  <string name="network_alarm_summary_reg">지원하는 앱 보기</string>
+  <string name="network_alarm_support_apps">지원하는 앱</string>
 </resources>
