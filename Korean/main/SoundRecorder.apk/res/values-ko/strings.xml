@@ -276,4 +276,7 @@
     <string name="text_play_speed_1_5">1.5배속 재생</string>
     <string name="text_play_speed_2_0">2배속 재생</string>
     <string name="usage_description">클라우드와 오디오 녹음 및 항목 동기화</string>
+    <string name="online_recognize_progress">고치는 중 %s…</string>
+    <string name="search_empty">"결과를 확인할 수 없습니다"</string>
+    <string name="search_hint">검색</string>
 </resources>

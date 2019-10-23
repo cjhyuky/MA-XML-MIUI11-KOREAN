@@ -194,6 +194,7 @@
   <string name="add_account_label">계정 추가</string>
   <string name="add_auto_startup_application">자동 시작 앱 추가</string>
   <string name="add_back_fingerprint_instruction_msg">센서 위에 손가락을 올려 주세요.</string>
+  <string name="add_broadsize_fingerprint_instruction_msg">지문 센서는 장치의 오른쪽 가장자리에 있습니다</string>
   <string name="add_device_admin">활성화</string>
   <string name="add_device_admin_msg">기기 관리자를 활성화하시겠습니까?</string>
   <string name="add_facerecoginition_text">얼굴인식 추가</string>
@@ -3366,7 +3367,7 @@
   <string name="lockscreen_glogin_password_hint">비밀번호</string>
   <string name="lockscreen_glogin_submit_button">로그인</string>
   <string name="lockscreen_magazine">슬라이드형 배경화면</string>
-  <string name="lockscreen_magazine_summary">고화질 슬라이드형 배경화면</string>
+  <string name="lockscreen_magazine_summary">매일 제공되는 멋진 이미지와 흥미로운 이야기</string>
   <string name="lockscreen_magazine_title">슬라이드형 배경화면</string>
   <string name="lockscreen_remote_input">기기가 잠긴 경우 알림을 받을 수 없습니다</string>
   <string name="lockscreen_settings_title">잠금 화면 사용자 설정</string>
@@ -9096,4 +9097,8 @@
   <string name="miui_lab_aiasst_call_screen_desc">음성 및 텍스트를 통해 전화를 자동 응답합니다</string>
   <string name="screen_fps_summary">새로고침 빈도가 높을수록 사진이 더 매끄럽고 새로고침 빈도가 낮으면 배터리가 절약됩니다</string>
   <string name="screen_fps_title">새로고침 빈도</string>
+  <string name="network_alarm">"인터넷 전화를 무음으로 설정하지 않습니다"</string>
+  <string name="network_alarm_summary">"참고 : 일부 앱은 이 기능과 호환되지 않습니다. %1$s"</string>
+  <string name="network_alarm_summary_reg">지원하는 앱 보기</string>
+  <string name="network_alarm_support_apps">지원하는 앱</string>
 </resources>
