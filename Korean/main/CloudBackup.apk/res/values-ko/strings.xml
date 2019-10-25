@@ -81,7 +81,7 @@
     <string name="download_settings">홈 화면 설정 %s%% 다운로드 중</string>
     <string name="cloud_back_up_date_format">yyyy/MM/dd HH:mm</string>
     <string name="recover_home_settings">홈 화면 설정 복원</string>
-    <string name="cancel_recover_settings"><u>취소</u></string>
+    <string name="cancel_recover_settings">취소</string>
     <string name="recover_settings_description">기기 전원 켜진 상태 유지</string>
     <string name="recover_miui_settings">시스템 설정 복원</string>
     <string name="wait_icon_download">앱 아이콘 다운로드 중</string>
@@ -104,6 +104,7 @@
     <string name="query_restore_summary">이 기기를 위한 Mi 클라우드 백업 파일을 찾았습니다. 홈 화면 앱과 설정을 복원하거나 새로운 기기를 이용하여 이전 Mi 클라우드 백업을 삭제하시겠습니까?</string>
     <string name="query_restore_back_view">Mi 클라우드 백업</string>
     <string name="restore_home_screen_apps">Mi 클라우드 백업에서 복원</string>
+    <string name="restoring_home_screen_apps">샤오미 클라우드에서 복원중…</string>
     <string name="query_restore_description">이 백업을 사용하여 홈 화면 앱과 설정을 복구합니다. 이미 기기에 설치되어있는 중복된 어플을 덮어씌우게될 것입니다. 앱이 백업에 포함되어 있지 않다면 마지막 홈 화면으로 이동될 것입니다.</string>
     <string name="restore_from_this_device">이 백업을 사용하여 복원</string>
     <string name="confirm_restore_title">복원</string>
@@ -192,6 +193,7 @@
     <string name="unsupported_home">MIUI를 최신버전으로 업데이트하세요.</string>
     <string name="load_backup_failed">백업 불러오기 실패</string>
     <string name="loading_user_backup">사용자 백업 불러오는 중…</string>
+    <string name="loading_progress_num">%s%% 로딩됨</string>
     <string name="main_space">메인 공간</string>
     <string name="try_continue">계속하려면 탭하세요</string>
     <string name="second_space">보조 공간</string>
