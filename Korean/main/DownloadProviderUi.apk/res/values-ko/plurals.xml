@@ -24,6 +24,12 @@
     <plurals name="durationHours">
         <item quantity="other">%1$d시간</item>
     </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d분</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d초</item>
+    </plurals>
     <plurals name="selected_count">
         <item quantity="other">%2$d개 중 %1$d개 선택됨</item>
     </plurals>
