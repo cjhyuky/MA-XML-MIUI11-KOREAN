@@ -30,4 +30,10 @@
     <plurals name="show_more">
         <item quantity="other">%1$d개 더 표시</item>
     </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d분</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d초</item>
+    </plurals>
 </resources>
