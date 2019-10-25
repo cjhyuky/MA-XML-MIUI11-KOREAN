@@ -193,7 +193,6 @@
     <string name="unsupported_home">MIUI를 최신버전으로 업데이트하세요.</string>
     <string name="load_backup_failed">백업 불러오기 실패</string>
     <string name="loading_user_backup">사용자 백업 불러오는 중…</string>
-    <string name="loading_progress_num">%s%% 로딩됨</string>
     <string name="main_space">메인 공간</string>
     <string name="try_continue">계속하려면 탭하세요</string>
     <string name="second_space">보조 공간</string>
