@@ -9101,4 +9101,5 @@
   <string name="network_alarm_summary">"참고 : 일부 앱은 이 기능과 호환되지 않습니다. %1$s"</string>
   <string name="network_alarm_summary_reg">지원하는 앱 보기</string>
   <string name="network_alarm_support_apps">지원하는 앱</string>
+  <string name="xiaomi_transfer">Mi공유</string>
 </resources>
