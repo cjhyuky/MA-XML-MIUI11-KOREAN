@@ -1279,4 +1279,14 @@
     <item>임의의 MAC 사용(기본값)</item>
     <item>기기 MAC 사용</item>
   </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>현재 조명을 기준으로 색상 조정</item>
+        <item>항상 색상 향상</item>
+        <item>색상 보정으로 화면 컨텐츠의 표준 색상 복원</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>자동(추천)</item>
+        <item>채도 높음</item>
+        <item>원래 색상</item>
+    </string-array>
 </resources>
