@@ -2814,4 +2814,11 @@
   <string name="power_center_5g_save_summary_text">특정 상황에서 5G 전력 소비를 줄입니다</string>
   <string name="power_center_5g_save_title_text">5G 배터리 세이버</string>
   <string name="process_vpnsdkmanager_label">게임 터보</string>
+  <string name="privacy_description_camera">%1s 앱이 백그라운드에서 카메라를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
+  <string name="privacy_description_camera_mic">%1s 1s 앱이 백그라운드에서 카메라와 마이크를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
+  <string name="privacy_description_mic">%1s 앱이 백그라운드에서 마이크를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
+  <string name="privacy_notification_subtitle">권한을 관리하려면 탭하세요</string>
+  <string name="privacy_notification_title_camera">%1s 앱이 백그라운드에서 카메라를 사용중입니다</string>
+  <string name="privacy_notification_title_camera_mic">%1s 앱이 백그라운드에서 카메라와 마이크를 사용중입니다</string>
+  <string name="privacy_notification_title_mic">%1s 앱이 백그라운드에서 마이크를 사용중입니다</string>
 </resources>
