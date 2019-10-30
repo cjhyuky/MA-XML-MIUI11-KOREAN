@@ -1224,4 +1224,5 @@
 이동 중에도 비디오를 녹화하고 편집 할 수 있습니다"</string>
   <string name="vv_use_hint_text_title">브이로그</string>
   <string name="vv_mode_menu_item_name">브이로그</string>
+  <string name="pref_popup_camera_title">팝업 카메라</string>
 </resources>
