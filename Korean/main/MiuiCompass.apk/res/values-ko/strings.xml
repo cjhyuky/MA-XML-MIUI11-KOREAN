@@ -10,6 +10,7 @@
     <string name="calibrate_failed_no_location">측정할 수 없습니다.</string>
     <string name="calibrate_failed_timeout">서버에 연결할 수 없습니다.</string>
     <string name="calibrate_failed">고도 측정 실패</string>
+    <string name="cta_v2_app_purpose">방향, 좌표, 대기압 및 현재 고도 표시</string>
     <string name="pressure_title">기압</string>
     <string name="altitude_title">고도</string>
     <string name="pressure">%.1f</string>
