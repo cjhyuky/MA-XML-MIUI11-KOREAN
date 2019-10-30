@@ -439,8 +439,8 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_battery_low_notification_message">동기화하시려면 충전기를 연결하여 주십시오.</string>
     <string name="micloud_upgrade_member">업그레이드</string>
     <string name="micloud_notif_content_depend_wifi">동기화를 위해 Wi-Fi에 연결합니다.</string>
-    <string name="micloud_notif_title_master_depend_wifi">Mi 클라우드와 동기화할 수 없습니다.</string>
-    <string name="micloud_notif_content_master_depend_wifi">먼저 Wi-Fi를 연결해 주십시오.</string>
+    <string name="micloud_notif_title_master_depend_wifi">"모바일 데이터 사용중에는 동기화가 일시중지됩니다"</string>
+    <string name="micloud_notif_content_master_depend_wifi">Wi-Fi에 먼저 연결하거나 동기화 설정을 변경하세요. 변경하려면 탭하세요.</string>
     <string name="micloud_notif_title_memory_low">Mi 클라우드와 동기화할 수 없습니다.</string>
     <string name="micloud_notif_content_memory_low">저장 공간이 충분하지 않습니다.</string>
     <string name="micloud_notif_title_battery_low">Mi 클라우드와 동기화할 수 없습니다.</string>
