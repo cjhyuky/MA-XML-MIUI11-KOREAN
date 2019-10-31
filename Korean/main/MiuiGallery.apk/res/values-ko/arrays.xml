@@ -181,4 +181,5 @@
         <item>이동</item>
         <item>복사</item>
         <item>@string/cancel</item>
+    </string-array>
 </resources>
