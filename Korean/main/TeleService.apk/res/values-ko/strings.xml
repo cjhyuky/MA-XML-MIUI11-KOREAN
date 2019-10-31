@@ -2556,6 +2556,6 @@
  모바일 네트워크를 선호하도록 선택하면 기본적인 전화 통화로 사용됩니다. 모바일 네트워크 범위가 없거나 신호가 좋지 않은 경우 Wi-Fi 네트워크가 대신 사용됩니다."</string>
     <string name="wifi_call_preferred_summary">"모바일 네트워크를 선호하도록 선택하면 기본적으로 모바일 네트워크가 통화에 사용됩니다. 모바일 네트워크 신호가 없거나 매우 불량한 경우 Wi-Fi 네트워크가 대신 사용됩니다."</string>
     <string name="wifi_call_welcome_settings">Wi-Fi 통화</string>
-    <string name="last_sim_callback_summary">통화 기록에서 전화를 걸 때 이 연락처와 함께 이전 통화 중에 사용된 SIM 카드를 사용하십시오</string>
+    <string name="last_sim_callback_summary">통화 기록에서 전화를 걸 때 이 연락처와 함께 이전 통화 중에 사용된 SIM 카드를 사용합니다</string>
     <string name="last_sim_callback_title">SIM 카드 설정 기억하기</string>
 </resources>
