@@ -948,7 +948,7 @@
   <string name="system_permission_declare_main_purpose" formatted="false">%1s에 오신 것을 환영합니다! %2s</string>
   <string name="system_permission_declare_no_say_no">"당사는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 귀하의 개인 정보를 보호합니다.
 그러한 권한을 부여하거나 개인 정보를 공유 및 업로드하는 데 동의하지 않으면 이 앱을 사용할 수 없습니다."</string>
-  <string name="system_permission_declare_privacy_declare">%1s% 앱은 데이터를 수집해야하며 정상적으로 작동하려면 다음 권한이 필요합니다:</string>
+  <string name="system_permission_declare_privacy_declare">%1s 앱은 데이터를 수집해야하며 정상적으로 작동하려면 다음 권한이 필요합니다:</string>
   <string name="system_permission_declare_revoke_path">메시지 설정에서 인증을 취소하고 서비스를 끌 수 있습니다.</string>
   <string name="system_permission_declare_single_link">이 기능을 사용하기 전에 %1s을 읽고 동의하십시오.</string>
   <string name="system_permission_declare_triple_link" formatted="false">이러한 기능을 사용하기 전에 %1s, %2s 및 %3s을 읽고 동의하십시오.</string>
