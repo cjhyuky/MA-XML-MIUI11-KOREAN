@@ -331,4 +331,10 @@
     <string name="pref_remind_type_summary">무음 모드에서 알림 소리 재생</string>
     <string name="pref_remind_type_title">무음 모드 무시하기</string>
     <string name="remind_title">미리 알림</string>
+     <string name="audio_create_normal_state">생성하려면 버튼을 놓으세요. 취소하려면 위로 미세요.</string>
+     <string name="audio_create_will_cancel_state">취소하려면 버튼을 놓으세요</string>
+     <string name="new_audio_create_cancel_talkback_des">취소됨</string>
+     <string name="new_audio_create_done_talkback_des">생성됨</string>
+     <string name="new_audio_create_guide_tip">음성 메모를 생성하려면 길게 누르고 있으세요</string>
+     <string name="new_audio_create_talkback_des">탭하여 문자 메모를 작성하십시오. 길게 누르면 음성 메모가 생성됩니다. 버튼을 놓으면 녹음이 중지되고 메모를 만들거나 위로 밀어서 취소합니다.</string>
 </resources>

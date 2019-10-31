@@ -505,7 +505,15 @@
     <string name="birthday_event_description_days_later">%1$d일 후</string>
     <string name="countdown_card_title">카운트다운</string>
     <string name="departure">출발</string>
-    <string name="edit_date_calculate_days_error_hint">You can enter up to %1$d days</string>
+    <string name="edit_date_calculate_days_error_hint">%1$d 일까지 입력할 수 있습니다</string>
+    <string name="edit_event_title_create_agenda">이벤트 추가</string>
+    <string name="edit_event_title_create_anniversary">기념일 추가</string>
+    <string name="edit_event_title_create_birthday">생일 추가</string>
+    <string name="edit_event_title_create_countdown">디데이 추가</string>
+    <string name="edit_event_title_edit_agenda">이벤트 편집</string>
+    <string name="edit_event_title_edit_anniversary">기념일 편집</string>
+    <string name="edit_event_title_edit_birthday">생일 편집</string>
+    <string name="edit_event_title_edit_countdown">디데이 편집</string>
     <string name="event_info_from">발신인</string>
     <string name="guide_card_hint_text">연락처에서 생일 가져오기</string>
     <string name="jump_date_full">날짜로 이동</string>
