@@ -364,6 +364,7 @@
     <string name="home_pull_down_action">홈화면에서 아래로 당기세요</string>
     <string name="home_slide_up_action">홈화면에서 위로 올리세요</string>
     <string name="launcher_pull_down_title">홈화면에서 아래로 당기세요</string>
+    <string name="launcher_search_bar_title">검색 바</string>
     <string name="launcher_slide_up_title">홈화면에서 위로 올리세요</string>
     <string name="edit_mode_dual_app">듀얼앱 생성</string>
     <string name="edit_mode_group_error_cant_delete_system_apps">"시스템앱은 삭제할 수 없습니다"</string>
