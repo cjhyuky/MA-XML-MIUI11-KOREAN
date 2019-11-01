@@ -228,7 +228,7 @@
   <string name="llks_try_it">시도</string>
   <string name="llks_whole_cate">모든 카테고리</string>
   <string name="load_hdpicture_complete">로드된 원본 이미지</string>
-  <string name="loading">&lt;CDATA&gt;잠시만 기다려주세요&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="loading">잠시만 기다려주세요</string>
   <string name="lock_screen_date">M월 d일 EEEE</string>
   <string name="lock_screen_date_12">M월 d일 EEEE</string>
   <string name="lock_show_permission_exception">오류가 발생하였습니다. 보안의 잠금 화면에 슬라이드형 배경화면이 표시되도록 허용합니다.</string>
@@ -323,9 +323,9 @@
   <string name="platform_unavailable_wechatmoment">위쳇 설치</string>
   <string name="platform_unavailable_weibo">WhatsApp을 설치하세요</string>
   <string name="privacy_setting">개인정보 설정</string>
-  <string name="prv_end">" \"&lt;CDATA&gt;볼 항목이 더 이상 없습니다.&lt;/CDATA&gt;\" "</string>
-  <string name="prv_loading">&lt;CDATA&gt;잠시만 기다려주세요&amp;#8230;&lt;/CDATA&gt;</string>
-  <string name="prv_nodata">" \"&lt;CDATA&gt;데이터 없음&lt;/CDATA&gt;\" "</string>
+  <string name="prv_end">볼 항목이 더 이상 없습니다.</string>
+  <string name="prv_loading">잠시만 기다려주세요.</string>
+  <string name="prv_nodata">데이터 없음</string>
   <string name="psw_hint">암호</string>
   <string name="psw_sign_in">비밀번호를 사용하여 로그인하십시오.</string>
   <string name="pull_to_refresh_pull_down_label">놓아서 새로고침</string>
@@ -344,7 +344,7 @@
   <string name="resource_apply">적용</string>
   <string name="resource_no_network_text">네트워크에 접속할 수 없습니다.</string>
   <string name="rv_with_footer_empty">아직 아무것도 없음</string>
-  <string name="rv_with_footer_loading">&lt;CDATA&gt;Just a sec&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="rv_with_footer_loading">잠시만 기다려주세요...</string>
   <string name="rv_with_footer_pull_load_more">아래로 당겨 더 보기</string>
   <string name="save_hdpicture_in_favor">즐겨찾기에 있는 이미지를 고화질로 보기</string>
   <string name="save_picture_success">저장됨</string>
