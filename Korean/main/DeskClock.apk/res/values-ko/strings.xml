@@ -329,4 +329,10 @@
   <string name="set_alarm_choose_ringtone">벨소리 선택</string>
   <string name="set_alarm_other">기타 설정</string>
   <string name="module_unzipping">오디오 압축푸는중…</string>
+  <string name="alarm_ringtone">알람 벨소리</string>
+  <string name="ringtone_all">모든 벨소리</string> 
+  <string name="ringtone_dew">아침 이슬</string> 
+  <string name="ringtone_dream">백일몽</string> 
+  <string name="ringtone_firefly">반딧불</string>
+  <string name="star_wy_alarm_speech">로이 웡 만나기</string>
 </resources>
