@@ -1827,7 +1827,7 @@
   <string name="wifi_hand_sel_wapi_cert">WAPI 인증서</string>
   <string name="wifi_is_off">Wi-Fi가 꺼져있습니다</string>
   <string name="wifi_metered_label">저장됨</string>
-  <string name="wifi_no_internet">인터넷 연결 없음, 자동적으로 재접속하지 않습니다.</string>
+  <string name="wifi_no_internet">"인터넷 연결 실패"</string>
   <string name="wifi_no_internet_no_reconnect">자동 연결되지 않음</string>
   <string name="wifi_not_in_range">범위에 없습니다</string>
   <string name="wifi_remembered">저장됨</string>
