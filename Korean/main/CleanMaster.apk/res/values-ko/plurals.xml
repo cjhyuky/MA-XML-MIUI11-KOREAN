@@ -87,4 +87,25 @@
     <plurals name="whatsapp_delete_files">
         <item quantity="other">%1$d개 항목을 삭제하시겠습니까?</item>
     </plurals>
+    <plurals name="dc_group_title_normal">
+        <item amount="other">%1$d단계를 수행하여 %2$s을(를) 확보</item>
+    </plurals>
+    <plurals name="dc_item_summary_apk">
+        <item amount="other">&lt;font color=#0097FF&gt;%d&lt;/font&gt;개의 설치 패키지</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_data">
+        <item amount="other">&lt;font color=#0097FF&gt;%d&lt;/font&gt;개의 앱</item>
+    </plurals>
+    <plurals name="dc_item_summary_image">
+        <item amount="other">&lt;font color=#0097FF&gt;%d&lt;/font&gt;개의 불필요한 사진</item>
+    </plurals>
+    <plurals name="dc_item_summary_large_file">
+        <item amount="other">&lt;font color=#0097FF&gt;%d&lt;/font&gt;개의 큰 파일</item>
+    </plurals>
+    <plurals name="dc_item_summary_uninstall_app">
+        <item amount="other">&lt;font color=#0097FF&gt;%d&lt;/font&gt;개의 거의 사용하지 않는 앱</item>
+    </plurals>
+    <plurals name="dc_item_summary_video">
+        <item amount="other">&lt;font color=#0097FF&gt;%d&lt;/font&gt;개의 비디오</item>
+    </plurals>
 </resources>
