@@ -208,15 +208,17 @@
         <item>" | 켜짐 (통화)"</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>시스템 선택 사용(기본값)</item>
+        <item>시스템 선택 사용 (기본값)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>퀄컴® aptX™ 오디오</item>
-        <item>퀄컴® aptX™ HD 오디오</item>
+        <item>퀄컴® aptX ™ 오디오</item>
+        <item>퀄컴® aptX ™ HD 오디오</item>
         <item>LDAC</item>
-        <item>퀄컴® aptX™ 적응형 오디오</item>
-        <item>부가적인 코덱 활성화</item>
-        <item>부가적인 코덱 비활성화</item>
+        <item>퀄컴® aptX ™ 적응형 오디오</item>
+        <item>퀄컴® aptX ™ TWS + 오디오</item>
+        <item>LHDC</item>
+        <item>외부코덱 활성화</item>
+        <item>외부코덱 비활성화</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>시스템 선택 사용(기본값)</item>
@@ -233,18 +235,5 @@
         <item>"화면 켜지 않기"</item>
         <item>화면 켜기</item>
         <item>애니메이션 표시</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>시스템 선택 사용 (기본값)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>퀄컴® aptX ™ 오디오</item>
-        <item>퀄컴® aptX ™ HD 오디오</item>
-        <item>LDAC</item>
-        <item>퀄컴® aptX ™ 적응형 오디오</item>
-        <item>퀄컴® aptX ™ TWS + 오디오</item>
-        <item>LHDC</item>
-        <item>추가 코덱 활성화</item>
-        <item>추가 코덱 비활성화</item>
     </string-array>
 </resources>
