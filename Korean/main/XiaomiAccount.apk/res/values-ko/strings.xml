@@ -495,7 +495,7 @@ ID:%s
     <string name="input_new_pwd">새로운 패스워드를 입력하세요</string>
     <string name="mi_finance">나의 잔고</string>
     <string name="mi_finance_info">신규 사용자를 위한 보너스</string>
-    <string name="same_new_and_old_pwd">"현재 비밀번호와 같아서는 안됩니다"</string>
+    <string name="same_new_and_old_pwd">"새 비밀번호는 이전 비밀번호와 달라야합니다"</string>
     <string name="sim_card">SIM카드</string>
     <string name="used_cloud_storage_info">사용된 저장공간 %s</string>
     <string name="exit">나가기</string>
@@ -561,4 +561,6 @@ ID:%s
     <string name="two_factor_auth_need_code">코드 입력</string>
     <string name="two_factor_auth_need_code_summary">"연결된 다른 Mi 기기에 코드가 표시됩니다. 로그인하려면 새 기기에 이 코드를 입력하십시오."</string>
     <string name="two_factor_auth_summary">"새 장치 또는 새 위치에서 로그인을 시도하면 연결된 다른 장치에서 이 메시지가 표시됩니다. 이러한 로그인 시도가 있는지 확인해야 합니다."</string>
+    <string name="pwd_width_phone_number_or_mail_num">"비밀번호는 전화번호, 이메일 또는 Mi 계정 ID를 포함 할 수 없습니다"</string>
+    <string name="risky_pwd_not_allow">"새 비밀번호가 안전하지 않습니다. 다른 비밀번호를 설정하십시오."</string>
 </resources>
