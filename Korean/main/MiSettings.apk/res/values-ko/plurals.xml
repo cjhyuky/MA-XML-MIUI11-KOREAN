@@ -4,6 +4,6 @@
         <item amount="other">%d일</item>
     </plurals>
     <plurals name="usage_state_focus_usage_summary">
-        <item amount="other">지난 %d분 동안, 당신이 무언가를 얻을 것이라고 믿습니다! </item>
+        <item amount="other">지난 %d분 동안, 당신이 무언가를 얻을 것이라고 믿습니다!</item>
     </plurals>
 </resources>
