@@ -622,4 +622,26 @@
     <string name="notification_low_memory_cache_title">캐시 정리</string>
     <string name="notification_low_memory_deepclean_summary">정밀 청소로 기기의 저장공간을 확보할 수 있습니다</string>
     <string name="notification_low_memory_deepclean_title">저장 공간이 부족합니다</string>
+     <string name="dc_activity_title">정밀 청소</string>
+     <string name="dc_advise_delete">빈 공간 확보</string>
+     <string name="dc_group_title_appclean">앱</string>
+     <string name="dc_header_can_clean">삭제 가능</string>
+     <string name="dc_header_can_not_clean">삭제 불가</string>
+     <string name="dc_header_used_space_text">사용중인 저장 용량</string>
+     <string name="dc_item_summary_wechat_chat">공간을 확보하기 위해 채팅으로 내역 채팅 지우기</string>
+     <string name="dc_item_title_apk">설치 패키지 삭제</string>
+     <string name="dc_item_title_app_data">앱 데이터 지우기</string>
+     <string name="dc_item_title_image">사진 삭제</string>
+     <string name="dc_item_title_large_file">큰 파일 삭제</string>
+     <string name="dc_item_title_qq">QQ 클리너</string>
+     <string name="dc_item_title_uninstall_app">앱 제거</string>
+     <string name="dc_item_title_video">동영상 삭제</string>
+     <string name="dc_item_title_wechat">위챗 클리너</string>
+     <string name="dc_item_title_wechat_chat">위챗 기록 지우기</string>
+     <string name="dc_storage_cleaned">%s 사용 가능</string>
+     <string name="dc_storage_info">%1$s 사용 가능 | 총 %2$s</string>
+     <string name="guide_dc_dialog_message">"사용 가능한 저장 공간이 2GB 미만입니다. 기기 속도가 느려질 수 있습니다. 저장 공간을 확보하기 위해 철저하게 정리하십시오."</string>
+     <string name="guide_dc_dialog_negative">취소</string>
+     <string name="guide_dc_dialog_positive">확인</string>
+     <string name="guide_dc_dialog_title">저장 용량이 부족합니다</string>
 </resources>
