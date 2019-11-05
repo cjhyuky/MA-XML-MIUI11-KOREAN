@@ -9103,19 +9103,5 @@
   <string name="network_alarm_support_apps">지원하는 앱</string>
   <string name="xiaomi_transfer">Mi 공유</string>
   <string name="wellbing_title">디지털 웰빙 &amp; 자녀 보호</string>
-  <string name="bluetooth_select_a2dp_codec_lhdc_latency">블루투스 오디오 LHDC 코덱 : 지연 시간</string>
-  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"추가 블루투스 오디오 LHDC 코덱 :
-지연 시간"</string>
-  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">블루투스 오디오 LHDC 코덱 : 재생 품질</string>
-  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"추가 블루투스 오디오 LHDC 코덱 :
-재생 품질"</string>
-  <string name="bt_lhdc_declaration">블루투스 장치가 LHDC를 지원하면 기본적으로 연결됩니다. LHDC는 고품질 오디오 환경을 제공하지만 전력 소비도 증가시킵니다. 블루투스 하드웨어 제한으로 인해 재생중에 문제가 발생할 수 있습니다.</string>
-  <string name="bt_lhdc_dialog_summary">"LHDC는 고품질 오디오 환경을 제공하지만 전력 소비도 증가시킵니다.
-설정에서 이 기능을 사용 중지 할 수 있습니다."</string>
-  <string name="bt_lhdc_dialog_title">현재 장치는 기본적으로 연결된 LHDC를 지원합니다.</string>
-  <string name="bt_lhdc_open_dialog_summary">LHDC는 고품질 오디오 환경을 제공하지만 전력 소비도 증가시킵니다. 블루투스 하드웨어 제한으로인해 재생 중에 문제가 발생할 수 있습니다.</string>
-  <string name="bt_lhdc_open_dialog_title">LHDC를 켜겠습니까?</string>
-  <string name="bt_lhdc_pre_title">LHDC</string>
-  <string name="bt_lhdc_property">속성</string>
   <string name="xiaomi_cloud_find_device">장치 찾기</string> 
 </resources>
