@@ -458,7 +458,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_notif_content_multi_user_error">같은 계정으로 기본 공간에 로그인 하셨습니다.</string>
     <string name="micloud_notif_title_dirty_data">항목을 동기화하지 않으셨습니다.</string>
     <string name="micloud_notif_content_dirty_data">자세히</string>
-    <string name="micloud_find_device_guide_title">&lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>에 로그인하여 기기의 위치 확인, 잠금 또는 제거를 하실 수 있습니다. 이는 기기 분실시 큰 도움이 될 것입니다. &lt;br />기기를 분실하신 후 &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>.에서 Alipay, WeChat, QQ 등 주요 앱의 보안 센터에 정보를 전송하여 계정을 보호하실 수 있습니다.</string>
+    <string name="micloud_find_device_guide_title">기기를 찾거나 잠그거나 지우려면 i.mi.com에 로그인하십시오. 분실한 경우 기기를 찾는데 도움이 될 수 있습니다.</string>
     <string name="micloud_find_device_guide_content">이 서비스 활성화를 위해 SMS 메시지 발신이 요구됩니다. 이 메시지에 대한 요금이 부과될 것이며 SIM 카드를 바꾸실 시에 자동으로 기능 재활성화를 위해 메시지가 전송될 것입니다.</string>
     <string name="micloud_find_device_guide_button">기기 찾기 켜기</string>
     <string name="micloud_find_device_guide_progress">기기 찾기 켜는 중…</string>
@@ -741,7 +741,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
   <string name="priv_dialog_finddevice_all_purpose_pad">"기기 찾기에 오신것을 환영합니다! 기기를 잃어버린 경우 이 서비스를 사용하여 장치를 찾거나 잠그거나 데이터를 삭제할 수 있습니다."</string>
   <string name="priv_dialog_finddevice_all_purpose_phone">"기기 찾기에 오신것을 환영합니다! 기기를 잃어버린 경우 이 서비스를 사용하여 장치를 찾거나 잠그거나 데이터를 삭제할 수 있습니다."</string>
   <string name="priv_dialog_sync_all_purpose">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 비디오, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화 할 수 있습니다 .</string>
-  <string name="priv_doc_cloudservice">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 비디오, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화 할 수 있습니다 . 브라우저를 통해 i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;에서 동기화 한 항목에 액세스하십시오.
+  <string name="priv_doc_cloudservice">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 비디오, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화 할 수 있습니다. 브라우저를 통해 i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;에서 동기화 한 항목에 액세스하십시오.
 
 이 서비스를 활성화하려면 발신 SMS 메시지가 필요할 수 있습니다. 이동 통신사가이 메시지에 대해 요금을 청구합니다. SIM 카드를 전환하면 이 기능을 다시 활성화하기 위해 메시지가 자동으로 전송될 수 있습니다.
 
@@ -813,4 +813,8 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="cloud_storage_already_full">클라우드 저장소 부족: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">클라우드 저장소</string>
     <string name="cloud_storage_loading_data">잠시만 기다려주세요...</string>
+    <string name="menu_add_feedback">피드백</string>
+    <string name="menu_add_short_cut">홈 화면 바로 가기 생성</string>
+    <string name="tip_short_cut_added_success">성공적으로 생성되었습니다</string>
+    <string name="tip_short_cut_already_added">생성</string>
 </resources>
