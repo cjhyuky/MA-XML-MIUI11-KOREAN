@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="usage_days">
-        <item amount="other">%d일</item>
+        <item quantity="other">%d일</item>
     </plurals>
     <plurals name="usage_state_focus_usage_summary">
-        <item amount="other">%d분은 마음챙김과 집중을 향한 큰 걸음입니다!</item>
+        <item quantity="other">%d분은 마음챙김과 집중을 향한 큰 걸음입니다!</item>
     </plurals>
 </resources>
