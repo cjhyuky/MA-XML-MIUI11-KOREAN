@@ -210,7 +210,7 @@
         <item quantity="other">"%d개의 앱이 백그라운드에서 네트워크 접속을 할 수 없습니다"</item>
     </plurals>
     <plurals name="network_restrict_count">
-        <item quantity="other">"&amp;lt;font color='#ff0000'>%d개의&amp;lt;/font> 앱이 네트워크 접속 제한됨"</item>
+        <item quantity="other">"%d개의 앱이 네트워크 접속 제한됨"</item>
     </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d개의 앱</item>
