@@ -67,4 +67,13 @@
         <item>크게</item>
         <item>매우 크게</item>
     </string-array>
+    <string-array name="global_search_mode_entries">
+        <item>없음</item>
+        <item>위로 밀어올리기</item>
+        <item>검색 바</item>
+    </string-array>
+    <string-array name="global_search_provider_entries">
+        <item>기본값</item>
+        <item>구글</item>
+    </string-array>
 </resources>
