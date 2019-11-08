@@ -423,4 +423,6 @@
     <string name="all_apps_setting_original_scrollbar">원본 레이아웃</string>
     <string name="all_apps_setting_scroll_bar">스크롤바</string>
     <string name="icon_size">아이콘 </string>
+    <string name="launcher_global_search_mode_title">글로벌 검색</string>
+    <string name="launcher_global_search_provider_title">글로벌 검색 제공자</string>
 </resources>
