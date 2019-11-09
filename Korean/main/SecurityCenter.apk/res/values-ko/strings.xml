@@ -1709,7 +1709,7 @@
   <string name="pc_abnormal_scan_reason_use_GPS">잦은 위치정보 사용</string>
   <string name="pc_abnormal_scan_reason_wake_system">잦은 시스템 깨우기</string>
   <string name="pc_activity_title">배터리 최적화</string>
-  <string name="pc_battery_detail_curve_reference_now">즉시</string>
+  <string name="pc_battery_detail_curve_reference_now">현재</string>
   <string name="pc_battery_detail_device_item_title">배터리 사용 정보</string>
   <string name="pc_battery_history_battery_detail_menu_item">세부정보</string>
   <string name="pc_battery_history_consume_rank_menu_item">순위</string>
