@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_autostart">재시작 정보</string>
   <string name="ac_enter_applock">앱 잠금 진입</string>
@@ -1047,7 +1047,7 @@
   <string name="game_video_network_eror">네트워크 연결 실패. 네트워크 설정을 확인하고 다시 시도하세요.</string>
   <string name="game_wid_viewpoint_buttom">잠시 휴식을 취하세요.</string>
   <string name="gamebooster_lowbattery_notification_summary">전원이 꺼지기 전에 충전하세요.</string>
-  <string name="gamebooster_lowbattery_notification_title">배터리가 5%% 미만입니다.</string>
+  <string name="gamebooster_lowbattery_notification_title">배터리가 5 %% 미만입니다.</string>
   <string name="gamebooster_main_activity_back">뒤로</string>
   <string name="gamebooster_network_dialog_message">보안 네트워크를 허용하여 게임 스피드 부스터의 전체 기능을 사용하시겠습니까?</string>
   <string name="gamebooster_network_dialog_title">몇몇 기능을 사용할 수 없음</string>
@@ -1709,7 +1709,7 @@
   <string name="pc_abnormal_scan_reason_use_GPS">잦은 위치정보 사용</string>
   <string name="pc_abnormal_scan_reason_wake_system">잦은 시스템 깨우기</string>
   <string name="pc_activity_title">배터리 최적화</string>
-  <string name="pc_battery_detail_curve_reference_now">현재</string>
+  <string name="pc_battery_detail_curve_reference_now">즉시</string>
   <string name="pc_battery_detail_device_item_title">배터리 사용 정보</string>
   <string name="pc_battery_history_battery_detail_menu_item">세부정보</string>
   <string name="pc_battery_history_consume_rank_menu_item">순위</string>
@@ -1739,10 +1739,6 @@
   <string name="pc_statistics_battery_use_title">배터리 사용량</string>
   <string name="pc_to_phone_install">USB를 통한 %s 설치가 차단되었습니다.</string>
   <string name="per_month_pkg_traffic_settings">데이터 한도 설정</string>
-  <string name="percent_formatted_text">%s%%</string>
-  <string name="percent_symbol">%</string>
-  <string name="percent_text_formatted">%s%%</string>
-  <string name="percentage">%d%%</string>
   <string name="perfermance_optimization_summary">과열 및 하드웨어 문제 방지</string>
   <string name="perfermance_optimization_title">성능 최적화</string>
   <string name="permgroupdesc_contacts">연락처 접근</string>
@@ -1800,7 +1796,6 @@
   <string name="power_center_list_item_close_bluetooth">블루투스 끄기</string>
   <string name="power_center_list_item_deep_save_title">고급 설정</string>
   <string name="power_center_list_item_set_lockscreen_time">30초간 사용하지 않으면 화면을 끕니다</string>
-  <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_one_key_save">최적화</string>
   <string name="power_center_ontime_boot">예약 켜짐 시간</string>
   <string name="power_center_ontime_shutdown">예약 꺼짐 시간</string>
@@ -2096,7 +2091,6 @@
   <string name="scan_installed_games">설치된 게임을 확인하는 중…</string>
   <string name="scan_status_risk">위험</string>
   <string name="scan_status_safe">보안</string>
-  <string name="scanning_bar_number">%d%%</string>
   <string name="screenrecord_not_find">최신 버전의 화면 녹화기를 설치하고 다시 시도하십시오.</string>
   <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
   <string name="search_result_text">아무 앱도 찾지 못했습니다</string>
@@ -2754,7 +2748,6 @@
   <string name="user_guide_title">조이스틱 추천</string>
   <string name="video_repeat">반복 재생</string>
   <string name="virus_auto_update_engine">자동 업데이트：%s</string>
-  <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_tips_title">Wi-Fi에 연결하십시오</string>
   <string name="virus_wait_network_dialog_message">업데이트 용량이 큽니다. 다운로드하려면 Wi-Fi에 연결하십시오.</string>
   <string name="wakepath_confirm_start_activity">%1$s 기능을 허용하여 %2$s 앱을 여시겠습니까?</string>
@@ -2807,7 +2800,7 @@
   <string name="securitycenter_tab_title">보안</string>
   <string name="system_tool_green_guard">패밀리 가드</string>
   <string name="system_tool_sos">긴급 SOS</string>
-  <string name="superpower_notification_new_title">남은 배터리 %d% 미만</string>
+  <string name="superpower_notification_new_title">남은 배터리 %d%% 미만</string>
   <string name="power_center_5g_save_close_detail">5G 배터리 세이버는 5G 연결에 영향을 주지 않으면서 배터리 수명을 늘립니다. 정말로 끄겠습니까?</string>
   <string name="power_center_5g_save_close_later">"끄지 않음"</string>
   <string name="power_center_5g_save_close_title">5G 배터리 세이버 끄기</string>
@@ -2815,7 +2808,7 @@
   <string name="power_center_5g_save_title_text">5G 배터리 세이버</string>
   <string name="process_vpnsdkmanager_label">게임 터보</string>
   <string name="privacy_description_camera">%1s 앱이 백그라운드에서 카메라를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
-  <string name="privacy_description_camera_mic">%1s 1s 앱이 백그라운드에서 카메라와 마이크를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
+  <string name="privacy_description_camera_mic">%1s 앱이 백그라운드에서 카메라와 마이크를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
   <string name="privacy_description_mic">%1s 앱이 백그라운드에서 마이크를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
   <string name="privacy_notification_subtitle">권한을 관리하려면 탭하세요</string>
   <string name="privacy_notification_title_camera">%1s 앱이 백그라운드에서 카메라를 사용중입니다</string>
