@@ -279,4 +279,6 @@
     <string name="online_recognize_progress">고치는 중 %s…</string>
     <string name="search_empty">"결과를 확인할 수 없습니다"</string>
     <string name="search_hint">검색</string>
+    <string name="cancel_rename">취소</string>
+    <string name="loading_more">잠시만 기다려주세요…</string>
 </resources>
