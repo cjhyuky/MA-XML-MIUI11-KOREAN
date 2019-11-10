@@ -199,4 +199,22 @@
     <string name="stop_app_timer_success">스크린 시간 기능이 비활성화되었습니다</string>
     <string name="stop_app_timer_tip">비활성화 후 설정 항목, 로컬 및 클라우드 데이터 등을 포함한 스크린 타임 기능 관련 데이터 및 호출된 권한이 지워집니다.</string>
     <string name="wait_tip">기다려주십시오...</string>
+     <string name="healthy_use_phone">휴대 전화의 건강한 사용</string>
+     <string name="special_feature">특수 기능</string>
+     <string name="category_other">기타</string>
+     <string name="first_unlock_time">처음으로 잠금 해제 됨 :</string>
+     <string name="most_unlock_week_day">최대 잠금 해제 :</string>
+     <string name="several_days_use_time">%2$s는 거의 %1$d일 동안 사용됩니다</string>
+     <string name="today_usage_title">"오늘의 통계"</ string>
+     <string name="today_use_time">현재 사용 된 총 %1$s</string>
+     <string name="trend_from_last_several_day_equal">"오늘의 사용 시간은 일일 평균 %1$d와 일치합니다"</string>
+     <string name="trend_from_last_several_day_less">오늘날, 오늘 평균 %1$d보다 적은 %2$s을 (를) 사용했습니다.</string>
+     <string name="trend_from_last_several_day_more">오늘날 평균 %2$s를 매일 %1$d 이상 사용했습니다.</string>
+     <string name="trend_from_yesterday_equal">어제 사용 시간과 일치</string>
+     <string name="trend_from_yesterday_less">어제보다 적은 %1$s를 사용했습니다</string>
+     <string name="trend_from_yesterday_less_simple">어제보다 %1$s 낮음</string>
+     <string name="trend_from_yesterday_more">어제보다 %1$s 이상을 사용함</string>
+     <string name="trend_from_yesterday_more_simple">어제보다 %1$s 높음</string>
+     <string name="unlock_times_per_day">평균 일일 잠금 해제 :</string>
+     <string name="unlock_times_per_hour">평균 시간별 잠금 해제 :</string>
 </resources>
