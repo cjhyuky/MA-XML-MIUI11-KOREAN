@@ -96,4 +96,8 @@
     <item>비</item>
     <item>눈</item>
   </string-array>
+  <string-array name="quick_link_tabs">
+    <item>북마크</item>
+    <item>방문기록</item>
+  </string-array>
 </resources>
