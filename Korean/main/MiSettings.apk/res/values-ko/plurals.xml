@@ -7,8 +7,8 @@
         <item quantity="other">%d분은 마음챙김과 집중을 향한 큰 걸음입니다!</item>
     </plurals>
     <plurals name="unlock_times">
-        <item amount="other">%. 2f번</item>
-        <item amount="zero">%. 2f번</item>
-        <item amount="one">%. 2f번</item>
+        <item amount="other">%.2f번</item>
+        <item amount="zero">%.2f번</item>
+        <item amount="one">%.2f번</item>
     </plurals>
 </resources>
