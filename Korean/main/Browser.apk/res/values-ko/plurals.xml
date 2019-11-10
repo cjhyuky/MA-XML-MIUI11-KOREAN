@@ -37,4 +37,34 @@
   <plurals name="video_subtitle_last_message">
     <item quantity="other">%d분 남음</item>
   </plurals>
+    <plurals name="hot_word_hot_count">
+        <item amount="other">조회수 %d회</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item amount="other">나를 위한 %d개의 새로운 아이템을 찾았습니다</item>
+    </plurals>
+    <plurals name="vo_comment">
+        <item amount="other">댓글 %s개</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item amount="other">이미지 %d 개</item>
+    </plurals>
+    <plurals name="vo_short_video_play_count">
+        <item amount="other">조회수 %s회</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item amount="other">%1$s | 댓글 %2$s개</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item amount="other">%d 명이 이미 투표했습니다</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item amount="other">· %s시간 전</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item amount="other">· %s분 전</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item amount="other">질문에 대한 %d개의 답변</item>
+    </plurals>
 </resources>
