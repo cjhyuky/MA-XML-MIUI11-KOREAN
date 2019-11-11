@@ -259,7 +259,7 @@
   <string name="airplane_mode">비행기 모드</string>
   <string name="alarm_ringtone_title">기본 알람음</string>
   <string name="alarm_sound_dialog_title">알람음 선택</string>
-  <string name="alarm_sound_title">알람음</string>
+  <string name="alarm_sound_title">알람</string>
   <string name="alarm_stop">알람은 무음모드에서도 울릴 수 있습니다.</string>
   <string name="alarm_stop_info">설정이 끝나기 전에 알람이 울리면 묵음을 종료 할 수 있습니다</string>
   <string name="alarm_template">%1$s 에서</string>
@@ -4861,13 +4861,13 @@
   <string name="reset_network_desc">모든 네트워크 설정을 초기화합니다</string>
   <string name="reset_network_final_button_text">설정 초기화</string>
   <string name="reset_network_final_desc">모든 네트워크 설정을 초기화 하시겠습니까? 몇 초가 걸릴 수 있으며 작업을 취소할 수 없습니다.</string>
-  <string name="reset_network_title">네트워크 상태 초기화</string>
+  <string name="reset_network_title">Wi-Fi, 모바일 네트워크, 블루투스 초기화</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">보조 공간 비밀번호 초기화</string>
   <string name="reset_second_space_passwd_cancel">취소</string>
   <string name="reset_second_space_passwd_confirm">계속</string>
   <string name="reset_second_space_passwd_detail">기본 공간에 사용된 Mi 계정 비밀번호를 입력하십시오</string>
-  <string name="reset_shortcut_manager_throttling">ShortcutManager 속도 제한 카운터 초기화</string>
+  <string name="reset_shortcut_manager_throttling">바로가기 매니저 속도 제한 카운터 초기화</string>
   <string name="reset_shortcut_manager_throttling_complete">단축키 초기화 완료</string>
   <string name="resetting_second_space_passwd">보조 공간 비밀번호 재설정</string>
   <string name="resident_timezone_summary">두번째 시계</string>
@@ -4924,7 +4924,7 @@
   <string name="ring_volume_title">모드 설정</string>
   <string name="ringtone_mute">없음</string>
   <string name="ringtone_slot_setting_title">단일 SIM 설정</string>
-  <string name="ringtone_title">전화 벨소리</string>
+  <string name="ringtone_title">벨소리</string>
   <string name="ringtone_uniform_setting_title">듀얼 SIM 설정</string>
   <string name="ringtones_category_preference_title">벨소리</string>
   <string name="ringtones_install_custom_sound_content">이 파일이 %s 폴더에 복사됩니다.</string>
@@ -4994,8 +4994,8 @@
   <string name="screen_cells_config_title">홈 화면 레이아웃</string>
   <string name="screen_color_and_optimize">색상 &amp; 대비</string>
   <string name="screen_color_and_optimize_disabled">독서 모드에서는 색온도를 조정할 수 없습니다.</string>
-  <string name="screen_color_temperature">색상</string>
-  <string name="screen_color_temperature_and_saturation">색상 &amp; 채도</string>
+  <string name="screen_color_temperature">색 온도</string>
+  <string name="screen_color_temperature_and_saturation">색 온도 &amp; 채도</string>
   <string name="screen_compatibility_label">화면 호환성</string>
   <string name="screen_compatibility_text">이 앱은 사용 중인 화면에 맞게 개발되지 않았을 수 있습니다. 여기에서 어떻게 앱을 화면에 맞출지 선택할 수 있습니다.</string>
   <string name="screen_confirm">켜기</string>
@@ -9104,4 +9104,20 @@
   <string name="xiaomi_transfer">Mi 공유</string>
   <string name="wellbing_title">디지털 웰빙 &amp; 자녀 보호</string>
   <string name="xiaomi_cloud_find_device">장치 찾기</string> 
+    <string name="dual_wifi">듀얼 Wi-Fi 네트워크 가속</string>
+    <string name="dual_wifi_acceleration">보조 Wi-Fi 가속</string>
+    <string name="dual_wifi_avaliable_slave_wifi">사용가능한 보조 Wi-Fi</string>
+    <string name="dual_wifi_avaliable_slave_wifi_24G">사용가능한 보조 Wi-Fi(2.4G)</string>
+    <string name="dual_wifi_avaliable_slave_wifi_5G">사용가능한 보조 Wi-Fi(5G)</string>
+    <string name="dual_wifi_enabler_summary">가속을 위해 동시에 Wi-Fi 2개를 사용합니다</string>
+    <string name="dual_wifi_off">꺼짐</string>
+    <string name="dual_wifi_on">켜짐</string>
+    <string name="dual_wifi_primary_wifi_connected">기본 Wi-Fi 연결됨</string>
+    <string name="dual_wifi_slave_wifi_connected">보조 Wi-Fi 연결됨</string>
+    <string name="dual_wifi_summary">기본 Wi-Fi에 연결합니다, 보조 Wi-Fi를 켜세요, 그리고 네트워크 속도를 향상시키세요.</string>
+    <string name="dual_wifi_switching_not_remind">다음에는 더이상 힌트가 없습니다</string>
+    <string name="dual_wifi_switching_prompt">Wi-Fi 전환 프롬프트</string>
+    <string name="dual_wifi_switching_summary">듀얼 Wi-Fi에는 다른 주파수 대역이 필요하며 기본 Wi-Fi의 주파수 대역을 변경하려면 보조 Wi-Fi의 연결이 끊어집니다.</string>
+    <string name="multi_network_acceleration_app_settings">멀티 네트워크 가속 애플리케이션 관리</string>
+    <string name="wifi_multi_network_acceleration">지능형 다중 네트워크 가속</string>
 </resources>
