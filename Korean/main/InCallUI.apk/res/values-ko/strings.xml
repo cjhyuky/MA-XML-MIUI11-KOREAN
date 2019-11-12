@@ -270,4 +270,5 @@
     <string name="incoming_circle_text_video_answer">동영상으로 답장 공개</string>
     <string name="incoming_circle_text_video_answer_p">스와이프하여 영상통화 시작</string>
     <string name="manager_conference_done">완료</string>
+    <string name="wifi_call">VoWifi 통화</string>
 </resources>

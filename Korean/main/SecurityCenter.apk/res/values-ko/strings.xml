@@ -1579,9 +1579,8 @@
   <string name="notification_exit_power_save_mode_subtitle">배터리 %s 충전됨</string>
   <string name="notification_mask_summary">보호된 앱에 대한 알림 내용 표시 안함</string>
   <string name="notification_mask_title">알림 컨텐츠 숨기기</string>
-  <string name="notification_masked_item">알림 숨기기</string>
-  <string name="notification_masked_subtitle">앱 잠금에서 잠금 설정한 앱의 알림 숨기기</string>
-  <string name="notification_summary_cmcc_app_check">터치하여 세부사항 보기</string>
+  <string name="notification_masked_item">어떻게 알림 컨텐츠를 숨길 수 있나요?</string>
+  <string name="notification_masked_subtitle">앱 잠금을 통해 선택된 앱에 대한 알림 컨텐츠를 숨겨보세요</string>  <string name="notification_summary_cmcc_app_check">터치하여 세부사항 보기</string>
   <string name="notify_channel_mipush">보안관련 푸시 메시지</string>
   <string name="notify_channel_name_security">시스템</string>
   <string name="notify_channel_optimize">보안 알림</string>
@@ -2332,7 +2331,7 @@
   <string name="still_retain_btn">유지</string>
   <string name="stop_milink_connect">캐스팅 멈춤</string>
   <string name="suggest_app_tolock">제안</string>
-  <string name="suggest_app_tolock_masked">숨김</string>
+  <string name="suggest_app_tolock_masked">컨텐츠 숨김</string>
   <string name="suggest_app_tolock_unmasked">알림 보이기</string>
   <string name="suggest_scan_again">스캔을 완료하셔서 기기의 안전을 보장하십시오.</string>
   <string name="summary_app_lock_disable">앱 잠금으로 데이터 보호하기</string>
@@ -2814,4 +2813,10 @@
   <string name="privacy_notification_title_camera">%1s 앱이 백그라운드에서 카메라를 사용중입니다</string>
   <string name="privacy_notification_title_camera_mic">%1s 앱이 백그라운드에서 카메라와 마이크를 사용중입니다</string>
   <string name="privacy_notification_title_mic">%1s 앱이 백그라운드에서 마이크를 사용중입니다</string>
+  <string name="power_center_scan_item_title_5g">5G 연결</string>
+  <string name="power_dialog_super_save_msg_5g">초 절전모드는 가장 전력 소모가 심한 기능들을 끕니다. (예. 5G 연결) 그래서 기기의 성능이 낮아질 수 있습니다. 통화, 메시지, 네트워크 연결만이 영향을 받지 않습니다. 그래도 켜시겠습니까?</string>
+  <string name="power_optimize_disable_5g">5G 연결 제한</string>
+  <string name="power_save_ps_close_setting_5g">전력 소비 기능 제한(동기화, 5G 연결, GPS)</string>
+  <string name="privacyapp_number_masked_text">알림 컨텐츠 숨겨짐</string>
+  <string name="privacyapp_number_unmasked_text">알림 컨텐츠를 숨길 수 있습니다</string>
 </resources>
