@@ -84,7 +84,7 @@
   <string name="digital_clock">디지털</string>
   <string name="letter_space">문자 간격</string>
   <string name="line_space">줄 간격</string>
-  <string name="notification_anim_pulse">심장박동</string>
+  <string name="notification_anim_pulse">심장 박동</string>
   <string name="notification_anim_rhythm">리듬</string>
   <string name="notification_anim_star">별빛</string>
   <string name="notification_nothing">없음</string>
@@ -97,4 +97,21 @@
   <string name="time_style">스타일</string>
   <string name="time_style_layout">레이아웃</string>
   <string name="deep_space_planet_des">이 테마는 하루 동안 주변에서 일어나는 빛의 변화를 반영합니다. 일출과 일몰도 내 위치와 동기화됩니다.</string>
+  <string name="above_image">사진 위</string>
+  <string name="always_style">항상</string>
+  <string name="aod_dual_togother_12">aa hh:mm</string>
+  <string name="aod_mode_preview">미리보기</string>
+  <string name="aod_mode_style_title">더 많은 옵션</string>
+  <string name="aod_show_date_and_time">날짜와 시간 표시</string>
+  <string name="aod_show_style_title">항목 표시</string>
+  <string name="below_image">사진 아래</string>
+  <string name="character_counter_content_description">글자수 제한(%1$d/%2$d)</string>
+  <string name="custom_image">사용자 설정 이미지</string>
+  <string name="mtrl_chip_close_icon_content_description">%1$s 삭제</string>
+  <string name="password_toggle_content_description">비밀번호 표시</string>
+  <string name="scheduled_style">스케쥴됨</string>
+  <string name="shownone_arround_image">없음</string>
+  <string name="summary">"전원 절약을 위해, 아래의 경우에는 내용을 표시하지 않습니다:1. 기기가 오랫동안 어둠 속에 있을 때 2. 방해금지모드가 켜져있을 때."</string>
+  <string name="temporary_style">탭한 후 10초 동안</string>
+  <string name="time_location">시계 위치</string>
 </resources>
