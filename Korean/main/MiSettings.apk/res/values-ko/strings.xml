@@ -217,5 +217,5 @@
      <string name="trend_from_yesterday_more_simple">어제보다 %1$s 높음</string>
      <string name="unlock_times_per_day">평균 일일 잠금 해제 :</string>
      <string name="unlock_times_per_hour">평균 시간별 잠금 해제 :</string>
-     <string name="usage_state_focus_mode_experience_warning_message">"포커스 모드는 카메라 및 긴급 통화 사용시에만 허용됩니다.  포커스 모드를 조기에 끌 수 없습니다."</string>
+     <string name="usage_state_focus_mode_experience_warning_message">"포커스 모드는 카메라 실행 도중이거나 긴급 전화를 사용 중일때만 사용 가능합니다. 해당 기능들을 사용중이지 않을 때는 이 기능을 실행할 수 없습니다."</string>
 </resources>
