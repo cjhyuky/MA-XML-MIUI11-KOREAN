@@ -7,9 +7,9 @@
         <item quantity="other">%d분은 마음챙김과 집중을 향한 큰 걸음입니다!</item>
     </plurals>
     <plurals name="unlock_times">
-        <item amount="other">%.2f번</item>
-        <item amount="zero">%.2f번</item>
-        <item amount="one">%.2f번</item>
+        <item amount="other">%.2f회</item>
+        <item amount="zero">%.2f회</item>
+        <item amount="one">%.2f회</item>
     </plurals>
     <plurals name="last_several_days">
         <item quantity="other">%d일</item>
@@ -22,5 +22,56 @@
     </plurals>
     <plurals name="trend_from_last_several_day_more">
         <item quantity="other">오늘의 화면켜짐 시간은 %d-일 평균보다 %2$s 많습니다</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" 시간"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" 분"</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">%d회 잠금해제</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">%d회 잠금해제</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">%d개 알림 수신</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">%d개 알림 수신</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d 시간</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d 시간</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" 시간"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d 분</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" 분"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">알림 %d개</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d회</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">주말: %d 시간</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">주말: %d 분</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">주중: %d 시간</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">주중: %d 시간</item>
     </plurals>
 </resources>
