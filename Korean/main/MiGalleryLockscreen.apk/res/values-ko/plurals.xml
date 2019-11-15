@@ -36,4 +36,7 @@
     <item quantity="other">%d개의 이미지</item>
     <item quantity="one">%d개의 이미지</item>
   </plurals>
+    <plurals name="article_num">
+        <item quantity="other">%d개 기사</item>
+    </plurals>
 </resources>
