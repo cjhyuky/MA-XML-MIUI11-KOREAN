@@ -18,10 +18,10 @@
         <item quantity="other">오늘의 화면켜짐 시간은 %d-일 평균과 같습니다</item>
     </plurals>
     <plurals name="trend_from_last_several_day_less">
-        <item quantity="other">오늘의 화면켜짐 시간은 %d-일 평균보다 %2$s 적습니다</item>
+        <item quantity="other">오늘의 화면켜짐 시간은 %1$d-일 평균보다 %2$s 적습니다</item>
     </plurals>
     <plurals name="trend_from_last_several_day_more">
-        <item quantity="other">오늘의 화면켜짐 시간은 %d-일 평균보다 %2$s 많습니다</item>
+        <item quantity="other">오늘의 화면켜짐 시간은 %1$d-일 평균보다 %2$s 많습니다</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" 시간"</item>
