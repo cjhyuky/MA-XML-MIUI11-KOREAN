@@ -7,9 +7,9 @@
         <item quantity="other">%d분은 마음챙김과 집중을 향한 큰 걸음입니다!</item>
     </plurals>
     <plurals name="unlock_times">
-        <item amount="other">%.2f회</item>
-        <item amount="zero">%.2f회</item>
-        <item amount="one">%.2f회</item>
+        <item quantity="other">%.2f회</item>
+        <item quantity="zero">%.2f회</item>
+        <item quantity="one">%.2f회</item>
     </plurals>
     <plurals name="last_several_days">
         <item quantity="other">%d일</item>
