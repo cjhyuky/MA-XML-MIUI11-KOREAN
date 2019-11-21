@@ -229,9 +229,6 @@
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d일 뒤 네트워크 속도 향상 세션이 끝납니다. 네트워크 속도 문제를 피하기 위해 세션을 갱신하십시오.</item>
     </plurals>
-    <plurals name="fw_blocked_count_call_one">
-        <item quantity="other">%2$d를 포함한 그룹에서 %1$s로 걸려온 전화</item>
-    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d명이 음악을 듣는 중입니다.</item>
     </plurals>
