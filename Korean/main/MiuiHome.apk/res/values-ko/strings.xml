@@ -455,4 +455,5 @@
     <string name="manager_group_settings">앱 카테고리 관리</string>
     <string name="reset_cate_tip_content">계속 하시면 기본 앱 그룹으로 복원됩니다. 그래도 계속하시겠습니까?</string>
     <string name="reset_cate_tip_title">기본 그룹 복원</string>
+    <string name="edit">편집</string>
 </resources>
