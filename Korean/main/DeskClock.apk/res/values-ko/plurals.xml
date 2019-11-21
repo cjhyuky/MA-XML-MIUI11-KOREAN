@@ -60,4 +60,16 @@
     <plurals name="snooze_duration_min">
         <item quantity="other">매 %1$s분마다</item>
     </plurals>
+     <plurals name="sleep_duration_hour">
+         <item quantity="other">%1s 시간</item>
+     </plurals>
+     <plurals name="sleep_duration_hour_avg">
+         <item quantity="other">%1s 시간</item>
+     </plurals>
+     <plurals name="sleep_duration_min">
+         <item quantity="other">%1$s 분</item>
+     </plurals>
+     <plurals name="sleep_duration_min_avg">
+         <item quantity="other">%1$s 분</item>
+     </plurals>
 </resources>
