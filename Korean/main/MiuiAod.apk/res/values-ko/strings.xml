@@ -110,7 +110,10 @@
   <string name="password_toggle_content_description">비밀번호 표시</string>
   <string name="scheduled_style">스케쥴됨</string>
   <string name="shownone_arround_image">없음</string>
-  <string name="summary">"전원 절약을 위해, 아래의 경우에는 내용을 표시하지 않습니다:1. 기기가 오랫동안 어둠 속에 있을 때 2. 방해금지모드가 켜져있을 때."</string>
+  <string name="summary">"전력 소비를 줄이기 위해 기기가 오랫동안 어두운 곳에있을 때는 항목이 표시되지 않습니다."</string>
   <string name="temporary_style">탭한 후 10초 동안</string>
   <string name="time_location">시계 위치</string>
+     <string name="disable_aod_in_power_save_mode">배터리 절약모드시 AOD 끄기</string>
+     <string name="disable_aod_in_power_save_mode_summary">"배터리 절약을 위해 아무것도 표시하지 않습니다"</string>
+     <string name="photo_editor_saving">저장중…</string>
 </resources>
