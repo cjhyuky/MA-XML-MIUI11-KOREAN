@@ -354,4 +354,10 @@
     <plurals name="menu_text_app_manager_ex">
         <item quantity="other">%d개의 업데이트가 가능합니다</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s 시간</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s 분</item>
+    </plurals>    
 </resources>
