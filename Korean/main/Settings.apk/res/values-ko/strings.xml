@@ -9120,4 +9120,9 @@
     <string name="dual_wifi_switching_summary">듀얼 Wi-Fi에는 다른 주파수 대역이 필요하며 기본 Wi-Fi의 주파수 대역을 변경하려면 보조 Wi-Fi의 연결이 끊어집니다.</string>
     <string name="multi_network_acceleration_app_settings">멀티 네트워크 가속 애플리케이션 관리</string>
     <string name="wifi_multi_network_acceleration">지능형 다중 네트워크 가속</string>
+    <string name="mtp_connection_failed">"연결된 컴퓨터로 파일을 전송할 수 없습니다.  문제 해결을 시도하십시오."</string>
+    <string name="mtp_connection_failed_title">USB 연결</string>
+    <string name="mtp_connection_not_remind">"다시 보지 않기"</string>
+    <string name="mtp_solution_button_cancel">확인</string>
+    <string name="mtp_solution_button_ok">문제 해결</string>
 </resources>

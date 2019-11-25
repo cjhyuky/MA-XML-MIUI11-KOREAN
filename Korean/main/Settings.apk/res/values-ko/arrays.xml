@@ -1260,13 +1260,6 @@
     <item>없음</item>
     <item>구글 어시스턴트 활성화</item>
   </string-array>
-  <string-array name="bt_hci_snoop_log_entries">
-    <item>사용 안함</item>
-    <item>필터링 사용</item>
-    <item>헤더 필터링 사용</item>
-    <item>미디어 패킷 필터링 사용</item>
-    <item>사용</item>
-  </string-array>
   <string-array name="cdma_system_select_choices">
     <item>집 전용</item>
     <item>자동</item>
@@ -1288,5 +1281,12 @@
         <item>자동(추천)</item>
         <item>채도 높음</item>
         <item>원래 색상</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>사용 안함</item>
+        <item>필터링 사용</item>
+        <item>사용</item>
+        <item>\"헤더 필터링\" 사용</item>
+        <item>\"미디어 패킷 필터링\" 사용</item>
     </string-array>
 </resources>
