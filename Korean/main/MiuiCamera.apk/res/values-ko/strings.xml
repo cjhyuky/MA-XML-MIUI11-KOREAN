@@ -1225,4 +1225,13 @@
   <string name="vv_use_hint_text_title">브이로그</string>
   <string name="vv_mode_menu_item_name">브이로그</string>
   <string name="pref_popup_camera_title">팝업 카메라</string>
+    <string name="document_blackwhite">흑백</string>
+    <string name="document_blur_warn">흐림 텍스트</string>
+    <string name="document_origin">원본 이미지</string>
+    <string name="document_strengthen">강화</string>
+    <string name="pref_document_mode">문서 모드</string>
+    <string name="pref_camera_first_tag_tips">마킹 완료</string>
+    <string name="pref_camera_video_tag">비디오 마킹 허용</string>
+    <string name="pref_camera_video_tag_description">재생시 마킹된 순간들로 돌아가려면 촬영하는 동안 \"마크\"를 탭하세요</string>
+    <string name="video_tag_flag_title">마크</string>
 </resources>
