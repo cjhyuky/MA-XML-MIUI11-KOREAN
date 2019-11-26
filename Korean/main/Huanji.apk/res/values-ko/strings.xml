@@ -15,4 +15,78 @@
     <string name="dialog_rating_title">Mi Mover 평가하기</string>
     <string name="trans_detail_item_app_skip_data">"이 앱을 이동할 수 없습니다"</string>
     <string name="need_more_memory_summary">"써드파티 앱 데이터를 전송하기 전에 압축해야합니다. Mi Mover는 압축된 패키지를 만들려면 %1$s의 추가저장공간이 필요합니다."</string>
+    <string name="account_or_password_incorrect">잘못된 계정 ID 또는 비밀번호</string>
+    <string name="cannot_use_mi_huanji_button">확인</string>
+    <string name="cannot_use_mi_huanji_summary">MIUI가 이제 항목을 백업하는 것 같습니다. Mi Mover가 전송을 시작하도록 진행중인 백업을 중지하거나 기기를 재부팅합니다.</string>
+    <string name="cannot_use_mi_huanji_title">"현재 전송 불가"</string>
+    <string name="connect_icloud_fail">"아이클라우드에 연결할 수 없습니다"</string>
+    <string name="connect_icloud_fail_tips">아이클라우드 계정이 활성화되어 있는지 확인하십시오. 그렇지 않은 경우 icloud.com으로 이동하여 지침에 따라 계정을 활성화하십시오.</string>
+    <string name="connection_tips_activity_label">문제 해결</string>
+    <string name="connection_tips_other_message">"1. 기존 장치에 최신 버전의 Mi Mover가 설치되어 있는지 확인하십시오. GetApps에서 최신 버전의 Mi Mover를 다운로드하거나 다음 링크를 사용할 수 있습니다 : %1$s.
+2. 새 장치의 핫스팟이 Mi Mover에 나타나지 않으면 Wi-Fi 설정을 열고 여기에 표시되는지 확인하십시오. 연결되어 있다면 탭하지 마십시오.
+3. Mi Mover로 돌아가서 핫스팟 이름을 누릅니다."</string>
+    <string name="connection_tips_other_title">이전 기기가 타사 안드로이드 전화 인 경우:</string>
+    <string name="connection_tips_owner_message">MI Mover는 MIUI 11을 실행하는 모든 장치에 사전 설치되어 있습니다. 이전 MIUI 버전이있는 경우 GetApps에서 최신 버전의 Mi Mover를 다운로드하거나 다음 링크를 사용할 수 있습니다: %1$s.</string>
+    <string name="connection_tips_owner_title">이전 기기가 Mi전화인 경우:</string>
+    <string name="icloud_signin_fail">"로그인 실패"</string>
+    <string name="icloud_signin_fail_message">보안상의 이유로 Apple ID가 잠겼습니다. iforgot.apple.com으로 이동하여 지침을 따르십시오.</string>
+    <string name="install_complete_count_down_time">설치 완료. 전송 시작(%1$d)</string>
+    <string name="new_trans_intro_desc_8">이전 장치의 위챗 기록은 전송 중에 새 장치의 위챗 기록을 덮어 씁니다.</string>
+    <string name="new_trans_intro_question_8">8. 새 기기에서 위챗 기록이 사라진 이유는 무엇인가요?</string>
+    <string name="new_trans_intro_desc_new_click">다운로드</string>
+    <string name="send_verification_code_fail">"확인 코드를 보낼 수 없습니다"</string>
+    <string name="send_verification_code_fail_tips">"Apple기기에서 이 계정으로 로그인했는지 확인하십시오. 그렇지 않으면 코드를 받을 수 없습니다."</string>
+    <string name="settings_powerkeeper">스텝 카운터 데이터</string>
+    <string name="transfer_multi_connect_summary">보안상의 이유로 전송이 중단되었습니다. \"다시 연결\"을 탭하여 계속 진행할 수 있습니다.</string>
+    <string name="transfer_multi_connect_title">여러 장치가 이 핫스팟에 연결된 것 같습니다</string>
+    <string name="dialog_request_network_message_extra">"이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이 앱을 제거하거나 앱에서 권한을 제한하도록 선택할 수 있습니다. 그런 경우에 설정하십시오."</string>
+    <string name="guest_install_app_hint_ensure">다운로드</string>
+    <string name="guest_install_app_hint_summary">"새로운 버전의 Mi Mover는 이 장치에 설치된 버전과 호환되지 않습니다. 새 버전을 다운로드하여 설치하십시오."</string>
+    <string name="guest_install_app_hint_title">새로운 버전의 Mi Mover 다운로드</string>
+    <string name="host_boot_installation_button">다음</string>
+    <string name="host_boot_installation_content">"1. 기존 장치의 설정으로 이동하십시오.
+2. 검색 창에 \"Mi Mover\"를 입력하십시오.
+3. 검색 결과에서 \"Mi Mover\"를 탭하십시오."</string>
+    <string name="host_boot_installation_dialog_message">"이전 장치의 Mi Mover 버전이 여기에 설치된 버전과 호환되지 않습니다. 이전 장치의 Mi Mover를 업데이트하십시오."</string>
+    <string name="host_boot_installation_first_title">이전 장치에서 Mi Mover 열기</string>
+    <string name="host_boot_installation_message">"이전 기기에 표시되는 페이지를 선택하십시오. 이전 버전의 Mi Mover를 사용하는 경우 업데이트 방법을 알려드립니다."</string>
+    <string name="host_boot_installation_second_title">표시되는 페이지를 선택하십시오</string>
+    <string name="host_boot_installation_tips">"Mi Mover를 찾을 수 없습니까? 다운로드하려면 누르십시오."</string>
+    <string name="main_chooser_item_android_others">다른 안드로이드 휴대전화에서 가져오기</string>
+    <string name="new_app_name">새 버전</string>
+    <string name="old_app_name">이전 버전</string>
+    <string name="dialog_request_network_message">"Mi Mover에 오신 것을 환영합니다! 이 앱을 사용하여 기존 장치에서 새 장치로 데이터를 전송할 수 있습니다.
+당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다. Mi Mover는 인터넷에 연결해야하며 개인정보를 수집하려면 Wi-Fi 켜기/끄기, 연락처 액세스 및 전송, 통화 기록, SMS, MMS, 통화 녹음 및 오디오 녹음과 같은 권한이 필요합니다."</string>
+    <string name="guest_hint_connect_new_device">연결할 새 장치를 탭하십시오.</string>
+    <string name="hsa_tip_message">"인증 코드를 받을 수 없다면 Apple기기에서 아이클라우드에 로그인했는지 확인하십시오."</string>
+    <string name="icloud_verify_tips">iOS 기기에서 허용을 탭하고 여기에 표시되는 코드를 입력하십시오.</string>
+    <string name="install_app_link_text">"이전 장치를 핫스팟에 연결할 수 없는 이유는 무엇입니까?"</string>
+    <string name="main_chooser_item_android_mi">샤오미 폰에서 가져오기</string>
+    <string name="main_chooser_item_ios">아이폰에서 가져오기</string>
+    <string name="need_more_memory_summary">"저장 공간이 부족합니다. Mi Mover는 전송하기 전에 압축된 패키지를 만들려면 %1$s의 추가 저장공간이 필요합니다.
+1. 중요한 품목만 옮기십시오.
+2. 데이터가 많은 앱을 선택하지 마십시오.
+3. 클리너를 사용하여 저장공간을 확보하십시오."</string>
+    <string name="new_trans_intro_desc_2">"새 버전의 Mi Mover에는 비밀번호를 입력할 필요가 없습니다. 기존 기기에서 Mi Mover를 열고 \"나는 발신자입니다\"를 탭한 다음 연결할 핫스팟."</string>
+    <string name="new_trans_intro_desc_3">Mi Mover는 새 장치로 전송하기 전에 기존 장치에서 전송 패키지를 만들려면 저장공간이 필요합니다. 계속할 수 있도록 저장공간을 확보하세요.</string>
+    <string name="new_trans_intro_desc_4">일부 앱이 성공적으로 전송되지 못하게 하는 장치, 시스템 및 앱 버전 호환성 문제가 있을 수 있습니다.</string>
+    <string name="new_trans_intro_desc_5">"일부 앱(예:금융 서비스 및 결제 도구)은 보안상의 이유로 비밀번호 전송을 허용하지 않습니다."</string>
+    <string name="new_trans_intro_desc_6">새로운 Mi전화에 필요한 권한이 없을 수 있습니다.</string>
+    <string name="new_trans_intro_desc_7">Mi Mover는 중단한 곳에서 이어서 작업할 수 있습니다. 그러나 기기 호환성 문제로 인해 중단된 전송을 재개할 수 없는 경우 다시 시작해야 할 수 있습니다.</string>
+    <string name="new_trans_intro_desc_new">1. 새 기기의 Mi Mover가 최신인지 확인하십시오. GetApps에서 최신 버전의 Mi Mover를 다운로드하거나 %1$s 링크를 사용할 수 있습니다.</string>
+    <string name="new_trans_intro_desc_old">"2. 핫스팟이 여전히 Mi Mover에 나타나지 않으면 Wi-Fi 설정을 열고 해당 위치가 표시되는지 확인하십시오. 그렇다면 Mi Mover로 돌아가서 핫스팟의 이름을 탭하십시오."</string>
+    <string name="new_trans_intro_question_1">"1. 이전 기기에서 새 기기의 핫스팟을 볼 수 없는 이유는 무엇입니까?"</string>
+    <string name="new_trans_intro_question_2">2. 핫스팟의 비밀번호는 무엇입니까?</string>
+    <string name="new_trans_intro_question_3">"3. 이전 장치에 저장 공간이 충분하지 않다고 말하는 이유는 무엇입니까?"</string>
+    <string name="new_trans_intro_question_4">"4. 왜 모든 앱이 성공적으로 전송되지 않습니까?"</string>
+    <string name="new_trans_intro_question_5">"5. 일부 타사 앱 계정의 비밀번호가 왜 성공적으로 전송되지 않습니까?"</string>
+    <string name="new_trans_intro_question_6">"6. 왜 타사 데이터를 앱 데이터로 전송할 수 없습니까?"</string>
+    <string name="new_trans_intro_question_7">7. 전송 도중에 Mi Mover를 떠나면 다음에 다시 시작해야합니까?</string>
+    <string name="new_wait_link_first">"1. 기존 기기에서 Mi Mover를 엽니다.
+2. \"나는 발신자입니다\"를 누르고 잠시 기다립니다.
+3. 기존 장치에서 다음 핫스팟을 선택하십시오."</string>
+    <string name="searching_for_new_device">근처의 기기 검색중…</string>
+    <string name="switching_to_5g">5GHz 네트워크로 전환중…</string>
+    <string name="trans_install_guide_old_content_first">"Mi Mover는 MIUI 11을 실행하는 모든 장치에 사전 설치되어 있습니다.
+이전 기기에 Mi Mover가 설치되어 있지 않은 경우 QR 코드를 스캔하여 다운로드할 수 있습니다."</string>
 </resources>
