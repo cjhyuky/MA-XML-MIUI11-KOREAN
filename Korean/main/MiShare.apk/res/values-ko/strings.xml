@@ -112,4 +112,7 @@
   <string name="wait_remote_receive_tips">기다리는 중…</string>
   <string name="wifi_is_not_enabled">먼저 Wi-Fi 켜기</string>
   <string name="xiaomi_phone">샤오미</string>
+  <string name="error_receive_file_service_disabled">받는 전송 취소됨</string>
+  <string name="error_send_file_service_disabled">보내는 전송 취소됨</string>
+  <string name="send_files_to_remote_success_title">전송 완료</string>
 </resources>

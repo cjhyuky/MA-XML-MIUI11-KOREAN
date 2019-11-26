@@ -2845,4 +2845,9 @@
     <string name="notification_low_battery_title">배터리 %s 이하 남음</string>
     <string name="open_extreme_power_save_mode_title">초절전모드 켜기</string>
     <string name="save_mode_btn_ok">확인</string>
+    <string name="app_running_tip_dialog_negative">취소</string>
+    <string name="app_running_tip_dialog_positive">확인</string>
+    <string name="app_running_tip_dialog_text">백그라운드에서 실행되지 않도록 %1$s 앱을 종료하십시오. 이렇게하면 기기 속도가 빨라지고 전력소비가 줄어듭니다.</string>
+    <string name="app_running_tip_dialog_title">앱 종료</string>
+    <string name="app_running_tip_uninstall">이 앱 제거</string>
 </resources>
