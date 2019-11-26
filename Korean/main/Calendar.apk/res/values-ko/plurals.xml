@@ -132,4 +132,7 @@
     <plurals name="weekly">
         <item quantity="other">%2$s의 매 %1$d 주마다</item>
     </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">%d개의 추가 일정</item>
+    </plurals>
 </resources>
