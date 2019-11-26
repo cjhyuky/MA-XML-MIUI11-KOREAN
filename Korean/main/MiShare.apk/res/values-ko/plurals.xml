@@ -45,4 +45,10 @@
   <plurals name="success_receive_file_images">
     <item quantity="other">%1$s님으로부터 %2$d개 이미지를 받았습니다. 보시려면 탭하세요.</item>
   </plurals>
+  <plurals name="send_file_success_detail_files_content">
+    <item quantity="other">%2$s 위치로 %1$d개 파일 전송됨</item>
+  </plurals>
+  <plurals name="send_file_success_detail_images_content">
+    <item quantity="other">%2$s 위치로 %1$d개 사진 전송됨</item>
+  </plurals>
 </resources>
