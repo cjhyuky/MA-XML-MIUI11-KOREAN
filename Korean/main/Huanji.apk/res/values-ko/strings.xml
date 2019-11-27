@@ -14,7 +14,6 @@
     <string name="dialog_rating_desc_perfect">감사합니다! GetApps에서도 Mi Mover를 평가하시겠습니까?</string>
     <string name="dialog_rating_title">Mi Mover 평가하기</string>
     <string name="trans_detail_item_app_skip_data">"이 앱을 이동할 수 없습니다"</string>
-    <string name="need_more_memory_summary">"써드파티 앱 데이터를 전송하기 전에 압축해야합니다. Mi Mover는 압축된 패키지를 만들려면 %1$s의 추가저장공간이 필요합니다."</string>
     <string name="account_or_password_incorrect">잘못된 계정 ID 또는 비밀번호</string>
     <string name="cannot_use_mi_huanji_button">확인</string>
     <string name="cannot_use_mi_huanji_summary">MIUI가 이제 항목을 백업하는 것 같습니다. Mi Mover가 전송을 시작하도록 진행중인 백업을 중지하거나 기기를 재부팅합니다.</string>
