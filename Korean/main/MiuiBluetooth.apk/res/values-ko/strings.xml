@@ -70,4 +70,5 @@
     <string name="notify_fast_connect_device_title">%1$s 헤드셋 찾기</string>
     <string name="fast_connect_device_headset">배터리</string>
     <string name="fast_connect_nzbt_reset">전원을 끄는 동안 상단 버튼을 %1$s초 동안 누르고 있으세요.</string>
+    <string name="fast_connect_wbs_reset">전원을 끄는 동안 상단 버튼을 %1$s초 동안 누르고 있으세요.</string>
 </resources>
