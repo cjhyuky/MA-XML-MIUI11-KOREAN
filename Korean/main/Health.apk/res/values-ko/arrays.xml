@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_prompt_label">
+        <item>합리적임</item>
+        <item>오래</item>
+        <item>너무 오래</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>움직일 시간입니다!</item>
+        <item>자세히</item>
+        <item>물을 마시고 걸으세요.</item>
+        <item>자세히</item>
+        <item>계단을 오르세요</item>
+        <item>자세히</item>
+        <item>"오래 앉아있지 마세요"</item>
+        <item>자세히</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1시간</item>
+        <item>2시간</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>일</item>
+        <item>주</item>
+        <item>월</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>제한 없음</item>
+        <item>백그라운드 활동 제한</item>
+        <item>10분 뒤 멈춤</item>
+        <item>사용하지 않음</item>
+    </string-array>
+    <string-array name="splash_loading">
+        <item>운동 목표 계산중�</item>
+        <item>운동 목표: %1$d 걸음</item>
+        <item>오늘 %1$d 걸음 걸으셨습니다</item>
+        <item>수면 목표 계산중�</item>
+        <item>수면 목표: %1$d 시간</item>
+        <item>현재는 수면 데이터가 없습니다</item>
+        <item>Mi 건강 앱 열기</item>
+    </string-array>
+    <string-array name="week">
+        <item>일요일</item>
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>금요일</item>
+        <item>토요일</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>일</item>
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" 그램"</item>
+        <item>" 킬로그램"</item>
+        <item>" 톤"</item>
+        <item>" 냥"</item>
+        <item>" 근"</item>
+        <item>" 파운드"</item>
+    </string-array>
+</resources>
