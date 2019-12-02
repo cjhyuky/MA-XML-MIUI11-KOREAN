@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="daily_suggestions_steps">
+        <item quantity="other">매일 적어도 %1$d 걸음 이상을 걸으세요</item>
+    </plurals>
+    <plurals name="day_index">
+        <item quantity="other">%1$d 일</item>
+    </plurals>
+    <plurals name="dialog_choose_items">
+        <item quantity="other">%1$d개 항목 선택됨</item>
+    </plurals>
+    <plurals name="dialog_delete_records_confirm">
+        <item quantity="other">%1$d개 기록을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">목표: %1$d 걸음</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" 걸음"</item>
+    </plurals>
+    <plurals name="goal_unit_with_number">
+        <item quantity="other">%1$d 걸음</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d 시간</item>
+    </plurals>
+    <plurals name="last_measure_date_interval">
+        <item quantity="other">%1$d 일 전 마지막 측정</item>
+    </plurals>
+    <plurals name="last_measure_day_body_weight">
+        <item quantity="other">%1$d 일 전 마지막 측정</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">%1$d-일 기간</item>
+    </plurals>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">%1$d 일</item>
+    </plurals>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">%1$d 일(예상)</item>
+    </plurals>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">%1$d 일 뒤 다음 월경</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%1$d 분</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d개 새로운 알림</item>
+    </plurals>
+    <plurals name="sleep_goal_by_hour">
+        <item quantity="other">목표: %1$d 시간</item>
+    </plurals>
+    <plurals name="sleep_management_exp_hours">
+        <item quantity="other">"현재 설정은 귀하에게 하루 %1$d 시간의 수면을 보장하지는 않습니다. 더 많이 필요합니다."</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d 걸음</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">"%1$d 일 동안 기록하지 않으셨습니다. 기간을 기록하여 예상 기간의 정확도를 높이세요."</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">이번 기간은 총 %1$d 일 지속되고 있습니다</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">이번 월경 주기의 %1$d 일차</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">%1$d-일 주기</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d 회</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">%1$d 일차</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">다음 기간까지 %1$d 일</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">예상 기간 날짜 %1$d</item>
+    </plurals>
+    <plurals name="title_today_exercise_steps">
+        <item quantity="other">오늘 %1$d 걸음</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" 일"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d 세</item>
+    </plurals>
+</resources>
