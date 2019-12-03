@@ -2558,4 +2558,11 @@
     <string name="wifi_call_welcome_settings">Wi-Fi 통화</string>
     <string name="last_sim_callback_summary">통화 기록에서 전화를 걸 때 이 연락처와 함께 이전 통화 중에 사용된 SIM 카드를 사용합니다</string>
     <string name="last_sim_callback_title">SIM 카드 설정 기억하기</string>
+    <string name="advanced_mobile_settings">고급 설정</string>
+    <string name="main_netcheck_summary">네트워킹 문제를 위한 테스트 연결</string>
+    <string name="mobile_advanced_dns_server_title">DNS 서버 주소</string>
+    <string name="mobile_advanced_ip_address_title">IP 주소</string>
+    <string name="mobile_connection_management">모바일 네트워크 연결 관리</string>
+    <string name="mobile_property">모바일 네트워크 속성</string>
+    <string name="netcheck_title">모바일 네트워크 진단</string>
 </resources>
