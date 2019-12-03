@@ -124,7 +124,6 @@
     <string name="edit_basic_info_desc">기본 정보</string>
     <string name="edit_sleep_record_button">편집</string>
     <string name="enter_mi_health">Mi 건강 앱 열기</string>
-    <string name="equivalent_exercise">?%1$s km 걸음 (%2$s kcal)</string>
     <string name="exercise">운동</string>
     <string name="exercise_goal_accomplished">목표 도달함</string>
     <string name="exercise_goal_lack_exercise">운동이 충분하지 않습니다</string>
