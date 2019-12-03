@@ -563,4 +563,5 @@ ID:%s
     <string name="two_factor_auth_summary">"새 장치 또는 새 위치에서 로그인을 시도하면 연결된 다른 장치에서 이 메시지가 표시됩니다. 이러한 로그인 시도가 있는지 확인해야 합니다."</string>
     <string name="pwd_width_phone_number_or_mail_num">"비밀번호는 전화번호, 이메일 또는 Mi 계정 ID를 포함 할 수 없습니다"</string>
     <string name="risky_pwd_not_allow">"새 비밀번호가 안전하지 않습니다. 다른 비밀번호를 설정하십시오."</string>
+    <string name="passport_can_not_receive_verification_code">"인증 코드를 받지 못하시나요?"</string>
 </resources>

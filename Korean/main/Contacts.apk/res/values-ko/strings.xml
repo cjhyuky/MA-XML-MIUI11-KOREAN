@@ -1365,4 +1365,5 @@
     <string name="contact_detail_calllog_correct_yellow_page">수집 또는 보고</string>
     <string name="yellowpage_address_tag">주소</string>
     <string name="yellowpage_provider_label">데이터 제공: </string>
+    <string name="cloud_upgrade_recommend">"클라우드 저장공간 부족으로 연락처 동기화를 할 수 없습니다. 클라우드 저장공간을 업그레이드하세요."</string>
 </resources>
