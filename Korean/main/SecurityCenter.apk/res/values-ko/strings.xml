@@ -2850,4 +2850,7 @@
     <string name="app_running_tip_dialog_text">백그라운드에서 실행되지 않도록 %1$s 앱을 종료하십시오. 이렇게하면 기기 속도가 빨라지고 전력소비가 줄어듭니다.</string>
     <string name="app_running_tip_dialog_title">앱 종료</string>
     <string name="app_running_tip_uninstall">이 앱 제거</string>
+    <string name="power_center_list_item_haptic_feedback">햅틱 피드백 끄기</string>
+    <string name="power_center_list_item_wake_notification">"알림시 화면 켜지 않기"</string>
+    <string name="power_optimize_disable_gps_high_accuracy">높은 정확성 모드 끄기</string>
 </resources>
