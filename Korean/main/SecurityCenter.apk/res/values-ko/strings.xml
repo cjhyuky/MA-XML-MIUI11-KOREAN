@@ -1862,7 +1862,7 @@
   <string name="power_save_on_time_end_time_summary_na">종료시간</string>
   <string name="power_save_on_time_start_time_summary_na">시작시간</string>
   <string name="power_save_ps_clean">화면을 끌때마다 캐시 삭제</string>
-  <string name="power_save_ps_close_setting">배터리 절약을 위해 백그라운드 서비스 끄기 (동기화, GPS)</string>
+  <string name="power_save_ps_close_setting">배터리 절약을 위해 전력 소비가 높은 서비스 및 기능 끄기(동기화, GPS, 햅틱 피드백, \"폰을 들어 켜기\", \"두 번 눌러 화면을 켜거나 끄기\", \"화면이 꺼져있을 때 지문인식 아이콘 표시\")</string>
   <string name="power_save_ps_freeze">백그라운드에 고정</string>
   <string name="power_save_ps_limit">시스템앱 활동 제한</string>
   <string name="power_save_started_summary_text">배터리 절약 기능이 켜져 있습니다. 앱의 백그라운드 활동을 줄이고 동기화를 중지하며 시스템 애니메이션을 최소화합니다.</string>
@@ -2816,7 +2816,7 @@
   <string name="power_center_scan_item_title_5g">5G 연결</string>
   <string name="power_dialog_super_save_msg_5g">초 절전모드는 가장 전력 소모가 심한 기능들을 끕니다. (예. 5G 연결) 그래서 기기의 성능이 낮아질 수 있습니다. 통화, 메시지, 네트워크 연결만이 영향을 받지 않습니다. 그래도 켜시겠습니까?</string>
   <string name="power_optimize_disable_5g">5G 연결 제한</string>
-  <string name="power_save_ps_close_setting_5g">전력 소비 기능 제한(동기화, 5G 연결, GPS)</string>
+  <string name="power_save_ps_close_setting_5g">배터리 절약을 위해 전력 소비가 높은 서비스 및 기능 끄기(동기화, 5G 네트워크 연결, GPS, 햅틱 피드백, \"폰을 들어 켜기\", \"두 번 눌러 화면 깨우거나 끄기\", \"화면이 꺼져있을 때 지문인식 아이콘 표시\")</string>
   <string name="privacyapp_number_masked_text">알림 컨텐츠 숨겨짐</string>
   <string name="privacyapp_number_unmasked_text">알림 컨텐츠를 숨길 수 있습니다</string>
     <string name="battery_can_use_time">%s 남음</string>
@@ -2853,4 +2853,10 @@
     <string name="power_center_list_item_haptic_feedback">햅틱 피드백 끄기</string>
     <string name="power_center_list_item_wake_notification">"알림시 화면 켜지 않기"</string>
     <string name="power_optimize_disable_gps_high_accuracy">높은 정확성 모드 끄기</string>
+  <string name="power_center_dialog_msg_title">%1$s 추가시간을 얻도록 설정하십시오. 배터리를 절약하기 위해 다음 작업이 수행됩니다:</string>
+  <string name="power_save_mode_close_notification_screenon_summary">배터리 세이버가 켜져있을 때 작동합니다</string>
+  <string name="power_save_mode_close_notification_screenon_title">"알림 수신시 화면 깨우지 않기"</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_summary">배터리 세이버가 켜져있을 때 작동합니다</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_title">"음성으로 Mi AI 부르지 않기"</string>
+  <string name="power_save_mode_other_optimization">추가 최적화</string>
 </resources>
