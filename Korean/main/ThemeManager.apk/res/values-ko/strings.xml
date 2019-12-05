@@ -665,9 +665,9 @@
     <string name="dynamic_video_wallpaper">24시간 배경 화면</string>
     <string name="find_more_font">더 찾기</string>
     <string name="float_wallpaper_is_here">투명한 배경 화면</string>
-    <string name="incall_show_apply">발신전화의 프로필 비디오</string>
+    <string name="incall_show_apply">프로필 비디오로 설정</string>
     <string name="incall_show_apply_fail">"설정할 수 없습니다"</string>
-    <string name="incall_show_apply_success">설정 완료</string>
+    <string name="incall_show_apply_success">적용 완료</string>
     <string name="incall_show_apply_success_without_ringtone">"발신 전화의 프로필 비디오를 성공적으로 설정합니다.
 이 비디오에는 소리가 들리지 않습니다. 재생하는 동안 다른 사람이 자신의 벨소리를 듣게됩니다."</string>
     <string name="incall_show_find_more">더 찾기</string>
@@ -840,4 +840,6 @@
     <string name="recommend_trigger">개인 맞춤 추천</string>
     <string name="recommend_trigger_summary">기능을 켜시면 귀하에게 잘 어울릴만한 테마를 추천해드립니다</string>
     <string name="update_flag">업데이트</string>
+    <string name="de_preview">미리보기</string>
+    <string name="wallpaper_set_as_incall_show">영상 프로필로 설정</string>
 </resources>
