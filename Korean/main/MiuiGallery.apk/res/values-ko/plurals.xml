@@ -243,4 +243,7 @@
 	<plurals name="delete_third_party_burst_photo">
         <item quantity="other">이 기기에서 %d개의 버스트샷을 삭제하시겠습니까?</item>
     </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d 시간</item>
+    </plurals>
 </resources>
