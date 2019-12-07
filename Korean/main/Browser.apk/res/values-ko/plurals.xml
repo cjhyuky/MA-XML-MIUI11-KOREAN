@@ -67,4 +67,7 @@
     <plurals name="vo_zhi_hu_answer">
         <item quantity="other">질문에 대한 %d개의 답변</item>
     </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d 시간</item>
+    </plurals>
 </resources>
