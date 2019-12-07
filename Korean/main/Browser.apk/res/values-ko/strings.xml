@@ -1545,4 +1545,12 @@
   <string name="vo_wei_bo_publish_time_yesterday">· 어제 %s</string>
   <string name="sug_search_history_delete_text">이 기록 삭제</string>
   <string name="sug_search_history_empty_text">모두 지우기</string>
+  <string name="browser_default_setting_cancel">취소</string>
+  <string name="browser_default_setting_confirm">확인</string>
+  <string name="browser_default_setting_content">빠르고 안전한 웹 브라우징</string>
+  <string name="browser_default_setting_title">기본 브라우저로 설정</string>
+	<string name="load_error_tip">"항목 로딩 실패. 탭하여 재시도하세요."</string>
+  <string name="network_error_tips">네트워크 에러가 발생했습니다. 다시 시도하세요.</string>
+	<string name="notification_channel_name_local_push">브라우저 알림</string>
+  <string name="refresh_text">재시도</string>
 </resources>
