@@ -817,4 +817,5 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="menu_add_short_cut">홈 화면 바로 가기 생성</string>
     <string name="tip_short_cut_added_success">성공적으로 생성되었습니다</string>
     <string name="tip_short_cut_already_added">생성</string>
+    <string name="wipe_data_query_progress_title">체크중…</string>
 </resources>
