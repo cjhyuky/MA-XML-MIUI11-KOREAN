@@ -752,5 +752,4 @@
     <string name="global_wa_shortcut_toast">홈 화면 바로 가기 생성</string>
     <string name="global_wa_wrapper">배경 화면</string>
     <string name="golbal_wa_backend_alert_dialog_btn">열기</string>
-    <string name="title_of_app_manage">앱</string>
 </resources>
