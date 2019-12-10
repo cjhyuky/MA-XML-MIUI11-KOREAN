@@ -229,11 +229,9 @@
     <string name="pull_to_call_back">탭하여 당겨오기</string>
     <string name="select_logpersist_dialog_title">로그 버퍼 선택</string>
     <string name="select_logpersist_title">기기의 로그 버퍼 선택</string>
-    <string name="test_account_0_label">Q Mobile</string>
     <string name="test_account_0_short_description">Q Mobile 계정</string>
     <string name="test_account_1_label">Market 텔레콤</string>
     <string name="test_account_1_short_description">Market 텔레콤 계정</string>
-    <string name="test_account_2_label">Sonoma Circles Talk Plus</string>
     <string name="test_account_2_short_description">모든 이들과 통화하세요!</string>
     <string name="test_account_3_label">Bay 음성 채팅 Pro</string>
     <string name="test_account_3_short_description">채팅 네트워크 사용자와 채팅하세요.</string>
@@ -695,7 +693,6 @@
     <string name="connected_via_app">%1$s를 통해 연결</string>
     <string name="copy">복사</string>
     <string name="data_usage_ota">시스템 업데이트</string>
-    <string name="debug_applications_category">앱</string>
     <string name="developer_enhanced_call_blocking">향상된 통화 차단</string>
     <string name="developer_title">통신 개발자 메뉴</string>
     <string name="loading_injected_setting_summary">로드 중</string>
@@ -738,7 +735,6 @@
     <string name="tap_to_sign_up">가입하려면 탭하세요</string>
     <string name="test_account_0_label">Q 모바일</string>
     <string name="test_account_2_label">소노마 서클 토크 플러스</string>
-    <string name="wapi_yes">예</string>
     <string name="wifi_disconnected">연결 끊김</string>
     <string name="wifi_limited_connection">제한된 연결</string>
     <string name="wifi_scan_throttling">Wi-Fi 스캔 조절</string>
