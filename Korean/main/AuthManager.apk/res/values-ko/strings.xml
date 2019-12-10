@@ -152,4 +152,5 @@
     <string name="permdesc_sensors">바디 센서 데이터 엑세스</string>
     <string name="permdesc_write_calendar">캘린더 일정 추가 및 엑세스</string>
     <string name="permdesc_write_storage">기기에 사진과 파일 저장 엑세스</string>
+    <string name="permdesc_location_background">백그라운드에서 위치정보 엑세스</string>
 </resources>
