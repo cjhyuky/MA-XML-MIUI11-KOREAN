@@ -35,4 +35,18 @@
     <string name="searching">검색중…</string>
     <string name="wifi_direct">Wi-Fi 다이렉트</string>
     <string name="wifi_direct_printers">Wi-Fi 다이렉트 프린터</string>
+    <string name="accept">허용</string>
+    <string name="certificate_update_request">이 프린터는 새로운 보안 인증서를 제공했거나 다른 장치가이를 가장하고 있습니다. 새 인증서를 수락하시겠습니까?</string>
+    <string name="connections">연결</string>
+    <string name="fix">권한 검토</string>
+    <string name="media_size_4x6in">4x6인치</string>
+    <string name="media_size_5x7in">5x7인치</string>
+    <string name="media_size_8x10in">8x10인치</string>
+    <string name="not_encrypted_request">이 프린터는 더 이상 암호화된 작업을 허용하지 않습니다. 인쇄를 계속하시겠습니까?</string>
+    <string name="printer_bad_certificate">잘못된 인증서</string>
+    <string name="printer_not_encrypted">암호화 되지 않음</string>
+    <string name="reject">거부</string>
+    <string name="security">보안</string>
+    <string name="wifi_direct_permission_rationale">기본 인쇄 서비스는 주변 장치를 찾으려면 위치 권한이 필요합니다.</string>
+    <string name="wifi_direct_printing">Wi-Fi 직접 인쇄</string>
 </resources>
