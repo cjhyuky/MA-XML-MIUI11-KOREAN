@@ -1366,4 +1366,9 @@
     <string name="yellowpage_address_tag">주소</string>
     <string name="yellowpage_provider_label">데이터 제공: </string>
     <string name="cloud_upgrade_recommend">"클라우드 저장공간 부족으로 연락처 동기화를 할 수 없습니다. 클라우드 저장공간을 업그레이드하세요."</string>
+    <string name="bind_simcard_default">통화용 기본 SIM</string>
+    <string name="bind_simcard_menu">통화용 기본 SIM 설정</string>
+    <string name="bind_simcard_no_dual">"듀얼 SIM을 찾을 수 없습니다"</string>
+    <string name="bind_simcard_not_set">설정되지 않음</string>
+    <string name="bind_simcard_title">통화용 기본 SIM</string>
 </resources>

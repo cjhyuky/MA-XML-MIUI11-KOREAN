@@ -2565,4 +2565,8 @@
     <string name="mobile_connection_management">모바일 네트워크 연결 관리</string>
     <string name="mobile_property">모바일 네트워크 속성</string>
     <string name="netcheck_title">모바일 네트워크 진단</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content">"전화 수신과 발신이 불가능합니다. 귀하의 SIM(차이나 텔레콤) VoLTE 서비스가 꺼졌습니다."</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content2">"전화 수신과 발신이 불가능합니다. 귀하의 SIM %d (차이나 텔레콤) VoLTE 서비스가 꺼졌습니다."</string>
+    <string name="prompt_to_suggest_no_call_service_notification_title">"전화 수신과 발신이 불가능합니다."</string>
+    <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM%d 으로 전화 발신 실패. 차이나 텔레콤에 연락하셔서 VoLTE 서비스를 켜세요."</string>
 </resources>
