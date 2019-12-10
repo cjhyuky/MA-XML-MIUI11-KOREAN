@@ -2320,4 +2320,8 @@
   <string name="whichOpenLinksWith">링크를 열 때 사용할 앱</string>
   <string name="whichOpenLinksWithApp">%1$s 앱으로 링크 열기</string>
   <string name="app_running_notification_tip_text">기기 속도가 느려지고 배터리가 소모될 수 있습니다. 탭하여 앱을 종료합니다</string>
+  <string name="handset_text_unsupported_handset_insert">세부 정보를 보려면 누르십시오</string>
+  <string name="handset_text_usb_handset_insert">추가 설정을 열려면 누르십시오</string>
+  <string name="handset_title_unsupported_handset_insert">"어댑터를 통해 오디오를 재생할 수 없습니다"</string>
+  <string name="handset_title_usb_handset_insert">USB를 통한 오디오 재생</string>
 </resources>
