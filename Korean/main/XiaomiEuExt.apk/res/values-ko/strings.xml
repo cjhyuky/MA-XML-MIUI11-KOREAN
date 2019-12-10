@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="add">추가</string>
+    <string name="app_name">Xiaomi.eu 확장기능</string>
+    <string name="confirm_reset">재설정 확인</string>
+    <string name="confirm_reset_message">기본 앱으로 재설정하시겠습니까?</string>
+    <string name="delete">삭제</string>
+    <string name="lockscreen_side_apps">사이드 패널 바로가기</string>
+    <string name="no_apps">앱이 없습니다</string>
+    <string name="reset">재설정</string>
+    <string name="select_app">앱을 선택하세요</string>
+    <string name="select_apps">앱을 선택하세요</string>
+</resources>
