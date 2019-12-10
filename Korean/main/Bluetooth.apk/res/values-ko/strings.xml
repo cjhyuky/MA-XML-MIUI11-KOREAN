@@ -215,5 +215,21 @@
     <string name="bluetooth_opp_file_limit_exceeded">4GB 보다 큰 파일은 옮길 수 없습니다</string>
     <string name="bluetooth_rc_feat_content">피어는 고급기능을 지원합니다</string>
     <string name="bluetooth_rc_feat_subtext">피어에서 다시 페어링하여 사용하도록 설정하십시오</string>
-    <string name="bluetooth_rc_feat_title">블루투스 미디어 브라우징</string> 
+    <string name="bluetooth_rc_feat_title">블루투스 미디어 브라우징</string>
+    <string name="avrcp_notification_name">BT 고급 기능 AVRCP</string>
+    <string name="bluetooth_a2dp_sink_queue_name">지금 재생중</string>
+    <string name="bluetooth_map_remote_advance_feature_support">메시지 액세스 고급기능 지원</string>
+    <string name="bluetooth_map_remote_message_access_feature_downgrade">원격 메시지 액세스 기능 다운그레이드</string>
+    <string name="bluetooth_map_repair_for_adv_message_access_feature">사전 메시지 액세스 기능을 위한 재 페어링</string>
+    <string name="bluetooth_map_repair_for_message_access_version_comp">메시지 액세스 버전 호환성을 위한 재 페어링</string>
+    <string name="bt_sm_2_1_default">"SD카드에 \"%1$s\"에서 파일을 저장하기에 충분한 공간이 없습니다"</string>
+    <string name="bt_sm_2_1_nosdcard">"USB저장소에 \"%1$s\"에서 파일을 저장하기에 충분한 공간이 없습니다"</string>
+    <string name="defaultname">카트함</string>
+    <string name="phonebook_advance_feature_support">전화번호부 고급기능 지원</string>
+    <string name="remote_pbap_version_change">원격 전화번호부 프로필 버전 변경</string>
+    <string name="remote_phonebook_feature_downgrade">원격 전화번호부 기능 다운 그레이드</string>
+    <string name="repair_for_adv_phonebook_feature">사전 전화번호부 기능에 대한 재 페어링</string>
+    <string name="repair_for_phonebook_access_version_comp">전화번호부 액세스 버전 호환성을 위한 재 페어링</string>
+    <string name="status_no_sd_card_default">SD 카드가 없습니다. 전송된 파일을 저장하려면 SD카드를 삽입하세요.</string>
+    <string name="status_no_sd_card_nosdcard">USB 저장소가 없습니다.</string>
 </resources>
