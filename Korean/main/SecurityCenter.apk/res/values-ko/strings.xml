@@ -1648,7 +1648,7 @@
   <string name="operator_number_unicom">10010</string>
   <string name="optimize_manage_title">스피드 부스트</string>
   <string name="optimize_result_available_memory_info">사용 가능한 메모리</string>
-  <string name="optimize_result_button_cloudspace">클라우드 저장소 추가</string>
+  <string name="optimize_result_button_cloudspace">더 많은 클라우드 저장 공간 확보</string>
   <string name="optimize_result_button_consume_power_analysis">배터리 스캔</string>
   <string name="optimize_result_button_cooldown_now">온도 낮추기</string>
   <string name="optimize_result_button_correct_now">조정</string>
@@ -2859,4 +2859,6 @@
   <string name="power_save_mode_close_xiaoai_wakeup_summary">배터리 세이버가 켜져있을 때 작동합니다</string>
   <string name="power_save_mode_close_xiaoai_wakeup_title">"음성으로 Mi AI 부르지 않기"</string>
   <string name="power_save_mode_other_optimization">추가 최적화</string>
+  <string name="power_save_ps_close_setting_5g_q">전력 소비가 높은 서비스 및 기능 끄기(동기화, 5G 네트워크 연결, 햅틱 피드백, \"깨우기\", \"두 번 누르면 화면 깨우기 또는 끄기\", \"화면이 꺼져있을 때 지문 아이콘 표시\")</string>
+  <string name="power_save_ps_close_setting_q">전력 소비가 높은 서비스 및 기능 끄기(동기화, 햅틱 피드백, \"일어나기\", \"두 번 두드리기 화면을 켜거나 끄기\", \"지문 아이콘 표시 화면이 꺼져 있습니다\")</string>
 </resources>
