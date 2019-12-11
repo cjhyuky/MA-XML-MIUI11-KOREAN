@@ -370,7 +370,7 @@
     <string name="title_month_exercise_sum">매월 통계</string>
     <string name="title_network_license">네트워크 액세스</string>
     <string name="title_no_record_menstruation">"아직 기간을 기록하지 않았습니다."</string>
-    <string name="title_run_in_background">​​백그라운드에서 실행</string>
+    <string name="title_run_in_background">백그라운드에서 실행</string>
     <string name="title_select_birthday">생일 선택</string>
     <string name="title_select_gender">성별 선택</string>
     <string name="title_select_height">높이 설정</string>
@@ -402,7 +402,7 @@
     <string name="v7_preference_off">꺼짐</string>
     <string name="v7_preference_on">켜짐</string>
     <string name="weight_trend_offset_date">"%1$s에서 %2$s까지: "</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">다운로드 관리자 연결에 실패했습니다. 응용 프로그램 관리에서 다운로드 관리자 상태를 확인하십시오.</string>
     <string name="xiaomi_update_sdk_dialog_message">"버전 %1$s 크기: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"버전 %1$s 델타 업데이트 크기: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s 업데이트!</string>
