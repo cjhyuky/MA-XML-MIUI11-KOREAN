@@ -211,13 +211,12 @@
     <string name="fully_managed_device_provisioning_accept_header">"작업 장치를 설정하겠습니다"</string>
     <string name="fully_managed_device_provisioning_privacy_body">IT 관리자가이 기기에서 데이터 및 활동을 볼 수 있습니다</string>
     <string name="fully_managed_device_provisioning_privacy_title">개인 정보 보호 알림</string>
-    <string name="fully_managed_device_provisioning_progress_label">기기 설정하기 </string>
+    <string name="fully_managed_device_provisioning_progress_label">기기 설정하기</string>
     <string name="fully_managed_device_provisioning_step_1_header">직장 앱을 손끝으로 유지</string>
     <string name="fully_managed_device_provisioning_step_2_header">"이 기기는 비공개가 아닙니다"</string>
     <string name="fully_managed_device_provisioning_step_2_subheader">IT 관리자가이 장치에서 데이터와 활동을 볼 수 있습니다.</string>
     <string name="fully_managed_device_provisioning_summary">"이 기기를 사용하여 업무용 앱에 쉽게 액세스 할 수 있습니다.이 기기는 개인용이 아니므로 IT 관리자가 데이터 및 활동을 볼 수 있습니다. 자세한 내용은 IT 관리자에게 문의하십시오."</string>
     <string name="icon_content_description">대화 상자 아이콘</string>
-    <string name="join_two_items">%1$s 및 %2$s</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
     <string name="mtrl_picker_cancel">취소</string>
     <string name="mtrl_picker_confirm">저장</string>
@@ -228,7 +227,6 @@
     <string name="now_lets_set_up_everything_else">"이제 모든 것을 설정하겠습니다"</string>
     <string name="password_toggle_content_description">비밀번호 표시</string>
     <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
-    <string name="profile_owner_cancel_ok">예</string>
     <string name="scroll_bar_page_down_button">아래로 스크롤</string>
     <string name="scroll_bar_page_up_button">위로 스크롤</string>
     <string name="setup_provisioning_header">작업 장치 설정 준비중</string>
