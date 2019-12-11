@@ -1216,7 +1216,7 @@
     <string name="add_account_search">계정 추가</string>
     <string name="all_purpose">메일에 오신 것을 환영합니다! 이 이메일 클라이언트는 Kingsoft for Xiaomi에 의해 작성되었습니다. 이 앱을 사용하여 이메일을주고받을 수 있습니다.</string>
     <string name="bcc_heading">"숨은 참조 :"</string>
-    <string name="cc_attribution">참조 : %1$s <br></string>
+    <string name="cc_attribution">참조 : %1$s</string>
     <string name="confirm_age">연령 확인</string>
     <string name="conversation_content_provider">대화 콘텐츠 제공 업체</string>
     <string name="delete_contact_content">지금이 연락처를 삭제 하시겠습니까?</string>
