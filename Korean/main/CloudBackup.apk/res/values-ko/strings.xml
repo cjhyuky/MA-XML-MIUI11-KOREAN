@@ -241,4 +241,12 @@
     <string name="restore_failed_reason_network_error">네트워크 오류. 잠시후 다시 시도하세요.</string>
     <string name="restore_failed_reason_disk_space_not_enough">저장 공간이 충분하지 않습니다. 먼저 저장소를 비우십시오.</string>
     <string name="restoring_data">데이터 복원중…</string>
+    <string name="cloud_back_up_share_activity_confirm">업그레이드</string>
+    <string name="cloud_back_up_share_activity_discription">더 많은 저장 공간, 일일 백업 등을 얻으십시오.</string>
+    <string name="cloud_back_up_share_activity_title">미 계정 업그레이드</string>
+    <string name="dialog_cancel_backup_confirm">확인</string>
+    <string name="restore_finish_description">복원 완료</string>
+    <string name="restore_init_description">복원 시작</string>
+    <string name="restoring_file_title_no_progress">파일 복원 중...</string>
+    <string name="restoring_settings">설정 복원 중</string>
 </resources>
