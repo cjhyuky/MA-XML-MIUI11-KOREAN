@@ -234,9 +234,8 @@
     <string name="timer_alert_mute_on">"타이머가 멈추면 알람이 울리지 않습니다"</string>
     <string name="timer_alert_mute_remind">알람소리를 끄려면 탭하세요</string>
     <string name="timer_alert_mute_switch">타이머 알람을 무음으로 전환</string> 
-    <string name="repeat_count">번</string>
     <string name="snooze_duration">잠자기</string>
-    <string name="snooze_duration_value">반복 (분)</string>
+    <string name="snooze_duration_value">반복(분)</string>
     <string name="life_post_weather_no_network">날씨 정보를 업데이트하려면 네트워크에 연결하세요</string>
     <string name="check_theme_app_install">기기에 테마앱이 설치되어있는지 확인하세요.</string>
     <string name="check_voice_assist_app_version">Mi AI를 최신버전으로 업데이트하세요.</string>
@@ -418,5 +417,4 @@
     <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="repeat_count">회</string>
-    <string name="timer_alert_type_forest">숲</string>
 </resources>
