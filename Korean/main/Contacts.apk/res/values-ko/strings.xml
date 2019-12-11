@@ -1374,7 +1374,6 @@
     <string name="btn_call_fuhao_txt">하위</string>
     <string name="china_mobile_palm_hall">CMCC 온라인 서비스 홀</string>
     <string name="contacts_default_notification_channel">알림</string>
-    <string name="display_options_sort_by_family_name">가족 이름</string>
     <string name="heduohao_fuhao_call_menu_title">추가번호 %d로 전화 걸기</string>
     <string name="heduohao_fuhao_order">하위 %d</string>
     <string name="heduohao_main_call_menu_title">대표로 전화 걸기</string>
@@ -1382,7 +1381,6 @@
     <string name="menu_share_qrcode">QR 코드</string>
     <string name="menu_share_text">텍스트</string>
     <string name="menu_share_vcard_file">파일</string>
-    <string name="my_phone_provider_bluetooth">예</string>
     <string name="scan_not_installed">먼저 스캐너 설치</string>
     <string name="share_contact_as">연락처를 다른 사람과 공유</string>
     <string name="share_qrcode">QR 코드 공유</string>
