@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">홈으로 이동</string>
+    <string name="abc_action_bar_up_description">위로 이동</string>
+    <string name="abc_action_menu_overflow_description">추가 옵션</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_activity_chooser_view_see_all">모두 보기</string>
+    <string name="abc_capital_off">꺼짐</string>
+    <string name="abc_capital_on">켜짐</string>
+    <string name="abc_searchview_description_clear">검색어 지우기</string>
+    <string name="abc_searchview_description_query">검색어</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 제출</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_search_hint">검색</string>
+    <string name="abc_shareactionprovider_share_with">공유</string>
+    <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="close">닫기</string>
+    <string name="important_ration_info">중요한 정량적 정보</string>
+    <string name="no_important_ration_info">중요하지 않은 정량적 정보</string>
+    <string name="qr_load">로드 중... 잠시만 기다려주십시오...</string>
+    <string name="qualitative_info">정성 정보</string>
+    <string name="qualitative_title">일관성 정보</string>
+    <string name="ration_title">ID 클래스 정보</string>
+    <string name="search_menu_title">검색</string>
+</resources>
