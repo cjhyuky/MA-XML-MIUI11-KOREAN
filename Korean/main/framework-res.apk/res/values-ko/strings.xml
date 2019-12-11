@@ -969,8 +969,8 @@
     <string name="beforeOneMonthDurationPast">한 달 전</string>
     <string name="last_month">지난 달</string>
     <string name="older">이전</string>
-    <string name="preposition_for_date">%s</string>
-    <string name="preposition_for_time">%s</string>
+    <string name="preposition_for_date" formatted="false">%s</string>
+    <string name="preposition_for_time" formatted="false">%s</string>
     <string name="preposition_for_year">%s년</string>
     <string name="day">일</string>
     <string name="days">일</string>
