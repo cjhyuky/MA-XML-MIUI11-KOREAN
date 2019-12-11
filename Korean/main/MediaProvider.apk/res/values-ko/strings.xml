@@ -25,4 +25,14 @@
     <string name="sound_name_wag">춤</string>
     <string name="unable_to_add_ringtone">사용자 지정 벨소리를 추가할 수 없습니다.</string>
     <string name="unable_to_delete_ringtone">사용자 지정 벨소리를 제거할 수 없습니다.</string>
+    <string name="add_alarm_text">알람 추가</string>
+    <string name="add_notification_text">알림 추가</string>
+    <string name="grant_dialog_button_allow">허용</string>
+    <string name="grant_dialog_button_deny">거부</string>
+    <string name="permission_audio">이 음악을 수정하거나 삭제하도록 ^1을 허용하시겠습니까?</string>
+    <string name="permission_images">이 이미지를 수정하거나 삭제할 수 있도록 ^1을 허용하시겠습니까?</string>
+    <string name="permission_required">이 항목을 수정하거나 삭제하려면 권한이 필요합니다.</string>
+    <string name="permission_required_action">계속</string>
+    <string name="permission_video">이 비디오를 수정하거나 삭제할 수 있도록 ^1을 허용하시겠습니까?</string>
+    <string name="sound_name_wag">가발</string>
 </resources>
