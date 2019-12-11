@@ -98,5 +98,17 @@
     <string name="ims_band_settings_narrow_preferred_value">협대역 지원 우선</string>
     <string name="ims_band_settings_only_narrow_value">협대역만 지원</string>
     <string name="ims_band_settings_only_wide_value">광대역만 지원</string>
-    <string name="ims_band_settings_wide_preferred_value">광대역 지원 우선</string> 
+    <string name="ims_band_settings_wide_preferred_value">광대역 지원 우선</string>
+    <string name="auto_reject_toggle_summary">DDS 하위에 우선 순위가 높은 데이터 호출이있을 때 유휴 SIM 카드에서 수신 전화 자동 거부</string>
+    <string name="auto_reject_toggle_title">수신전화 자동거부</string>
+    <string name="ims_band_settings_wide_narrow_rate">요금</string>
+    <string name="ims_emergency_number_function_description">"확인되지 않은 식별 확인이 식별되지 않음"</string>
+    <string name="ims_ip_v6_function_description">"체크되지 않은 ppercaseCheck 소문자"</string>
+    <string name="ims_sdp_imageattr_parameter_name">"이미지 배터리 파를 운반하는 SDP"</string>
+    <string name="ims_settings_no_default_value">아니요</string>
+    <string name="ims_settings_value_no">아니오</string>
+    <string name="ims_settings_value_yes">예</string>
+    <string name="qti_ims_call_deflect">통화 거부</string>
+    <string name="rtt_visibility_toggle_summary">RTT 가시성 설정</string>
+    <string name="rtt_visibility_toggle_title">RTT 가시성</string>
 </resources>
