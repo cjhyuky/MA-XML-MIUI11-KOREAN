@@ -818,4 +818,8 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="tip_short_cut_added_success">성공적으로 생성되었습니다</string>
     <string name="tip_short_cut_already_added">생성</string>
     <string name="wipe_data_query_progress_title">체크중…</string>
+    <string name="cloud_storage_no_data">구름에 아직 항목이 없습니다</string>
+    <string name="pay_info_dialog_confirm_to_pay">지불 %s</string>
+    <string name="pay_info_dialog_mibi_balance_prefix">나머지 남은 크레딧 사용 : %s</string>
+    <string name="pay_info_dialog_title">결제 방법 선택</string>
 </resources>
