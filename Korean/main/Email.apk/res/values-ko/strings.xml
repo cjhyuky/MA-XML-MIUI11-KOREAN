@@ -1210,18 +1210,13 @@
     <string name="sync_calendra_fail_per_title">"캘린더를 동기화할 수 없습니다"</string>
     <string name="sync_calendra_fail_permission">"캘린더를 동기화할 수 없습니다. 이메일 앱 설정에서 캘린더에 액세스하도록 허용하십시오"</string>
     <string name="account_add_title">이메일 서비스 선택</string>
-    <string name="account_cache_provider">계정 캐시 공급자</string>
     <string name="account_setup_basics_password_label_authcode">암호 또는 확인 코드 입력</string>
     <string name="account_setup_options_mail_check_frequency_15min">매 15분마다</string>
     <string name="add_account_search">계정 추가</string>
     <string name="all_purpose">메일에 오신 것을 환영합니다! 이 이메일 클라이언트는 Kingsoft for Xiaomi에 의해 작성되었습니다. 이 앱을 사용하여 이메일을주고받을 수 있습니다.</string>
-    <string name="bcc_heading">"숨은 참조 :"</string>
-    <string name="cc_attribution">참조 : %1$s</string>
     <string name="confirm_age">연령 확인</string>
-    <string name="conversation_content_provider">대화 콘텐츠 제공 업체</string>
     <string name="delete_contact_content">지금이 연락처를 삭제 하시겠습니까?</string>
     <string name="email_sync_failed">동기화 실패</string>
-    <string name="forward_subject_label">전달 :</string>
     <string name="login_err_message">입력한 비밀번호가 올바르지 않습니다. 로그인하기 위해 인증 코드가 필요할 수도 있습니다. 비밀번호를 재설정해야 할 경우 https://email.163.com/을 방문하여 사용 가능한 옵션을 확인하십시오.</string>
     <string name="login_err_sina_message">%1$s 로그인하기 위해 인증 코드가 필요할 수도 있습니다. 비밀번호를 재설정해야하는 경우 https://mail.sina.com.cn/을 방문하여 사용 가능한 옵션을 확인하십시오...</string>
     <string name="login_failed_tip">로그인 도움말 피드백으로 WeChat 공개 번호 추가 :</string>
@@ -1241,7 +1236,6 @@
     <string name="personal_data_collection_summary">스위치를 켜면 개인 데이터를 수집 할 수 있다는 데 동의합니다. 언제든지 스위치를 끄고 승인을 취소하며 서버에서 데이터를 삭제할 수 있습니다.</string>
     <string name="personal_data_collection_title">개인 정보 수집</string>
     <string name="pl_select_age">연령을 선택하십시오.</string>
-    <string name="prefDefault_autoAdvance">목록</string>
     <string name="print_scheduler_title">모든 스케줄러 인쇄</string>
     <string name="privacy_setting_agree">동의</string>
     <string name="qq_login_help_bottom_tip">비밀번호를 재설정하거나 설정 상태를 확인해야하는 경우 https://mail.qq.com/을 방문하여 사용 가능한 옵션을 확인하십시오. 추가 질문 의견은 WeChat 공개 번호를 추가하십시오. </string>
@@ -1249,7 +1243,6 @@
     <string name="qq_login_help_details2">2. 이메일 비밀번호 : 이메일 비밀번호를 이미 설정했지만 클라이언트 확인 코드를 설정하지 않은 경우 POP3 / IMAP / SMTP 프로토콜이 열려 있는지 확인하면 이메일 비밀번호를 사용하여 로그인 할 수 있습니다 .</string>
     <string name="qq_login_help_details3">3. 고객 인증 코드 : QQ 고객 인증 코드를 이미 설정 한 경우 로그인해야합니다. 고객 인증 코드를 재설정해야하는 경우 여기를 클릭하십시오 :</string>
     <string name="qq_login_help_title">QQ 비밀번호 / 이메일 비밀번호 / 클라이언트 인증 코드 설명</string>
-    <string name="reply_subject_label">답장 :</string>
     <string name="setting_kids_subtitle">"사용자 연령 확인"</string>
     <string name="setting_kids_title">16세 이상</string>
     <string name="toast_bar_sync_failed_client_cert">동기화 실패, 인증 오류? 인증서를 다시 추가하려면 클릭하십시오</string>
