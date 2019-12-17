@@ -2853,12 +2853,13 @@
     <string name="power_center_list_item_haptic_feedback">햅틱 피드백 끄기</string>
     <string name="power_center_list_item_wake_notification">"알림시 화면 켜지 않기"</string>
     <string name="power_optimize_disable_gps_high_accuracy">높은 정확성 모드 끄기</string>
-  <string name="power_center_dialog_msg_title">%1$s 추가시간을 얻도록 설정하십시오. 배터리를 절약하기 위해 다음 작업이 수행됩니다:</string>
-  <string name="power_save_mode_close_notification_screenon_summary">배터리 세이버가 켜져있을 때 작동합니다</string>
-  <string name="power_save_mode_close_notification_screenon_title">"알림 수신시 화면 깨우지 않기"</string>
-  <string name="power_save_mode_close_xiaoai_wakeup_summary">배터리 세이버가 켜져있을 때 작동합니다</string>
-  <string name="power_save_mode_close_xiaoai_wakeup_title">"음성으로 Mi AI 부르지 않기"</string>
-  <string name="power_save_mode_other_optimization">추가 최적화</string>
-  <string name="power_save_ps_close_setting_5g_q">전력 소비가 높은 서비스 및 기능 끄기(동기화, 5G 네트워크 연결, 햅틱 피드백, \"깨우기\", \"두 번 누르면 화면 깨우기 또는 끄기\", \"화면이 꺼져있을 때 지문 아이콘 표시\")</string>
-  <string name="power_save_ps_close_setting_q">전력 소비가 높은 서비스 및 기능 끄기(동기화, 햅틱 피드백, \"일어나기\", \"두 번 두드리기 화면을 켜거나 끄기\", \"지문 아이콘 표시 화면이 꺼져 있습니다\")</string>
+    <string name="power_center_dialog_msg_title">%1$s 추가시간을 얻도록 설정하십시오. 배터리를 절약하기 위해 다음 작업이 수행됩니다:</string>
+    <string name="power_save_mode_close_notification_screenon_summary">배터리 세이버가 켜져있을 때 작동합니다</string>
+    <string name="power_save_mode_close_notification_screenon_title">"알림 수신시 화면 깨우지 않기"</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_summary">배터리 세이버가 켜져있을 때 작동합니다</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_title">"음성으로 Mi AI 부르지 않기"</string>
+    <string name="power_save_mode_other_optimization">추가 최적화</string>
+    <string name="power_save_ps_close_setting_5g_q">전력 소비가 높은 서비스 및 기능 끄기(동기화, 5G 네트워크 연결, 햅틱 피드백, \"깨우기\", \"두 번 누르면 화면 깨우기 또는 끄기\", \"화면이 꺼져있을 때 지문 아이콘 표시\")</string>
+    <string name="power_save_ps_close_setting_q">전력 소비가 높은 서비스 및 기능 끄기(동기화, 햅틱 피드백, \"일어나기\", \"두 번 두드리기 화면을 켜거나 끄기\", \"지문 아이콘 표시 화면이 꺼져 있습니다\")</string>
+    <string name="gb_audition_instruction">길게 누르면(%1$s-%2$s초)</string>
 </resources>
