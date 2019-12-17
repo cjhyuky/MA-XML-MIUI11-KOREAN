@@ -354,7 +354,7 @@
     <string name="share_error">이 연락처는 공유할 수 없습니다.</string>
     <string name="nameLabelsGroup">이름</string>
     <string name="nicknameLabelsGroup">별명</string>
-    <string name="organizationLabelsGroup">조직</string>
+    <string name="organizationLabelsGroup">직위</string>
     <string name="websiteLabelsGroup">웹사이트</string>
     <string name="eventLabelsGroup">생일</string>
     <string name="relationLabelsGroup">관계</string>
