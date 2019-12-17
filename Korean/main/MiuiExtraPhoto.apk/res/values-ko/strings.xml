@@ -58,4 +58,5 @@
     <string name="motion_photo_save_video">비디오로 저장</string>
     <string name="motion_photo_save_video_ing">비디오 저장 중…</string>
     <string name="motion_photo_toast_long_press_play">재생할 사진을 길게 누르세요</string>
+    <string name="extra_photo_common_save_fail">"저장할 수 없습니다"</string>
 </resources>
