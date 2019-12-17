@@ -9199,4 +9199,5 @@
     <string name="open_haptic_feedback">햅틱 피드백</string>
     <string name="close_hotspot_hint">전송하기 전에 휴대용 핫스팟을 끄십시오</string>
     <string name="close_slave_wifi_hint">전송하기 전에 보조 Wi-Fi 네트워크 연결 끊기</string>
+    <string name="video_tool_box_title">비디오 도구 상자</string>
 </resources>
