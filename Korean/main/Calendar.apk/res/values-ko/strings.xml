@@ -334,9 +334,6 @@
     <string name="search_calendar_edit_event">회의;미리 알림;할일</string>
     <string name="search_calendar_settings">캘린더;할일;미리 알림</string>
     <string name="select_date">날짜로 이동</string>
-    <string name="setting_about_calendar_version">캘린더 버전:</string>
-    <string name="setting_about_imei">IMEI:</string>
-    <string name="setting_about_miui_version">MIUI 버전:</string>
     <string name="setting_about_summary">버전:</string>
     <string name="setting_accounts">캘린더 계정</string>
     <string name="setting_features_title">기능 설정</string>
@@ -754,15 +751,10 @@
     <string name="permission_contacts">연락처의 생일을 동기화하고 알림을 보내는데 사용</string>
     <string name="permission_main_purpose">캘린더 이벤트 보기 및 관리, 여행 계획, 알림 수신 및 서비스 구독</string>
     <string name="permission_storage">알림 및 벨소리 저장용</string>
-    <string name="notification_channel_name">캘린더 알림</string>
     <string name="notification_channel_name">정기 알림</string>
     <string name="notification_channel_name_no_sound">자동 알림</string>
     <string name="notification_channel_name_no_vibration">진동없는 알림</string>
     <string name="notification_channel_name_silent">방해금지모드로 알림</string>
-    <string name="setting_about_calendar_version">캘린더 버전: %1$s-%2$s</string>
-    <string name="setting_about_imei">IMEI: %1$s</string>
-    <string name="setting_about_miui_version">MIUI 버전: %1$s-%2$s</string>
-    <string name="setting_about_oaid">OAID: %1$s</string>
     <string name="setting_about_calendar_version">캘린더 버전: %1$s-%2$s</string>
     <string name="setting_about_imei">IMEI: %1$s</string>
     <string name="setting_about_miui_version">MIUI 버전: %1$s-%2$s</string>
