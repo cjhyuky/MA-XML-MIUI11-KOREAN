@@ -246,4 +246,88 @@
     <plurals name="photo_remain_hours">
         <item quantity="other">%d 시간</item>
     </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1시간 전</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">30분 전</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1시간 안에</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">30분 안에</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">즉시</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d분 안에</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d분 전</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d개의 항목</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1시간 전</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">%d분 동안 사진, 비디오, 연락처, 메모 등을 클라우드와 동기화 중단합니다</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">%d개 사진 삭제</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d개 항목 삭제됨</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d개 파일</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">30분 전</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1시간 안에</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">30분 안에</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">즉시</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d분 안에</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">방금</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d분 전</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d일</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d초</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원 할 수 없습니다.  어쨌든 삭제하시겠습니까?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원 할 수 없습니다.  어쨌든 삭제하시겠습니까?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원 할 수 없습니다.  어쨌든 삭제하시겠습니까?"</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">항목을 최대 %1$d일(%2$s) 동안 여기에 저장할 수 있습니다.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">항목을 최대 %1$d일 동안 여기에 저장할 수 있습니다. 이 기간을 연장하려면 요금제를 업그레이드하십시오.</item>
+    </plurals>
 </resources>
