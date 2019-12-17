@@ -239,4 +239,31 @@
     <string name="search_app_name">앱 검색</string>
     <string name="search_empty">앱을 찾을 수 없습니다</string>
     <string name="srgb_color_region_summary">sRGB 색 영역으로 모든 화면 내용 표시</string>
+    <string name="create">작성</string>
+    <string name="create_failed">생성 실패</string>
+    <string name="create_shortcut">바로가기 만들기</string>
+    <string name="created">생성됨</string>
+    <string name="created_successfully">생성 완료</string>
+    <string name="lock_summary">개인정보의 포괄적인 보호</string>
+    <string name="more_settings">설정</string>
+    <string name="no_matching">일치하는 프로그램이 없습니다</string>
+    <string name="privacy_policy">개인정보 보호정책</string>
+    <string name="screen_time_lock">화면시간 관리 앱 잠금</string>
+    <string name="shortcut_created">바로가기 생성 완료</string>
+    <string name="stop_summary">비활성화 후 스크린 시간 관리를 위해 모든 데이터가 지워집니다</string>
+    <string name="suggestion">제안 및 피드백</string>
+    <string name="try_to_create">바로가기 생성을 시도했습니다</string>
+    <string name="usage_agree">동의</string>
+    <string name="usage_exit">종료</string>
+    <string name="usage_home_permission_account_summary">샤오미 계정에 로그인하고 화면 사용을 동기화하는 기능</string>
+    <string name="usage_home_permission_account_title">모바일 계정 권한 가져 오기</string>
+    <string name="usage_home_permission_phone_summary">장치를 식별하기 위해 VAID를 수집</string>
+    <string name="usage_home_permission_phone_title">전화 정보 권한 얻기</string>
+    <string name="usage_home_premission_main_summary_new">"스크린 시간 관리에 오신 것을 환영합니다.
+서비스를 제공하려면 화면 잠금해제 횟수, 각 앱 이름 및 화면 사용 횟수를 계산하는데 사용되는 기간, 밝은 화면 및 포커스 모드 사용 횟수를 계산하는 포커스 모드 기간 등 화면 사용량에 대한 정보를 수집해야합니다.
+기본 서비스를 제공하려면 인터넷에 연결하고 필요한 개인정보를 수집하기 위해 권한 또는 기능을 호출해야합니다."</string>
+    <string name="usage_home_premission_main_summary_new_o">"스크린 시간 관리에 오신 것을 환영합니다.
+서비스를 제공하려면 화면 잠금해제 횟수, 각 앱 이름 및 화면 사용량 계산에 필요한 기간 등 화면 사용량에 대한 정보를 수집해야합니다.
+기본 서비스를 제공하려면 인터넷에 연결하고 필요한 개인 정보를 수집하기 위해 권한 또는 기능을 호출해야합니다."</string>
+    <string name="usage_home_premission_second_summary_new">우리는 귀하의 개인정보를 보호하기 위해 관련 법률, 규정 및 개인정보 보호정책을 엄격히 준수합니다. 위의 필요한 권한 또는 기능을 호출하는 데 동의하지 않거나 위의 정보를 수집 및 사용하는데 동의하지 않으면 이 응용 프로그램이 제대로 작동하지 않으면 "스크린 시간 관리-> 설정-> 스크린 시간 관리 비활성화"를 통해 동의를 철회하거나 다른 개인 정보 관련 문제가 privacy@xiaomi.com을 통해 문의 할 수 있습니다.</string>
 </resources>
