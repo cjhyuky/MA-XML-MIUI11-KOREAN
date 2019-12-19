@@ -307,4 +307,28 @@
   <string name="to_install_title">이 QR 코드는 이미 삭제되었던 앱의 설치링크입니다. 지금 이 앱을 다운로드하시겠습니까?</string>
   <string name="toinstall">다운로드</string>
   <string name="flight_mode_connecting_to_wifi">비행기 모드 작동시 Wi-Fi 수동으로 켜기</string>
+  <string name="carsHome_title">자동차</string>
+  <string name="cars_is_public">출시됨</string>
+  <string name="cars_no_public">출시되지 않음</string>
+  <string name="cars_solution">"솔루션 :"</string>
+  <string name="cars_suitability">"일치 :"</string>
+  <string name="cars_title">자동차 또는 자동차 부품 스캔</string>
+  <string name="carshome_data">Autohome Inc.에서 제공하는 기술 지원</string>
+  <string name="copy_tracknum">복사 코드 복사</string>
+  <string name="jingdong">JD(징동)</string>
+  <string name="kuaidi100_data">Kuaidi 100 제공</string>
+  <string name="logistics">빠른 배송</string>
+  <string name="mishop">Mi 스토어</string>
+  <string name="now_state">"현재 상태 :"</string>
+  <string name="please_try_again_later">1~2분 기다렸다가 다시 시도하십시오</string>
+  <string name="queryNum">주문 확인</string>
+  <string name="query_faile">"주문 상태 및 세부 사항이 아직 동기화되지 않았습니다. 주문을 수동으로 확인하십시오."</string>
+  <string name="query_inai">미 AI가 도와드리겠습니다</string>
+  <string name="query_more">추가 정보</string>
+  <string name="query_tracknum">빠른 배송 주문 확인</string>
+  <string name="see_details">세부 정보를 보려면 누르십시오</string>
+  <string name="taobao">타오바오</string>
+  <string name="waybill_num">"주문 :"</string>
+  <string name="xiaoai_dialog">"내가 말한 것을 시도하십시오.
+Mi AI로 스캔하고 싶습니다 "</string>
 </resources>
