@@ -17,7 +17,7 @@
     <string name="access_sd_fail">SD 카드에 접근하지 못했습니다.</string>
     <string name="confirm_restore_title">기본 설정 복원</string>
     <string name="confirm_location_title">사진 위치를 기억하겠습니까?</string>
-    <string name="confirm_location_message">찍은 장소를 사진과 동영상에 표시하십시오. 다른 앱이 저장된 사진과 함께 이 정보에 접근할 수 있습니다.</string>
+    <string name="confirm_location_message">카메라에 오신 것을 환영합니다! 사진과 비디오를 촬영한 위치에 태그를 지정하면 갤러리가 더욱 체계적으로 구성되어 항목을 더 빨리 찾을 수 있습니다. 위치 정보 추가를 제한하면 일부 기능을 사용하지 못할 수 있습니다. 우리는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 개인 정보를 보호합니다.</string>
     <string name="confirm_location_alert">사진 위치 기억</string>
     <string name="start_capture">확인</string>
     <string name="pref_camera_recordlocation_title">위치 정보 저장</string>
@@ -1241,4 +1241,5 @@
     <string name="video_effect_entry_northern_europe">북유럽</string>
     <string name="video_effect_entry_summer_day">여름</string>
     <string name="video_effect_entry_wind_sing">미풍</string>
+    <string name="location_access_allow">허용</string>
 </resources>
