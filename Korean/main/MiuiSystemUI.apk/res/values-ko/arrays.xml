@@ -216,7 +216,9 @@
         <item>LDAC</item>
         <item>퀄컴® aptX ™ 적응형 오디오</item>
         <item>퀄컴® aptX ™ TWS + 오디오</item>
-        <item>LHDC</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>외부코덱 활성화</item>
         <item>외부코덱 비활성화</item>
     </string-array>
@@ -228,8 +230,12 @@
         <item>퀄컴® aptX™ HD 오디오</item>
         <item>LDAC</item>
         <item>퀄컴® aptX™ 적응형 오디오</item>
-        <item>부가적인 코덱 활성화</item>
-        <item>부가적인 코덱 비활성화</item>
+        <item>퀄컴® aptX ™ TWS + 오디오</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
+        <item>외부코덱 활성화</item>
+        <item>외부코덱 비활성화</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>"화면 켜지 않기"</item>
