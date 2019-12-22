@@ -266,4 +266,12 @@
 서비스를 제공하려면 화면 잠금해제 횟수, 각 앱 이름 및 화면 사용량 계산에 필요한 기간 등 화면 사용량에 대한 정보를 수집해야합니다.
 기본 서비스를 제공하려면 인터넷에 연결하고 필요한 개인 정보를 수집하기 위해 권한 또는 기능을 호출해야합니다."</string>
     <string name="usage_home_premission_second_summary_new">우리는 귀하의 개인정보를 보호하기 위해 관련 법률, 규정 및 개인정보 보호정책을 엄격히 준수합니다. 위의 필요한 권한 또는 기능을 호출하는 데 동의하지 않거나 위의 정보를 수집 및 사용하는데 동의하지 않으면 이 응용 프로그램이 제대로 작동하지 않으면 "스크린 시간 관리-> 설정-> 스크린 시간 관리 비활성화"를 통해 동의를 철회하거나 다른 개인 정보 관련 문제가 privacy@xiaomi.com을 통해 문의 할 수 있습니다.</string>
+    <string name="usage_creating_weekly_report">주간 보고서</string>
+    <string name="usage_focus_new_summary">더 멋진 프로필 사진</string>
+    <string name="usage_no_net_summary">네트워크 연결이 정상적인지 확인하십시오</string>
+    <string name="usage_refresh">새로고침 및 재시도</string>
+    <string name="usage_request_error_summary">타임머신이 알려지지 않은 지역으로 이동</string>
+    <string name="usage_request_timeout_summary">타임머신이 도로에 붙어 있습니다</string>
+    <string name="usage_weekly_report_summary">기기 사용량 주간 보고서</string>
+    <string name="usage_weekly_report_title">기기 사용량에 대한 주간 보고서</string>
 </resources>
