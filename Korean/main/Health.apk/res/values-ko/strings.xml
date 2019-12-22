@@ -302,10 +302,10 @@
     <string name="sleep_detector_unopened">"아직 수면 추적을 시작하지 않았습니다."</string>
     <string name="sleep_empty_data_tips">완전한 수면주기를 거칩니다</string>
     <string name="sleep_goal_by_hours_minutes">목표 : %1$s %2$s</string>
-    <string name="sleep_goal_compliance">좋은 수면</string>
-    <string name="sleep_goal_maybe_compliance">상대적으로 좋은 수면</string>
+    <string name="sleep_goal_compliance">깊은 수면</string>
+    <string name="sleep_goal_maybe_compliance">상대적으로 깊은 수면</string>
     <string name="sleep_goal_not_compliance">잠이 충분하지 않습니다</string>
-    <string name="sleep_goal_not_upto_standard">"잠을 충분히 얻지 못했습니다."</string>
+    <string name="sleep_goal_not_upto_standard">"얕은 수면"</string>
     <string name="sleep_management_content1">취침 및 기상 알림 설정</string>
     <string name="sleep_management_exp_hours_minutes">"현재 설정이 매일 %1$s %2$s의 수면을 보장하지는 않습니다. 그 이상이 필요합니다."</string>
     <string name="sleep_management_label">취침 시간 관리</string>
@@ -317,7 +317,7 @@
     <string name="sleep_no_generate_report">"수면 데이터를 찾을 수 없습니다"</string>
     <string name="sleep_record_content">Mi Health는 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록합니다.</string>
     <string name="sleep_record_go_open">수면 데이터 기록을 시작하려면 \"트랙 수면\"스위치를 전환</string>
-    <string name="sleep_record_label">기록 절전</string>
+    <string name="sleep_record_label">수면 기록</string>
     <string name="sleep_remind">수면 알림</string>
     <string name="sleep_report">수면 통계</string>
     <string name="sleep_require_auto_start_permission">활동과 수면을 추적하기 위해 Mi Health가 자동 시작되도록 허용합니다.</string>
