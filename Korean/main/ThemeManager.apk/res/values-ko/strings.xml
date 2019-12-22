@@ -842,4 +842,7 @@
     <string name="update_flag">업데이트</string>
     <string name="de_preview">미리보기</string>
     <string name="wallpaper_set_as_incall_show">영상 프로필로 설정</string>
+    <string name="theme_setting_all">모든 테마</string>
+    <string name="wallpaper_setting_all">모든 배경화면</string>
+    <string name="wallpaper_setting_live">라이브</string>
 </resources>
