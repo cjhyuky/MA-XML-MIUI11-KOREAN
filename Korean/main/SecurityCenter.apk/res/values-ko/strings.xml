@@ -2718,7 +2718,6 @@
   <string name="unlock_set_unlock_pattern_summary">최소 4개 이상의 점을 연결해주세요</string>
   <string name="unlock_set_unlock_pattern_title">패턴</string>
   <string name="unlock_set_unlock_pin_summary">4자리를 입력해주세요</string>
-  <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="updating_diagnostic_botton">데이터 분석 중…</string>
   <string name="usage_sorted_activity_lable">데이터 사용량</string>
   <string name="usage_sorted_empty_text">비어있음</string>
@@ -2927,12 +2926,10 @@
     <string name="permission_action_foreground">​​앱을 사용하는 동안</string>
     <string name="phone_manage_recent_use">최근에 사용 된</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">%d초동안 활동이 없으면 장치잠금</string>
-    <string name="power_consume_rank_software">앱</string>
     <string name="shortcut_title_scan">검사</string>
     <string name="shortcut_title_whatsapp_clean">WhatsApp 클리너</string>
     <string name="system_permission_perm_optional">"(선택 사항)"</string>
-    <string name="title_of_app_manage">앱</string>
-    <string name="unlock_set_unlock_pin_title">비밀번호</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="vb_advanced_settings">사진</string>
     <string name="vb_advanced_settings_after_open">이후</string>
     <string name="vb_advanced_settings_before_open">이전</string>
