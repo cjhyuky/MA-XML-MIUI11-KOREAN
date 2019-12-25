@@ -9200,4 +9200,22 @@
     <string name="close_hotspot_hint">전송하기 전에 휴대용 핫스팟을 끄십시오</string>
     <string name="close_slave_wifi_hint">전송하기 전에 보조 Wi-Fi 네트워크 연결 끊기</string>
     <string name="video_tool_box_title">비디오 도구 상자</string>
+    <string name="gps_description">여러 위성 항법 시스템(GPS, BeiDou, GLONASS, Galileo)이 지원됩니다</string>
+    <string name="speaker">스피커</string>
+    <string name="speaker_clean">스피커 청소</string>
+    <string name="default_suppression_title">기본(권장)</string>
+    <string name="diy_suppression_summary">필요에 따라 오작동 방지 영역의 크기를 조정하십시오</string>
+    <string name="diy_suppression_title">맞춤 설정</string>
+    <string name="edge_mode_state_summary">부주의 한 터치를 방지하기 위해 곡면 화면의 가장자리를 설정하십시오. 이 영역의 그립 및 터치 동작에 응답하지 않습니다.
+</string>
+    <string name="edge_mode_state_title">잘못된 터치에 대한 가장자리 보호</string>
+    <string name="seek_bar_info">위조 방지 터치 영역의 크기 조정
+</string>
+    <string name="strong_suppression_summary">대형 안티 터치 영역, 더 나은 효과, 그러나 일부 엣지 조작 경험을 희생시킵니다
+</string>
+    <string name="strong_suppression_title">강한 터치 방지 모드</string>
+    <string name="wake_suppression_summary">작은 안티 터치 영역,보다 민감한 엣지 응답, 오조 가능성 증가
+</string>
+    <string name="wake_suppression_title">약한 위조 방지 터치 모드
+</string>
 </resources>
