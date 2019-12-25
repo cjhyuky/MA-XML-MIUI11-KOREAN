@@ -248,4 +248,5 @@
     <string name="restore_init_description">복원 시작</string>
     <string name="restoring_file_title_no_progress">파일 복원 중...</string>
     <string name="restoring_settings">설정 복원 중</string>
+    <string name="restore_from_mimover">Mi Mover를 사용하여 기존 장치에서 전송</string>
 </resources>
