@@ -694,7 +694,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="warning_bar_action_close">닫기</string>
     <string name="warning_bar_action_turn_on_master_sync">켜기</string>
     <string name="warning_bar_action_turn_on_sync">켜기</string>
-    <string name="warning_bar_action_upgrade_vip">Mi 클라우드 요금제 업그레이드</string>
+    <string name="warning_bar_action_upgrade_vip">업그레이드</string>
     <string name="warning_bar_add_short_cut_success">추가 완료</string>
     <string name="warning_bar_title_cloud_space_already_full">Mi클라우드 저장공간이 부족합니다. 사진이 동기화되지 않을 수 있습니다.</string>
     <string name="warning_bar_title_cloud_space_full">Mi클라우드가 꽉 찼습니다. 사진, 통화 기록, 기타 항목 동기화 실패.</string>
