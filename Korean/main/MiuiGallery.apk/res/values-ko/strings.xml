@@ -1413,7 +1413,7 @@
   <string name="user_agreement2">서비스 약관</string>
   <string name="user_agreement4">개인 정보 보호 정책</string>
   <string name="user_alias_self">본인</string>
-  <string name="user_notice_identify_summary_format">이 서비스를 이용하시면 저희의 %1$s와 %2$s에 동의하시는 것입니다.</string>
+  <string name="user_notice_identify_summary_format"><Data>"이 서비스를 사용하면 샤오미의 &lt;a href=\"%1$s\"&gt;\"서비스 약관\"&lt;/a&gt; 및 &lt;a href=\"%2$s\"&gt;\"개인정보 보호정책\"&lt;/a&gt;에 동의하는 것입니다."</Data></string>
   <string name="user_notice_title">이용 약관</string>
   <string name="video_edit_file_not_exits_tip">먼저 동영상 다운로드</string>
   <string name="video_editor_abandon_changes_tip_message">모든 변경 사항을 취소하시겠습니까?</string>
@@ -1622,4 +1622,7 @@
     <string name="unsupported_media_downloading_tip_format">"이 Android 버전에서는 원본 %s 이미지를 볼 수 없습니다. 다운로드 하시겠습니까?"</string>
     <string name="unsupported_media_scanned_tip">"%1$s 이미지가 감지되었습니다.이 버전의 안드로이드에서는 %2$s 이미지보기가 지원되지 않습니다."</string>
     <string name="unsupported_media_view_tip">"이 버전의 안드로이드에서는 원본 %s 이미지를 볼 수 없습니다"</string>
+    <string name="risk_control_deleted_message">누군가 %2$s의 %1$s에서 %3$s항목을 사용하여 클라우드에서 갤러리 항목을 삭제했습니다. 당신인가요?</string>
+    <string name="risk_control_deleted_title">보안 경고</string>
+    <string name="trash_bin_summary_local">최근 삭제된 사진 및 비디오 보기</string>
 </resources>
