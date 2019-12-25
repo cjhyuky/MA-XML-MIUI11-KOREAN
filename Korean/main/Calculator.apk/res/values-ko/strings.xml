@@ -447,7 +447,7 @@
     <string name="preference_privacy_title">개인정보 보호정책</string>
     <string name="preference_rating_title">앱 평가하기</string>
     <string name="privacy_policy">개인정보 보호정책</string>
-    <string name="dialog_privacy_content">계산기의 기본기능 외에도 이 앱에는 공학용 계산기와 다목적변환기가 포함되어있습니다.  일부기능은 정상적으로 작동하려면 인터넷에 연결해야 합니다. 계산기를 사용하기전에 %1$s 및 %2$s 사항을 읽고 동의해야 합니다.</string>
+    <string name="dialog_privacy_content">기본 기능 외에도 Mi 계산기를 사용하면 통화 및 단위를 변환하고 담보대출 상환 등을 계산할 수 있습니다. 일부 기능을 사용하려면 인터넷에 연결해야 정상적으로 작동 할 수 있습니다. <Data>이 앱을 사용하기 전에 &lt;a href=%1$s&gt;이용 약관&lt;/a&gt; 및 &lt;a href=%2$s&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의하십시오.</Data></string>
     <string name="dialog_privacy_title">사용약관과 정책</string>
     <string name="exit">나가기</string>
     <string name="tax_rate_provider_east_money">새로운 세금 규정으로 계산됨. 이스트 머니 제공.</string>
@@ -460,4 +460,14 @@
     <string name="preference_use_voice_title">음성 출력</string>
     <string name="preference_user_feedback_title">피드백</string>
     <string name="voice_guide_text">여기에서 음성 출력을 켤 수 있습니다</string>
+    <string name="disallow">"동의하지 않음"</string>
+    <string name="network_privacy">서비스를 제공하려면 이 앱을 인터넷에 연결하고 필요한 개인 정보를 수집해야합니다. 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.</string>
+    <string name="permission_location">액세스 위치</string>
+    <string name="permission_location_desc">위치 기반 서비스 제공</string>
+    <string name="permission_phone">액세스 기기 상태 및 ID</string>
+    <string name="permission_phone_desc">다른 장치 식별용</string>
+    <string name="permission_privacy_link"><Data>이 앱을 사용하기 전에&lt;a href=%1$s&gt;이용 약관&lt;/a&gt; 및 &lt;a href=%2$s&gt;개인정보 취급방침&lt;/a&gt;에 동의하세요.</Data></string>
+    <string name="permission_purpose">"계산기에 오신 것을 환영합니다! 기본기능 외에도 계산기를 사용하면 통화 및 측정 단위를 변환하고 모기지 상환금 등을 계산할 수 있습니다. 당사는 관련 법률, 규정, 개인정보 보호정책을 준수합니다.
+이 앱은 인터넷에 연결되어있어야 하며 개인정보를 수집하려면 다음 권한이 필요합니다."</string>
+    <string name="permission_remove_desc">설정에서 이 앱을 제거하거나 권한을 제한하고 권한을 취소하도록 선택할 수 있습니다.</string>
 </resources>
