@@ -9201,8 +9201,6 @@
     <string name="close_slave_wifi_hint">전송하기 전에 보조 Wi-Fi 네트워크 연결 끊기</string>
     <string name="video_tool_box_title">비디오 도구 상자</string>
     <string name="gps_description">여러 위성 항법 시스템(GPS, BeiDou, GLONASS, Galileo)이 지원됩니다</string>
-    <string name="speaker">스피커</string>
-    <string name="speaker_clean">스피커 청소</string>
     <string name="default_suppression_title">기본(권장)</string>
     <string name="diy_suppression_summary">필요에 따라 오작동 방지 영역의 크기를 조정하십시오</string>
     <string name="diy_suppression_title">맞춤 설정</string>
