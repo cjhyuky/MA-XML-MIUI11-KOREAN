@@ -1384,4 +1384,7 @@
     <string name="scan_not_installed">먼저 스캐너 설치</string>
     <string name="share_contact_as">연락처를 다른 사람과 공유</string>
     <string name="share_qrcode">QR 코드 공유</string>
+    <string name="confirm_delete_cloud_all_call_logs">클라우드와 이 장치 모두에서 %s님과 관련된 모든 통화 기록을 삭제하시겠습니까?</string>
+    <string name="deleteCloudConfirmationDetail">클라우드와 이 장치에서 %s님의 연락처 정보를 삭제하시겠습니까?</string>
+    <string name="no_phone_no_shortcut">"전화번호가 없는 연락처의 바로가기를 만들 수 없습니다"</string>
 </resources>
