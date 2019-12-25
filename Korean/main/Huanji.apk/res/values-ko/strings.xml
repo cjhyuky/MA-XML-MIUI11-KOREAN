@@ -99,4 +99,9 @@
     <string name="international_new_trans_intro_question_8">"8. 일부 타사 앱의 문자 메시지 및 앱 데이터를 전송할 수없는 이유는 무엇입니까?"</string>
     <string name="international_scanner_send_dialog_message">"일부 타사 앱의 문자 메시지 및 앱 데이터는 전송할 수 없습니다. 전송 중에 Wi-Fi를 끄거나 네트워크를 전환하지 마십시오."</string>
     <string name="scanner_wechat_overwrite_hit">타사 앱 제한으로 인해 새 기기의 채팅 내역 및 기타 앱 데이터는 이전이 완료된 후 기존 기기의 데이터와 데이터로 대체됩니다.</string>
+    <string name="back">뒤로</string>
+    <string name="next">다음</string>
+    <string name="selected">선택됨</string>
+    <string name="skip_underline">이 단계 건너 뛰기</string>
+    <string name="unselected">선택되지 않음</string>
 </resources>
