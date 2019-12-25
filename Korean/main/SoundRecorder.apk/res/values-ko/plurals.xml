@@ -21,4 +21,10 @@
     <plurals name="search_result">
         <item quantity="other">녹음 %d개 발견</item>
     </plurals>
+    <plurals name="confirm_delete_cloud_records">
+        <item amount="other">클라우드에서 녹화 %d개를 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item amount="other">녹화 %d개를 삭제하시겠습니까?</item>
+    </plurals>
 </resources>
