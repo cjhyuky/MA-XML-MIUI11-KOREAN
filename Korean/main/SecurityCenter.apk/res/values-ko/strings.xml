@@ -2964,4 +2964,5 @@
     <string name="videobox_settings_title">비디오 도구 상자</string>
     <string name="vtb_other_milink_connect">"지금 동영상을 전송할 수 없습니다. 다른 항목을 전송할 예정입니다."</string>
     <string name="vtb_stop_milink_connect">중지된 동영상 캐스팅</string>
+    <string name="gamebox_manual_record">녹화</string>
 </resources>
