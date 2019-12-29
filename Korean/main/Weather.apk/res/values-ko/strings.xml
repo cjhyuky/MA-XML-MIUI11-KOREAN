@@ -357,4 +357,9 @@
   <string name="request_permission_read_phone_state_dialog_content">귀하의 기기 식별을 위한</string>
   <string name="request_permission_storage_dialog_content">이미지 형식으로 날씨 정보를 공유하기 위한</string>
   <string name="widget_cta_not_agree">날씨 정보를 얻으려면 탭하세요</string>
+  <string name="manager_city_option_add_city_back_search">검색으로 돌아가기</string>
+  <string name="manager_city_option_add_city_content">이 도시를 시작 페이지에 추가 완료</string>
+  <string name="manager_city_option_add_city_title">추가 완료</string>
+  <string name="manager_city_option_add_home">시작 페이지에 추가</string>
+  <string name="manager_city_option_view_on_home">시작 페이지에서 보기</string>
 </resources>
