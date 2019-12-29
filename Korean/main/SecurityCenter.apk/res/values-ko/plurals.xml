@@ -230,10 +230,10 @@
         <item quantity="other">%d일 뒤 네트워크 속도 향상 세션이 끝납니다. 네트워크 속도 문제를 피하기 위해 세션을 갱신하십시오.</item>
     </plurals>
     <plurals name="gb_ad_people_play">
-        <item quantity="other">%1$d명이 음악을 듣는 중입니다.</item>
+        <item quantity="other">%1$d명이 음악을 듣는중</item>
     </plurals>
     <plurals name="gb_ad_ten_thousand_people_play">
-        <item quantity="other">%1$d명이 음악을 듣는 중입니다.</item>
+        <item quantity="other">%1$d명이 음악을 듣는중</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%d일 연속으로 체크인함</item>
@@ -301,10 +301,10 @@
         <item quantity="other">%d개 기능</item>
     </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d개 앱(%1$s 포함)이 배터리 소모중입니다</item>
+        <item quantity="other">%2$d개 앱(%1$s 포함)이 배터리 소모중</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d개 앱이 배터리 소모중입니다</item>
+        <item quantity="other">%d개 앱이 배터리 소모중</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s일</item>
@@ -343,16 +343,16 @@
         <item quantity="other">%s 분 후 완전 충전됨</item>
     </plurals>
     <plurals name="menu_text_antivirus_virus_ex">
-        <item quantity="other">%d개의 앱에 바이러스 또는 말웨어가 포함되어 있습니다</item>
+        <item quantity="other">%d개의 앱에 바이러스 또는 말웨어가 있음</item>
     </plurals>
     <plurals name="menu_text_antivirus_day_ex">
-        <item quantity="other">"%d일 동안 기기를 검사하지 않았습니다"</item>
+        <item quantity="other">"%d일 동안 검사하지 않음"</item>
     </plurals>
     <plurals name="menu_text_antispam_ex">
-        <item quantity="other">%d개의 메시지와 통화가 차단되었습니다</item>
+        <item quantity="other">%d개의 메시지와 통화가 차단됨</item>
     </plurals>
     <plurals name="menu_text_app_manager_ex">
-        <item quantity="other">%d개의 업데이트가 가능합니다</item>
+        <item quantity="other">업데이트 가능한 앱 %d개</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s 시간</item>
