@@ -1562,4 +1562,11 @@
   <string name="system_permission_storage_purpose">저장된 이미지와 같은 파일을 읽고 쓰거나 파일 업로드 / 다운로드 기능을 활성화하는 데 사용됩니다</string>
   <string name="vo_feedback_sub_shield">, 등.</string>
   <string name="vo_info_flow_rs_hint">검색</string>
+     <string name="channel_network_error">네트워크 에러가 발생했습니다. 네트워크 설정을 확인 후 다시 시도하세요.</string>
+     <string name="channel_no_data">"더이상 없습니다. 다른 채널을 확인해보세요!"</string>
+     <string name="comment_fail">"댓글 추가 실패. 다시 시도하세요."</string>
+     <string name="comment_success">댓글 추가 완료</string>
+     <string name="feedback_not_interested_response">"이 종류의 항목이 더 적습니다."</string>
+     <string name="short_video_network_error">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하십시오."</string>
+     <string name="tt_ad">광고</string>
 </resources>
