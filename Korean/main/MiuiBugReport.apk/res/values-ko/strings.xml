@@ -34,7 +34,7 @@
   <string name="catch_full_log_item_title_gps">위치 서비스</string>
   <string name="catch_full_log_item_title_sensor">센서</string>
   <string name="catch_full_log_item_title_signal">전화, 신호, 그리고 모바일 네트워크</string>
-  <string name="catch_full_log_item_title_wifi">Wi-Fi와 Mi 드롭</string>
+  <string name="catch_full_log_item_title_wifi">Wi-Fi와 ShareMe</string>
   <string name="catch_full_log_notification_content">탭하여 로그로 돌아가기</string>
   <string name="catch_full_log_notification_title">로그 생성중…</string>
   <string name="catch_full_log_start_dump_hprof">지연 로그 생성중</string>
@@ -560,4 +560,26 @@
   <string name="feedback_choose_occurrence_time">시간</string>
   <string name="feedback_hint_optional">선택</string>
   <string name="feedback_title_occurrence_time">선택 시간</string>
+    <string name="failed_to_fetch_fql">"FAQ 정보를 얻을 수 없고 네트워크 연결을 확인할 수 없습니다"</string>
+    <string name="jump_full_log_dialog_cancel">취소</string>
+    <string name="jump_full_log_dialog_confirm">생성</string>
+    <string name="jump_full_log_dialog_content">"로그를 사용하면 훨씬 더 빨리 보고하려는 문제를 찾아 해결할 수 있습니다. 로그를 생성하여 피드백에 첨부하십시오."</string>
+    <string name="jump_full_log_dialog_title">로그 생성</string>
+    <string name="net_error_info">네트워크 연결이 없습니다. 설정으로 이동하려면 여기를 탭하십시오.</string>
+    <string name="service_unavailiable">"정보를 얻을 수 없습니다. 나중에 다시 시도하십시오."</string>
+    <string name="toast_file_format_not_support">"이 파일 형식은 지원되지 않습니다. 다른 파일을 선택하십시오."</string>
+    <string name="update_dialog_cancel">취소</string>
+    <string name="update_dialog_confirm">업데이트</string>
+    <string name="update_dialog_content_log">"새로운 기능:
+%1$s
+크기: %2$s"</string>
+    <string name="update_dialog_content_version">지금 %1$s 버전으로 업데이트 할 수 있습니다.</string>
+    <string name="update_dialog_title">업데이트 가능</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">다운로드 매니저 연결에 실패했습니다. 응용 프로그램 관리에서 다운로드 관리자 상태를 확인하십시오.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"버전 %1$s 소개
+크기: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"버전 %1$s 소개
+델타 업데이트 크기 : %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s 업데이트!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">저장소를 사용할 수 없습니다. SD카드를 확인하십시오.</string>
 </resources>
