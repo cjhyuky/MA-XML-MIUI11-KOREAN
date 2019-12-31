@@ -270,9 +270,9 @@
   <string name="app_setting_xiaoai">샤오미팬클럽</string>
   <string name="app_suggest_detail_setting_summary">앱 제안은 사용 데이터를 기반으로 합니다.</string>
   <string name="app_suggest_detail_setting_title">앱 상태에 대한 엑세스 허용</string>
-  <string name="app_suggest_setting_brief">최근 사용한 앱 표시</string>
-  <string name="app_suggest_setting_brief_detail">앱 제안은 사용 데이터를 기반으로 합니다</string>
-  <string name="app_suggest_setting_title">앱 제안</string>
+  <string name="app_suggest_setting_brief">"가장 많이 사용하는 앱 및 기능에 대한 제안을 받으십시오"</string>
+  <string name="app_suggest_setting_brief_detail">"가장 많이 사용하는 앱 및 기능에 대한 제안을 받으십시오."</string>
+  <string name="app_suggest_setting_title">스마트 제안</string>
   <string name="apps">앱 버그 신고</string>
   <string name="apps_label">앱</string>
   <string name="arr_airport">목적지의 공항</string>
@@ -1682,4 +1682,5 @@
   <string name="migu_game">미니 게임</string>
   <string name="migu_parent">미구</string>
   <string name="migu_video">비디오</string>
+  <string name="card_expand_note_toast_share_null">이 메모는 비어 있습니다</string>
 </resources>
