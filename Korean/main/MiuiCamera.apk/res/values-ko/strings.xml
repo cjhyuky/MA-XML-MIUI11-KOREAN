@@ -1289,4 +1289,7 @@
     <string name="pref_camera_auxiliary_exposure_feedback">노출 확인</string>
     <string name="pref_camera_auxiliary_focus_peak">포커스 피킹</string>
     <string name="pref_camera_manual_description_title">전문가 기능 정보</string>
+    <string name="camcorder_tip_8k_max_video_duration">8K로 최대 6분을 기록할 수 있습니다</string>
+    <string name="video_beauty_tip_filter">필터</string>
+    <string name="video_beauty_tip_portrait_bokeh">흐림 효과</string>
 </resources>
