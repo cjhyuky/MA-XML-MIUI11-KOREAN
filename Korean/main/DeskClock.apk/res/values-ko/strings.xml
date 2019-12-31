@@ -417,4 +417,21 @@
     <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="repeat_count">회</string>
+    <string name="alert_ringtone">알람 벨소리</string>
+    <string name="alert_volume">벨소리 볼륨</string>
+    <string name="alert_volume_summary">알람 및 타이머의 벨소리 볼륨 설정</string>
+    <string name="auto_silence_summary">알람 및 타이머가 침묵되는 시간 설정</string>
+    <string name="edit_label">알람 라벨 편집</string>
+    <string name="holiday_update_title">공휴일에 대한 정보 업데이트</string>
+    <string name="label_input_desc">알람이 꺼지면 이 라벨이 화면에 표시됩니다</string>
+    <string name="label_input_hint">라벨 입력</string>
+    <string name="more_alert_setting">추가 알람 설정</string>
+    <string name="net_permission_cancel">"동의하지 않음"</string>
+    <string name="net_permission_ok">동의합니다</string>
+    <string name="new_label">알람 라벨 추가</string>
+    <string name="normal_settings">일반 설정</string>
+    <string name="other_settings">추가 설정</string>
+    <string name="ringtone_digital_timer">타이머</string>
+    <string name="time_settings">시계 설정</string>
+    <string name="timer_ringtone">타이머 벨소리</string>
 </resources>
