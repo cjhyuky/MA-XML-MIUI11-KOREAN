@@ -9211,4 +9211,17 @@
     <string name="strong_suppression_title">강한 터치 방지 모드</string>
     <string name="wake_suppression_summary">작은 안티 터치 영역,보다 민감한 엣지 응답, 오조 가능성 증가</string>
     <string name="wake_suppression_title">약한 위조 방지 터치 모드</string>
+    <string name="default_suppression_title">기본 (권장)</string>
+    <string name="diy_suppression_summary">실수로 닿지 않는 가장자리 근처의 영역 크기 조정</string>
+    <string name="diy_suppression_title">맞춤</string>
+    <string name="edge_mode_state_summary">"곡선 가장자리 주변이 터치에 응답하지 않습니다"</string>
+    <string name="edge_mode_state_title">가장자리의 우연한 접촉을 무시합니다</string>
+    <string name="privacy_failed_need_to_unlock_nofingerprint">새 지문을 사용하기 전에 비밀번호를 입력하십시오</string>
+    <string name="seek_bar_info">크기 조정</string>
+    <string name="strong_suppression_summary">"기기가 우발적인 터치에 반응하지 않으며 일부 제스처 컨트롤이 가장자리 근처에서 작동하지 않을 수 있습니다"</string>
+    <string name="strong_suppression_title">큰 범위</string>
+    <string name="wake_suppression_summary">기기가 우발적인 터치에 반응할 수 있지만 가장자리 근처의 제스처 컨트롤에도 반응합니다</string>
+    <string name="wake_suppression_title">작은 범위</string>
+    <string name="wifi_direct_close_hotspot_hint">Wi-Fi 다이렉트를 사용하기 전에 휴대용 핫스팟을 끄십시오</string>
+    <string name="wifi_direct_close_slave_wifi_hint">Wi-Fi 다이렉트를 사용하기 전에 보조 WLAN에서 분리</string>
 </resources>
