@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="camera_summary_for_cta">카메라 설정</string>
     <string name="xiaomi_update_dialog_title">업데이트 가능</string>
     <string name="xiaomi_update_dialog_message">"%1$s 버전
 크기: %2$s"</string>
