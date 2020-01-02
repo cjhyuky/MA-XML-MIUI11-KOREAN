@@ -9214,4 +9214,6 @@
     <string name="wake_suppression_title">작은 범위</string>
     <string name="wifi_direct_close_hotspot_hint">Wi-Fi 다이렉트를 사용하기 전에 휴대용 핫스팟을 끄십시오</string>
     <string name="wifi_direct_close_slave_wifi_hint">Wi-Fi 다이렉트를 사용하기 전에 보조 WLAN에서 분리</string>
+    <string name="codec_low_latency_summary">음악/동영상 재생을 위한 낮은 지연속도 경험 제공</string>
+    <string name="codec_low_latency_title">낮은 지연속도</string>
 </resources>
