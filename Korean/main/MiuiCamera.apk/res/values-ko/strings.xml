@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="document_mode_use_hint_text_body">"문서 모드, 스마트 보정 기능을 활성화합니다
+원터치로 문서를 스캔합니다"</string>
+    <string name="document_mode_use_hint_text_title">문서 모드</string>
     <string name="camera_setting">카메라</string>
     <string name="path_settings">시스템 앱/카메라/설정</string>
     <string name="search_settings">카메라 설정;품질;이미지 품질;이미지 위치;사진 위치;얼굴 감지;카메라 소리</string>
@@ -803,7 +806,8 @@
     <string name="pref_camera_mfnr_sat_enable_title">MFNR 활성화</string>
     <string name="pref_camera_optimized_flash_enable_title">맞춤 플래시</string>
     <string name="pref_video_hfr_title">비디오 HFR</string>
-    <string name="ai_scene_mode_use_hint_text">"AI 인식 카메라를 사용해보세요. 주변 환경을 자동으로 인식하여 최고의 결과물을 얻을 수 있도록 돕습니다."</string>
+    <string name="ai_scene_mode_use_hint_text">"AI를 사용하여 장면을 인식하고
+환경설정을 자동으로 조정합니다"</string>
     <string name="accessibility_back_preview_status">후면 카메라 미리보기</string>
     <string name="accessibility_beauty_panel_closed">Beautify 메뉴 숨김</string>
     <string name="accessibility_beauty_panel_open">Beautify 메뉴 열림</string>
