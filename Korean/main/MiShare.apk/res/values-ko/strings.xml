@@ -115,4 +115,19 @@
   <string name="error_receive_file_service_disabled">받는 전송 취소됨</string>
   <string name="error_send_file_service_disabled">보내는 전송 취소됨</string>
   <string name="send_files_to_remote_success_title">전송 완료</string>
+    <string name="cancel">취소</string>
+    <string name="complete">완료</string>
+    <string name="confirm_cancel_receive">"지금 전송을 취소하면 이 항목을 받을 수 없습니다. 정말 취소 하시겠습니까?"</string>
+    <string name="error_has_occurred">오류 발생</string>
+    <string name="error_receive_file_file_opened">"이 항목을 받을 수 없습니다. 지금 사용중인 것 같습니다."</string>
+    <string name="fail_in_send">"전송 실패"</string>
+    <string name="file_receive_progress_title">진행</string>
+    <string name="file_received_successfully_from_pc">%1$s에서 200개 이상의 파일을 받았습니다</string>
+    <string name="file_transfer_progress_title">진행</string>
+    <string name="i_know">확인</string>
+    <string name="mishare_folder_in_file_explorer">파일매니저 > MiShare</string>
+    <string name="send_successfully">전송 완료</string>
+    <string name="some_files_receive_completed">"%1$s의 수신 완료된 파일 보기"</string>
+    <string name="to_feedback">리포트</string>
+    <string name="view_file">보기</string>
 </resources>
