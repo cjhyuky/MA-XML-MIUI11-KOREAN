@@ -75,6 +75,6 @@
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>모두</item>
-        <item>받는 사람만</item>
+        <item>보내는 사람만</item>
     </string-array>
 </resources>
