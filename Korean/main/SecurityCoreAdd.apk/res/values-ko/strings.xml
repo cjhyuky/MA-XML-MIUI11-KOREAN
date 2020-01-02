@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="greenguard_install_cancle">괜찮습니다</string>
+    <string name="greenguard_install_confirm">설치</string>
+    <string name="greenguard_install_message">"패밀리 가드는 시스템 앱입니다. 인터넷을 통해 설치할 필요가 없습니다."</string>
+    <string name="greenguard_install_title">패밀리가드 설치</string>
     <string name="app_name">보안 센터</string>
     <string name="switch_data_settings">데이터 이동</string>
     <string name="switch_in_contacts">연락처 가져오기</string>
