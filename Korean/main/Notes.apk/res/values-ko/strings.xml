@@ -337,4 +337,26 @@
      <string name="new_audio_create_done_talkback_des">생성됨</string>
      <string name="new_audio_create_guide_tip">음성 메모를 생성하려면 길게 누르고 있으세요</string>
      <string name="new_audio_create_talkback_des">탭하여 문자 메모를 작성하십시오. 길게 누르면 음성 메모가 생성됩니다. 버튼을 놓으면 녹음이 중지되고 메모를 만들거나 위로 밀어서 취소합니다.</string>
+    <string name="repeat_mode_day">매일</string>
+    <string name="repeat_mode_default">사용 안함</string>
+    <string name="repeat_mode_dialog_title">반복</string>
+    <string name="repeat_mode_month">매월</string>
+    <string name="repeat_mode_normal_workday">월~금요일</string>
+    <string name="repeat_mode_set_item_day">매일</string>
+    <string name="repeat_mode_set_item_month_detail_lastday">매달 마지막 날</string>
+    <string name="repeat_mode_set_item_month_global">매월 (같은 날짜)</string>
+    <string name="repeat_mode_set_item_none">사용 안함</string>
+    <string name="repeat_mode_set_item_normal_workday">월요일~금요일</string>
+    <string name="repeat_mode_set_item_week">매주(%s)</string>
+    <string name="repeat_mode_set_item_week_detail">매주(%s)</string>
+    <string name="repeat_mode_set_item_year">매년(%s)</string>
+    <string name="repeat_mode_set_item_year_detail">매년(%s)</string>
+    <string name="repeat_mode_set_title">반복</string>
+    <string name="repeat_mode_week">매주</string>
+    <string name="repeat_mode_year">매년</string>
+    <string name="todo_schedule_time_repeat_day">매일</string>
+    <string name="todo_schedule_time_repeat_month">매월</string>
+    <string name="todo_schedule_time_repeat_normal_workday">월요일부터 금요일까지</string>
+    <string name="todo_schedule_time_repeat_week">, 매주</string>
+    <string name="todo_schedule_time_repeat_year">, 매년</string>
 </resources>
