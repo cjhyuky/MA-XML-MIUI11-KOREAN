@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="more_expanded">더보기</string>
     <string name="temperature_unit">%1$s°</string>
     <string name="app_name">날씨</string>
     <string name="gps_hint">현재 위치</string>
