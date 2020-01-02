@@ -51,4 +51,20 @@
   <plurals name="send_file_success_detail_images_content">
     <item quantity="other">%2$s 위치로 %1$d개 사진 전송됨</item>
   </plurals>
+    <plurals name="file_received_successfully">
+        <item quantity="other">%1$s에서 %2$d 파일을 받았습니다</item>
+        <item quantity="one">%1$s에서 %2$d 파일을 받았습니다</item>
+    </plurals>
+    <plurals name="image_received_successfully">
+        <item quantity="other">%1$s에서 %2$d 사진을 받았습니다</item>
+        <item quantity="one">%1$s에서 %2$d 사진을 받았습니다</item>
+    </plurals>
+    <plurals name="successfully_sent_files">
+        <item quantity="other">%2$d 파일을 %1$s(으)로 보냈습니다</item>
+        <item quantity="one">%2$d 파일을 %1$s(으)로 보냈습니다</item>
+    </plurals>
+    <plurals name="successfully_sent_images">
+        <item quantity="other">%2$d 사진을 %1$s(으)로 보냈습니다</item>
+        <item quantity="one">%2$d 사진을 %1$s(으)로 보냈습니다</item>
+    </plurals>
 </resources>
