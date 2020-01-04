@@ -71,10 +71,10 @@
         <item quantity="other">잘못된 PIN코드, %d회 시도 남음</item>
     </plurals>
     <plurals name="phone_locked_timeout_seconds_string">
-        <item quantity="other">%d초 안에 재시도하세요</item>
+        <item quantity="other">%d초 후 재시도하세요</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
-        <item quantity="other">%d분 안에 재시도하세요</item>
+        <item quantity="other">%d분 후 재시도하세요</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d개의 새로운 알림</item>
