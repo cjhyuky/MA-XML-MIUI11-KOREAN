@@ -1818,7 +1818,7 @@
   <string name="power_center_stop_scan_title">스캐닝 중단</string>
   <string name="power_center_super_save_summary_text">배터리 수명 %1$d시간 %2$d분 확보 완료</string>
   <string name="power_center_super_save_title_text">초절전 모드</string>
-  <string name="power_center_time_to_boot">전원 켜진 시간</string>
+  <string name="power_center_time_to_boot">전원 켜질 시간</string>
   <string name="power_center_time_to_shutdown">전원 꺼질 시간</string>
   <string name="power_center_title">배터리 최적화</string>
   <string name="power_consume_hardware_total_format">하드웨어: %s</string>
