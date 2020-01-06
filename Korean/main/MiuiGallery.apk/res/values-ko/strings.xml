@@ -1625,4 +1625,5 @@
     <string name="risk_control_deleted_message">누군가 %2$s의 %1$s에서 %3$s항목을 사용하여 클라우드에서 갤러리 항목을 삭제했습니다. 당신인가요?</string>
     <string name="risk_control_deleted_title">보안 경고</string>
     <string name="trash_bin_summary_local">최근 삭제된 사진 및 비디오 보기</string>
+  <string name="video_editor_not_support_8k_tips">"8K 비디오를 편집할 수 없습니다"</string>
 </resources>
