@@ -1297,4 +1297,20 @@
     <string name="camcorder_tip_8k_max_video_duration">8K로 최대 6분을 기록할 수 있습니다</string>
     <string name="video_beauty_tip_filter">필터</string>
     <string name="video_beauty_tip_portrait_bokeh">흐림 효과</string>
+  <string name="ai_watermark_title">AI 워터 마크</string>
+  <string name="document_mode_use_hint_text_body">"라인 강조 및 향상되게
+문서를 자동으로 스캔"</string>
+  <string name="document_mode_use_hint_text_title">문서 스캔</string>
+  <string name="ai_watermark_toast_off">AI 워터 마크가 꺼져 있습니다</string>
+  <string name="ai_watermark_toast_on">AI 워터 마크가 켜져 있습니다</string>
+  <string name="color_enhance">색조강화</string>
+  <string name="mimoji_create_emoticon">한 번의 클릭으로 이모티콘 생성</string>
+  <string name="mimoji_gif_accelerate">속도 향상</string>
+  <string name="mimoji_gif_clear_bg">배경으로 이동</string>
+  <string name="mimoji_gif_edit_hint">텍스트를 추가하려면 클릭하십시오</string>
+  <string name="mimoji_gif_edit_title">GIF 편집</string>
+  <string name="mimoji_gif_reverse">거꾸로</string>
+  <string name="mimoji_save_finish">완료</string>
+  <string name="module_name_mimoji2">미모지2</string>
+  <string name="preview_back_pressed_hint">다시 누르면 미리보기로 돌아갑니다</string>
 </resources>
