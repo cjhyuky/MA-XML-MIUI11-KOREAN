@@ -1298,9 +1298,6 @@
     <string name="video_beauty_tip_filter">필터</string>
     <string name="video_beauty_tip_portrait_bokeh">흐림 효과</string>
   <string name="ai_watermark_title">AI 워터 마크</string>
-  <string name="document_mode_use_hint_text_body">"라인 강조 및 향상되게
-문서를 자동으로 스캔"</string>
-  <string name="document_mode_use_hint_text_title">문서 스캔</string>
   <string name="ai_watermark_toast_off">AI 워터 마크가 꺼져 있습니다</string>
   <string name="ai_watermark_toast_on">AI 워터 마크가 켜져 있습니다</string>
   <string name="color_enhance">색조강화</string>
