@@ -142,4 +142,10 @@
     <string name="rationale_ask_again">요청한 권한이 없으면 이 앱이 제대로 작동하지 않을 수 있습니다. 앱 설정 화면을 열어 앱 권한을 수정합니다.</string>
     <string name="search_menu_title">검색</string>
     <string name="title_settings_dialog">권한 요구됨</string>
+  <string name="miservice_notification_huanji_content">Mi Mover를 사용하여 전송</string>
+  <string name="miservice_notification_huanji_title">이전 전화에 중요한 항목이 있습니까?</string>
+  <string name="miservice_notification_scan_content">스캐너를 사용하여 단어와 구를 번역</string>
+  <string name="miservice_notification_scan_title">순간 번역</string>
+  <string name="miservice_notification_boot_sub_title">MIUI의 로컬 기능 및 재미 소개</string>
+  <string name="miservice_notification_boot_title">새로운 기계를 빨리 알아 가십시오</string>
 </resources>
