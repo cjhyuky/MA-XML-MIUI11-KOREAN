@@ -9216,4 +9216,9 @@
     <string name="wifi_direct_close_slave_wifi_hint">Wi-Fi 다이렉트를 사용하기 전에 보조 WLAN에서 분리</string>
     <string name="codec_low_latency_summary">음악/동영상 재생을 위한 낮은 지연속도 경험 제공</string>
     <string name="codec_low_latency_title">낮은 지연속도</string>
+    <string name="use_otg_charge_only">역 충전</string>
+    <string name="use_otg_charge_only_summary">빠른 1A 충전</string>
+    <string name="use_otg_file_transfers">역 충전 및 파일 전송중</string>
+    <string name="use_otg_file_transfers_summary">약 500mA 충전 및 파일 전송</string>
+    <string name="use_otg_title">USB OTG</string>
 </resources>
