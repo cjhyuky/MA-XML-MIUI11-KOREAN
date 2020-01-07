@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="vo_mi_ad_detail">%s로 열기</string>
   <string name="abc_action_bar_home_description">홈으로</string>
   <string name="abc_action_bar_up_description">위로</string>
   <string name="abc_action_menu_overflow_description">더 보기</string>
