@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="one_key_call_title">통화하려면 탭하세요</string>
     <string name="category_edit_back_confirm_dialog_content">변경사항을 저장하시겠습니까?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">"저장 안함"</string>
     <string name="category_edit_back_confirm_dialog_positive_button">저장</string>
