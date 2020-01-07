@@ -3014,4 +3014,8 @@
     <string name="ew_setting_normal_push_title">시스템 알림 수신</string>
     <string name="ew_setting_strong_push_message">강도가 2.0 이상인 지진</string>
     <string name="ew_setting_strong_push_title">강진 경보 (기본 활성화)</string>
+  <string name="gb_voice_changer_permission_dlg_title">권한 요구됨</string>
+  <string name="gb_voice_changer_permission_dlg_msg">음성 변조기가 정상적으로 작동하려면 음성 녹음 권한이 필요합니다.</string>
+  <string name="gb_voice_changer_dlg_button_refuse">거절</string>
+  <string name="gb_voice_changer_dlg_button_agree">허용</string>
 </resources>
