@@ -1234,6 +1234,7 @@
   <string name="calendar_sound_dialog_title">갤린더 소리 선택</string>
   <string name="calendar_sound_title">캘린더 소리</string>
   <string name="call_and_contact">전화와 연락처</string>
+  <string name="call_example_name">이름</string>
   <string name="call_manager_enable_summary">이 서비스에서 통화 방식을 관리하도록 허용합니다.</string>
   <string name="call_manager_enable_title">통화 관리자 사용</string>
   <string name="call_manager_title">통화 관리자</string>
