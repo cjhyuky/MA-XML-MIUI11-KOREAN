@@ -845,4 +845,5 @@
     <string name="theme_setting_all">모든 테마</string>
     <string name="wallpaper_setting_all">모든 배경화면</string>
     <string name="wallpaper_setting_live">라이브</string>
+    <string name="miuishare_sys_title_share">추가 옵션</string>
 </resources>
