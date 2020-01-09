@@ -9218,8 +9218,10 @@
     <string name="codec_low_latency_summary">음악/동영상 재생을 위한 낮은 지연속도 경험 제공</string>
     <string name="codec_low_latency_title">낮은 지연속도</string>
     <string name="use_otg_charge_only">역 충전</string>
-    <string name="use_otg_charge_only_summary">빠른 1A 충전</string>
+    <string name="use_otg_charge_only_summary">빠른 1.8A 충전</string>
     <string name="use_otg_file_transfers">역 충전 및 파일 전송중</string>
     <string name="use_otg_file_transfers_summary">약 500mA 충전 및 파일 전송</string>
     <string name="use_otg_title">USB OTG</string>
+    <string name="poco_launcher_privacy_policy">포코 런처 개인정보 보호정책</string>
+    <string name="poco_launcher_user_agreement">포코 런처 사용자 약관</string>
 </resources>
