@@ -3,4 +3,7 @@
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s시간 %2$s"</item>
     </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">%d개 항목 선택됨</item>
+    </plurals>
 </resources>
