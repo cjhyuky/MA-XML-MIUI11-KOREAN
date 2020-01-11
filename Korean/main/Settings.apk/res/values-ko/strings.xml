@@ -2142,10 +2142,10 @@
   <string name="double_twist_for_camera_suggestion_title">셀카 빠르게 촬영</string>
   <string name="download_current_rom">최신 MIUI 버전 받기</string>
   <string name="downloading_description">다운로드 중…</string>
-  <string name="doze_always_on_summary">이 기능은 시스템 전력소비를 증가시킵니다. 기기가 어두운 곳에서 오랫동안 계속 켜져있거나 배터리절약기 제한이 적용되면 전원이 꺼집니다.</string>
+  <string name="doze_always_on_summary">이 기능은 시스템 전력소비를 증가시킵니다. 설정이 켜진채 어두운 곳에 오래 있거나 배터리절약이 적용되면 기능이 꺼집니다.</string>
   <string name="doze_always_on_title">항상 켜짐</string>
   <string name="doze_summary">기기를 들거나 알림 수신 시 절전 모드 해제</string>
-  <string name="doze_title">절전 모드 자동 해제</string>
+  <string name="doze_title">화면 항상 켜짐</string>
   <string name="draw_overlay">앱 위에 그리기</string>
   <string name="draw_overlay_title">앱위에 앱을 띄울 수 있습니다</string>
   <string name="drive_mode">자동차 모드</string>
