@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="select_no_more_than">
+        <item quantity="other">"%d개 이상의 항목 선택 실패"</item>
+    </plurals>
     <plurals name="sync_items_close">
         <item quantity="other">%d개 꺼짐</item>
     </plurals>
