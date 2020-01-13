@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_menu_item_split_disable">"앱이 분할화면을 지원하지 않습니다."</string>
+    <string name="accessibility_menu_item_split_enable">앱이 분할화면을 지원합니다</string>
+    <string name="accessibility_recents_item_open_app_info">%s 앱 정보 열기</string>
+    <string name="accessibility_splite_screen_primary">분할 화면에 첫번째 앱 추가됨</string>
+    <string name="accessibility_splite_screen_secondary">분할 화면에 두번째 앱 추가됨</string>
+    <string name="launcher_search_bar_title">홈 화면 검색 바</string>
+    <string name="launcher_search_bar_value_disable">꺼짐</string>
+    <string name="launcher_search_bar_value_enable">켜짐</string>
+    <string name="memory_clear_result_giga">%1$sGB 청소됨</string>
+    <string name="memory_clear_result_mega">%1$sMB 청소됨</string>
+    <string name="please_slide_agian">다시 슬라이드하세요</string>
+    <string name="recent_menu_item_info">정보</string>
+    <string name="recent_menu_item_lock">잠금</string>
+    <string name="recent_menu_item_multi_window">분할</string>
+    <string name="recent_menu_item_unlock">잠금해제</string>
+    <string name="recents_app_info_button_label">앱정보</string>
+    <string name="recents_dimiss_task">삭제</string>
+    <string name="recents_empty_message">최근 항목이 없습니다</string>
+    <string name="recents_empty_message_dismissed_all">"청소 완료"</string>
+    <string name="recents_empty_message_multi_window">홈화면에서 앱 열기</string>
+    <string name="recents_title_app_manager">앱 관리</string>
+    <string name="recents_title_game">게임</string>
+    <string name="recents_title_garbage_cleanup">클리너</string>
+    <string name="recents_title_garbage_deepclean">정밀 청소</string>
+    <string name="recents_title_market">앱 찾기</string>
+    <string name="recents_title_security_scan">보안 스캔</string>
+    <string name="status_bar_recent_memory_info1">%1$sB 중 %2$sB 사용가능</string>
     <string name="one_key_call_title">통화하려면 탭하세요</string>
     <string name="category_edit_back_confirm_dialog_content">변경사항을 저장하시겠습니까?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">"저장 안함"</string>
