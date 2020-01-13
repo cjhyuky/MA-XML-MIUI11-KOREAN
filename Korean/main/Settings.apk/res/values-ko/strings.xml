@@ -9224,4 +9224,11 @@
     <string name="use_otg_title">USB OTG</string>
     <string name="poco_launcher_privacy_policy">포코 런처 개인정보 보호정책</string>
     <string name="poco_launcher_user_agreement">포코 런처 사용자 약관</string>
+  <string name="navigation_guide_app_quick_switch_hide_line_summary">화면 하단에서 위로 스와이프한 다음 왼쪽이나 오른쪽으로 스와이프</string>
+  <string name="navigation_guide_app_quick_switch_summary">전체 화면 표시기 또는 화면 하단에서 왼쪽 또는 오른쪽으로 밀기</string>
+  <string name="navigation_guide_app_quick_switch_title">앱 간 전환</string>
+  <string name="navigation_guide_gesture_line_dialog_summary">전체 화면 표시기를 숨기면 앱 간 전환을 위한 새로운 제스처가 사용됩니다. 지금 이 제스처를 배우시겠습니까?</string>
+  <string name="navigation_guide_gesture_line_dialog_title">새로운 제스처 배우기</string>
+  <string name="navigation_guide_hide_gesture_line_summary">"전체 화면 동작을 사용할 때 전체 화면 표시기를 표시하지 않습니다"</string>
+  <string name="navigation_guide_hide_gesture_line_title">전체 화면 표시기 숨기기</string>
 </resources>
