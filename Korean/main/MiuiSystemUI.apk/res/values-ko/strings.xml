@@ -1961,4 +1961,8 @@
   <string name="accessibility_status_bar_slave_wifi_one_bar">보조 Wi-Fi 1개 바</string>
   <string name="accessibility_status_bar_slave_wifi_three_bars">보조 Wi-Fi 3개 바</string>
   <string name="accessibility_status_bar_slave_wifi_two_bars">보조 Wi-Fi 2개 바</string>
+  <string name="accessibility_status_bar_micphone">마이크 연결됨</string>
+  <string name="how_to_use_app_quick">앱을 전환하는 방법</string>
+  <string name="how_to_use_app_quick_hide_line_summary">화면 하단에서 위로 쓸어 올리신 후 왼쪽이나 오른쪽으로 스와이프하세요</string>
+  <string name="how_to_use_app_quick_summary">전체 화면 표시기 또는 화면 하단에서 왼쪽 또는 오른쪽으로 미세요</string>
 </resources>
