@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sina_share_pendding">전송 중…</string>
+  <string name="check_contact">추가</string>
+  <string name="choose_contact_title">연락처</string>
+  <string name="picker_list_empty">연락처가 없습니다</string>
+  <string name="picker_search_empty">"연락처를 찾을 수 없습니다"</string>
+  <string name="picker_search_hint">검색</string>
+  <string name="starred_contact">즐겨찾기</string>
+    <string name="sina_share_pendding">전송중…</string>
     <string name="sina_share_success">전송됨</string>
     <string name="sina_share_fail">전송 실패</string>
     <string name="sina_token_expired_warning">Weibo 계정이 만료되었습니다. 계정을 다시 추가하십시오.</string>
