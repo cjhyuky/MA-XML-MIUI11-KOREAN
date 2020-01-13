@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="power_save_ps_close_setting_3">전력 소비량이 많은 서비스 및 기능 끄기(%1$s, %2$s, %3$s)</string>
+  <string name="power_save_ps_close_setting_4">전력 소비가 많은 서비스 및 기능 끄기(%1$s, %2$s, %3$s, %4$s)</string>
+  <string name="power_save_ps_close_setting_5">고전력 소비(%1$s, %2$s, %3$s, %4$s, %5$s)의 서비스 및 기능 끄기</string>
+  <string name="power_save_ps_close_setting_5gnet">5G 네트워크 연결</string>
+  <string name="power_save_ps_close_setting_6">전력 소비가 높은 서비스 및 기능(%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)을 끄십시오</string>
+  <string name="power_save_ps_close_setting_7">전력 소비가 높은 서비스 및 기능(%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)을 끄십시오</string>
+  <string name="power_save_ps_close_setting_dclickwakeup">\"더블 탭하여 화면을 깨우거나 끄기\"</string>
+  <string name="power_save_ps_close_setting_fingeraod">\"화면이 꺼져있을 때 지문인식 아이콘 표시\"</string>
+  <string name="power_save_ps_close_setting_gps">GPS</string>
+  <string name="power_save_ps_close_setting_haptic">햅틱 피드백</string>
+  <string name="power_save_ps_close_setting_pickupwakeup">\"들어올려 깨우기\"</string>
+  <string name="power_save_ps_close_setting_sync">동기화</string>
   <string name="about_autostart">재시작 정보</string>
   <string name="ac_enter_applock">앱 잠금 진입</string>
   <string name="ac_firstUseApplock_subTitle">시스템 보안 레벨을 강화하십시오.</string>
