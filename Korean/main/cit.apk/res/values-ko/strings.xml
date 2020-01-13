@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="cit_front_camera_motor_cali_fail">모터 측정 실패</string>
+  <string name="cit_front_camera_motor_cali_success">모터 측정 완료</string>
+  <string name="cit_front_camera_motor_cali_tips">팝업 카메라 모터 측정중에는 카메라를 막지마세요</string>
   <string name="cit_OTG_plugin_check_summary">OTG 기기가 연결되면, \"USB OTG 기기 연결됨\"이란 문구가 아래에 표시됩니다.</string>
   <string name="cit_OTG_plugin_check_title">OTG (감지)</string>
   <string name="cit_OTG_plugout_check_summary">OTG 기기가 분리되면, \"USB OTG 기기 분리됨\"이란 문구가 아래에 표시됩니다.</string>
