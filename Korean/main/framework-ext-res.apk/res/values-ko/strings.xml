@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="help">도움말 보기</string>
+    <string name="help_content">"필요한 장치를 찾지 못하면 다른 사람에게 Mi Share를 켰는지 확인하세요."</string>
     <string name="status_bar_toggle_bluetooth">블루투스</string>
     <string name="status_bar_toggle_auto_brightness">밝기</string>
     <string name="status_bar_toggle_data">모바일데이터</string>
