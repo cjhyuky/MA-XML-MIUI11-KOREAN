@@ -71,4 +71,19 @@
         <item quantity="other">"비디오를 불러올 수 없습니다.
  %d초안에 다음 영상이 재생됩니다…"</item>
     </plurals>
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d개 답글</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">%d 시간 전</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">%d개 댓글 보기</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">%d 분 전</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">%d개 이유 선택됨</item>
+    </plurals>
 </resources>
