@@ -3031,5 +3031,5 @@
     <string name="gb_voice_changer_dlg_button_refuse">거절</string>
     <string name="gb_voice_changer_dlg_button_agree">허용</string>
     <string name="antispam_mms_text">차단된 메시지를 볼 수 있도록 메시지를 기본 SMS 문자 메시지 앱으로 설정</string>
-    <string name="antispam_mms_text_setting">메시지를 차단 목록을 사용할 수 있도록 기본 SMS 문자 메시지 앱으로 설정</string>
+    <string name="antispam_mms_text_setting">메시지를 차단 목록을 사용할 수 있도록 기본 SMS 문자 메시지 앱으로 설정</string>
 </resources>
