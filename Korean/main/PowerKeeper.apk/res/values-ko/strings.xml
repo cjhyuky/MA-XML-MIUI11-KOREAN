@@ -107,6 +107,6 @@
   <string name="warm_performance_tip">고부하 시나리오에서는 휴대전화의 온도가 기본 모드 사용 시에 비해 높습니다.</string>
   <string name="set_gsmcore_title">구글 플레이서비스 비활성화</string>
   <string name="set_gsmcore_summary">배터리 절약 모드일 때 구글 플레이서비스를 비활성화합니다</string>
-  <string name="power_tools_current">현재</string>
-  <string name="power_tools_fps">FPS</string>
+  <string name="power_tools_current">현재</string>
+  <string name="power_tools_fps">FPS</string>
 </resources>
