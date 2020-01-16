@@ -30,4 +30,12 @@
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d개 기기 연결됨</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%s 일</item>
+        <item quantity="one">%s 일</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s 시간</item>
+        <item quantity="one">%s 시간</item>
+    </plurals>
 </resources>
