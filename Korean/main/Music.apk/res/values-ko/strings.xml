@@ -832,4 +832,12 @@
   <string name="sleep_mode_seek_bar_end">120분</string>
   <string name="sleep_mode_seek_bar_start">1분</string>
   <string name="sync_only_in_wifi_summary">샤오미 클라우드로 모든 기기에서 음악 동기화. 모바일 데이터 연결을 사용하여 음악을 동기화하면 데이터 사용량이 증가합니다. 요금제 데이터 한도를 초과하면 이동 통신사가 추가 요금을 청구 할 수 있습니다.</string>
+  <string name="cannot_download_to_sdcard_hint">"저작권 제한으로 인해 SD 카드로 항목을 다운로드 할 수 없습니다. 대신 내부 저장소로 항목이 다운로드됩니다."</string>
+  <string name="cannot_download_to_sdcard_hint">"저작권 제한으로 인해 SD 카드로 항목을 다운로드 할 수 없습니다. 대신 내부 저장소로 항목이 다운로드됩니다."</string>
+
+  <string name="create_playlist_input_hint">재생목록 이름을 입력하세요</string>
+
+  <string name="online_apk_install_tips">"이 컨텐츠 제공자의 플러그인을 한 번 다운로드해야합니다. 다음에 직접 노래에 액세스 할 수 있습니다."</string>
+
+
 </resources>
