@@ -2571,4 +2571,12 @@
     <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM%d 으로 전화 발신 실패. 차이나 텔레콤에 연락하셔서 VoLTE 서비스를 켜세요."</string>
     <string name="notification_demo_version_text">"전화를 걸거나 모바일 데이터를 사용할 수 없습니다"</string>
     <string name="notification_demo_version_title">이것은 데모 장치입니다</string>
+    <string name="mobile_advanced_nr_network_title">5G 네트워크 유형</string>
+    <string name="nr_network_info">5G 네트워크 사용 정보</string>
+    <string name="nr_usaged_first_used_time">5G 네트워크 사용가능</string>
+    <string name="nr_usaged_module">기기 모델</string>
+    <string name="nr_usaged_network_rate">최고 속도</string>
+    <string name="nr_usaged_network_usaged">"금일 데이터 사용"</string>
+    <string name="nr_usaged_operator">통신사</string>
+    <string name="nr_usaged_used_time">사용 기간</string>
 </resources>
