@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="power_monitor_summary">전원을 모니터링하는데 사용되는 도구</string>
+  <string name="power_monitor_title">전원 모니터링</string>
   <string name="abc_action_bar_home_description">홈으로</string>
   <string name="abc_action_bar_up_description">위로 가기</string>
   <string name="abc_action_menu_overflow_description">더 많은 옵션</string>
