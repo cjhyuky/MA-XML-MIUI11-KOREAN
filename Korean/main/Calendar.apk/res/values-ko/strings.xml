@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="setting_chinese_calendar">음력</string>
+    <string name="setting_show_reject_agenda">거절된 일정 표시</string>
+    <string name="shortcut_new_event">일정 추가</string>
+    <string name="shortcut_next_agenda">다음 일정</string>
+    <string name="shortcut_settings">설정</string>
+    <string name="solar_lunar_convert_description">양력 음력 전환</string>
+    <string name="solar_lunar_convert_description_2">양력 음력 전환</string>
+    <string name="solar_lunar_convert_tab">전환</string>
+    <string name="solar_to_lunar_chinese_calendar">양력을 음력으로</string>
     <string name="abc_action_bar_home_description">홈화면으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">더 많은 옵션</string>
