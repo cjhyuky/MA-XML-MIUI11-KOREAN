@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="notification_add_todo">알림</string>
+    <string name="notification_add_todo_content">픽업 코드: %s</string>
     <string name="about_smart_sms_title">스마트 메시지 파트너</string>
     <string name="action_firewall_setting">차단 목록</string>
     <string name="activity_not_found">이 동작을 처리할 앱을 발견하지 못했습니다.</string>
