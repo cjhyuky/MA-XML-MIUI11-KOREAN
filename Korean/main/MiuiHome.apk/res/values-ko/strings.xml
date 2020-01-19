@@ -488,4 +488,7 @@
     <string name="reset_cate_tip_title">기본 그룹 복원</string>
     <string name="edit">편집</string>
     <string name="system_shortcuts_remove">삭제</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">"캐스팅 중에는 분할 화면을 사용할 수 없습니다"</string>
+    <string name="recents_task_screening">캐스팅</string>
+    <string name="task_access_locked_app_msg">앱 잠금 켜짐</string>
 </resources>
