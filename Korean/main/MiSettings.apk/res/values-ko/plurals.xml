@@ -74,4 +74,10 @@
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">주중: %d 시간</item>
     </plurals>
+     <plurals name="usage_stats_remain_hour">
+         <item quantity="other">%s 시간</item>
+     </plurals>
+     <plurals name="usage_stats_remain_miunte">
+         <item quantity="other">%s 분</item>
+	 </plurals>
 </resources>
