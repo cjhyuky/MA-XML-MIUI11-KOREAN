@@ -5,7 +5,6 @@
     <string name="cabl_enable_summary_off">백라이트가 재생되는 컨텐츠에 상관없이 켜집니다.</string>
     <string name="cabl_enable_summary_on">백라이트가 재생되는 컨텐츠에 따라 조절됩니다.</string>
     <string name="cabl_enable_title">지능형 백라이트 조정 기능 활성화</string>
-    <string name="cabl_level_default">자동</string>
     <string name="cabl_levels_summary">품질이 낮은 CABL이 표시되는 콘텐츠에 영향을 끼치지 않는 선에서 최대한 많은 전력을 절약합니다. 자동 화질 설정은 표시되는 콘텐츠 유형을 자동 감지하여 절전을 극대화하는 것을 의미합니다.</string>
     <string name="cabl_levels_title">품질</string>
     <string name="cabl_settings_title">CABL (지능형 백라이트 조절 기능)</string>
