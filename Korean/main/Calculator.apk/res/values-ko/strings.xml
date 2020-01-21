@@ -76,7 +76,6 @@
     <string name="mortgage_tab_commercial_loan">상업 대출</string>
     <string name="mortgage_tab_accumulation_fund">펀드 대출</string>
     <string name="mortgage_tab_combining_loan">혼합 대출</string>
-    <string name="mortgage_amount">총</string>
     <string name="mortgage_interest_rate">대출 이율</string>
     <string name="mortgage_calculate">계산하기</string>
     <string name="mortgage_hint_loan">대출 총액 입력</string>
@@ -99,7 +98,6 @@
     <string name="mortgage_details">주택융자 계산 내역</string>
     <string name="mortgage_detail_yearly_repayment">올해 상환</string>
     <string name="mortgage_detail_yearly_interest">올해 이자</string>
-    <string name="mortgage_detail_month">월</string>
     <string name="mortgage_detail_monthly_repayment">당기 상환</string>
     <string name="mortgage_detail_monthly_principal">당기 원금</string>
     <string name="mortgage_detail_monthly_interest">당기 이자</string>
@@ -470,7 +468,6 @@
     <string name="help_content_desc">도움말</string>
     <string name="home_loan">모기지 관심사</string>
     <string name="house_rent">임대료</string>
-    <string name="item_title_tip">팁</string>
     <string name="license_host_unreachable">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하십시오."</string>
     <string name="loading">잠깐만 기다려주세요…</string>
     <string name="loading_fail_message_no_network">"네트워크에 연결할 수 없습니다. 다시 시도하려면 여기를 누르십시오."</string>
