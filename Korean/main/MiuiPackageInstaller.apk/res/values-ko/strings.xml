@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="risk_warning_msg">"패키지 서명이 올바르지 않습니다. 해킹으로부터 기기를 보호하려면 GetApps에서 앱을 다운로드 받으십시오."</string>
-     <string name="risk_warning_top_button">"설치 취소"</string>
-     <string name="risk_warning_bottom_button">GetApps에서 설치하기</string>
+    <string name="risk_warning_msg">"패키지 서명이 올바르지 않습니다. 해킹으로부터 기기를 보호하려면 GetApps에서 앱을 다운로드 받으십시오."</string>
+    <string name="risk_warning_top_button">"설치 취소"</string>
+    <string name="risk_warning_bottom_button">GetApps에서 설치하기</string>
     <string name="application_detail_tips">앱 세부사항과 권한 설정</string>
     <string name="install_finished_notification_summary">지금 청소하시려면 클릭하세요</string>
     <string name="install_finished_notification_title">%1$s 앱 설치가 완료되었습니다, %2$s 휴지통을 청소하세요</string>
