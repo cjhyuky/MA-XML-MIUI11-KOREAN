@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">홈 탐색</string>
+    <string name="abc_action_bar_up_description">위로 탐색</string>
+    <string name="abc_action_menu_overflow_description">옵션 더보기</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
+    <string name="abc_capital_off">꺼짐</string>
+    <string name="abc_capital_on">켜짐</string>
+    <string name="abc_searchview_description_clear">검색어 삭제</string>
+    <string name="abc_searchview_description_query">검색어</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_search_hint">검색...</string>
+    <string name="abc_shareactionprovider_share_with">공유 대상</string>
+    <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="app_name">MIUI홈</string>
+    <string name="auto_delete_category_dialog_content">이 카테고리에서 현재 앱이 제거되고 카테고리가 삭제됩니다. 이 카테고리를 지금 삭제하시겠습니까?</string>
+    <string name="auto_delete_category_dialog_title">카테고리 삭제</string>
     <string name="accessibility_menu_item_split_disable">"앱이 분할화면을 지원하지 않습니다."</string>
     <string name="accessibility_menu_item_split_enable">앱이 분할화면을 지원합니다</string>
     <string name="accessibility_recents_item_open_app_info">%s 앱 정보 열기</string>
