@@ -16,4 +16,8 @@
     <string name="start_test_off">테스트 시작 (끄기)</string>
     <string name="start_test_on">테스트 정지 (켜기)</string>
     <string name="warm">따뜻함</string>
+    <string name="break_loop_when_error">오류 발생시 브레이크 루프</string>
+    <string name="continue_test">계속</string>
+    <string name="speaker_disable">스피커 비활성화 시간: 4초</string>
+    <string name="speaker_enable">전화 걸 때 스피커 사용</string>
 </resources>
