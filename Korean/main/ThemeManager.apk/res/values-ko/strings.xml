@@ -12,6 +12,9 @@
     <string name="resource_notification_default">알림</string>
     <string name="resource_alarm_default">알람</string>
     <string name="resource_detail_header_theme_designer_title">디자이너: %1$s</string>
+    <string name="de_component_font_author">폰트 디자이너</string>
+    <string name="de_component_tags">태그</string>
+    <string name="de_font_exchange_success">구매 완료</string>
     <string name="description_designer">디자이너</string>
     <string name="description_author">제작자</string>
     <string name="description_size">크기</string>
@@ -149,7 +152,7 @@
     <string name="resource_exchange_has_expired">입력한 코드는 만료되었습니다.</string>
     <string name="resource_exchange_unavailable">입력한 코드와 연관된 테마는 이용할 수 없습니다.</string>
     <string name="resource_exchange_has_bought">이미 이 테마를 구매하였습니다.</string>
-    <string name="resource_exchange_success">즐기세요! :)</string>
+    <string name="resource_exchange_success">구매 완료</string>
     <string name="resource_exchange_share_code_dlg_title">전송 중</string>
     <string name="resource_exchange_share_code_dlg_content">기프트 코드 \"%1$s\": %2$s. 다른 MIUI 사용자에게 전송 시, 사용하여 이 테마를 다운로드할 수 있습니다.</string>
     <string name="resource_exchange_share_code_content">MIUI 테마 스토어에서 테마 \"%1$s\" 기프트 코드(%2$s)를 받았습니다. %3$s 링크를 탭하여 지금 사용하십시오.</string>
