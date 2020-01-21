@@ -106,7 +106,6 @@
     <string name="install_failed_invalid_apk">패키지가 손상된 것 같습니다.</string>
     <string name="install_failed_msg">"휴대 전화에 %1$s 앱을 설치할 수 없습니다."</string>
     <string name="install_failed_system_incompatible">"이 앱은 MIUI와 호환되지 않습니다"</string>
-    <string name="install_from_appstore_hint"><u><font color=#91c727>앱스토어</font></u>에서 앱을 설치하는 것이 좋습니다.</string>
     <string name="intercept_install">설치</string>
     <string name="launch">열기</string>
     <string name="lift_ban">허용</string>
