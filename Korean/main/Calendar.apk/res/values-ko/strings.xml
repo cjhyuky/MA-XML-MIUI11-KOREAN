@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="birthday_term_chinese_calendar">"%1$s님의 생일(음력)"</string>
+    <string name="content_confirm_close_chinese_calendar">이 기능을 해제하면 음력 캘린더를 기반으로하는 모든 이벤트가 양력으로 변환됩니다. 양력의 년과 월은 반복되는 이벤트에 사용됩니다.</string>
+    <string name="insert_event_dialog_btn_positive">예</string>
+    <string name="lunar_to_solar_chinese_calendar">음력에서 양력으로</string>
+    <string name="monthly_on_day_count">매월(%1$s)</string>
+    <string name="month_view">월</string>
+    <string name="prefDefault_alerts_vibrateWhen">절대</string>
+    <string name="prefDefault_alerts_vibrate_false">절대</string>
+    <string name="prefDefault_alerts_vibrate_true">항상</string>
+    <string name="preferences_popup_alert_title">팝업 알림</string>
+    <string name="pref_default_popup_alert_value">스마트</string>
+    <string name="repeat_interval_frequency_day_single">일</string>
+    <string name="repeat_interval_frequency_month_single">월</string>
+    <string name="repeat_interval_frequency_week_single">주</string>
+    <string name="repeat_interval_frequency_year_single">년</string>
+    <string name="repeat_label_day">일</string>
+    <string name="repeat_label_week">주</string>
+    <string name="response_yes">예</string>
+    <string name="search_menu_title">검색</string>
+    <string name="select_today_tip">오늘</string>
+    <string name="tab_title_day">일</string>
+    <string name="tab_title_month">월</string>
+    <string name="tab_title_week">주</string>
+    <string name="title_confirm_close_chinese_calendar">음력 끄기</string>
+    <string name="today_icon_voice_contentdescription">오늘로 돌아가기</string>
     <string name="setting_chinese_calendar">음력</string>
     <string name="setting_show_reject_agenda">거절된 일정 표시</string>
     <string name="shortcut_new_event">일정 추가</string>
