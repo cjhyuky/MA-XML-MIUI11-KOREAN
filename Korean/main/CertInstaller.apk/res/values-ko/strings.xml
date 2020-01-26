@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="action_missing_private_key">인증서를 설치하는데 필요한 개인키</string>
+    <string name="action_missing_user_cert">개인키를 설치하는데 필요한 인증서</string>
+    <string name="userkey_type">알고리즘:</string>
     <string name="app_name">인증서 설치 프로그램</string>
     <string name="pick_file_title">인증서 선택</string>
     <string name="pkcs12_password_dialog_title">인증서 추출</string>
