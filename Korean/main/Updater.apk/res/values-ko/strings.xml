@@ -61,4 +61,9 @@
     <string name="channel_downloading">다운로드 진행중</string>
     <string name="channel_update">새로운 버전이 있습니다</string>
     <string name="dialog_twrp">내부 저장소가 암호화되어 있습니다. 복구모드로 재부팅되면 기기의 잠금해제 비밀번호를 입력하십시오.</string>
+    <string name="btn_wrong_md5">잘못된 MD5, 클릭하여 롬을 제거하십시오!</string>
+    <string name="default_filedownloader_notification_content">파일 다운로더가 실행 중입니다.</string>
+    <string name="default_filedownloader_notification_title">파일 다운로더</string>
+    <string name="fetching_data">다운로드 링크를 가져오는 중입니다. 잠시만 기다려주십시오…</string>
+    <string name="no_mirror">현재 모든 미러가 오프라인상태입니다. 나중에 다시 시도하십시오…</string>
 </resources>
