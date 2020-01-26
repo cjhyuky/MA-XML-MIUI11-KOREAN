@@ -831,6 +831,75 @@ Mi 클라우드를 다시 활성화하십시오."</string>
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
 기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의해주세요.
 "</string>
+  <string name="privacy_dialog_finddevice_all_purpose_pad">"기기 찾기에 오신것을 환영합니다! 기기를 잃어버린 경우 이 서비스를 사용하여 장치를 찾거나 잠그거나 데이터를 삭제할 수 있습니다."</string>
+  <string name="privacy_dialog_finddevice_all_purpose_phone">"기기 찾기에 오신것을 환영합니다! 기기를 잃어버린 경우 이 서비스를 사용하여 장치를 찾거나 잠그거나 데이터를 삭제할 수 있습니다."</string>
+  <string name="privacy_dialog_sync_all_purpose">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 비디오, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화 할 수 있습니다 .</string>
+  <string name="privacy_doc_cloudservice">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 비디오, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화 할 수 있습니다. 브라우저를 통해 i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;에서 동기화 한 항목에 액세스하십시오.
+
+이 서비스를 활성화하려면 발신 SMS 메시지가 필요할 수 있습니다. 이동 통신사가이 메시지에 대해 요금을 청구합니다. SIM 카드를 전환하면 이 기능을 다시 활성화하기 위해 메시지가 자동으로 전송될 수 있습니다.
+
+당사는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 귀하의 개인 정보를 보호합니다.
+정상적으로 작동하려면 샤오미 클라우드가 인터넷에 연결되어 있어야하며 개인 정보를 수집하려면 다음 권한이 필요합니다:
+
+&amp;#8226; 캘린더:
+일정 동기화
+&amp;#8226; SMS 접근:
+메시지 동기화
+&amp;#8226; MMS 접근:
+메시지 동기화
+&amp;#8226; 연락처 접근:
+연락처 동기화
+&amp;#8226; 연락처 수정:
+연락처 동기화
+&amp;#8226; 저장공간:
+기기에 항목 저장용(예. 사진, 영상, 노래)
+이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
+샤오미 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의해주세요.
+"</string>
+  <string name = "privacy_doc_finddevice_pad">"기기찾기에 오신것을 환영합니다! 기기를 잃어버리신 경우 이 서비스를 사용하여 장치의 위치를 찾거나 장치를 잠그거나 장치의 데이터를 삭제할 수 있습니다. "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;"으로 이동하여 장치를 찾거나 잠그거나 재설정하십시오.
+
+당사는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 귀하의 개인 정보를 보호합니다.
+정상적으로 작동하려면 기기 찾기가 인터넷에 연결되어 있어야 하며 개인정보를 수집하려면 다음 권한이 필요합니다.
+&amp;#8226; 장치 정보에 액세스:
+장치 식별
+&amp;#8226; 위치:
+기기를 찾고 분실 모드로 전환
+이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
+기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의해주세요.
+"</string>
+  <string name="privacy_doc_finddevice_phone">"기기찾기에 오신것을 환영합니다! 기기를 잃어버리신 경우 이 서비스를 사용하여 장치의 위치를 찾거나 장치를 잠그거나 장치의 데이터를 삭제할 수 있습니다. "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;"으로 이동하여 장치를 찾거나 잠그거나 재설정하십시오.
+
+당사는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 귀하의 개인 정보를 보호합니다.
+정상적으로 작동하려면 기기 찾기가 인터넷에 연결되어 있어야 하며 개인정보를 수집하려면 다음 권한이 필요합니다.
+&amp;#8226; 장치 정보에 액세스:
+장치 식별
+&amp;#8226; 위치:
+기기를 찾고 분실 모드로 전환
+이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
+기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의해주세요.
+"</string>
+  <string name="privacy_doc_finddevice_with_telephony_feature_pad">"기기찾기에 오신것을 환영합니다! 기기를 잃어버리신 경우 이 서비스를 사용하여 장치의 위치를 찾거나 장치를 잠그거나 장치의 데이터를 삭제할 수 있습니다. "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;"으로 이동하여 장치를 찾거나 잠그거나 재설정하십시오.
+
+당사는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 귀하의 개인 정보를 보호합니다.
+정상적으로 작동하려면 기기 찾기가 인터넷에 연결되어 있어야 하며 개인정보를 수집하려면 다음 권한이 필요합니다.
+&amp;#8226; 장치 정보에 액세스:
+장치 식별
+&amp;#8226; 위치:
+기기를 찾고 분실 모드로 전환
+이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
+기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의해주세요.
+"</string>
+  <string name="privacy_doc_finddevice_with_telephony_feature_phone">"기기찾기에 오신것을 환영합니다! 기기를 잃어버리신 경우 이 서비스를 사용하여 장치의 위치를 찾거나 장치를 잠그거나 장치의 데이터를 삭제할 수 있습니다. "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;"으로 이동하여 장치를 찾거나 잠그거나 재설정하십시오.
+
+당사는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 귀하의 개인 정보를 보호합니다.
+정상적으로 작동하려면 기기 찾기가 인터넷에 연결되어 있어야 하며 개인정보를 수집하려면 다음 권한이 필요합니다.
+&amp;#8226; 장치 정보에 액세스:
+장치 식별
+&amp;#8226; 위치:
+기기를 찾고 분실 모드로 전환
+이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
+기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의해주세요.
+"</string>
     <string name="privacy_and_agreement">약관 및 조건</string>
     <string name="pre_privacy_policy">개인정보 보호정책</string>
     <string name="pre_user_agreement">이용 약관</string>
