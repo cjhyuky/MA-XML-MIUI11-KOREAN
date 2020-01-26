@@ -183,8 +183,7 @@
     <string name="antispam_sync">설정을 방해하지 마십시오.</string>
     <string name="deskclock_backup">시계 백업</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
-    <string name="micloud_space_duokan_title">Duokan</string>
-    <string name="micloud_space_duokan_detail">Duokan 앱으로 전자책을 다운로드하고 관리하십시오.</string>
+    <string name="micloud_space_duokan_detail">두오칸 앱으로 전자책을 다운로드하고 관리하십시오.</string>
     <string name="micloud_space_applist_title">앱 관리</string>
     <string name="micloud_space_applist_detail">홈 화면에서 앱 관리</string>
     <string name="micloud_space_soundrecorder_title">녹음</string>
@@ -424,7 +423,6 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_main_error_activated_fail">SIM 카드를 활성화 해주십시오.</string>
     <string name="micloud_main_error_permission_limit">Mi 클라우드에 대한 저장소 접근 권한을 허가해주십시오.</string>
     <string name="micloud_confusion_no">아니요</string>
-    <string name="micloud_confusion_yes">예</string>
     <string name="micloud_confusion_cancel">취소</string>
     <string name="micloud_confusion_ok">확인</string>
     <string name="micloud_confusion_entrance_title">데이터 수정됨</string>
