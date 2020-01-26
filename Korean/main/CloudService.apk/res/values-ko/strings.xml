@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="check_contact">추가</string>
-  <string name="choose_contact_title">연락처</string>
-  <string name="picker_list_empty">연락처가 없습니다</string>
-  <string name="picker_search_empty">"연락처를 찾을 수 없습니다"</string>
-  <string name="picker_search_hint">검색</string>
-  <string name="starred_contact">즐겨찾기</string>
+    <string name="cloud_storage_info_type_duokan">두오칸</string>
+    <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">이 계정은 다른 장치에서도 사용됩니다. 이 기기의 항목과 여러 앱(%1$s 및 %2$s 포함)의 항목을 합치시겠습니까?</string>
+    <string name="data_merge_dialog_alert_active_on_phone_msg_one">이 계정은 다른 장치에서도 사용됩니다. 이 기기의 항목과 %s의 항목을 합치시겠습니까?</string>
+    <string name="data_merge_dialog_alert_active_on_phone_msg_two">이 계정은 다른 장치에서도 사용됩니다. 이 기기의 항목과 %1$s 및 %2$s의 항목을 합치시겠습니까?</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two">이 기기의 여러 앱 (%1$s 및 %2$s 포함)의 항목이 클라우드의 항목과 병합됩니다. 지금 항목을 합치시겠습니까?</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two_pad">이 장치의 여러 앱 (%1$s 및 %2$s 포함)의 항목이 클라우드의 항목과 병합됩니다. 지금 항목을 합치시겠습니까?</string>
+    <string name="data_merge_dialog_alert_msg_one">이 장치에서 %s의 항목이 클라우드의 항목과 병합됩니다. 지금 항목을 합치시겠습니까?</string>
+    <string name="data_merge_dialog_alert_msg_one_pad">이 장치에서 %s의 항목이 클라우드의 항목과 병합됩니다. 지금 항목을 합치시겠습니까?</string>
+    <string name="data_merge_dialog_alert_msg_two">이 장치에서 %1$s 및 %2$s의 항목이 클라우드의 항목과 병합됩니다. 지금 항목을 합치시겠습니까?</string>
+    <string name="data_merge_dialog_alert_msg_two_pad">이 장치에서 %1$s 및 %2$s의 항목이 클라우드의 항목과 병합됩니다. 지금 항목을 합치시겠습니까?</string>
+    <string name="data_merge_dialog_loading">데이터 확인중…</string>
+    <string name="do_not_merge">"합치지 않기"</string>
+    <string name="finddevice_miservice_notification_content">"잃어버린 기기를 원격으로 잠그십시오"</string>
+    <string name="finddevice_miservice_notification_title">장치 찾기 켜기</string>
+    <string name="ks_name_widevine">와이드 바인(L1)</string>
+    <string name="merge">합치기</string>
+    <string name="micloud_confusion_yes">예</string>
+    <string name="micloud_space_duokan_title">두오칸</string>
+    <string name="check_contact">추가</string>
+    <string name="choose_contact_title">연락처</string>
+    <string name="picker_list_empty">연락처가 없습니다</string>
+    <string name="picker_search_empty">"연락처를 찾을 수 없습니다"</string>
+    <string name="picker_search_hint">검색</string>
+    <string name="starred_contact">즐겨찾기</string>
     <string name="sina_share_pendding">전송중…</string>
     <string name="sina_share_success">전송됨</string>
     <string name="sina_share_fail">전송 실패</string>
