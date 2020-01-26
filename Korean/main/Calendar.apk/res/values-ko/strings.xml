@@ -6,9 +6,6 @@
     <string name="lunar_to_solar_chinese_calendar">음력에서 양력으로</string>
     <string name="monthly_on_day_count">매월(%1$s)</string>
     <string name="month_view">월</string>
-    <string name="prefDefault_alerts_vibrateWhen">절대</string>
-    <string name="prefDefault_alerts_vibrate_false">절대</string>
-    <string name="prefDefault_alerts_vibrate_true">항상</string>
     <string name="preferences_popup_alert_title">팝업 알림</string>
     <string name="pref_default_popup_alert_value">스마트</string>
     <string name="repeat_interval_frequency_day_single">일</string>
