@@ -90,8 +90,9 @@
     <string name="download_remaining">%s 남음</string>
     <string name="download_no_application_title">파일을 열 수 없음</string>
     <string name="root_downloads">다운로드</string>
-    <string name="download_queued">대기 중</string>
-    <string name="download_running">진행 중</string>
+    <string name="download_queued">대기중</string>
+    <string name="download_running">진행중</string>
+    <string name="download_running_percent">%d%% 진행중</string>
     <string name="download_error">실패</string>
     <string name="byteShort">B</string>
     <string name="dialog_speed_msg">데이터 네트워크를 사용한 네트워크 테스트는 많은 양의 데이터를 소모합니다. 계속 진행하시겠습니까?</string>
@@ -110,7 +111,7 @@
     <string name="toast_update_data_limit_fail">"설정할 수 없음"</string>
     <string name="menu_back">Xunlei 멤버쉽으로 돌아가기</string>
     <string name="common_google_play_services_unknown_issue">%1$s 앱이 구글 플레이 서비스와 충돌하고 있습니다. 다시 시도해 주세요.</string>
-    <string name="channel_active">다운로드 중</string>
+    <string name="channel_active">다운로드중</string>
     <string name="channel_complete">다운로드 완료</string>
     <string name="channel_insufficient_space">공간 부족</string>
     <string name="channel_waiting">다운로드 대기중</string>
