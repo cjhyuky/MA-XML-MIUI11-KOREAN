@@ -953,8 +953,8 @@
     <string name="accessibility_camera_record_start">녹화 시작</string>
     <string name="accessibility_camera_record_stop">녹화 정지</string>
     <string name="accessibility_record_button">녹화 버튼</string>
-    <string name="accessibility_ultra_pixel_photography_off">4800만 화소 꺼짐</string>
-    <string name="accessibility_ultra_pixel_photography_on">4800만 화소 켜짐</string>
+    <string name="accessibility_ultra_pixel_photography_off">울트라HD 꺼짐</string>
+    <string name="accessibility_ultra_pixel_photography_on">울트라HD 켜짐</string>
     <string name="accessibility_video_capture_button">비디오 녹화중 사진촬영 버튼</string>
     <string name="accessibility_video_pause_button">녹화 멈춤</string>
     <string name="accessibility_video_resume_button">녹화 재개</string>
@@ -968,8 +968,8 @@
     <string name="module_name_professional">전문가</string>
     <string name="pref_camera_normal_wide_ldc_description">사진 가장자리의 얼굴 왜곡을 수정</string>
     <string name="pref_camera_ultra_wide_ldc_description">초광각 모드에서 왜곡된 영상 보정</string>
-    <string name="ultra_pixel_photography_close_tip">4800만 화소 기능이 꺼졌습니다</string>
-    <string name="ultra_pixel_photography_open_tip">4800만 화소 기능이 켜졌습니다</string>
+    <string name="ultra_pixel_photography_close_tip">울트라HD 기능이 꺼졌습니다</string>
+    <string name="ultra_pixel_photography_open_tip">울트라HD 기능이 켜졌습니다</string>
     <string name="live_edit_exit_confirm">종료</string>
     <string name="live_edit_exit_message">캡쳐를 중지하겠습니까?</string>
     <string name="beauty_reset_toast">뷰티 효과 재설정 완료</string>
