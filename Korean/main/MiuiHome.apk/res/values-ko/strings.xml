@@ -100,7 +100,10 @@
     <string name="status_downloading">다운로드 중</string>
     <string name="status_paused">일시정지됨</string>
     <string name="status_downloaded">다운로드 됨</string>
-    <string name="status_installing">설치 중</string>
+    <string name="status_installing">설치중</string>
+    <string name="switch_personal_assistant_app_vault">퀵 카드</string>
+    <string name="switch_personal_assistant_google">구글 디스커버</string>
+    <string name="switch_personal_assistant_none">없음</string>
     <string name="app_already_exist">앱이 이미 존재합니다.</string>
     <string name="loading_desktop">잠시 기다려 주십시오…</string>
     <string name="loading_wallpaper">잠시 기다려 주십시오…</string>
@@ -414,6 +417,7 @@
     <string name="home_gesture_notification_bar">알림</string>
     <string name="home_pull_down_action">홈화면에서 아래로 당기세요</string>
     <string name="home_slide_up_action">홈화면에서 위로 올리세요</string>
+    <string name="home_switch_personal_assistant">마이너스 원 화면</string>
     <string name="launcher_pull_down_title">홈화면에서 아래로 당기세요</string>
     <string name="launcher_search_bar_title">검색 바</string>
     <string name="launcher_slide_up_title">홈화면에서 위로 올리세요</string>
