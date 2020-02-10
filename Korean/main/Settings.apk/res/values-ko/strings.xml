@@ -1183,7 +1183,7 @@
   <string name="bt_hci_snoop_log">블루투스 HCI 스눕 로그</string>
   <string name="bt_hci_snoop_log_summary">모든 블루투스 HCI 패킷을 한 개 파일에 캡처</string>
   <string name="bt_ldac_declaration">블루투스 장치가 LDAC을 지원하면 기본적으로 연결됩니다. LDAC는 고품질 오디오 환경을 제공하지만 전력 소비량을 높입니다. 블루투스 장치의 제한으로 인해 재생이 발생할 수 있습니다.</string>
-  <string name="bt_ldac_dialog_summary">LDAC는 고품질 오디오 환경을 제공하고 전력 소비량을 높입니다. 이 기능은 설정에서 해제할 수 있습니다.</string>
+  <string name="bt_ldac_dialog_summary">LDAC는 고품질 오디오 환경을 제공하지만 전력 소비도 증가시킵니다. 설정에서 이 기능을 사용 중지할 수 있습니다.</string>
   <string name="bt_ldac_dialog_title">LDAC을 지원하는 현재 연결된 장치:</string>
   <string name="bt_ldac_open_dialog_summary">LDAC는 고품질 오디오 환경을 제공하고 전력 소비량을 높입니다. 블루투스 장치의 제한으로 인해 재생이 발생할 수 있습니다.</string>
   <string name="bt_ldac_open_dialog_title">LDAC를 켜시겠습니까?</string>
@@ -7221,13 +7221,13 @@
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_ask_disable">%s가 Wi-Fi를 비활성화하려고 합니다.</string>
   <string name="wifi_ask_enable">%s가 Wi-Fi를 활성화하려고 합니다.</string>
-  <string name="wifi_assistant">와이파이 도우미</string>
+  <string name="wifi_assistant">자동으로 최적의 네트워크 선택</string>
   <string name="wifi_assistant_auto_confirm_data_message">이 와이파이 네트워크는 인터넷에 연결할 수 없습니다. 기기가 대신 모바일 데이터를 사용합니다. 설정에서 와이파이 도우미를 끌 수 있습니다.</string>
   <string name="wifi_assistant_card_message">Wi‑Fi 도우미로 사용 가능한 네트워크에 자동으로 연결합니다.</string>
   <string name="wifi_assistant_confirm_always">다시 표시하지 않음</string>
   <string name="wifi_assistant_confirm_connection_title">확인</string>
   <string name="wifi_assistant_data_prompt">데이터 사용 경고 표시</string>
-  <string name="wifi_assistant_data_prompt_summary">와이파이 도우미가 모바일 데이터로 전환 할 때 데이터 사용 경고 표시</string>
+  <string name="wifi_assistant_data_prompt_summary">모바일 데이터로 전환시 데이터 사용 경고 표시</string>
   <string name="wifi_assistant_description">다음은 와이파이 도우미가 작동하는 방식입니다:\n1. 와이파이 연결이 불량하면 와이파이 도우미가 장치를 다른 사용 가능한 와이파이 네트워크에 연결하려고 시도합니다.\n2. 사용 가능한 모든 와이파이 연결이 불량이면 모바일 데이터가 켜지면서 와이파이가 모바일 데이터로 전환됩니다.</string>
   <string name="wifi_assistant_dialog_message">Wi-Fi 어시스턴트는 네트워크 트래픽 감시를 위해서 보안 VPN 연결을 필요로 합니다.</string>
   <string name="wifi_assistant_disconnect">연결끊기</string>
@@ -8285,8 +8285,7 @@
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"블루투스 오디오 LHDC 코덱 선택:
 빠름"</string>
   <string name="bt_lhdc_declaration">Bluetooth 장치가 LHDC를 지원하면 자동으로 연결됩니다. LHDC는 고품질 오디오 경험을 제공하지만 전력 소비가 많습니다. 블루투스 장치 하드웨어 문제로 인해 재생 중 장애가 발생할 수 있습니다.</string>
-  <string name="bt_lhdc_dialog_summary">"LHDC는 고품질 오디오 경험을 제공하며 더 높은 전력을 소비합니다.
-이 기능은 설정에서 끌 수 있습니다."</string>
+  <string name="bt_lhdc_dialog_summary">LHDC는 고품질 오디오 환경을 제공하지만 전력 소비도 증가시킵니다. 설정에서 이 기능을 사용 중지할 수 있습니다.</string>
   <string name="bt_lhdc_dialog_title">현재 장치는 LHDC를 지원합니다:</string>
   <string name="bt_lhdc_open_dialog_summary">LHDC는 고품질의 오디오 경험을 제공하지만 전력 소비도 증가시킵니다. 블루투스 하드웨어 제한으로 인해 재생 중에 문제가 발생할 수 있습니다.</string>
   <string name="bt_lhdc_open_dialog_title">LHDC를 켜겠습니까?</string>
@@ -9211,14 +9210,14 @@
     <string name="diy_suppression_title">맞춤</string>
     <string name="edge_mode_state_title">가장자리의 우연한 접촉을 무시합니다</string>
     <string name="privacy_failed_need_to_unlock_nofingerprint">새 지문을 사용하기 전에 비밀번호를 입력하십시오</string>
-    <string name="strong_suppression_summary">"기기가 우발적인 터치에 반응하지 않으며 일부 제스처 컨트롤이 가장자리 근처에서 작동하지 않을 수 있습니다"</string>
+    <string name="strong_suppression_summary">기기가 실수로 터치하는데 반응이 약해 일부 제스처 컨트롤이 가장자리 근처에서 작동하지 않을 수 있습니다</string>
     <string name="strong_suppression_title">큰 범위</string>
-    <string name="wake_suppression_summary">기기가 우발적인 터치에 반응할 수 있지만 가장자리 근처의 제스처 컨트롤에도 반응합니다</string>
+    <string name="wake_suppression_summary">기기가 실수로 터치하면 반응이 좋아지지만 가장자리 근처의 대부분의 제스처 컨트롤에도 반응합니다</string>
     <string name="wake_suppression_title">작은 범위</string>
     <string name="wifi_direct_close_hotspot_hint">Wi-Fi 다이렉트를 사용하기 전에 휴대용 핫스팟을 끄십시오</string>
     <string name="wifi_direct_close_slave_wifi_hint">Wi-Fi 다이렉트를 사용하기 전에 보조 WLAN에서 분리</string>
-    <string name="codec_low_latency_summary">음악/동영상 재생을 위한 낮은 지연속도 경험 제공</string>
-    <string name="codec_low_latency_title">낮은 지연속도</string>
+    <string name="codec_low_latency_summary">게임 오디오 및 비디오 동기화 중 지연 시간 최소화</string>
+    <string name="codec_low_latency_title">낮은 지연 시간</string>
     <string name="use_otg_charge_only">역 충전</string>
     <string name="use_otg_charge_only_summary">빠른 1.8A 충전</string>
     <string name="use_otg_file_transfers">역 충전 및 파일 전송중</string>
@@ -9233,4 +9232,76 @@
   <string name="navigation_guide_gesture_line_dialog_title">새로운 제스처 배우기</string>
   <string name="navigation_guide_hide_gesture_line_summary">"전체 화면 동작을 사용할 때 전체 화면 표시기를 표시하지 않습니다"</string>
   <string name="navigation_guide_hide_gesture_line_title">전체 화면 표시기 숨기기</string>
+    <string name="acount_data">계정</string>
+    <string name="application_data">앱</string>
+    <string name="backup_data">백업</string>
+    <string name="backup_difference_content">"로컬 백업 :
+로컬 백업에는 앱 데이터가 포함될 수 있으며 일반적으로 더 많은 항목이 포함됩니다. 백업 파일은 MIUI-backup-AllBackup에 저장되며 백업 프로세스가 완료되면 컴퓨터에 복사해야합니다.
+
+클라우드 백업 :
+백업은 샤오미 클라우드에 저장되며 무선으로 액세스 할 수 있습니다. 이 방법은 로컬 백업보다 빠르고 쉽습니다. 그러나 앱 데이터를 Xiaomi Cloud에 백업 할 수 없습니다.
+"</string>
+    <string name="backup_difference_title">4. 로컬 백업은 클라우드 백업과 어떻게 다릅니 까?</string>
+    <string name="backup_restore_data_content">"백업에는 연락처, 메시지 (SMS 및 MMS), 통화 기록, 일정 이벤트, 사진, 오디오 파일, 비디오, 문서, 앱, 앱 데이터 및 홈 화면 레이아웃이 포함될 수 있습니다.
+"</string>
+    <string name="backup_restore_data_title">5. 어떤 항목을 백업하거나 복원 할 수 있습니까?</string>
+    <string name="clear_all_data">모든 데이터 지우기</string>
+    <string name="clear_phone_data_category">다음 항목을 지 웁니다</string>
+    <string name="cloud_restore_section_summary_new">홈 화면 레이아웃, 앱, 시스템 설정 등을 백업</string>
+    <string name="cloud_restore_section_title_new">샤오미 클라우드에서</string>
+    <string name="common_issue">FAQ</string>
+    <string name="contact_data">연락처</string>
+    <string name="datasize_decrease_content">"연락처, 메시지 및 시스템 데이터는 백업되는 동안 압축되어 파일 크기가 더 작아집니다.
+"</string>
+    <string name="datasize_decrease_title">6. 일부 백업 파일이 실제 항목보다 작은 이유는 무엇입니까?</string>
+    <string name="how_backup_content">"로컬, 클라우드 및 USB의 세 가지 백업 유형을 만들 수 있습니다.
+
+로컬 백업:
+로컬 백업을 사용하면 시스템 설정, 계정, 앱 데이터 및 기타 항목을 장치에 저장된 별도의 파일 (MIUI-backup-AllBackup)에 저장할 수 있습니다. 백업 파일이 생성되면 USB 케이블을 통해 컴퓨터로 전송할 수 있습니다.
+노트:
+Mi PC Suite를 사용하여 항목을 백업 및 복원 할 수 있습니다.
+
+로컬 백업:
+시스템 설정, 홈 화면 레이아웃, 앱 및 기타 항목을 샤오미 클라우드에 무선으로 백업 할 수 있습니다.
+
+USB 백업:
+이 방법을 사용하면 시스템 설정, 계정, 앱 데이터 및 기타 항목을 외부 USB 저장 장치에 저장할 수 있습니다.
+"</string>
+    <string name="how_backup_title">1. 항목을 어떻게 백업합니까?</string>
+    <string name="how_encrypt_content">"로컬 백업 만 암호화 할 수 있습니다. 다음 두 가지 방법이 있습니다.
+a) 로컬 백업이있는 페이지를 열고 버튼을 눌러 암호화를 켠 다음 Mi 계정에 로그인합니다. 그 후 백업은 자동으로 암호화됩니다. 암호화 된 백업에서 항목을 복원하려면 Mi 계정에 로그인해야합니다.
+b) Mi PC Suite를 사용하여 항목을 백업하는 경우 암호화 옵션을 사용할 수 있습니다.
+
+노트:
+암호화 된 백업을 위해 설정 한 비밀번호를 기억하십시오! 백업을 잊어 버린 경우에는 암호를 해독 할 수 없습니다.
+"</string>
+    <string name="how_encrypt_title">3. 백업을 어떻게 암호화합니까?</string>
+    <string name="how_restore_backup_content">"다른 방법으로 백업 한 항목을 복원하는 방법은 다음과 같습니다.
+
+로컬 백업 :
+컴퓨터에서 장치로 백업 파일을 복사합니다 (MIUI-backup-AllBackup). 설정> 백업, 복원 또는 재설정>이 장치에서 이동하여 백업 파일을 선택하십시오.
+
+클라우드 백업 :
+Mi 계정에 로그인하고 설정> 백업, 복원 또는 재설정> 샤오미 클라우드에서 백업 파일을 선택하십시오.
+
+USB 백업 :
+백업 파일을 장치에 복사하십시오 (MIUI-backup-AllBackup). 설정> 백업, 복원 또는 재설정>이 장치에서 이동하여 백업 파일을 선택하십시오.
+"</string>
+    <string name="how_restore_backup_title">2. 백업 된 항목을 어떻게 복원합니까?</string>
+    <string name="local_backup_section_summary_new">계정, 앱 데이터, 시스템 설정 등을 백업</string>
+    <string name="local_backup_section_title_new">이 기기에서</string>
+    <string name="master_clear_title_new">모든 데이터 삭제 (초기화)</string>
+    <string name="other_data">이 기기의 다른 항목</string>
+    <string name="photo_data">사진 및 비디오</string>
+    <string name="privacy_settings_new">백업, 복원 또는 재설정</string>
+    <string name="reset_title">재설정</string>
+    <string name="sd_data">SD 카드 데이터</string>
+    <string name="system_backup_section_title_new">백업 또는 복원</string>
+    <string name="tip_remove_data">초기화하면 기기에서이 항목이 지워집니다</string>
+    <string name="wifi_assist">Wi-Fi 도우미</string>
+    <string name="wifi_link_turbo_customize">맞춤 앱</string>
+    <string name="wifi_link_turbo_customize_summary">환경 설정에 따라 WLAN 지원과 작동 할 앱 선택</string>
+    <string name="wifi_link_turbo_list">앱</string>
+    <string name="wifi_link_turbo_recommendation">추천 앱</string>
+    <string name="wifi_link_turbo_recommendation_summary">데이터 사용 통계를 기반으로 추천 받기</string>
 </resources>
