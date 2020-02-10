@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="notification_channel_demo">데모 기기</string>
     <string name="livetalk_setting">충전 패키지</string>
     <string name="purchase_list">구매 기록</string>
     <string name="sim_card_activate">현재 SIM 카드</string>
