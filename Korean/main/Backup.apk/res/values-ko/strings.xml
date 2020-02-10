@@ -647,4 +647,32 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="dialog_app_upgrade_download">업데이트</string>
     <string name="dialog_app_upgrade_exit">나가기</string>
     <string name="dialog_app_upgrade_message">새로운 버전의 Mi Mover가 있습니다. Mi Mover를 바로 업데이트 하시겠습니까?</string>
+    <string name="local_back_up_detail_description">"참고 :
+1. 데이터 손실을 방지하려면 로컬 백업을 컴퓨터에 복사하십시오.
+2. 공장 초기화를 수행하기 전에 항상 로컬 백업을 컴퓨터에 복사하십시오. 그렇지 않으면 로컬 백업이 손실됩니다.
+3. 로컬 백업은 어디에 저장됩니까? %1$s"</string>
+    <string name="local_backup_select_activity">백업 만들기</string>
+    <string name="local_button_backup_data">백업</string>
+    <string name="local_button_backup_now">백업</string>
+    <string name="local_button_restore_data">이 기기로 복원</string>
+    <string name="local_button_restore_now">복원</string>
+    <string name="local_click_to_jump">탭하여 보기</string>
+    <string name="local_config_off">꺼짐</string>
+    <string name="local_config_on">켜짐</string>
+    <string name="local_main_auto_backup_title">자동 백업</string>
+    <string name="local_main_backup">로컬 백업</string>
+    <string name="local_main_backup_and_restore">이 기기에서</string>
+    <string name="local_main_backup_detail_title">시스템 설정, 계정 및 앱 데이터</string>
+    <string name="local_main_backup_manage_null">%s</string>
+    <string name="local_main_backup_manager">로컬 백업 관리</string>
+    <string name="local_main_backup_manager_title">백업 관리</string>
+    <string name="local_main_backup_settings">로컬 백업 설정</string>
+    <string name="local_main_backup_time">최신 백업 : %1$s</string>
+    <string name="local_main_date_format">yyyy/MM/dd HH:mm</string>
+    <string name="local_main_encrypt_backup_summary">Mi 계정을 사용하여 백업 한 항목을 암호화합니다</string>
+    <string name="local_main_encrypt_backup_title">백업 암호화</string>
+    <string name="local_main_latest_backup_time_loading">잠깐만 기다려주세요…</string>
+    <string name="local_no_backup_data">아직 백업이 없습니다</string>
+    <string name="local_restore_select_activity">백업 관리</string>
+    <string name="local_restore_select_data_activity">백업에서 복원</string>
 </resources>
