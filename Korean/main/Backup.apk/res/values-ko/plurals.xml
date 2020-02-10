@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s 백업(%2$s)</item>
+    </plurals>
   <plurals name="backup_items_sysdata_tailer">
         <item quantity="other">%d개의 시스템 데이터 파일</item>
     </plurals>
