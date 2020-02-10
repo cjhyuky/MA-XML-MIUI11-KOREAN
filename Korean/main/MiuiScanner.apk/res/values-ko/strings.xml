@@ -331,4 +331,6 @@
   <string name="waybill_num">"주문 :"</string>
   <string name="xiaoai_dialog">"내가 말한 것을 시도하십시오.
 Mi AI로 스캔하고 싶습니다 "</string>
+    <string name="calories_logo_text">Health Hope에서 제공하는 AI 지원</string>
+    <string name="calories_request_interface_text">AI 지원</string>
 </resources>
