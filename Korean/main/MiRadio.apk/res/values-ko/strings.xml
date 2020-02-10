@@ -143,4 +143,14 @@
     <string name="recommend_list">추천</string>
     <string name="storytelling">스토리</string>
     <string name="is_scanning">저장소 체크중…</string>
+    <string name="character_counter_content_description">문자 제한이 %2$d자 중 %1$d자를 초과했습니다</string>
+    <string name="individuation_recommend_setting_title">맞춤형 추천</string>
+    <string name="individuation_recommend_switch_message">"이 기능을 끈 후에는 개인적인 관심사에 따른 추천을받지 못합니다. 어쨌든 끄시겠습니까?"</string>
+    <string name="individuation_service_switch">맞춤형 추천</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
+    <string name="play_mode_circle_hint">지금 재생중인 한곡 반복</string>
+    <string name="play_mode_circle_title">한곡 반복</string>
+    <string name="play_mode_normal_hint">지금 원래 순서대로 트랙 재생</string>
+    <string name="play_mode_normal_title">모두 재생</string>
+    <string name="password_toggle_content_description">비밀번호 표시</string>
 </resources>
