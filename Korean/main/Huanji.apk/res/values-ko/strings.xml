@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="err_remote_no_space">새 장치에 저장 공간이 부족합니다</string>
+    <string name="err_remote_timeout">전송 시간이 초과되었습니다</string>
+    <string name="err_send_error">"보내지 못했습니다"</string>
+    <string name="waiting_restore_desktop">홈 화면 레이아웃을 복원하기 위해 타사 앱 전송중…</string>
     <string name="dialog_forbidden_use_tips">"Mi Mover는 테블릿으로의 송신, 수신을 모두 지원하지 않습니다."</string>
     <string name="close_vpn_summary">현재 VPN에 연결되어 있는 것으로 보입니다. 다른기기에 연결할 수 있도록 VPN을 끄세요.</string>
     <string name="close_vpn_title">VPN 끄기</string>
