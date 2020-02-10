@@ -2320,12 +2320,14 @@
   <string name="handset_text_usb_handset_insert">추가 설정을 열려면 누르십시오</string>
   <string name="handset_title_unsupported_handset_insert">"어댑터를 통해 오디오를 재생할 수 없습니다"</string>
   <string name="handset_title_usb_handset_insert">USB를 통한 오디오 재생</string>
-    <string name="pin_target">비밀번호</string>
-    <string name="status_bar_camera">카메라</string>
-    <string name="status_bar_microphone">마이크로폰</string>
-    <string name="unpin_target">고정 해제</string>
-    <string name="volume_dialog_music_stream_not_silent">음소거 해제 음악입니다</string>
-    <string name="volume_dialog_music_stream_silent">뮤팅 음악입니다</string>
-    <string name="wifi_p2p_dialog_title">Wi-Fi 다이렉트</string>
-    <string name="wifi_p2p_show_pin_message">비밀번호 :</string>
+  <string name="pin_target">비밀번호</string>
+  <string name="status_bar_camera">카메라</string>
+  <string name="status_bar_microphone">마이크로폰</string>
+  <string name="unpin_target">고정 해제</string>
+  <string name="volume_dialog_music_stream_not_silent">음소거 해제 음악입니다</string>
+  <string name="volume_dialog_music_stream_silent">뮤팅 음악입니다</string>
+  <string name="wifi_p2p_dialog_title">Wi-Fi 다이렉트</string>
+  <string name="wifi_p2p_show_pin_message">비밀번호:</string>
+  <string name="miaudiovisual_notification_summary">잠금 화면에 효과를 표시하려면 켭니다</string>
+  <string name="miaudiovisual_notification_title">오디오 및 시각 효과</string>
 </resources>
