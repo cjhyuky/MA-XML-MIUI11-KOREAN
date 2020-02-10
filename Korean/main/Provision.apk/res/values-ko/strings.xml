@@ -236,4 +236,9 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
   <string name="other_settings_enhanced_lockscreen_for_india">Mi 한눈에 보기</string>
   <string name="poco_launcher_privacy_policy">포코 런처 개인정보 보호정책</string>
   <string name="poco_launcher_user_agreement">포코 런처 사용자 약관</string>
+    <string name="mint_keyboard_oobe_checkbox">"민트 키보드 개인 정보 보호 정책을 읽고 동의했습니다"</string>
+    <string name="mint_keyboard_oobe_terms">민트 키보드 개인 정보 보호 정책</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
+이 기능을 사용하기 전에 민트 키보드 개인 정보 보호 정책에 동의해야합니다."</string>
 </resources>
