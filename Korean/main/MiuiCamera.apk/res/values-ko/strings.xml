@@ -1312,7 +1312,6 @@
   <string name="module_name_mimoji2">미모지2</string>
   <string name="preview_back_pressed_hint">다시 누르면 미리보기로 돌아갑니다</string>
     <string name="color_enhance_mode">향상된 색상</string>
-    <string name="mimoji_save_success">저장되었습니다</string>
     <string name="watermark_tab_city">도시</string>
     <string name="watermark_tab_festival">휴일</string>
     <string name="watermark_tab_general">일반</string>
