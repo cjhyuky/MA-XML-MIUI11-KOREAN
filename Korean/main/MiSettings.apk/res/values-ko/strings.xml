@@ -274,30 +274,6 @@
     <string name="usage_request_timeout_summary">타임머신이 도로에 붙어 있습니다</string>
     <string name="usage_weekly_report_summary">기기 사용량 주간 보고서</string>
     <string name="usage_weekly_report_title">기기 사용량에 대한 주간 보고서</string>
-    <string name="usage_current_week_usage">지난 주에 매일 평균 %s를 사용했습니다. 합리적으로 설정하십시오</string>
-    <string name="usage_device_limit_app_prolong">사용 연장</string>
-    <string name="usage_device_limit_app_prolong_time1">사용 20분 연장</string>
-    <string name="usage_device_limit_app_prolong_time2">사용 40분 연장</string>
-    <string name="usage_device_limit_app_prolong_time3">사용 60분 연장</string>
-    <string name="usage_device_limit_app_prolong_time4">오늘은 제한 풀기</string>
-    <string name="usage_device_limit_notifation_summary_start">남은 시간: %1$s</string>
-    <string name="usage_device_limit_notifation_title">오늘 사용가능한 시간</string>
-    <string name="usage_device_limit_time_over">오늘 사용가능: %1$s</string>
-    <string name="usage_reach_device_limit">기기가 Xliff 제한 시간에 도달했습니다. 계속 사용할 수 없습니다.</string>
-    <string name="usage_reach_device_limit_warning_text">화면 시간: 오늘 사용가능한 시간</string>
-    <string name="usage_remain_about_hour_miunte" formatted="false">약 %1s 시간 %1s 분</string>
-    <string name="usage_remain_hour_miunte" formatted="false">%1s 시간 %1s 분</string>
-    <string name="usage_stats_device_limit">장치 사용 제한</string>
-    <string name="usage_stats_device_limit_summary">매일 장치의 사용 가능한 시간 설정</string>
-    <string name="usage_stats_limit_time_accuracy_title">남은 시간의 정확도 표시</string>
-    <string name="usage_stats_limit_time_high_accuracy_summary">사용 가능한 남은 시간은 매분 단위로 측정되고 전력 소비가 높습니다</string>
-    <string name="usage_stats_limit_time_high_accuracy_title">고 정확도</string>
-    <string name="usage_stats_limit_time_low_accuracy_summary">사용 가능한 시간이 2시간 내에 적은 전력 소비, 적은 전력 소비</string>
-    <string name="usage_stats_limit_time_low_accuracy_title">저 정확도</string>
-    <string name="usage_stats_limit_time_warn">남은 시간 알림</string>
-    <string name="usage_stats_limit_time_warn_summary">개봉 후 남은 사용 가능 시간이 알림 표시 줄에 표시됩니다</string>
-    <string name="usage_stats_limit_time_warn_title">사용 가능한 잔여 시간 알림 표시</string>
-    <string name="usage_stats_no_limit">무제한 사용 앱 설정</string>
     <string name="usage_current_week_usage">지난 7일간 평균: %s</string>
     <string name="usage_device_limit_app_prolong">시간 추가</string>
     <string name="usage_device_limit_app_prolong_time1">20분 추가</string>
