@@ -85,4 +85,25 @@
   <string name="music_mi_effect_title">Mi 사운드 인핸서</string>
   <string name="music_title_dolby_control">돌비 디지털 플러스</string>
   <string name="music_unsupport_effect_summary">"USB 헤드셋은 지원되지 않습니다"</string>
+    <string name="music_audio_visual_wake_lock">화면 깨우기 유지</string>
+    <string name="music_audio_visual_wake_lock_summary">"시각적 효과가 표시될 때 화면을 끄지 마십시오"</string>
+    <string name="music_headset_audio_visual">시각적 효과</string>
+    <string name="music_headset_audio_visual_apply">적용</string>
+    <string name="music_headset_audio_visual_style">시각 효과 스타일</string>
+    <string name="music_headset_audio_visual_style_summary">시각 효과 스타일 선택</string>
+    <string name="music_headset_audio_visual_summary">잠금 화면에 시각적 효과가 표시된 사운드와 함께 제공</string>
+    <string name="music_headset_audio_visual_toast">적용됨</string>
+    <string name="music_headset_control_setting">이어폰 컨트롤</string>
+    <string name="music_headset_effect_settings">사운드 효과</string>
+    <string name="music_headset_improve_sound">이어폰으로 사운드 조정</string>
+    <string name="music_headset_is_open">켜기</string>
+    <string name="music_headset_not_open">끄기</string>
+    <string name="music_headset_open">이어폰으로 사운드 조정</string>
+    <string name="music_headset_optimization">사운드 최적화</string>
+    <string name="music_headset_scenario_intelligent">스마트</string>
+    <string name="music_headset_scenario_music">음악</string>
+    <string name="music_headset_scenario_select">사전 설정</string>
+    <string name="music_headset_scenario_video">비디오</string>
+    <string name="music_headset_scenario_vocal">음성</string>
+    <string name="music_headset_select_settings">이어폰 선택</string>
 </resources>
