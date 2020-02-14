@@ -1169,10 +1169,10 @@
     <string name="appraise_ignore">임시 평가</string>
     <string name="appraise_negative">부정적인 의견</string>
     <string name="have_auth_code">코드로 로그인</string>
-    <string name="help_me_get_qq_auth">QQ 인증 코드를 얻도록 도와주십시오.</string>
+    <string name="help_me_get_qq_auth">인증코드 요청</string>
     <string name="open_androidp_warning">오픈 9.0 비공식 SDK 경고</string>
     <string name="qq_login_notice">경고 팁 : 독립 암호를 설정한 경우 사서함에 대한 정보를 확인하기 위해 독립적인 암호를 입력해야합니다.</string>
-    <string name="qq_pwd_or_qq_auth_code">QQ 인증 코드 또는 사서함 암호</string>
+    <string name="qq_pwd_or_qq_auth_code">인증코드 입력</string>
     <string name="folder_empty_to_fresh">"메일이 동기화되지 않았습니다. 동기화하려면 아래로 당기세요."</string>
     <string name="folder_no_mails">이 폴더에는 이메일이 없습니다</string>
     <string name="toast_bar_sync_failed_mi_authority">"동기화하지 못했습니다. 잠깐 기다려 다시 시도하십시오. 세부사항을 확인하세요.
@@ -1185,7 +1185,7 @@
     <string name="contact_add_options_details2">받는 사람만</string>
     <string name="get_oauth_code">코드 가져오기</string>
     <string name="help_weixin_title">"질문이 있으시면, 언제든지 공식 위챗 계정에 대화를 남겨주세요: "</string>
-    <string name="login_qq_psw">QQ 비밀번호/인증자/인증 코드를 사용하여 로그인</string>
+    <string name="login_qq_psw">인증코드로 로그인</string>
     <string name="mi_sync_erroe_toast">"네트워크 에러 발생: "</string>
     <string name="mi_sync_erroe_toast_other">"네트워크 에러 발생: "</string>
     <string name="no_more_mail">메시지가 더이상 없습니다</string>
@@ -1274,7 +1274,7 @@
   <string name="conversation_cert_trust">신뢰할 수 있음</string>
   <string name="conversation_message_encrypt_tips">암호화된 이메일입니다. 암호해독에 필요한 인증서를 추가하십시오.</string>
   <string name="no_open_smime_toast">먼저 S/MIME 인증서 추가</string>
-  <string name="obtain_new_auth_code">새 인증 코드 받기</string>
+  <string name="obtain_new_auth_code">새로운 인증코드 요청</string>
   <string name="qq_changepw_dialog_tips">로그인 할 %s에서 새 코드를 가져옵니다.</string>
   <string name="send_encrypt_dialog_fail_content">"받는 사람에게이 이메일을 암호화하는 데 필요한 신뢰할 수 있는 인증서가 없는 것 같습니다. 대신 일반 이메일을 보내시겠습니까?"</string>
   <string name="send_encrypt_dialog_fail_title">"암호화 된 이메일을 보낼 수 없습니다"</string>
