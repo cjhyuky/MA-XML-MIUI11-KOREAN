@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="app_behavior_desc_allow">
-         <item quantity="other">%1$s와 %2$s사이에 %3$d번 허용됨</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny">
-         <item quantity="other">%1$s와 %2$s사이에 %3$d번 제한됨</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_off">
-         <item quantity="other">"%1$d개의 앱이 수행한 민감한 동작에 대한 알림을 받지 않습니다"</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_on">
-         <item quantity="other">"%1$d개의 앱이 수행한 민감한 동작에 대한 알림을 받습니다"</item>
-    </plurals>
-    <plurals name="app_behavior_desc_allow">
          <item quantity="other">%1$s 부터 %2$s까지 %3$d회 허용</item>
          <item quantity="one">%1$s 부터 %2$s까지 %3$d회 허용</item>
     </plurals>
