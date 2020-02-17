@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="data_merge_dialog_title">항목 병합</string>
     <string name="cloud_storage_info_type_duokan">두오칸</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">이 계정은 다른 장치에서도 사용됩니다. 이 기기의 항목과 여러 앱(%1$s 및 %2$s 포함)의 항목을 합치시겠습니까?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">이 계정은 다른 장치에서도 사용됩니다. 이 기기의 항목과 %s의 항목을 합치시겠습니까?</string>
