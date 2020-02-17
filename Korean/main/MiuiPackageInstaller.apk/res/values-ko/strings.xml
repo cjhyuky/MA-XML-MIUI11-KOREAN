@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="install_app_progress_clear_apk">패키지 삭제</string>
+    <string name="install_control_cancel_install">"설치하지 않음"</string>
+    <string name="install_control_continue_install">어쨌든 설치</string>
+    <string name="install_control_lite_mode_explain_des">이 앱은 알 수없는 출처에서 제공되었으며 라이트 모드에서 작동하지 않을 수 있습니다.</string>
+    <string name="install_control_lite_mode_solution_des">"이 앱을 설치하도록 선택할 수 있습니다.
+또는 라이트 모드를 끄고 다시 시도하십시오."</string>
+    <string name="install_control_normal_mode_explain_des"> "법적 제한으로 인해 이 앱을 설치할 수 없습니다"</string>
     <string name="risk_warning_msg">"패키지 서명이 올바르지 않습니다. 해킹으로부터 기기를 보호하려면 GetApps에서 앱을 다운로드 받으십시오."</string>
     <string name="risk_warning_top_button">"설치 취소"</string>
     <string name="risk_warning_bottom_button">GetApps에서 설치하기</string>
