@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="doc_photo_adjust_section_title">드래그하여 조정하려면 드래그</string>
+    <string name="doc_photo_doc_photo_title">문서 편집</string>
+    <string name="doc_photo_enhance_bin">흑백</string>
+    <string name="doc_photo_enhance_color">색 강조</string>
+    <string name="doc_photo_enhance_none">원본</string>
+    <string name="doc_photo_idcard_emblem">뒷면</string>
+    <string name="doc_photo_idcard_mode_title">ID 카드</string>
+    <string name="doc_photo_idcard_portrait">앞면</string>
+    <string name="doc_photo_not_support">"이 이미지를 문서로 편집할 수 없습니다"</string>
+    <string name="doc_photo_view_effect">미리보기</string>
     <string name="cancel">취소</string>
     <string name="illegal_arguments_error">오류 발생</string>
     <string name="loading_tip">잠시 기다려주십시오…</string>
