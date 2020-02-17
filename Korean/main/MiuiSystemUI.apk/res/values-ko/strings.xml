@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="screenshot_failed_in_landscape_mode">"가로 모드에서는 스크롤 스크린 샷을 만들 수 없습니다"</string>
   <string name="abc_action_bar_home_description">홈으로 이동</string>
   <string name="abc_action_bar_up_description">위로 이동</string>
   <string name="abc_action_menu_overflow_description">더 많은 옵션</string>
