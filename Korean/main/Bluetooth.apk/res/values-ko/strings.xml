@@ -217,10 +217,10 @@
     <string name="bluetooth_rc_feat_title">블루투스 미디어 브라우징</string>
     <string name="avrcp_notification_name">BT 고급 기능 AVRCP</string>
     <string name="bluetooth_a2dp_sink_queue_name">지금 재생중</string>
-    <string name="bluetooth_map_remote_advance_feature_support">메시지 액세스 고급기능 지원</string>
-    <string name="bluetooth_map_remote_message_access_feature_downgrade">원격 메시지 액세스 기능 다운그레이드</string>
-    <string name="bluetooth_map_repair_for_adv_message_access_feature">사전 메시지 액세스 기능을 위한 재 페어링</string>
-    <string name="bluetooth_map_repair_for_message_access_version_comp">메시지 액세스 버전 호환성을 위한 재 페어링</string>
+    <string name="bluetooth_map_remote_advance_feature_support">고급 메시지 액세스 기능 지원</string>
+    <string name="bluetooth_map_remote_message_access_feature_downgrade">원격 메시지 액세스 기능을 다운 그레이드</string>
+    <string name="bluetooth_map_repair_for_adv_message_access_feature">고급 메시지 액세스 기능을 사용하기 위해 다시 페어링</string>
+    <string name="bluetooth_map_repair_for_message_access_version_comp">메시지 액세스 버전 호환성을 보장하기 위해 다시 페어링</string>
     <string name="bt_sm_2_1_default">"SD카드에 \"%1$s\"에서 파일을 저장하기에 충분한 공간이 없습니다"</string>
     <string name="bt_sm_2_1_nosdcard">"USB저장소에 \"%1$s\"에서 파일을 저장하기에 충분한 공간이 없습니다"</string>
     <string name="defaultname">자</string>
