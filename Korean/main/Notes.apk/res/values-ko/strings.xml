@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sina_share_pendding">전송 중…</string>
+    <string name="notification_content_add_todo_from_other_app">새로운 작업을 추가했습니다. 보려면 탭하세요.</string>
+    <string name="sina_share_pendding">전송중…</string>
     <string name="sina_share_success">전송됨</string>
     <string name="sina_share_fail">전송 실패</string>
     <string name="sina_token_expired_warning">Weibo 계정이 만료되었습니다. 계정을 다시 추가하십시오.</string>
@@ -8,11 +9,11 @@
     <string name="sina_share_fail_content_repeat">이 항목은 이미 공유되어 있습니다.</string>
     <string name="search_keyword_notes">노트;메모</string>
     <string name="search_path_notes">시스템 앱/메모</string>
-    <string name="dlg_move_message">이동 중…</string>
-    <string name="dlg_stick_message">고정 중…</string>
+    <string name="dlg_move_message">이동중…</string>
+    <string name="dlg_stick_message">고정중…</string>
     <string name="dlg_hide_message">숨기는 중…</string>
-    <string name="dlg_unhide_message">숨김 취소 중…</string>
-    <string name="dlg_restore_message">복원 중…</string>
+    <string name="dlg_unhide_message">숨김 취소중…</string>
+    <string name="dlg_restore_message">복원중…</string>
     <string name="dlg_quick_delete_title">빠른 삭제</string>
     <string name="dlg_check_reminder">다시 표시하지 않기</string>
     <string name="dlg_title_set_password">비밀번호 설정</string>
