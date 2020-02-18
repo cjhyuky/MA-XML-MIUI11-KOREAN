@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="crop__cancel">취소</string>
+     <string name="crop__done">완료</string>
+     <string name="crop__pick_error">사용 가능한 이미지 소스가 없습니다</string>
+     <string name="crop__saving">사진 저장중…</string>
+     <string name="crop__wait">기다려주십시오…</string>
+     <string name="error_null_cursor">죄송합니다. 문제가 발생했습니다!</string>
+     <string name="grant_permission">권한 부여</string>
+     <string name="permission_denied_albums">기기에서 사진, 미디어 및 파일에 액세스하여 앨범을 볼 수 있도록 허용</string>
+     <string name="permission_denied_images">기기에서 사진, 미디어 및 파일에 액세스하여 이미지를 볼 수 있도록 허용</string>
+     <string name="select_from_album">앨범에서 선택</string>
+     <string name="take_a_picture">사진 찍기</string>
+     <string name="add">확인</string>
+     <string name="album_view">이미지 선택</string>
+     <string name="image_view">클릭하여 선택</string>
+     <string name="limit_exceeded">최대 %d 페이지까지 선택</string>
+     <string name="selected">선택됨</string>
+     <string name="msg_compress_failed">압축 실패 이미지</string>
+     <string name="msg_crop_canceled">"자르기 취소"</string>
+     <string name="msg_crop_failed">자르지 못한 이미지</string>
+     <string name="msg_operation_canceled">작업이 취소되었습니다</string>
+     <string name="tip_compress">사진 압축 중 ...</string>
+     <string name="tip_compress_failed">%1$s개 사진 압축 실패 : %2$s 사진 경로 : %3$s</string>
+     <string name="tip_no_camera">카메라 없음</string>
+     <string name="tip_permission_camera">카메라를 사용할 수있는 권한이 없습니다. 권한 관리에서 활성화하십시오</string>
+     <string name="tip_permission_camera_storage">카메라 및 SD 카드 사용 권한이 없습니다. 권한 관리에서 활성화하십시오.</string>
+     <string name="tip_permission_storage">SD 카드 사용 권한이 없습니다. 권한 관리에서 활성화하십시오</string>
+     <string name="tip_tips">팁</string>
+     <string name="tip_type_not_image">선택한 이미지가 이미지가 아닙니다</string>
     <string name="app_name">스캐너</string>
     <string name="impunity_declaration_title">개인정보 보호정책</string>
     <string name="impunity_declaration_content">스캐너는 카메라에 액세스하고 사진을 만들 수있는 권한이 필요합니다. 정상적으로 작동하려면 인터넷에 연결해야합니다. 아래 "동의함"을 누르면 %1$s개인 정보 보호 정책 %2$s을 읽고 동의한 것으로 간주됩니다.</string>
