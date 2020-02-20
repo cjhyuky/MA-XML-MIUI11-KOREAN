@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="pro_color_mode">프로 컬러 모드</string>
-    <string name="super_night_se_tip">야간 모드</string>
+    <string name="pro_color_mode">프로 컬러 모드</string>
+    <string name="super_night_se_tip">야간 모드</string>
     <string name="emoticon">이모지 패키지</string>
     <string name="video_beauty_tip_beautification">꾸미기</string>
     <string name="document_mode_use_hint_text_body">"문서 모드, 스마트 보정 기능을 활성화합니다
