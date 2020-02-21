@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="dark_mode_setting_dark">야간 모드(어두운)</string>
+  <string name="dark_mode_setting_follow">시스템 따르기</string>
+  <string name="dark_mode_setting_light">주간 모드(표시등)</string>
+  <string name="dark_mode_setting_title">야간 모드</string>
   <string name="vo_mi_ad_detail">%s로 열기</string>
   <string name="abc_action_bar_home_description">홈으로</string>
   <string name="abc_action_bar_up_description">위로</string>
