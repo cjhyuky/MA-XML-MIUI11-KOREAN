@@ -135,7 +135,7 @@
         <item>무제한 데이터 요금제</item>
     </string-array>
    <string-array name="app_behavior_type_menu">
-        <item>"모든 행동     "</item>
+        <item>"모든 행동"</item>
         <item>자동시작</item>
         <item>반복 자동시작</item>
         <item>권한</item>
