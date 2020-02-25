@@ -96,7 +96,7 @@
   <string name="loading">잠시만 기다려주세요…</string>
   <string name="lock_screen_display_rules">알림 표시 방법</string>
   <string name="lock_screen_tip_toast">\"알림 표시 방법\"에서 잠금화면 알림 허용하기</string>
-  <string name="lockscreen_notifications">잠금화면 알림</string>
+  <string name="lockscreen_notifications">잠금화면    알림</string>
   <string name="not_sent_recently">최근에 알림 없음</string>
   <string name="notch_and_status_bar_setting">노치 &amp; 상태 바</string>
   <string name="notification_display_setting">알림창</string>
