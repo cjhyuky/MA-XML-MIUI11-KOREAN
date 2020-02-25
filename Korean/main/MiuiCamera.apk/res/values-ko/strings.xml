@@ -1327,8 +1327,6 @@
     <string name="mimoji_emoticon_save">이모티콘 패키지 저장</string>
     <string name="mimoji_emoticon_with_jpeg_save">그림으로도 저장</string>
     <string name="mimoji_select_number_error">하나 이상의 그림 이모티콘을 선택하십시오</string>
-    <string name="multi_window_mode_not_supported">"분할 화면으로 카메라가 작동하지 않습니다"</string>
-    <string name="multi_window_mode_not_supported">"멀티 창에서 화면이 나오지 않습니다"</string>
     <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
     <string name="timbre">음성</string>
     <string name="unknow_error">알 수 없는 에러</string>
