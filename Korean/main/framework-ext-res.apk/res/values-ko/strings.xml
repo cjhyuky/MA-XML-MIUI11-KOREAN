@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="handset_text_unsupported_handset_insert">세부 정보를 보려면 누르십시오</string>
+    <string name="handset_text_usb_handset_insert">추가 설정을 열려면 누르십시오</string>
+    <string name="handset_title_unsupported_handset_insert">"어댑터를 통해 오디오를 재생할 수 없음"</string>
+    <string name="handset_title_usb_handset_insert">USB를 통한 오디오 재생</string>
+    <string name="miaudiovisual_notification_summary">잠금 화면에 효과를 표시하도록 설정</string>
+    <string name="miaudiovisual_notification_title">오디오 및 시각 효과</string>
     <string name="help">도움말 보기</string>
     <string name="help_content">"필요한 장치를 찾지 못하면 다른 사람에게 Mi Share를 켰는지 확인하세요."</string>
     <string name="status_bar_toggle_bluetooth">블루투스</string>
