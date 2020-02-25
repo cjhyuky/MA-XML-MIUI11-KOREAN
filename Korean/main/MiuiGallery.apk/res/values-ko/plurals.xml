@@ -46,10 +46,10 @@
         <item quantity="other">%1$d개 사진 (%2$dMB) 다운로드 실패, 다시 시도?</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">%1$d장 사진(%2$dMB) 을 다운로드할 수 없습니다. 네트워크 연결 후 다시 시도하십시오.</item>
+        <item quantity="other">"%1$d개의 파일(%2$dMB)을 다운로드 할 수 없습니다. 네트워크에 연결한 후 다시 시도하십시오."</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">남은 %d개 사진의 다운로드를 취소하시겠습니까?</item>
+        <item quantity="other">"%d개의 파일이 아직 다운로드되지 않았습니다. 어쨌든 취소하시겠습니까?"</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">추가된 사진 중 %d장의 클라우드 사진이 포함되어 있습니다. \"로컬 앨범에만 표시\"를 끄셔서 확인하실 수 있습니다.</item>
@@ -329,5 +329,8 @@
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">항목을 최대 %1$d일 동안 여기에 저장할 수 있습니다. 이 기간을 연장하려면 요금제를 업그레이드하십시오.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">"%1$d개 파일 (%2$dMB)이 아직 다운로드되지 않았습니다. 모바일 데이터를 사용하여 다운로드하시겠습니까?"</item>
     </plurals>
 </resources>
