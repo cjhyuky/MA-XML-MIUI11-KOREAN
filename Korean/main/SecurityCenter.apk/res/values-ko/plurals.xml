@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="app_behavior_desc_allow">
-         <item quantity="other">%3$d회를 %1$s회에서 %2$s회로 허용</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny">
-         <item quantity="other">%1$s회에서 %2$s회로 %3$d회 거부됨</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_off">
-         <item quantity="other">%1$d개의 응용프로그램에서 동작 알림이 비활성화되었습니다</item>
-         <item quantity="zero">동작 알림이 비활성화된 응용 프로그램 없음</item>
-         <item quantity="one">%1$d개의 응용프로그램에서 동작 알림이 비활성화되었습니다</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_on">
-         <item quantity="other">%1$d개의 응용프로그램에서 동작 알림 사용</item>
-         <item quantity="zero">동작 알림이 활성화 된 응용 프로그램이 없습니다</item>
-         <item quantity="one">%1$d개의 응용프로그램에서 동작 알림 사용</item>
-    </plurals>
-    <plurals name="app_behavior_desc_allow">
          <item quantity="other">%1$s 부터 %2$s까지 %3$d회 허용</item>
          <item quantity="one">%1$s 부터 %2$s까지 %3$d회 허용</item>
     </plurals>
@@ -25,9 +9,9 @@
          <item quantity="one">%1$s 부터 %2$s까지 %3$d회 비허용</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_off">
-         <item quantity="other"> %1$d개의 애플리케이션의 동작 알림이 비활성화되었습니다</item>
+         <item quantity="other">%1$d개의 애플리케이션의 동작 알림이 비활성화되었습니다</item>
          <item quantity="zero">동작 알림이 비활성화된 애플리케이션이 없습니다</item>
-         <item quantity="one"> %1$d앱의 동작 알림이 비활성화되었습니다</item>
+         <item quantity="one">%1$d앱의 동작 알림이 비활성화되었습니다</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_on">
          <item quantity="other">%1$d개의 애플리케이션의 동작 알림이 활성화되었습니다</item>
