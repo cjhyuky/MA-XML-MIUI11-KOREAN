@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="last_week_baby_title">
+        <item>놀이 시간</item>
+        <item>"아이들의 주말"</item>
+        <item>작은 아이</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>새로운 친구와 옛 친구</item>
+        <item>"작년 모임"</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>동행</item>
+        <item>결속과 유대감</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>아이들은 너무 빨리 자랍니다</item>
+        <item>"아이들 사진"</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>소년</item>
         <item>소녀</item>
