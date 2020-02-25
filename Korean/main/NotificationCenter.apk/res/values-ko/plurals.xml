@@ -21,4 +21,7 @@
     <plurals name="last_sent_time_week">
         <item quantity="other">%d 주 전</item>
     </plurals>
+     <plurals name="mtrl_badge_content_description">
+         <item quantity="other">%d개의 새로운 알림</item>
+     </plurals>
 </resources>
