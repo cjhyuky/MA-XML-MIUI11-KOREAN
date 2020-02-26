@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="bluetooth_connect_settings">블루투스 연결 설정</string>
+  <string name="bluetooth_display_settings">블루투스 디스플레이 설정</string>
+  <string name="bluetooth_mi_fast_connect">Mi 링크</string>
+  <string name="bluetooth_mi_fast_connect_summary">근처의 블루투스 장치에 연결</string>
   <string name="dark_wallpaper_mode">배경화면을 다크모드로 조정</string>
   <string name="tether_use_wifi6_summary">일부 장치는 802.11ax 표준과 호환되지 않을 수 있습니다. 문제가 발생하면이 기능을 끄십시오.</string>
   <string name="tether_use_wifi6_title">6세대 표준 지원</string>
