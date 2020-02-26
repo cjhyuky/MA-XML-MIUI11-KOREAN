@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="classesNameNull_toast">"강의 이름은 비워 둘 수 없습니다"</string>
+     <string name="classes_canfirmTitle">결과 확인 및 가져 오기 시작</string>
+     <string name="classes_company">가져 오기</string>
+     <string name="classes_dealalert">참고 : 가져온 강의 데이터로 이전 데이터를 덮어 씁니다.</string>
+     <string name="classes_delete">강의 삭제</string>
+     <string name="classes_deleteMessage">이 강의를 영구적으로 삭제 하시겠습니까?</string>
+     <string name="classes_edit_dialog_title">강의명</string>
+     <string name="classes_edit_name">강의명 입력</string>
+     <string name="classes_fail">"인식 할 수 없습니다. 다시 시도하십시오."</string>
+     <string name="classes_isNull">"아직 강의를 추가하지 않았습니다"</string>
+     <string name="classes_titlt">강의 일정</string>
+     <string name="classes_topTitle">강의 일정을 스캔합니다</string>
+     <string name="submitting">제출중…</string>
      <string name="crop__cancel">취소</string>
      <string name="crop__done">완료</string>
      <string name="crop__pick_error">사용 가능한 이미지 소스가 없습니다</string>
@@ -9,8 +22,8 @@
      <string name="grant_permission">권한 부여</string>
      <string name="permission_denied_albums">기기에서 사진, 미디어 및 파일에 액세스하여 앨범을 볼 수 있도록 허용</string>
      <string name="permission_denied_images">기기에서 사진, 미디어 및 파일에 액세스하여 이미지를 볼 수 있도록 허용</string>
-     <string name="select_from_album">앨범에서 선택</string>
-     <string name="take_a_picture">사진 찍기</string>
+     <string name="select_from_album">갤러리</string>
+     <string name="take_a_picture">카메라</string>
      <string name="add">확인</string>
      <string name="album_view">이미지 선택</string>
      <string name="image_view">클릭하여 선택</string>
