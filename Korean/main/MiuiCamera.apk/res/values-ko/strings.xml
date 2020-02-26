@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="mimoji_gif_record_time_short">녹화된 영상이 너무 짧습니다</string>
     <string name="pro_color_mode">프로 컬러 모드</string>
     <string name="super_night_se_tip">야간 모드</string>
     <string name="emoticon">이모지 패키지</string>
