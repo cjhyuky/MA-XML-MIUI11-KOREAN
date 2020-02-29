@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_clipboard">클립보드</string>
+    <string name="HIPS_Perm_clipboard_Desc">클립 보드 컨텐츠 액세스 및 변경 허용</string>
+    <string name="grant_dialog_button_allow_onetime">이번만 허용</string>
     <string name="app_name">권한 관리자</string>
     <string name="HIPS_Action_Accept">허용</string>
     <string name="HIPS_Action_Reject">거부</string>
