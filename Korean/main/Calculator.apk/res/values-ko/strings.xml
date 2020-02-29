@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="dob_selection_error">"생년월일이 오늘 날짜보다 이전이어야 합니다"</string>
+    <string name="history_delete_confirmation">지금 기록을 삭제 하시겠습니까?</string>
+    <string name="label_about">정보</string>
+    <string name="label_clear_history">전부 삭제</string>
+    <string name="label_delete">삭제</string>
+    <string name="label_history">기록</string>
+    <string name="label_no_history">여기에 항목이 없습니다</string>
     <string name="app_name">계산기</string>
     <string name="app_name_danfa">계산기</string>
     <string name="digit0">0</string>
