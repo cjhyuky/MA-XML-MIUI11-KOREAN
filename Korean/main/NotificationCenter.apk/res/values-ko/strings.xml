@@ -121,4 +121,5 @@
   <string name="summary_lock_screen_enable_notification_first">잠금화면 알림을 켜려면 먼저 알림을 허용하세요</string>
   <string name="summary_show_badge_enable_notification_first">알림 뱃지를 켜려면 먼저 알림을 허용하세요</string>
   <string name="last_sent_time_second">방금</string>
+  <string name="tip_select_category">알림 유형 선택</string>
 </resources>
