@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="desc_more_online_wallpaper">온라인에서 더 많은 배경화면</string>
+    <string name="lockscreen_desk_wallpaper">홈 화면 및 잠금 화면 배경화면</string>
+    <string name="more_system_wallpaper">더 많은 시스템 배경화면</string>
+    <string name="no_network_desc">"네트워크에 연결할 수 없습니다"</string>
+    <string name="no_network_please_retry">네트워크 설정을 확인하고 다시 시도하십시오</string>
+    <string name="no_wallpaper">아직 상품이 없습니다</string>
+    <string name="not_support_incall_show">"이 배경화면은 프로필 비디오와 작동하지 않습니다"</string>
+    <string name="search_filter_name">필터</string>
+    <string name="search_non_filter_result">"결과를 찾을 수 없습니다"</string>
+    <string name="search_price_charge">유료</string>
+    <string name="search_price_free">무료</string>
+    <string name="search_price_name">"가격: "</string>
+    <string name="search_price_no_limit">무제한</string>
+    <string name="search_sort_name">정렬</string>
+    <string name="search_sort_news">신규</string>
+    <string name="search_sort_synthesize">일반</string>
+    <string name="search_sort_top">인기</string>
+    <string name="theme_settings_title">테마</string>
+    <string name="theme_share_app_name">Mi 테마</string>
+    <string name="title_my_wallpaper">내 배경화면</string>
+    <string name="wallpaper_download_incall_show">비디오 다운로드</string>
+    <string name="wallpaper_share_alert">오류가 발생했습니다. 1-2분 정도 기다렸다가 다시 시도하십시오.</string>
     <string name="resource_app_name">리소스 브라우저</string>
     <string name="resource_delete">삭제</string>
     <string name="resource_price_free">무료</string>
