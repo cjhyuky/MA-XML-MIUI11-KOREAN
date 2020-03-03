@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="antivirus_monitored_app_empty">"호환 가능한 결제 앱을 찾을 수 없습니다"</string>
   <string name="power_save_ps_close_setting_3">전력 소비량이 많은 서비스 및 기능 끄기(%1$s, %2$s, %3$s)</string>
   <string name="power_save_ps_close_setting_4">전력 소비가 많은 서비스 및 기능 끄기(%1$s, %2$s, %3$s, %4$s)</string>
   <string name="power_save_ps_close_setting_5">고전력 소비(%1$s, %2$s, %3$s, %4$s, %5$s)의 서비스 및 기능 끄기</string>
