@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="backup_died_summary">\"다시 연결\"을 누르십시오. 중단 한 위치부터 이전 진행이 재개됩니다.</string>
+     <string name="backup_died_title">오류가 발생했습니다</string>
+     <string name="qq_app_receive_fail">"QQ를 받지 못했습니다"</string>
+     <string name="qq_app_send_fail">"QQ를 보낼 수 없습니다"</string>
+     <string name="wechat_and_qq_app_receive_fail">"WeChat 및 QQ를 받지 못했습니다"</string>
+     <string name="wechat_and_qq_app_send_fail">"WeChat 및 QQ를 보낼 수 없습니다"</string>
+     <string name="wechat_app_receive_fail">"WeChat을 받지 못했습니다"</string>
+     <string name="wechat_app_send_fail">"WeChat을 보낼 수 없습니다"</string>
     <string name="hsa_verify_failed_message">"2단계 인증이 작동하지 않습니다. 다시 시도하십시오."</string>
     <string name="err_remote_no_space">새 장치에 저장 공간이 부족합니다</string>
     <string name="err_remote_timeout">전송 시간이 초과되었습니다</string>
