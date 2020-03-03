@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="filter_sky_dynamic_note">이 필터가 있는 항목은 비디오로 저장됩니다</string>
+    <string name="filter_sky_dynamic_rain">비</string>
+    <string name="filter_sky_dynamic_saving">비디오 만들기</string>
+    <string name="filter_sky_dynamic_snow">눈</string>
+    <string name="filter_sky_dynamic_stop_saving">다시 누르면 저장을 취소합니다</string>
+    <string name="filter_sky_dynamic_unavailable">"이 이미지에는 이 필터를 적용할 수 없습니다"</string>
    <string name="card_description_annual_babys">1년의 성장</string>
    <string name="card_description_annual_peoples">얼굴, 이야기, 장소</string>
    <string name="card_title_annual_babys">%1$s의 귀염둥이</string>
