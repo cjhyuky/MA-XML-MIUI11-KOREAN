@@ -1,5 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="error_ap_in_use">"핫스팟이 켜져있을 때 다른 장치로 파일을 보낼 수 없습니다"</string>
+     <string name="error_slave_wifi_in_use">"이중 Wi-Fi가 켜져 있으면 Mi Share가 작동하지 않습니다. 설정에서 이중 Wi-Fi를 끄고 다시 시도하십시오."</string>
+     <string name="error_wifi_display_in_use">"캐스팅 중에 다른 장치로 파일을 보낼 수 없습니다"</string>
+     <string name="go_to_settings">설정</string>
   <string name="abc_action_bar_home_description">홈 탐색</string>
   <string name="abc_action_bar_up_description">위로 탐색</string>
   <string name="abc_action_menu_overflow_description">옵션 더보기</string>
