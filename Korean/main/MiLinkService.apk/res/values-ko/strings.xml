@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="help_page_text_06_global">"1. Mi TV, Mi Box 및 Mi 프로젝터 :
+최상의 효과를 얻으려면 휴대폰과 외부 모니터를 동일한 Wi-Fi 네트워크에 연결하십시오. 서로 다른 네트워크에 연결된 경우 외부 모니터를 찾아 연결하는 데 시간이 더 걸릴 수 있습니다.
+참고 : 이전 Mi TV는 다른 네트워크에서의 전송을 지원하지 않을 수 있습니다.
+2. TV, 셋톱 박스 또는 다른 브랜드의 프로젝터를 사용하는 경우 휴대폰과 외부 모니터를 모두 동일한 Wi-Fi 네트워크에 연결하십시오.
+두 장치를 동일한 네트워크에 연결할 수 없으면 외부 모니터에서 Miracast를 켜십시오. Miracast 기능의 이름은 다를 수 있습니다. "</string>
+    <string name="nfc_connect_failed_toast">"전송할 수 없습니다. 다시 시도하십시오."</string>
+    <string name="small_window_not_supported">"전송되는 동안이 앱을 최소화 할 수 없습니다"</string>
     <string name="app_name">캐스팅</string>
     <string name="casting_tips">캐스팅 중...</string>
     <string name="console_guide_btn_got_it">확인</string>
@@ -81,7 +88,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="help_page_text_40">우선 장치에 미라캐스트 기능이 활성화 되어있는지 확인하십시오. 미라캐스트에 대한 자세한 방법은 개별 고객센터로 문의하실 수 있습니다.</string>
     <string name="help_page_text_41">파나소닉 고객센터: 400-881-1315</string>
     <string name="help_page_text_42">Changhong</string>
-    <string name="help_page_text_43">우선 장치에 미라캐스트 기능이 활성화 되어있는지 확인하십시오. 미라캐스트에 대한 자세한 방법은 개별 고객센터로 문의하실 수 있습니다.</string>
+    <string name="help_page_text_43">외부 모니터가 Miracast 기능을 지원하는지 확인하려면 TV 설정을 확인하십시오.</string>
     <string name="help_page_text_44">Changhong 고객센터: 400-811-1666</string>
     <string name="help_page_text_45">TCL</string>
     <string name="help_page_text_46">우선 장치에 미라캐스트 기능이 활성화 되어있는지 확인하십시오. 미라캐스트에 대한 자세한 방법은 개별 고객센터로 문의하실 수 있습니다.</string>
