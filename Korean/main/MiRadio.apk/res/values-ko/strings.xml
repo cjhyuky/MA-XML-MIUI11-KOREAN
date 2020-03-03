@@ -295,7 +295,7 @@ ID:%s
     <string name="passport_unknow_error">알 수 없는 오류가 발생했습니다</string>
     <string name="passport_unknow_network_error">네트워크 오류가 발생했습니다</string>
     <string name="passport_user_agreement_link"><Data>"샤오미의 &lt;a href=%1$s>사용자 동의&lt;/a> 와 &lt;a href=%2$s>개인정보 보호정책&lt;/a>을 읽고 동의하였습니다."</Data></string>
-    <string name="passport_user_agreement_link_more">"& lt; Data> Xiaomi의 & lt; a href = %1$s> 사용자 계약 & lt; / a> 및 & lt; a href = % 4 $ 문서를 읽었으며 이에 동의합니다. s> 개인 정보 보호 정책 & lt; / a>, & lt; a href = %2$s> % 3 $ s & lt; / a>. & lt; / Data> "</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>샤오미의 &lt;a href=%1$s>사용자 동의&lt;/a> 및 &lt;a href=%2$s>개인정보 보호정책&lt;/a> 문서를 읽었으며 이에 동의합니다.&lt;/Data>"</string>
     <string name="passport_user_id_intro">%1$s의 비밀번호를 입력하십시오</string>
     <string name="passport_vcode_notification_title">로그인 인증이 완료되지 않았습니다.</string>
     <string name="passport_vcode_prompt_long">인증 코드를 입력하십시오.</string>
