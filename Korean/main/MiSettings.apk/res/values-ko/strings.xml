@@ -306,5 +306,5 @@
   <string name="touch_description">최적화 된 버튼과 바로 가기는 실수로 닿지 않도록 도와줍니다</string>
   <string name="touch_title">향상된 터치 컨트롤</string>
   <string name="usage_home_premission_second_summary_double_link_prefix">"우리는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 개인 정보를 보호해야합니다. 이러한 권한을 부여하거나 개인 정보를 공유 및 업로드하는 데 동의하지 않으면 귀하는 화면 시간 &gt; 설정 &gt; 화면 시간 끄기에서 승인을 취소 할 수 있습니다."</string>
-  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"이 앱을 사용하기 전에 &lt;a href='%1s'&amp;gt;사용자 약관&amp;lt;/a&amp;gt; 및 &amp;lt;a href='%2s'&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt;을 읽고 동의하셔야 합니다."&lt;/Data&gt;</string>
+  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data&gt;이 앱을 사용하기 전에 &lt;a href='%1s'&amp;gt;사용자 약관&amp;lt;/a&amp;gt; 및 &amp;lt;a href='%2s'&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt;을 읽고 동의하셔야 합니다.&lt;/Data&gt;"</string>
 </resources>
