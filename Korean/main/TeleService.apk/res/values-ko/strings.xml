@@ -2604,7 +2604,7 @@
   <string name="kt_lte_emm_cause_8">활성화가 필요합니다. 고객 서비스 센터를 방문하십시오.</string>
   <string name="kt_lte_emm_cause_others">"네트워크를 등록 할 수 없습니다"</string>
   <string name="kt_lte_msim_emm_cause_19_22">SIM %d이(가) 네트워크를 등록하는 중… 1분 정도 기다렸다가 다시 시도하십시오.</string>
-  <string name="kt_lte_msim_emm_cause_3">"SIM %d에서 사용자를 확인할 수 없습니다. 기기를 껐다가 다시 켠 다음 다시 시도하십시오. 그래도이 문제가 계속 발생하면 고객 서비스 센터를 방문하십시오."</ 문자열>
+  <string name="kt_lte_msim_emm_cause_3">"SIM %d에서 사용자를 확인할 수 없습니다. 기기를 껐다가 다시 켠 다음 다시 시도하십시오. 그래도이 문제가 계속 발생하면 고객 서비스 센터를 방문하십시오."</string>
   <string name="kt_lte_msim_emm_cause_6">"SIM %d에서 장치를 확인할 수 없습니다. 그래도이 문제가 계속 발생하면 고객 서비스 센터를 방문하십시오."</string>
   <string name="kt_lte_msim_emm_cause_8">SIM %d에는 활성화가 필요합니다. 고객 서비스 센터를 방문하십시오.</string>
   <string name="kt_lte_msim_emm_cause_others">"SIM %d이(가) 네트워크를 등록 할 수 없습니다"</string>
