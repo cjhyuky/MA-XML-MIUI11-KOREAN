@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="password_toggle_content_description">비밀번호 공개 설정 전환</string>
     <string name="passport_account_label">Mi 계정</string>
     <string name="passport_notification_title">%1$s 로그인 오류</string>
     <string name="passport_login_prompt">하나의 Mi 계정로 모든 Mi 서비스를 이용하십시오.</string>
