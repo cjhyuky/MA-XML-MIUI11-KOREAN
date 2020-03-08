@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <string name="app_behavior_audio_bg_single">이 앱은 백그라운드에서 오디오를 녹음했습니다</string>
+   <string name="app_behavior_audio_single">이 앱은 오디오를 녹음했습니다</string>
+   <string name="app_behavior_autostart_single">이 앱은 자동으로 시작되었습니다</string>
+   <string name="app_behavior_calendar_bg_single">이 앱은 백그라운드에서 캘린더 일정에 액세스했습니다</string>
+   <string name="app_behavior_calendar_single">이 앱은 캘린더 일정에 액세스했습니다</string>
+   <string name="app_behavior_calllog_bg_single">이 앱은 백그라운드에서 통화 기록에 액세스했습니다</string>
+   <string name="app_behavior_calllog_single">이 앱은 통화 기록에 액세스했습니다</string>
+   <string name="app_behavior_callphone_single">이 앱은 전화를 걸었습니다</string>
+   <string name="app_behavior_camera_single">이 앱은 사진을 찍거나 비디오를 녹화했습니다</string>
+   <string name="app_behavior_clipboard_bg_single">이 앱은 백그라운드에서 클립 보드에 항목을 액세스하거나 저장했습니다</string>
+   <string name="app_behavior_clipboard_single">이 앱은 클립 보드에 항목을 액세스하거나 저장했습니다</string>
+   <string name="app_behavior_contacts_bg_single">이 앱은 백그라운드에서 연락처에 액세스했습니다</string>
+   <string name="app_behavior_contacts_single">이 앱은 연락처에 액세스했습니다</string>
+   <string name="app_behavior_location_bg_single">이 앱은 백그라운드에서 내 위치에 액세스했습니다</string>
+   <string name="app_behavior_location_single">이 앱이 사용자 위치에 액세스했습니다</string>
+   <string name="app_behavior_phonenum_single">이 앱은 전화 번호에 액세스했습니다</string>
+   <string name="app_behavior_phonestate_single">이 앱은 기기 정보에 액세스했습니다</string>
+   <string name="app_behavior_recognition_single">이 앱은 활동 정보에 액세스했습니다</string>
+   <string name="app_behavior_sensor_single">이 앱은 센서 데이터에 액세스했습니다</string>
+   <string name="app_behavior_sms_read_single">이 앱은 SMS를 읽습니다</string>
+   <string name="app_behavior_sms_send_single">이 앱은 SMS를 보냈습니다</string>
+   <string name="app_behavior_storage_bg_single">이 앱은 백그라운드에서 파일에 액세스하거나 파일을 저장했습니다</string>
+   <string name="app_behavior_storage_single">이 앱은 파일에 액세스하거나 파일을 저장했습니다</string>
+   <string name="app_behavior_wakepath_single">이 앱은 %2s를 시작했습니다.</string>
+   <string name="app_statusbar_audio_now">녹음중</string>
+   <string name="app_statusbar_camera_now">촬영중</string>
+   <string name="app_statusbar_location_now">위치 지정</string>
     <string name="antivirus_monitored_app_empty">"호환 가능한 결제 앱을 찾을 수 없습니다"</string>
   <string name="power_save_ps_close_setting_3">전력 소비량이 많은 서비스 및 기능 끄기(%1$s, %2$s, %3$s)</string>
   <string name="power_save_ps_close_setting_4">전력 소비가 많은 서비스 및 기능 끄기(%1$s, %2$s, %3$s, %4$s)</string>
