@@ -1,13 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="backup_died_summary">\"다시 연결\"을 누르십시오. 중단 한 위치부터 이전 진행이 재개됩니다.</string>
-     <string name="backup_died_title">오류가 발생했습니다</string>
-     <string name="qq_app_receive_fail">"QQ를 받지 못했습니다"</string>
-     <string name="qq_app_send_fail">"QQ를 보낼 수 없습니다"</string>
-     <string name="wechat_and_qq_app_receive_fail">"WeChat 및 QQ를 받지 못했습니다"</string>
-     <string name="wechat_and_qq_app_send_fail">"WeChat 및 QQ를 보낼 수 없습니다"</string>
-     <string name="wechat_app_receive_fail">"WeChat을 받지 못했습니다"</string>
-     <string name="wechat_app_send_fail">"WeChat을 보낼 수 없습니다"</string>
+    <string name="dialog_request_permission_message">"Mi Mover에 오신 것을 환영합니다!이 앱을 사용하여 기존 기기 또는 iCloud에서 새로운 기기로 데이터를 전송할 수 있습니다.
+당사는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 귀하의 개인 정보를 보호합니다.
+Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 수 있어야하며 개인 정보를 수집하려면 다음 권한이 필요합니다. "</string>
+    <string name="dialog_request_permission_message_extra">"이러한 권한 부여 또는 개인 정보 공유 및 업로드에 동의하지 않으면이 앱을 사용할 수 없습니다.이 앱을 제거하거나 로그아웃하도록 선택할 수 있습니다. 그런 경우에요."</string>
+    <string name="dialog_request_permission_message_link" formatted="false"><Data>"우리의 &lt;a href='%1s'>사용자 계약&lt;/a> 및 &lt;a href='%2s'>개인정보 보호정책&lt;/a>를 읽고 동의해야합니다. 이 앱을 사용하기 전에 정책을 참조하십시오."</Data></string>
+    <string name="perm_write_settings">시스템 설정 변경</string>
+    <string name="permission_calender_summary">이전 장치에서 새 장치로 캘린더 이벤트를 전송하는 경우</string>
+    <string name="permission_calender_title">캘린더 액세스</string>
+    <string name="permission_call_log_summary">이전 장치에서 새 장치로 통화 기록을 전송하기 위해</string>
+    <string name="permission_call_log_title">통화 기록에 액세스</string>
+    <string name="permission_contacts_summary">기존 장치에서 새 장치로 연락처를 전송하기 위해</string>
+    <string name="permission_contacts_title">연락처에 액세스</string>
+    <string name="permission_locale_summary">근처의 Wi-Fi 네트워크에 연결하는 경우</string>
+    <string name="permission_locale_title">위치 정보 액세스</string>
+    <string name="permission_message_summary">이전 장치에서 새 장치로 메시지를 전송하는 경우</string>
+    <string name="permission_message_title">SMS 읽기</string>
+    <string name="permission_phone_summary">Android ID를 사용하여 기기를 식별하고 호환성 문제를 감지하는 경우</string>
+    <string name="permission_phone_title">기기 정보 액세스</string>
+    <string name="permission_read_storage_summary">사용 가능한 저장 공간의 크기를 결정하고 파일 크기를 추정합니다</string>
+    <string name="permission_read_storage_title">저장소에 액세스</string>
+    <string name="permission_write_storage_summary">이전 장치에서 새 장치로 파일을 전송하는 경우</string>
+    <string name="permission_write_storage_title">저장소에 품목 저장</string>
+    <string name="title_request_write_settings_perm">필요한 시스템 설정 변경 권한</string>
+    <string name="lack_perm_msg">Mi Mover는 정상적으로 작동하려면 다음 권한이 필요합니다: &lt;b>%s&lt;/b>.</string>
+    <string name="perm_location">액세스 위치</string>
+    <string name="perm_storage">항목을 저장하고 저장소에 저장</string>
+    <string name="backup_died_summary">\"다시 연결\"을 누르십시오. 중단 한 위치부터 이전 진행이 재개됩니다.</string>
+    <string name="backup_died_title">오류가 발생했습니다</string>
+    <string name="qq_app_receive_fail">"QQ를 받지 못했습니다"</string>
+    <string name="qq_app_send_fail">"QQ를 보낼 수 없습니다"</string>
+    <string name="wechat_and_qq_app_receive_fail">"WeChat 및 QQ를 받지 못했습니다"</string>
+    <string name="wechat_and_qq_app_send_fail">"WeChat 및 QQ를 보낼 수 없습니다"</string>
+    <string name="wechat_app_receive_fail">"WeChat을 받지 못했습니다"</string>
+    <string name="wechat_app_send_fail">"WeChat을 보낼 수 없습니다"</string>
     <string name="hsa_verify_failed_message">"2단계 인증이 작동하지 않습니다. 다시 시도하십시오."</string>
     <string name="err_remote_no_space">새 장치에 저장 공간이 부족합니다</string>
     <string name="err_remote_timeout">전송 시간이 초과되었습니다</string>
