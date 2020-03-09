@@ -10,4 +10,9 @@
     <string name="reset">재설정</string>
     <string name="select_app">앱을 선택하세요</string>
     <string name="select_apps">앱을 선택하세요</string>
+    <string name="contributors">도움주신 분들</string>
+    <string name="hide_apps_close">표시되는 앱 아이콘</string>
+    <string name="hide_apps_open">숨겨진 앱 아이콘</string>
+    <string name="home_hide_apps">앱 아이콘 숨기기</string>
+    <string name="loading">잠깐만 기다려주세요…</string>
 </resources>
