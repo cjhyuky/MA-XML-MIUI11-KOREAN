@@ -515,4 +515,9 @@
     <string name="recents_forbid_dock_when_screening_toast_text">"캐스팅 중에는 분할 화면을 사용할 수 없습니다"</string>
     <string name="recents_task_screening">캐스팅</string>
     <string name="task_access_locked_app_msg">앱 잠금 켜짐</string>
+    <string name="default_folder_title_microsoft">마이크로소프트</string>
+    <string name="default_folder_title_other_apps">다른 앱</string>
+    <string name="default_folder_title_telcel">전화</string>
+    <string name="free_style_edit_app">앱</string>
+    <string name="hide_apps_title">앱 아이콘 숨기기</string>
 </resources>
