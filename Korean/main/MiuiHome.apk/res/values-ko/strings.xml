@@ -152,10 +152,8 @@
     <string name="cancel_btn_label">취소</string>
     <string name="default_folder_title_tools">도구</string>
     <string name="default_folder_title_recommend">더 많은 앱</string>
-    <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_game">게임</string>
     <string name="default_folder_title_security">시스템</string>
-    <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_claro">클레오</string>
     <string name="wallpaper_settings">배경화면</string>
     <string name="choose_wallpaper">배경화면 선택</string>
@@ -263,7 +261,6 @@
     <string name="free_style_edit_tab_free_component">개체</string>
     <string name="free_style_edit_tab_widget">위젯</string>
     <string name="free_style_edit_move_tip">길게 &amp; 눌러 항목 이동</string>
-    <string name="free_style_edit_app">앱</string>
     <string name="free_style_edit_drawer">서랍</string>
     <string name="free_style_drawer_title">모든 앱</string>
     <string name="guide_install_app_title">앱을 찾아 설치하시겠습니까?</string>
