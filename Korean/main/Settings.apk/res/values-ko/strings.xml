@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="corner_assistant_gesture_summary">Google 어시스턴트를 깨우려면 왼쪽 하단 또는 오른쪽 하단에서 위로 스와이프하세요</string>
+  <string name="corner_assistant_gesture_title">모서리에서 위로 스와이프하여 구글 어시스턴트 열기</string>
   <string name="easymode_hint">라이트 모드를 끄시려면 탭하세요</string>
   <string name="oldman_mode_settings">라이트 모드</string>
   <string name="bluetooth_connect_settings">블루투스 연결 설정</string>
