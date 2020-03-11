@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="cloud_russion_addr">러시아 서버 데이터 업데이트</string>
   <string name="about_extreme_mode">최대 절약 모드</string>
   <string name="about_hide_mode">앱 배터리 절약모드 정보</string>
   <string name="active_classify">작업 상태로 정렬</string>
