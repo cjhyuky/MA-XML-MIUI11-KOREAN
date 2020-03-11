@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="warningcenter_action_check">보기</string>
+    <string name="warningcenter_alert_home">위치</string>
+    <string name="warningcenter_alert_room">공간</string>
+    <string name="warningcenter_alert_source">MIUI 경고 센터 | 데이터 소스: %s</string>
+    <string name="warningcenter_alert_time">시간</string>
+    <string name="warningcenter_alert_warning_time">수신 시간: %s</string>
+    <string name="warningcenter_earthquake_info">지진 조기 경보</string>
+    <string name="warningcenter_mijia_alert_close">닫기</string>
+    <string name="warningcenter_mijia_alert_settings">스마트 홈 기기의 보안 &gt; 알림 설정 변경</string>
+    <string name="warningcenter_mijia_alert_tips_1">높은 가스 농도 감지</string>
+    <string name="warningcenter_mijia_alert_tips_2">연기가 감지되었습니다</string>
+    <string name="warningcenter_mijia_alert_tips_3">홍수가 감지되었습니다</string>
+    <string name="warningcenter_mijia_alert_tips_4">자물쇠가 손상되었습니다</string>
+    <string name="warningcenter_mijia_alert_view_device">장치 보기</string>
+    <string name="warningcenter_mijia_devices_1">홍수 감지기</string>
+    <string name="warningcenter_mijia_devices_2">연기 감지기</string>
+    <string name="warningcenter_mijia_devices_3">가스 감지기</string>
+    <string name="warningcenter_mijia_devices_4">스마트 잠금</string>
+    <string name="warningcenter_mijia_devices_support">지원되는 장치</string>
+    <string name="warningcenter_mijia_devices_support_tips">"참고: Mi Home에서 계정에서 로그아웃하거나 앱을 제거하면 경고를 받을 수 없습니다."</string>
+    <string name="warningcenter_mijia_info">가정 보안 모니터링</string>
+    <string name="warningcenter_mijia_notification_summary">인스턴트 알림을 받을 수 있습니다</string>
+    <string name="warningcenter_mijia_notification_title">스마트 홈 기기의 알림이 켜져 있습니다</string>
+    <string name="warningcenter_mijia_open_desc">"Mi Home에 추가한 장치에서 경고를 발행할 때마다 이 전화 및 기타 공유 장치에서 경고를 받습니다"</string>
+    <string name="warningcenter_mijia_open_title">스마트 기기에서 알림 받기</string>
+    <string name="warningcenter_mijia_page_title">경고</string>
+    <string name="warningcenter_mijia_title">스마트 홈 기기의 경고</string>
+    <string name="warningcenter_smarthome">Mi 홈</string>
+    <string name="warningcenter_title">MIUI 경고 센터</string>
    <string name="app_behavior_audio_bg_single">이 앱은 백그라운드에서 오디오를 녹음했습니다</string>
    <string name="app_behavior_audio_single">이 앱은 오디오를 녹음했습니다</string>
    <string name="app_behavior_autostart_single">이 앱은 자동으로 시작되었습니다</string>
