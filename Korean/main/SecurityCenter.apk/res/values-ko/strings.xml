@@ -2242,9 +2242,9 @@
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">항목 없음</string>
   <string name="sp_settings_group_title_check_item">다중 항목</string>
-  <string name="sp_settings_info_input_method">지불 앱에 시스템 입력 방식 사용</string>
+  <string name="sp_settings_info_input_method">결제 중 보안 문제에 대한 키보드 테스트</string>
   <string name="sp_settings_info_monitor">지불 앱이 시작되면 시스템 환경을 모니터링 합니다.</string>
-  <string name="sp_settings_title_input_method">보안 IME</string>
+  <string name="sp_settings_title_input_method">보안 문제에 대한 키보드 테스트</string>
   <string name="sp_toast_removed_from_sign_white_list">예외에서 제외됨. 다음부터 이 항목이 스캔됩니다.</string>
   <string name="special_number_group">신고된 번호 차단</string>
   <string name="sponsored_sec_fb">스폰서</string>
@@ -2800,7 +2800,7 @@
   <string name="wifi_item_title_arp_attack">ARP 공격</string>
   <string name="wifi_item_title_connection">Wi-Fi 연결</string>
   <string name="wifi_item_title_dns">DNS 서버 보안</string>
-  <string name="wifi_item_title_encryption">Wi-Fi 암호화</string>
+  <string name="wifi_item_title_encryption">Wi-Fi가 암호화되지 않았습니다</string>
   <string name="wifi_item_title_fake">가짜 Wi-Fi 감지</string>
   <string name="wifi_network_blocked_notification_title">인터넷 연결 없음</string>
   <string name="wifi_optizition_loading">Xunyou 네트워크 스피드 부스트 켜는 중…</string>
@@ -3129,4 +3129,9 @@
   <string name="app_behavior_warning_audio_title">%1s-백그라운드에서 오디오를 녹음</string>
   <string name="app_behavior_warning_content">사용자가 작업을 승인하지 않은 경우 프로세스를 완료하십시오</string>
   <string name="app_behavior_warning_location_title">%1s-백그라운드 위치 정보를 가져옵니다.</string>
+    <string name="button_text_trust">이 네트워크를 신뢰합니다</string>
+    <string name="sp_background_risk_dialog_summary_new">현재 결제 환경은 보안 위험을 초래할 수 있습니다. 기존 문제를 해결하기 위해 잠시 시간을 내십시오.</string>
+    <string name="wifi_danger_dialog_messgae">현재 Wi-Fi 네트워크는 보안 위험을 초래할 수 있습니다. 주의해서 사용하십시오.</string>
+    <string name="wifi_danger_dialog_tips">보안>보안 검색>설정>Wi-Fi에서 Wi-Fi 보안을 관리 할 수 있습니다.</string>
+    <string name="wifi_danger_dialog_title">"Wi-Fi 네트워크가 안전하지 않습니다"</string>
 </resources>
