@@ -1350,4 +1350,15 @@
     <string name="pref_camera_debug_info_as_watermark_title">워터 마크 디버깅 켜기</string>
     <string name="pref_camera_video_sat_enable_title">비디오 부드러운 확대/축소 켜기</string>
     <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
+    <string name="accessibility_eis_normal">EIS 켜짐</string>
+    <string name="accessibility_eis_off">EIS 꺼짐</string>
+    <string name="accessibility_eis_pro">EIS 프로 켜짐</string>
+    <string name="pref_camera_eis_entry_normal">EIS</string>
+    <string name="pref_camera_eis_entry_off">꺼짐</string>
+    <string name="pref_camera_eis_entry_pro">EIS 프로</string>
+    <string name="pref_camera_eis_title">EIS</string>
+    <string name="super_eis_pro">스태디 비디오 프로</string>
+    <string name="super_eis_pro_disabled_hint">스태디 비디오 프로 꺼짐</string>
+    <string name="mimoji_tab_cartoon">만화 이미지</string>
+    <string name="mimoji_tab_human">휴머노이드 이미지</string>
 </resources>
