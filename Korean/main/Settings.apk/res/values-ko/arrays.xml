@@ -1291,4 +1291,14 @@
         <item>\"헤더 필터링\" 사용</item>
         <item>\"미디어 패킷 필터링\" 사용</item>
     </string-array>
+    <string-array name="aggregate_entries">
+        <item>추천</item>
+        <item>중요함</item>
+        <item>중요하지 않음</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>MIUI는 어떤 알림을 직접 표시할지 결정합니다</item>
+        <item>알림이 알림창에 나타납니다</item>
+        <item>알림이 별도의 폴더에 나타납니다</item>
+    </string-array>
 </resources>
