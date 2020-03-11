@@ -9314,4 +9314,22 @@ USB 백업 :
     <string name="wifi_link_turbo_list">앱</string>
     <string name="wifi_link_turbo_recommendation">추천 앱</string>
     <string name="wifi_link_turbo_recommendation_summary">데이터 사용 통계를 기반으로 추천 받기</string>
+    <string name="input_method_clipboard_settings">클립보드 설정</string>
+    <string name="input_method_cloud_data_title">클라우드 클립보드</string>
+    <string name="input_method_cloud_paste_mode_bubble_des">"새 콘텐츠가 클라우드 클립보드에 나타날 때마다 팝업 팝업이 나타납니다. 복사한 텍스트를 입력하려면 버블을 살짝 누르십시오."</string>
+    <string name="input_method_cloud_paste_mode_bubble_title">거품</string>
+    <string name="input_method_cloud_paste_mode_no_des">"클라우드 클립보드에 새 콘텐츠가 표시되면 알림이 표시되지 않지만 아이콘을 탭해도 클립보드를 계속 사용할 수 있습니다."</string>
+    <string name="input_method_cloud_paste_mode_no_title">없음</string>
+    <string name="input_method_cloud_paste_mode_red_point_des">"클라우드 클립보드에 새 컨텐츠가 나타날 때마다 키보드 하단에 빨간색 점이 표시됩니다. 아이콘을 탭하여 클립보드를 열고 복사된 컨텐츠를 사용하십시오."</string>
+    <string name="input_method_cloud_paste_mode_red_point_title">빨간색 점</string>
+    <string name="input_method_quick_access">빠른 액세스</string>
+    <string name="input_method_quick_cloud_mode_title">새로운 클립보드 내용에 대한 알림</string>
+    <string name="input_method_quick_cloud_summary">호환 가능한 컴퓨터에서 항목을 복사하여 장치에 붙여 넣기</string>
+    <string name="input_method_quick_cloud_title">클라우드 클립보드</string>
+    <string name="input_method_quick_paste_summary">클립보드 아이콘을 눌러 복사한 항목보기</string>
+    <string name="input_method_quick_paste_title">빠른 붙여넣기</​​string>
+    <string name="input_method_quick_taobao_summary">클립보드 아이콘을 탭하여 복사된 Taobao 링크 열기</string>
+    <string name="input_method_quick_taobao_title">타오바오 링크</string>
+    <string name="input_method_quick_url_summary">클립보드 아이콘을 탭하여 복사된 URL 열기</string>
+    <string name="input_method_quick_url_title">웹 사이트</string>
 </resources>
