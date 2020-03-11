@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="character_counter_content_description">글자 수 한도를 %2$d자 중 %1$d자를 초과했습니다</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
     <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">국내 : SIM카드 활성화가 번호를 가져오지 못했습니다, 운영자가 번호를 가져오지 못했습니다</string>
     <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">국내 : SIM카드 활성화 및 번호 매기기에 실패했습니다. 운영자가 성공적으로 번호를 얻었습니다(%s개 완료)</string>
     <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">국내 : SIM카드 활성화 및 성공적인 번호 선택(%s개 완료)</string>
     <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">국제 : SIM카드 활성화가 숫자를 가져오지 못했습니다</string>
     <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">국제 : SIM카드 활성화 및 번호 매기기 완료(%s개 완료)</string>
-    <string name="password_toggle_content_description">비밀번호 공개 설정 전환</string>
+    <string name="password_toggle_content_description">비밀번호 표시</string>
     <string name="passport_account_label">Mi 계정</string>
     <string name="passport_notification_title">%1$s 로그인 오류</string>
     <string name="passport_login_prompt">하나의 Mi 계정로 모든 Mi 서비스를 이용하십시오.</string>
