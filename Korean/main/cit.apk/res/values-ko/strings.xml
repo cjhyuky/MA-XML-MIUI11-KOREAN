@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="battery_dual_connector">배터리 보조 커넥터</string>
   <string name="cit_front_camera_motor_cali_fail">모터 측정 실패</string>
   <string name="cit_front_camera_motor_cali_success">모터 측정 완료</string>
   <string name="cit_front_camera_motor_cali_tips">팝업 카메라 모터 측정중에는 카메라를 막지마세요</string>
