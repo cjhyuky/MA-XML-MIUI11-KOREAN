@@ -3130,7 +3130,7 @@
   <string name="app_behavior_notification_title_clipboard_write">%1s님이 백그라운드에서 클립보드 항목을 편집했습니다</string>
   <string name="app_behavior_notification_title_contact_read">%1s님이 백그라운드에서 연락처를 읽습니다.</string>
   <string name="app_behavior_notification_title_contact_write">%1s님이 백그라운드에서 연락처를 편집합니다</string>
-  <string name="app_behavior_notification_title_just_audio">%1s님이 백그라운드에서 오디오를 녹음</string>%1s
+  <string name="app_behavior_notification_title_just_audio">%1s님이 백그라운드에서 오디오를 녹음</string>
   <string name="app_behavior_notification_title_just_location">%1s님이 백그라운드에서 위치 정보를 얻습니다</string>
   <string name="app_behavior_notification_title_multi">민감한 작업이 여러 애플리케이션에서 수행되었습니다</string>
   <string name="app_behavior_notification_title_now_audio">%1s님이 백그라운드에서 오디오를 녹음</string>
