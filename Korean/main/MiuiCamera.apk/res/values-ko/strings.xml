@@ -13,7 +13,7 @@
     <string name="mimoji_gif_edit_title">Gif 편집</string>
     <string name="mimoji_gif_reverse">되감기</string>
     <string name="mimoji_save_finish">완료</string>
-    <string name="mimoji_select_number_error">적어도 하나의 항목을 선택하십시오</string>
+    <string name="mimoji_select_number_error">최소 %d개의 항목을 선택하십시오</string>
     <string name="preview_back_pressed_hint">다시 누르면 미리보기로 돌아갑니다</string>
     <string name="share">공유</string>
     <string name="timbre">음성</string>
