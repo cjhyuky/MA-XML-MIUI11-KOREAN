@@ -517,4 +517,6 @@
     <string name="default_folder_title_telcel">전화</string>
     <string name="free_style_edit_app">앱</string>
     <string name="hide_apps_title">앱 아이콘 숨기기</string>
+    <string name="permdesc_uninstall_widget">앱이 사용자 개입없이 위젯을 제거하도록 허용합니다.</string>
+    <string name="permlab_uninstall_widget">위젯 제거</string>
 </resources>
