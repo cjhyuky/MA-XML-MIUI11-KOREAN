@@ -1683,4 +1683,15 @@
   <string name="migu_parent">미구</string>
   <string name="migu_video">비디오</string>
   <string name="card_expand_note_toast_share_null">이 메모는 비어 있습니다</string>
+     <string name="access_deselect">선택 해제된 %s</string>
+     <string name="access_deselected">선택 해제된 %s</string>
+     <string name="access_selected">선택한 %s</string>
+     <string name="app_version_name">"퀵 카드 버전:"</string>
+     <string name="debug_card_brief">디버깅 설정 및 도구</string>
+     <string name="debug_card_detail">디버깅 설정 및 도구</string>
+     <string name="debug_card_title">디버깅</string>
+     <string name="miot_device_closed">기기가 꺼져 있습니다</string>
+     <string name="miot_device_disabled">"지금이 기기를 제어 할 수 없습니다"</string>
+     <string name="miot_device_opening">기기가 켜져 있습니다</string>
+     <string name="trip_required_info">필수</string>
 </resources>
