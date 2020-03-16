@@ -19,12 +19,12 @@
          <item quantity="one">%1$d앱의 동작 알림이 활성화되었습니다</item>
     </plurals>
     <plurals name="fw_blocked_count_call">
-        <item quantity="other">%2$s님과 그외의 곳에서 %1$d개의 통화 차단됨</item>
-        <item quantity="one">%2$s님으로부터 %1$d개의 통화 차단됨</item>
+        <item quantity="other">%2$s님 외 %1$d개의 통화 차단됨</item>
+        <item quantity="one">%2$s님 외 %1$d개의 통화 차단됨</item>
     </plurals>
     <plurals name="fw_blocked_count_call_one">
-        <item quantity="other">%2$s님과 그외의 곳에서 %1$d개의 통화</item>
-        <item quantity="one">%2$s님으로부터 %1$d개의 통화</item>
+        <item quantity="other">%2$s님 외 %1$d개의 통화</item>
+        <item quantity="one">%2$s님 외 %1$d개의 통화</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d개 메시지</item>
