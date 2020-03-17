@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ring_to_you">필링</string>
+    <string name="ring_to_you_info">전화 연결음을 지정하고 싶은 멜로디로 설정</string>
     <string name="input_method_clipboard_settings">클립보드 설정</string>
     <string name="input_method_cloud_data_title">클라우드 클립보드</string>
     <string name="input_method_cloud_paste_mode_bubble_des">"새 콘텐츠가 클라우드 클립보드에 나타날 때마다 팝업 팝업이 나타납니다. 복사한 텍스트를 입력하려면 버블을 살짝 누르십시오."</string>
