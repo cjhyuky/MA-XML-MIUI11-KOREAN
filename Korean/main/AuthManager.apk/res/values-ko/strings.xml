@@ -128,7 +128,7 @@
     <string name="permission_reminders">권한 알림</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">"거부&amp;다시보지않음"</string>
     <string name="grant_dialog_button_deny_background">사용 중 접근 유지</string>
-    <string name="grant_dialog_button_deny_background_and_dont_ask_again">"다시 묻지 않음"</string>
+    <string name="grant_dialog_button_deny_background_and_dont_ask_again">"앱 사용중일 떄에만 허용하고 다시 묻지 않기"</string>
     <string name="grant_dialog_button_allow_always">항상 허용</string>
     <string name="grant_dialog_button_allow_foreground">앱 사용중에만 허용</string>
     <string name="grant_dialog_button_allow_background">항상 허용</string>
