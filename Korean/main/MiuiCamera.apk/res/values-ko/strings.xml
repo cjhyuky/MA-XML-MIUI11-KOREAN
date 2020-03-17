@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">홈으로 이동</string>
+    <string name="abc_action_bar_up_description">위로 이동</string>
+    <string name="abc_action_menu_overflow_description">추가 옵션</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activity_chooser_view_see_all">모두 보기</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_capital_off">꺼짐</string>
+    <string name="abc_capital_on">켜짐</string>
+    <string name="abc_search_hint">검색중…</string>
+    <string name="abc_searchview_description_clear">검색어 삭제</string>
+    <string name="abc_searchview_description_query">검색어 검색</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 제출</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_shareactionprovider_share_with">공유</string>
+    <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="search_menu_title">검색</string>
+    <string name="speech_shutter_open_tip">\"촬영\" 또는 \"치즈\"라고 말해서 사진찍기</string>
+    <string name="speech_shutter_tip">음성 셔터</string>
+    <string name="clone_guide_tip1">휴대 전화를 안정적이고 밝게 유지하십시오</string>
+    <string name="clone_guide_tip2">개체 및 단색 배경 이동 방지</string>
+    <string name="clone_guide_tip3">초상화 만 지원됩니다</string>
+    <string name="clone_guide_tip4">최대 4개의 클론 지원</string>
+    <string name="clone_guide_title1">01</string>
+    <string name="clone_guide_title2">사진 튜토리얼</string>
+    <string name="clone_guide_title3">02</string>
+    <string name="clone_guide_title4">효율성</string>
+    <string name="clone_guide_video_tip4">최대 2개의 아바타 지원</string>
+    <string name="clone_guide_video_title2">비디오 자습서</string>
     <string name="background">배경</string>
     <string name="emoticon">스티커 팩</string>
     <string name="mimoji_create_emoticon">스티커 팩 만들기</string>
