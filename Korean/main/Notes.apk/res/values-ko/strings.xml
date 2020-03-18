@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="notification_content_add_todo_from_other_app">새로운 작업을 추가했습니다. 보려면 탭하세요.</string>
+    <string name="abc_action_bar_home_description">홈 화면으로 이동</string>
+    <string name="abc_action_bar_up_description">위로 이동</string>
+    <string name="abc_action_menu_overflow_description">추가 옵션</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activity_chooser_view_see_all">모두 보기</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_capital_off">꺼짐</string>
+    <string name="abc_capital_on">켜짐</string>
+    <string name="abc_search_hint">검색…</string>
+    <string name="abc_searchview_description_clear">검색기록 삭제</string>
+    <string name="abc_searchview_description_query">검색기록 검색</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색기록 제출</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_shareactionprovider_share_with">공유하기</string>
+    <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="copy">복사</string>
+    <string name="expand_button_title">추가설정</string>
+    <string name="not_set">설정되지 않음</string>
+    <string name="preference_copied">\"%1$s\" 클립보드에 복사됨.</string>
+    <string name="search_menu_title">검색</string>
+    <string name="v7_preference_off">꺼짐</string>
+    <string name="v7_preference_on">켜짐</string>
+    <string name="data_empty_note">메모가 아직 없습니다</string>
+    <string name="data_empty_todo">할일이 아직 없습니다</string>
+    <string name="notification_content_add_todo_from_other_app">새로운 작업을 추가했습니다. 보려면 탭하세요.</string>
     <string name="sina_share_pendding">전송중…</string>
     <string name="sina_share_success">전송됨</string>
     <string name="sina_share_fail">전송 실패</string>
