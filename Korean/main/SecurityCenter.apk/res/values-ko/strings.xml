@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="app_behavior_key_audio">녹음</string>
+     <string name="app_behavior_key_camera">사진 찍기</string>
+     <string name="app_behavior_key_location">위치</string>
+     <string name="app_behavior_key_protect">개인정보 보호정책</string>
+     <string name="app_behavior_notification_audio_now_one">\"%1s\"기록</string>
+     <string name="app_behavior_notification_audio_now_two">\"%1s\"기록</string>
+     <string name="app_behavior_notification_camera_one">\"%1s\" 앱이 사진을 찍고 있습니다</string>
+     <string name="app_behavior_notification_camera_two">\"%1s\" 앱이 사진을 찍고 있습니다</string>
+     <string name="app_behavior_notification_location_one">\"%1s\" 앱이 위치 정보 얻었습니다</string>
+     <string name="app_behavior_notification_location_two">\"%1s\"앱이 위치 정보 얻었습니다</string>
+     <string name="app_behavior_settings_category_perm">권한 사용 알림</string>
+     <string name="app_behavior_settings_category_privacy">개인정보 보호정책</string>
+     <string name="app_behavior_settings_perm_tips">앱이 위치, 녹화 및 사진 권한을 사용하는 경우 해당 권한 프롬프트가 상태 표시 줄에 표시됩니다</string>
+     <string name="app_behavior_settings_privacy_tips">앱이 연락처, 통화 기록 및 기타 정보를 백그라운드에서 읽거나 쓰는 경우 알림 메시지가 백그라운드로 전송됩니다</string>
+     <string name="app_behavior_start_from_app_single">%1s 앱으로 시작</string>
+     <string name="app_behavior_start_from_launcher">%1s 데스크탑 아이콘에서 시작</string>
+     <string name="app_behavior_start_from_launcher_single">데스크탑 아이콘에서 시작</string>
+     <string name="app_behavior_start_from_notification">%1s 알림에서 시작</string>
+     <string name="app_behavior_start_from_notification_single">알림에서 시작</string>
+     <string name="app_behavior_start_from_recent">최근 작업에서 시작한 %1s</string>
+     <string name="app_behavior_start_from_recent_single">가장 최근 작업에서 시작</string>
+     <string name="app_behavior_time_today">오늘</string>
+     <string name="app_behavior_time_yesterday">어제</string>
+     <string name="app_perm_manager_service">권한 관리 서비스</string>
+     <string name="notify_channel_name_behavior">행동 내역</string>
     <string name="warningcenter_action_check">보기</string>
     <string name="warningcenter_alert_home">위치</string>
     <string name="warningcenter_alert_room">공간</string>
