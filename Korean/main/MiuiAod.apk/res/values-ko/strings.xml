@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="btn_know">확인</string>
+    <string name="modify_scheduled_time">시간 변경</string>
+    <string name="more_online_theme">온라인 항목</string>
+    <string name="open_aod_mode">켜기</string>
+    <string name="scheduled_mode_dialog_msg">이 기간 내에 디스플레이에 항목이 계속 표시됩니다 : %s.</string>
+    <string name="scheduled_mode_msg">활성 기간: %s</string>
+    <string name="tip_to_open_aod_mode">AOD가 꺼져있습니다. 지금 켜시겠습니까?</string>
   <string name="show_lunar">음력 달력 표시</string>
   <string name="show_lunar_desc">듀얼 시계는 음력을 지원하지 않습니다</string>
   <string name="delete">삭제</string>
