@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+      <string name="cancel">취소</string>
+      <string name="category_other">기타</string>
+      <string name="confirm">확인</string>
+      <string name="feedback">피드백</string>
+      <string name="feedback_tip_cancel">"알림 데이터가 수집되지 않습니다."</string>
+      <string name="feedback_tip_msg">알림을보다 정확하게 그룹화하려면 앱 이름, 알림 제목 및 설명, 알림이 전송 된 시간을 수집해야합니다.  의견을 제출 하시겠습니까?</string>
+      <string name="feedback_tip_title">알림 카테고리에 대한 피드백</string>
+      <string name="function_description">이 기능 정보</string>
+      <string name="menu_setting_recommend_to_minus">알림 수 감소</string>
+      <string name="menu_setting_recommend_to_normal">"알림을 줄이지 마십시오"</string>
+      <string name="menu_setting_show_in_home">"그룹화하지 않음"</string>
+      <string name="menu_setting_tip_recommend_minus">"%s의 알림이 더 적습니다"</string>
+      <string name="menu_setting_tip_recommend_normal">"%s의 알림이 줄어들지 않습니다"</string>
+      <string name="menu_setting_tip_show_in_home">"%s의 알림은 그룹화되지 않습니다"</string>
+      <string name="menu_setting_toast_recommend_minus">"%s의 알림이 더 적습니다"</string>
+      <string name="menu_setting_toast_recommend_normal">"%s의 알림이 줄어들지 않습니다"</string>
+      <string name="menu_setting_toast_show_in_home">"%s의 알림은 그룹화되지 않습니다"</string>
+      <string name="notification_aggregate_description1">MIUI는 푸시 알림 및 판촉 알림을 자동으로 그룹화하여 알림 음영이 덜 혼잡해질 수 있습니다.</string>
+      <string name="notification_aggregate_description2">"Google 알고리즘은 알림 콘텐츠를 분석하고이 기능을 인스턴트 메신저의 중요한 알림 및 알림에는 적용하지 않습니다. 중요한 알림이 실수로 그룹화되어있는 경우 Google 알림을 사용하여 발생한 문제를보고하십시오  \ "피드백 \"기능. "</string>
+      <string name="notification_aggregate_summary">MIUI가 알림을 자동으로 그룹화하도록 허용</string>
+      <string name="notification_aggregate_summary_inner">자동으로 푸시 및 프로모션 알림을 그룹화하도록 설정</string>
+      <string name="notification_aggregate_title">그룹 알림</string>
+      <string name="notification_setting_menu_feedback_text">"이 알림이 여기에 표시되지 않기를 원하십니까?
+ 이 문제를 보고 &gt;"</string>
+      <string name="tip_feedback_success">제출이 완료되었습니다</string>
+      <string name="tip_select_category">알림 카테고리 선택</string>
      <string name="abc_action_bar_home_description">홈화면으로 이동</string>
      <string name="abc_action_bar_up_description">위로 이동</string>
      <string name="abc_action_menu_overflow_description">추가 옵션</string>
