@@ -80,9 +80,6 @@
      <string name="search_menu_title">검색</string>
     <string name="category_ad">광고 마케팅</string>
     <string name="category_content">콘텐츠 정보</string>
-    <string name="menu_setting_tip_show_in_home">%s의 내용이 홈페이지에 표시됩니다.</string>
-    <string name="menu_setting_toast_recommend_minus">%s만큼 컨텐츠 감소</string>
-    <string name="menu_setting_toast_recommend_normal">콘텐츠 추천 %% 복원</string>
   <string name="app_name">알림</string>
   <string name="default_list_type">설치된 순서로 정렬</string>
   <string name="disable_float_notification">"플로팅 알림 허용되지 않음"</string>
