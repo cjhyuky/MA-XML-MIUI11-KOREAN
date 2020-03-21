@@ -296,7 +296,7 @@
     <string name="usage_stats_limit_time_warn_summary">알림창에 남은 시간 표시</string>
     <string name="usage_stats_limit_time_warn_title">남은 화면시간 알림</string>
     <string name="usage_stats_no_limit">예외 앱</string>
-  <string name="contact_description">홈 화면에 연락처 바로 가기를 배치하고 탭하여 전화 걸기</string>
+    <string name="contact_description">홈 화면 바로가기를 탭하여 전화 걸기</string>
   <string name="contact_title">연락처 바로 가기</string>
   <string name="display_description">큰 아이콘, 큰 텍스트로 혼란을 줄여드립니다</string>
   <string name="display_title">큰 글씨 모드</string>
