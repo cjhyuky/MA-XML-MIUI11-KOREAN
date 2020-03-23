@@ -156,4 +156,10 @@
     <string name="permdesc_write_calendar">캘린더 일정 추가 및 엑세스</string>
     <string name="permdesc_write_storage">기기에 사진과 파일 저장 엑세스</string>
     <string name="permdesc_location_background">백그라운드에서 위치정보 엑세스</string>
+    <string name="virtual_reject_notice_content">개인정보를 보호하기 위해 빈 응답이 앱으로 전송되었습니다</string>
+    <string name="virtual_reject_notice_title_calendar">%1$s 앱이 캘린더에 액세스하려고 합니다</string>
+    <string name="virtual_reject_notice_title_calllog">%1$s 앱이 통화기록에 액세스하려고 합니다</string>
+    <string name="virtual_reject_notice_title_contacts">%1$s 앱이 연락처에 액세스하려고 합니다</string>
+    <string name="virtual_reject_notice_title_phonestate">%1$s 앱이 장치정보에 액세스하려고 합니다</string>
+    <string name="virtual_reject_notice_title_sms">%1$s 앱이 메시지에 액세스하려고 합니다</string>
 </resources>
