@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="productivity_add_event">일정 생성</string>
+    <string name="productivity_cannot_move_event">"이 일정을 옮길 수 없습니다"</string>
+    <string name="productivity_move_event_failed">"이 일정을 yyyy년 M월 d일로 이동할 수 없습니다"</string>
+    <string name="productivity_move_event_hint">일정을 길게 눌러 다른 날짜로 이동</string>
+    <string name="productivity_move_event_success">이 일정을 yyyy년 M월 d일로 이동했습니다</string>
+    <string name="productivity_no_event">오늘 예정된 일정이 없습니다</string>
+    <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">새로고침</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshed">새로고침 완료</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshing">새로고침</string>
+    <string name="miuix_sb_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
+    <string name="miuix_sb_tracking_progress_labe_up_nodata">데이터 없음</string>
+    <string name="miuix_sb_tracking_progress_labe_up_none">없습니다</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh">새로고침</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="birthday_term_chinese_calendar">"%1$s님의 생일(음력)"</string>
     <string name="content_confirm_close_chinese_calendar">이 기능을 해제하면 음력 캘린더를 기반으로하는 모든 이벤트가 양력으로 변환됩니다. 양력의 년과 월은 반복되는 이벤트에 사용됩니다.</string>
     <string name="insert_event_dialog_btn_positive">예</string>
