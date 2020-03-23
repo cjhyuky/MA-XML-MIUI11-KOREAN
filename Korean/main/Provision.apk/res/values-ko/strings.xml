@@ -231,14 +231,14 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
   <string name="service_policy">&lt;Data&gt;우리의 &lt;a href=%1$s&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의해주세요.&lt;/Data&gt;</string>
   <string name="service_privacy_index">개인정보 보호정책</string>
   <string name="servicestate_title">기본 서비스에 대한 진술</string>
-  <string name="user_agreement_declare">MIUI를 사용하기 전에 사용자 계약 및 개인 정보 보호 정책을 읽고 동의해야합니다. 장치가 활성화된 동안 Mi SIM 활성화 서비스, 장치 찾기, 홈 화면, 자주 사용하는 문구, 번역 서비스, MIUI 데몬, HTML 뷰어, 업데이터, 스마트 서비스가 네트워크에 연결하고 위치에 액세스합니다.</string>
+  <string name="user_agreement_declare">MIUI를 사용하기 전에 사용자 계약 및 개인정보 보호정책을 읽고 동의해야합니다. 장치가 활성화되는 동안 Mi SIM 활성화 서비스, 샤오미 클라우드, 장치 찾기, 홈 화면, 자주 사용하는 문구, 번역 서비스, MIUI 데몬, HTML 뷰어, AI 어시스턴트, 배터리 및 성능, 전원 감지기, 조요세, OS AI 설정, 권한 관리자와 업데이터가 네트워크에 연결됩니다. 스마트 서비스가 네트워크에 연결되어 사용자의 위치에 액세스합니다.</string>
   <string name="data_traffic_enable_dialog_title">"지금 Wi-Fi에 연결되어 있지않은 경우 기기는 모바일 데이터를 사용합니다. 모바일 데이터를 사용하면 추가 이동통신요금이 발생할 수 있습니다."</string>
   <string name="other_settings_enhanced_lockscreen_for_india">Mi 한눈에 보기</string>
   <string name="poco_launcher_privacy_policy">포코 런처 개인정보 보호정책</string>
   <string name="poco_launcher_user_agreement">포코 런처 사용자 약관</string>
-    <string name="mint_keyboard_oobe_checkbox">"민트 키보드 개인 정보 보호 정책을 읽고 동의했습니다"</string>
-    <string name="mint_keyboard_oobe_terms">민트 키보드 개인 정보 보호 정책</string>
-    <string name="terms_of_use_lable_default_input_method_mint">"
+  <string name="mint_keyboard_oobe_checkbox">"민트 키보드 개인 정보 보호 정책을 읽고 동의했습니다"</string>
+  <string name="mint_keyboard_oobe_terms">민트 키보드 개인 정보 보호 정책</string>
+  <string name="terms_of_use_lable_default_input_method_mint">"
 
 이 기능을 사용하기 전에 민트 키보드 개인 정보 보호 정책에 동의해야합니다."</string>
 </resources>
