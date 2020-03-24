@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">당겨서 새로고침</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshed">새로고침 완료</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshing">새로고침 중</string>
+    <string name="miuix_sb_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>
+    <string name="miuix_sb_tracking_progress_labe_up_nodata">데이터 없음</string>
+    <string name="miuix_sb_tracking_progress_labe_up_none">하지 않기</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh">새로고침 중</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">실패</string>
+    <string name="multi_select">선택</string>
     <string name="delete_conference_call_log_message">이 연락처와 관련된 모든 회의 통화를 지금 삭제하시겠습니까?</string>
     <string name="delete_conference_call_log_title">회의 통화 기록 삭제</string>
     <string name="contact_detail_more_calllog">더보기</string>
