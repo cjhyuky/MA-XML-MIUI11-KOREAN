@@ -9,7 +9,7 @@
      <string name="app_behavior_notification_camera_one">\"%1s\" 앱이 사진을 찍고 있습니다</string>
      <string name="app_behavior_notification_camera_two">\"%1s\" 앱이 사진을 찍고 있습니다</string>
      <string name="app_behavior_notification_location_one">\"%1s\" 앱이 위치 정보 얻었습니다</string>
-     <string name="app_behavior_notification_location_two">\"%1s\"앱이 위치 정보 얻었습니다</string>
+     <string name="app_behavior_notification_location_two">\"%1s\" 앱이 위치 정보 얻었습니다</string>
      <string name="app_behavior_settings_category_perm">권한 사용 알림</string>
      <string name="app_behavior_settings_category_privacy">개인정보 보호정책</string>
      <string name="app_behavior_settings_perm_tips">앱이 위치, 녹화 및 사진 권한을 사용하는 경우 해당 권한 프롬프트가 상태 표시 줄에 표시됩니다</string>
