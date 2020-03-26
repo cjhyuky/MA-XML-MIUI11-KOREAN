@@ -9335,4 +9335,7 @@ USB 백업 :
     <string name="wifi_link_turbo_list">앱</string>
     <string name="wifi_link_turbo_recommendation">추천 앱</string>
     <string name="wifi_link_turbo_recommendation_summary">데이터 사용 통계를 기반으로 추천 받기</string>
+    <string name="screen_dark_mode_smart_dark_3rd_apps_list">타사 앱</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">다크 모드에서 일부 앱이 잘못 표시 될 수 있습니다.  여기에서 개별 앱에 다크 모드 사용을 제한 할 수 있습니다.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_title">개별 앱</string>
 </resources>
