@@ -5,10 +5,10 @@
     <string name="permission_action_desc">개인정보 보호를 위해 권한을 부여하지만 빈 메시지를 앱에 반환</string>
     <string name="permission_action_tag">개인정보 보호정책</string>
     <string name="permission_action_virtual">빈 메시지 반환</string>
-    <string name="permission_upgrade_more">추가 개인 정보 보호 기능</string>
+    <string name="permission_upgrade_more">추가 개인정보 보호기능</string>
     <string name="permission_upgrade_privacy_title">"오디오를 녹음하고 연락처에 액세스 할 수있는 권한에는 이제 해당 앱을 사용하는 동안에 만 권한을 부여 할 수있는 옵션이 있습니다. 개인 정보의 개인 정보를 보호하기 위해 앱은 '  백그라운드에서 이러한 작업을 수행하지 마십시오."</string>
     <string name="permission_upgrade_runtime">"현재 위치에 액세스하거나 사진을 찍을 수있는 권한에는 이러한 권한을 한 번만 부여 할 수있는 옵션이 있습니다. 개인 정보의 프라이버시를 보호하기 위해 이러한 조치는 수행 된 후에 수행되지 않습니다.  다음에 관련 기능을 사용할 때 다시 권한을 요청하는 메시지가 표시됩니다."</string>
-    <string name="permission_upgrade_title">업데이트 된 권한</string>
+    <string name="permission_upgrade_title">업그레이드된 권한 관리</string>
     <string name="permission_upgrade_virtual">"앱이 연락처 또는 통화 기록에 액세스하지 못하게하려면 해당 권한을 부여 할 때 \"빈 메시지 반환\"을 선택할 수 있습니다."</string>
      <string name="app_behavior_key_audio">녹음</string>
      <string name="app_behavior_key_camera">사진 찍기</string>
@@ -3198,17 +3198,4 @@
     <string name="wifi_danger_dialog_messgae">현재 Wi-Fi 네트워크는 보안 위험을 초래할 수 있습니다. 주의해서 사용하십시오.</string>
     <string name="wifi_danger_dialog_tips">보안>보안 검색>설정>Wi-Fi에서 Wi-Fi 보안을 관리 할 수 있습니다.</string>
     <string name="wifi_danger_dialog_title">"Wi-Fi 네트워크가 안전하지 않습니다"</string>
-    <string name="app_behavior_desc_virtual_once">%1$s에 빈 메시지가 반환되었습니다</string>
-    <string name="permission_action_desc">개인 정보 보호를 위해 앱 권한은 부여하지만 빈 정보는 반환</string>
-    <string name="permission_upgrade_more">더 많은 개인 정보 보호 기능보기</string>
-    <string name="permission_upgrade_privacy_title">"개인 정보 보호 정보
-녹음, 연락처 및 기타 권한 지원이 "사용할 때만 허용"으로 설정
-이 상태를 설정하면 앱이 백그라운드에서 이 권한을 사용할 수 없습니다"</string>
-    <string name="permission_upgrade_runtime">"허가 신청시
-포지셔닝 및 카메라 권한 지원이 "이번만 허용"으로 설정되었습니다
-설정 후 앱을 닫으면 권한이 "묻기"로 설정됩니다"</string>
-    <string name="permission_upgrade_title">권한 관리 기능 업그레이드</string>
-    <string name="permission_upgrade_virtual">"연락처, 통화 기록 등과 같은 실제 정보를 제공하지 않으려는 경우
-해당 권한을 "빈 정보 인증"으로 설정할 수 있습니다
-개인 정보를 보호하기 위해 응용프로그램 권한을 부여하지만 빈 정보를 반환합니다"</string>
 </resources>
