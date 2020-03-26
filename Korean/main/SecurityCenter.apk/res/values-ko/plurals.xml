@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="app_behavior_desc_virtual">
+         <item quantity="other">%1$s에서 %2$s사이에 %3$d개의 빈 메시지가 반환되었습니다</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual">
          <item quantity="other">%1$s-%2$s회 빈 정보가 %3$d회 반환되었습니다</item>
     </plurals>
     <plurals name="app_behavior_notification_audio_more">
