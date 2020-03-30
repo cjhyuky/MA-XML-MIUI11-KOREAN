@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="choosed_title">선택됨</string>
+    <string name="create">QR 코드 생성</string>
+    <string name="createFail">"QR 코드 생성 실패. 메시지가 너무 깁니다."</string>
+    <string name="createQRCode_hint">텍스트를 입력하세요</string>
+    <string name="createQRCode_save">저장</string>
+    <string name="create_again">새로고침</string>
+    <string name="delete">삭제</string>
+    <string name="history">사용기록</string>
+    <string name="importFailed">"불러오기 실패"</string>
+    <string name="saveDone">저장 완료</string>
+    <string name="scanHistory">스캐너 사용기록</string>
+    <string name="scanHistory_close">끄기</string>
+    <string name="scanHistory_isOpen">과거 스캔 항목 추적을 지금 시작하시겠습니까?</string>
+    <string name="scanHistory_open">켜기</string>
      <string name="classesNameNull_toast">"강의 이름은 비워 둘 수 없습니다"</string>
      <string name="classes_canfirmTitle">결과 확인 및 가져 오기 시작</string>
      <string name="classes_company">가져 오기</string>
