@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="dialog_choice_specific_correct_as_normal">
-        <item>광고 메시지 %s개</item>
-        <item>통신사 메시지 %s개</item>
-        <item>금융 메시지 %s개</item>
+        <item>%s에서 온 광고 메시지</item>
+        <item>%s에서 온 통신사 메시지</item>
+        <item>%s에서 온 금융 메시지</item>
     </string-array>
     <string-array name="contact_entries">
         <item>이름</item>
