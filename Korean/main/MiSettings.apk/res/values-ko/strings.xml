@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="focus_mode_timer_add_limit">최대 생성기간 %d일</string>
+  <string name="focus_mode_timer_delete">삭제</string>
+  <string name="focus_mode_timer_exist">이 세션이 이미 존재합니다</string>
+  <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d분에서 %d분까지</string>
+  <string name="focus_mode_timer_pick_dialog_title">기간 입력</string>
   <string name="app_name">설정</string>
   <string name="application_sound">앱 알림</string>
   <string name="calendar_sound">이벤트 알림</string>
