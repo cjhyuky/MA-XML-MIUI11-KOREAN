@@ -1090,10 +1090,8 @@
     <string name="notification_ad_content">%s로부터 프로모션 메시지를 받았습니다</string>
     <string name="pref_summary_collapse_ad_notification">모든 홍보 메시지를 별도의 알림창 폴더에 표시</string>
     <string name="pref_summary_collapse_ad_notification_mms">모든 홍보 메시지를 별도의 탭에 표시</string>
-    <string name="pref_title_collapse_ad_notification">프로모션 메시지에 대한 그룹 정보 없음</string>
     <string name="private_entry_available">개인 폴더 열기 공개</string>
-    <string name="private_entry_default">아래로 밀어 개인 폴더를 엽니 다</string>
+    <string name="private_entry_default">아래로 밀어 개인 폴더를 엽니다</string>
     <string name="recent_label">최근 연락처</string>
-    <string name="release_end">중지 출시</string>
-    <string name="sms_card_partner_label">"SMS 카드 파트너 :"</string>
+    <string name="release_end">출시 중지</string>
 </resources>
