@@ -605,9 +605,9 @@
   <string name="auto_sync_account_title">자동으로 앱 데이터 동기화</string>
   <string name="auto_sync_personal_account_title">자동으로 개인 데이터 동기화</string>
   <string name="auto_sync_work_account_title">자동으로 업무 데이터 동기화</string>
-  <string name="autofill_app">자동이체 서비스</string>
+  <string name="autofill_app">자동입력 서비스</string>
   <string name="autofill_confirmation_message">&lt;b&gt;이 앱을 신뢰하는지 확인하세요.&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; 무엇이 자동 완성 될지 결정하기 위해 화면에 있는 것을 사용합니다.</string>
-  <string name="autofill_keywords">자동, 충전, 자동이체</string>
+  <string name="autofill_keywords">자동, 입력, 자동입력</string>
   <string name="automatic_brightness">자동 밝기</string>
   <string name="automatic_storage_manager_activation_warning">파일 매니저에 의해 파일이 관리됩니다.</string>
   <string name="automatic_storage_manager_days_title">&amp; 파일 삭제</string>
@@ -2751,7 +2751,7 @@
   <string name="gxzw_anim_title">지문 애니메이션</string>
   <string name="gxzw_aod_show_summary">장치를 들어올리거나 화면을 누르면 지문 아이콘을 표시합니다. 이 기능은 시스템 전력 소비를 증가시킵니다.</string>
   <string name="gxzw_aod_show_tittle">화면이 꺼져있을 때 지문 아이콘 표시</string>
-  <string name="gxzw_dialog_message">화면 보호기를 사용하지 않으면 화면내의 지문인식 기능을 사용할 수 있습니다. 화면 보호기가 필요하다고 생각되면 승인된 호환 옵션 중에서 선택하십시오.</string>
+  <string name="gxzw_dialog_message">보호 필름을 사용하시면 화면 지문인식 기능이 원활히 작동하지 않으실 수 있습니다. 그래도 보호 필름이 필요하다고 생각되시면 호환 모드를 선택하십시오.</string>
   <string name="gxzw_dialog_not_show_again">다시 표시하지 않음</string>
   <string name="gxzw_dialog_ok">확인</string>
   <string name="gxzw_dialog_title">화면내의 지문인식 센서 정보</string>
