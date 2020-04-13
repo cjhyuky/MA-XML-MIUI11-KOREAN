@@ -87,5 +87,62 @@
      </plurals>
      <plurals name="usage_stats_remain_miunte">
          <item quantity="other">%s 분</item>
-	 </plurals>
+     </plurals>
+     <plurals name="a_hour_ago">
+         <item quantity="other">1시간 전</item>
+     </plurals>
+     <plurals name="abbrev_a_hour_ago">
+         <item quantity="other">1시간 전</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+         <item quantity="other">1시간 전</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+         <item quantity="other">1시간 후</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+         <item quantity="other">30분 안에</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+         <item quantity="other">즉시</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+         <item quantity="other">%d분 안에</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+         <item quantity="other">지금 만</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+         <item quantity="other">%d분 전</item>
+     </plurals>
+     <plurals name="half_hour_ago">
+         <item quantity="other">1시간 전</item>
+     </plurals>
+     <plurals name="in_a_hour">
+         <item quantity="other">1시간 후</item>
+     </plurals>
+     <plurals name="in_half_hour">
+         <item quantity="other">30분 안에</item>
+     </plurals>
+     <plurals name="in_less_than_one_minute">
+         <item quantity="other">즉시</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+         <item quantity="other">%d분 안에</item>
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
+         <item quantity="other">지금 만</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+         <item quantity="other">%d분 전</item>
+     </plurals>
+     <plurals name="usage_new_home_avg_unlockc">
+         <item quantity="other">하루 평균 %.2f 회</item>
+     </plurals>
+     <plurals name="usage_new_home_total_unlocks">
+         <item quantity="other">잠금 해제: %d회</item>
+     </plurals>
+     <plurals name="usage_new_home_total_week_unlocks">
+         <item quantity="other">잠금 해제: %d회</item>
+     </plurals>
 </resources>
