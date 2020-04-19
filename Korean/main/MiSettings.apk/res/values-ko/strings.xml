@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="steady_on_screen_notification_title">휴대 전화를 내려 놓고 휴식을 취하십시오</string>
+    <string name="steady_on_screen_notify">사용 중단에 대한 알림</string>
+    <string name="steady_on_screen_setting">중단 세션 시간 제한</string>
+    <string name="steady_on_screen_summary">중단되지 않은 세션의 시간 제한</string>
+    <string name="to_authorize">권한 부여</string>
+    <string name="usage_state_add_up_days">일</string>
+    <string name="usage_state_app">앱</string>
+    <string name="usage_state_friday">금</string>
+    <string name="usage_state_monday">월</string>
+    <string name="usage_state_saturday">토</string>
+    <string name="usage_state_show_app">앱</string>
+    <string name="usage_state_sunday">일</string>
+    <string name="usage_state_thursday">목</string>
+    <string name="usage_state_tuesday">화</string>
+    <string name="usage_state_wednesday">수</string>
   <string name="focus_mode_timer_add_limit">최대 생성기간 %d일</string>
   <string name="focus_mode_timer_delete">삭제</string>
   <string name="focus_mode_timer_exist">이 세션이 이미 존재합니다</string>
