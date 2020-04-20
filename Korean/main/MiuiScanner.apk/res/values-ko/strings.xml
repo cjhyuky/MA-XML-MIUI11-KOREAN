@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="download_mipay">Mi페이 사용</string>
+    <string name="mipay">Mi페이</string>
+    <string name="mipayin_dialog_mipayName">Mi페이</string>
+    <string name="mipayin_dialog_more">더보기</string>
+    <string name="mipayin_dialog_title">열기</string>
     <string name="choosed_title">선택됨</string>
     <string name="create">QR 코드 생성</string>
     <string name="createFail">"QR 코드 생성 실패. 메시지가 너무 깁니다."</string>
