@@ -1283,4 +1283,8 @@
   <string name="xiaomi_under_certification">인증중…</string>
   <string name="certificate_alias_prompt_hit">인증서 별칭을 입력하십시오</string>
   <string name="xiaomi_auth_toastbar">기기인증을 위해 로그인</string>
+    <string name="expand_slide">사이드 바 확장</string>
+    <string name="go_to_mail_content">메일 보기</string>
+    <string name="modify_contact_address">연락처 이메일 주소 수정</string>
+    <string name="show_contact_address">연락처 이메일 주소 표시</string>
 </resources>
