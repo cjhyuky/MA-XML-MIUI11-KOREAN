@@ -1094,4 +1094,19 @@
     <string name="private_entry_default">아래로 밀어 개인 폴더를 엽니다</string>
     <string name="recent_label">최근 연락처</string>
     <string name="release_end">출시 중지</string>
+     <string name="copy">복사</string>
+     <string name="expand_button_title">고급설정</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">정보 없음</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">작업을 할 수 없습니다</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
+     <string name="not_set">설정 안함</string>
+     <string name="preference_copied">\"%1$s\" 클립보드 복사.</string>
+     <string name="system_permission_declare_privacy_declare_new">이 앱은 인터넷에 연결되어 있어야하며 정상적으로 작동하려면 다음 권한이 필요합니다:</string>
+     <string name="v7_preference_off">꺼짐</string>
+     <string name="v7_preference_on">켜짐</string>
 </resources>
