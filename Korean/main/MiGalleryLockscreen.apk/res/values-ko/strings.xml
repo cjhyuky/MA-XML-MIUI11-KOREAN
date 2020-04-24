@@ -313,7 +313,7 @@
   <string name="passport_wechat_not_install">위챗이 설치되지 않았습니다.</string>
   <string name="password_toggle_content_description">비밀번호 보이게 전환</string>
   <string name="permission_account_tip">계정 정보에 액세스</string>
-  <string name="permission_storage_tip">배경 화면으로 사용하기 위해 기기의 이미지에 액세스</string>
+  <string name="permission_storage_tip">다운로드 한 항목을 장치에 저장</string>
   <string name="phone_bind_too_many">이 휴대 전화는 단기간에 여러개의 Mi 계정과 연결되어 있습니다. 다른 전화번호를 사용해보십시오.</string>
   <string name="phone_hint">전화번호</string>
   <string name="phone_number">전화번호</string>
@@ -542,4 +542,7 @@
  <string name="toast_load_failed_tip">"항목 로드 실패"</string>
  <string name="wp_desktop_enable_title">홈 화면 슬라이드 쇼</string>
  <string name="wp_lockscreen_enable_title">잠금 화면 슬라이드 쇼</string>
+     <string name="permission_storage_read_tip">기기에 저장된 사진에 액세스</string>
+     <string name="subscribe_dlg_btn_txt">구독</string>
+     <string name="subscribe_dlg_desc">슬라이드 쇼를 보려면 구독하십시오</string>
 </resources>
