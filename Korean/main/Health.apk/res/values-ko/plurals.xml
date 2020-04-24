@@ -90,4 +90,8 @@
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d 세</item>
     </plurals>
+    <plurals name="dream_talk_segment_unit">
+        <item quantity="other">기록 중</item>
+        <item quantity="one">기록 중</item>
+    </plurals>
 </resources>
