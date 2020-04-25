@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="de_icon_count">
+         <item quantity="other">%1$d개 아이콘</item>
+     </plurals>
+     <plurals name="icon_batch_has_update_text">
+         <item quantity="other">%1$d개 아이콘 업데이트 가능</item>
+     </plurals>
+     <plurals name="icon_batch_updating_text">
+         <item quantity="other">Updating %1$d개 아이콘 업데이트 중…</item>
+     </plurals>
      <plurals name="aod_batch_has_update_text">
          <item quantity="one">%1$d개 테마 업데이트가 가능합니다</item>
          <item quantity="other">%1$d개 테마 업데이트가 가능합니다</item>
