@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="community_cta_dialog_cancel">취소</string>
+    <string name="community_cta_dialog_des">이 테마에는 Mi 계정 ID 및 Mi 커뮤니티 상태를 표시하는 시계 바로 가기가 포함되어 있습니다. 다른 테마로 전환하거나 시계 위젯을 제거하여이 기능을 끌 수 있습니다.</string>
+    <string name="community_cta_dialog_ok">확인</string>
+    <string name="community_cta_dialog_title">시계 바로가기</string>
+    <string name="de_apply_icons">앱 아이콘</string>
+    <string name="de_apply_icons_and_wallpaper">앱 아이콘 및 배경 화면</string>
+    <string name="de_icon_text_discuss">토론</string>
+    <string name="de_resource_author">저자(%1$s)</string>
+    <string name="has_mamual_hide_icons">숨겨진 아이콘</string>
+    <string name="hide_free_icons">"무료 아이콘 표시 안 함"</string>
+    <string name="hide_free_miwallpaper">"무료 홈 화면 효과를 표시하지 않음"</string>
+    <string name="hide_mamual_hide_icons">"수동으로 숨겨진 아이콘을 표시하지 않음"</string>
+    <string name="hide_mamual_hide_miwallpaper">"숨겨진 홈 화면 효과를 표시하지 않습니다"</string>
+    <string name="show_free_icons">무료 아이콘 표시</string>
+    <string name="show_free_miwallpaper">무료 홈 화면 효과 표시</string>
+    <string name="show_mamual_hide_icons">수동으로 숨겨진 아이콘 표시</string>
+    <string name="show_mamual_hide_miwallpaper">숨겨진 홈 화면 효과 표시</string>
+    <string name="theme_community">커뮤니티</string>
+    <string name="update_community_tip">이 기능을 사용하려면 Mi 커뮤니티를 업데이트하십시오</string>
     <string name="desc_more_online_wallpaper">온라인에서 더 많은 배경화면</string>
     <string name="lockscreen_desk_wallpaper">홈 화면 및 잠금 화면 배경화면</string>
     <string name="more_system_wallpaper">더 많은 시스템 배경화면</string>
@@ -14,9 +33,9 @@
     <string name="search_price_name">"가격: "</string>
     <string name="search_price_no_limit">무제한</string>
     <string name="search_sort_name">정렬</string>
-    <string name="search_sort_news">신규</string>
+    <string name="search_sort_news">신규순</string>
     <string name="search_sort_synthesize">일반</string>
-    <string name="search_sort_top">인기</string>
+    <string name="search_sort_top">인기순</string>
     <string name="theme_settings_title">테마</string>
     <string name="theme_share_app_name">Mi 테마</string>
     <string name="title_my_wallpaper">내 배경화면</string>
